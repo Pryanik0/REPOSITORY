@@ -1,0 +1,56 @@
+[
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=YBQIbispIgYkyRLe5nELIswgo7VbZJJOiQIlhjjFLlhjvIVYZj7-VH6tdKFpi-13ZBfSouhwS6feW4TgRvmKdsjWN-ns6fu56grAxcYVQ-qXJJE0Jz1RoavAbIsSuxzw_5WDCBoCdwRp1hgKIBlwbZzuxkbzRjHsnZnSCqmYYCHNGRKfQ6UHf-n7XZW42EAhzNIUTLhh_grrcEzO57IdS9le0u1dCpTyDdjLsysrjasJHQeJ",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Comcross-ebb4ce09\\bekanntmachungen\\publication-2\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Comcross-ebb4ce09\\bekanntmachungen\\publication-2\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Comcross-ebb4ce09\\bekanntmachungen\\publication-2\\publication.txt",
+    "index": 2,
+    "category": "bekanntmachungen",
+    "company": "SPIE comcross GmbH, Leonberg",
+    "title": "Registerbekanntmachung nach dem Umwandlungsgesetz",
+    "documents_path": "output\\unternehmensregister\\Comcross-ebb4ce09\\bekanntmachungen\\publication-2\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=rSu8s-thW_35JnBCVQ5RJRpXj55eOkPa9YPM3MWpH_94RJ0NDzmPHLbC-b5RIrKrVx2FgqvdBBkDnhhRDjFUzec9bnXmGnaq9ilcn7ST95m5dLugzDD2Fac7a3S7wvb6vb63QR1B4JERsbT9xghNBJNgXqBfxh-OPrMhXeN-frdVC3Bmo5Q2eSZdismQRRvkcWVGP2A8gO90e55byI6lmF_r0cZA4a1rM6BsbzpZ-wD0cxlI",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Comcross-ebb4ce09\\bekanntmachungen\\publication-3\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Comcross-ebb4ce09\\bekanntmachungen\\publication-3\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Comcross-ebb4ce09\\bekanntmachungen\\publication-3\\publication.txt",
+    "index": 3,
+    "category": "bekanntmachungen",
+    "company": "Infratech/comcross Holding GmbH, Leonberg",
+    "title": "Registerbekanntmachung nach dem Umwandlungsgesetz",
+    "documents_path": "output\\unternehmensregister\\Comcross-ebb4ce09\\bekanntmachungen\\publication-3\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=hy428dGnmj-XVVoVCLQ2yOCRPrijMISm5lAuHaINw9tf5mZO0MwRUYfk81uO5esxhhDNQ0cXhWCisyMrEfTXRcu3uP1qv9ZCkdJg3nV0E5AIig_QXtXAw5zAD2J-b37QM79s3UOBl2M2jBuE_9D14hR490XByF6iIqjoemzBvntbleuZJuIn0kKdFmHSs_8czZFKjp5oS48VoA6SvgUu6o54pIJ0i0DAZmK5E5xxFojXISVp",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Comcross-ebb4ce09\\bekanntmachungen\\publication-4\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Comcross-ebb4ce09\\bekanntmachungen\\publication-4\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Comcross-ebb4ce09\\bekanntmachungen\\publication-4\\publication.txt",
+    "index": 4,
+    "category": "bekanntmachungen",
+    "company": "comcross GmbH, Leonberg",
+    "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+    "documents_path": "output\\unternehmensregister\\Comcross-ebb4ce09\\bekanntmachungen\\publication-4\\documents.json"
+  }
+]

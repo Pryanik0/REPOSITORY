@@ -1,0 +1,620 @@
+{
+  "company": {
+    "key": "sea chefs",
+    "name": "sea chefs",
+    "location": "Hamburg",
+    "name_source": "company_name",
+    "urls": [
+      "https://www.seachefs.com"
+    ],
+    "kununu_url": null,
+    "branches": [
+      "Gastronomie & Hotellerie"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "20095",
+    "street": "SchauenburgerStrasse 32",
+    "region": "Hamburg",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T17:00:14.409775+00:00",
+  "searches": [
+    {
+      "accounting_only": true,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=sea+chefs&companyLocation=Hamburg&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ACCOUNTING&drilldownFilter=22&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": true
+    },
+    {
+      "accounting_only": false,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=sea+chefs&companyLocation=Hamburg&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ALL_AREAS&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": true
+    }
+  ],
+  "excluded_company_matches": [
+    {
+      "company": "SEA CLOUD Cruises GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-01-30",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=uzPdNjvvQ3xSSL6JF-oPd8QtazDuD-A-gQWrJoMUuVMllTlBDc27tUbcmKN1NeovW7a8jFCqAhQVGew7zmC28AHp_YTmrkZ8IXaEMTiuOuuIzw2luERYwnmXva-fF9vQaxDrnqKs5D50tw2f9OEgEm8r7gMZvZMVb9FIR5HdRyFG1ClEQhGEdV5ohcRjL4sIhKbPIFw5MR8dQB5zDiqYg7Awc96J_uyFT79NAheDFh8vS9Y",
+      "metadata": "SEA CLOUD Cruises GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 30.01.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "SEA CLOUD Cruises GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-02-21",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=7fsVvhX8gKRmyHSFpRsbCYsKrZoVWiWOGmD3a3cLa5msl4vC_pGIJlzpT_CTd6YOy9YhXeCW6iqWtAdga9o9S1wLh9fRwjzXXtB_4KICY5ef7Y9P5xkAPUs7FVHOBs3kcYTcVN2QXdYYoMRuJ9lMeH2Yn3YC7CpGnr2TgPQdt5fP-JTi9IwMVkDrlwHTv2OO3_vQmO3KD3BjIqPtzYO913KVmcxVDXeLK9iYKoVG-VdctiM",
+      "metadata": "SEA CLOUD Cruises GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 21.02.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "SEA CLOUD Cruises GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-02-14",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=-Gub9bNsweK0eaKo5p6K6UUaasrIB6NMOyM4umaL6ieyu-SvZXWuz_dDPzIFKhO_x_fnDZVmPYpYyK5tQn7d7yJihzP8zQ0hSdvB01nhDlBv6TJ9Rg0NMjtrA8HixtV8Bpn3AkFrKXjpmWtwfr40JA8KI4IU5FghcT4i0phe--Nfr0AovyslGmPRw3QX_6xtarIsXMo876CaiQqMKGUV05bx_hqYWMad4fChDOn2-ng5N9U",
+      "metadata": "SEA CLOUD Cruises GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 14.02.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Sea Life Deutschland GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2025-12-08",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=AAmgS-iB_jD4iVjmHRufMxwmUd0Uvz_LPnuADgYvyPpAG2_8IpipIVSUEapIGGZ6uP96-yUxRfnFsWPUF6wicKFPyXPiWnv1nAFjzRDvvLpg7ycuxpPvYoIipJ9ryPDpX9hOoKey4X-1nduoTcE8eGdaVllfYPJKiSPtnaQH32tjOp39tPgxoeA3UoueSNa2VZ2Zra3H-NCznwfFtApXfh-TvOo2h6LAp5wr7GXH2ymv4ds",
+      "metadata": "Sea Life Deutschland GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 08.12.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Sea Machines Robotics GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-01-24",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=cb_i9NI9FCdFUoYXi_RVmfG2ZArmqy5aivd4LtMRWxmRLsdppfY3_dVsiypIPZYkDMM47AWrz9_2qDSlnW63QQJuId1iMHdL48lFWahHkz-kGrZ6Uo0D5OXIvX6sFj9y7EUCpsuqVlYm32XjdAapw8fxUJP-TzzbgWAPALw1WMEA5ulCTTu9Xo17fGDSMZFPl3hFrUmFRAdzSPsnbuQi0toW6hbsDHzP2r5NWE7Dqm5vMQFa",
+      "metadata": "Sea Machines Robotics GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 24.01.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Sea Master Shipping GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-11-18",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=DjNHjAYSoOfYJxd2J9rrP6SsBaeCpqAKAcI52C5KWBjiXLKTdcL-ky_Xbl_O64PFr-zdy-s-rn5Pu-x0SlaNttYgsufbClSpd5yaDNXwFXPqNSYQ5vIWfDbMc81uVPFONSsxzm57OQpRXAIaLRQnzvaQY8u2qFBOWnAe2cJj1UqGt16x6Fn1fhxhMtHc-QbMSvkrn9nGcIwxb9WYXoLCfQmep37jRZq1Y0oVqK6XQmrpuCc",
+      "metadata": "Sea Master Shipping GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 18.11.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Sea Master Shipping GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-01-23",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=oSTcf3MDBrc95uUZNlqRSd4-U9bh8dkJ28yHw4nbRp0M76qKht0mmwuToz-VnGFqNwnOqXYiclPoBwWDrKzOyVPrWZHVASOYT2_6xxujdlSxEYOaHgNSLnWqSKIXCUYD4jf3_jm6CDY5tJhQU03vkXNizH4gDdgO-rjNDhIm8uWytCRhHmnvSx7ux0ZusXdwfHGFNWwU7yP2E9wZRm74LopF5sMStQ9kxYuSxqIetEccWE0",
+      "metadata": "Sea Master Shipping GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 23.01.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "SEA ME GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-06-30",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=Z2OP__3sncojvV3ZxZrvHKHv4DOh2keIib2no3WeONFSUqM7zXfdu8-cvN6i8wnsVvn657Z-HDl-jVcukvr5qSauCNTowKItziGDVTLxL2utAymqRs6GE1rmAG-4EYbbujuEtjkj8Ns9bTVrb9gsnfay6l85ROv37k_UcK6wNBEra_29NybwRY3P996LU0yAUzjLV9Tx1f6EE1CLKABf6_qhyyBjOQlz-iriuykhEE77DPa4",
+      "metadata": "SEA ME GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 30.06.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "SEA ME GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-11-05",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=_NzyNc6A2EgrzvVhQEFBp88vu10N1zyg7ONCnyuhEBu8032hrXD0OcMEaRWAY2BM8LnU8iPDPeHrT2LvpVMbhAKPLHLlJuptNhExbUhipmPufvRIhisvDvi4hrctkucDfCMSTc2qLGLS7-Mf2rg7FDfkL14aCizbpTiAxS-6ZHmcR9UBlmuIIbF65m3LnN7doLsEWR5q0H0Qa1CUip2KTZjmZJlLVsZQCL-kl8EjV-2UTKoq",
+      "metadata": "SEA ME GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 05.11.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "SEA ME GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2025-04-09",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=_kZmrh3CwQ1hXlryLcBm_gj0koSb3Z0X_NRIprtLMWfiA_hnRDBKs4OGNWn8nGk7bMlsGHEhotEif8Mat2U4gDrfWUad3lTJjJFKThsm-fvyPhM6uUmPSXOEn-C87mls1wtcNx2mj_vJ-4mUkWPLwErrWddS6_xCxtvAQVBUbr5HfUT2lAc2wLSpTIYBkjGo6k2FypKdq13KHoIwNP236y-Kxl8xaEYEdJuy15NpyjkGkqH8",
+      "metadata": "SEA ME GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 09.04.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "SEA ME GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-01-03",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=X2p1qGazLX8uwHQMDodltqJTqX_YunZAgT90LFONytZLDSiRH-u1dCWD2KnSzwwCvWiv3zjDJWpDxnRleidby2lgjWaZyU3twmiiX4sepiHmRyCGQOSQTIa2gFD2hRemRZN52lFLokCChDGaNgvOO0jSG1ENJsRivQOy7kvchulq2ylsziHbzmD5a0QUxPsarJRASVoOvoPIWfKhUrt5UNSey1Phm6ltWQiG7ABBz3y0A8wh",
+      "metadata": "SEA ME GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 03.01.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Sea Wind Management GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-09-04",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=FgVbZ04YYyv9WWijt6YdIh2lDoT9sQm2V9hYi_Fwxp240QUliIhno_zYZbm48KmF_Pz8oTxWtsiaWSkDQQf89zsg1pDA2nVs8m0ssmcsDQdFek7FBfHg8iIn7ChIw9f72t6NprEVVCOslxegNy_QYitia5cqJ-v2471M6EptvMsCLroWEXUiJMkVCMmVrNOvx7G8XnYE5p5yn1Grr3d6gmLRuj6hQcXFX88tg-yToVwdvnLt",
+      "metadata": "Sea Wind Management GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 04.09.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "SEABRIDGE Transport GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-08-20",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=2kHOtTeLpmIOI4D3Hnmv3GQ2LWJtSFvH2B1IJBT_fzjrkK0CTzUDdwQOHyEAVEnfyh8LaN-j7J4tNzN5mBMfq5_8fIPFom8zClvRcG-9QtI7SQXZyNSH_FZSFc9ug_j5pFSPsJU7OwsZRz2fs6YJYK5_aZmJEIOfnQLQA7Ph30aS6ds66BjdSd1hKpH5j15Dk_3tBQgyiu4hpKpylhhbdhEst5ORMRAnjApvOjMS1B_o5BU",
+      "metadata": "SEABRIDGE Transport GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 20.08.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "SEABRIDGE Transport GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-09-30",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=6NnwURATYu11CYmAzRtl7cwMBofRZZmGrxKUF95m4wrqyLWNJtfCEcs_cn5KIzillk21vvzxiC1aQu_qUos8c1kdZwiNmifAiYkVv6iqWlEuC86_iAqOc3r-qVHPi2lBEmaeXPe918tkLuUWYKj1xq5Re2LpOn8sbZbAamK-9MExABnWdCjZiPp_SnahJoc193XHK1dJGnDFNGF-zeTlmNCekUVu2KYlVxID0FT2hQey90Y",
+      "metadata": "SEABRIDGE Transport GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 30.09.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "SEABRIDGE Transport GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2024-09-06",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=ZNVs01IyPIf7m86bnb9YNu5kcQ99UQsk4KjIvobhHbRX894FYNZ2VwKzOl_65nx1bLshKFhm52XEA-NPsSe0D6MlorOw3-t-pmEmeMad-hqpx5GxJtQlJbgnO4xakB2dHVWu1wLYDS_gNm5Lk2oQOALZLRt_8ScEqs0FporlWeKNwSkrR8ddZPi-AdjPqxJlHlux8fYcMkU7EmpfKuF-DIlSaP_Hhkj6Gc-TFiHH0cwDKow",
+      "metadata": "SEABRIDGE Transport GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 06.09.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "SEABRIDGE Transport GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-04-17",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=sLnsxc0lsZN2TTT7p-wENcKQm4Zg_6O_rNAu8O4G_-eCy6UtFa2t58F5lXjzEKw36giUZB0PDkIdaTu4tET3IeNlmuKYw_VNzmRtogpthyQyIjhFBk4qHIJpASsKTv0S_k3fufQQw_sIcFXNJ-RC9obmAk8GA7xSdfd3w2K-GP7sc_Jtq1NzL9IcTMoHRl5gNTp_2CUGOfrEceSU5icjQLkeM6fCZiT9tZUNA3LyxAtAV4g",
+      "metadata": "SEABRIDGE Transport GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 17.04.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Seaco International Leasing GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-01-27",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=FFJTF7MbtvafNg7_0BT2DWsOMKLcmx1EtZhNMpQzCAgEHgsFMb5saxPmY7u8eZpeMIgr4w2GGFtCAe09jqLMC3oWugljtxlHl4KgJI6Ws3m1V0WEuxRAjae11-JagqpJP4wmDhTlCVBM738OTI8jsjSc7rhBdzKme5hL4-XVE6yF7o2Eq55oTUDBFcCm8mzOquETdWS1M-PjQbhatbgs3KjxCpFbImi0XP_NbLFESc02AN0",
+      "metadata": "Seaco International Leasing GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 27.01.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Seaco International Leasing GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-04-04",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=AjuRkvS-cB_4GK1ITLUaaGhFOGLI79LPlNpNf1rkGoUu3pzqZarguJHL28au1m7CVnfA3Fy9vNH9B-Z-W1wzULcZMowh2mL_Fbm1GOBU15HhzWkJ90nZ_rEpbWQhR_tE0rwejH7juT58a-kEEn925bSABwUgAw8ihtZzmE4Mj_0Aqw7CTr0u1c8-fL6_5XOrVyZsWHQLom0fszEK4GvaFhPktTcBypziZsBZNDErE29toL4",
+      "metadata": "Seaco International Leasing GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 04.04.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Seaco International Leasing GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-02-16",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=EOm5KBbL72aZlaghcNk2YcICNNHa6LNATPMPIeHyuS8LnBP40dCD6rKL-04V2X2u0kNd01knUcCQO0Dqz7JnHrdtdUQT3_qNw7JHnDlhsYZGN5CYmp1kUmfF5TN-ezrhMGmrKkRnynq5xkLIP5GQDYWRkqD4wmkew_9YeVXCD6rexG8OXh9UWiqMqj5bMEHWa5nMq2xikATrJa6-nqRT5qumuPo6EF2ATJLxfScOxm9NMXs",
+      "metadata": "Seaco International Leasing GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 16.02.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Seacon Ships Germany GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 15.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-04-22",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=AB7IK6ecq9mwp4Pr5vDEqI8UDMHhIGJV25dZ0uFsgwYttN8h2WQQtVOpurXELOVdMeMOT0gxQ2Ia06X0yohXB3je_KMW5V3j_rmV2OqDu-5Hc58XqdUTEGPVZ7eahJhQKPjuWKFqweGOIPddB0ZSqDTpMygIDcq_ssEme-2C6QEv---qKKulKnFrL3JeGubWCLZ5nkRnOPw8HOOy_1TZgLPOlzXtgGNVHy-rXdF1K3Lpo9Yy",
+      "metadata": "Seacon Ships Germany GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 15.01.2024 bis zum 31.12.2024 Datum: 22.04.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "SEACOTEC GmbH & Co. KG, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-10-22",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=Ul-6rsD4c8tFzJwQYo3rnfL5k3-xLagrJcu4IwwVdOmr4dfya31C-KBFD5EDxOJMzK6SreR48En4QeqhTgIeL0vnCWe4tLvYEosQ9JcLKLAzNQSNXheXofXCQuXqFFXSDsNQjyuCTKIV_NLDu7tzdsIjuZDCwfBDUnHedBI3vLSbe7qd2Nkxl1TPFe7gJ14fAz94lxig5AmZKF9jdf3BlXrdKptEBlST79SX2UHDEghrkbmh",
+      "metadata": "SEACOTEC GmbH & Co. KG, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 22.10.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "SEACOTEC GmbH & Co. KG, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-02-03",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=jBus78kXDc0z4arZDn5utFzCNHrfuqmX9NUcWpRWEKKMmBzjjbG-2IYevgBk2Fz45fIwGEK2l8DCSxvxHdqxs0C5Zzlp3Gwam0ggDj7NhwUfw-cyjSXPM-mmEKpQs7NzFmOAzIdcKYmLtLjeEGR-VJpBz384Lvxss5OEDhY2kmNyIvV1uwnElW_tV3wOoUJnmTxudO_Dc2TM8zZJnbiXVYnIyMmLR1ghs2hIbiE4_5JbrAqv",
+      "metadata": "SEACOTEC GmbH & Co. KG, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 03.02.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "SEACOTEC GmbH & Co. KG, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-07-09",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=MSBm8kVvxZgFC7nbUNPSTEp2VEtiPFMWwdqcyfV5J-b5A5xZhUJRvzaN838DnbC9Z8jbFrE98wXNTL7tWu8QSWlA-uZ1W4VprrxlhmU6PHlMPYVAEtxds_xHo6dEIzh4YgjUyFQolf7Gpu19z3r9CqwqB1I4kwoixMGcKdnnC45s1kODfPU6iPjqE4sD2BRer6NbTMH5dTVnOaT1QLa2KeCwddggLRgVxHVzjIyRVy-pawL0",
+      "metadata": "SEACOTEC GmbH & Co. KG, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 09.07.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "SEACOTEC GmbH & Co. KG, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-07-22",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=gr5_YKbZkcfkSOCqsjkCyeh4HIzg4aOHXmfvm9J5M3LYmke63EUhDiHQnu-EyA_fyZ2E_KNR7g2CS4ILW9lCN4nZ_MErRubKPMoOQ3I2vPsjG_eH4T1lvsk7FqcEHddb5yh_O62bdg7kF3nW2yVN42Mdn8QrURI3_BsGeMO2cqPGDkmbRkP0ob_p0eoemFvCMK3hxXRt46YPTQ31wKQ5WuzupeGq4u5D0gVT84e1sOQenZLL",
+      "metadata": "SEACOTEC GmbH & Co. KG, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 22.07.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "SEACT GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-07-28",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=RjKBUkzz1UU3mCACcguHDPU5erPPDuMBHGj_LebeDuogGEWzkvgDksjKq9XCTKIj6_29ZnRigtPrZoSRFAzYlO7fn1uS5SVuR0BUUpfhS1w-ZpIMfrjy3Dd14JGeOhjX4mbSQUIwsaJoOl4s6XaUmX1Snjp8n_5Y5D6qOqWAE_mFFtEcdsIIYYta2OgJEdlXXhuI4RmdeqvS0UjdDe9WYU86xRcQTQmZZuQsRQPxeTzB-tGT",
+      "metadata": "SEACT GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 28.07.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "SEACT GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-04-25",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=Ve8Esy4umx4Wme5_L8UbbbwMk2seOnlpPoX_8EPhXIbUuLdbcYBVl4n371aVP1euHWArFaKxs2da9IAkjHZZhky8PrZbecM09cpEGUs4AjRsZzQuFHFGS-30PeQHXozY9_aZFJUEM7YtD11Ts7Nq3KQH2A-Bzz9-EefrPIPolrUMXmUbT2_nzirNL-DdhvIXxvhgAtVTmVfEPeVx5_PrD3khK0bFiJIrwIo-5821Z1gXQBMe",
+      "metadata": "SEACT GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 25.04.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "SEA CLOUD Cruises GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-01-30",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=4WpsEs3u2OdZh2q_BMJoI-o-3Yq-tBMK2IgB7hIQJyi9u1hyJeL-AvqEZIRdai7JLEI_bWzpCR_0ZWWQDoljYww7hN0ydTXrfRfTVXT0g1rbxttB9lqO_2TGoa-q3IUT02cr8aEQfdu2D2_ilKdHcAi6IPTfCSyLBMNJ2CJFt1xgBzvuKze9uUYlPMmkFC-9b7zusSeRPPTjWbRq9d-eog2Ba41E8r7ox1vqR6CVHkncCX8",
+      "metadata": "SEA CLOUD Cruises GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 30.01.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "SEA CLOUD Cruises GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-02-21",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=Rsi1jmly_rk0fK31EYchunRkl-fqWB1tnWa2gF0BbIGlgXZm3zQ4dWhfnbAgqypGPMUC4qgFCH7BUJCc7z1Yq72IMdKeBTVO21BPv7iniZqPTAEAFoRMtZm3gW2IDDLGCg0-TRGE6F_Rd_MY4VoqbGlq2A4NVgvuZnfs5Oq4WT6Y_mTTb1LiskP5hrutkUsSvzJm98E1m9y9GFpWseFS45D-zmYAdteI-nJkcI2oiucamic",
+      "metadata": "SEA CLOUD Cruises GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 21.02.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "SEA CLOUD Cruises GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-02-14",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=f9zLQBq_8iKLxd6ytb8ERjQog5egc8QxVzq5fho2Qe3BZKqfQoYewyK-QQAVbLMbbr1amE7-Cgfka2iVdkGSUZFe5YA-4CGqCXeJov9mj_Cqh-BwFq456rY5LmzR8JH5AmGiKf_3iZqsrq39eQ3twM0IiUjyUNtE3_Ow9vIOLjrCOhwiRhDXB04FqWx8Td6VzPG_OzveTQf5Wwu1Ymkx6oZFDLj1F-pOJko4fYLTQcKW_Bk",
+      "metadata": "SEA CLOUD Cruises GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 14.02.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Sea Life Deutschland GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2025-12-08",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=uvRLVE7-uhQj9La3DUuyNDkRf61U1Xbv3Ss67t_NfHIZhUOdTtnhI79ClEJy3Go2Wtc-r9EJgtPFdDE6nAtuE1znrsz9AnoG3UDVuAySx9srpoZefLGB-tkJ1KDJz115qvKRKSp_HYc8BJvU14zidngPTu3xo-XFupyiabzTPppTU6pUctfKCTKufE_RcVjXv3sYSQAQNOviSTxCUyKZ7obF1r6D7RO5_kJ-_eylyz_OVl8",
+      "metadata": "Sea Life Deutschland GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 08.12.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Sea Machines Robotics GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-01-24",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=w_xd9YkvJSCwft-Lcog-LvqEf8QDbgyRrKcEcdB6n3o0w_yvUmJgvoXz8SP69PqrWbqkeC7Qzu6ZM-NTJXM5DY5FjvbBg8c1fPD3qQgFp93gnDpc66fdje9qiYoh9QdpjwRnmcV3XiVfXsJ8fJLSb8tv5_yvbzYB__kvVFg90gz-2g1q-iJ6mhh_S9QKNN1RzptW5XQSGK8lyug3dCpEweaL-i48dqwkaXHoIIVtlyxas9Ef",
+      "metadata": "Sea Machines Robotics GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 24.01.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Sea Master Shipping GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-11-18",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=ZlGjrhsrRWWA0yEvInOEbc3sLGq-OPt1pphaV_At1F_ganRchFg4JL_NMafdypCDOcvZQpNTGhiJvkL786BCKfnpq61qBOC-mzoMrbYkqQKh5Ppp2AzP8WpW1sAovAXvgLNH4IFGR4XB74q74-259SWZZOOdwyflxPotFOIZpCd2UwY_fxDenGC7oK5PhxZOA0WtHY3xoO2UGAutHT4K6g1Tu8Wp6SdFOo1VUUphO8I2hsM",
+      "metadata": "Sea Master Shipping GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 18.11.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Sea Master Shipping GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-01-23",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=FFKz2zAw1k7cdaB2MKbV9g9upbWsUtqxZ3SqXKPOtBqPCfSyTugMgDssfWenEU9wZ80i9spamNBcGhPgMIbcJg3sw_SVJ4kJCd5IIOL2kIOwZ7OqlE8us1jOQfdVfpdPAbD7rHm7zQkKg1FJtAm3O_cDdBM8kvRBrkMSHObKG3LvUkvTxj50fPvcV8pAbZ_swNEnwJVg7rEmIMaukcLvjyKrQBYIjjRK4TfETQKcPJFJ174",
+      "metadata": "Sea Master Shipping GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 23.01.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "SEA ME GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-06-30",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=LdWIF3vfBA5yDn8IkVKqxrhy8aRtYVkYllcu2GFzJNUDQMO1nudkCeil6JiG4gqrjjEKD3Zmr23qfXlbzIp8nfSDNzqlYqL_jyxa1a-sl5d1Q7YfTp5_Jh4wq-oT243THNwfLQ21IdG4j36OEHljF1B7euLZGqhYcNKHL0sh1x7rVJwG6R5OX-ud8-3gKxf3OvgEeOiGPFT6xFMGPof3sRp6t_QgMLlrDedF-hiZ1OL-fPWz",
+      "metadata": "SEA ME GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 30.06.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "SEA ME GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-11-05",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=OgKKOvvwTFr7LkgEFv2BPt4Y0yH9tJ7dc1UNYn6Vps7eHylMbVCXuECTEh-9KlEPxdjqhoFf7QEDZhJPAlzJqf2lPqt9t3wgWJ0NOPcwQtoaq9nm2IBaVlfzv866Zv6gQDLDGZ05nz9ztY5kK8yak9Xfc6dby5omiWqqJjReiMgDye0jHxhhMNkjeLGOzw8mwWK4BK_UHKNDezJNkspsQ3hyjaSoF4sTus9XQtCiE5LRjQQ_",
+      "metadata": "SEA ME GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 05.11.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "SEA ME GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2025-04-09",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=kGJsRWBaVOumQ2MYPCN4x9qnC8eORscu9fC7eU5FNbR43U6oNsxZDFFyA8RvB2VKO2vkgm3Ei3UDYXOrTRYeiX7rKx7MERYFrIStxba76of7TsTcBf3Md3Kzji78cezSSX7Dk5-ZLxx3tr3nEJNP0b1qBjDjKOPm-FPVXcoIA2zYPqKeXRbWxUeEuqNNA8AXOIEeZXHttjQd6v_HvLRY_f5HUxCQdKXCsKPwoDhGJfqq3brT",
+      "metadata": "SEA ME GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 09.04.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "SEA ME GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-01-03",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=KCLhnz4qTvX3Od1RuwsgkHWXN433R5wUAYRlKzl7SkR-snqVGeb1UH_wHxLDUleyMr2k-y7vXY2GD6sT9w66bsYWlEXtoWJJrlRZBFPySKui3r765e1S8c8bnC221MdG6vPJT9ggsA7qNU3nVHRu8VwSuvHSP4nFpLqppD8Qiy31HUfWfKUbP_8-Q_FqB3Q5nWznemeWW8497TTreW9jr1uipcJveM69o90hekbq-1ohxgBo",
+      "metadata": "SEA ME GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 03.01.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Sea Wind Management GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-09-04",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=YD7vKiZhgBmkLxyBn1p2C6_pTtsRnq46CxnwfqySMF9LV-j3FzdDJkHv7tSbvUYsMFsn8jqVyt2VT7snvpsgl2rOQ5dbGF74F-nZ52AYNsVNKk_-41LKdHn15pVxpGuRvxm_u-BbsoEiw2DgIXwDbVJURcHlh9FDDEnCWduGfufi47O19g2BxQHveGgeuztra2M6HHtUPlvX-nuv3YZR1PnidrECA7_plI4FA35b0-VGTXqp",
+      "metadata": "Sea Wind Management GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 04.09.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Sea Wind Management GmbH, Hamburg",
+      "title": "Registerbekanntmachung nach dem Umwandlungsgesetz",
+      "publication_date": "2026-08-27",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=jfSSsmE59EUpeeSHiS1_cFI-WYdmNRQtmyaTiY-HSe_K67dr8H8nDekbp2zQV-EZQUzqbUPdzWa6-fplTX1lULZ5ew-RUZZ9xP_OdHdVN5LtPfHlNkRylRGSuxlYk2AgSSpc7SbSKEKuveDsPpbEH0utBI7GmvyeG3F5Ql7ItkmyVs9_abNsoM5n1wbjesmAjraH-auB7I5dgCjaP94tgSWHpQOMrg-CQ6zzvrY8MPFH8-cg",
+      "metadata": "Sea Wind Management GmbH, Hamburg Registerbekanntmachungen Registerbekanntmachung nach dem Umwandlungsgesetz Datum: 27.08.2026 Sprache: Deutsch",
+      "source_area": "Registerbekanntmachungen",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Seabound Experts GmbH, Hamburg",
+      "title": "Liquidation",
+      "publication_date": "2025-01-09",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=0bSnlvjh25H9Sx5zkKmlo7GHBkspKL9AFBCTUxzH_uKcTvQtySyGpz6K1PdUEEb3iQQulwgZ64E1p6ljLxYHz2g-leQ2u0I99Yf8lqb_pyEuFNcGXCadypdovD0wv1Z0UcUERaUYBRWGwnP5NncX6AtcgXLyICAHIBKHen1JjENvwYkfbIYTH3kVD8MD2YkY086NNCMpZe0DgWqpPFdAjuIeMoUob65qVmdKCHKPk8xzUCCO",
+      "metadata": "Seabound Experts GmbH, Hamburg Gesellschaftsbekanntmachungen Bundesanzeiger Liquidation Datum: 09.01.2025 Sprache: Deutsch",
+      "source_area": "Gesellschaftsbekanntmachungen Bundesanzeiger",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "SEABRIDGE Transport GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-08-20",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=WVL2nW2oaplkcsrK29PfgjPr6nHxAHGXSUI7gnPqykEr2KCyvVBS6dDuMkXDYLik7eu_GMi52oN9RktQxCtDon4YoEWF_w_JEnP2_oQQf5Y3jGjgB7rEBStHhA35IOmVmDjzxw6qqkZAPcper2IiCuBny_HKIg9LhDh4g-Jq7c_pp4R1SuuFKEpUXYpsSYRT0KwwNXyvTPo04_R7HaMU0c6CSQ3J9hQZvrCODG5DbN57nNc",
+      "metadata": "SEABRIDGE Transport GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 20.08.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "SEABRIDGE Transport GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-09-30",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=hARMkR7seUvfOqhai_gGdtyKy5oGGzrrcXVOeza_4-aD210yIF2IGAsqs6dd7Osb95m7ghxxizsb7YVeYbt95_BhpCBsjoGcii-YEIlhv8FiFk445sZxH-Qnf28tzpAx_j5MZjlh0IkWNObrhzMvPkx0Zg68lzfu8joQkJXrQTl3fwHaC4blEgSLUGbzLmVl_Sv0BqNPBEYh-FAzTw4LH7B8NShXj4vCV0Twaew_p0phCtE",
+      "metadata": "SEABRIDGE Transport GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 30.09.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "SEABRIDGE Transport GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2024-09-06",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=BaejH8_Skn5myj_PuNZWkPN9rHRbl3MQ5ig0dmFxArfal2ivvzq3AHXrYUhbG9XKDK5vYpCHovvse2Kp2jIImgkx0Tddce9cGMAuV2dSa9J70daZxvP8txB8FkCD3XhWq5F63l12qZblbCIT8FVHgwUmy54SP0K5xtDY-CmXXOADwlcNWJW--wNBXJdIkvtE0PfUl1yya8eImMJttBWVxoQcCtw8YXOPQuCh6J2x7NheR8w",
+      "metadata": "SEABRIDGE Transport GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 06.09.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "SEABRIDGE Transport GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-04-17",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=6mFQNhX3i5dahi6MLsW39ENe64fsu5qM_HxehMDx8Am1hpJAIgrw3Q9bdr04HxDzMUL2CBzYVMoTpJZrili2Yf7OboGu3-vJqq80Fp8scJOWrHL9zZhmFP928yuEeYBafATYX3UReKBcGqEXgcqI8CCtyOVL3fllXbe59UVlONJgkUPrKQ_xWNSnDSqjkTp6jwm2FKEPfU6Dj17WIAWGeghdgSrDS3-jH78vSCXcEnu_i4g",
+      "metadata": "SEABRIDGE Transport GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 17.04.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Seaco International Leasing GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-01-27",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=jJcgCfQrEIgoX6I2mOmpB_o1VBPX-kLDKnt1wWk74p_46z4iTYQ35ffHy2QkH7nveRHr2NTkOOrLCrrR32OhHzLyWDWyTQOw3qBWTqnLFdr-Ide0iNs1V9mzrjgF1w7xx6QzZfmInf4lMeXzNhylCe29G8GLiqgttsV8mOwz9puZCfm-gHN7KNQnCjdfuEoACoRjhFjg-mqgIRw6MJN0XyYl1QyazEopYppB6s3Di2NL0ZY",
+      "metadata": "Seaco International Leasing GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 27.01.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Seaco International Leasing GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-04-04",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=FjupZ2LJwqehjXbX2M1ml8d0KFWPJ0PLoKHraLwu3Y8fgs0L1818fW7Q2YtdQM5leVWleuXqlYrFZ0dGZhJjkNCjbaSzyZAzn9gXnPS8Qa4pMTyYNy3nJB0t2yT-PIopJbh84gvB8ilTtKv4gJauDqdXpdZ4JwdTVPMFiJuIkziVOFf5vPiB6qkzRQvvN4sSmrKcDT7Iiv0KQoXxdUffKeaMHo8rg-0R5lh5ODNDsxW3wHo",
+      "metadata": "Seaco International Leasing GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 04.04.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Seaco International Leasing GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-02-16",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=-vNeAMgOpap1yml4muHGGb3Hs0NoEQHwvCztnz_PPjUdHOGDe-d0cO2TPxDZ5bBlefco_5gkOl76IiCdkTxrTHIJ650DL53D05ib2wzI9h0YBidxK7iHfdpSJA6IwsQWkg9mypY6AEODUe9clL64HV-3h_Hf6ddD4Rmu0GFYqo3ooev761ypPkuYm75FRZUmvEufIVvp12gNDJb8TUHLril6u9S8qF7_NoeqzaEiyj4t12c",
+      "metadata": "Seaco International Leasing GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 16.02.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Seacon Ships Germany GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 15.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-04-22",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=uj6X0lVIZr-IdqDtMuIaO-rDlMW-lfPeAHFo9xTnnJ_8GCZe9AaJemXlb-ulw2xt6YmhKVTWIS1acBsR19a4jYE70AsKoZUTMeT90bbhZ_tLVfYQmnn6S2IOERu7dsGZy80s8w1KMgbq5mgeaw8RIsqgniFVO-RhmKT_WsypdKvXEhzfhx1JFEamb5WG3t5lAxWzkamjtImnHn6PAcp-xIRicuzf9aROYexgL-uow4jGFOw0",
+      "metadata": "Seacon Ships Germany GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 15.01.2024 bis zum 31.12.2024 Datum: 22.04.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "SEACOTEC GmbH & Co. KG, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-10-22",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=FsJIvUdu2tE9f-HI58iLMi1MshGdKhXBZhekVrM6QMcxmSEgQFRasBzbH6EmDoaO9VYawCZMWnIc7_AQil1Q2KpyAX4y9IjnatI4VqamcsEFhljZUbSKQtbcwpS7Ufu-k1596_KGqS2FmhLJXRpWveVxmsJrH74ez3qyBG_64EtyKaASM0E1gtH6eqVrcjJzNsEvRR1GvpyACg8ti81CaZCFMvU2sRseJRcAImAl0mALINHk",
+      "metadata": "SEACOTEC GmbH & Co. KG, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 22.10.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "SEACOTEC GmbH & Co. KG, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-02-03",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=mUBFPMGo4o47i0fpdoxX9-hxgI5wUjHhTayihmzE243pmm90hm0FSxcJ2PJH8PftpxArR3d6IHH2E7y3lDdlNXPUvNfPt-xcHPDhk8iXsYWagRUz0WaB1_RcnZ9KPQwXrKJ9pkWWpchyIPy2FqFcdDeT3zqUGOHlpJrgTYWwOVy62lLExA5GwT4D9R0cMAqEGXGrMOHt90GPzavPSIZ8VrAjiAO2bIHcQRFMJ0k4UqMJQppt",
+      "metadata": "SEACOTEC GmbH & Co. KG, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 03.02.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "SEACOTEC GmbH & Co. KG, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-07-09",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=rxz1XN6CJt5LwpCa8flURjvy-SvAoUv9xKX6UKNCFC3iHgrOfBE1vCyiyyyvz2JZcyqchhK6Kgf57GjDsoyiwFvfY4e_IXD3ziyDvgyxQbje0t-QgrRa9OdzNw1VHy07h1XZxy4V_UonqBcouEJ_ZbJwN10SnbWbCvkZG_ENQSPkLd2StyJ1oXitsfe1TQq2urDU4ZGc-ALusWALMXZbglBs4iOgOsx_Nkck_SZ-sj4dUCoB",
+      "metadata": "SEACOTEC GmbH & Co. KG, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 09.07.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "SEACOTEC GmbH & Co. KG, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-07-22",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=RNRexjvbDrp36KbPaW77NCAsVaYN73KaY9a_CsGpeZCiYjD_-PCnyttZA1TBhBzHx_OPZ7Du5CAl530VAQ6eA0jQTgbAGAMXM2TtKDI3RamIknxDgDHAdX3aqfL3b1GUWnW1hV8j3-NkIuIaW_hgrPCXsZ_iC2VifiWeH_TwBeTpNaP6QTxfnbQp1FTxpmz7Ubquh04OV7ynlkf28RqNcF0MV_i36aRkStz1FUADt6yhOvjk",
+      "metadata": "SEACOTEC GmbH & Co. KG, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 22.07.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    }
+  ],
+  "date_from": "2024-01-01",
+  "date_to": "2026-11-25",
+  "excluded_dates": [],
+  "max_publications": 30,
+  "truncated": true,
+  "coverage": {
+    "search_complete": false,
+    "more_pages": true,
+    "publication_limit_reached": false,
+    "downloads_selected": 3,
+    "downloads_succeeded": 3,
+    "download_limit_reached": true,
+    "downloads_complete": false,
+    "text_complete": true
+  },
+  "publications": [
+    {
+      "company": "sea chefs Cruise Services GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-08-19",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=C2Ouf2e98HYd7lA3MDhHQ65eqsxKcNvlaqrh9FelBEhfSjrjj9W63EGrbJRQY3xbPLMaQUUYwZEwvglPnUpOW3adyiTgkrp9afm0c3LMURpVKsqapFyiVs7nT4iGxY6r7sv6QYYKlmfLX2BaRTB3bXddMdX_SIcQCs0PJcVwbarL791LHqQ1uaftY5sKD4s0FWK2aclKZrPonJRtzRcnQhW5K5dDnxGJNU5_bKsqOk9Yk44",
+      "metadata": "sea chefs Cruise Services GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 19.08.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 1
+    },
+    {
+      "company": "sea chefs Cruise Services GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-07-31",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=19UNQ-DcZ_zCU53QLOykvlS2V-M7GwhrbZuIHUQoFANck2k0DFTAaU46LVdL1VsoZIkAb1ZzLM51GaOH_zOeIjSTOA0tMbVd03HjXm2GBaPXOE95VbCB3SE04wQpSf0zURP0yxLE9j8MaEi__2Eww8WXXmzFEeUGR4EkF4vyPCquwXuGOKaiGbD5bnQqCI7NvOE7sP5pu6KMGtzIFOmwWdC-83fzOQHG7ph_UI5npOGP_sI",
+      "metadata": "sea chefs Cruise Services GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 31.07.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 2
+    },
+    {
+      "company": "sea chefs Cruise Services GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2024-11-12",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=LAGPVUq-rmhJyTTiPfyh2RogVD-2p4Up4DCh2eqKk6qE4XmYchUpsRQMTloAP1Xhtqmqj29jhYVpCwoCsddLNPfNcP1PK84Su5exYaqS-J82LisXGFV4tSPtfeyIKNjPLFM027AUwnP4DFAfp65cZfyfjFnQjAkaKel4szXIsFYOpBkt8QfAkEkP9hQxx5vpeem9Pr_z9LNPNMPA8PijpnIYlh-ONEDuxiiDB51ORelKQxA",
+      "metadata": "sea chefs Cruise Services GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 12.11.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 3
+    },
+    {
+      "company": "sea chefs Cruise Services GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2019 bis zum 31.12.2019",
+      "publication_date": "2024-01-23",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=5a6rLjtVroVx9Yvfpcwq56sOhb7-U7wE-arRFymjutVKiYUlxv0E5sbl97bfmi_mkBh_lYTYiyy9G-0dam94aBbg0zORe2KHLQhNM3Vhu5KVvDf1o2az57fvMsDMiXNdzodgA0BIeBvMop4U_4ymCpc_hn6Nfywq6LNUgJEZvHJPP_iVykqqo1QBRpGv51DTmYEJtiRowuxyaNuCsRt1JZwRCqCHC4iq9IGyPCGdNwbT4XA",
+      "metadata": "sea chefs Cruise Services GmbH, Hamburg Rechnungslegung / Finanzberichte Bundesanzeiger Jahresabschluss zum Geschäftsjahr vom 01.01.2019 bis zum 31.12.2019 Berichtigung der Veröffentlichung vom 05.08.2020 Datum: 23.01.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Bundesanzeiger",
+      "category": "finanzberichte",
+      "index": 4
+    }
+  ]
+}

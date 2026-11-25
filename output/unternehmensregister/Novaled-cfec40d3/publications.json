@@ -1,0 +1,99 @@
+{
+  "company": {
+    "key": "Novaled",
+    "name": "Novaled GmbH",
+    "location": "Dresden",
+    "name_source": "company_name",
+    "urls": [
+      "https://www.novaled.com/"
+    ],
+    "kununu_url": "https://www.kununu.com/de/novaled5",
+    "branches": [
+      "Chemieindustrie"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "01099",
+    "street": "Elisabeth-Boer-Straße 9",
+    "region": "Sachsen",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:42:47.530073+00:00",
+  "searches": [
+    {
+      "accounting_only": true,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=Novaled+GmbH&companyLocation=Dresden&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ACCOUNTING&drilldownFilter=22&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": false
+    },
+    {
+      "accounting_only": false,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=Novaled+GmbH&companyLocation=Dresden&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ALL_AREAS&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": false
+    }
+  ],
+  "excluded_company_matches": [],
+  "date_from": "2024-01-01",
+  "date_to": "2026-11-25",
+  "excluded_dates": [],
+  "max_publications": 30,
+  "truncated": false,
+  "coverage": {
+    "search_complete": true,
+    "more_pages": false,
+    "publication_limit_reached": false,
+    "downloads_selected": 4,
+    "downloads_succeeded": 4,
+    "download_limit_reached": false,
+    "downloads_complete": true,
+    "text_complete": true
+  },
+  "publications": [
+    {
+      "company": "Novaled GmbH, Dresden",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-01-28",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=4pSeo52ngIFlMM-teT9T4NbJClYeBuqXgDITfanfwMOPhCRkmJ2D5FZWn79R6aMO7RvW2X_iE2H2p52XdXjcpsXXYXtrLK2QAj-02RbjMv8GlJk5Gv16aAhWCuaLPvgpax-qAFeOnNs5JFaYnoSUBX7BbiuznZOQp6rV8T1U_Q1ZH6lS3xnS3ebxLvPLgpaFIeGED7cDQ0FyhFTcoG9s5ldVPbVuyoj_KSd5Gya3ql93KNa7",
+      "metadata": "Novaled GmbH, Dresden Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 28.01.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 1
+    },
+    {
+      "company": "Novaled GmbH, Dresden",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-02-13",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=CGj1JHchC8NggB58N-bDaaNTUsJ4OXRdXtLoIveclUn5LqYdHuYW3BmuMcGNk_yIPRP22G0rk9dBfy4Upk3AReTZD582c2ih0Z9ArCAEzPz20RywxIfKrY8R5BXpZFz-6C851ovI--mWrc0GFnuNuWftQoKPuew0sZxwx5C_aunyq9x_vG7OZglY5nisk8YaVfCOwglt7yQhea71vp2tj4IR05pTiPSaAQzT1oEfMnTs4VO_",
+      "metadata": "Novaled GmbH, Dresden Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 13.02.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 2
+    },
+    {
+      "company": "Novaled GmbH, Dresden",
+      "title": "Sonstige Registerbekanntmachung",
+      "publication_date": "2025-01-21",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=gKGUBRBQPkkirU__OBr8PzMa-KoYWfkj4tGbWYtbrLycUlqhxM9-C9VGIbXmTBGn4YkwY0iLUJleAK2tvHdH_kSWZkX0Q0KGf4JvrMluZCyb7g_tllJgeEkbs1iBpMgrb4GmBTl_HHzqrThFueJKHFJBjgK71sVisJdqqMf2Gkj7WrXWlMGv4Ja7Y0MfJIIk-BnAB37Rt1nFJPlxVIVtug4fjySsbr-c6cDzrFjEBWZu42pV",
+      "metadata": "Novaled GmbH, Dresden Registerbekanntmachungen Sonstige Registerbekanntmachung Datum: 21.01.2025 Sprache: Deutsch",
+      "source_area": "Registerbekanntmachungen",
+      "category": "bekanntmachungen",
+      "index": 3
+    },
+    {
+      "company": "Novaled GmbH, Dresden",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-03-05",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=0ctNV9ntTt2RCwYCvQda1vLM65pHJOXRW4j2tlQGeljd0mN_Fi1aTIcMu8e7qruv9T_Vu_tI-Lj_o-RyEaiGWJzGlSFWm62zPL7XfurDpmARuPjEsO7dJRlWKi26NjnBf2c8738K3td2av8Xh3KypoFWw4XzIXTKe24eoR-yIo9wFKzYfZEsDlY_1zw6fP3O4_l_Mk1YtjuH0PCzwV6C8xQkaZEJkcZITr9x-f55Pgx5o9z0",
+      "metadata": "Novaled GmbH, Dresden Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 05.03.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 4
+    }
+  ]
+}

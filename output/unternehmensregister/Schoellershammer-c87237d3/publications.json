@@ -1,0 +1,88 @@
+{
+  "company": {
+    "key": "Schoellershammer",
+    "name": "Schoellershammer",
+    "location": "Düren",
+    "name_source": "company_name",
+    "urls": [
+      "https://www.schoellershammer.de"
+    ],
+    "kununu_url": null,
+    "branches": [
+      "Papier- und Druckgewerbe"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "52355",
+    "street": "Kreuzauer Strasse 18",
+    "region": "Nordrhein-Westfalen",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:58:29.257204+00:00",
+  "searches": [
+    {
+      "accounting_only": true,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=Schoellershammer&companyLocation=D%C3%BCren&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ACCOUNTING&drilldownFilter=22&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": false
+    },
+    {
+      "accounting_only": false,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=Schoellershammer&companyLocation=D%C3%BCren&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ALL_AREAS&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": false
+    }
+  ],
+  "excluded_company_matches": [],
+  "date_from": "2024-01-01",
+  "date_to": "2026-11-25",
+  "excluded_dates": [],
+  "max_publications": 30,
+  "truncated": false,
+  "coverage": {
+    "search_complete": true,
+    "more_pages": false,
+    "publication_limit_reached": false,
+    "downloads_selected": 3,
+    "downloads_succeeded": 3,
+    "download_limit_reached": false,
+    "downloads_complete": true,
+    "text_complete": true
+  },
+  "publications": [
+    {
+      "company": "SCHOELLERSHAMMER GmbH, Düren",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-02-11",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=_Kd71JebzQBmIc1qJgoPnPHBvmymD_-9GhrRFjcKNntOYFOcB-ZoSQKlhb2YlDl-SVg5zaeMW5iBhKGoOcO1XJDyyCdyQnZEkPRyvi1PoL0pnVAtRg138wOKB9SUp3nNYhxfbuYUGbHNUmaM6AqfAG7bkzJIhDkw1Dh7AvQ-4iFwsjoRTF3qoAg71s2LpgxALP5M-BEhWxzYihp_HHF1hdF-NeXCVanE39vidyTaGhnJO7yN",
+      "metadata": "SCHOELLERSHAMMER GmbH, Düren Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 11.02.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 1
+    },
+    {
+      "company": "SCHOELLERSHAMMER GmbH, Düren",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-03-19",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=-AE4r0M9lrn_rIuhRHQM-I5IvEUPDPMqLCoi1Lixfyk-Ubq5Zl0T1C3XhB8f45ngnjt6wKq3Z2P5VOVwnXXn88BqpryMiTr08zDx9O1z1bhVFU10yqxhn92WzZB75M0SJ6MeyWJ9mg3aZXVXgZTtkJGvhE1xWcRY9G7j9_P4zMJCJT9gHp9d87PH1Euxvo7R8fZBFk1sd5SAfQbStIvc_NUOSRtFpBPQVeCPKrNlfrPT29AP",
+      "metadata": "SCHOELLERSHAMMER GmbH, Düren Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 19.03.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 2
+    },
+    {
+      "company": "SCHOELLERSHAMMER GmbH, Düren",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-02-06",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=zqnYSAVduAE-GYd3QiKfF_K1gbQy55d2DsKnbwrNOStmZyAA8nB_pX6iohvO1rdoDOY1H7FBcfa7VdTeAl3OxjaA5w7BgH1TML2TQ_2YAWymb8QaL_48DRdeSe7UW_zdaCVq5dZ6yAxLUuHRu2P2jK1-fX-9MEzAbEqnvhDmn7z9kxhPUnLa5yiPAi7yOBUpclysHsQ_X9PaiioUlNoA3HpQDj7K6Z5ZKzbwRrw00UgC95wa",
+      "metadata": "SCHOELLERSHAMMER GmbH, Düren Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 06.02.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 3
+    }
+  ]
+}

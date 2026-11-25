@@ -1,0 +1,56 @@
+[
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=HU9_BR37sfyHCIDIo8zL9inqdT_wcch4YWNxX5BFq4_s1OvKgwo2kupEuVq_ybICDqcXvu7VAO3_wvhXuliXLF-O7q9f5rYwFt6bfFReQbQ3fP68ogsJCCPTiqFLdkxk16ge65Lt_7jVrFyKlFbhhP7ggJ3QsHLMCPc5lPz8x_xy8QDfRYwdHibiR8JLCIRaeeiwUebvsGpdZTW6Jckc24HVNXJvrUHSBIA4LA6H8YNn__E",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Gerresheimer-B-nde-GmbH-89219cce\\bekanntmachungen\\publication-1\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Gerresheimer-B-nde-GmbH-89219cce\\bekanntmachungen\\publication-1\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Gerresheimer-B-nde-GmbH-89219cce\\bekanntmachungen\\publication-1\\publication.txt",
+    "index": 1,
+    "category": "bekanntmachungen",
+    "company": "Gerresheimer Bünde GmbH, Bünde",
+    "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.12.2024 bis zum 30.11.2025",
+    "documents_path": "output\\unternehmensregister\\Gerresheimer-B-nde-GmbH-89219cce\\bekanntmachungen\\publication-1\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=JHyHwm0n12Oyf95jMk-z3u-vilUOp3sm7tL8QduNWjXOaOKQufwN7hRPtXy4hrFbpm53JpveXm2k8fbFHBkmj1-JDtoz81p6Lq1_nRg2GqT8vx4p5eGb0ZL_mYlHhCSHKcKQwhuMKon5m9VbHblJLyDb-bU7vBd0hiH2Rv1pjotBuOR7vAlOIhrTnlwhG1sdUQ4ptfu1pqLkOgMzujiUT_Lx4Hzw6O8MGwK_TQycoUeQ2dg",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Gerresheimer-B-nde-GmbH-89219cce\\bekanntmachungen\\publication-2\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Gerresheimer-B-nde-GmbH-89219cce\\bekanntmachungen\\publication-2\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Gerresheimer-B-nde-GmbH-89219cce\\bekanntmachungen\\publication-2\\publication.txt",
+    "index": 2,
+    "category": "bekanntmachungen",
+    "company": "Gerresheimer Bünde GmbH, Bünde",
+    "title": "Einreichung neuer Dokumente",
+    "documents_path": "output\\unternehmensregister\\Gerresheimer-B-nde-GmbH-89219cce\\bekanntmachungen\\publication-2\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=c3ZDcNiQgzDJLtGyO_6iNIWUgXzawp49gCIpqG_lWtBxdNxxNSWZsjDsJohONk9MpPfzgRRiyXM0hY62LN5iv1bqmf2WBYgjnxJj4vZOoQmYIhAyDlAIQqLgYTGlUN5fJV-_R90dYgOm0kaFXQeJGn0J33wGxQBfwHcILeNOSXzGXwQQ8jvwASFurPCu7hv1PEdmrIWdWAvufjJgvqOqIkxUAqiMbp8RKz_qavtsFdwQXNA",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Gerresheimer-B-nde-GmbH-89219cce\\bekanntmachungen\\publication-3\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Gerresheimer-B-nde-GmbH-89219cce\\bekanntmachungen\\publication-3\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Gerresheimer-B-nde-GmbH-89219cce\\bekanntmachungen\\publication-3\\publication.txt",
+    "index": 3,
+    "category": "bekanntmachungen",
+    "company": "Gerresheimer Bünde GmbH, Bünde",
+    "title": "Einreichung neuer Dokumente",
+    "documents_path": "output\\unternehmensregister\\Gerresheimer-B-nde-GmbH-89219cce\\bekanntmachungen\\publication-3\\documents.json"
+  }
+]

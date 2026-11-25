@@ -1,0 +1,9 @@
+{
+  "url": "https://jobs.cybertrading.de/robots.txt",
+  "final_url": "https://jobs.cybertrading.de/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "fetched_at": "2026-11-25T16:32:37.971247+00:00",
+  "text": "User-agent: * \r\nAllow: /\r\nSitemap: https://jobs.cybertrading.de/sitemap.xml"
+}

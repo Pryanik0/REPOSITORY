@@ -1,0 +1,256 @@
+{
+  "provider": "karriere",
+  "company": {
+    "key": "Finzelberg",
+    "name": "Finzelberg GmbH & Co. KG",
+    "location": "Andernach",
+    "name_source": "company_name",
+    "urls": [
+      "https://finzelberg.com/"
+    ],
+    "kununu_url": "https://www.kununu.com/de/finzelberg1",
+    "branches": [
+      "Pharma & Medizintechnik"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "56626",
+    "street": "Koblenzer Straße 48–56",
+    "region": "Rheinland-Pfalz",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:09:12.221616+00:00",
+  "status": "partial",
+  "jobs": [],
+  "pages": [
+    {
+      "url": "https://finzelberg.com/",
+      "final_url": "https://finzelberg.com/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://finzelberg.com/karriere/",
+      "final_url": "https://finzelberg.com/karriere/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://finzelberg.com/karriere",
+      "final_url": "https://finzelberg.com/karriere/",
+      "redirects": [
+        {
+          "source": "https://finzelberg.com/karriere",
+          "target": "https://finzelberg.com/karriere/",
+          "status": 301
+        }
+      ],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://finzelberg.com/karriere/en/",
+      "final_url": "https://finzelberg.com/karriere/en/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://finzelberg.com/karriere/ihr-einstieg/",
+      "final_url": "https://finzelberg.com/karriere/ihr-einstieg/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://finzelberg.com/karriere/ihr-einstieg/berufserfahrene/",
+      "final_url": "https://finzelberg.com/karriere/ihr-einstieg/berufserfahrene/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://finzelberg.com/karriere/ihr-einstieg/absolventen/",
+      "final_url": "https://finzelberg.com/karriere/ihr-einstieg/absolventen/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://finzelberg.com/karriere/ausbildung/",
+      "final_url": "https://finzelberg.com/karriere/ausbildung/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://finzelberg.com/karriere/jobsuche/",
+      "final_url": "https://finzelberg.com/karriere/jobsuche/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://finzelberg.com/karriere/unternehmenskultur/",
+      "final_url": "https://finzelberg.com/karriere/unternehmenskultur/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://finzelberg.com/karriere/standort/",
+      "final_url": "https://finzelberg.com/karriere/standort/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://finzelberg.com/karriere/ansprechpartner/",
+      "final_url": "https://finzelberg.com/karriere/ansprechpartner/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://finzelberg.com/karriere/absolventen/",
+      "final_url": "https://finzelberg.com/karriere/ihr-einstieg/absolventen/",
+      "redirects": [
+        {
+          "source": "https://finzelberg.com/karriere/absolventen/",
+          "target": "https://finzelberg.com/karriere/ihr-einstieg/absolventen/",
+          "status": 301
+        }
+      ],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://finzelberg.com/karriere/berufserfahrene/",
+      "final_url": "https://finzelberg.com/karriere/ihr-einstieg/berufserfahrene/",
+      "redirects": [
+        {
+          "source": "https://finzelberg.com/karriere/berufserfahrene/",
+          "target": "https://finzelberg.com/karriere/ihr-einstieg/berufserfahrene/",
+          "status": 301
+        }
+      ],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://finzelberg.com/karriere/en/company-culture/",
+      "final_url": "https://finzelberg.com/karriere/en/company-culture/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://finzelberg.com/karriere/en/contact-person/",
+      "final_url": "https://finzelberg.com/karriere/en/contact-person/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://finzelberg.com/karriere/en/imprint/",
+      "final_url": "https://finzelberg.com/karriere/en/imprint/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://finzelberg.com/karriere/en/privacy-policy/",
+      "final_url": "https://finzelberg.com/karriere/en/privacy-policy/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://finzelberg.com/karriere/Unternehmenskultur/",
+      "final_url": "https://finzelberg.com/karriere/Unternehmenskultur/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://finzelberg.com/karriere/en/careers-2/",
+      "final_url": "https://finzelberg.com/karriere/en/careers-2/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    }
+  ],
+  "errors": [
+    {
+      "url": "https://finzelberg.com/karriere/en/careers-2/",
+      "reason": "no_extractable_job_data",
+      "error": "Keine auslesbaren Stellen oder belegte Leermeldung; manuelle Prüfung erforderlich."
+    }
+  ],
+  "excluded": [],
+  "sources": [
+    {
+      "url": "https://finzelberg.com/",
+      "linked_from": null,
+      "mechanism": "configured"
+    },
+    {
+      "url": "https://finzelberg.com/karriere/",
+      "linked_from": "https://finzelberg.com/karriere",
+      "mechanism": "http_redirect"
+    },
+    {
+      "url": "https://finzelberg.com/karriere/ihr-einstieg/absolventen/",
+      "linked_from": "https://finzelberg.com/karriere/absolventen/",
+      "mechanism": "http_redirect"
+    },
+    {
+      "url": "https://finzelberg.com/karriere/ihr-einstieg/berufserfahrene/",
+      "linked_from": "https://finzelberg.com/karriere/berufserfahrene/",
+      "mechanism": "http_redirect"
+    }
+  ],
+  "adapter_attempts": [],
+  "coverage": {
+    "scope": "configured_sites_and_linked_career_portals",
+    "complete": false,
+    "pending_pages": 0,
+    "page_limit_reached": false,
+    "job_limit_reached": false,
+    "request_limit_reached": false,
+    "pages_attempted": 20,
+    "pages_read": 20,
+    "dynamic_or_unparsed_pages": true,
+    "http": {
+      "requests_attempted": 24,
+      "allocated_requests": 415,
+      "cache_hits": 0
+    }
+  },
+  "pending_urls": [],
+  "jobs_before_keyword_filter": 0,
+  "reason": "search_incomplete"
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Datenvertrag v0.4: unternehmensregister/<firma>/downloads.json",
+  "description": "Ergebnis des Dokumentabrufs je Veröffentlichung. Wir brauchen daraus nur, ob das Dokument geladen werden konnte und bei einem Fehler die Meldung. Die Datei ist eine Liste, ein Eintrag je Veröffentlichung. Fehlt zu einer Veröffentlichung der Eintrag, wurde das Dokument nicht geladen.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["category", "index", "status"],
+    "properties": {
+      "category": { "type": "string", "x-bekannte-werte": ["finanzberichte", "bekanntmachungen"], "description": "Kategorie der Veröffentlichung, wie in publications.json" },
+      "index": { "type": "integer", "minimum": 1, "description": "Nummer der Veröffentlichung, wie in publications.json" },
+      "status": { "type": "string", "x-bekannte-werte": ["downloaded", "error"], "description": "downloaded: Dokument geladen, der Text steht in documents.json. error: Laden gescheitert, die Meldung steht in error" },
+      "error": { "type": ["string", "null"], "description": "Fehlermeldung des Abrufs im Klartext, nur bei status error" }
+    }
+  }
+}

@@ -1,0 +1,815 @@
+tink GmbH — Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024
+tink GmbH
+
+Berlin
+
+Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024
+
+Bilanz zum 31.12.2024
+
+AKTIVA
+
+scroll
+
+	31.12.2024	31.12.2024	31.12.2023
+	EUR	EUR	EUR
+A. ANLAGEVERMÖGEN			
+I. Immaterielle Vermögensgegenstände			
+1. selbst geschaffene gewerbliche Schutzrechte und ähnliche Rechte und Werte		660.085,00	0,00
+2. Entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten		76.820,16	59.854,47
+II. Sachanlagen			
+Andere Anlagen, Betriebs- und Geschäftsausstattung		117.173,00	210.704,00
+III. Finanzanlagen			
+Beteiligungen		28.001,00	28.001,00
+		882.079,16	298.559,47
+B. UMLAUFVERMÖGEN			
+I. Vorräte			
+1. Waren	596.648,80		1.162.307,56
+2. Geleistete Anzahlungen	400.000,00		2.394.689,14
+		996.648,80	3.556.996,70
+II. Forderungen und sonstige Vermögensgegenstände			
+1. Forderungen aus Lieferungen und Leistungen	19.874.269,76		18.854.147,59
+2. Forderungen gegen verbundene Unternehmen	0,00		162.488,49
+3. Forderungen gegen Gesellschafter	0,00		1.277.160,15
+4. sonstige Vermögensgegenstände	2.790.329,62		3.430.268,69
+		22.664.599,38	23.724.064,92
+III. Kassenbestand und Guthaben bei Kreditinstituten		5.910.792,99	10.374.072,03
+		29.572.041,17	37.655.133,65
+C. Rechnungsabgrenzungsposten		59.026,96	24.743,93
+		30.513.147,29	37.978.437,05
+
+PASSIVA
+
+scroll
+
+	31.12.2024	31.12.2024	31.12.2023
+	EUR	EUR	EUR
+A. EIGENKAPITAL			
+I. Gezeichnetes Kapital		68.341,00	68.341,00
+II. Kapitalrücklage		52.538.865,66	52.538.865,66
+III. Verlustvortrag		27.612.771,31	24.934.063,51
+IV. Jahresfehlbetrag		3.983.216,04	2.678.707,80
+		21.011.219,31	24.994.435,35
+B. RÜCKSTELLUNGEN			
+sonstige Rückstellungen		499.315,55	1.753.197,35
+C. VERBINDLICHKEITEN			
+1. Erhaltene Anzahlungen auf Bestellungen	450.645,36		1.169.279,98
+2. Verbindlichkeiten aus Lieferungen und Leistungen	8.018.596,00		8.149.127,93
+3. Verbindlichkeiten gegen Gesellschafter	0,00		98.544,32
+4. sonstige Verbindlichkeiten	533.371,07		1.813.852,12
+- davon aus Steuern: EUR 356.217,59 (Vorjahr: EUR 1.569.848,58)			
+- davon im Rahmen der sozialen Sicherheit: EUR 13.446,45 (Vorjahr: EUR 0,00)			
+		9.002.612,43	11.230.804,35
+		30.513.147,29	37.978.437,05
+
+Gewinn- und Verlustrechnung für das Geschäftsjahr 2024
+
+scroll
+
+	2024	2024	2023
+	EUR	EUR	EUR
+1. Umsatzerlöse		83.630.574,25	91.496.371,50
+2. andere aktivierte Eigenleistungen		673.000,00	0,00
+3. sonstige betriebliche Erträge		766.501,59	325.338,31
+4. Materialaufwand			
+a) Aufwendungen für bezogene Waren	-69.978.040,39		-75.136.082,98
+b) Aufwendungen für bezogene Leistungen	-221.772,27		-134.926,28
+		-70.199.812,66	-75.271.009,26
+5. Personalaufwand			
+a) Löhne und Gehälter	-4.844.771,60		-5.436.877,98
+b) soziale Abgaben und Aufwendungen für Altersversorgung und für Unterstützung	-829.379,08		-996.025,96
+- davon aus Altersversorgung Euro 5.901,68 (Vorjahr: Euro 441,36)			
+		-5.674.150,68	-6.432.903,94
+Abschreibungen auf immaterielle Vermögensgegenstände des 6. Anlagevermögens und Sachanlagen		-60.842,08	-69.967,08
+7. sonstige betriebliche Aufwendungen		-13.252.021,44	-12.943.856,80
+8. sonstige Zinsen und ähnliche Erträge		180.784,31	281.132,66
+9. Zinsen und ähnliche Aufwendungen		0,00	-315,00
+10. Steuern vom Einkommen und vom Ertrag		-46.973,83	-62.184,69
+11. Ergebnis nach Steuern		-3.982.940,54	-2.677.394,30
+12. Sonstige Steuern		-275,50	-1.313,50
+13. Jahresfehlbetrag		-3.983.216,04	-2.678.707,80
+
+ANHANG FÜR DAS GESCHÄFTSJAHR 2024
+
+ALLGEMEINE ANGABEN
+
+Die Gesellschaft ist beim Amtsgericht Berlin Charlottenburg wie folgt registriert:
+
+scroll
+
+Firmenname:	tink GmbH
+Firmensitz:	10178 Berlin, Sophienstraße 21
+Register-Nummer:	175701 B
+
+Der Jahresabschluss wurde gemäß den für große Kapitalgesellschaften im Sinne des § 267 Abs. 3 HGB geltenden gesetzlichen Vorschriften aufgestellt. Dabei wurden die Rechnungslegungsvorschriften des Handelsgesetzbuches für Kaufleute (§§ 242 ff. HGB) und die ergänzenden Vorschriften für Kapitalgesellschaften (§§ 264 ff. HGB) zu Grunde gelegt. Ergänzend zu diesen Vorschriften wurden die Regelungen des GmbH-Gesetzes beachtet.
+
+Bei der Gewinn- und Verlustrechnung wurde das Gesamtkostenverfahren nach § 275 Abs. 2 HGB angewendet. Geschäftsjahr ist das Kalenderjahr.
+
+BILANZIERUNGS- UND BEWERTUNGSMETHODEN
+
+Der Jahresabschluss zum 31. Dezember 2024 wurde unter der Annahme der Fortführung der Unternehmenstätigkeit gem. § 252 Abs. 1 Nr. 2 HGB aufgestellt.
+
+Die Gesellschaft macht von ihrem Wahlrecht Gebrauch und aktiviert gemäß § 248 Abs. 2 HGB selbst geschaffene immaterielle Vermögensgegenstände des Anlagevermögens. Die Herstellungskosten werden gemäß § 255 Abs. 2a i.V.m. Abs. 2 HGB aktiviert und angemessene Teile der Gemeinkosten berücksichtigt. Sind fremdbezogene Leistungen von erheblichem Umfang im Vergleich zur eigenen Leistung enthalten, werden diese als Zugang unter den immateriellen Vermögensgegenständen erfasst (Netto-Methode).
+
+Entgeltlich von Dritten erworbene immaterielle Anlagewerte wurden zu Anschaffungskosten angesetzt und, sofern sie der Abnutzung unterlagen, um planmäßige Abschreibungen vermindert. Die planmäßige Abschreibung erfolgt zeitanteilig linear über die voraussichtliche Nutzungsdauer.
+
+Die Vermögensgegenstände des Sachanlagevermögens wurden zu Anschaffungs- oder Herstellungskosten angesetzt und, soweit abnutzbar, um planmäßige Abschreibungen vermindert. Grundlage der planmäßigen Abschreibung war die voraussichtliche Nutzungsdauer des jeweiligen Vermögensgegenstandes. Die planmäßigen Abschreibungen werden nach der linearen Methode vorgenommen.
+
+Bewegliche Gegenstände des Anlagevermögens bis zu einem Wert von EUR 800 wurden im Jahre des Zugangs voll abgeschrieben.
+
+Die zugrundeliegenden Nutzungsdauern It. wie folgt:
+
+scroll
+
+Kategorie des Anlagevermögens	Zugrundeliegende Nutzungsdauer (in Jahren)
+Betriebs- und Geschäftsausstattung	3-13
+Pkw	6
+Immaterielle Vermögensgegenstände	3-8
+
+Finanzanlagen wurden zu Anschaffungskosten oder dem niedrigeren beizulegenden Wert angesetzt. Abschreibungen werden nur bei einer dauerhaften Wertminderung vorgenommen.
+
+Die Vorräte wurden zu Anschaffungs- bzw. Herstellungskosten angesetzt und, sofern ein entsprechender Sachverhalt vorliegt, auf den niedrigeren Börsen- und Marktpreis am Abschlussstichtag abgeschrieben.
+
+Die Forderungen und sonstige Vermögensgegenstände wurden mit dem Nennbetrag angesetzt. Erkennbare Einzelrisiken wurden durch Einzelwertberichtigungen sowie Pauschalwertberichtigungen angemessen berücksichtigt.
+
+Die liquiden Mittel wurden zum Nennwert angesetzt.
+
+Als Rechnungsabgrenzungsposten wurden auf der Aktivseite Ausgaben vor dem Abschlussstichtag ausgewiesen, soweit sie Aufwand für eine bestimmte Zeit nach diesem Tag darstellen, und auf der Passivseite Einnahmen, soweit sie Ertrag für eine bestimmte Zeit nach diesem Tag darstellen.
+
+Das gezeichnete Kapital wurde zum Nennwert angesetzt.
+
+Die Rückstellungen wurden in Höhe des nach kaufmännischer Beurteilung notwendigen Erfüllungsbetrages passiviert. Dabei wurden alle erkennbaren Risiken berücksichtigt. Rückstellungen mit einer Laufzeit von mehr als einem Jahr werden mit dem ihrer Restlaufzeit entsprechenden durchschnittlichen Marktzinssatz der vergangenen sieben Geschäftsjahre fristadäquat abgezinst.
+
+Die Verbindlichkeiten wurden mit dem Erfüllungsbetrag angesetzt.
+
+Latente Steuern werden aufgrund von temporären oder quasi permanenten Differenzen zwischen den handelsrechtlichen Wertansätzen von Vermögensgegenständen, Schulden und Rechnungsabgrenzungsposten und ihren steuerlichen Wertansätzen oder aufgrund steuerlicher Verlustvorträge gebildet. Die Beträge der sich ergebenden Steuerbelastung und -entlastung werden mit den unternehmensindividuellen Steuersätzen im Zeitpunkt des Abbaus der Differenzen bewertet und nicht abgezinst.
+
+Die Differenzen zwischen der Handels- und Steuerbilanz bei den Bilanzposten werden in der folgenden Tabelle dargestellt. Insgesamt ergibt sich ein aktiver Saldo, welcher aufgrund des gemäß § 274 Abs. 1 HGB bestehenden Aktivierungswahlrechts nicht bilanziert wird.
+
+Der Überhang aktiver latenter Steuern resultiert aus den folgenden Sachverhalten:
+
+scroll
+
+	31.12.2024	31.12.2023
+	in TEUR	in TEUR
+Latente Steuerschulden auf Differenzen bilanzieller Wertansätze für Immaterielle Vermögensgegenstände	199	0
+Latente Steueransprüche auf Verlustvorträge	1.737	8.327
+Latente Steueransprüche netto	1.538	8.327
+
+Der Berechnung wurde ein Steuersatz von 30,175 % zugrunde gelegt. Die latenten Steueransprüche aus Verlustvorträgen beziehen sich auf die bestehenden körperschaftsteuerlichen Verlustvorträge in Höhe von MEUR 32,0 und gewerbesteuerlichen Verlustvorträge in Höhe von MEUR 31,8.
+
+Die Werthaltigkeit der aktivierten latenten Steuern auf Verlustvorträge ergibt sich aus der positiven Ertragserwartung und der realistischen Einschätzung der zukünftigen steuerlichen Nutzung.
+
+ERLÄUTERUNGEN ZU EINZELNEN POSTEN DER BILANZ
+
+Die Entwicklung und Gliederung der einzelnen Posten des Anlagevermögens ist aus dem Anlagenspiegel (Anlage zum Anhang) ersichtlich, ebenso die Abschreibungen des Geschäftsjahres.
+
+Im Geschäftsjahr 2024 hat die Gesellschaft erstmals von dem Wahlrecht nach § 248 Abs. 2 HGB Gebrauch gemacht, selbst geschaffene immaterielle Vermögensgegenstände des Anlagevermögens zu aktivieren. Die aktivierten Eigenleistungen betreffen Softwareentwicklungen, die den Ansatzkriterien entsprechen und eindeutig abgrenzbar sind. Die Herstellungskosten umfassen die zurechenbaren Materialeinzel- und Fertigungseinzelkosten sowie angemessene Teile der Material- und Fertigungsgemeinkosten und der Abschreibungen. Finanzierungskosten wurden nicht einbezogen.
+
+Die Abschreibung erfolgt linear über die voraussichtliche wirtschaftliche Nutzungsdauer von fünf Jahren.
+
+Die aktivierten selbst geschaffenen immateriellen Vermögensgegenstände wurden zum Stichtag auf ihre Werthaltigkeit überprüft.
+
+Der Betrag der aktivierten selbst geschaffenen immateriellen Vermögensgegenstände beläuft sich zum Bilanzstichtag auf TEUR 660. Im Geschäftsjahr wurden Entwicklungskosten in Höhe von TEUR 673 aktiviert und bis zum Stichtag TEUR 13 als planmäßige Abschreibung abgeschrieben. Die steuerliche Aktivierung unterblieb gemäß § 5 Abs. 2 EStG.
+
+Für das restliche Anlagevermögen ergaben sich im Geschäftsjahr 2024 außer den planmäßigen Abschreibungen und geringfügigen Anschaffungen keine wesentlichen Änderungen.
+
+Die in der Bilanz ausgewiesenen Forderungen MEUR 19,58 (VJ: MEUR 20,29) und sonstigen Vermögensgegenständen MEUR 2,79 (VJ: MEUR 3,43) haben wie im Vorjahr eine Restlaufzeit bis zu einem Jahr. Forderungen gegen verbundene Unternehmen bestehen in Höhe von TEUR 0 (VJ: TEUR 162). Forderungen gegen Gesellschafter belaufen sich auf MEUR 0 (VJ: MEUR 1,28) und betrafen im Vorjahr im Wesentlichen Forderungen aus Lieferungen und Leistungen. In den sonstigen Vermögensgegenständen sind im Wesentlichen Kautionszahlungen, debitorische Kreditoren und Geldtransitkonten enthalten.
+
+Forderungen gegen Mitglieder des Geschäftsorgans bestehen zum 31. Dezember 2024 nicht. Die Pauschalwertberichtigung für Forderungen wird gemäß den Grundsätzen ordnungsmäßiger Buchführung vorgenommen. Sie dient dazu, mögliche Ausfälle und Wertminderungen von Forderungen zum Zeitpunkt der Bilanzerstellung zu berücksichtigen. Zum Bilanzstichtag beträgt die Pauschalwertberichtigung für Forderungen TEUR 160,7 (VJ: TEUR 169,1). Im Geschäftsjahr 2024 musste aufgrund der Insolvenz eines Kunden eine Einzelwertberichtigung auf Forderungen aus Lieferungen und Leistungen, sowie eine Einzelwertberichtigung auf Forderungen gg. verbundene Unternehmen in Höhe von TEUR 292,4 (VJ: TEUR 110,4) gebildet werden. Die Forderungen wurde vollständig wertberichtigt, da die Wahrscheinlichkeit einer Realisierung der offenen Forderung als sehr gering eingeschätzt wird.
+
+Zum Bilanzstichtag 31.12.2024 hält die tink GmbH direkte Beteiligungen an den folgenden Tochtergesellschaften:
+
+scroll
+
+	Anteile am Kapital	Eigenkapital	Ergebnis 2023	Ergebnis 2022
+Unternehmen		in TEUR	in TEUR	in TEUR
+tink services GmbH HRB 239088 B	100%	-126	-50	-101
+
+Die sonstigen Rückstellungen wurden im Wesentlichen für ausstehende Rechnungen in Höhe von TEUR 86 (VJ: MEUR 1,30), Personalverpflichtungen TEUR 346 (VJ: TEUR 423), Abschluss- und Prüfungskosten TEUR 65 (VJ: TEUR 30) und Aufbewahrungsverpflichtungen TEUR 3 (VJ: TEUR 3) gebildet.
+
+Die Verbindlichkeiten sind mit Ausnahme von verkauften Wertgutscheinen an Kunden in Höhe von TEUR 30 (VJ: TEUR 24) innerhalb eines Jahres fällig.
+
+Die Verbindlichkeiten haben sich wie folgt entwickelt (Angaben in TEUR):
+
+scroll
+
+		mit einer Restlaufzeit von	mit einer Restlaufzeit von	mit einer Restlaufzeit von
+	Gesamt 2024	bis 1 Jahr	über 1 Jahr	davon über 5 Jahre
+1. Verbindlichkeiten aus Lieferungen und Leistungen	8.019	8.019	0	0
+	(VJ: 8.149)	(VJ: 8.149)	(VJ: 0)	(VJ: 0)
+2. Verbindlichkeiten gegenüber Gesellschaftern	0	0	0	0
+	(VJ: 99)	(VJ: 99)	(VJ: 0)	(VJ: 0)
+3. sonstige Verbindlichkeiten	533	503	30	0
+	(VJ: 1.814)	(VJ: 1.790)	(VJ: 24)	(VJ: 0)
+Gesamt	8.552	8.522	30	0
+	(VJ: 10.062)	(VJ: 10.037)	(VJ: 24)	(VJ: 0)
+
+Sämtliche Forderungen und Verbindlichkeiten sind nicht gesichert.
+
+ERLÄUTERUNGEN ZU DEN EINZELNEN POSTEN DER GEWINN- UND VERLUSTRECHNUNG
+
+Die Umsatzerlöse setzen sich aus dem Verkauf von Waren an Kunden MEUR 52,94 (VJ: MEUR 64,42), Umsätze für erbrachte Leistungen MEUR 25,32 (VJ: MEUR 22,20) und Umsätzen mit Industriepartnern MEUR 5,37 (VJ: MEUR 4,87) zusammen. Diese verteilen sich über die folgenden Absatzmärkte:
+
+Deutschland MEUR 73,79 (VJ: MEUR 76,95); Niederlande MEUR 4,79 (VJ: MEUR 7,78); Österreich MEUR 3,63 (VJ: MEUR 4,58); Belgien MEUR 1,38 (VJ: MEUR 1,48); Schweden MEUR 0,04 (VJ: MEUR 0,70).
+
+Die sonstigen betrieblichen Erträge in Höhe von TEUR 766,5 (VJ: TEUR 325,3) setzen sich zusammen aus den verrechneten Sachbezügen, Versicherungsentschädigungen, den Erträgen aus der Währungsumrechnung, sowie Rückstellungsauflösungen. Die Erträge aus Währungsumrechnung belaufen sich auf TEUR 18 (VJ: TEUR 36).
+
+Eine zentrale Komponente des Materialaufwands bildet der Erwerb von Handelswaren, die unmittelbar für den Verkauf vorgesehen sind. Im vorliegenden Berichtszeitraum belief sich der Materialaufwand auf MEUR 69,98 (VJ: MEUR 75,14). Die Aufwendungen für bezogene Leistungen beliefen sich auf TEUR 222 (VJ: TEUR 135).
+
+Der Personalaufwand umfasst sämtliche Kosten, die im Zusammenhang mit der Beschäftigung von Mitarbeitern anfallen. Dazu gehören Gehälter, Löhne, Sozialabgaben, betriebliche Altersvorsorge, Boni, sowie sonstige Vergütungen. Im Berichtszeitraum beläuft sich der Personalaufwand auf MEUR 5,7 (VJ: MEUR 6,4).
+
+Die sonstigen betrieblichen Aufwendungen in Höhe von MEUR 13,25 (VJ: MEUR 12,94) setzen sich aus verschiedenen Aufwendungen zusammen, die nicht unmittelbar mit dem Verkauf von Waren oder Dienstleistungen in Verbindung stehen. Dazu gehören beispielsweise Marketingkosten in Höhe von MEUR 7,41 (VJ: MEUR 8,25), Fremdleistungen in Höhe von MEUR 1,51 (VJ: MEUR 1,40), Gebühren Zahlungsprovider in Höhe von MEUR 0,87 (VJ: MEUR 0,97) sowie Lizenzaufwendungen in Höhe von MEUR 0,73 (VJ: MEUR 0,70). Davon belaufen sich die Aufwendungen aus Währungsumrechnung auf TEUR -2,5 (VJ: TEUR 8,4). Die periodenfremden Aufwendungen betragen TEUR 860 (VJ: TEUR 8).
+
+Der Gesamtbetrag der im Geschäftsjahr angefallen Entwicklungskosten beträgt TEUR 673 (VJ: TEUR 0). Dieser entfällt vollständig auf die aktivierten selbst geschaffenen immateriellen Vermögensgegenstände des Anlagevermögens.
+
+SONSTIGE FINANZIELLE VERPFLICHTUNGEN
+
+Haftungsverhältnisse im Sinne des § 251 HGB bestehen zum Abschlussstichtag nicht.
+
+Sonstige finanzielle Verpflichtungen nach § 285 Nr. 3a HGB bestehen aus abgeschlossenen Miet- und Leasingverträgen mit einem nominellen Volumen von TEUR 1.435 (VJ: TEUR 1.779).
+
+Davon werden TEUR 631 (VJ: TEUR 631) innerhalb eines Jahres sowie ein weiterer Teilbetrag in Höhe von TEUR 804 (VJ: TEUR 1.148) in den darauffolgenden Jahren fällig. Sonstige finanzielle Verpflichtungen gegenüber verbundenen Unternehmen bestehen nicht.
+
+SONSTIGE ANGABEN
+
+Arbeitnehmer
+
+Die durchschnittliche Zahl der während des Geschäftsjahres im Unternehmen beschäftigten Arbeitnehmer betrug 81 Personen (VJ: 106).
+
+Im Jahresdurschnitt waren folgende Mitarbeiter beschäftigt:
+
+scroll
+
+	2024	2023
+Abteilungsleiter	11	8
+Leitende Angestellte	0	7
+Angestellte	70	91
+Jahresdurchschnitt	81	106
+
+Geschäftsführer
+
+scroll
+
+Familienname	Vorname	Eintritt	Austritt	Ausgeübter Beruf
+Lissautzki	Dr. Marius	07.04.2016		Chief Excecutive Officer / Geschäftsführer
+Gorr	Daniel	01.01.2024		Chief Marketing Officer / Geschäftsführer
+Zyla	Lukas	01.01.2024	01.10.2024	Chief Financial Officer / Geschäftsführer
+
+Die Angabe der Gesamtbezüge der im Jahr 2024 tätigen Geschäftsführer unterbleibt gem. § 286 Abs.4 HGB.
+
+Für Abschlussprüfungsleistungen, die der Abschlussprüfer für die Gesellschaft erbracht hat, wurde im Berichtsjahr ein Honorar in Höhe von TEUR 32,5 erfasst.
+
+Beteiligung
+
+Die Gesellschaft besitzt 100% der Anteile (Gezeichnetes Kapital TEUR 25) an der tink Services GmbH. Sitz der Gesellschaft ist Berlin. Das Eigenkapital der Gesellschaft beträgt zum 31.12.2023 TEUR -126. Das Ergebnis für das Geschäftsjahr 2023 beträgt TEUR -50 (2022: TEUR -101).
+
+Ausschüttungsgesperrte Beträge gemäß § 285 Nr. 28 HGB
+
+Aufgrund der Aktivierung selbst geschaffener immaterieller Vermögensgegenstände des Anlagevermögens besteht nach § 268 Abs. 8 HGB eine Ausschüttungssperre in Höhe von TEUR 461. Dieser Betrag setzt sich wie folgt zusammen:
+
+scroll
+
+	TEUR
+Aktivierung selbst geschaffener immaterieller Vermögensgegenstände	660
+Abzgl. hierauf entfallender passiver latenter Steuern	199
+Ausschüttungsgesperrter Betrag	461
+
+Zur Deckung des ausschüttungsgesperrten Betrags liegen ausreichend frei verwendbare Teile aus der Kapitalrücklage in Höhe von TEUR 52.539 vor. Aufgrund des Jahresfehlbetrags kommt die Ausschüttungssperre nicht zum Tragen.
+
+NACHTRAGSBERICHT
+
+Es gibt keine Ereignisse von wesentlicher Bedeutung, die einer gesonderten Darstellung bedürfen
+
+ERGEBNISVERWENDUNG
+
+Die Geschäftsleitung schlägt in Übereinstimmung mit den Gesellschaftern vor, das Ergebnis
+
+scroll
+
+Jahresfehlbetrag	EUR 3.983.216,04
+
+wie folgt zu verwenden:
+
+scroll
+
+Vortrag auf neue Rechnung	EUR 3.983.216,04
+
+UNTERZEICHNUNG DES JAHRESABSCHLUSSES 2024
+
+Berlin, 05.09.2025
+
+Dr. Marius Lissautzki, CEO / Geschäftsführer
+
+Daniel Gorr, CMO /Geschäftsführer
+
+Entwicklung des Anlagevermögens im Geschäftsjahr 2024
+
+scroll
+
+	Anschaffungs- und Herstellungskosten	Anschaffungs- und Herstellungskosten	Anschaffungs- und Herstellungskosten	Anschaffungs- und Herstellungskosten	Anschaffungs- und Herstellungskosten
+	1.1.2024	Zugänge	Umbuchungen	Abgänge	31.12.2024
+	EUR	EUR	EUR	EUR	EUR
+I. IMMATERIELLE VERMÖGENSGEGENSTÄNDE					
+1. selbst geschaffene gewerbliche Schutzrechte und ähnliche Rechte und Werte	0,00	673.000,00	0,00	0,00	673.000,00
+2. entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten	64.663,74	19.250,00	0,00	0,00	83.913,74
+	64.663,74	692.250,00	0,00	0,00	756.913,74
+II. SACHANLAGEN					
+andere Anlagen, Betriebs- und Geschäftsausstattung	418.330,52	27.382,77	0,00	113.970,99	331.742,30
+	418.330,52	27.382,77	0,00	113.970,99	331.742,30
+III. FINANZANLAGEN					
+Beteiligungen	28.001,00	0,00	0,00	0,00	28.001,00
+	28.001,00	0,00	0,00	0,00	28.001,00
+	510.995,26	719.632,77	0,00	113.970,99	1.116.657,04
+
+scroll
+
+	kumulierte Abschreibungen	kumulierte Abschreibungen	kumulierte Abschreibungen	kumulierte Abschreibungen
+	1.1.2024	Zugänge	Abgänge	31.12.2024
+	EUR	EUR	EUR	EUR
+I. IMMATERIELLE VERMÖGENSGEGENSTÄNDE				
+1. selbst geschaffene gewerbliche Schutzrechte und ähnliche Rechte und Werte	0,00	12.915,00	0,00	12.915,00
+2. entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten	4.809,27	2.284,31	0,00	7.093,58
+	4.809,27	15.199,31	0,00	20.008,58
+II. SACHANLAGEN				
+andere Anlagen, Betriebs- und Geschäftsausstattung	207.626,52	45.642,77	38.699,99	214.569,30
+	207.626,52	45.642,77	38.699,99	214.569,30
+III. FINANZANLAGEN				
+Beteiligungen	0,00	0,00	0,00	0,00
+	0,00	0,00	0,00	0,00
+	212.435,79	60.842,08	38.699,99	234.577,88
+
+scroll
+
+	Nettobuchwerte	Nettobuchwerte
+	31.12.2024	31.12.2023
+	EUR	EUR
+I. IMMATERIELLE VERMÖGENSGEGENSTÄNDE		
+1. selbst geschaffene gewerbliche Schutzrechte und ähnliche Rechte und Werte	660.085,00	0,00
+2. entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten	76.820,16	59.854,47
+	736.905,16	59.854,47
+II. SACHANLAGEN		
+andere Anlagen, Betriebs- und Geschäftsausstattung	117.173,00	210.704,00
+	117.173,00	210.704,00
+III. FINANZANLAGEN		
+Beteiligungen	28.001,00	28.001,00
+	28.001,00	28.001,00
+	882.079,16	298.559,47
+
+Lagebericht für das Geschäftsjahr 2024
+
+Inhaltsverzeichnis
+
+I. Grundlagen des Unternehmens
+
+1. Geschäftsmodell
+
+2. Organisationsstruktur
+
+3. Finanzielle und nichtfinanzielle Leistungsindikatoren
+
+3.1 Finanzielle Leistungsindikatoren
+
+3.2 Nichtfinanzielle Leistungsindikatoren
+
+II. Wirtschaftsbericht
+
+1. Gesamtwirtschaftliche und branchenbezogene Rahmenbedingungen
+
+2. Geschäftsverlauf und Lage der Gesellschaft
+
+3. Ertrags-, Finanz-, und Vermögenslage
+
+3.1 Ertragslage
+
+3.2 Finanzlage
+
+3.3 Vermögenslage
+
+3.4 Forschungs- und Entwicklungsbericht
+
+III. Risiko- und Chancenbericht
+
+1. Risikobericht
+
+1.1 Marktrisiken
+
+1.2 Rechtliche Risiken
+
+1.3 Personalrisiken
+
+2. Chancenbericht
+
+2.1 Strategische Chancen
+
+2.2 Marktchancen
+
+IV. Prognosebericht
+
+1. Gesamtwirtschaftliches Umfeld
+
+2. Branchenumfeld
+
+3. Erwartete Geschäfts- und Ertragsentwicklung
+
+I. Grundlagen des Unternehmens
+
+1. Geschäftsmodell
+
+tink: Der führende Experte für das smarte und klima-freundliche Zuhause in Europa.
+
+Die tink GmbH (im Folgenden „tink“) wurde im Jahr 2016 gegründet. Seitdem vertreibt das Unternehmen erfolgreich use-case-basierte Lösungen für das smarte Zuhause - bestehend aus der Kombination von Hardware, Software und Services. Mit den angebotenen Lösungen hilft tink seinen Kunden ihr Leben komfortabler, sicherer und klimafreundlicher zu gestalten.
+
+Als Smart Home Experte unterstützt tink seine Kunden in jedem Schritt bis zur Kaufentscheidung und darüber hinaus.
+
+Die Smart Home Hardware wird mit nützlichen Services kombiniert. Hierzu zählen unter anderem Versicherungen, Installationen oder Security Services.
+
+Mit den angebotenen Lösungen deckt tink alle Kategorien des Zuhauses ab und bietet Kunden damit die Möglichkeit ihr Smart Home vollumfänglich zu erweitern. Zu den Kategorien zählen: Energy Solutions, Heating, Security, Entertainment, Garden, Smart Appliances und viele weitere.
+
+tink möchte für Smart Home begeistern, informieren und bei Kaufentscheidungen unterstützen, die nachhaltig zufriedene Kunden schaffen. Entsprechend bietet tink umfangreichen Content über eigene Smart Home Blogs („NEXT Magazin“), YouTube- Kanäle, Expertenbewertung und -beschreibungen, sowie den Web-Shop. Zudem steht allen Kunden eine Omni-Channel Beratung vor und nach dem Kauf zu Verfügung.
+
+Mit diesem Modell ist tink aktuell in fünf europäischen Märkten vertreten: Deutschland, Österreich, den Niederlanden, Belgien und Schweden. Der Betrieb und die Expansion werden mit über 80 Mitarbeitern aus dem zentralen Standort in Berlin gesteuert.
+
+2. Organisationsstruktur
+
+tink wird von einem Management Board mit aktuell zwei Mitgliedern geführt:
+
+•
+
+Dr. Marius Lissautzki | CEO, Gründer und Geschäftsführer
+
+•
+
+Daniel Gorr | CMO & CPO, Geschäftsführer
+
+Ab dem 1. Januar 2024 wurden Daniel Gorr und Lukas Zyla zusätzlich zu Dr. Marius Lissautzki zu Geschäftsführern ernannt. Zum 1. Oktober 2024 wurde Lukas Zyla als Geschäftsführer abberufen.
+
+Dem Management Board sind verschiedene Teams untergeordnet, die jeweils von Abteilungsleitern geführt werden.
+
+Die tink GmbH betreibt Zweigniederlassungen an verschiedenen strategischen Standorten, die maßgeblich zum Erfolg des Unternehmens beitragen. Diese Niederlassungen spielen eine entscheidende Rolle in der Umsetzung unserer Geschäftstätigkeiten und ermöglichen uns, unsere Dienstleistungen effizient in mehreren Regionen anzubieten. Im Berichtsjahr waren wir in folgenden Ländern steuerlich registriert: Deutschland, Österreich, Niederlande, Belgien, Norwegen und Schweden. Eine ins Handelsregister eingetragene Zweigniederlassung besteht wie folgt:
+
+TINK NO Oslo/Norwegen (Register of Business Enterprises, 929847911) EUID: NOFOR.929847911, Hasleveien 28A, 0571 Oslo Norwegen
+
+3. Finanzielle und nichtfinanzielle Leistungsindikatoren
+
+3.1 Finanzielle Leistungsindikatoren
+
+Die bedeutsamsten finanziellen Leistungsindikatoren von tink sind die erzielten Umsatzerlöse, der erwirtschaftete Rohertrag, das EBIT sowie der operative Cashflow.
+
+Im aktuellen Jahr betragen die Umsatzerlöse MEUR 83,63 im Vergleich zu MEUR 91,50 im Vorjahr. Dies entspricht einer Minderung um MEUR 7,87.
+
+Der erwirtschaftete Rohertrag beträgt im aktuellen Jahr MEUR 14,87 im Vergleich zu MEUR 16,55 im Vorjahr. Dies entspricht einer Minderung um MEUR 1,68.
+
+Der Rohertrag berechnet sich aus MEUR 83,63 (VJ: MEUR 91,50) Umsatzerlösen, andere aktivierte Eigenleistungen TEUR 673 (VJ: TEUR 0) und den sonstigen betrieblichen Erträgen TEUR 767 (VJ: TEUR 325) abzüglich des Materialaufwands in Höhe von MEUR 70,20 (VJ: MEUR 75,27).
+
+Zum Jahresende belief sich der EBIT auf MEUR -4,11 (VJ: MEUR -2,89).
+
+Im Jahr 2024 verzeichnete das Unternehmen einen operativen Cashflow von TEUR - 4.882. Dieser setzt sich aus dem Periodenergebnis über MEUR -3.98, Veränderungen der Abschreibungen, Rückstellungen, Vorräte in Höhe von MEUR - 0,898 zusammen. Zu Beginn des Jahres 2024 verfügte das Unternehmen über liquide Mittel in Höhe von MEUR 10,54. Am Ende des Jahres 2024 beliefen sich die liquiden Mittel auf MEUR 5,90.
+
+3.2 Nichtfinanzielle Leistungsindikatoren
+
+Die bedeutsamsten nichtfinanziellen Leistungsindikatoren sind der Kundenstamm und die Mitarbeiterzufriedenheit.
+
+Die Mitarbeiterzufriedenheit wird durch regelmäßige Mitarbeitergespräche, strukturierte Leistungsbeurteilungen und anonyme Umfragen erfasst. Diese Methoden ermöglichen eine umfassende und differenzierte Bewertung der Arbeitsbedingungen und Mitarbeitererfahrungen.
+
+Im Vergleich zum Vorjahr konnten keine signifikanten Veränderungen der nichtfinanziellen Leistungsindikatoren festgestellt werden.
+
+Weitere nichtfinanzielle Leistungsindikatoren sind die Reputation des Unternehmens und Kundenzufriedenheit. Zur Reputation des Unternehmens werden in regelmäßigen Abständen strukturierte Umfragen durchgeführt. Die Kundenzufriedenheit wird kontinuierlich mithilfe von Online-Plattformen gemessen, bewertet und analysiert.
+
+Im Berichtsjahr haben wir den Bestell- und Lieferstatus weiter optimiert, sodass unseren Kunden nun umfangreichere Informationen zur Verfügung stehen. Diese Verbesserung trägt dazu bei, die Transparenz und Zufriedenheit unserer Kunden weiter zu steigern.
+
+Die Kundenzufriedenheitsbewertung (CSAT) stieg von 62 % im Jahr 2023 auf 65 % im Jahr 2024 an, was eine positive Steigerung der Kundenzufriedenheit signalisiert.
+
+II. Wirtschaftsbericht
+
+1. Gesamtwirtschaftliche und branchenbezogene Rahmenbedingungen
+
+Nach Angaben des Statistischen Bundesamts ist das preisbereinigte Bruttoinlandsprodukt (BIP) der Bundesrepublik Deutschland im Jahr 2024 gegenüber dem Vorjahr um 0,2 % gesunken. Damit ist die deutsche Wirtschaft nach vier Jahren des Wachstums erstmals wieder geschrumpft 1. Im vierten Quartal 2024 verringerte sich das preis-, saison- und kalenderbereinigte BIP nochmals um 0,2 % gegenüber dem Vorquartal 2.
+
+Die Entwicklung im ersten Quartal 2025 deutet hingegen auf eine leichte Stabilisierung hin: Nach Angaben des Statistischen Bundesamts ist das BIP preis-, saison- und kalenderbereinigt um 0,4 % gegenüber dem Vorquartal gestiegen. Gleichwohl rechnen führende Wirtschaftsinstitute wie der Sachverständigenrat der Wirtschaftsweisen für das Gesamtjahr 2025 weiterhin mit einem nahezu stagnierenden Wachstum von rund 0,0 %, während die Bundesregierung optimistischer von einem Anstieg von etwa 1,1 % ausgeht 3.
+
+1 Destatis - BIP 2024 um 0,2 % gesunken https://www.destatis.de/DE/Presse/Pressekonferenzen/2025/bip2024/bruttoinlandsprodukt-uebersicht.html
+2 Destatis - Ergebnisse 4. Quartal 2024 https://www.destatis.de/DE/Presse/Pressemitteilungen/2025/02/PD25_069_811.html
+3 Prognosen 2025 - Wirtschaftsweisen, Bundesregierung (Medienberichte)
+
+Die privaten Konsumausgaben stiegen im Jahr 2024 preisbereinigt um 0,3 %, während die staatlichen Konsumausgaben deutlich um 2,6 % zunahmen. Im Gegensatz dazu gingen die Bruttoanlageinvestitionen insgesamt um 2,8 % zurück. Besonders ausgeprägt war der Rückgang bei den Ausrüstungsinvestitionen (-5,5 %), während die Bauinvestitionen um 3,5 % sanken 4. Auch der Außenhandel entwickelte sich rückläufig: Die Exporte verringerten sich preisbereinigt um 0,8 %, während die Importe leicht um 0,2 % zunahmen, sodass der Außenbeitrag insgesamt negativ ausfiel 4.
+
+Trotz der schwachen Konjunktur zeigte sich der Arbeitsmarkt weiterhin stabil. Die Zahl der Erwerbstätigen stieg im Jahresdurchschnitt 2024 leicht um 72.000 Personen (+0,2 %) auf insgesamt 46,1 Millionen Beschäftigte, wobei das Beschäftigungswachstum vor allem im Dienstleistungssektor zu verzeichnen war 4.
+
+Die herausfordernde gesamtwirtschaftliche Entwicklung wirkte sich auch auf das Konsumverhalten der privaten Haushalte aus. Während die Kaufzurückhaltung im Jahr 2023 deutlich spürbar war, kam es 2024 zu einer leichten Stabilisierung. Im B2C- E-Commerce stieg der Umsatz in Deutschland nach Angaben von Handelsdaten.de im Jahr 2024 um 3,8 % auf 88,8 Mrd. €. Für 2025 wird ein weiteres nominales Umsatzwachstum von 4,0 % prognostiziert 5.
+
+Prognosen, beispielsweise von Statista, gehen davon aus, dass das Marktvolumen von 7,2 Mrd. € im Jahr 2023 bis 2028 auf 11,5 Mrd. € ansteigen wird, was einem durchschnittlichen jährlichen Wachstum von rund 9,3 % entspricht. Da tink auch in Österreich, den Niederlanden, Belgien und Schweden aktiv ist, sind die Märkte außerhalb Deutschlands ebenfalls relevant. Für diese Länder prognostiziert Statista ein durchschnittliches jährliches Umsatzwachstum im Smart-Home-Segment von über 9,0 % in den kommenden fünf Jahren 6.
+
+Zusammenfassend bleibt festzuhalten, dass die gesamtwirtschaftliche Lage in Deutschland im Jahr 2024 durch eine leichte Rezession geprägt war. Während sich Konsum und Beschäftigung stabilisierten, belasteten schwache Investitionen und Exporte die konjunkturelle Entwicklung. Der B2C-E-Commerce und der Smart-Home- Markt zeigen trotz der allgemeinen Konjunkturschwäche ein moderates bis dynamisches Wachstum, sodass mittelfristig von positiven Impulsen für das Geschäftsmodell von tink ausgegangen werden kann.
+
+h ttps://www.bild.de/politik/bip-ueberraschung-deutsche-wirtschaft-um-0-4-prozent-gewachsen- 683011d07114e657db10f16e; https://www.welt.de/253864688
+4 Destatis - Konsum, Investitionen, Außenhandel, Beschäftigung 2024 https://www.destatis.de/DE/Presse/Pressemitteilungen/2025/01/PD25_019_811.html; https://www.ks-sued.de/news/bruttoinlandsprodukt-2024-fuer-deutschland-erste-jahresergebnisse-des-statistischen-bundesamtes/
+5 Handelsdaten.de - Umsatz im B2C-E-Commerce Deutschland https://www.handelsdaten.de/deutschsprachiger-einzelhandel/umsatz-im-b2c-e-commerce-deutschland-zeitreihe
+6 Statista - Prognose Smart-Home-Markt (bis 2028) https://de.statista.com/prognosen/883406/prognose-zum-smart-home-umsatz-in-deutschland
+
+2. Geschäftsverlauf und Lage der Gesellschaft
+
+tink erzielte im Geschäftsjahr 2024 einen Umsatz von knapp über MEUR 83,63. Dies entspricht einem Rückgang von 9 % im Vergleich zum Vorjahr, in dem ein Umsatz von MEUR 91,50 erzielt wurde.
+
+Der Rohertrag ist im Vergleich zum Vorjahr um 10 % gesunken. Obwohl zusätzliche Kosteneinsparungen - insbesondere bei den Werbeausgaben und den sonstigen betrieblichen Aufwendungen - realisiert wurden, verringerte sich das EBIT um MEUR 1,22 auf MEUR -4,11 (VJ: MEUR -2,89). Gleichzeitig verzeichneten wir einen Rückgang der liquiden Mittel um MEUR 4,64 im Vergleich zum Vorjahr.
+
+Das Jahr 2024 schließt mit einem Jahresfehlbetrag in Höhe von MEUR 3,98.
+
+Die Geschäftsleitung der tink GmbH bewertet die allgemeine Geschäftsentwicklung des Geschäftsjahres 2024 als negativ.
+
+Die Geschäftsführung hatte für das Jahr 2024 Umsatzerlöse von MEUR 116 und einen Rohertrag von rund MEUR 22 prognostiziert. Im Geschäftsjahr wurden Umsatzerlöse in Höhe von MEUR 83,63 erzielt. Die signifikante Planverfehlung in Bezug auf die Umsatzplanung ist auf eine gesunkene Kaufbereitschaft der Kunden zurückzuführen. Zudem konnte der Vertriebskanal des strategischen Partners Vattenfall aufgrund von gesetzlichen Regulierungen im Kontext der Energiekrise nur sehr limitiert genutzt werden. Der Rohertrag lag bei MEUR 14,87 MEUR, ebenfalls unter den prognostizierten MEUR 22, und stellt eine Abweichung von MEUR 7,13 gegenüber der Planung dar. Auch hier liegen die Ursachen überwiegend in einer geringen Kaufbereitschaft der Kunden.
+
+Das EBIT verschlechterte sich im Vergleich zum Vorjahr, erreichte somit nicht das prognostizierte Ziel von rund TEUR 456.
+
+Im Bereich des Cashflows erzielte das Unternehmen einen operativen Cashflow von TEUR -4.882. Die liquiden Mittel fielen von MEUR 10,54 zu Jahresbeginn auf MEUR 5,90 zum Jahresende, was unter der ursprünglichen Prognose von MEUR 14 liegt.
+
+Im Geschäftsjahr 2023 führte die Änderung des Energiewirtschaftsgesetzes (EnWG) zu einer signifikanten Anpassung der Vertragsmodelle und der angebotenen Produkte durch Energieanbieter. Aufgrund dieser regulatorischen Veränderungen konnte auch im Jahr 2024 keine signifikante Umsatzsteigerung bei den Industriepartnerumsätze im Vergleich zum Vorjahr kommen.
+
+Hervorzuheben ist außerdem das tink seine Marktstellung in allen vertretenen Märkten trotz jeweils umkämpfter Wettbewerbssituation festigen konnte.
+
+Die Geschäftsleitung von tink erwartet für das Geschäftsjahr 2025 ein, durch eine mögliche Rezession bedingtes, zunehmend herausforderndes Marktumfeld.
+
+3. Ertrags-, Finanz-, und Vermögenslage
+
+3.1 Ertragslage
+
+Die Umsatzerlöse sind im Berichtsjahr um MEUR 7,87 auf MEUR 83,63 gesunken (- 9 %). Diese Erlöse setzen sich aus den Segmenten Frontend, Backend sowie den Einnahmen aus Industriepartnerschaften zusammen. MEUR 52,94 entfallen auf das Frontend, MEUR 25,32 auf das Backend und MEUR 5,37 auf die Industriepartner. Sie verteilen sich auf verschiedene Absatzmärkte, darunter Österreich mit MEUR 3,63 (VJ: MEUR 4,58), Belgien mit MEUR 1,38 (VJ: MEUR 1,48), Deutschland mit MEUR 73,79 (VJ: MEUR 76,95), die Niederlande mit MEUR 4,79 (VJ: MEUR 7,78) und Schweden mit MEUR 0,04 (VJ: MEUR 0,70). Die Frontendumsätze verringerten sich im Jahr 2024 um 18 %, während die Industriepartnerumsätze sich leicht um 10 % erhöhten.
+
+Der Materialaufwand verzeichnete einen Rückgang von MEUR 5,07. Der Rohertrag betrug MEUR 14,87. Dies entspricht einer Rohmarge von 18 %.
+
+Die rückläufigen Umsatzerlöse im Geschäftsjahr 2024 resultieren insbesondere aus Schwächen im Kerngeschäft und auf den internationalen Märkten, während die Umsätze mit Industriepartnern hiervon ausgenommen sind. In Deutschland reduzierten sich die Umsatzerlöse auf MEUR 74, was eine Reduktion im Vergleich zum Vorjahr (MEUR 77) darstellt. Auch in Österreich verzeichneten wir einen Rückgang, mit Umsätzen von MEUR 3,63 gegenüber MEUR 4,58 im Vorjahr.
+
+In den Niederlanden und Belgien gingen die Umsätze weiter zurück, von MEUR 9,26 im Vorjahr auf MEUR 6,17 im aktuellen Jahr. Ähnlich verhielt es sich in Schweden, wo sich die Umsätze von TEUR 695 im Vorjahr auf TEUR 42 reduzierten.
+
+Diese Entwicklungen spiegeln die unterschiedlichen Marktbedingungen in den jeweiligen Ländern wider und werden in der weiteren strategischen Ausrichtung berücksichtigt.
+
+Der Personalaufwand hat sich im Jahr 2024 von MEUR 6,43 auf MEUR 5,67 vermindert (-12 %), um die Stabilisierung des Geschäftsmodells zu forcieren.
+
+Die Abschreibungen auf immaterielle Vermögensgegenstände und Sachanlagen betrugen TEUR 61. Abgesehen von den üblichen Abschreibungen auf Sachanlagen und immaterielle Vermögensgegenstände gab es im Geschäftsjahr keine außerplanmäßigen Abschreibungen. Die Abschreibungen beschränkten sich auf die planmäßige lineare Abschreibung.
+
+Die sonstigen betrieblichen Aufwendungen sind im Jahr 2024 von MEUR 12,94 auf MEUR 13,25 (2,38 %) gestiegen. Den größten Beitrag zur leichten Steigerung im Vergleich zum Vorjahr leisteten die um TEUR 123 gestiegenen Recruitingkosten, gefolgt von den Fremdleistungen mit TEUR 106.
+
+Das Berichtsjahr schließt mit einem Jahresfehlbetrag von MEUR 3,98 (VJ: MEUR 2,68). Im Jahr 2024 lag die Umsatzrentabilität bei -4,76 % (VJ: - 2,93 %). Die Eigenkapitalrentabilität ist von -10,71 % im Vorjahr auf -18,96 % im Berichtsjahr gefallen und die Gesamtkapitalrentabilität von -7,05 % auf -13,05 % gefallen.
+
+Zusammenfassend beurteilt die Geschäftsführung die Ertragslage trotz des höheren Jahresfehlbetrags im Vergleich zum Vorjahr als stagnierend.
+
+3.2 Finanzlage
+
+Die liquiden Mittel sind von MEUR 10,54 auf MEUR 5,90 gesunken (MEUR -4,64).
+
+Im Jahr 2024 verzeichnete das Unternehmen einen operativen Cashflow von TEUR - 4.882, was bedeutet, dass mehr Mittel für laufende Geschäftsaktivitäten ausgegeben wurden als eingenommen wurden. Trotz des negativen Gesamtcashflows zum Jahresende 2024 konnte das Unternehmen dank eines soliden Liquiditätsmanagements und einem starken vierten Quartal ausreichend Cash halten. Im Berichtszeitraum bestehen darüber hinaus keine wesentlichen Investitionsverpflichtungen.
+
+Die Liquidität 1. Grades liegt bei 66 % (VJ: 92 %). Dieser Wert ergibt sich durch die Gegenüberstellung der liquiden Mittel in Höhe von MEUR 5,90 zu den kurzfristigen Verbindlichkeiten von MEUR 9,00. Die Liquidität 2. Grades beträgt 286 % im Berichtsjahr und 262 % im Vorjahr. Hierbei werden zusätzlich zu den liquiden Mitteln die Forderungen aus L+L in Höhe von MEUR 19,87 berücksichtigt. Die Liquidität 3. Grades lag im Geschäftsjahr bei 297 % (VJ: 293 %). Bei dieser Kennzahl werden neben den liquiden Mitteln und den Forderungen zusätzlich die Vorräte in Höhe von MEUR 1,00 einbezogen.
+
+Die Zahlungsfähigkeit der Gesellschaft war im Berichtszeitraum jederzeit sichergestellt.
+
+Zusammenfassend beurteilt die Geschäftsführung die Finanzlage, trotz des negativen Gesamt-Cashflows, als zufriedenstellend.
+
+3.3 Vermögenslage
+
+Die Bilanzsumme zum 31. Dezember2024 betrug MEUR 30,5 (VJ: MEUR 38,0).
+
+Die immateriellen Vermögensgegenstände erhöhten sich im Jahr 2024 um TEUR 677. Grund war die Aktivierung von selbsterstellten immateriellen Vermögensgegenständen.
+
+Die Forderungen aus Lieferungen und Leistungen erhöhten sich im Berichtsjahr leicht um 5 % auf MEUR 19,9 (VJ: MEUR 18,9). Im Geschäftsjahr wurden zudem Forderungen gegen verbundene Unternehmen in Höhe von TEUR 292 vollständig einzelwertberichtigt.
+
+Die Eigenkapitalquote ist im Berichtsjahr auf 69 % gestiegen (VJ: 66 %). Die Fremdkapitalquote liegt dementsprechend bei 31 % im Berichtsjahr und 34 % im Vorjahr.
+
+Im Vergleich zum Vorjahr vermindert sich die Rückstellungen auf MEUR 0,50 (VJ: MEUR 1.753).
+
+Die Verbindlichkeiten aus Lieferungen und Leistungen sind im Vergleich zum Vorjahr im Jahr 2024 nahezu auf identischem Niveau. Sie betrugen im Berichtsjahr MEUR 8,0 und im Vorjahr MEUR 8,1. Die Verbindlichkeiten aus Lieferungen und Leistungen aus dem Berichtsjahr haben, wie im Vorjahr, eine Restlaufzeit von bis zu einem Jahr.
+
+Zusammenfassend beurteilt die Geschäftsführung die Vermögenslage als geordnet.
+
+3.4 Forschungs- und Entwicklungsbericht
+
+3.4.1. Überblick und Zielsetzung der F&E-Aktivitäten
+
+Die Gesellschaft betreibt keine kontinuierliche, personell fest verankerte Forschungs- und Entwicklungsabteilung. Die Entwicklungsaktivitäten erfolgen projektbezogen und orientieren sich direkt am strategischen Ausbau der bestehenden E-Commerce- Plattform sowie der Optimierung der technologischen Infrastruktur. Ziel ist es, die Wettbewerbsfähigkeit durch innovative Softwarelösungen zu sichern, insbesondere im Bereich Dropshipping und hochskalierbarer E-Commerce-Lösungen.
+
+3.4.2. Wesentliche Entwicklungsprojekte und Ergebnisse
+
+Im abgelaufenen Geschäftsjahr wurden verschiedene selbst entwickelte Module fertiggestellt oder weiterentwickelt. Diese stellen zentrale Bestandteile des Geschäftsmodells dar:
+
+scroll
+
+MODUL / PROJEKT	ZWECK & NUTZEN
+Storefront	Entwicklung eines hochperformanten, React-basierten Shop-Frontends für ein optimales Nutzererlebnis mit hoher Skalierbarkeit bei Lastspitzen.
+Magento ADS	Erweiterte, maßgeschneiderte E-Commerce-Lösung für komplexes Dropshipping und automatisiertes Order- Splitting.
+Checkout Application	PCI-konformes, API-basiertes Zahlungsmodul zur flexiblen Anbindung diverser Payment Service Provider und Optimierung des Checkout-Prozesses.
+White-Label-Shop- Bauplan	Blueprint für standardisierte und gleichzeitig individuell anpassbare Partner-Shops, der die schnelle Skalierung neuer White-Label-Mandanten ermöglicht.
+tink Services	Integration externer Servicepartner über APIs, um Zusatzleistungen wie Installation, Versicherungen oder SaaS-Dienste direkt im Bestellprozess anzubieten.
+Order Document Microservice	Automatisierte Generierung und Verwaltung aller orderrelevanten Dokumente wie Rechnungen, Lieferscheine und Retourenscheine.
+Backoffice	Eigenentwickeltes, API-basiertes m:n Order- Management-System als „Single Source of Truth“ zur Steuerung komplexer Dropshipping-Fulfillment- Prozesse.
+
+3.4.3. Organisation und Intensität der F&E
+
+Im Berichtszeitraum verfügte die Gesellschaft über keine eigene Forschungs- und Entwicklungsabteilung im klassischen Sinne. Interne Mitarbeitende wurden nicht in der F&E eingesetzt; sämtliche Entwicklungsleistungen wurden zu 100 % durch externe Partner, insbesondere spezialisierte Entwickleragenturen, erbracht. Die Forschungs- und Entwicklungsaktivitäten fanden ausschließlich projektbasiert statt und waren nicht als kontinuierlicher Funktionsbereich organisiert.
+
+Ziel der projektorientierten Entwicklung war die Weiterentwicklung der technologischen Plattform sowie die Integration neuer Partnerlösungen in die bestehende E-Commerce-Infrastruktur. Darüber hinaus lag der Fokus auf der Optimierung von Performance, Skalierbarkeit und Benutzerfreundlichkeit der Systeme. Insbesondere wurden neue Kernmodule für das komplexe Dropshipping- Modell des Unternehmens aufgebaut, um die Geschäftsprozesse effizienter, flexibler und digitaler gestalten zu können.
+
+3.4.4. Finanzielle Angaben zur F&E
+
+scroll
+
+Kennzahl	Geschäftsjahr 2024
+Gesamte F&E-Kosten	831.170,93 €
+Davon aktivierte Eigenleistungen	673.000,00 €
+Aktivierungsquote	≈ 81,0%
+Abschreibungen auf aktivierte Eigenleistungen	12.915,00 €
+
+3.4.5. Bewertung aus Unternehmenssicht
+
+Die Entwicklungsprojekte stellen einen wesentlichen Erfolgsfaktor für das Geschäftsmodell dar. Die im Berichtsjahr fertiggestellten und aktivierten Module erhöhen die Flexibilität in der Zahlungs- und Shoppintegration, die Skalierbarkeit im Bereich Dropshipping, die Automatisierung zentraler Prozesse und die Erweiterung des Serviceportfolios. Langfristig sollen diese Entwicklungen zu höherer Umsatzstabilität, Effizienzsteigerungen und Wettbewerbsvorteilen führen.
+
+III. Risiko- und Chancenbericht
+
+1. Risikobericht
+
+Die nachfolgenden Risiken sind entsprechend der Auswirkungen auf die Gesellschaft absteigend aufgeführt.
+
+1.1 Marktrisiken
+
+Im Geschäftsjahr 2024 war das marktwirtschaftliche Umfeld weiterhin von ernsthaften geopolitischen Spannungen geprägt. So verschärften sich die Konflikte im Nahen Osten, insbesondere Angriffe auf Schiffsrouten im Roten Meer, was zu erheblichen Störungen der globalen Lieferketten führte 7. Gleichzeitig bleibt das Risiko einer weiteren Eskalation im Russland-Ukraine-Konflikt bestehen, ebenso wie die Spannungen im asiatischen Raum - insbesondere die geopolitische Rivalität zwischen China und Taiwan - welche potenziell erhebliche Auswirkungen auf die Produktion strategisch wichtiger Komponenten wie Halbleiter haben.
+
+7 https://www.spglobal.com/content/dam/spglobal/corporate/en/images/general/look-forward/lookforward_supplychain_2024.pdf
+
+Darüber hinaus zeigen aktuelle Berichte eine zunehmende Fragmentierung der internationalen Lieferketten. Laut dem Allianz Risk Barometer 2024 bleibt die Gefahr von Betriebsunterbrechungen (Business Interruption) eine der größten Bedrohungen für Unternehmen, bedingt durch volatile Lieferketten und mangelnde Resilienz in der Zulieferstruktur 8.
+
+Politische Instabilität auf nationaler Ebene stellte ebenfalls ein erhebliches Risiko dar. Im November 2024 kam es in Deutschland zum Zusammenbruch der Regierungskoalition, ausgelöst durch die Entlassung des Finanzministers und führend zur Einsetzung einer Minderheitsregierung. Im Dezember wurde das Vertrauen der Regierung im Bundestag nicht wiederhergestellt, was schließlich zu vorgezogenen Bundestagswahlen im Februar 2025 führte 9. Diese politische Turbulenz schuf Unsicherheiten für mittel- bis langfristige wirtschaftliche Entscheidungen seitens der Unternehmen.
+
+Deutschland befindet sich in einer tiefgreifenden wirtschaftlichen Krise mit einem zweiten Rückgang des BIP im Jahr 2024. Experten sprechen von einer seit 2005 nicht gekannten Rezession, die durch hohe Energiepreise, nachholenden Strukturwandel, Produktivitätsschwächen und Demografieprobleme verursacht ist 10.
+
+1.2 Rechtliche Risiken
+
+tink speichert im Zuge seiner Geschäftsaktivitäten personenbezogene Daten, folglich ist der Datenschutz weiterhin von zentraler Bedeutung für das Unternehmen.
+
+Der Datenschutz gewinnt im Zeitalter der Digitalisierung zunehmend an Bedeutung für Unternehmen. Dieser umfasst nicht nur personenbezogene Daten, sondern auch viele weitere Bereiche wie Cookies, Nutzertracking und E-Mail-Kampagnen. Seit dem 25. Mai 2019 gilt die neue EU-Datenschutzgrundverordnung (EU-DSGVO) auch in Deutschland verbindlich.
+
+tink stellt durch Anpassung der Prozesse, die interne Datenschutzstelle und Mitarbeiterschulungen sicher, dass jegliche Neuerungen im DSGVO Kontext rechtzeitig und im vollen Umfang Anwendung finden. Das Unternehmen arbeitet zur Sicherstellung aller Regularien zusätzlich mit externen Datenschutzbeauftragten zusammen.
+
+1.3 Personalrisiken
+
+Wie auch in den vergangenen Jahren ist das Recruiting und der Erhalt, sowie die Weiterentwicklung hochqualifizierter Arbeitskräfte für tink von zentraler Bedeutung für den Geschäftserfolg.
+
+8 https://commercial.allianz.com/content/dam/onemarketing/commercial/commercial/reports/Allianz- Risk-Barometer-2024.pdf
+9 https://en.wikipedia.org/wiki/2024_German_government_crisis
+10 https://en.wikipedia.org/wiki/German_economic_crisis_%282022%E2%80%93present%29
+
+tink betreibt sämtliche internationalen Geschäftsaktivitäten aus Berlin, Deutschland. Die Stadt bietet einen strategischen Standortvorteil für die Rekrutierung von Fachpersonal aus den jeweiligen internationalen Märkten. Zudem bietet die hier ansässige Start-up- und Tech-Branche Chancen für das Anwerben von Talenten von anderen Unternehmen. Gleichzeitig hält der Trend des „War for Talent“ auch in diesem Jahr an. Besonders Personal mit spezifischem Fachwissen wird von zahlreichen Unternehmen gesucht und die Nachfrage übersteigt häufig das Angebot. Um sich in diesem Wettbewerb zu differenzieren, verfolgt tink ein zunehmend starkes Employer Branding und hält an der deutlich wettbewerbsfähigen Vergütungs- und Benefit- Strategie fest.
+
+Die Abwanderung von Wissen stellt vor dem Hintergrund allgemein sinkender Verweildauern von Mitarbeitern in deutschen Unternehmen ein Risiko für tink dar. Um die Fluktuation zu minimieren und Mitarbeiter zu entwickeln, ergreift tink aktive Maßnahmen. Hier zählt die individuelle Erarbeitung von Entwicklungspläne je Mitarbeiter und regelmäßige Mitarbeiterbefragungen in der gesamten Belegschaft. Zudem haben alle Mitarbeiter die Möglichkeit Verbesserungsvorschläge anonym zu äußern, welche bei der Definition der Unternehmensstrategie und operativen Maßnahmen berücksichtigt werden.
+
+Um eine gesunde Work-Life-Balance zu schaffen, bietet tink den Mitarbeitern die Möglichkeit, im Homeoffice und Remote zu arbeiten. Weiterhin bezuschusst tink das Fitnessangebot von “Urban Sports Club”, um den Mitarbeitern einen sportlichen Ausgleich zu ermöglichen, und bietet zahlreiche Schulungen zu Fachthemen sowie mentaler Gesundheit und Soft Skills an.
+
+1.4 Strategische Risiken
+
+Seit der Gründung von tink konnte sich das Unternehmen als einer der relevantesten Experten für Smart Home Lösungen in allen aktiven Märkten etablieren. Die Alleinstellungsmerkmale bezüglich der Produkte, Marken, Content, Marketing, Beratung, Services, etc. konnten auch in diesem Jahr erfolgreich ausgebaut und gegenüber Konkurrenten verteidigt werden.
+
+Gleichzeitig agiert tink im E-Commerce Markt mit aggressivem Wettbewerb bezüglich Qualität und Preis. tink hat den Anspruch stets eine führende Rolle bei internen und kundenbezogenen Innovationen einzunehmen. Hierfür passt sich das Unternehmen agil an veränderte Kundenbedürfnisse und ein dynamisches Wettbewerbsumfeld an.
+
+Zu Marktentwicklungen, welche tink antizipiert und entsprechende Strategien definiert gehören: kurz- bis mittelfristige aggressive Preisstrategien von Konkurrenten, sinkende Kaufkraft der Kunden, Lieferengpässe und die Abhängigkeit von einzelnen Partnern, technische Innovationen im Marketing und Sales Prozess.
+
+1.5 Finanzwirtschaftliche Risiken
+
+Aufgrund der anhaltend hohen Inflation verbleibt auch der Leitzins der EZB auf einem hohen Niveau (seit Juni 2025 auf 2,00 %). Folglich steigen die Kosten von Eigen- und Fremdkapitalfinanzierungen. Gleichzeitig besteht weder unterjährig noch gemäß der aktuellen Mehrjahresplanung ein Kapitalbedarf für tink. Vielmehr ermöglicht das aktuelle Zinsumfeld tink die Anlage liquider Mittel.
+
+Aufgrund des anhaltenden starken Wachstums tinks ist ein aktives Working Capital Management weiterhin im Fokus. Hierzu zählt das Management von Zahlungszielen, Kreditlinien, Boni, Anzahlungen und des Warenumschlags. Aufgrund dieser Bemühungen ist sichergestellt das die Liquidität trotz steigender Umsätze erhöht wird.
+
+Zum Bilanzstichtag bestehen keine bestandsgefährdenden Risiken, die die Fortführung des Unternehmens in Frage stellen könnten.
+
+2. Chancenbericht
+
+2.1 Strategische Chancen
+
+Im Rahmen der Energiekrise wurde die Bedeutung von einem reduzierten Energieverbrauch und einem nachhaltigeren Leben anhaltend gesteigert. Eine Vielzahl von Smart Home Lösungen kann zur Reduzierung des Energieverbrauchs beitragen und somit einen wichtigen Beitrag zu einem nachhaltigeren Leben leisten.
+
+Dieser langfristige Trend nach nachhaltigen und autarken Wohnungen und Häusern bietet für tink die Chance, das Angebot smarter Energielösungen stark zu erweitern und nachhaltig neue Kundengruppen zu erschließen. Zusätzlich ergibt sich hierdurch die Möglichkeit tinks bestehende strategische Partnerschaften, um Nachhaltigkeitsangebote zu erweitern und neue langfristig angelegte Partnerschaften zu entwickeln.
+
+Wie auch in den vergangenen Jahren wächst der Smart Home Markt in allen europäischen Ländern. Gleiches gilt für den Vertriebsweg E-Commerce. Dies ist auch darauf zurückzuführen, dass eine Mehrzahl der Hersteller ihre Produkte auf smarte Technologien umstellen und hierdurch die Anwendungsfälle smarter Technologien ständig erweitern. tink als Smart Home Experte hat somit die Chance überproportional am natürlichen Marktwachstum zu partizipieren.
+
+Zusätzliche Chancen ergeben sich durch die zunehmende Relevanz des herstellerübergreifenden Smart Home Verbindungsstandards „Matter“. Dieser priorisiert erstmalig die herstellerübergreifende Konnektivität von Geräten sowie das Einbinden von Hardware in die Steuerungssoftware anderer Hersteller. Hierdurch werden Eintrittsbarrieren für Konsumenten abgebaut und die Anzahl realer Use Cases von Smart Home erhöht. Dies macht Smart Home attraktiver für den Verbraucher.
+
+Wie bereits im vergangenen Jahr antizipiert, besteht eine weitere strategische Chance in der Entwicklung von künstlicher Intelligenz nutzenden Anwendungen wie „ChatGPT“. Diese kommen immer häufiger in Smart Home Produkten zur Anwendung, erhöhen den Funktionsumfang deutlich und erleichtern die Anwendung der Produkte. Zusätzlich konnte ein großes Kosteneinsparungspotenzial auf Seiten von tink durch den Einsatz smarter Chatbots und Textgenerierungsmodelle z.B. im Kundenservice und den Content-Teams realisiert werden.
+
+2.2 Marktchancen
+
+Der Smart-Home-Markt in Europa zeigt für das Jahr 2024 ein beachtliches Wachstumspotenzial. Nach Schätzung von ResearchAndMarkets belief sich der Marktwert in diesem Jahr auf 22,11 Milliarden USD (ca. 19 Mrd.€) und soll bis 2029 auf 29,24 Milliarden USD steigen, was einem jährlichen Wachstum (CAGR) von 5,7 % entspricht 11. Parallel prognostiziert Verified Market Research, dass sich der voluminöse Marktwert ab 2024 mit einem CAGR von 9,4 % bis 2031 auf 58,14 Milliarden USD mehr als verdoppeln wird 12. Diese divergierenden Prognosen zeigen, dass der Smart-Home-Markt in Europa weiterhin eine strategisch attraktive Wachstumsplattform darstellt, insbesondere da technologische Innovationen und der strategische Fokus auf Energieeffizienz den Markt antreiben.
+
+11 ResearchAndMarkets - Europa Smart-Home-Markt https://www.globenewswire.com/news-release
+/2025/01/31/3018692/28124/en/European-Smart-
+Home-Market-Report-2024-2029-Rising-Need-for-Energy-Saving-and-Low-Carbon-Emission-oriented-Solutions.html
+12 Verified Market Research Marktwertprojektion ab 2024 https://www.verifiedmarketresearch.com/product/european-smart-homes-market
+
+Ein entscheidender Wachstumsfaktor liegt in der zunehmenden Priorisierung von Energieeffizienz und Nachhaltigkeit im Rahmen nationaler Klimaziele. Regierungen fördern gezielt technologiegestützte Lösungen: Beispielsweise unterstützen Programme wie das deutsche „Next Generation Media Programme“ die Integration energieeffizienter Smart-Home-Technologien in Wohngebäuden 13.
+
+Smarte Technologien gewinnen an Bedeutung bei der Erreichung der Klimaziele und es werden zusätzliche staatliche Förderungen erwartet.
+
+IV. Prognosebericht
+
+1. Gesamtwirtschaftliches Umfeld
+
+Die voraussichtliche Entwicklung der tink GmbH im gesamtwirtschaftlichen Umfeld ist nach Abwägung aller Chancen und Risiken weiterhin als positiv zu beurteilen. Die Konsumentenstimmung im Allgemeinen ist kurzfristig durch die unsichere geopolitische und wirtschaftliche Lage betroffen. Insbesondere die Smart-Home- Produktkategorie bietet durch ihre energiesparenden Funktionen und den technologisch bedingten Nutzen Möglichkeiten, im schwierigen gesamtwirtschaftlichen Umfeld überproportional zu wachsen. tink nutzt die sich hierdurch ergebene Chance und verfolgt weiterhin das Ziel den Ausbau von smarten und klimafreundlichen Wohnungen und Häusern für Jedermann zu ermöglichen.
+
+2. Branchenumfeld
+
+Die voraussichtliche Entwicklung der tink GmbH innerhalb der Branche ist nach Abwägung aller Chancen und Risiken als herausfordernd zu beurteilen. Für den Smart Home Markt im Besonderen werden starke Wachstumsraten prognostiziert. tink konnte zeigen, dass die starke Positionierung als Smart Home Experte eine starke Kundennachfrage bedient und entsprechenden Erfolg für das Unternehmen generiert.
+
+3. Erwartete Geschäfts- und Ertragsentwicklung
+
+Das Eigenkapital aus der letzten Finanzierungsrunde (Series D) stellt die ausreichende Finanzierung der Gesellschaft für die kommenden Jahre sicher.
+
+Angesichts der kontinuierlichen Steigerung der CSAT-Kundenzufriedenheit im Jahr 2024, sehen wir optimistisch einer weiteren positiven Entwicklung im Jahr 2025 entgegen und erwarten eine moderate Steigerung der Kundenzufriedenheit.
+
+13 ResearchAndMarkets / IoT M2M Council - Energieeffizienzförderung, Behavior-Segment, Smart Home Treiber https://www.iotm2mcouncil.org/iot-library/news/smart-building-construction-news/europe-smart-home-market-set-for-14-cagr/
+
+Basierend auf aktuellen Markttrends und geplanten Innovationsaktivitäten prognostizieren wir eine anhaltende leicht positive Entwicklung des Kundenstamms, unterstützt durch verbesserte Produktangebote, während wir gleichzeitig auf eine stärkere digitale Präsenz setzen, um die Reputation des Unternehmens weiter zu stärken. Mit weiterhin engagierter Unterstützung und gezielten Maßnahmen erwarten wir einen anhaltend positiven Trend in der Mitarbeiterzufriedenheit. Weiterhin prognostiziert die Geschäftsführung für 2025 Umsatzerlöse in Höhe von MEUR 97, begleitet von einem Rohertrag von rd. MEUR 17. Im Ausblick auf das kommende Geschäftsjahr erwarten wir einen EBIT von rund TEUR 69. Die Finanzprognose deutet darauf hin, dass der operative Cashflow zum Jahresende 2025 voraussichtlich MEUR 1,32 erreichen wird. Diese Prognosen basieren auf sorgfältiger Analyse der aktuellen Geschäftssituation, Marktbedingungen und geplanter strategischer Maßnahmen.
+
+Durch den umfangreichen Ausbau smarter Energielösungen, die Erweiterung des Marken- und Produktportfolios, neuer Services und dem weiteren Ausbau strategischer Partnerschaften ist zu erwarten, dass im Jahr 2025 zusätzliche Umsätze erwirtschaftet werden.
+
+Angesichts des Makroumfelds werden immer noch Investitionen priorisiert, die ein moderates Risikoprofil aufweisen. Somit setzt tink aktuell exemplarisch auf den Ausbau seiner „Energy Solutions“ Kategorie in Partnerschaft mit strategischen Partnern. Zusätzlich liegt der Fokus weiterhin auf der Optimierung des Kerngeschäfts durch kundenorientierte, skalierbare und kosteneffizientere Prozesse.
+
+Berlin, den 05. September 2025
+
+Dr. Marius Lissautzki, CEO / Geschäftsführer
+
+Daniel Gorr, CMO /Geschäftsführer
+
+BESTÄTIGUNGSVERMERK DES UNABHÄNGIGEN ABSCHLUSSPRÜFERS
+
+An die tink GmbH, Berlin
+
+Prüfungsurteile
+
+Wir haben den Jahresabschluss der tink GmbH - bestehend aus der Bilanz zum 31. Dezember 2024 und der Gewinn- und Verlustrechnung für das Geschäftsjahr vom 1. Januar bis zum 31. Dezember 2024 sowie dem Anhang, einschließlich der Darstellung der Bilanzierungs- und Bewertungsmethoden - geprüft. Darüber hinaus haben wir den Lagebericht der tink GmbH für das Geschäftsjahr vom 1. Januar bis zum 31. Dezember 2024 geprüft.
+
+Nach unserer Beurteilung aufgrund der bei der Prüfung gewonnenen Erkenntnisse
+
+•
+
+entspricht der beigefügte Jahresabschluss in allen wesentlichen Belangen den deutschen, für Kapitalgesellschaften geltenden handelsrechtlichen Vorschriften und vermittelt unter Beachtung der deutschen Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens- und Finanzlage der Gesellschaft zum 31. Dezember 2024 sowie ihrer Ertragslage für das Geschäftsjahr vom 1. Januar bis zum 31. Dezember 2024 und
+
+•
+
+vermittelt der beigefügte Lagebericht insgesamt ein zutreffendes Bild von der Lage der Gesellschaft. In allen wesentlichen Belangen steht dieser Lagebericht in Einklang mit dem Jahresabschluss, entspricht den deutschen gesetzlichen Vorschriften und stellt die Chancen und Risiken der zukünftigen Entwicklung zutreffend dar.
+
+Gemäß § 322 Abs. 3 Satz 1 HGB erklären wir, dass unsere Prüfung zu keinen Einwendungen gegen die Ordnungsmäßigkeit des Jahresabschlusses und des Lageberichts geführt hat.
+
+Grundlage für die Prüfungsurteile
+
+Wir haben unsere Prüfung des Jahresabschlusses und des Lageberichts in Übereinstimmung mit § 317 HGB unter Beachtung der vom Institut der Wirtschaftsprüfer (IDW) festgestellten deutschen Grundsätze ordnungsmäßiger Abschlussprüfung durchgeführt. Unsere Verantwortung nach diesen Vorschriften und Grundsätzen ist im Abschnitt „Verantwortung des Abschlussprüfers für die Prüfung des Jahresabschlusses und des Lageberichts“ unseres Bestätigungsvermerks weitergehend beschrieben. Wir sind von dem Unternehmen unabhängig in Übereinstimmung mit den deutschen handelsrechtlichen und berufsrechtlichen Vorschriften und haben unsere sonstigen deutschen Berufspflichten in Übereinstimmung mit diesen Anforderungen erfüllt. Wir sind der Auffassung, dass die von uns erlangten Prüfungsnachweise ausreichend und geeignet sind, um als Grundlage für unsere Prüfungsurteile zum Jahresabschluss und zum Lagebericht zu dienen.
+
+Verantwortung der gesetzlichen Vertreter für den Jahresabschluss und den Lagebericht
+
+Die gesetzlichen Vertreter sind verantwortlich für die Aufstellung des Jahresabschlusses, der den deutschen, für Kapitalgesellschaften geltenden handelsrechtlichen Vorschriften in allen wesentlichen Belangen entspricht, und dafür, dass der Jahresabschluss unter Beachtung der deutschen Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage der Gesellschaft vermittelt. Ferner sind die gesetzlichen Vertreter verantwortlich für die internen Kontrollen, die sie in Übereinstimmung mit den deutschen Grundsätzen ordnungsmäßiger Buchführung als notwendig bestimmt haben, um die Aufstellung eines Jahresabschlusses zu ermöglichen, der frei von wesentlichen falschen Darstellungen aufgrund von dolosen Handlungen (d.h. Manipulationen der Rechnungslegung und Vermögensschädigungen) oder Irrtümern ist.
+
+Bei der Aufstellung des Jahresabschlusses sind die gesetzlichen Vertreter dafür verantwortlich, die Fähigkeit der Gesellschaft zur Fortführung der Unternehmenstätigkeit zu beurteilen. Des Weiteren haben sie die Verantwortung, Sachverhalte in Zusammenhang mit der Fortführung der Unternehmenstätigkeit, sofern einschlägig, anzugeben. Darüber hinaus sind sie dafür verantwortlich, auf der Grundlage des Rechnungslegungsgrundsatzes der Fortführung der Unternehmenstätigkeit zu bilanzieren, sofern dem nicht tatsächliche oder rechtliche Gegebenheiten entgegenstehen.
+
+Außerdem sind die gesetzlichen Vertreter verantwortlich für die Aufstellung des Lageberichts, der insgesamt ein zutreffendes Bild von der Lage der Gesellschaft vermittelt sowie in allen wesentlichen Belangen mit dem Jahresabschluss in Einklang steht, den deutschen gesetzlichen Vorschriften entspricht und die Chancen und Risiken der zukünftigen Entwicklung zutreffend darstellt. Ferner sind die gesetzlichen Vertreter verantwortlich für die Vorkehrungen und Maßnahmen (Systeme), die sie als notwendig erachtet haben, um die Aufstellung eines Lageberichts in Übereinstimmung mit den anzuwendenden deutschen gesetzlichen Vorschriften zu ermöglichen, und um ausreichende geeignete Nachweise für die Aussagen im Lagebericht erbringen zu können.
+
+Verantwortung des Abschlussprüfers für die Prüfung des Jahresabschlusses und des Lageberichts
+
+Unsere Zielsetzung ist, hinreichende Sicherheit darüber zu erlangen, ob der Jahresabschluss als Ganzes frei von wesentlichen falschen Darstellungen aufgrund von dolosen Handlungen oder Irrtümern ist, und ob der Lagebericht insgesamt ein zutreffendes Bild von der Lage der Gesellschaft vermittelt sowie in allen wesentlichen Belangen mit dem Jahresabschluss sowie mit den bei der Prüfung gewonnenen Erkenntnissen in Einklang steht, den deutschen gesetzlichen Vorschriften entspricht und die Chancen und Risiken der zukünftigen Entwicklung zutreffend darstellt, sowie einen Bestätigungsvermerk zu erteilen, der unsere Prüfungsurteile zum Jahresabschluss und zum Lagebericht beinhaltet.
+
+Hinreichende Sicherheit ist ein hohes Maß an Sicherheit, aber keine Garantie dafür, dass eine in Übereinstimmung mit § 317 HGB unter Beachtung der vom Institut der Wirtschaftsprüfer (IDW) festgestellten deutschen Grundsätze ordnungsmäßiger Abschlussprüfung durchgeführte Prüfung eine wesentliche falsche Darstellung stets aufdeckt. Falsche Darstellungen können aus dolosen Handlungen oder Irrtümern resultieren und werden als wesentlich angesehen, wenn vernünftigerweise erwartet werden könnte, dass sie einzeln oder insgesamt die auf der Grundlage dieses Jahresabschlusses und Lageberichts getroffenen wirtschaftlichen Entscheidungen von Adressaten beeinflussen.
+
+Während der Prüfung üben wir pflichtgemäßes Ermessen aus und bewahren eine kritische Grundhaltung. Darüber hinaus
+
+•
+
+identifizieren und beurteilen wir die Risiken wesentlicher falscher Darstellungen im Jahresabschluss und im Lagebericht aufgrund von dolosen Handlungen oder Irrtümern, planen und führen Prüfungshandlungen als Reaktion auf diese Risiken durch sowie erlangen Prüfungsnachweise, die ausreichend und geeignet sind, um als Grundlage für unsere Prüfungsurteile zu dienen Das Risiko, dass eine aus dolosen Handlungen resultierende wesentliche falsche Darstellung nicht aufgedeckt wird, ist höher als das Risiko, dass eine aus Irrtümern resultierende wesentliche falsche Darstellung nicht aufgedeckt wird, da dolosen Handlungen kollusives Zusammenwirken, Fälschungen, beabsichtigte Unvollständigkeiten, irreführende Darstellungen bzw. das Außerkraftsetzen interner Kontrollen beinhalten können.
+
+•
+
+erlangen wir ein Verständnis von den für die Prüfung des Jahresabschlusses relevanten internen Kontrollen und den für die Prüfung des Lageberichts relevanten Vorkehrungen und Maßnahmen, um Prüfungshandlungen zu planen, die unter den Umständen angemessen sind, jedoch nicht mit dem Ziel, ein Prüfungsurteil zur Wirksamkeit der internen Kontrollen der Gesellschaft bzw. dieser Vorkehrungen und Maßnahmen abzugeben.
+
+•
+
+beurteilen wir die Angemessenheit der von den gesetzlichen Vertretern angewandten Rechnungslegungsmethoden sowie die Vertretbarkeit der von den gesetzlichen Vertretern dargestellten geschätzten Werte und damit zusammenhängenden Angaben.
+
+•
+
+ziehen wir Schlussfolgerungen über die Angemessenheit des von den gesetzlichen Vertretern angewandten Rechnungslegungsgrundsatzes der Fortführung der Unternehmenstätigkeit sowie, auf der Grundlage der erlangten Prüfungsnachweise, ob eine wesentliche Unsicherheit im Zusammenhang mit Ereignissen oder Gegebenheiten besteht, die bedeutsame Zweifel an der Fähigkeit der Gesellschaft zur Fortführung der Unternehmenstätigkeit aufwerfen können. Falls wir zu dem Schluss kommen, dass eine wesentliche Unsicherheit besteht, sind wir verpflichtet, im Bestätigungsvermerk auf die dazugehörigen Angaben im Jahresabschluss und im Lagebericht aufmerksam zu machen oder, falls diese Angaben unangemessen sind, unser jeweiliges Prüfungsurteil zu modifizieren. Wir ziehen unsere Schlussfolgerungen auf der Grundlage der bis zum Datum unseres Bestätigungsvermerks erlangten Prüfungsnachweise. Zukünftige Ereignisse oder Gegebenheiten können jedoch dazu führen, dass die Gesellschaft ihre Unternehmenstätigkeit nicht mehr fortführen kann.
+
+•
+
+beurteilen wir die Gesamtdarstellung, den Aufbau und den Inhalt des Jahresabschlusses einschließlich der Angaben sowie ob der Jahresabschluss die zugrunde liegenden Geschäftsvorfälle und Ereignisse so darstellt, dass der Jahresabschluss unter Beachtung der deutschen Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage der Gesellschaft vermittelt.
+
+•
+
+beurteilen wir den Einklang des Lageberichts mit dem Jahresabschluss, seine Gesetzesentsprechung und das von ihm vermittelte Bild von der Lage des Unternehmens.
+
+•
+
+führen wir Prüfungshandlungen zu den von den gesetzlichen Vertretern dargestellten zukunftsorientierten Angaben im Lagebericht durch. Auf Basis ausreichender geeigneter Prüfungsnachweise vollziehen wir dabei insbesondere die den zukunftsorientierten Angaben von den gesetzlichen Vertretern zugrunde gelegten bedeutsamen Annahmen nach und beurteilen die sachgerechte Ableitung der zukunftsorientierten Angaben aus diesen Annahmen. Ein eigenständiges Prüfungsurteil zu den zukunftsorientierten Angaben sowie zu den zugrunde liegenden Annahmen geben wir nicht ab. Es besteht ein erhebliches unvermeidbares Risiko, dass künftige Ereignisse wesentlich von den zukunftsorientierten Angaben abweichen.
+
+Wir erörtern mit den für die Überwachung Verantwortlichen unter anderem den geplanten Umfang und die Zeitplanung der Prüfung sowie bedeutsame Prüfungsfeststellungen, einschließlich etwaiger bedeutsamer Mängel in internen Kontrollen, die wir während unserer Prüfung feststellen.
+
+Berlin, den 5. September
+
+Baker Tilly GmbH & Co. KG
+Wirtschaftsprüfungsgesellschaft
+
+Dr. Dominic Sommerhoff, Wirtschaftsprüfer
+
+Patrick Franke, Wirtschaftsprüfer

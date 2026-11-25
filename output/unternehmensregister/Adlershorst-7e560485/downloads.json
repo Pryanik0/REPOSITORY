@@ -1,0 +1,56 @@
+[
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=bkMb80MwubMln2usrABwZeeNSAKtmmlVmUs-STPH-D3ssEfGOG1fWBfRPJgRGqAZ_qM3353Jat46FQoO_XwSEaaY3Xz47woJp74O2xw9zowxQDgFf3dF6G0NlDkxtx5L682mkxhXKlBRHaLfmZ0OcdNbSqdJ9dw63Y5B756MSiyECf9bHeGpBdAn7oRiOQhEFtmbwtbOCKZ4acJCUpOpralZnlrJ4rLEveQjqQchUnga9kDZ",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Adlershorst-7e560485\\finanzberichte\\publication-1\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Adlershorst-7e560485\\finanzberichte\\publication-1\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Adlershorst-7e560485\\finanzberichte\\publication-1\\publication.txt",
+    "index": 1,
+    "category": "finanzberichte",
+    "company": "ADLERSHORST Immobilien GmbH, Norderstedt",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+    "documents_path": "output\\unternehmensregister\\Adlershorst-7e560485\\finanzberichte\\publication-1\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=ymLTnrkSIF3F5fzqVk6WRl5j2RYBSSiRXfNAl5vU6ZqrGQprA9fA4b_7Ic9KxqRhBvC6X0OFwR2NbtP5hs8mvSW1gh4X9gW7wIMszQr6rGzhC-PDyqnk4KrL3iObHzOpV47aumct8ibh-y_cZKWS5cHwU1FCC4OMouIrsAwdOqdntOXG8UMEZTrQrqnbzgk5FPMUbYbUIkah0OOCwcHxfLyy9-nP6IklwVgPpuQYJCKMdQvM",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Adlershorst-7e560485\\finanzberichte\\publication-2\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Adlershorst-7e560485\\finanzberichte\\publication-2\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Adlershorst-7e560485\\finanzberichte\\publication-2\\publication.txt",
+    "index": 2,
+    "category": "finanzberichte",
+    "company": "ADLERSHORST Baukontor GmbH, Norderstedt",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+    "documents_path": "output\\unternehmensregister\\Adlershorst-7e560485\\finanzberichte\\publication-2\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=5EAMaol8L8L0oZ4swpLg3DeTtcHW3rHSFc8mO0k5HD8_XpKRLXZud463GoIFJd-LugrShNs7HTuFDij8S0k3xvSCZhStL0BBXAETll8tzWn03_yiyxRdIIEn9lCiTra9F26u_ACJIf5XOTWKQhCTBCC0JNSThj6FPKy9ifVbC5OafLxKQfLkUfC7G6vJjRvlbUsN6YYe9DCSalNni8G13L1us1TLZ5YUO0XPitj3kKHnII7w",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Adlershorst-7e560485\\finanzberichte\\publication-3\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Adlershorst-7e560485\\finanzberichte\\publication-3\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Adlershorst-7e560485\\finanzberichte\\publication-3\\publication.txt",
+    "index": 3,
+    "category": "finanzberichte",
+    "company": "ADLERSHORST Baugenossenschaft eG, Norderstedt",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+    "documents_path": "output\\unternehmensregister\\Adlershorst-7e560485\\finanzberichte\\publication-3\\documents.json"
+  }
+]

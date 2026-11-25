@@ -1,0 +1,223 @@
+{
+  "provider": "kununu",
+  "backend": "browser",
+  "status": "ok",
+  "query": "FINVIA Family Office GmbH",
+  "profile": {
+    "url": "https://www.kununu.com/de/finvia-family-office",
+    "name": "Finvia Family Office GmbH",
+    "overall_score": 3.8,
+    "review_count": 11,
+    "recommendation_percent": 67,
+    "recommendation_period": "last_2_years",
+    "observed_at": "2026-11-25T17:19:08.575791+00:00"
+  },
+  "reviews": [
+    {
+      "id": "6ae928b3-c5ea-4a19-a922-20fcb271e29c",
+      "url": "https://www.kununu.com/de/finvia-family-office/bewertung/6ae928b3-c5ea-4a19-a922-20fcb271e29c",
+      "title": "Top Arbeitgeber",
+      "content": "Sehr angenehmes Miteinander",
+      "rating": 4.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Sehr angenehmes Miteinander"
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": 4.0,
+        "image": 4.0,
+        "environment": null,
+        "tasks": 5.0
+      },
+      "published_at": "2024-12-24T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "88f10f27-05a9-4a90-b0fb-29ef30b57a3f",
+      "url": "https://www.kununu.com/de/finvia-family-office/bewertung/88f10f27-05a9-4a90-b0fb-29ef30b57a3f",
+      "title": "Es gibt andere MFOs",
+      "content": "",
+      "rating": 3.2,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 3.0,
+        "communication": 1.0,
+        "workConditions": 5.0,
+        "leadership": 1.0,
+        "teamwork": 4.0,
+        "oldColleagues": 5.0,
+        "equality": 4.0,
+        "career": 2.0,
+        "salary": 3.0,
+        "image": 2.0,
+        "environment": 2.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-08-09T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "689cb11c-e994-4543-b703-3c0dcf7a76e7",
+      "url": "https://www.kununu.com/de/finvia-family-office/bewertung/689cb11c-e994-4543-b703-3c0dcf7a76e7",
+      "title": "Marktüblich aber ohne benefits",
+      "content": "",
+      "rating": 3.4,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 4.0,
+        "communication": 3.0,
+        "workConditions": 5.0,
+        "leadership": 4.0,
+        "teamwork": 3.0,
+        "oldColleagues": null,
+        "equality": 3.0,
+        "career": 3.0,
+        "salary": 3.0,
+        "image": 3.0,
+        "environment": 3.0,
+        "tasks": 3.0
+      },
+      "published_at": "2025-09-15T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    }
+  ],
+  "review_limit": 15,
+  "review_period": {
+    "since": "2024-11-25T00:00:00+00:00",
+    "until": "2026-11-25T17:19:06.972213+00:00",
+    "date_field": "published_at",
+    "missing_dates": "excluded"
+  },
+  "factor_scores_aggregated": {
+    "atmosphere": {
+      "mean": 4.33,
+      "count": 3
+    },
+    "workLife": {
+      "mean": 4.0,
+      "count": 3
+    },
+    "communication": {
+      "mean": 3.0,
+      "count": 3
+    },
+    "workConditions": {
+      "mean": 5.0,
+      "count": 3
+    },
+    "leadership": {
+      "mean": 3.33,
+      "count": 3
+    },
+    "teamwork": {
+      "mean": 4.0,
+      "count": 3
+    },
+    "oldColleagues": {
+      "mean": 5.0,
+      "count": 1
+    },
+    "equality": {
+      "mean": 3.5,
+      "count": 2
+    },
+    "career": {
+      "mean": 2.5,
+      "count": 2
+    },
+    "salary": {
+      "mean": 3.33,
+      "count": 3
+    },
+    "image": {
+      "mean": 3.0,
+      "count": 3
+    },
+    "environment": {
+      "mean": 2.5,
+      "count": 2
+    },
+    "tasks": {
+      "mean": 4.33,
+      "count": 3
+    }
+  },
+  "coverage": "bounded_employee_review_sample_last_2_years_not_all_reviews",
+  "diagnostics": {
+    "pages": [
+      {
+        "page": "reviews",
+        "page_number": 1,
+        "load_more_clicks": 0,
+        "requested_url": "https://www.kununu.com/de/finvia-family-office/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\FINVIA-Family-Office-GmbH-8726f618\\browser\\reviews.html",
+        "browser_step": 152,
+        "final_url": "https://www.kununu.com/de/finvia-family-office/kommentare",
+        "observed_at": "2026-11-25T17:19:08.225138+00:00",
+        "http_status": 200,
+        "factor_cards_expanded": 3,
+        "reviews_collected": 3
+      },
+      {
+        "page": "reviews",
+        "page_number": 2,
+        "load_more_clicks": 1,
+        "requested_url": "https://www.kununu.com/de/finvia-family-office/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\FINVIA-Family-Office-GmbH-8726f618\\browser\\reviews-2.html",
+        "browser_step": 153,
+        "final_url": "https://www.kununu.com/de/finvia-family-office/kommentare",
+        "observed_at": "2026-11-25T17:19:09.159920+00:00",
+        "actions_complete": true,
+        "reviews_collected": 3
+      }
+    ]
+  },
+  "source_url": "https://www.kununu.com/de/finvia-family-office",
+  "profile_source": "https://www.kununu.com/de/finvia-family-office/kommentare",
+  "review_stop_reason": "end_of_available_reviews",
+  "factor_score_coverage": {
+    "reviews_with_scores": 3,
+    "reviews_without_scores": 0,
+    "reviews_with_all_known_scores": 1,
+    "status": "partial"
+  },
+  "request_limits": {
+    "max_browser_steps": 295,
+    "browser_steps": 153,
+    "zyte_requests": 0
+  },
+  "reason": null
+}

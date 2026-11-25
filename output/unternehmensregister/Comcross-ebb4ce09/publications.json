@@ -1,0 +1,213 @@
+{
+  "company": {
+    "key": "Comcross",
+    "name": "Comcross",
+    "location": "Leonberg",
+    "name_source": "company_name",
+    "urls": [
+      "https://www.comcross.de/de"
+    ],
+    "kununu_url": null,
+    "branches": [
+      "Bauindustrie"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "71229",
+    "street": "Hertichstrasse 23",
+    "region": "Baden-Württemberg",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:54:52.511450+00:00",
+  "searches": [
+    {
+      "accounting_only": true,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=Comcross&companyLocation=Leonberg&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ACCOUNTING&drilldownFilter=22&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": false
+    },
+    {
+      "accounting_only": false,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=Comcross&companyLocation=Leonberg&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ALL_AREAS&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": false
+    }
+  ],
+  "excluded_company_matches": [
+    {
+      "company": "Talpa Holding GmbH, Leonberg (vormals: Hamburg)",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2024-10-29",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=Qpl7zHtBwAFI_Bs1S-XngwJBTYwQMpEMgw0a0ktOVzRqvR0Biz1Of_dCx4D2s4AMLL67aY1sJtSeFNt0Km_MCRamKcZvfroPpqqVx5uRwkng4rNw-6hZJByvFdVSuNXsI5U_BXmEekD2FH-l2E33dXvI47vjRykp_ksEMAQ7IWf3IMfostkkd333MySUC1aUfcBxOw5_YjqaP9gzsKovD-wSpUXtAuDm417dQ116hQ9i7QVH",
+      "metadata": "Talpa Holding GmbH, Leonberg (vormals: Hamburg) Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 29.10.2024 Sprache: Deutsch Befreite Unternehmen anzeigen Schwan GmbH, Gladbeck SPIE comcross GmbH, Leonberg SPIE Infratech GmbH, Meppen SPIE TelCo lnfrastructure GmbH, Leonberg comcross Holding GmbH, Leonberg",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Talpa Holding GmbH, Leonberg (vormals: Hamburg)",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-04-16",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=l-d09DOQ1KC3hWMrF0fnEHczFwk72ZPf_z7DzjCR0jqXx8gECDk4_TlTTbzxP416bY-nw5Pbb909LeC6MT8u1Koy_VwXG45c9Nxvsg6Xv1ffp3mHLixZGhDcgW9R0BvWAOFjY4FQx_nN2xqSSqMNN-nMbA5kLTBBINB6jGjlaV6ZkBrfj9_HUVjzX82ftz45Fw8xXtB6DJwgXtbqEBB7VFhH7Y3w-9EgWVevkW8qvwMNPsAT",
+      "metadata": "Talpa Holding GmbH, Leonberg (vormals: Hamburg) Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 16.04.2024 Sprache: Deutsch Befreite Unternehmen anzeigen Schwan GmbH, Gladbeck SPIE comcross GmbH, Leonberg SPIE Infratech GmbH, Meppen SPIE TelCo lnfrastructure GmbH, Leonberg comcross Holding GmbH, Leonberg",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Talpa Holding GmbH, Leonberg (vormals: Hamburg)",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2024-10-29",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=DG6PV2Pjn0YpCNutZUULP6JfbCETDjJCuH7b8rv_4YSztbiw7rOTenbXDZ4JWG7MgirHetz9JBGQnraNam3x0X0z9DkIbppNKeUQp1qlA3FZXmGS6jfIPepcSAC-zYMdLjuNrE2blwe_pyC6Z2vmpICgkHhWUCxL2UK2KXOgPjRNSmubK0-8HkCTaYSGyFXb6cJj77MazDUZ2mxu9Trnw85R4K2iWJeFPVXBviwZidVyTWy_",
+      "metadata": "Talpa Holding GmbH, Leonberg (vormals: Hamburg) Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 29.10.2024 Sprache: Deutsch Befreite Unternehmen anzeigen Schwan GmbH, Gladbeck SPIE comcross GmbH, Leonberg SPIE Infratech GmbH, Meppen SPIE TelCo lnfrastructure GmbH, Leonberg comcross Holding GmbH, Leonberg",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Talpa Holding GmbH, Leonberg (vormals: Hamburg)",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-04-16",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=3-ovLjo6AmMh4BRJcx7BgG2rYY4VGH9ZNJYAWUHhIuYl-hUJ-7feEfh-hu85MoV20oDLuh1pP66oOHFEdDiMA6LK_dirm8u0eQt0tPzhLuyp0X2p9YG836epiZztGJo8DDQ_MSAmXf1F5dCEB9FeqNlB3f_BLZasJEo4DhLj9Dd-_qkbeTkm_v53Xyc3jWo5EEgzYloSR256HR4uIWZabHUIqE5dqqXUobtmTz0y8KWOlwj7",
+      "metadata": "Talpa Holding GmbH, Leonberg (vormals: Hamburg) Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 16.04.2024 Sprache: Deutsch Befreite Unternehmen anzeigen Schwan GmbH, Gladbeck SPIE comcross GmbH, Leonberg SPIE Infratech GmbH, Meppen SPIE TelCo lnfrastructure GmbH, Leonberg comcross Holding GmbH, Leonberg",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Talpa Holding GmbH, Leonberg (vormals: Hamburg)",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2024-10-29",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=dWeeAGo9mz99mKDXPIgOgsoeOv0x7avyQH95qAEWTEBzJWVaSQY2CuAwWQJFvAuLEKMJGMEDc0LilXii2s8l_KtgBiUlCoMcQtS7xmMJILQgbBVVY4p87HuGZJT0oe--j8scc7_hPY0b6lkWVCmLWkDjOmFF1mgkLZ3sZj-aTpBSvpnfzMS7PlHuySkDrNPwjd_srAONiYgdK2mAEE1UB-o0DIlJwaj_26_LUQfgNsWcqUF5",
+      "metadata": "Talpa Holding GmbH, Leonberg (vormals: Hamburg) Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 29.10.2024 Sprache: Deutsch Befreite Unternehmen anzeigen Schwan GmbH, Gladbeck SPIE comcross GmbH, Leonberg SPIE Infratech GmbH, Meppen SPIE TelCo lnfrastructure GmbH, Leonberg comcross Holding GmbH, Leonberg",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Talpa Holding GmbH, Leonberg (vormals: Hamburg)",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-04-16",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=bp-wnlvCWbNkjR8meQ9rG2yREUB8PQqPwphALfioC2MgwGO8Dxl7epFiFKxtUivIfEb8G5ouVTmSTQ_HrvyaqHOzTlgvxXu-U6Wtf-7PH54bfIckptwIttIxquTvDe-y-pvw6apsMLh-qnKeM3cxKKxtVBaspzjhP0_XRR4K4GpuQp4ddFqtWNvlF7WURjLTvJsEBvFA-WaPtG93ezupM-kPjd6qeHfjnHhM_W8JQB8Ssw9C",
+      "metadata": "Talpa Holding GmbH, Leonberg (vormals: Hamburg) Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 16.04.2024 Sprache: Deutsch Befreite Unternehmen anzeigen Schwan GmbH, Gladbeck SPIE comcross GmbH, Leonberg SPIE Infratech GmbH, Meppen SPIE TelCo lnfrastructure GmbH, Leonberg comcross Holding GmbH, Leonberg",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Talpa Holding GmbH, Leonberg (vormals: Hamburg)",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2024-10-29",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=ccR4qRptR2BlQCGMvYmjeB9SubupBiUiATu2g0t2pJ2SwV4_jyBPTqfJZ16ThiwZlfjlWFLUXtC_WljeMs9zs3U16el_3i94PtJBbQvEF6h-7pQuYWBTGD5JayAV24RtabkKoIJwnMlvteTeloxqAygOGa5vbEpgP3mlGWFQMo_rbL46p3SH1ZGSao24NpTzKOkeuoXZLMP_e2XcBji9kEWkn91wh0cMwHiNpIcgD6HzjIzW",
+      "metadata": "Talpa Holding GmbH, Leonberg (vormals: Hamburg) Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 29.10.2024 Sprache: Deutsch Befreite Unternehmen anzeigen Schwan GmbH, Gladbeck SPIE comcross GmbH, Leonberg SPIE Infratech GmbH, Meppen SPIE TelCo lnfrastructure GmbH, Leonberg comcross Holding GmbH, Leonberg",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Talpa Holding GmbH, Leonberg (vormals: Hamburg)",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-04-16",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=QKrH_u2eUqO9o8jdPX3an7OTQYty5BcY5GaNbJfOPvlTR8tt_Ut11ZmmgcdAJgn3kEXZllK1hZqccYSt2F-2bhhZH_QcBzLae8RWP8D0MdgEe7_IeSD0gncKvUL7lDpplrzOepvLimU0awx1i0pufe2qPN3VLWjs0O7MrtiJrHChVnGtVwhMag7nbxdasQNEeMbd0gjT63wKjpZuh1CUpNyLG9i2uoj0UpaM5l_v5K736K6g",
+      "metadata": "Talpa Holding GmbH, Leonberg (vormals: Hamburg) Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 16.04.2024 Sprache: Deutsch Befreite Unternehmen anzeigen Schwan GmbH, Gladbeck SPIE comcross GmbH, Leonberg SPIE Infratech GmbH, Meppen SPIE TelCo lnfrastructure GmbH, Leonberg comcross Holding GmbH, Leonberg",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    }
+  ],
+  "date_from": "2024-01-01",
+  "date_to": "2026-11-25",
+  "excluded_dates": [],
+  "max_publications": 30,
+  "truncated": false,
+  "coverage": {
+    "search_complete": true,
+    "more_pages": false,
+    "publication_limit_reached": false,
+    "downloads_selected": 4,
+    "downloads_succeeded": 4,
+    "download_limit_reached": true,
+    "downloads_complete": false,
+    "text_complete": true
+  },
+  "publications": [
+    {
+      "company": "SPIE comcross GmbH (vormals: comcross GmbH), Leonberg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-01-23",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=6I8z7f84qOuZkfEAHjqTlts9cZsHWeiXxAAOnX_jIwZeMLB49sWWTCabWk5mZQH9ewn5GkPaA6q6bOS0liRSXY6DLsZ2oNyY25ZE1NSGH6TZV6Lv4shxcn0Gor9GtZdRMr4zAofl-9BI039THwEF_FBtzRa0FnEKYG5L1x9OHFUQomZGzvJIBgR2ssjgd06dt7PEwtPFrSsWwaFQ42zC5748RcUqw0QWYWceXZrMm3zodwmB",
+      "metadata": "SPIE comcross GmbH (vormals: comcross GmbH), Leonberg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 23.01.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 1
+    },
+    {
+      "company": "SPIE comcross GmbH, Leonberg",
+      "title": "Registerbekanntmachung nach dem Umwandlungsgesetz",
+      "publication_date": "2025-07-02",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=YBQIbispIgYkyRLe5nELIswgo7VbZJJOiQIlhjjFLlhjvIVYZj7-VH6tdKFpi-13ZBfSouhwS6feW4TgRvmKdsjWN-ns6fu56grAxcYVQ-qXJJE0Jz1RoavAbIsSuxzw_5WDCBoCdwRp1hgKIBlwbZzuxkbzRjHsnZnSCqmYYCHNGRKfQ6UHf-n7XZW42EAhzNIUTLhh_grrcEzO57IdS9le0u1dCpTyDdjLsysrjasJHQeJ",
+      "metadata": "SPIE comcross GmbH, Leonberg Registerbekanntmachungen Registerbekanntmachung nach dem Umwandlungsgesetz Datum: 02.07.2025 Sprache: Deutsch",
+      "source_area": "Registerbekanntmachungen",
+      "category": "bekanntmachungen",
+      "index": 2
+    },
+    {
+      "company": "Infratech/comcross Holding GmbH, Leonberg",
+      "title": "Registerbekanntmachung nach dem Umwandlungsgesetz",
+      "publication_date": "2024-10-01",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=rSu8s-thW_35JnBCVQ5RJRpXj55eOkPa9YPM3MWpH_94RJ0NDzmPHLbC-b5RIrKrVx2FgqvdBBkDnhhRDjFUzec9bnXmGnaq9ilcn7ST95m5dLugzDD2Fac7a3S7wvb6vb63QR1B4JERsbT9xghNBJNgXqBfxh-OPrMhXeN-frdVC3Bmo5Q2eSZdismQRRvkcWVGP2A8gO90e55byI6lmF_r0cZA4a1rM6BsbzpZ-wD0cxlI",
+      "metadata": "Infratech/comcross Holding GmbH, Leonberg Registerbekanntmachungen Registerbekanntmachung nach dem Umwandlungsgesetz Datum: 01.10.2024 Sprache: Deutsch",
+      "source_area": "Registerbekanntmachungen",
+      "category": "bekanntmachungen",
+      "index": 3
+    },
+    {
+      "company": "comcross GmbH, Leonberg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2024-09-12",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=hy428dGnmj-XVVoVCLQ2yOCRPrijMISm5lAuHaINw9tf5mZO0MwRUYfk81uO5esxhhDNQ0cXhWCisyMrEfTXRcu3uP1qv9ZCkdJg3nV0E5AIig_QXtXAw5zAD2J-b37QM79s3UOBl2M2jBuE_9D14hR490XByF6iIqjoemzBvntbleuZJuIn0kKdFmHSs_8czZFKjp5oS48VoA6SvgUu6o54pIJ0i0DAZmK5E5xxFojXISVp",
+      "metadata": "comcross GmbH, Leonberg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Talpa Holding GmbH, Leonberg Datum: 12.09.2024 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "bekanntmachungen",
+      "index": 4
+    },
+    {
+      "company": "Infratech/comcross Holding GmbH, Leonberg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2024-09-12",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=I9EXqx7mpaoRn-RmXTYpbTCPniYrW_beaxu9XaJ79KENRfYVHSC1sLYvGOAOq02bua3jrWHxyjrlHQLJbh-jjw2pybI6jn3mT6qwKR5m9f7xv5nft88GLTbJ_XIqiq4xCEGRKcg-6F_GLlbgynMSdzWs-eNcbIL-FoK5Ea9Rd54mXZyrGbzqER4Awgk0XVmKdb0niaIGjcVpVCh1EMDs_8WCMNia8QIxJfTqd3YDB_1UPGxh",
+      "metadata": "Infratech/comcross Holding GmbH, Leonberg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Talpa Holding GmbH, Leonberg Datum: 12.09.2024 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "bekanntmachungen",
+      "index": 5
+    },
+    {
+      "company": "Infratech/comcross Holding GmbH, Leonberg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-03-18",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=VmgTc7CauAmBLNh7j1OrxttATAb15icd4cKcbfLlKGVo8lnF_kDpEwCMTWVHwIjsIgncoe1M_eu4XyFUcCy1APiybMzGMrVNR0zxn3g_3U1_5HaNjDCMfdJBDs_uGjcfKHX7KAI9bdxH7xGx7VLfkUl8leF4YlJEt3shH1pjpD07YGIW091Vic23fpCbdLfoZKTkB7LhvcpifuA7tNGfxdet1zcdXiCi3YZJXxvwJmJpJDph",
+      "metadata": "Infratech/comcross Holding GmbH, Leonberg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Talpa Holding GmbH, Leonberg Datum: 18.03.2024 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "bekanntmachungen",
+      "index": 6
+    },
+    {
+      "company": "comcross GmbH, Leonberg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-03-13",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=IJXtx1w5VjnatDFS7x4-MT388mwdMJHCDinCN6xcoYuEFhBc6wHhEWzXZrp1zxXKXpCe6GndPCkUiGChwbEVpaFy8U38vfgyQIl0vmCYxSrz1e4r4c0o4rMdCK3CFGF_g__enCcPKFcty7ZjlmHfe3O_GBKvveJxPghAV9TKxGe1L6enp4ti3UvBh1WVMLSK1aMRU66TRLU3sPpS7eNHdNlFLNTACUQswNb-iED8hWku5PDf",
+      "metadata": "comcross GmbH, Leonberg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Talpa Holding GmbH, Leonberg Datum: 13.03.2024 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "bekanntmachungen",
+      "index": 7
+    }
+  ]
+}

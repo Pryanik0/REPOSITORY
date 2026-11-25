@@ -1,0 +1,9 @@
+{
+  "url": "https://www.deutscherueck.de/robots.txt",
+  "final_url": "https://www.deutscherueck.de/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "fetched_at": "2026-11-25T16:17:41.563578+00:00",
+  "text": "User-agent: *\r\nDisallow: /typo3/\r\nDisallow: /typo3_src/\r\nAllow: /typo3/sysext/frontend/Resources/Public/*\r\n"
+}

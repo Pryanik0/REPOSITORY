@@ -1,0 +1,98 @@
+{
+  "provider": "karriere",
+  "company": {
+    "key": "Allgeier IT Services",
+    "name": "AVENDIS GmbH",
+    "location": "Mannheim",
+    "name_source": "company_name",
+    "urls": [
+      "https://www.avendis.com/"
+    ],
+    "kununu_url": "https://www.kununu.com/de/avendis",
+    "branches": [
+      "IT & Telekommunikation"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "68219",
+    "street": "Besselstraße 12",
+    "region": "Baden-Württemberg",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:13:38.159729+00:00",
+  "status": "partial",
+  "jobs": [],
+  "pages": [
+    {
+      "url": "https://www.avendis.com/",
+      "final_url": "https://avendis.com/",
+      "redirects": [
+        {
+          "source": "https://www.avendis.com/",
+          "target": "https://avendis.com/",
+          "status": 301
+        }
+      ],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://avendis.com/karriere/",
+      "final_url": "https://avendis.com/karriere/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://avendis.com/en/careers/",
+      "final_url": "https://avendis.com/en/careers/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    }
+  ],
+  "errors": [
+    {
+      "url": "https://avendis.com/en/careers/",
+      "reason": "no_extractable_job_data",
+      "error": "Keine auslesbaren Stellen oder belegte Leermeldung; manuelle Prüfung erforderlich."
+    }
+  ],
+  "excluded": [],
+  "sources": [
+    {
+      "url": "https://www.avendis.com/",
+      "linked_from": null,
+      "mechanism": "configured"
+    },
+    {
+      "url": "https://avendis.com/",
+      "linked_from": "https://www.avendis.com/",
+      "mechanism": "http_redirect"
+    }
+  ],
+  "adapter_attempts": [],
+  "coverage": {
+    "scope": "configured_sites_and_linked_career_portals",
+    "complete": false,
+    "pending_pages": 0,
+    "page_limit_reached": false,
+    "job_limit_reached": false,
+    "request_limit_reached": false,
+    "pages_attempted": 3,
+    "pages_read": 3,
+    "dynamic_or_unparsed_pages": true,
+    "http": {
+      "requests_attempted": 7,
+      "allocated_requests": 549,
+      "cache_hits": 0
+    }
+  },
+  "pending_urls": [],
+  "jobs_before_keyword_filter": 0,
+  "reason": "search_incomplete"
+}

@@ -1,0 +1,95 @@
+{
+  "company": {
+    "key": "Berg-Energie",
+    "name": "Berg-Energie",
+    "location": "Planegg",
+    "name_source": "company_name",
+    "urls": [
+      "https://www.berg-energie.de"
+    ],
+    "kununu_url": null,
+    "branches": [
+      "Energie & Wasser"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "82152",
+    "street": "Fraunhofer Strasse 22",
+    "region": "Bayern",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:57:04.426551+00:00",
+  "searches": [
+    {
+      "accounting_only": true,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=Berg-Energie&companyLocation=Planegg&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ACCOUNTING&drilldownFilter=22&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": false
+    },
+    {
+      "accounting_only": false,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=Berg-Energie&companyLocation=Planegg&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ALL_AREAS&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": false
+    }
+  ],
+  "excluded_company_matches": [
+    {
+      "company": "Berg GmbH, Planegg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-11-03",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=vCQo0yjm1DR43c4kZ4P7AplEctTLETGFAhOUwIGAnqaPyulq2XytNvY8tSDiXUWtXuaNxbih6V0EMXyjC0O_wF_qOzOnk9Mvj2_zgcAlifDtdEFE1s37TJNlBsH_MFBEyWY_6kA38UDD03ntIzZrObH4xlLPCnLkbP-CsWFSPQBWyfWWlE8nrlp6v43ckin2v9TPJVq1Om3e64zrn-Alx6NQN-oCZlsyEpP2ysilqngnrKiS",
+      "metadata": "Berg GmbH, Planegg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 03.11.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Berg GmbH, Planegg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-01-16",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=y9r5svfFa2PvUGChemY4hUken_B_DpgF9mDtRExmeUmqY0IlYDbPEuNILYqK6zZFPpmRq_hRz4NQvoYpARws9VMU_6VPfA9lRzSUW9CzELpJatAq59f9IlR6p9iwqH37qibASNcL_1hV72n35Vo3nfFu2tccswZ-azN9TuzFz_-SpngkE-oGZdDsBHAFHeDI2wgEYA1u-krrQ7yX-Qz5d5AChb5RkeLv0QvXhpsUe4VGjUd2",
+      "metadata": "Berg GmbH, Planegg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 16.01.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Berg GmbH, Planegg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-11-03",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=o5j2CwE98SI4LSqK90k91BExyDKd-nT3oEfAtKxk2gMd2a5RGEJ3IfG6RBzI0fyEH7uyIHNVqBnUhdo_wDIdyseWExFBgTAsYu1z-xQlQ8S4WNeRcw4Qsy91AzDm6Zu26Ap5I4Orekeb_BYHm5VHlBCNxRwKa4F39gxCoIaYd4-Z1m5_OMN5VZjAbNYBlRuAIFKDMscR43nf_NO0S7-YEx_VWpkVS5dcMmtB7qsd8g4tDCh2",
+      "metadata": "Berg GmbH, Planegg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 03.11.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Berg GmbH, Planegg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-01-16",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=vhKQyvTkMNp7qmWuhoATo3DxCD7u9itcf6hw2Hn-GLOKKqgAkwlLTEGWQM6cqmVZNwac8yah0vQoSU3Ygv4PZH9V0f-W2wLiH9yaDGtPwUoizpSke5kFOuaTP3LHBHUCf47s_4ays-GLP-V_FuVAt-LRtbQVKkBW-YY4ZShqmn1EPrqK4YIZ7Sc-qZRRHr-2WPlBExgf5PKUhIa5w694arnsWvJYipHuh071u6wC0oX8DRHV",
+      "metadata": "Berg GmbH, Planegg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 16.01.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    }
+  ],
+  "date_from": "2024-01-01",
+  "date_to": "2026-11-25",
+  "excluded_dates": [],
+  "max_publications": 30,
+  "truncated": false,
+  "coverage": {
+    "search_complete": true,
+    "more_pages": false,
+    "publication_limit_reached": false,
+    "downloads_selected": 0,
+    "downloads_succeeded": 0,
+    "download_limit_reached": false,
+    "downloads_complete": true,
+    "text_complete": true
+  },
+  "publications": []
+}

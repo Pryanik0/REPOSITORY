@@ -1,0 +1,15 @@
+{
+  "url": "http://hermes-group-jobs.de/robots.txt",
+  "final_url": "https://hermes-group-jobs.de/robots.txt",
+  "redirects": [
+    {
+      "source": "http://hermes-group-jobs.de/robots.txt",
+      "target": "https://hermes-group-jobs.de/robots.txt",
+      "status": 301
+    }
+  ],
+  "status": 200,
+  "content_type": "text/plain;charset=UTF-8",
+  "fetched_at": "2026-11-25T16:07:03.936334+00:00",
+  "text": "User-agent: wget\nUser-agent: python-requests\nUser-agent: python-urllib\nUser-agent: Go-http-client\nUser-agent: Java\nUser-agent: libwww-perl\nUser-agent: PHP/\nUser-agent: LWP::Simple\nUser-agent: okhttp\nUser-agent: axios\nUser-agent: http-client\nUser-agent: aiohttp\nUser-agent: Scrapy\nUser-agent: Httpie\nUser-agent: PycURL\nUser-agent: node-fetch\nUser-agent: node-superagent\nDisallow: /\n\n"
+}

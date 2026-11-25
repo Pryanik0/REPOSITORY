@@ -1,0 +1,99 @@
+{
+  "company": {
+    "key": "Resuscitec",
+    "name": "Resuscitec GmbH",
+    "location": "Freiburg im Breisgau",
+    "name_source": "company_name",
+    "urls": [
+      "https://resuscitec.de/"
+    ],
+    "kununu_url": "https://www.kununu.com/de/resuscitec1",
+    "branches": [
+      "Pharma & Medizintechnik"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "79108",
+    "street": "Engesserstraße 4a",
+    "region": "Baden-Württemberg",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:43:58.852833+00:00",
+  "searches": [
+    {
+      "accounting_only": true,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=Resuscitec+GmbH&companyLocation=Freiburg+im+Breisgau&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ACCOUNTING&drilldownFilter=22&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": false
+    },
+    {
+      "accounting_only": false,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=Resuscitec+GmbH&companyLocation=Freiburg+im+Breisgau&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ALL_AREAS&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": false
+    }
+  ],
+  "excluded_company_matches": [],
+  "date_from": "2024-01-01",
+  "date_to": "2026-11-25",
+  "excluded_dates": [],
+  "max_publications": 30,
+  "truncated": false,
+  "coverage": {
+    "search_complete": true,
+    "more_pages": false,
+    "publication_limit_reached": false,
+    "downloads_selected": 4,
+    "downloads_succeeded": 4,
+    "download_limit_reached": false,
+    "downloads_complete": true,
+    "text_complete": true
+  },
+  "publications": [
+    {
+      "company": "Resuscitec GmbH, Freiburg im Breisgau",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-06-11",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=i5URtLIufXWKz7moFIMfg57v3IKGnH-ncX_ke9wS6Intt275UjI-WgiDOEz45Gq85Z74dKxbhb0cy-680gix32Gis1Ah9WTRmySZKYJYuEsX4haoorzEPU8fd7mlIhjn5dkKKge-lPQ9SeUxABR3VJmQwBFOt1wf3ZLu4_1T8EEkLkC_P3OsjSg_q1H8UidNk9mCOLg5UnLgJpcdz9zaEOEcr6_0lvMp-ig38IRyGhAuIfT9",
+      "metadata": "Resuscitec GmbH, Freiburg im Breisgau Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 11.06.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 1
+    },
+    {
+      "company": "Resuscitec GmbH, Freiburg im Breisgau",
+      "title": "Einreichung neuer Dokumente",
+      "publication_date": "2025-05-14",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=7cr1yy-vDFbLSOvglggwT7QQHyOhnxqsQLZ58FvcZn_54A5rWnEbTuAWwzIFjyzkaphQVZ-ISYKlxZzYbZLhy5eUNevEAOnRqpYW3tpHw7EVFXx7keOauqojGjreFig4OJDHuBN-WTX6nPP5DFyrHCAbqGeZ_WSP2okx8lQeEvAY-qPugf6LkKaO7xHTZqmQ5fqwaeYB6uwxo95IDgeHd_Zvlywh_LO8kvsvdCoq4Js7MQh4",
+      "metadata": "Resuscitec GmbH, Freiburg im Breisgau Registerbekanntmachungen Einreichung neuer Dokumente Datum: 14.05.2025 Sprache: Deutsch",
+      "source_area": "Registerbekanntmachungen",
+      "category": "bekanntmachungen",
+      "index": 2
+    },
+    {
+      "company": "Resuscitec GmbH, Freiburg im Breisgau",
+      "title": "Einreichung neuer Dokumente",
+      "publication_date": "2024-06-18",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=Z1DvGTYcF-acDVAaYliBqPBViKNzYGLZm28DgXH5-vKbFCggCrXaXQni9YHe-2PQluJzBG6yxzPE6kdx7-viqPDjL7N8pvsvnN8CIZQYUQUnTDvWkdc1FfFwmEmZ4BnbUX9LVio3B_HsHi93OwS85PMY8jGoy1HNKlC404NNnFO0RrN_0D-BjkLCjjUTuWVFdpY4CcjCrgec2Umzb8XnyIfY7xb6VQPETaUIdUTpfyVYq7g5",
+      "metadata": "Resuscitec GmbH, Freiburg im Breisgau Registerbekanntmachungen Einreichung neuer Dokumente Datum: 18.06.2024 Sprache: Deutsch",
+      "source_area": "Registerbekanntmachungen",
+      "category": "bekanntmachungen",
+      "index": 3
+    },
+    {
+      "company": "Resuscitec GmbH, Freiburg im Breisgau",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-05-15",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=4uneDksMzoXoIc2mM2ncGpmtqB3nuq_cGdCY5t-_6LaQLR3fGVZx1xxS5AHXrPhEv4AKirkxLuFRV6UkErOuxeUhs-1MkV1S8S2lUAdULHpHYe6uA5FKdquMHVUrQj24puEayr7omIVJp2AfCIC_CMiGOJEL3JJptrfXUMiUPdWSpZ85E4VQc6kcW7wVCLRQgcsXyiEEr9__vcRS7WJZahjrveXbIesF-qjvq5hiVHsMF1VQ",
+      "metadata": "Resuscitec GmbH, Freiburg im Breisgau Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 15.05.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 4
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "provider": "karriere",
+  "company": {
+    "key": "Recor Medical",
+    "name": "Recor Medical Europe GmbH",
+    "location": "Frankfurt am Main",
+    "name_source": "company_name",
+    "urls": [
+      "https://www.recormedical.com/"
+    ],
+    "kununu_url": null,
+    "branches": [
+      "Pharma & Medizintechnik"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "60327",
+    "street": "Europa-Allee 52",
+    "region": "Hessen",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:02:27.904600+00:00",
+  "status": "partial",
+  "jobs": [],
+  "pages": [
+    {
+      "url": "https://www.recormedical.com/",
+      "final_url": "https://www.recormedical.com/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.recormedical.com/careers/",
+      "final_url": "https://www.recormedical.com/careers/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    }
+  ],
+  "errors": [
+    {
+      "url": "https://vhr-otsuka.wd1.myworkdayjobs.com/en-US/RecorExternal",
+      "reason": "fetch_failed",
+      "error": "robots.txt HTTP 429; Zugriffsberechtigung unklar."
+    }
+  ],
+  "excluded": [],
+  "sources": [
+    {
+      "url": "https://www.recormedical.com/",
+      "linked_from": null,
+      "mechanism": "configured"
+    },
+    {
+      "url": "https://vhr-otsuka.wd1.myworkdayjobs.com/en-US/RecorExternal",
+      "linked_from": "https://www.recormedical.com/careers/",
+      "mechanism": "employer_link"
+    }
+  ],
+  "adapter_attempts": [],
+  "coverage": {
+    "scope": "configured_sites_and_linked_career_portals",
+    "complete": false,
+    "pending_pages": 0,
+    "page_limit_reached": false,
+    "job_limit_reached": false,
+    "request_limit_reached": false,
+    "pages_attempted": 3,
+    "pages_read": 2,
+    "dynamic_or_unparsed_pages": false,
+    "http": {
+      "requests_attempted": 6,
+      "allocated_requests": 322,
+      "cache_hits": 0
+    }
+  },
+  "pending_urls": [],
+  "jobs_before_keyword_filter": 0,
+  "reason": "search_incomplete"
+}

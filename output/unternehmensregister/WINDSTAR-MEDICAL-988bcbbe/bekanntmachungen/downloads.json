@@ -1,0 +1,56 @@
+[
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=9fC8E2zRNbic4f7FgKkDscmc3YwEPWakPpANk2Ekd2woEAnx_TokEBoXcv2u8jdvVQJ9uRdwV5YUxlpfORGYREKEjfj2ORB7WLqcGd3MF3qig_4SyMLDo9_uj9EPwJvEiD_GqdlKjxVnM3hB-r-Chvea41nR2nvFGN0YmszeUpiVrD9eudOBaPkVvzfhH57x3_F0t_82Gcw4ke-ra5sRQaoCNiNID4kfhE9XacjXsapLK4hG",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\WINDSTAR-MEDICAL-988bcbbe\\bekanntmachungen\\publication-1\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\WINDSTAR-MEDICAL-988bcbbe\\bekanntmachungen\\publication-1\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\WINDSTAR-MEDICAL-988bcbbe\\bekanntmachungen\\publication-1\\publication.txt",
+    "index": 1,
+    "category": "bekanntmachungen",
+    "company": "WindStar Medical GmbH, Frankfurt am Main",
+    "title": "Registerbekanntmachung nach dem Umwandlungsgesetz",
+    "documents_path": "output\\unternehmensregister\\WINDSTAR-MEDICAL-988bcbbe\\bekanntmachungen\\publication-1\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=8_qWLFcEZcWd0GZzeEPHaHFdgAXCpXXLPCp0K9mYwVd0T3DLOWaGGoSZvuxmRq9QABWWb_mhym0-6TRCmFYVNJw7_jDi31rOa4Z2QsQfQF7P6b46oyCkFlNVCZ4DmmZlO0kCODFa95j4sW-sgnvRUTO3IwKYjFinY2EyWv01C_BQ3-vOUrWI4pR-5KWANio-rN8a2m848eyW0B8c4gvgkOYxnlYQr_uhJe7df71pO3H8lrqH",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\WINDSTAR-MEDICAL-988bcbbe\\bekanntmachungen\\publication-2\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\WINDSTAR-MEDICAL-988bcbbe\\bekanntmachungen\\publication-2\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\WINDSTAR-MEDICAL-988bcbbe\\bekanntmachungen\\publication-2\\publication.txt",
+    "index": 2,
+    "category": "bekanntmachungen",
+    "company": "WindStar Medical GmbH, Frankfurt am Main",
+    "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 30.06.2025",
+    "documents_path": "output\\unternehmensregister\\WINDSTAR-MEDICAL-988bcbbe\\bekanntmachungen\\publication-2\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=1pNhJMaijj4qGgYY4G36rLiDZX5VN-2vO6RTGPGcOwqXg7dUflzp-7Zwo0qjZdH9yRyJ7j3-VZs3eR2WkfsULk04lGgC5EBiCqzKvUF2tlnQd0SJK1zo1HKVTiVEss5Sui8pdhbfv3-W7rPrQ1XPwOn1RmeMKfYLZVM5lM2xVZOA5iPsk4Q0IQQVyrPUnjgT0U9Wg9UApz6hd1hEdNaQYL9LlP0S1_N-rXRKuiBJvXKTI2fB",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\WINDSTAR-MEDICAL-988bcbbe\\bekanntmachungen\\publication-3\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\WINDSTAR-MEDICAL-988bcbbe\\bekanntmachungen\\publication-3\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\WINDSTAR-MEDICAL-988bcbbe\\bekanntmachungen\\publication-3\\publication.txt",
+    "index": 3,
+    "category": "bekanntmachungen",
+    "company": "DISTRICON GmbH, Frankfurt am Main WindStar Medical GmbH, Frankfurt am Main Dr. Kleine Pharma GmbH, Bielefeld mehr",
+    "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 30.06.2025",
+    "documents_path": "output\\unternehmensregister\\WINDSTAR-MEDICAL-988bcbbe\\bekanntmachungen\\publication-3\\documents.json"
+  }
+]

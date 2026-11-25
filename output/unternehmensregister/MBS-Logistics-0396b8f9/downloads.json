@@ -1,0 +1,56 @@
+[
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=EhK0MTt2qpLMD1c_cwXStGhdoK0D7xfU9W97aUZJnnRYnFNRgmWzArlWlO_b70L0WUX6AUffL45exe9DJiQcWP0OfHWVRSR78Hteb72qOV96rIapAJ4hwlsY-17EZ2Qsebl9-PLsTWlPm9GPqMMUYrQY_PtT2Jo_A7gTKciYt9ReTbEO-oERKy52nF1PY487Ct_N58UX9wM8UIDffizXEhvoN-0MFUXowKxF2wSXZHsOlgc",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\MBS-Logistics-0396b8f9\\finanzberichte\\publication-1\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\MBS-Logistics-0396b8f9\\finanzberichte\\publication-1\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\MBS-Logistics-0396b8f9\\finanzberichte\\publication-1\\publication.txt",
+    "index": 1,
+    "category": "finanzberichte",
+    "company": "MBS Speditionsgesellschaft mbH, Köln",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+    "documents_path": "output\\unternehmensregister\\MBS-Logistics-0396b8f9\\finanzberichte\\publication-1\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=yKjyqF1rxO20bD--g9zv-hgZhpLF7vr0-cgurlsEAMy4K_pw52Q1IxMrzXSnhHkuJpGOIiIJk7KmKQ4pUhlreXqAkQi0Odz6x3rOfVXzUKOXuAOklh-STFZS0MusMVNzU4UoQTeB3qLxpisbwT2MS5vx1WU_v821SpEaNcb9rLVaeOicl07tWZtm4MAoIwl532TtK4NceVAcF83SuUEl2hmHOhszTq_7aibhwrG0OvefTKE",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\MBS-Logistics-0396b8f9\\finanzberichte\\publication-2\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\MBS-Logistics-0396b8f9\\finanzberichte\\publication-2\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\MBS-Logistics-0396b8f9\\finanzberichte\\publication-2\\publication.txt",
+    "index": 2,
+    "category": "finanzberichte",
+    "company": "MBS Speditionsgesellschaft mbH, Köln",
+    "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+    "documents_path": "output\\unternehmensregister\\MBS-Logistics-0396b8f9\\finanzberichte\\publication-2\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=azPDz9rS8PNJdWkjpR_tcbVv2Vz7yjz12M251jIT7JvLyYcYjOxWOVDQWynVqol_7wcpSseIlOgP6wUQb0NqGrMG3w3PjaC0R2O-TA9_ZOZ_Ioi4fRt8GUiNJs5rMaLg59pXNWq2mML_ZB1eMr1Oq3CshT3QT5taQ_EymRO9fDGNSC2NPjH0cO4XMbJWUqQHUAQQp0CdcxYZ2K7wNQ3dyBICgMY-M2tb_oc-C-lFv2w8x3E",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\MBS-Logistics-0396b8f9\\finanzberichte\\publication-3\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\MBS-Logistics-0396b8f9\\finanzberichte\\publication-3\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\MBS-Logistics-0396b8f9\\finanzberichte\\publication-3\\publication.txt",
+    "index": 3,
+    "category": "finanzberichte",
+    "company": "MBS Speditionsgesellschaft mbH, Köln",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+    "documents_path": "output\\unternehmensregister\\MBS-Logistics-0396b8f9\\finanzberichte\\publication-3\\documents.json"
+  }
+]

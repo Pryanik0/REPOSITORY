@@ -1,0 +1,9 @@
+{
+  "url": "https://app-eu.readspeaker.com/robots.txt",
+  "final_url": "https://app-eu.readspeaker.com/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/plain; charset=UTF-8",
+  "fetched_at": "2026-11-25T16:16:57.214488+00:00",
+  "text": "User-agent: *\nDisallow: /\n"
+}

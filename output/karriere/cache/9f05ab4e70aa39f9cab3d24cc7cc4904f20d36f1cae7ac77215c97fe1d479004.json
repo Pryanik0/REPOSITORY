@@ -1,0 +1,15 @@
+{
+  "url": "https://jobs.scheidt-bachmann.de/bewerber/landingpage.php?prj=75P10267&oid=&qid=0&b=11&ie=1&lang=de_DE&bw=P",
+  "final_url": "https://scheidt-bachmann.pitchyou.de/go/75P10267?b=11&oid=&quelle=0&ie=1&lang=de_DE",
+  "redirects": [
+    {
+      "source": "https://jobs.scheidt-bachmann.de/bewerber/landingpage.php?prj=75P10267&oid=&qid=0&b=11&ie=1&lang=de_DE&bw=P",
+      "target": "https://scheidt-bachmann.pitchyou.de/go/75P10267?b=11&oid=&quelle=0&ie=1&lang=de_DE",
+      "status": 302
+    }
+  ],
+  "status": 200,
+  "content_type": "text/html",
+  "fetched_at": "2026-11-25T16:33:22.766693+00:00",
+  "text": "<!doctype html><html lang=\"\"><head><meta charset=\"utf-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><link rel=\"icon\" href=\"favicon.ico\"><title>WhatsApp-Apply With PitchYou</title><script defer=\"defer\" src=\"disp-js/chunk-vendors.js\"></script><script defer=\"defer\" src=\"disp-js/app.js\"></script><link href=\"disp-css/app.css\" rel=\"stylesheet\"></head><body><noscript><strong>We're sorry but py_dispatch doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=\"app\"></div></body></html>"
+}

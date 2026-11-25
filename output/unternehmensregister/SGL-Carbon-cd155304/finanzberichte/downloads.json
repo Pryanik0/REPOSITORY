@@ -1,0 +1,56 @@
+[
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=neVw8q1GE8UYhbVYwxZtsVLcXydWeFIDhqduOmbkuWsUDf1_nEI8StUVW2QpELhQ_KHVKZNw2MQcVXE4Zhme-Uu6Cs6zo2g0Vp37ILi-21i7DHRhAKGvZN9R-9ThR5G5cbO0ZDIeD0hxfJzsK65BOxRO6GN18R7YSBJhHc3tk63-4IJJ2EnZTJBlIM6cYNQVNNpPqb_jFCrO9Jt5Rpiz_IYZyJFGU8YyOFhcE2lwWG4DdcLp",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\SGL-Carbon-cd155304\\finanzberichte\\publication-1\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\SGL-Carbon-cd155304\\finanzberichte\\publication-1\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\SGL-Carbon-cd155304\\finanzberichte\\publication-1\\publication.txt",
+    "index": 1,
+    "category": "finanzberichte",
+    "company": "SGL Carbon SE, Wiesbaden",
+    "title": "Quartalsfinanzbericht",
+    "documents_path": "output\\unternehmensregister\\SGL-Carbon-cd155304\\finanzberichte\\publication-1\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=cvOFqkdAK7ZWe3OlNNKy4PRpcUob91SUQs-a1jPVKEcGqzxoEcCsmBbErUDarGF0oKXbHd9MkxkEgK9oUcNfTVBK8LpayhiQ5krwfGbcv-5-erdSKu1Qv0HsRNvChIahZUHMwB28Y_PtHDUahHc6R0H3jDoF_MscvHKXmcMU7clv5YbanS-UIS7xym2dzGB-oVB9V2VKDeSlpCC81HOl0bVSaD1P6Q2AZPSuMjKchtw0It1X",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\SGL-Carbon-cd155304\\finanzberichte\\publication-2\\document-1.xhtml",
+        "original_name": "52990038IB31TYK07X63-2025-12-31-1-de.xhtml"
+      }
+    ],
+    "warnings": [],
+    "viewer_url": "https://www.ureg.esef-viewer.de/esef/de/start?1&token=3131b8df-5a79-47ed-a9f2-3e5e4db5661a",
+    "text_path": "output\\unternehmensregister\\SGL-Carbon-cd155304\\finanzberichte\\publication-2\\publication.txt",
+    "index": 2,
+    "category": "finanzberichte",
+    "company": "SGL Carbon SE, Wiesbaden",
+    "title": "Ertragsteuerinformationsbericht (pCBCR) zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+    "documents_path": "output\\unternehmensregister\\SGL-Carbon-cd155304\\finanzberichte\\publication-2\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=SQz3LqkGJX6pryfV5thehaEXkMbDnSz67p6IgvBAumr3SiyfU_Xvxt87pVh6BjA1Mtd4XGVhW8nCCwCFpGE8LADaxdVIPAolwB_5yn27ITj7UmxqIk1UJSXRSsMdPrypko66X4MIIEn_QLRgil9cdauBt9LfGEQVCyEnrvOLjU35RoB_oJXcoWNGBpOo4pqy5Wp87y_M3hY9S5mKC1h25c8QntjJt5VrXPQE8Ys6GyZA6UyG",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\SGL-Carbon-cd155304\\finanzberichte\\publication-9\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\SGL-Carbon-cd155304\\finanzberichte\\publication-9\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\SGL-Carbon-cd155304\\finanzberichte\\publication-9\\publication.txt",
+    "index": 9,
+    "category": "finanzberichte",
+    "company": "SGL Carbon SE, Wiesbaden",
+    "title": "Halbjahresfinanzbericht nach WpHG für den Zeitraum vom 01.01.2026 bis zum 30.06.2026",
+    "documents_path": "output\\unternehmensregister\\SGL-Carbon-cd155304\\finanzberichte\\publication-9\\documents.json"
+  }
+]

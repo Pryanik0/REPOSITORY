@@ -1,0 +1,56 @@
+{
+  "company": {
+    "key": "Diakonie Düsseldorf",
+    "name": "Diakonie Düsseldorf Gemeindedienst der evangelischen Kirchengemeinden e.V.",
+    "location": "Düsseldorf",
+    "name_source": "company_name",
+    "urls": [
+      "https://www.diakonie-duesseldorf.de/"
+    ],
+    "kununu_url": "https://www.kununu.com/de/diakonie-duesseldorf",
+    "branches": [
+      "Gesundheit & Sozialwesen"
+    ],
+    "search_terms": [
+      "Diakonie Düsseldorf e.V."
+    ],
+    "career_urls": [],
+    "postal_code": "40233",
+    "street": "Platz der Diakonie 1",
+    "region": "Nordrhein-Westfalen",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:52:20.033787+00:00",
+  "searches": [
+    {
+      "accounting_only": true,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=Diakonie+D%C3%BCsseldorf+Gemeindedienst+der+evangelischen+Kirchengemeinden+e.V.&companyLocation=D%C3%BCsseldorf&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ACCOUNTING&drilldownFilter=22&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": false
+    },
+    {
+      "accounting_only": false,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=Diakonie+D%C3%BCsseldorf+Gemeindedienst+der+evangelischen+Kirchengemeinden+e.V.&companyLocation=D%C3%BCsseldorf&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ALL_AREAS&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": false
+    }
+  ],
+  "excluded_company_matches": [],
+  "date_from": "2024-01-01",
+  "date_to": "2026-11-25",
+  "excluded_dates": [],
+  "max_publications": 30,
+  "truncated": false,
+  "coverage": {
+    "search_complete": true,
+    "more_pages": false,
+    "publication_limit_reached": false,
+    "downloads_selected": 0,
+    "downloads_succeeded": 0,
+    "download_limit_reached": false,
+    "downloads_complete": true,
+    "text_complete": true
+  },
+  "publications": []
+}

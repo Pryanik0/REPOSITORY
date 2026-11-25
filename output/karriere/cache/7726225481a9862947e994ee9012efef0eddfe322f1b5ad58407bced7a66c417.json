@@ -1,0 +1,9 @@
+{
+  "url": "https://rosenberger-hochfrequenztechnik-gmbh---co--kg-hr-rec-8f48ce7cfa.cfapps.eu20.hana.ondemand.com/app/index.html?ReqId=5467",
+  "final_url": "https://rosenberger-hochfrequenztechnik-gmbh---co--kg-hr-rec-8f48ce7cfa.cfapps.eu20.hana.ondemand.com/app/index.html?ReqId=5467",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "fetched_at": "2026-11-25T16:19:46.516343+00:00",
+  "text": "<!DOCTYPE html>\n<html>\n\t<head>\n\t\t<meta charset=\"utf-8\">\n\t    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n\t\t<title>frontend</title>\n\t\t<script id=\"sap-ui-bootstrap\"\n\t\t\tsrc=\"https://sapui5.hana.ondemand.com/resources/sap-ui-core.js\"\n\t\t\tdata-sap-ui-theme=\"sap_fiori_3\"\n\t\t\tdata-sap-ui-resourceroots='{\"it.people.Rapid.Apply.frontend\": \"./\"}'\n\t\t\tdata-sap-ui-compatVersion=\"edge\"\n\t\t\tdata-sap-ui-oninit=\"module:sap/ui/core/ComponentSupport\"\n\t\t\tdata-sap-ui-async=\"true\"\n\t\t\tdata-sap-ui-frameOptions=\"trusted\"\n\t\t\tdata-sap-ui-xx-bindingSyntax=\"complex\">\n\t\t</script>\n\t\t<!--<script type=\"text/javascript\" src=\"https://www.dropbox.com/static/api/2/dropins.js\" id=\"dropboxjs\" data-app-key=\"v0ujotwwog8hfph\"></script>-->\n\t</head>\n\t<body class=\"sapUiBody\">\n\t\t<div data-sap-ui-component data-name=\"it.people.Rapid.Apply.frontend\" data-id=\"container\" data-settings='{\"id\" : \"frontend\"}'></div>\n\t</body>\n</html>"
+}

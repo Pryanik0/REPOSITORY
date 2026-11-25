@@ -1,0 +1,307 @@
+{
+  "provider": "karriere",
+  "company": {
+    "key": "Hasse",
+    "name": "Hasse",
+    "location": "Uelzen",
+    "name_source": "company_name",
+    "urls": [
+      "https://www.hasse.info"
+    ],
+    "kununu_url": null,
+    "branches": [
+      "Chemieindustrie"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "29525",
+    "street": "SternStrasse 10",
+    "region": "Niedersachsen",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:34:17.005616+00:00",
+  "status": "ok",
+  "jobs": [
+    {
+      "title": "Ausbildung Fachkraft für Lagerlogistik (m/w/d)",
+      "url": "https://job.hasse.info/o/ausbildung-fachkraft-fur-lagerlogistik-mwd-1",
+      "description": "Stelle deine Tetris-Künste unter Beweis! Bei uns lernst du während deiner Ausbildung die vielfältigen Aufgaben einer Fachkraft für Lagerlogistik kennen. Von der Warenannahme unserer Rohstoffe über Eingangskontrolle bis hin zur Wareneinlagerung und dem Beladen von LKWs. Der Stapler ist dein Arbeitsplatz. Außerdem wirst du in die Geschicke der Disposition, beispielsweise bei der Tourenplanung, mit eingebunden – mit dem Ziel der reibungslos ablaufenden logistischen Prozesse. Schon mal von uns gehört? Wir sind ein modernes Familienunternehmen und seit unserer Gründung 1872 im wunderschönen Uelzen ansässig. Unser Team besteht aus rund 130 Beschäftigten, die sich um das Entwickeln und Herstellen unserer Dach- und Bauwerksabdichtungen kümmern und unseren Kunden mit Wissen, Engagement sowie Rat und Tat zur Seite stehen. Starte deine Ausbildung ab 01.08.2027 bei uns! Deine Skills: Realschulabschluss Sinn für Ordnung und Sauberkeit Zuverlässigkeit und Lernbereitschaft möglichst einen Führerschein Klasse B Das gibt’s bei uns: 1186 € im 1. Lehrjahr Urlaubs- und Weihnachtsgeld 30 Tage Urlaub Staplerführerschein Du möchtest eine Zweitausbildung machen? Kein Problem, bei uns geht’s!",
+      "locations": [
+        "Uelzen, NI, DE"
+      ],
+      "employment_type": "FULL_TIME",
+      "remote": "",
+      "employer": "C. Hasse & Sohn Inh. E. Rädecke GmbH & Co. KG",
+      "date_posted": "2026-09-03",
+      "valid_through": null,
+      "reference": "C. Hasse & Sohn Inh. E. Rädecke GmbH & Co. KG",
+      "extraction": "schema_org_jobposting",
+      "source_url": "https://job.hasse.info/o/ausbildung-fachkraft-fur-lagerlogistik-mwd-1",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:35:00.704095+00:00",
+      "id": "db59135ea627306dfa92",
+      "company_key": "Hasse"
+    },
+    {
+      "title": "Ausbildung Maschinen- und Anlagenführer (m/w/d)",
+      "url": "https://job.hasse.info/o/ausbildung-maschinen-und-anlagenfuhrer-mwd",
+      "description": "Du interessierst dich für Technik, packst gerne mit an und arbeitest gut im Team? Dann werde Teil unserer Produktion und unterstütze uns bei der Herstellung hochwertiger Dach- und Bauwerksabdichtungen. Als angehender Maschinen- und Anlagenführer (m/w/d) erhältst du spannende Einblicke in unsere Fertigungsprozesse. Du lernst, unsere Anlagen zu bedienen, zu warten und aktiv an der Produktion mitzuwirken – ein vielseitiger Beruf mit Zukunft. Wer wir sind? Ein modernes Familienunternehmen mit Tradition: Seit 1872 sind wir in Uelzen ansässig. Mit rund 130 Beschäftigten entwickeln und produzieren wir innovative Lösungen im Bereich Dach- und Bauwerksabdichtung und stehen unseren Kunden mit Fachwissen und Engagement zur Seite. Starte deine Ausbildung zum 01.08.2027 bei uns! Das bringst du mit: Guten Haupt- oder Realschulabschluss Idealerweise Interesse an Technik (z. B. BBS Technik) Handwerkliches Geschick und technisches Verständnis Teamgeist Flexibilität, Zuverlässigkeit und Lernbereitschaft Das bieten wir dir: 1.186 € im 1. Ausbildungsjahr Urlaubs- und Weihnachtsgeld 30 Tage Urlaub Gemeinsame Teambuilding-Aktivitäten Gute Übernahmechancen nach der Ausbildung Du möchtest eine Zweitausbildung machen? Kein Problem, bei uns geht’s!",
+      "locations": [
+        "Uelzen, NI, DE"
+      ],
+      "employment_type": "FULL_TIME",
+      "remote": "",
+      "employer": "C. Hasse & Sohn Inh. E. Rädecke GmbH & Co. KG",
+      "date_posted": "2026-09-03",
+      "valid_through": null,
+      "reference": "C. Hasse & Sohn Inh. E. Rädecke GmbH & Co. KG",
+      "extraction": "schema_org_jobposting",
+      "source_url": "https://job.hasse.info/o/ausbildung-maschinen-und-anlagenfuhrer-mwd",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:35:01.175066+00:00",
+      "id": "a45a53bf8db826e9eead",
+      "company_key": "Hasse"
+    },
+    {
+      "title": "Ausbildung zum Industriekaufmann (m/w/d)",
+      "url": "https://job.hasse.info/o/ausbildung-zum-industriekaufmann-mwd",
+      "description": "Wir sind tatkräftig für unsere Kunden - und bald auch mit dir? Du möchtest die Abläufe eines Unternehmens von Grund auf kennenlernen und aktiv mitgestalten? Bei uns bist du nicht nur dabei, sondern mittendrin: Schon während der Ausbildung arbeitest du an echten Projekten mit und übernimmst Verantwortung. Wir suchen dich für eine Ausbildung zum 01.08.2027 als Industriekaufmann (m/w/d) Deine Ausbildung bei uns: Du durchläufst alle wichtigen Abteilungen wie Buchhaltung, Einkauf, Vertrieb, Personal, Disposition, Qualitätssicherung und Arbeitsvorbereitung Du lernst betriebswirtschaftliche Prozesse kennen und setzt das Gelernte praktisch um Du wirst von Anfang an ins Team integriert und erhältst regelmäßiges Feedback Du kannst eigene Ideen einbringen und dich aktiv weiterentwickeln Deine Perspektive: Eine Ausbildung bei uns ist mehr als nur ein Einstieg - sie ist dein Sprungbrett für eine erfolgreiche Karriere. Gemeinsam finden wir heraus, in welchem Bereich deine Stärken liegen und wo du langfristig durchstarten kannst. Wer wir sind? Wir sind ein mittelständisches Unternehmen mit ca. 130 Beschäftigten. Als Industriebetrieb sind wir ein leistungsfähiger Entwickler und Hersteller von Baustoffen für die Dach- und Bauwerksabdichtung. Wir unterstützen unsere Fachkunden (Architekten, Dachdecker, Zimmereien und Fachgroßhändler) partnerschaftlich mit technischem Wissen und innovativen, bewährten Qualitätsprodukten bei der täglichen Arbeit. Darüber freuen wir uns: Abitur, Abschluss der Fachhochschule Wirtschaft oder einen guten Realschulabschluss mit anschließender Berufsfachschule Wirtschaft Interesse an wirtschaftlichen Zusammenhängen Freude am Umgang mit Zahlen Engagement, Teamgeist und Lernbereitschaft Das Wichtigste zum Schluss: 1.186 € im 1. Lehrjahr Urlaubs- und Weihnachtsgeld 30 Tage Urlaub Gemeinsame Teamevents Gute Übernahmechancen mit Weiterbildungsmöglichkeiten nach der Ausbildung",
+      "locations": [
+        "Uelzen, NI, DE"
+      ],
+      "employment_type": "INTERN",
+      "remote": "",
+      "employer": "C. Hasse & Sohn Inh. E. Rädecke GmbH & Co. KG",
+      "date_posted": "2026-09-03",
+      "valid_through": null,
+      "reference": "C. Hasse & Sohn Inh. E. Rädecke GmbH & Co. KG",
+      "extraction": "schema_org_jobposting",
+      "source_url": "https://job.hasse.info/o/ausbildung-zum-industriekaufmann-mwd",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:35:01.579502+00:00",
+      "id": "c8b151214b485759cfca",
+      "company_key": "Hasse"
+    },
+    {
+      "title": "Elektroniker für Betriebstechnik (m/w/d)",
+      "url": "https://job.hasse.info/o/elektroniker-fur-betriebstechnik-mwd",
+      "description": "Wir sind ein mittelständisches Unternehmen mit ca. 130 Beschäftigten. Als Industriebetrieb sind wir ein leistungsfähiger Entwickler und Hersteller von Baustoffen für die Dach- und Bauwerksabdichtung. Wir unterstützen unsere Fachkunden (Architekten, Dachdecker, Zimmereien und Fachgroßhändler) partnerschaftlich mit technischem Wissen und innovativen, bewährten Qualitätsprodukten bei der täglichen Arbeit. Zur Verstärkung unseres Teams suchen wir zum nächstmöglichen Zeitpunkt einen Elektroniker für Betriebstechnik / Elektroniker für Instandhaltung & Wartung / Industrieelektriker Betriebstechnik / Elektromechaniker (m/w/d) in Vollzeit für unsere Tagschicht mit wechselweiser Rufbereitschaft. Das sind deine Aufgaben: Wartung und Instandhaltung von automatisierten Industrieanlagen sowie von Anlagen der Gebäudetechnik Fehleranalyse, Störungsbehebung an Produktionsanlagen Installation und Inbetriebnahme im Rahmen von Neu- und Ersatzbeschaffungen Führen der Servicedokumentation und Prüfprotokolle Das wünschen wir uns von dir: Abgeschlossene Berufsausbildung als Elektroniker für Betriebstechnik oder vergleichbare Qualifikationen (wie z.B. Elektriker, Elektroniker, Elektroinstallateur, Elektromonteur, Elektro-Handwerker, Mechatroniker) erste Berufserfahrung (vorzugsweise in einem produzierenden Unternehmen) Routinierter Umgang mit elektronischen, mechanischen Komponenten Gute allgemeine elektrotechnische Kenntnisse Gute EDV-Kenntnisse Engagierter Teamplayer mit Kommunikationsstärke und Eigeninitiative Strukturierte und ergebnisorientierte Arbeitsweise sowie Flexibilität Zuverlässigkeit und analytische Fähigkeiten Engagierte, selbständige und strukturierte Arbeitsweise Das bieten wir dir: Attraktive tarifliche Bezahlung Arbeitszeit zwischen 06:00 und 16:00 Uhr bei 40 Wochenstunden 30 Tage Urlaub/Jahr Urlaubs- und Weihnachtsgeld Betriebliche Altersvorsorge Betriebliche Pflegezusatzversicherung Attraktive tarifliche Sonderzahlungen und Zulagen Weiterbildungsmöglichkeiten",
+      "locations": [
+        "Uelzen, NI, DE"
+      ],
+      "employment_type": "FULL_TIME",
+      "remote": "",
+      "employer": "C. Hasse & Sohn Inh. E. Rädecke GmbH & Co. KG",
+      "date_posted": "2026-07-16",
+      "valid_through": null,
+      "reference": "C. Hasse & Sohn Inh. E. Rädecke GmbH & Co. KG",
+      "extraction": "schema_org_jobposting",
+      "source_url": "https://job.hasse.info/o/elektroniker-fur-betriebstechnik-mwd",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:35:02.085342+00:00",
+      "id": "840c367aab57fb321c48",
+      "company_key": "Hasse"
+    },
+    {
+      "title": "Produktionsmitarbeiter / Maschinen- und Anlagenführer (m/w/d)",
+      "url": "https://job.hasse.info/o/produktionsmitarbeiter-maschinen-und-anlagenfuhrer-mwd",
+      "description": "Als familiengeführtes Unternehmen im Mittelstand mit 130 Mitarbeitern entwickeln und produzieren wir hochwertige Produkte und Systeme für die Dach- und Bauwerksabdichtung. Wir unterstützen unsere Fachkunden partnerschaftlich mit technischem Wissen und innovativen, bewährten Qualitätsprodukten bei der täglichen Arbeit. Zur Verstärkung unseres Teams suchen wir zu sofort einen/eine Produktionsmitarbeiter (Maschinen- und Anlagenführer/in) (m/w/d) in Vollzeit. Das sind deine Aufgaben: Einrichten, Inbetriebnehmen, Umrüsten und Bedienen der Anlagen und Maschinen zur Herstellung von Dachbahnen Rohstoffzuführung für die laufende Produktion mittels Gabelstapler Kontrolle und Dokumentation während des Fertigungsprozesses Qualitätskontrolle und Vorbereitung zur Endverpackung Wartung und Instandhaltung der Anlagen Das wünschen wir uns von dir: Ausbildung zum Maschinen- und Anlagenführer oder in einem handwerklichen Beruf mit mehrjähriger Berufserfahrung Besitz des Flurförderscheins wäre schön, ist aber kein Muss Zuverlässigkeit, körperliche Belastbarkeit, selbständige Arbeitsweise Teamfähigkeit Das erwartet dich: Arbeiten im 2-Schichtbetrieb zwischen 06:00 und 24:00 Uhr bei 40 Wochenstunden Regelmäßig von montags bis freitags, selten samstags, nie am Sonntag Wechsel der Stationen an der Bandanlage für mehr Vielfalt (keine Akkordarbeit) Attraktive tarifliche Bezahlung inkl. Zulagen 30 - 35 Tage Urlaub/Jahr nach Wahl Urlaubs- und Weihnachtsgeld Betriebliche Altersvorsorge Betriebliche Pflegezusatzversicherung Teilnahmemöglichkeit am Mitarbeiter-Jobrad-Programm",
+      "locations": [
+        "Uelzen, NI, DE"
+      ],
+      "employment_type": "FULL_TIME",
+      "remote": "",
+      "employer": "C. Hasse & Sohn Inh. E. Rädecke GmbH & Co. KG",
+      "date_posted": "2026-11-05",
+      "valid_through": null,
+      "reference": "C. Hasse & Sohn Inh. E. Rädecke GmbH & Co. KG",
+      "extraction": "schema_org_jobposting",
+      "source_url": "https://job.hasse.info/o/produktionsmitarbeiter-maschinen-und-anlagenfuhrer-mwd",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:35:02.660730+00:00",
+      "id": "6282fb974429641fd3ff",
+      "company_key": "Hasse"
+    },
+    {
+      "title": "Jahrespraktikum im Bereich Wirtschaft  (FOS)",
+      "url": "https://job.hasse.info/o/jahrespraktikum-im-bereich-wirtschaft-fos-1",
+      "description": "Du möchtest erste praktische Erfahrungen im kaufmännischen Bereich sammeln und gleichzeitig spannende Einblicke in ein Industrieunternehmen gewinnen? - Dann starte dein Jahrespraktikum im Rahmen der Fachoberschule Wirtschaft bei uns! Wer wir sind? Wir sind ein mittelständisches Unternehmen mit ca. 130 Beschäftigten. Als Industrieunternehmen sind wir ein leistungsfähiger Entwickler und Hersteller von Baustoffen für die Dach- und Bauwerksabdichtung. Wir unterstützen unsere Fachkunden (Architekten, Dachdecker, Zimmereien und Fachgroßhändler) partnerschaftlich mit technischem Wissen und innovativen, bewährten Qualitätsprodukten bei der täglichen Arbeit. Deine Aufgaben bei uns: Unterstützung unserer kaufmännischen Abteilungen (z.B. Einkauf, Buchhaltung, Disposition) Mitarbeit im Tagesgeschäft und bei organisatorischen Abläufen Bearbeitung von Anfragen und Pflege von Daten Einblicke in betriebswirtschaftliche Prozesse eines Industrieunternehmens Das bringst du mit: Besuch der Fachoberschule mit Schwerpunkt Wirtschaft Interesse an wirtschaftlichen Zusammenhängen und industriellen Prozessen Engagement, Zuverlässigkeit und Teamfähigkeit Erste Kenntnisse in MS Office sind von Vorteil Das bekommst du bei uns: Einblicke in verschiedene Unternehmensbereiche und Abläufe Ein wertschätzendes Miteinander Persönliche Betreuung und Unterstützung durch unser Team",
+      "locations": [
+        "Uelzen, NI, DE"
+      ],
+      "employment_type": "FULL_TIME",
+      "remote": "",
+      "employer": "C. Hasse & Sohn Inh. E. Rädecke GmbH & Co. KG",
+      "date_posted": "2026-09-03",
+      "valid_through": null,
+      "reference": "C. Hasse & Sohn Inh. E. Rädecke GmbH & Co. KG",
+      "extraction": "schema_org_jobposting",
+      "source_url": "https://job.hasse.info/o/jahrespraktikum-im-bereich-wirtschaft-fos-1",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:35:04.152730+00:00",
+      "id": "045ca95323421f64d614",
+      "company_key": "Hasse"
+    },
+    {
+      "title": "Produktionsmitarbeiter in der Massenaufbereitung",
+      "url": "https://job.hasse.info/o/produktionsmitarbeiter-in-der-massenaufbereitung",
+      "description": "Wer wir sind? Ein modernes Familienunternehmen mit Tradition: Seit 1872 sind wir in Uelzen ansässig. Mit rund 130 Mitarbeitenden entwickeln und produzieren wir innovative Lösungen im Bereich Dach- und Bauwerksabdichtung und stehen unseren Kunden mit Fachwissen und Engagement zur Seite. Zur Verstärkung unseres Teams suchen wir zum 01.02.2027 einen Maschinen- und Anlagenführer (m/w/d) in der Massenaufbereitung in Vollzeit. Das sind deine Aufgaben: Bedienung und Überwachung der vollautomatischen Mischanlage für Massen zur Dachbahnenherstellung Materialzuführung mit Hilfe eines Gabelstaplers und Hallenkrans Bedienung und Überwachung der Beheizungsanlagen Dokumentation von Materialentnahmen sowie Störungen Unterstützung der Instandhaltung bei Wartung und Reparatur der Anlagen Das wünschen wir uns von dir: Ausbildung zum Maschinen- und Anlagenführer oder Ausbildung in einem handwerklichen Beruf. Alternativ Erfahrung im Produktionsumfeld und der Bedienung von automatisierten Produktionsanlagen Verständnis für Prozessabläufe und technische Zusammenhänge Bereitschaft zur Schichtarbeit sowie zeitweisen Alleinarbeit Das erwartet dich: Attraktive tarifliche Bezahlung plus Sonderzahlungen und Zulagen 30-35 Tage Urlaub/Jahr (Wahlmöglichkeit) 3-Schichtbetrieb an 6 Tagen mit Gleitzeitkonto Im Regelfall nach drei Wochen eine arbeitsfreie Woche Durchschnittlich 8 freie Wochenenden pro Quartal Urlaubs- und Weihnachtsgeld Betriebliche Altersvorsorge und Pflegezusatzversicherung Teilnahmemöglichkeit am Mitarbeiter-Jobrad-Programm",
+      "locations": [
+        "Uelzen, NI, DE"
+      ],
+      "employment_type": "FULL_TIME",
+      "remote": "",
+      "employer": "C. Hasse & Sohn Inh. E. Rädecke GmbH & Co. KG",
+      "date_posted": "2026-11-12",
+      "valid_through": null,
+      "reference": "C. Hasse & Sohn Inh. E. Rädecke GmbH & Co. KG",
+      "extraction": "schema_org_jobposting",
+      "source_url": "https://job.hasse.info/o/produktionsmitarbeiter-in-der-massenaufbereitung",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:35:04.649129+00:00",
+      "id": "cb02cdba2b95fdb3e6f3",
+      "company_key": "Hasse"
+    }
+  ],
+  "pages": [
+    {
+      "url": "https://www.hasse.info/",
+      "final_url": "https://hasse.info/",
+      "redirects": [
+        {
+          "source": "https://www.hasse.info/",
+          "target": "https://hasse.info/",
+          "status": 301
+        }
+      ],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://job.hasse.info/",
+      "final_url": "https://job.hasse.info/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://job.hasse.info/o/ausbildung-fachkraft-fur-lagerlogistik-mwd-1",
+      "final_url": "https://job.hasse.info/o/ausbildung-fachkraft-fur-lagerlogistik-mwd-1",
+      "redirects": [],
+      "jobs_found": 1,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://job.hasse.info/o/ausbildung-maschinen-und-anlagenfuhrer-mwd",
+      "final_url": "https://job.hasse.info/o/ausbildung-maschinen-und-anlagenfuhrer-mwd",
+      "redirects": [],
+      "jobs_found": 1,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://job.hasse.info/o/ausbildung-zum-industriekaufmann-mwd",
+      "final_url": "https://job.hasse.info/o/ausbildung-zum-industriekaufmann-mwd",
+      "redirects": [],
+      "jobs_found": 1,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://job.hasse.info/o/elektroniker-fur-betriebstechnik-mwd",
+      "final_url": "https://job.hasse.info/o/elektroniker-fur-betriebstechnik-mwd",
+      "redirects": [],
+      "jobs_found": 1,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://job.hasse.info/o/produktionsmitarbeiter-maschinen-und-anlagenfuhrer-mwd",
+      "final_url": "https://job.hasse.info/o/produktionsmitarbeiter-maschinen-und-anlagenfuhrer-mwd",
+      "redirects": [],
+      "jobs_found": 1,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://job.hasse.info/jobs-dcy2v",
+      "final_url": "https://job.hasse.info/jobs-dcy2v",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://job.hasse.info/o/initiativbewerbung-1",
+      "final_url": "https://job.hasse.info/o/initiativbewerbung-1",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://job.hasse.info/o/jahrespraktikum-im-bereich-wirtschaft-fos-1",
+      "final_url": "https://job.hasse.info/o/jahrespraktikum-im-bereich-wirtschaft-fos-1",
+      "redirects": [],
+      "jobs_found": 1,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://job.hasse.info/o/produktionsmitarbeiter-in-der-massenaufbereitung",
+      "final_url": "https://job.hasse.info/o/produktionsmitarbeiter-in-der-massenaufbereitung",
+      "redirects": [],
+      "jobs_found": 1,
+      "portal_redirects": [],
+      "explicit_empty": false
+    }
+  ],
+  "errors": [],
+  "excluded": [
+    {
+      "url": "https://job.hasse.info/o/initiativbewerbung-1",
+      "title": "Initiativbewerbung",
+      "reason": "general_application"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hasse.info/",
+      "linked_from": null,
+      "mechanism": "configured"
+    },
+    {
+      "url": "https://hasse.info/",
+      "linked_from": "https://www.hasse.info/",
+      "mechanism": "http_redirect"
+    },
+    {
+      "url": "https://job.hasse.info/",
+      "linked_from": "https://hasse.info/",
+      "mechanism": "employer_link"
+    }
+  ],
+  "adapter_attempts": [],
+  "coverage": {
+    "scope": "configured_sites_and_linked_career_portals",
+    "complete": true,
+    "pending_pages": 0,
+    "page_limit_reached": false,
+    "job_limit_reached": false,
+    "request_limit_reached": false,
+    "pages_attempted": 11,
+    "pages_read": 11,
+    "dynamic_or_unparsed_pages": false,
+    "http": {
+      "requests_attempted": 16,
+      "allocated_requests": 1451,
+      "cache_hits": 0
+    }
+  },
+  "pending_urls": [],
+  "jobs_before_keyword_filter": 7
+}

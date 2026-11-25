@@ -1,0 +1,149 @@
+{
+  "provider": "kununu",
+  "backend": "browser",
+  "status": "partial",
+  "query": "constellr",
+  "profile": null,
+  "reviews": [
+    {
+      "id": "5ad86a84-0aad-46a5-ba31-aa1fa2aadc3d",
+      "url": "https://www.kununu.com/de/constellr/bewertung/5ad86a84-0aad-46a5-ba31-aa1fa2aadc3d",
+      "title": "Run for your life",
+      "content": "Until 2024 there were good things but now it is all bad.\n\nCommunication, salary, work-life balance, career development, dealing with the leadership team for whom the best skill in a candidate is if they can do sport.\n\nIt is worthless. The eNPS is down in the dumps equivalent to perhaps what it will be in defence forces or on the border.\n\nMy immediate colleagues are good but dealing with other teams and the leadership team is like pulling your hair out.\n\nThere are people who switch-off at 5pm/6pm and there are others who work until late at night. So tasks have a deadline with the assumption that time is non-linear.\n\nWe pretend to care about environment.\n\nSome people get all the resources and some people get nothing.\n\nDepends on the team, my team is very cooperative and good but constellr as one team doesn't work.\n\nThey only want to hear positive things, doesn't matter if the house is on fire, if you don't say it positively they will not hear it. Negative comments and statements as per the CEO are noise.\n\nWe are a remote-first company, so working conditions are what you have. From company's side the support is minimal\n\nCommunication at constellr - high stakes things are communicated too early without a lot of detail and low stakes things are communicated in a lot of detail. Analogy will be - color of the walls of the office will be white and there is a kettle and a microwave, both are black, and the office is 100m2 etc. and we have not achieved our target revenue, we will do it next year.\n\nMuch lower than market and slim to no chance of improvement. Doesn't matter if you are new, salary is what you can negotiate.\n\nThe work is mostly interesting.",
+      "rating": 1.6,
+      "sections": {
+        "positive": "Until 2024 there were good things but now it is all bad.",
+        "negative": "Communication, salary, work-life balance, career development, dealing with the leadership team for whom the best skill in a candidate is if they can do sport.",
+        "suggestion": "It is worthless. The eNPS is down in the dumps equivalent to perhaps what it will be in defence forces or on the border."
+      },
+      "factor_comments": {
+        "atmosphere": "My immediate colleagues are good but dealing with other teams and the leadership team is like pulling your hair out.",
+        "workLife": "There are people who switch-off at 5pm/6pm and there are others who work until late at night. So tasks have a deadline with the assumption that time is non-linear.",
+        "environment": "We pretend to care about environment.",
+        "career": "Some people get all the resources and some people get nothing.",
+        "teamwork": "Depends on the team, my team is very cooperative and good but constellr as one team doesn't work.",
+        "leadership": "They only want to hear positive things, doesn't matter if the house is on fire, if you don't say it positively they will not hear it. Negative comments and statements as per the CEO are noise.",
+        "workConditions": "We are a remote-first company, so working conditions are what you have. From company's side the support is minimal",
+        "communication": "Communication at constellr - high stakes things are communicated too early without a lot of detail and low stakes things are communicated in a lot of detail. Analogy will be - color of the walls of the office will be white and there is a kettle and a microwave, both are black, and the office is 100m2 etc. and we have not achieved our target revenue, we will do it next year.",
+        "salary": "Much lower than market and slim to no chance of improvement. Doesn't matter if you are new, salary is what you can negotiate.",
+        "tasks": "The work is mostly interesting."
+      },
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 1.0,
+        "communication": 1.0,
+        "workConditions": 1.0,
+        "leadership": 1.0,
+        "teamwork": 2.0,
+        "oldColleagues": null,
+        "equality": null,
+        "career": 2.0,
+        "salary": 1.0,
+        "image": null,
+        "environment": 1.0,
+        "tasks": 3.0
+      },
+      "published_at": "2026-09-16T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    }
+  ],
+  "review_limit": 15,
+  "review_period": {
+    "since": "2024-11-25T00:00:00+00:00",
+    "until": "2026-11-25T17:19:12.894583+00:00",
+    "date_field": "published_at",
+    "missing_dates": "excluded"
+  },
+  "factor_scores_aggregated": {
+    "atmosphere": {
+      "mean": 3.0,
+      "count": 1
+    },
+    "workLife": {
+      "mean": 1.0,
+      "count": 1
+    },
+    "communication": {
+      "mean": 1.0,
+      "count": 1
+    },
+    "workConditions": {
+      "mean": 1.0,
+      "count": 1
+    },
+    "leadership": {
+      "mean": 1.0,
+      "count": 1
+    },
+    "teamwork": {
+      "mean": 2.0,
+      "count": 1
+    },
+    "career": {
+      "mean": 2.0,
+      "count": 1
+    },
+    "salary": {
+      "mean": 1.0,
+      "count": 1
+    },
+    "environment": {
+      "mean": 1.0,
+      "count": 1
+    },
+    "tasks": {
+      "mean": 3.0,
+      "count": 1
+    }
+  },
+  "coverage": "bounded_employee_review_sample_last_2_years_not_all_reviews",
+  "diagnostics": {
+    "pages": [
+      {
+        "page": "reviews",
+        "page_number": 1,
+        "load_more_clicks": 0,
+        "requested_url": "https://www.kununu.com/de/constellr/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\constellr-4aa40ef0\\browser\\reviews.html",
+        "browser_step": 156,
+        "final_url": "https://www.kununu.com/de/constellr/kommentare",
+        "observed_at": "2026-11-25T17:19:13.587941+00:00",
+        "http_status": 200,
+        "reviews_collected": 1
+      }
+    ]
+  },
+  "source_url": "https://www.kununu.com/de/constellr",
+  "profile_source": "https://www.kununu.com/de/constellr/kommentare",
+  "review_stop_reason": "end_of_available_reviews",
+  "factor_score_coverage": {
+    "reviews_with_scores": 1,
+    "reviews_without_scores": 0,
+    "reviews_with_all_known_scores": 0,
+    "status": "partial"
+  },
+  "request_limits": {
+    "max_browser_steps": 295,
+    "browser_steps": 156,
+    "zyte_requests": 0
+  },
+  "reason": "output_contract_incomplete",
+  "contract_rejections": [
+    {
+      "field": "profile",
+      "error": "$.profile.review_count: ungültiger Wert oder Typ",
+      "value": {
+        "url": "https://www.kununu.com/de/constellr",
+        "name": "ConstellR GmbH",
+        "overall_score": 1.6,
+        "review_count": null,
+        "recommendation_percent": null,
+        "recommendation_period": "last_2_years",
+        "observed_at": "2026-11-25T17:19:13.696434+00:00"
+      }
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "provider": "kununu",
+  "backend": "browser",
+  "status": "ok",
+  "query": "Resuscitec GmbH",
+  "profile": {
+    "url": "https://www.kununu.com/de/resuscitec1",
+    "name": "Resuscitec GmbH",
+    "overall_score": 3.1,
+    "review_count": 12,
+    "recommendation_percent": 40,
+    "recommendation_period": "last_2_years",
+    "observed_at": "2026-11-25T17:14:47.007370+00:00"
+  },
+  "reviews": [
+    {
+      "id": "0ee1c49d-91f8-4886-ba04-c67ddddd3c43",
+      "url": "https://www.kununu.com/de/resuscitec1/bewertung/0ee1c49d-91f8-4886-ba04-c67ddddd3c43",
+      "title": "Thema und Bereich interessant",
+      "content": "Das Thema\n\nBessere Kommunikation\n\nDie obersten Chefs waren sehr unterschiedlich. Einer ist top in seinem Fach, kann aber nicht führen. Der andere Chef versucht es, ändert aber nicht viel bei Vorschlägen. Der andere hat es vor dem Verlassen der Firma nicht geschafft, sich persönlich zu verabschieden und irgendwas zu sagen.",
+      "rating": 3.6,
+      "sections": {
+        "positive": "Das Thema",
+        "negative": null,
+        "suggestion": "Bessere Kommunikation"
+      },
+      "factor_comments": {
+        "leadership": "Die obersten Chefs waren sehr unterschiedlich. Einer ist top in seinem Fach, kann aber nicht führen. Der andere Chef versucht es, ändert aber nicht viel bei Vorschlägen. Der andere hat es vor dem Verlassen der Firma nicht geschafft, sich persönlich zu verabschieden und irgendwas zu sagen."
+      },
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 4.0,
+        "communication": 3.0,
+        "workConditions": 4.0,
+        "leadership": 3.0,
+        "teamwork": 3.0,
+        "oldColleagues": 4.0,
+        "equality": 5.0,
+        "career": 3.0,
+        "salary": 4.0,
+        "image": 4.0,
+        "environment": 4.0,
+        "tasks": 3.0
+      },
+      "published_at": "2026-06-11T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "85e8cd9b-3529-43bf-aac2-ec104980df07",
+      "url": "https://www.kununu.com/de/resuscitec1/bewertung/85e8cd9b-3529-43bf-aac2-ec104980df07",
+      "title": "Eine enttäuschende bedauerliche Erfahrung",
+      "content": "Die Entwicklung neuer interessanter medizinischer Technologien und der Umgang mit Studierenden und einigen Kollegen.\n\nDas Verhalten gegenüber neuen Mitarbeitenden, insbesondere solchen ohne muttersprachliche Deutschkenntnisse, war oft wenig unterstützend und nicht professionell. Neue Mitarbeitende wurden mit Aufgaben betraut, deren Umfang und Anforderungen nicht klar kommuniziert wurden. Die fehlende Transparenz bei der Aufgabenverteilung und die ungenaue Erklärung der Erwartungen erschwerten die Einarbeitung zusätzlich.\nÜber Wochen hinweg erhielt ich keine klaren Aufgaben und wurde weitgehend ignoriert, was zu längeren Phasen ohne sinnvolle Beschäftigung führte. Erst kurz vor meinem Austritt wurde mir kurzfristig eine Aufgabe mit sehr knapper Frist übertragen. Obwohl die Bearbeitungszeit nicht ausreichte, wurde ich für die Nichterledigung der Aufgabe verantwortlich gemacht. Diese Gesamtsituation trug maßgeblich zu meiner Entscheidung bei, das Arbeitsverhältnis zu beenden.\n\nDas Verhalten gegenüber Mitarbeitenden kann weiterentwickelt werden, indem mehr Zeit und Engagement in ihre fachliche und persönliche Einarbeitung investiert wird. Neue Mitarbeitende sollten aktiv ins Team eingebunden und mit einer klar strukturierten Einführung unterstützt werden. Dabei ist es hilfreich, von Anfang an transparente Erwartungen zu formulieren, um Missverständnisse zu vermeiden. Aufgaben wie das Zusammenbauen eines Pumpenmodells, das Durchführen von Blutmessungen oder das Verfassen technischer Berichte sollten idealerweise erst nach einer entsprechenden Einführung oder Anleitung übertragen werden. Zudem wäre es förderlich, eine offenere und unterstützende Haltung gegenüber der Nutzung von Englisch als Arbeitssprache zu zeigen, insbesondere in der Anfangsphase, anstatt von internationalen Mitarbeitenden unmittelbar ein hohes Sprachniveau in Deutsch zu erwarten.\n\nIm Interview hatte ich einen positiven Eindruck, der sich jedoch nicht nur als unrealistisch erwies, sondern sogar im starken Gegensatz zu meinen Erwartungen stand.\n\nEs war unmöglich, im Job zu bleiben. Ich habe monatelang dafür gekämpft und gehofft, dass es irgendwann besser wird, doch leider wurde ich immer wieder enttäuscht und musste am Ende aussteigen.\n\nDas tatsächlich gezahlte und im Vertrag festgelegte Gehalt lag unter der ursprünglich im Bewerbungsprozess angegebenen Gehaltsvorstellung. Ich übernehme die Verantwortung dafür, dass ich dies nicht weiter angesprochen habe und dem zugestimmt habe, da ich damals praktische Erfahrung sammeln und in den Arbeitsmarkt einsteigen wollte.\n\nungerechtfertigte Benachteiligung\n\nUnklare Kommunikation, mangelnde Offenheit und fehlendes Interesse seitens der Vorgesetzten, neuen oder nicht deutsch-muttersprachlichen Mitarbeitenden ausreichend Zeit und Mühe zu widmen.\n\nEs gibt viele potenziell interessante Projekte, aber leider fehlt die Zeit und das Interesse, neue Mitarbeitende in deren Bearbeitung einzuführen.",
+      "rating": 2.1,
+      "sections": {
+        "positive": "Die Entwicklung neuer interessanter medizinischer Technologien und der Umgang mit Studierenden und einigen Kollegen.",
+        "negative": "Das Verhalten gegenüber neuen Mitarbeitenden, insbesondere solchen ohne muttersprachliche Deutschkenntnisse, war oft wenig unterstützend und nicht professionell. Neue Mitarbeitende wurden mit Aufgaben betraut, deren Umfang und Anforderungen nicht klar kommuniziert wurden. Die fehlende Transparenz bei der Aufgabenverteilung und die ungenaue Erklärung der Erwartungen erschwerten die Einarbeitung zusätzlich.\nÜber Wochen hinweg erhielt ich keine klaren Aufgaben und wurde weitgehend ignoriert, was zu längeren Phasen ohne sinnvolle Beschäftigung führte. Erst kurz vor meinem Austritt wurde mir kurzfristig eine Aufgabe mit sehr knapper Frist übertragen. Obwohl die Bearbeitungszeit nicht ausreichte, wurde ich für die Nichterledigung der Aufgabe verantwortlich gemacht. Diese Gesamtsituation trug maßgeblich zu meiner Entscheidung bei, das Arbeitsverhältnis zu beenden.",
+        "suggestion": "Das Verhalten gegenüber Mitarbeitenden kann weiterentwickelt werden, indem mehr Zeit und Engagement in ihre fachliche und persönliche Einarbeitung investiert wird. Neue Mitarbeitende sollten aktiv ins Team eingebunden und mit einer klar strukturierten Einführung unterstützt werden. Dabei ist es hilfreich, von Anfang an transparente Erwartungen zu formulieren, um Missverständnisse zu vermeiden. Aufgaben wie das Zusammenbauen eines Pumpenmodells, das Durchführen von Blutmessungen oder das Verfassen technischer Berichte sollten idealerweise erst nach einer entsprechenden Einführung oder Anleitung übertragen werden. Zudem wäre es förderlich, eine offenere und unterstützende Haltung gegenüber der Nutzung von Englisch als Arbeitssprache zu zeigen, insbesondere in der Anfangsphase, anstatt von internationalen Mitarbeitenden unmittelbar ein hohes Sprachniveau in Deutsch zu erwarten."
+      },
+      "factor_comments": {
+        "image": "Im Interview hatte ich einen positiven Eindruck, der sich jedoch nicht nur als unrealistisch erwies, sondern sogar im starken Gegensatz zu meinen Erwartungen stand.",
+        "career": "Es war unmöglich, im Job zu bleiben. Ich habe monatelang dafür gekämpft und gehofft, dass es irgendwann besser wird, doch leider wurde ich immer wieder enttäuscht und musste am Ende aussteigen.",
+        "salary": "Das tatsächlich gezahlte und im Vertrag festgelegte Gehalt lag unter der ursprünglich im Bewerbungsprozess angegebenen Gehaltsvorstellung. Ich übernehme die Verantwortung dafür, dass ich dies nicht weiter angesprochen habe und dem zugestimmt habe, da ich damals praktische Erfahrung sammeln und in den Arbeitsmarkt einsteigen wollte.",
+        "leadership": "ungerechtfertigte Benachteiligung",
+        "communication": "Unklare Kommunikation, mangelnde Offenheit und fehlendes Interesse seitens der Vorgesetzten, neuen oder nicht deutsch-muttersprachlichen Mitarbeitenden ausreichend Zeit und Mühe zu widmen.",
+        "tasks": "Es gibt viele potenziell interessante Projekte, aber leider fehlt die Zeit und das Interesse, neue Mitarbeitende in deren Bearbeitung einzuführen."
+      },
+      "factor_scores": {
+        "atmosphere": 1.0,
+        "workLife": 3.0,
+        "communication": 1.0,
+        "workConditions": 4.0,
+        "leadership": 1.0,
+        "teamwork": 2.0,
+        "oldColleagues": 3.0,
+        "equality": 3.0,
+        "career": 1.0,
+        "salary": 2.0,
+        "image": 1.0,
+        "environment": 2.0,
+        "tasks": 3.0
+      },
+      "published_at": "2025-06-27T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "db1bbe25-4cb4-4da9-aa61-9c9773d5b480",
+      "url": "https://www.kununu.com/de/resuscitec1/bewertung/db1bbe25-4cb4-4da9-aa61-9c9773d5b480",
+      "title": "Firma mit innovativen Produkten aber...",
+      "content": "- Weiterempfehlung aufgrund der Arbeit und des Themas, aber nicht hinsichtlich der Bedingungen.\n\nHier könnten einige Dinge stehen, die aber (anwaltlich) unterbunden wurden !!, - man darf sich also vorstellen, welchen Aufwand diese Firma betreibt, um ihr Image auf dieser Plattform aufzuwerten. Für kununu aber ein starkes Zeichen, da die Plattform anscheinend sehr an Bedeutung gewonnen hat..\nDa diese Anstellung schon echt einige Jahre her ist und es mir der Aufwand nicht mehr Wert ist, und ich nicht mehr Zeit dafür aufwenden möchte, habe ich kurzerhand einfach alle Texte ( der Fairness bzw. dem Bias-halber auch die guten Dinge) entfernt.\n\nEs herrschen meiner Meinung nach sehr konservative Meinungen zum Thema Homeoffice, Gleitzeit etc.\n\nn/a\n\nMeiner Meinung nach Unterdurchschnittlich.\n\nSehr tagesformabhängig.",
+      "rating": 1.6,
+      "sections": {
+        "positive": "- Weiterempfehlung aufgrund der Arbeit und des Themas, aber nicht hinsichtlich der Bedingungen.",
+        "negative": "Hier könnten einige Dinge stehen, die aber (anwaltlich) unterbunden wurden !!, - man darf sich also vorstellen, welchen Aufwand diese Firma betreibt, um ihr Image auf dieser Plattform aufzuwerten. Für kununu aber ein starkes Zeichen, da die Plattform anscheinend sehr an Bedeutung gewonnen hat..\nDa diese Anstellung schon echt einige Jahre her ist und es mir der Aufwand nicht mehr Wert ist, und ich nicht mehr Zeit dafür aufwenden möchte, habe ich kurzerhand einfach alle Texte ( der Fairness bzw. dem Bias-halber auch die guten Dinge) entfernt.",
+        "suggestion": null
+      },
+      "factor_comments": {
+        "workLife": "Es herrschen meiner Meinung nach sehr konservative Meinungen zum Thema Homeoffice, Gleitzeit etc.",
+        "career": "n/a",
+        "salary": "Meiner Meinung nach Unterdurchschnittlich.",
+        "leadership": "Sehr tagesformabhängig."
+      },
+      "factor_scores": {
+        "atmosphere": 2.0,
+        "workLife": 1.0,
+        "communication": 1.0,
+        "workConditions": 1.0,
+        "leadership": 1.0,
+        "teamwork": 2.0,
+        "oldColleagues": 3.0,
+        "equality": 2.0,
+        "career": 1.0,
+        "salary": 1.0,
+        "image": 2.0,
+        "environment": 2.0,
+        "tasks": 2.0
+      },
+      "published_at": "2025-06-23T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "32018798-51f1-4572-aecd-ba9bbdde7640",
+      "url": "https://www.kununu.com/de/resuscitec1/bewertung/32018798-51f1-4572-aecd-ba9bbdde7640",
+      "title": "Super Produkt, interessante Aufgaben, nette Arbeitskollegen aber das wars auch schon",
+      "content": "Das Produkt, die Arbeitskollegen, flexible Arbeitszeiten\n\nViele Meetings ohne was zählbares.\nVorgesetzte ohne Fachwissen und Plan. Man hört auf die falschen Personen. Hohe Fluktuation beim Personal.\n\nHab ich keine, die ich teilen möchte.\nMan weiss wo der Hund begraben liegt oder auch nicht, irgendwo her muss der rege Personalaustausch ja kommen.\n\nDie ist ganz gut, kommt halt auf die Abteilung an\n\nMehr schein als sein so hab ich es empfunden.\n\nPasste für mich\n\nGibts Wohl\n\nScale/Startup Gehalt nach über 10 Jahren Firma Existenz immer noch.\nEs wird auch noch ständig von Startup gesprochen.\nFür mich war das Gehalt in Ordnung\nUrlaubs.- Weihnachtsgeld oder der gleichen gibts nicht\n\nExistiert nicht wirklich\n\nDas passt, zumindest in einigen Abteilungen\n\nGibt wenig ältere aber alles Fair\n\nAm Anfang gut,er hatte Fachwissen und ein Plan, später Katastrophe kein Fachwissen kein Plan\n\nAltes Equipment, für mich zumindest\n\nFindet nicht mit jedem statt oder zuspät oder mit den falschen\n\nJa die gibts nicht wirklich\n\nOh ja mega interessant, ist halt Abteilungs abhängig",
+      "rating": 2.2,
+      "sections": {
+        "positive": "Das Produkt, die Arbeitskollegen, flexible Arbeitszeiten",
+        "negative": "Viele Meetings ohne was zählbares.\nVorgesetzte ohne Fachwissen und Plan. Man hört auf die falschen Personen. Hohe Fluktuation beim Personal.",
+        "suggestion": "Hab ich keine, die ich teilen möchte.\nMan weiss wo der Hund begraben liegt oder auch nicht, irgendwo her muss der rege Personalaustausch ja kommen."
+      },
+      "factor_comments": {
+        "atmosphere": "Die ist ganz gut, kommt halt auf die Abteilung an",
+        "image": "Mehr schein als sein so hab ich es empfunden.",
+        "workLife": "Passte für mich",
+        "career": "Gibts Wohl",
+        "salary": "Scale/Startup Gehalt nach über 10 Jahren Firma Existenz immer noch.\nEs wird auch noch ständig von Startup gesprochen.\nFür mich war das Gehalt in Ordnung\nUrlaubs.- Weihnachtsgeld oder der gleichen gibts nicht",
+        "environment": "Existiert nicht wirklich",
+        "teamwork": "Das passt, zumindest in einigen Abteilungen",
+        "oldColleagues": "Gibt wenig ältere aber alles Fair",
+        "leadership": "Am Anfang gut,er hatte Fachwissen und ein Plan, später Katastrophe kein Fachwissen kein Plan",
+        "workConditions": "Altes Equipment, für mich zumindest",
+        "communication": "Findet nicht mit jedem statt oder zuspät oder mit den falschen",
+        "equality": "Ja die gibts nicht wirklich",
+        "tasks": "Oh ja mega interessant, ist halt Abteilungs abhängig"
+      },
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 4.0,
+        "communication": 1.0,
+        "workConditions": 1.0,
+        "leadership": 1.0,
+        "teamwork": 3.0,
+        "oldColleagues": 3.0,
+        "equality": 2.0,
+        "career": 2.0,
+        "salary": 1.0,
+        "image": 1.0,
+        "environment": 1.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-06-05T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "9d8b9f73-9c90-4255-8f69-25e744df3bb6",
+      "url": "https://www.kununu.com/de/resuscitec1/bewertung/9d8b9f73-9c90-4255-8f69-25e744df3bb6",
+      "title": "Sehr gutes und Innovatives Unternehmen",
+      "content": "Jeder einzelne Mitarbeiter wird aufgrund seiner Leistung und Tätigkeit bewertet. Es gilt das Prinzip Fördern und Fordern!\nFür jeden Mitarbeiter stehen Getränke, Kaffee und frisches Obst frei zur Verfügung.\n\nIch kann keine schlechten Punkte kommentieren.\n\nWeiterhin an den bisherigen Herausforderungen arbeiten und diese weiterhin positiv umsetzen.\n\nSehr gute Arbeitsatmosphäre im Team!\n\nDie Firma steht für ein hochkomplexes Medizinprodukt, mit dem das Überleben von Reanimations-Patienten auf ein neues Level gesetzt wird. Daher sehr gutes Image außerhalb und innerhalb der Firma. Sehr hohe persönliche Identifikation mit dem Unternehmen.\n\nDa es sich um ein junges Unternehmen handelt, welches Investoren geführt ist, ist hier natürlich nicht der 100% Fokus auf der Work-Life Balance. Dies muss natürlich jedem Mitarbeiter, welcher in einem jungen Unternehmen arbeiten will, klar sein. Dadurch ergeben sich natürlich aber auch viele Vorteile eines jungen Unternehmens, wie z.b. flache Hierarchien, gute Aufstiegschancen, Selbstverwirklichung in der Arbeit und vieles mehr.\nHomeoffice ist möglich.\nArbeitszeit kann frei eingeteilt werden.\nPausen können frei gewählt werden.\nAufgrund von Familiären Gründen wurde das Unternehmen verlassen (Hohe Pendlerzeit).\n\nHier steht das Prinzip Fördern und Fordern. Wer persönlich bereit ist, mehr Verantwortung zu übernehmen, dem wird kein Stein in den Weg gelegt. Natürlich ist dies auch immer von äußeren Einflüssen abhängig. Wer sich in seinem Job beweist, der kann vieles erreichen!\nAuch die medizinische Weiterbildung wurde für Nicht-Mediziner durch Schulungen und Pratika in der Klinik forsiert.\n\nGehalt für den Status der Firma absolut i.O.\nKann hier auch die negativen Kommentare von älteren Beiträgen nicht nachvollziehen.\n\nSo wie es sein soll.\nDas Bewusstsein ist da und wird bestmöglich umgesetzt.\n\nSehr gutes Kollegium; v.a. innerhalb der Abteilung, aber selbst auf das ganze Unternehmen steht der gemeinsame Weg an erster Stelle.\n\nDas Alter hat keinen Einfluss auf einen besseren/schlechteren Umgang mit Kollegen. Der Fokus ist ganz auf die persönliche Kompetenzen des jeweiligen Kollegen gerichtet.\n\nSehr gutes Verhältnis und absolutes Vertrauen zum direkten Vorgesetzten.\n\nSofern Werkzeug, Material, etc. benötigt wird, wird alles angeschafft. Arbeitsplätze sind sehr gut ausgestattet.\n\nSehr gute Kommunikation innerhalb des Teams!\nKommunikation auf Unternehmensebene dem Firmenstatus (junges Unternehmen, schnelle Änderungen, etc.) entsprechend. Aktueller Zustand ist in der Firma bekannt und wird auch stetig verbessert.\n\nAbsolute Gleichberechtigung zwischen W/D/M. Das persönliche Potential und v.a. die persönliche Motivation entscheidet über die Aufgabenverteilung!\n\nAbsolut spannendes Themenfeld. Durch das Scale-Up der Firma sind natürlich neue Märkte mit neuen Anforderungen und Herausforderungen gegeben.",
+      "rating": 4.8,
+      "sections": {
+        "positive": "Jeder einzelne Mitarbeiter wird aufgrund seiner Leistung und Tätigkeit bewertet. Es gilt das Prinzip Fördern und Fordern!\nFür jeden Mitarbeiter stehen Getränke, Kaffee und frisches Obst frei zur Verfügung.",
+        "negative": "Ich kann keine schlechten Punkte kommentieren.",
+        "suggestion": "Weiterhin an den bisherigen Herausforderungen arbeiten und diese weiterhin positiv umsetzen."
+      },
+      "factor_comments": {
+        "atmosphere": "Sehr gute Arbeitsatmosphäre im Team!",
+        "image": "Die Firma steht für ein hochkomplexes Medizinprodukt, mit dem das Überleben von Reanimations-Patienten auf ein neues Level gesetzt wird. Daher sehr gutes Image außerhalb und innerhalb der Firma. Sehr hohe persönliche Identifikation mit dem Unternehmen.",
+        "workLife": "Da es sich um ein junges Unternehmen handelt, welches Investoren geführt ist, ist hier natürlich nicht der 100% Fokus auf der Work-Life Balance. Dies muss natürlich jedem Mitarbeiter, welcher in einem jungen Unternehmen arbeiten will, klar sein. Dadurch ergeben sich natürlich aber auch viele Vorteile eines jungen Unternehmens, wie z.b. flache Hierarchien, gute Aufstiegschancen, Selbstverwirklichung in der Arbeit und vieles mehr.\nHomeoffice ist möglich.\nArbeitszeit kann frei eingeteilt werden.\nPausen können frei gewählt werden.\nAufgrund von Familiären Gründen wurde das Unternehmen verlassen (Hohe Pendlerzeit).",
+        "career": "Hier steht das Prinzip Fördern und Fordern. Wer persönlich bereit ist, mehr Verantwortung zu übernehmen, dem wird kein Stein in den Weg gelegt. Natürlich ist dies auch immer von äußeren Einflüssen abhängig. Wer sich in seinem Job beweist, der kann vieles erreichen!\nAuch die medizinische Weiterbildung wurde für Nicht-Mediziner durch Schulungen und Pratika in der Klinik forsiert.",
+        "salary": "Gehalt für den Status der Firma absolut i.O.\nKann hier auch die negativen Kommentare von älteren Beiträgen nicht nachvollziehen.",
+        "environment": "So wie es sein soll.\nDas Bewusstsein ist da und wird bestmöglich umgesetzt.",
+        "teamwork": "Sehr gutes Kollegium; v.a. innerhalb der Abteilung, aber selbst auf das ganze Unternehmen steht der gemeinsame Weg an erster Stelle.",
+        "oldColleagues": "Das Alter hat keinen Einfluss auf einen besseren/schlechteren Umgang mit Kollegen. Der Fokus ist ganz auf die persönliche Kompetenzen des jeweiligen Kollegen gerichtet.",
+        "leadership": "Sehr gutes Verhältnis und absolutes Vertrauen zum direkten Vorgesetzten.",
+        "workConditions": "Sofern Werkzeug, Material, etc. benötigt wird, wird alles angeschafft. Arbeitsplätze sind sehr gut ausgestattet.",
+        "communication": "Sehr gute Kommunikation innerhalb des Teams!\nKommunikation auf Unternehmensebene dem Firmenstatus (junges Unternehmen, schnelle Änderungen, etc.) entsprechend. Aktueller Zustand ist in der Firma bekannt und wird auch stetig verbessert.",
+        "equality": "Absolute Gleichberechtigung zwischen W/D/M. Das persönliche Potential und v.a. die persönliche Motivation entscheidet über die Aufgabenverteilung!",
+        "tasks": "Absolut spannendes Themenfeld. Durch das Scale-Up der Firma sind natürlich neue Märkte mit neuen Anforderungen und Herausforderungen gegeben."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 4.0,
+        "communication": 4.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 4.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-06-04T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    }
+  ],
+  "review_limit": 15,
+  "review_period": {
+    "since": "2024-11-25T00:00:00+00:00",
+    "until": "2026-11-25T17:14:45.103339+00:00",
+    "date_field": "published_at",
+    "missing_dates": "excluded"
+  },
+  "factor_scores_aggregated": {
+    "atmosphere": {
+      "mean": 3.0,
+      "count": 5
+    },
+    "workLife": {
+      "mean": 3.2,
+      "count": 5
+    },
+    "communication": {
+      "mean": 2.0,
+      "count": 5
+    },
+    "workConditions": {
+      "mean": 3.0,
+      "count": 5
+    },
+    "leadership": {
+      "mean": 2.2,
+      "count": 5
+    },
+    "teamwork": {
+      "mean": 3.0,
+      "count": 5
+    },
+    "oldColleagues": {
+      "mean": 3.6,
+      "count": 5
+    },
+    "equality": {
+      "mean": 3.4,
+      "count": 5
+    },
+    "career": {
+      "mean": 2.4,
+      "count": 5
+    },
+    "salary": {
+      "mean": 2.4,
+      "count": 5
+    },
+    "image": {
+      "mean": 2.6,
+      "count": 5
+    },
+    "environment": {
+      "mean": 2.8,
+      "count": 5
+    },
+    "tasks": {
+      "mean": 3.6,
+      "count": 5
+    }
+  },
+  "coverage": "bounded_employee_review_sample_last_2_years_not_all_reviews",
+  "diagnostics": {
+    "pages": [
+      {
+        "page": "reviews",
+        "page_number": 1,
+        "load_more_clicks": 0,
+        "requested_url": "https://www.kununu.com/de/resuscitec1/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Resuscitec-6d490c85\\browser\\reviews.html",
+        "browser_step": 37,
+        "final_url": "https://www.kununu.com/de/resuscitec1/kommentare",
+        "observed_at": "2026-11-25T17:14:46.654504+00:00",
+        "http_status": 200,
+        "factor_cards_expanded": 4,
+        "reviews_collected": 5
+      },
+      {
+        "page": "reviews",
+        "page_number": 2,
+        "load_more_clicks": 1,
+        "requested_url": "https://www.kununu.com/de/resuscitec1/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Resuscitec-6d490c85\\browser\\reviews-2.html",
+        "browser_step": 38,
+        "final_url": "https://www.kununu.com/de/resuscitec1/kommentare",
+        "observed_at": "2026-11-25T17:14:47.730459+00:00",
+        "actions_complete": true,
+        "reviews_collected": 5
+      }
+    ]
+  },
+  "source_url": "https://www.kununu.com/de/resuscitec1",
+  "profile_source": "https://www.kununu.com/de/resuscitec1/kommentare",
+  "review_stop_reason": "end_of_available_reviews",
+  "factor_score_coverage": {
+    "reviews_with_scores": 5,
+    "reviews_without_scores": 0,
+    "reviews_with_all_known_scores": 5,
+    "status": "complete"
+  },
+  "request_limits": {
+    "max_browser_steps": 295,
+    "browser_steps": 38,
+    "zyte_requests": 0
+  },
+  "reason": null
+}

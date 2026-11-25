@@ -1,0 +1,742 @@
+{
+  "provider": "kununu",
+  "backend": "browser",
+  "status": "ok",
+  "query": "msg systems ag",
+  "profile": {
+    "url": "https://www.kununu.com/de/msg-systems",
+    "name": "msg",
+    "overall_score": 3.7,
+    "review_count": 1088,
+    "recommendation_percent": 59,
+    "recommendation_period": "last_2_years",
+    "observed_at": "2026-11-25T17:15:59.911017+00:00"
+  },
+  "reviews": [
+    {
+      "id": "a0cdb92a-43e0-4ca1-9855-04a910ba4cc8",
+      "url": "https://www.kununu.com/de/msg-systems/bewertung/a0cdb92a-43e0-4ca1-9855-04a910ba4cc8",
+      "title": "Keine Gehaltserhöhung, weniger Homeoffice – Familienfreundlichkeit und Work-Life-Balance nur Werbeversprechen?!",
+      "content": "Leider nichts mehr!\n\nSeit Jahren keine Gehaltserhöhung, und jetzt wird auch noch das Homeoffice um 60 % gekürzt. Bei der aktuellen Inflation, den Spritpreisen, den täglichen Ausgaben fürs Mittagessen in der Kantine und den steigenden Kaffeepreisen (der kostenlose Kaffee aus dem Automaten ist leider kaum genießbar ) ist das ohnehin schon belastend genug.\nDann von heute auf morgen eine Büropräsenzpflicht einzuführen – teilweise sogar rückwirkend – ist für mich schlicht unprofessionell, unverständlich und egoistisch.\nHomeoffice ist für viele mittlerweile kein Luxus mehr, sondern ein wichtiger Bestandteil des Arbeitslebens. Work-Life-Balance, Familienfreundlichkeit und Flexibilität sind für viele entscheidende Faktoren geworden. Doch all das scheint plötzlich keine Rolle mehr zu spielen – als wären diese Dinge nur noch Wunschdenken.\nIch fühle mich ehrlich gesagt veräppelt und überhaupt nicht wertgeschätzt. Wer ein Kind hat und dessen Einschulung bzw. Betreuung bewusst auf die bisherige Homeoffice-Regelung abgestimmt hat, steht jetzt vor zusätzlichen Problemen. Die persönlichen Lebensumstände der Mitarbeiter scheinen bei solchen Entscheidungen keinerlei Bedeutung zu haben.\nIm Großen und Ganzen ist die Stimmung einfach nur down. Ich würde die Firma definitiv niemandem mehr als Arbeitgeber empfehlen.\nMan bekommt zunehmend das Gefühl, dass die Mitarbeiter hier überhaupt nicht wichtig sind. Es wird einfach angeordnet, dass man ins Büro kommen muss – ohne nachvollziehbaren Grund und offenbar allein aufgrund der Entscheidung bzw. Laune der Geschäftsführung. Selbst der Kunde, für dessen Projekt man arbeitet, verlangt diese Präsenz nicht.\nUnd gleichzeitig wird über Umweltbewusstsein und Nachhaltigkeit gesprochen. Angesichts solcher Entscheidungen wirkt das für mich einfach widersprüchlich und unglaubwürdig.\nMitarbeiterorientierung, Vertrauen und Wertschätzung sehen für mich anders aus.\n\nKeine Gehaltserhöhung seit Jahren und noch dazu Back to Office!\n\nIm Keller!\n\nAbgestürzt!\n\nKein Budget!\n\nSeit Jahren keine Gehaltserhöhung!!!\n\nBei den Spritpreisen Back to Office!!!",
+      "rating": 1.0,
+      "sections": {
+        "positive": "Leider nichts mehr!",
+        "negative": "Seit Jahren keine Gehaltserhöhung, und jetzt wird auch noch das Homeoffice um 60 % gekürzt. Bei der aktuellen Inflation, den Spritpreisen, den täglichen Ausgaben fürs Mittagessen in der Kantine und den steigenden Kaffeepreisen (der kostenlose Kaffee aus dem Automaten ist leider kaum genießbar ) ist das ohnehin schon belastend genug.\nDann von heute auf morgen eine Büropräsenzpflicht einzuführen – teilweise sogar rückwirkend – ist für mich schlicht unprofessionell, unverständlich und egoistisch.\nHomeoffice ist für viele mittlerweile kein Luxus mehr, sondern ein wichtiger Bestandteil des Arbeitslebens. Work-Life-Balance, Familienfreundlichkeit und Flexibilität sind für viele entscheidende Faktoren geworden. Doch all das scheint plötzlich keine Rolle mehr zu spielen – als wären diese Dinge nur noch Wunschdenken.\nIch fühle mich ehrlich gesagt veräppelt und überhaupt nicht wertgeschätzt. Wer ein Kind hat und dessen Einschulung bzw. Betreuung bewusst auf die bisherige Homeoffice-Regelung abgestimmt hat, steht jetzt vor zusätzlichen Problemen. Die persönlichen Lebensumstände der Mitarbeiter scheinen bei solchen Entscheidungen keinerlei Bedeutung zu haben.\nIm Großen und Ganzen ist die Stimmung einfach nur down. Ich würde die Firma definitiv niemandem mehr als Arbeitgeber empfehlen.\nMan bekommt zunehmend das Gefühl, dass die Mitarbeiter hier überhaupt nicht wichtig sind. Es wird einfach angeordnet, dass man ins Büro kommen muss – ohne nachvollziehbaren Grund und offenbar allein aufgrund der Entscheidung bzw. Laune der Geschäftsführung. Selbst der Kunde, für dessen Projekt man arbeitet, verlangt diese Präsenz nicht.\nUnd gleichzeitig wird über Umweltbewusstsein und Nachhaltigkeit gesprochen. Angesichts solcher Entscheidungen wirkt das für mich einfach widersprüchlich und unglaubwürdig.\nMitarbeiterorientierung, Vertrauen und Wertschätzung sehen für mich anders aus.",
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Keine Gehaltserhöhung seit Jahren und noch dazu Back to Office!",
+        "image": "Im Keller!",
+        "workLife": "Abgestürzt!",
+        "career": "Kein Budget!",
+        "salary": "Seit Jahren keine Gehaltserhöhung!!!",
+        "environment": "Bei den Spritpreisen Back to Office!!!"
+      },
+      "factor_scores": {
+        "atmosphere": 1.0,
+        "workLife": 1.0,
+        "communication": 1.0,
+        "workConditions": 1.0,
+        "leadership": 1.0,
+        "teamwork": 1.0,
+        "oldColleagues": 1.0,
+        "equality": 1.0,
+        "career": 1.0,
+        "salary": 1.0,
+        "image": 1.0,
+        "environment": 1.0,
+        "tasks": 1.0
+      },
+      "published_at": "2026-11-20T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "83042607-e51e-4052-835c-fb12cdc954e6",
+      "url": "https://www.kununu.com/de/msg-systems/bewertung/83042607-e51e-4052-835c-fb12cdc954e6",
+      "title": "Schlecht, schlechter MSG Systems AG",
+      "content": "nichts mehr am besten einfach den Laden zusperren.\n\nfast alles oder doch alles.\n\nLob gibt es nur von Kollegen mehr nicht, vorgaben und Zahlen sind Intransparent und die Umsatzzahlen vollständig aus der Luftgegriffen. Wäre das Unternehmen wirklich an der Börse müsste der Vorstand gehen 3 mal in Folge wurden die Ergebnisse nicht erreicht. Was auch nicht geht wenn man der Meinung ist man müsse den Gewinn mal verdoppeln.\n\nAn dem Standort gibt es keines mehr, war mal Klassenprimus ist aber schon 2-3 Jahre her.\n\nWork ja der Rest ist nicht erwünscht. Nun dürfen alle wieder 3-mal pro Woche ins Büro!!! Parkplatz, Sitzplatz alles dein Problem dann sitzt du halt im Büro wo 7-10 Personen sitzen und fünf davon Telefonieren und du selbst sitzt den ganzen Tag mit billigen Kopfhören vor dem PC bis dir die Ohren bluten. Egal weil wenn du das nicht macht's dann macht es morgen die KI für dich ganz einfach.\n\nWer die besten Folien erstellt und bei allen Party dabei ist und die besten Witze erzählt hat sehr gute Chancen.\n\nKein Urlaubsgeld, Kein Weihnachtsgeld, Keine Benefits, Die tolle Inzentiv darf man auch zurückzahlen und das ist kein Witz 2025/2026 mussten das sehr viele machen und ich auch.\n\nDas gibt es nicht was soll den Sozial sein wen alle Benefits gestrichen werden und seit 3 Jahren keine Lohnerhöhung über 9% war in dem Zeitraum die Inflation aber das interessiert niemanden.\n\nWird auch immer schlechter weil alle gefrustet sind.\n\nDei können froh sein wenn sie noch einen Job haben.\n\nEs gibt Teamleiter die sind ganz OK mit denen kann man auch gut reden aber nur über das fachliche mehr dürfen die ja nicht. Die Personalvorgesetzten, sind ein Witz die haben keine Ahnung von meinem Job und wollen nur nach oben glänzen. Das ist mit den meisten Vorgesetzten leider so na ja wunder auch niemand wenn man sieht das man den Standortleiter auch einfach mal rausgeschmissen hat.\n\nAlso wenn man mal im Büro ist dann könnt ihr schon mal eine halbe stunde basteln bis alles Halbweg läuft und das ist euere Freizeit weil ihr könnt die Zeit nicht einfach so mal buchen. Tastatur und Maus müsst ich euch selber mitnehmen weil das was dort liegt ist mehr als gruselig das möchte mann nicht anfassen. Aber Egal hey alle sollen einfach so reinkommen weil es der Vorstand einfach will und der Sozial Austausch beim Kaffe oder im Bistro ist so wichtig für die Firma. Das ist aber alles keine Arbeitszeit sondern eure Freizeit oder fragt doch mal ob ihr hierzu ein PSP Element zur Buchung bekommt !!!\n\nEs interessiert niemanden was im Personalgespräch gesagt wird, nach über 15 Jahre hat niemand aus der Personalabteilung mal nachgefragt was da los ist. Alles nur auf Papier weil es gut aussieht. Verantwortung übernimmt aus dem Management keiner! Es gibt ja auch die Pauschale Regelung in den Betriebsvereinbarungen \"Kann mit dem Personalverantwortlichen geändert bzw. angepasst werden\". Lustig weil der sagt ohh kann ich nicht's machen weil wir haben da einen Kriterienkatalog, ach stimmt den gibt es nicht nicht, ach ja der wird erstellt.\n\nGibt es hier nicht sondern nur auf dem Papier -> Fragt einfach bei der Einstellung mal nach den Gehälter und da gibt es doch eine EU vorgbe.... Dan könnt Ihr euch schon sicher sein das Ihr den Job nicht bekommt ... Seit froh....\n\nIst eine Glückssache und ich hatte glück sonst wäre sich schon längst weg.",
+      "rating": 1.4,
+      "sections": {
+        "positive": "nichts mehr am besten einfach den Laden zusperren.",
+        "negative": "fast alles oder doch alles.",
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Lob gibt es nur von Kollegen mehr nicht, vorgaben und Zahlen sind Intransparent und die Umsatzzahlen vollständig aus der Luftgegriffen. Wäre das Unternehmen wirklich an der Börse müsste der Vorstand gehen 3 mal in Folge wurden die Ergebnisse nicht erreicht. Was auch nicht geht wenn man der Meinung ist man müsse den Gewinn mal verdoppeln.",
+        "image": "An dem Standort gibt es keines mehr, war mal Klassenprimus ist aber schon 2-3 Jahre her.",
+        "workLife": "Work ja der Rest ist nicht erwünscht. Nun dürfen alle wieder 3-mal pro Woche ins Büro!!! Parkplatz, Sitzplatz alles dein Problem dann sitzt du halt im Büro wo 7-10 Personen sitzen und fünf davon Telefonieren und du selbst sitzt den ganzen Tag mit billigen Kopfhören vor dem PC bis dir die Ohren bluten. Egal weil wenn du das nicht macht's dann macht es morgen die KI für dich ganz einfach.",
+        "career": "Wer die besten Folien erstellt und bei allen Party dabei ist und die besten Witze erzählt hat sehr gute Chancen.",
+        "salary": "Kein Urlaubsgeld, Kein Weihnachtsgeld, Keine Benefits, Die tolle Inzentiv darf man auch zurückzahlen und das ist kein Witz 2025/2026 mussten das sehr viele machen und ich auch.",
+        "environment": "Das gibt es nicht was soll den Sozial sein wen alle Benefits gestrichen werden und seit 3 Jahren keine Lohnerhöhung über 9% war in dem Zeitraum die Inflation aber das interessiert niemanden.",
+        "teamwork": "Wird auch immer schlechter weil alle gefrustet sind.",
+        "oldColleagues": "Dei können froh sein wenn sie noch einen Job haben.",
+        "leadership": "Es gibt Teamleiter die sind ganz OK mit denen kann man auch gut reden aber nur über das fachliche mehr dürfen die ja nicht. Die Personalvorgesetzten, sind ein Witz die haben keine Ahnung von meinem Job und wollen nur nach oben glänzen. Das ist mit den meisten Vorgesetzten leider so na ja wunder auch niemand wenn man sieht das man den Standortleiter auch einfach mal rausgeschmissen hat.",
+        "workConditions": "Also wenn man mal im Büro ist dann könnt ihr schon mal eine halbe stunde basteln bis alles Halbweg läuft und das ist euere Freizeit weil ihr könnt die Zeit nicht einfach so mal buchen. Tastatur und Maus müsst ich euch selber mitnehmen weil das was dort liegt ist mehr als gruselig das möchte mann nicht anfassen. Aber Egal hey alle sollen einfach so reinkommen weil es der Vorstand einfach will und der Sozial Austausch beim Kaffe oder im Bistro ist so wichtig für die Firma. Das ist aber alles keine Arbeitszeit sondern eure Freizeit oder fragt doch mal ob ihr hierzu ein PSP Element zur Buchung bekommt !!!",
+        "communication": "Es interessiert niemanden was im Personalgespräch gesagt wird, nach über 15 Jahre hat niemand aus der Personalabteilung mal nachgefragt was da los ist. Alles nur auf Papier weil es gut aussieht. Verantwortung übernimmt aus dem Management keiner! Es gibt ja auch die Pauschale Regelung in den Betriebsvereinbarungen \"Kann mit dem Personalverantwortlichen geändert bzw. angepasst werden\". Lustig weil der sagt ohh kann ich nicht's machen weil wir haben da einen Kriterienkatalog, ach stimmt den gibt es nicht nicht, ach ja der wird erstellt.",
+        "equality": "Gibt es hier nicht sondern nur auf dem Papier -> Fragt einfach bei der Einstellung mal nach den Gehälter und da gibt es doch eine EU vorgbe.... Dan könnt Ihr euch schon sicher sein das Ihr den Job nicht bekommt ... Seit froh....",
+        "tasks": "Ist eine Glückssache und ich hatte glück sonst wäre sich schon längst weg."
+      },
+      "factor_scores": {
+        "atmosphere": 2.0,
+        "workLife": 1.0,
+        "communication": 1.0,
+        "workConditions": 1.0,
+        "leadership": 1.0,
+        "teamwork": 2.0,
+        "oldColleagues": 1.0,
+        "equality": 1.0,
+        "career": 1.0,
+        "salary": 1.0,
+        "image": 1.0,
+        "environment": 2.0,
+        "tasks": 3.0
+      },
+      "published_at": "2026-11-05T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "ca97192e-c68f-450b-a118-7df065fb79ee",
+      "url": "https://www.kununu.com/de/msg-systems/bewertung/ca97192e-c68f-450b-a118-7df065fb79ee",
+      "title": "msg war ein mal ein wirklicher \"Value\" - leider ein Unternehmen, das bald in Trümmern liegt.",
+      "content": "Mobile Working und spannende neue Kundenprojekte\n\n- Umgang mit dem Mitarbeiter\n- Inkompetente Führung in den höchsten Etagen\n- Total unrealistische Ziele\n\nMehr Fokus wieder auf den Mitarbeiter setzen\n\nAn sich herrscht bis auf die täglichen Themen wie \"Zahlen sind schlecht\" keine schlechte Arbeitsatmosphäre. Da man eigentlich so gut wie nur beim Kunden im Projekt war, kriegt man die firmeninterne Atmosphäre gar nicht so wirklich mit.\n\nValue - Inspired by people war leider ein mal. Es wird am wichtigsten Punkt des Unternehmens gespart: Am Mitarbeiter\n\nWar bei mir kein Problem. Urlaub konnte ich mit Abstimmung des Kundens jedes Mal problemlos einlösen. Überarbeitet habe ich mich nie wirklich gefühlt.\n\nKeine Chance seit 2 Jahren\n\nKann ich nicht viel dazu sagen. In meinen 5 Jahren war ich überwiegend bei Kundenprojekten im Einsatz.\n\nDa im Beraterumfeld nur der reine Gewinn zählt, wurde ich für stärkeren Umsatz Anfang 2025 zum Senior befördert. Eine Gehaltsanpassung gab es leider \"aufgrund der wirtschaftlichen Lage\" nicht. Jedoch wurde mir eine Anpassung für das Folgejahr versprochen (leider nicht schriftlich).\nIm Frühjahr dieses Jahres kam nichts als eine herzlose E-Mail von der Personalleitung, dass es aufgrund des fehlenden wirtschaftlichen Erfolgs wieder keine Gehaltserhöhung gib, was für mich dann der Punkt war, das Unternehmen zu verlassen. Fakturiert wurde ich als Senior für 1.5 Jahre - bezahlt wurde ich jedoch nicht für Seniorlevel.\nGegen meinen direkten Vorgesetzten kann ich schwer etwas sagen. Er hat versucht, bzgl. meiner Beförderung eine Ausnahme zu bekommen. Leider erfolgslos.\nHier kommt es glaube ich stark auf das Team an. Mit meinem Abteilungsleiter hatte ich überhaupt keine Probleme\n\nüber 2 Jahre keine Gehaltserhöhung zu bekommen, trotz guter Leistungen beim Kunden ist sehr frech und auch respektlos dem Mitarbeiter gegenüber während in der obersten Etage, wo seit Jahren nur Fehlentscheidungen getroffen werden die Taschen voll sind.\n\nDurch Kürzungen fehlte auch der Punkt Innovation - wo interessante Aufgaben nicht mehr möglich waren.",
+      "rating": 2.2,
+      "sections": {
+        "positive": "Mobile Working und spannende neue Kundenprojekte",
+        "negative": "- Umgang mit dem Mitarbeiter\n- Inkompetente Führung in den höchsten Etagen\n- Total unrealistische Ziele",
+        "suggestion": "Mehr Fokus wieder auf den Mitarbeiter setzen"
+      },
+      "factor_comments": {
+        "atmosphere": "An sich herrscht bis auf die täglichen Themen wie \"Zahlen sind schlecht\" keine schlechte Arbeitsatmosphäre. Da man eigentlich so gut wie nur beim Kunden im Projekt war, kriegt man die firmeninterne Atmosphäre gar nicht so wirklich mit.",
+        "image": "Value - Inspired by people war leider ein mal. Es wird am wichtigsten Punkt des Unternehmens gespart: Am Mitarbeiter",
+        "workLife": "War bei mir kein Problem. Urlaub konnte ich mit Abstimmung des Kundens jedes Mal problemlos einlösen. Überarbeitet habe ich mich nie wirklich gefühlt.",
+        "career": "Keine Chance seit 2 Jahren",
+        "teamwork": "Kann ich nicht viel dazu sagen. In meinen 5 Jahren war ich überwiegend bei Kundenprojekten im Einsatz.",
+        "leadership": "Da im Beraterumfeld nur der reine Gewinn zählt, wurde ich für stärkeren Umsatz Anfang 2025 zum Senior befördert. Eine Gehaltsanpassung gab es leider \"aufgrund der wirtschaftlichen Lage\" nicht. Jedoch wurde mir eine Anpassung für das Folgejahr versprochen (leider nicht schriftlich).\nIm Frühjahr dieses Jahres kam nichts als eine herzlose E-Mail von der Personalleitung, dass es aufgrund des fehlenden wirtschaftlichen Erfolgs wieder keine Gehaltserhöhung gib, was für mich dann der Punkt war, das Unternehmen zu verlassen. Fakturiert wurde ich als Senior für 1.5 Jahre - bezahlt wurde ich jedoch nicht für Seniorlevel.\nGegen meinen direkten Vorgesetzten kann ich schwer etwas sagen. Er hat versucht, bzgl. meiner Beförderung eine Ausnahme zu bekommen. Leider erfolgslos.\nHier kommt es glaube ich stark auf das Team an. Mit meinem Abteilungsleiter hatte ich überhaupt keine Probleme",
+        "salary": "über 2 Jahre keine Gehaltserhöhung zu bekommen, trotz guter Leistungen beim Kunden ist sehr frech und auch respektlos dem Mitarbeiter gegenüber während in der obersten Etage, wo seit Jahren nur Fehlentscheidungen getroffen werden die Taschen voll sind.",
+        "tasks": "Durch Kürzungen fehlte auch der Punkt Innovation - wo interessante Aufgaben nicht mehr möglich waren."
+      },
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 5.0,
+        "communication": 3.0,
+        "workConditions": null,
+        "leadership": 1.0,
+        "teamwork": 3.0,
+        "oldColleagues": null,
+        "equality": null,
+        "career": 1.0,
+        "salary": 1.0,
+        "image": 1.0,
+        "environment": null,
+        "tasks": 1.0
+      },
+      "published_at": "2026-10-14T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "0038c2ce-16b2-4607-a5bf-c7c2c997de32",
+      "url": "https://www.kununu.com/de/msg-systems/bewertung/0038c2ce-16b2-4607-a5bf-c7c2c997de32",
+      "title": "War schonmal besser. Msg kann mehr.",
+      "content": "Dass zumindest unsere Abteilung noch durchhält und vom Druck von oben bisher nicht zerrieben wird\n\nDass der Fokus auf die reinen Zahlen gelegt wird und diese nicht von selbst besser werden. Die jetzige Führung agiert falsch\n\nRückbesinnung auf „Mensch im Mittelpunkt“ ist dringend angeraten.\n\nWar schonmal besser\n\nDas Image hat definitiv gelitten in den letzten 2-3 Jahren\n\nIst ganz ordentlich\n\nKeine Option\n\nGehalt stagniert, Abbau von Benefits\n\nStimmt soweit\n\nFunktioniert nach wie vor\n\nErfahrung wird geschätzt\n\nMeiner ist Top\n\nHab alles was ich brauche\n\nKryptisch und Intransparent\n\nDa wird drauf geachtet\n\nDie Arbeit ist halbwegs Abwechslungsreich",
+      "rating": 3.6,
+      "sections": {
+        "positive": "Dass zumindest unsere Abteilung noch durchhält und vom Druck von oben bisher nicht zerrieben wird",
+        "negative": "Dass der Fokus auf die reinen Zahlen gelegt wird und diese nicht von selbst besser werden. Die jetzige Führung agiert falsch",
+        "suggestion": "Rückbesinnung auf „Mensch im Mittelpunkt“ ist dringend angeraten."
+      },
+      "factor_comments": {
+        "atmosphere": "War schonmal besser",
+        "image": "Das Image hat definitiv gelitten in den letzten 2-3 Jahren",
+        "workLife": "Ist ganz ordentlich",
+        "career": "Keine Option",
+        "salary": "Gehalt stagniert, Abbau von Benefits",
+        "environment": "Stimmt soweit",
+        "teamwork": "Funktioniert nach wie vor",
+        "oldColleagues": "Erfahrung wird geschätzt",
+        "leadership": "Meiner ist Top",
+        "workConditions": "Hab alles was ich brauche",
+        "communication": "Kryptisch und Intransparent",
+        "equality": "Da wird drauf geachtet",
+        "tasks": "Die Arbeit ist halbwegs Abwechslungsreich"
+      },
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 4.0,
+        "communication": 3.0,
+        "workConditions": 5.0,
+        "leadership": 4.0,
+        "teamwork": 4.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 1.0,
+        "salary": 2.0,
+        "image": 3.0,
+        "environment": 5.0,
+        "tasks": 3.0
+      },
+      "published_at": "2026-10-13T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "929f6227-f49d-4f41-85fe-38fbf021f1c5",
+      "url": "https://www.kununu.com/de/msg-systems/bewertung/929f6227-f49d-4f41-85fe-38fbf021f1c5",
+      "title": "MSG Systems Global Finance Zusammenarbeit kann ich nicht empfehlen !! Vorsicht !",
+      "content": "Titel: Enttäuschende Erfahrung als externer SAP-Berater\nMein freiberuflicher Einsatz wurde nach rund acht Wochen beendet. Ein Grund hierfür wurde mir nicht mitgeteilt.\nBei meiner letzten Abrechnung wurden durch msg 40 % der abgerechneten Stunden nicht anerkannt. Eine konkrete Erklärung, welche Stunden aus welchem Grund gestrichen wurden, erhielt ich nicht. Aus meiner Sicht betraf dies tatsächlich erbrachte Leistungen.\nDiese Erfahrung hat mein Vertrauen in die Zusammenarbeit erheblich beeinträchtigt. Unter diesen Bedingungen würde ich einen weiteren Einsatz nicht annehmen.\nMein Verbesserungsvorschlag: Stunden zeitnah prüfen und freigeben sowie Beanstandungen konkret und nachvollziehbar erläutern.",
+      "rating": 1.0,
+      "sections": {
+        "positive": null,
+        "negative": "Titel: Enttäuschende Erfahrung als externer SAP-Berater\nMein freiberuflicher Einsatz wurde nach rund acht Wochen beendet. Ein Grund hierfür wurde mir nicht mitgeteilt.\nBei meiner letzten Abrechnung wurden durch msg 40 % der abgerechneten Stunden nicht anerkannt. Eine konkrete Erklärung, welche Stunden aus welchem Grund gestrichen wurden, erhielt ich nicht. Aus meiner Sicht betraf dies tatsächlich erbrachte Leistungen.\nDiese Erfahrung hat mein Vertrauen in die Zusammenarbeit erheblich beeinträchtigt. Unter diesen Bedingungen würde ich einen weiteren Einsatz nicht annehmen.\nMein Verbesserungsvorschlag: Stunden zeitnah prüfen und freigeben sowie Beanstandungen konkret und nachvollziehbar erläutern.",
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 1.0,
+        "workLife": null,
+        "communication": 1.0,
+        "workConditions": 1.0,
+        "leadership": 1.0,
+        "teamwork": 1.0,
+        "oldColleagues": null,
+        "equality": 1.0,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": 1.0
+      },
+      "published_at": "2026-10-11T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "3edf8355-a362-4a2d-aef9-6d3e07f800f2",
+      "url": "https://www.kununu.com/de/msg-systems/bewertung/3edf8355-a362-4a2d-aef9-6d3e07f800f2",
+      "title": "So lange dabei - und damit nicht gerechnet",
+      "content": "Mitarbeitende werden reduziert auf reine Auslastungszahlen. Der so wichtige Mikrokosmos „ Mensch“ im Beratungsgeschäft zählt nicht mehr. „Value - Inspired by People“ galt einmal, heute zählen nur noch schön geredete Extrameilen, die man mittlerweile seit fünf Jahren einseitig mitgehen muss.\n\nAuch die Kunden spüren mittlerweile diesen Kulturwandel.\n\nAuch das zählt nicht mehr - Back to Office, auch wenn das realitätsfremd ist\n\nNo chance - aus Kosten- und Einsparungsgründen nicht mehr möglich\n\nSeit fünf Jahren kompensiert man unerreichbare Ziele EBIT über somit nicht verpflichtend auszahlbare variable Gehaltsanteile. Gehaltserhöhungen gab es nicht.\n\nEs gibt gute Ansätze, diese verschwinden jedoch hinter anderen nicht erreichbaren Zielen\n\nGott sei Dank gibt es „Häfen“ und es lohnt sich, diese zu pflegen\n\nEntlassungen von offensichtlich nur älteren Mitarbeitenden, nicht passende Skills, weil es früher leider nur einen Studiengang Elektrotechnik und eben nicht Informatik gab. „Alte“ sind teuer und werden nicht wertgeschätzt.\n\nHilflosigkeit und Gießkannenprinzip - das „ Ich“ ist bei der Aussage „wir haben für dich entschieden“ nicht mehr relevant.\n\nBack to Office - kaum ein Standort wird dem gerecht\n\nHerrschende und das, was darunter liegt - Kommunikationskompetenz geht anders\n\nDie Transparenz in der msg hat leider noch Luft nach oben. Das Management wirkt nach wie vor wie eine Altherrenrunde.\n\nGibt es, doch die Luft wird dünner, da sich der Markt weiterentwickelt, die msg jedoch (noch) nicht mithalten kann",
+      "rating": 1.7,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Mitarbeitende werden reduziert auf reine Auslastungszahlen. Der so wichtige Mikrokosmos „ Mensch“ im Beratungsgeschäft zählt nicht mehr. „Value - Inspired by People“ galt einmal, heute zählen nur noch schön geredete Extrameilen, die man mittlerweile seit fünf Jahren einseitig mitgehen muss.",
+        "image": "Auch die Kunden spüren mittlerweile diesen Kulturwandel.",
+        "workLife": "Auch das zählt nicht mehr - Back to Office, auch wenn das realitätsfremd ist",
+        "career": "No chance - aus Kosten- und Einsparungsgründen nicht mehr möglich",
+        "salary": "Seit fünf Jahren kompensiert man unerreichbare Ziele EBIT über somit nicht verpflichtend auszahlbare variable Gehaltsanteile. Gehaltserhöhungen gab es nicht.",
+        "environment": "Es gibt gute Ansätze, diese verschwinden jedoch hinter anderen nicht erreichbaren Zielen",
+        "teamwork": "Gott sei Dank gibt es „Häfen“ und es lohnt sich, diese zu pflegen",
+        "oldColleagues": "Entlassungen von offensichtlich nur älteren Mitarbeitenden, nicht passende Skills, weil es früher leider nur einen Studiengang Elektrotechnik und eben nicht Informatik gab. „Alte“ sind teuer und werden nicht wertgeschätzt.",
+        "leadership": "Hilflosigkeit und Gießkannenprinzip - das „ Ich“ ist bei der Aussage „wir haben für dich entschieden“ nicht mehr relevant.",
+        "workConditions": "Back to Office - kaum ein Standort wird dem gerecht",
+        "communication": "Herrschende und das, was darunter liegt - Kommunikationskompetenz geht anders",
+        "equality": "Die Transparenz in der msg hat leider noch Luft nach oben. Das Management wirkt nach wie vor wie eine Altherrenrunde.",
+        "tasks": "Gibt es, doch die Luft wird dünner, da sich der Markt weiterentwickelt, die msg jedoch (noch) nicht mithalten kann"
+      },
+      "factor_scores": {
+        "atmosphere": 1.0,
+        "workLife": 2.0,
+        "communication": 1.0,
+        "workConditions": 2.0,
+        "leadership": 1.0,
+        "teamwork": 4.0,
+        "oldColleagues": 1.0,
+        "equality": 2.0,
+        "career": 1.0,
+        "salary": 1.0,
+        "image": 1.0,
+        "environment": 3.0,
+        "tasks": 2.0
+      },
+      "published_at": "2026-10-07T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "5dd8814f-04b0-4e30-b6ab-6bf887262add",
+      "url": "https://www.kununu.com/de/msg-systems/bewertung/5dd8814f-04b0-4e30-b6ab-6bf887262add",
+      "title": "Vertraue deinem Vorgesetzten im Vorstellungsgespräch nicht, du wirst nur von seinem leeren Versprechen gefangen.",
+      "content": "Unfaire Behandlung, es ist nur ein politisches Spiel. Ich kann z.B. meinem Vorgesetzten nicht vertrauen, egal wie er gut mich lobt. Was er haben möchte, sind nur mein Fachwissen und harte Arbeit. Es wird nicht entsprechend belohnt.\n\nIhr verliert gute Mitarbeiter, wenn ihr nichts für sie investiert.\n\nSeit der großen Kündigungswelle 2025 ist die Stimmung im Keller. 2026 gibt's keine Gehaltserhöhung.\n\nKonservativ\n\nMan soll jede Woche mindestens einmal ins Büro gehen, obwohl die Kollegen nicht an demselben Standort arbeiten. Ich bin oft allein im Büro.\n\nWas im Vorstellungsgespräch versprochen wurde, wird nicht passieren. z.B. Entwicklungschance, Gehalt, Projekte etc.\n\nDie Aussage zu einer Gehaltsanpassung ist seit fast drei Jahren immer wieder \"wir haben keine Rückmeldung vom Management\", \"Es gibt's dieses Jahr nichts\", so lassen die Vorgesetzten ihre Mitarbeiter unendlich warten. Gleichzeitig können manche Mitarbeiter aus privaten Gründen ins Ausland umziehen d.h. das Budget ist da, es geht der Firma finanziell gut, nur bekommen die Mitarbeiter keine Gehaltserhöhung.\n\nIch habe nichts davon gehört, was die Firma in Deutschland dafür getan hat.\n\nViele ältere Kollegen wurden 2025 gekündigt.\n\nPolitische Marionette\n\nEs wird nicht transparent kommuniziert. Der Kommunikationsweg ist sehr lang bis zur gar keinen Rückmeldung z.B. zu Entwicklungsmöglichkeiten und Projekten. Wenn du merkst, dass dein Vorgesetzter dich warten lässt, bedeutet es NEIN. Verschwende deine Zeit und Energie nicht.\n\nMehr Aufgaben übernehmen bedeutet nichts für das Mitarbeitergespräch. Mein Vorgesetzter entscheidet sich subjektiv, wie viele Aufgaben die Mitarbeiter auf dem gleichen Level haben sollen. Es gibt keinen Standard.\n\nMan muss das Glück haben.",
+      "rating": 2.3,
+      "sections": {
+        "positive": null,
+        "negative": "Unfaire Behandlung, es ist nur ein politisches Spiel. Ich kann z.B. meinem Vorgesetzten nicht vertrauen, egal wie er gut mich lobt. Was er haben möchte, sind nur mein Fachwissen und harte Arbeit. Es wird nicht entsprechend belohnt.",
+        "suggestion": "Ihr verliert gute Mitarbeiter, wenn ihr nichts für sie investiert."
+      },
+      "factor_comments": {
+        "atmosphere": "Seit der großen Kündigungswelle 2025 ist die Stimmung im Keller. 2026 gibt's keine Gehaltserhöhung.",
+        "image": "Konservativ",
+        "workLife": "Man soll jede Woche mindestens einmal ins Büro gehen, obwohl die Kollegen nicht an demselben Standort arbeiten. Ich bin oft allein im Büro.",
+        "career": "Was im Vorstellungsgespräch versprochen wurde, wird nicht passieren. z.B. Entwicklungschance, Gehalt, Projekte etc.",
+        "salary": "Die Aussage zu einer Gehaltsanpassung ist seit fast drei Jahren immer wieder \"wir haben keine Rückmeldung vom Management\", \"Es gibt's dieses Jahr nichts\", so lassen die Vorgesetzten ihre Mitarbeiter unendlich warten. Gleichzeitig können manche Mitarbeiter aus privaten Gründen ins Ausland umziehen d.h. das Budget ist da, es geht der Firma finanziell gut, nur bekommen die Mitarbeiter keine Gehaltserhöhung.",
+        "environment": "Ich habe nichts davon gehört, was die Firma in Deutschland dafür getan hat.",
+        "oldColleagues": "Viele ältere Kollegen wurden 2025 gekündigt.",
+        "leadership": "Politische Marionette",
+        "communication": "Es wird nicht transparent kommuniziert. Der Kommunikationsweg ist sehr lang bis zur gar keinen Rückmeldung z.B. zu Entwicklungsmöglichkeiten und Projekten. Wenn du merkst, dass dein Vorgesetzter dich warten lässt, bedeutet es NEIN. Verschwende deine Zeit und Energie nicht.",
+        "equality": "Mehr Aufgaben übernehmen bedeutet nichts für das Mitarbeitergespräch. Mein Vorgesetzter entscheidet sich subjektiv, wie viele Aufgaben die Mitarbeiter auf dem gleichen Level haben sollen. Es gibt keinen Standard.",
+        "tasks": "Man muss das Glück haben."
+      },
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 4.0,
+        "communication": 1.0,
+        "workConditions": 3.0,
+        "leadership": 3.0,
+        "teamwork": 3.0,
+        "oldColleagues": 3.0,
+        "equality": 1.0,
+        "career": 2.0,
+        "salary": 1.0,
+        "image": 2.0,
+        "environment": 1.0,
+        "tasks": 3.0
+      },
+      "published_at": "2026-09-28T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "c33eb374-1b24-437c-9299-7430609f9dd8",
+      "url": "https://www.kununu.com/de/msg-systems/bewertung/c33eb374-1b24-437c-9299-7430609f9dd8",
+      "title": "sinkendes Schiff",
+      "content": "Remote-Work, noch, wird aber bald gestrichen\n\nKommunikation findet nicht statt, keine Benefits, Mitarbeiter werden sehr schlecht und wie Austauschware behandelt.",
+      "rating": 2.2,
+      "sections": {
+        "positive": "Remote-Work, noch, wird aber bald gestrichen",
+        "negative": "Kommunikation findet nicht statt, keine Benefits, Mitarbeiter werden sehr schlecht und wie Austauschware behandelt.",
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 2.0,
+        "workLife": 3.0,
+        "communication": 1.0,
+        "workConditions": 2.0,
+        "leadership": 2.0,
+        "teamwork": 3.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 1.0,
+        "salary": 1.0,
+        "image": 1.0,
+        "environment": 1.0,
+        "tasks": 2.0
+      },
+      "published_at": "2026-09-24T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "1a024749-c62d-4de9-9ef4-dcfb0de9dec2",
+      "url": "https://www.kununu.com/de/msg-systems/bewertung/1a024749-c62d-4de9-9ef4-dcfb0de9dec2",
+      "title": "Niedriger Gehalt aber wunderbare Mitarbeiter",
+      "content": "Der Zusammenhalt und Kommunikation zwischen Kollegen\n\nGehalt, nicht moderne Produkte\n\nSehr nette Kollegen\n\nLeider sehr geringe Gehaltserhöhungen, trotz steigende Preise in anderen Bereichen, wie Lebensmittel und Energiekosten.\n\nMan kämpft un einen Arbeitsplatz in den neuen Räumlichkeiten.\n\nHier wird zu 100% gleichberechtigt. Die Teams und sogar der Betriebsrat sind sehr divers.",
+      "rating": 3.2,
+      "sections": {
+        "positive": "Der Zusammenhalt und Kommunikation zwischen Kollegen",
+        "negative": "Gehalt, nicht moderne Produkte",
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Sehr nette Kollegen",
+        "salary": "Leider sehr geringe Gehaltserhöhungen, trotz steigende Preise in anderen Bereichen, wie Lebensmittel und Energiekosten.",
+        "workConditions": "Man kämpft un einen Arbeitsplatz in den neuen Räumlichkeiten.",
+        "equality": "Hier wird zu 100% gleichberechtigt. Die Teams und sogar der Betriebsrat sind sehr divers."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 2.0,
+        "communication": 4.0,
+        "workConditions": 2.0,
+        "leadership": 3.0,
+        "teamwork": 5.0,
+        "oldColleagues": 4.0,
+        "equality": 5.0,
+        "career": 2.0,
+        "salary": 2.0,
+        "image": 2.0,
+        "environment": 2.0,
+        "tasks": 3.0
+      },
+      "published_at": "2026-09-23T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "cd60db04-0314-4e91-8868-744fdce41429",
+      "url": "https://www.kununu.com/de/msg-systems/bewertung/cd60db04-0314-4e91-8868-744fdce41429",
+      "title": "Es müssen Veränderungen her, sonst gehen die Leistungsträger",
+      "content": "Derzeit mies. Von oben kommt nur Druck ohne klare oder realistische Ziele.\n\nKommt auf die Projekte an. Aber neuerdings erwartet der Vorstand höchst möglichen persönlichen Einsatz. Das Management gibt dies nach unten entsprechend weiter.\n\nNichts bemerkt. Es gibt die Möglichkeit, den Müll zu trennen.\n\nWenn die Projekte es erfordern, ansonsten wird stark auf die Kosten geschaut. Von der Führungskraft abhängig.\n\nMeist im näheren Umfeld vorhanden.\n\nWenn man Pech hat, hilft auch das beste Leadership Training nicht.\n\nTisch, Stuhl, Laptop. Standorte sind unterschiedlich gut ausgestattet. Es wird darauf gedrängt, wieder ins Office zu kommen. An vielen Standorten wäre das gar nicht umsetzbar.\n\nVon oben nach unten, ohne Rückkopplung.\n\nKeine Gehalt war schon beim Einstieg mäßig im.unteren Bereich des Spektrums. Und Gehaltsentwicklung bleibt aus.\n\nKein Verständnis dafür, was Chancengleichheit, Empowerment oder Diversity Management tatsächlich bedeuten bzw. kein ehrliches Interesse an diesen Themen.\n\nHängt vom Projekt ab.",
+      "rating": 2.3,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Derzeit mies. Von oben kommt nur Druck ohne klare oder realistische Ziele.",
+        "workLife": "Kommt auf die Projekte an. Aber neuerdings erwartet der Vorstand höchst möglichen persönlichen Einsatz. Das Management gibt dies nach unten entsprechend weiter.",
+        "environment": "Nichts bemerkt. Es gibt die Möglichkeit, den Müll zu trennen.",
+        "career": "Wenn die Projekte es erfordern, ansonsten wird stark auf die Kosten geschaut. Von der Führungskraft abhängig.",
+        "teamwork": "Meist im näheren Umfeld vorhanden.",
+        "leadership": "Wenn man Pech hat, hilft auch das beste Leadership Training nicht.",
+        "workConditions": "Tisch, Stuhl, Laptop. Standorte sind unterschiedlich gut ausgestattet. Es wird darauf gedrängt, wieder ins Office zu kommen. An vielen Standorten wäre das gar nicht umsetzbar.",
+        "communication": "Von oben nach unten, ohne Rückkopplung.",
+        "salary": "Keine Gehalt war schon beim Einstieg mäßig im.unteren Bereich des Spektrums. Und Gehaltsentwicklung bleibt aus.",
+        "equality": "Kein Verständnis dafür, was Chancengleichheit, Empowerment oder Diversity Management tatsächlich bedeuten bzw. kein ehrliches Interesse an diesen Themen.",
+        "tasks": "Hängt vom Projekt ab."
+      },
+      "factor_scores": {
+        "atmosphere": 2.0,
+        "workLife": 3.0,
+        "communication": 2.0,
+        "workConditions": 3.0,
+        "leadership": 1.0,
+        "teamwork": 3.0,
+        "oldColleagues": null,
+        "equality": 3.0,
+        "career": 2.0,
+        "salary": 2.0,
+        "image": null,
+        "environment": 2.0,
+        "tasks": 2.0
+      },
+      "published_at": "2026-09-04T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "518e8858-c162-42c4-8de7-24b542792e6c",
+      "url": "https://www.kununu.com/de/msg-systems/bewertung/518e8858-c162-42c4-8de7-24b542792e6c",
+      "title": "Mit 60+ in die Katastrophe geschlittert.",
+      "content": "Die Kommunikation innerhalb der Teams.\n\nMatrixorganisation des Vertriebs.\nVertikale Branchenbereiche / Units.\nZu wenig gegenseitige Unterstützung der Bereiche.\n\nDas Vertriebswesen und die Aquise von Neuprojekten muss dringend verbessert werden.\n\nMan saß die meiste Zeit im Homeoffice und traf seine Kollegen nur selten persönlich. Stark virtualisierte Kultur.\n\nOk\n\nDas man bei der Projektflaute auf die Zertifizierung geschickt wurde und diese als einer der Ersten bestanden hatte, hat einem auch nicht den Hintern gerettet.\n\nDie meisten Kollegen waren in Ordnung. Es gab aber auch Ausnahmen. wo das Management viel stärker hätte eingreifen müssen. Gesiegt hatten in dem Zusammenhang aber die Auslastungszahlen der jeweiligen Personen. Wer 100% Auslastung hat, kann sich auch mehr erlauben.\n\nDie Kündigungswelle traf fast nur die Älteren…\n\nMein direkter Vorgesetzter blieb trotz meiner betriebsbedingten Kündigung bis zum Schluss fair. Bei anderen Managern jedoch war noch viel Luft nach oben.\n\nDie Kommunikation, vor allem im Kontext der Kündigungen und „Fit for Future“ war stark verbesserungsbedürftig.\n\nAls ich im Oktober 2023 kam, war die Auslastung noch einigermaßen, fiel aber im gesamten Team auf unter 40% zurück.\nLetztlich hatte ich nur ein auslaufendes Applications Support Projekt bei einer Behörde, wo der Kuchen schon längst verteilt war und man nur noch verlieren konnte.",
+      "rating": 2.7,
+      "sections": {
+        "positive": "Die Kommunikation innerhalb der Teams.",
+        "negative": "Matrixorganisation des Vertriebs.\nVertikale Branchenbereiche / Units.\nZu wenig gegenseitige Unterstützung der Bereiche.",
+        "suggestion": "Das Vertriebswesen und die Aquise von Neuprojekten muss dringend verbessert werden."
+      },
+      "factor_comments": {
+        "atmosphere": "Man saß die meiste Zeit im Homeoffice und traf seine Kollegen nur selten persönlich. Stark virtualisierte Kultur.",
+        "workLife": "Ok",
+        "career": "Das man bei der Projektflaute auf die Zertifizierung geschickt wurde und diese als einer der Ersten bestanden hatte, hat einem auch nicht den Hintern gerettet.",
+        "teamwork": "Die meisten Kollegen waren in Ordnung. Es gab aber auch Ausnahmen. wo das Management viel stärker hätte eingreifen müssen. Gesiegt hatten in dem Zusammenhang aber die Auslastungszahlen der jeweiligen Personen. Wer 100% Auslastung hat, kann sich auch mehr erlauben.",
+        "oldColleagues": "Die Kündigungswelle traf fast nur die Älteren…",
+        "leadership": "Mein direkter Vorgesetzter blieb trotz meiner betriebsbedingten Kündigung bis zum Schluss fair. Bei anderen Managern jedoch war noch viel Luft nach oben.",
+        "communication": "Die Kommunikation, vor allem im Kontext der Kündigungen und „Fit for Future“ war stark verbesserungsbedürftig.",
+        "tasks": "Als ich im Oktober 2023 kam, war die Auslastung noch einigermaßen, fiel aber im gesamten Team auf unter 40% zurück.\nLetztlich hatte ich nur ein auslaufendes Applications Support Projekt bei einer Behörde, wo der Kuchen schon längst verteilt war und man nur noch verlieren konnte."
+      },
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": 2.0,
+        "workConditions": 3.0,
+        "leadership": 3.0,
+        "teamwork": 4.0,
+        "oldColleagues": 1.0,
+        "equality": 3.0,
+        "career": null,
+        "salary": 4.0,
+        "image": 3.0,
+        "environment": 2.0,
+        "tasks": 1.0
+      },
+      "published_at": "2026-08-14T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "cb52a9e8-3627-4f6b-9d85-bde62ce25c6e",
+      "url": "https://www.kununu.com/de/msg-systems/bewertung/cb52a9e8-3627-4f6b-9d85-bde62ce25c6e",
+      "title": "Tolle Kollegen",
+      "content": "sehr sehr nette MItarbeiter, tolle Unternehmenskultur\n\nUrbansports, Wellpass\n\nes gibt keine sportangebote wie urban sports oder wellpass\n\nkeine maßnahmen aufgefallen\n\nich bin werkstudent da hat man häufig nur sehr leichte aufgaben",
+      "rating": 4.2,
+      "sections": {
+        "positive": "sehr sehr nette MItarbeiter, tolle Unternehmenskultur",
+        "negative": null,
+        "suggestion": "Urbansports, Wellpass"
+      },
+      "factor_comments": {
+        "salary": "es gibt keine sportangebote wie urban sports oder wellpass",
+        "environment": "keine maßnahmen aufgefallen",
+        "tasks": "ich bin werkstudent da hat man häufig nur sehr leichte aufgaben"
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 3.0,
+        "career": 4.0,
+        "salary": 3.0,
+        "image": 3.0,
+        "environment": 3.0,
+        "tasks": 3.0
+      },
+      "published_at": "2026-08-10T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "7dd058ce-6ff2-4dcb-90bd-bcff6d9553d7",
+      "url": "https://www.kununu.com/de/msg-systems/bewertung/7dd058ce-6ff2-4dcb-90bd-bcff6d9553d7",
+      "title": "Eine Tolle Firma, die sich aber noch entwickeln kann",
+      "content": "Kollegialer Umgang\n\nDie Firma ist trotz ihrer Größe eher unbekannt und eine graue Maus\n\nKommt immer stark auf das Umfeld an\n\nIst in vielen Bereichen mittlerweile gut aufgestellt\n\nAngemessenes Gehalt\n\nEs wird Wert auf die Umwelt gelegt - soziales Engagement findet eher weniger statt\n\nSehr gute Kultur, auch im Bezug auf die Einbindung neuer Kollegen\n\nWerden fair behandelt\n\nSchwankt stark - es gibt nicht wirklich eine ausgeprägte Führungskultur, die gepflegt und „überprüft“ wird\n\nToll ausgestattete Geschäftsstellen\n\nMan könnte gezielter kommunizieren.\n\nKeine Abstriche\n\nSehr interessante Aufgaben, vor allem im Financial Services Umfeld",
+      "rating": 3.9,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Kollegialer Umgang",
+        "image": "Die Firma ist trotz ihrer Größe eher unbekannt und eine graue Maus",
+        "workLife": "Kommt immer stark auf das Umfeld an",
+        "career": "Ist in vielen Bereichen mittlerweile gut aufgestellt",
+        "salary": "Angemessenes Gehalt",
+        "environment": "Es wird Wert auf die Umwelt gelegt - soziales Engagement findet eher weniger statt",
+        "teamwork": "Sehr gute Kultur, auch im Bezug auf die Einbindung neuer Kollegen",
+        "oldColleagues": "Werden fair behandelt",
+        "leadership": "Schwankt stark - es gibt nicht wirklich eine ausgeprägte Führungskultur, die gepflegt und „überprüft“ wird",
+        "workConditions": "Toll ausgestattete Geschäftsstellen",
+        "communication": "Man könnte gezielter kommunizieren.",
+        "equality": "Keine Abstriche",
+        "tasks": "Sehr interessante Aufgaben, vor allem im Financial Services Umfeld"
+      },
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-07-26T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "091b7a0a-419f-4dc2-9deb-972a8aa2203d",
+      "url": "https://www.kununu.com/de/msg-systems/bewertung/091b7a0a-419f-4dc2-9deb-972a8aa2203d",
+      "title": "good",
+      "content": "good\n\nkeine\n\nkeine\n\ngood\n\nvery good\n\ngood\n\nvery good\n\ngood\n\ngood\n\ngood\n\nvery good\n\nvery good\n\ngood\n\ngood\n\ngood\n\ngood",
+      "rating": 4.3,
+      "sections": {
+        "positive": "good",
+        "negative": "keine",
+        "suggestion": "keine"
+      },
+      "factor_comments": {
+        "atmosphere": "good",
+        "image": "very good",
+        "workLife": "good",
+        "career": "very good",
+        "salary": "good",
+        "environment": "good",
+        "teamwork": "good",
+        "oldColleagues": "very good",
+        "leadership": "very good",
+        "workConditions": "good",
+        "communication": "good",
+        "equality": "good",
+        "tasks": "good"
+      },
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-07-17T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "4086c30a-2465-4244-babe-4e83cf1e193a",
+      "url": "https://www.kununu.com/de/msg-systems/bewertung/4086c30a-2465-4244-babe-4e83cf1e193a",
+      "title": "Insgesamt leider schlechter als noch vor 3 Jahren",
+      "content": "Die Atmosphäre ist sehr angespannt. Vor allem in Hinblick auf die letzten zwei Kündigungswellen.\n\nInsgesamt gut. Wie in jedem Job gibt es stressige und weniger stressige Zeiten.\n\nDas Gehalt ist seit drei Jahren nicht erhöht worden. Außer cooperate benefits gibt es keine.\n\nIch weiß nicht was die Firma für die Umwelt tut.\n\nMein Vorgesetzter ist super. Ich weiß von Kollegen, dass das nicht für alle gilt. Teilweise fliehen die mitarbeitenden zu anderen Führungskräften.\n\nDie Kommunikation läuft sehr schleppend, solang man keine Führungskraft ist.\n\nBezogen auf die Frauenquote in der Führungsebene und auf die Zusammenarbeit eher schlecht.",
+      "rating": 2.3,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Die Atmosphäre ist sehr angespannt. Vor allem in Hinblick auf die letzten zwei Kündigungswellen.",
+        "workLife": "Insgesamt gut. Wie in jedem Job gibt es stressige und weniger stressige Zeiten.",
+        "salary": "Das Gehalt ist seit drei Jahren nicht erhöht worden. Außer cooperate benefits gibt es keine.",
+        "environment": "Ich weiß nicht was die Firma für die Umwelt tut.",
+        "leadership": "Mein Vorgesetzter ist super. Ich weiß von Kollegen, dass das nicht für alle gilt. Teilweise fliehen die mitarbeitenden zu anderen Führungskräften.",
+        "communication": "Die Kommunikation läuft sehr schleppend, solang man keine Führungskraft ist.",
+        "equality": "Bezogen auf die Frauenquote in der Führungsebene und auf die Zusammenarbeit eher schlecht."
+      },
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": 4.0,
+        "communication": 1.0,
+        "workConditions": 4.0,
+        "leadership": 4.0,
+        "teamwork": 4.0,
+        "oldColleagues": 3.0,
+        "equality": 1.0,
+        "career": 1.0,
+        "salary": 1.0,
+        "image": 2.0,
+        "environment": 2.0,
+        "tasks": 1.0
+      },
+      "published_at": "2026-07-16T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    }
+  ],
+  "review_limit": 15,
+  "review_period": {
+    "since": "2024-11-25T00:00:00+00:00",
+    "until": "2026-11-25T17:15:58.307966+00:00",
+    "date_field": "published_at",
+    "missing_dates": "excluded"
+  },
+  "factor_scores_aggregated": {
+    "atmosphere": {
+      "mean": 2.64,
+      "count": 11
+    },
+    "workLife": {
+      "mean": 3.09,
+      "count": 11
+    },
+    "communication": {
+      "mean": 2.0,
+      "count": 13
+    },
+    "workConditions": {
+      "mean": 2.67,
+      "count": 12
+    },
+    "leadership": {
+      "mean": 2.31,
+      "count": 13
+    },
+    "teamwork": {
+      "mean": 3.23,
+      "count": 13
+    },
+    "oldColleagues": {
+      "mean": 2.9,
+      "count": 10
+    },
+    "equality": {
+      "mean": 2.58,
+      "count": 12
+    },
+    "career": {
+      "mean": 1.55,
+      "count": 11
+    },
+    "salary": {
+      "mean": 1.67,
+      "count": 12
+    },
+    "image": {
+      "mean": 1.82,
+      "count": 11
+    },
+    "environment": {
+      "mean": 2.18,
+      "count": 11
+    },
+    "tasks": {
+      "mean": 2.0,
+      "count": 13
+    }
+  },
+  "coverage": "bounded_employee_review_sample_last_2_years_not_all_reviews",
+  "diagnostics": {
+    "pages": [
+      {
+        "page": "reviews",
+        "page_number": 1,
+        "load_more_clicks": 0,
+        "requested_url": "https://www.kununu.com/de/msg-systems/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\MSG-Systems-5bc73aa0\\browser\\reviews.html",
+        "browser_step": 75,
+        "final_url": "https://www.kununu.com/de/msg-systems/kommentare",
+        "observed_at": "2026-11-25T17:15:59.586328+00:00",
+        "http_status": 200,
+        "factor_cards_expanded": 2,
+        "reviews_collected": 10
+      },
+      {
+        "page": "reviews",
+        "page_number": 2,
+        "load_more_clicks": 1,
+        "requested_url": "https://www.kununu.com/de/msg-systems/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\MSG-Systems-5bc73aa0\\browser\\reviews-2.html",
+        "browser_step": 76,
+        "final_url": "https://www.kununu.com/de/msg-systems/kommentare",
+        "observed_at": "2026-11-25T17:16:01.031911+00:00",
+        "actions_complete": true,
+        "factor_cards_expanded": 3,
+        "reviews_collected": 15
+      }
+    ]
+  },
+  "source_url": "https://www.kununu.com/de/msg-systems",
+  "profile_source": "https://www.kununu.com/de/msg-systems/kommentare",
+  "review_stop_reason": "sample_limit_reached",
+  "factor_score_coverage": {
+    "reviews_with_scores": 13,
+    "reviews_without_scores": 2,
+    "reviews_with_all_known_scores": 8,
+    "status": "partial"
+  },
+  "request_limits": {
+    "max_browser_steps": 295,
+    "browser_steps": 76,
+    "zyte_requests": 0
+  },
+  "reason": null
+}

@@ -1,0 +1,13 @@
+Produktmanager / Product Owner Energiemanagement (m/w/d), München oder Seeheim bei Darmstadt, Vollzeit
+
+Unsere Energiemanagement-Software macht Energieströme transparent. Sie misst und analysiert energierelevante Daten und hilft Unternehmen, Energiefresser aufzuspüren, energiebezogene Leistungskennzahlen (EnPI) zu ermitteln und unplausible Verbräuche abzustellen. Zusammen mit Optimo für das Lastmanagement und Berg.Charge für das Lademanagement von E-Autos bieten wir alles aus einer Hand. Der nächste Schritt: von der Analyse zur Prognose, von der Prognose zur automatischen Steuerung. Mit KI.
+
+Was du bewegst: Du verantwortest Produktvision, Roadmap und Releaseplanung. Du machst aus Trends wie dynamischen Tarifen, neuen Netzentgelten, Flexibilitätsmärkten und KI Funktionen, die Kunden wirklich nutzen. Du findest KI-Anwendungsfälle wie Lastprognosen, Anomalieerkennung und automatische Empfehlungen. Du holst dir Feedback mit dem Vertrieb, bei Kundenterminen und auf Anwendertagen. Du schreibst mit der Softwareentwicklung Epics und User Stories, setzt Prioritäten und nimmst Ergebnisse ab. Du berücksichtigst Normen und Regulierung wie ISO 50001, ISO 27001, NIS2 und den Cyber Resilience Act.
+
+Was du mitbringst: Erfahrung als Produktmanager:in oder Product Owner, idealerweise mit Software für Energiemanagement, Gebäudeleittechnik oder Facility Management. Erfahrung mit Entwicklungsteams und agilem Arbeiten. Kenntnisse in Energie-, Mess- und Datentechnik oder die Bereitschaft, tief einzusteigen. Neugier auf KI, Daten und IoT. Entscheidungsstärke und Freude am Austausch mit Entwickler:innen und Kund:innen. Ein Studium wie Elektrotechnik, Informatik, Energietechnik oder Wirtschaftsingenieurwesen oder ein vergleichbarer Werdegang. Sehr gutes Deutsch und gutes Englisch.
+
+Was dich erwartet: etablierte Energie- und Lastmanagementlösungen mit viel Potenzial, ein erfahrenes agiles Entwicklungsteam, kurze Wege zu Vertrieb, Kunden und Geschäftsführung, attraktives Gehalt plus erfolgsabhängige Komponenten, flexible Arbeitszeiten und mobiles Arbeiten sowie Budget für Weiterbildung, Konferenzen und Zertifizierungen.
+
+Schick uns deinen Lebenslauf und ein paar Sätze dazu, was dich an Energiemanagement und Produktentwicklung reizt. Ein Anschreiben brauchen wir nicht. 
+Fragen beantwortet dir 
+Dr.-Ing. Peter Günther, Geschäftsführer / CTO, unter +49 89 379 160 0 oder info@berg-energie.de.

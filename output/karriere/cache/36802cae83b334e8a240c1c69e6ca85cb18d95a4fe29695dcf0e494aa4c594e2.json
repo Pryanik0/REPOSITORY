@@ -1,0 +1,9 @@
+{
+  "url": "https://www.mih-holding.com/robots.txt",
+  "final_url": "https://www.mih-holding.com/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "fetched_at": "2026-11-25T16:10:58.525107+00:00",
+  "text": "# START YOAST BLOCK\n# ---------------------------\nUser-agent: *\nDisallow: /wp-json/\nDisallow: /?rest_route=\n\nSitemap: https://www.mih-holding.com/sitemap_index.xml\n# ---------------------------\n# END YOAST BLOCK"
+}

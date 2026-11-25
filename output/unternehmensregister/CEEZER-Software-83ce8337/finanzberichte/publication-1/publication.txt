@@ -1,0 +1,151 @@
+CEEZER Software GmbH — Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024
+CEEZER Software GmbH
+
+Berlin
+
+Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024
+
+Bilanz
+
+Aktiva
+
+scroll
+
+	31.12.2024 EUR	31.12.2023 EUR
+A. Anlagevermögen	108.931,50	107.289,00
+I. Immaterielle Vermögensgegenstände	51.653,00	76.744,00
+II. Sachanlagen	4.329,00	5.545,00
+III. Finanzanlagen	52.949,50	25.000,00
+B. Umlaufvermögen	11.683.123,64	2.250.726,27
+I. Vorräte	0,00	6.532,92
+II. Forderungen und sonstige Vermögensgegenstände	3.845.613,93	977.449,97
+davon gegen Gesellschafter	0,00	783,97
+III. Kassenbestand, Bundesbankguthaben, Guthaben bei Kreditinstituten und Schecks	7.837.509,71	1.266.743,38
+C. Rechnungsabgrenzungsposten	0,00	9.551,39
+Aktiva	11.792.055,14	2.367.566,66
+Passiva		
+	31.12.2024 EUR	31.12.2023 EUR
+A. Eigenkapital	11.478.828,71	1.527.259,18
+I. Gezeichnetes Kapital	57.407,00	33.333,00
+II. Kapitalrücklage	18.641.996,93	5.192.667,00
+III. Verlustvortrag	3.698.740,82	1.375.481,35
+IV. Jahresfehlbetrag	3.521.834,40	2.323.259,47
+B. zur Durchführung der beschlossenen Kapitalerhöhung geleistete Einlagen	0,00	21.251,00
+C. Rückstellungen	78.182,26	53.485,76
+D. Verbindlichkeiten	235.044,17	765.570,72
+davon mit einer Restlaufzeit bis zu einem Jahr	235.044,17	765.570,72
+Summe Passiva	11.792.055,14	2.367.566,66
+
+Anhang
+
+Allgemeine Angaben
+
+Der Jahresabschluss der CEEZER Software GmbH mit Sitz in Berlin (Handelsregister: Berlin (Charlottenburg), HR-234827) wurde auf der Grundlage der Gliederungs-, Bilanzierungs- und Bewertungsvorschriften des Handelsgesetzbuches aufgestellt. Ergänzend zu diesen Vorschriften wurden die Regelungen des GmbH Gesetzes beachtet.
+
+Größenabhängige Erleichterungen bei der Erstellung (§§ 266 Abs.1, 276, 288 HGB) und bei der Offenlegung (§ 326 HGB bzw. § 327 HGB) des Jahresabschlusses werden in Anspruch genommen.
+
+Die Gewinn- und Verlustrechnung wurde nach dem Gesamtkostenverfahren gem. § 275 Abs. 2 HGB aufgestellt.
+
+Geschäftsjahr ist das Kalenderjahr.
+
+I. Gliederungsgrundsätze / Darstellungsstetigkeit
+
+Die Gliederung der Bilanz und der Gewinn- und Verlustrechnung änderte sich nicht gegenüber dem Vorjahr.
+
+Von der Darstellungsstetigkeit wurde gegenüber dem Vorjahr nicht abgewichen.
+
+II. Bilanzierungsmethoden
+
+Im Jahresabschluss sind sämtliche Vermögensgegenstände, Schulden, Rechnungsabgrenzungsposten, Aufwendungen und Erträge enthalten, soweit gesetzlich nichts anderes bestimmt ist. Die Posten der Aktivseite sind nicht mit Posten der Passivseite, Aufwendungen nicht mit Erträgen, Grundstücksrechte nicht mit Grundstückslasten verrechnet worden.
+
+Das Anlage- und Umlaufvermögen, das Eigenkapital, die Schulden sowie die Rechnungsabgrenzungsposten wurden in der Bilanz gesondert ausgewiesen und hinreichend aufgegliedert.
+
+Das Anlagevermögen weist nur Gegenstände aus, die bestimmt sind, dem Geschäftsbetrieb dauernd zu dienen. Aufwendungen für die Gründung des Unternehmens und für die Beschaffung des Eigenkapitals, sowie für immaterielle Vermögensgegenstände, die nicht entgeltlich erworben wurden, wurden nicht bilanziert.
+
+Rückstellungen wurden nur im Rahmen des § 249 HGB und Rechnungsabgrenzungsposten wurden nach den Vorschriften des § 250 HGB gebildet. Haftungsverhältnisse i.S. von § 251 HGB sind ggf. nachfolgend gesondert angegeben.
+
+III. Bewertungsmethoden
+
+Die Wertansätze der Eröffnungsbilanz des Geschäftsjahres stimmen mit denen der Schlussbilanz des vorangegangenen Geschäftsjahres überein. Bei der Bewertung wurde von der Fortführung des Unternehmens ausgegangen. Die Vermögensgegenstände und Schulden wurden einzeln bewertet.
+
+Einzelne Positionen wurden wie folgt bewertet:
+
+1. Immaterielle Vermögensgegenstände
+
+Erworbene und selbst erstellte immaterielle Anlagewerte wurden zu Anschaffungs- und Herstellungskosten angesetzt und, sofern sie der Abnutzung unterlagen, um planmäßige Abschreibungen vermindert.
+
+2. Sachanlagen
+
+Die Vermögensgegenstände des Sachanlagevermögens wurden zu Anschaffungs- oder Herstellungskosten abzüglich planmäßiger Abschreibungen bewertet.
+
+Grundlage der planmäßigen Abschreibung war die voraussichtliche Nutzungsdauer des jeweiligen Vermögensgegenstandes.
+
+Die Abschreibungen wurden beim beweglichen Anlagevermögen nach der linearen Methode vorgenommen.
+
+Geringwertige Wirtschaftsgüter mit Anschaffungskosten bis 800,00 Euro wurden sofort abgeschrieben.
+
+3. Finanzanlagen
+
+Beteiligungen wurden zu den Anschaffungskosten oder dem niedrigeren beizulegenden Wert angesetzt.
+
+Das Prinzip der verlustfreien Bewertung wurde berücksichtigt.
+
+4. Ford. aus Lieferungen u. Leistungen u. sonst. Vermögensgegenstände
+
+Die Forderungen, sonstige Vermögensgegenstände und Wertpapiere wurden grundsätzlich mit dem Nennbetrag angesetzt.
+
+Erkennbare Einzelrisiken wurden durch Einzelwertberichtigungen berücksichtigt.
+
+5. Liquide Mittel
+
+Kassenbestände und Bankguthaben werden jeweils zum Nennwert angesetzt.
+
+6. Aktive Rechnungsabgrenzungsposten
+
+Als aktive Rechnungsabgrenzungsposten werden Ausgaben vor dem Bilanzstichtag ausgewiesen, soweit sie Aufwand für eine bestimmte Zeit nach dem Tag darstellen.
+
+7. Verbindlichkeiten
+
+Verbindlichkeiten wurden mit dem Erfüllungsbetrag ausgewiesen. Sofern die Tageswerte über den Erfüllungsbeträgen lagen, wurden die Verbindlichkeiten zum höheren Tageswert angesetzt.
+
+8. Rückstellungen
+
+Die Rückstellungen wurden nach vernünftiger kaufmännischer Schätzung ermittelt. Die sonstigen Rückstellungen berücksichtigen alle erkennbaren Risiken und ungewissen Verpflichtungen.
+
+IV. Erläuterungen zu den Posten der Bilanz
+
+Forderungen und sonstige Vermögensgegenstände
+
+Der Gesamtbetrag der ausgewiesenen Forderungen und sonstigen Vermögensgegenstände mit einer Restlaufzeit von mehr als einem Jahr beträgt € 0,00, alle übrigen Forderungen und Vermögensgegenstände haben Restlaufzeiten von nicht mehr als einem Jahr.
+
+Verbindlichkeiten
+
+Der Gesamtbetrag der Verbindlichkeiten mit einer Restlaufzeit von mehr als fünf Jahren betrug zum Bilanzstichtag € 0,00. Die ausgewiesenen Verbindlichkeiten sind außer durch handelsübliche Eigentumsvorbehalte nicht durch Pfandrechte oder ähnliche Rechte gesichert.
+
+V. Sonstige Pflichtangaben
+
+Durchschnittliche Zahl der während des Geschäftsjahres beschäftigten Arbeitnehmer
+
+Die Gesamtanzahl der durchschnittlich beschäftigten Arbeitnehmer beträgt 38,75 (Vorjahr: 26,75).
+
+sonstige Berichtsbestandteile
+
+Geschäftsführung
+
+Während des abgelaufenen Geschäftsjahres wurden die Geschäfte des Unternehmens durch die Geschäftsführer
+
+Herrn Magnus Drewelies, Geschäftsführer, Berlin (einzelvertretungsberichtigt)
+
+Herr Hannes Malte Nützmann, Geschäftsführer, Berlin
+
+Frau Dr. Clara Luisa Woldt, Geschäftsführerin, Berlin
+
+geführt.
+
+Berlin, den 21.02.2025
+
+Geschäftsführer
+
+Angaben zur Feststellung:
+
+Der Jahresabschluss wurde am 24.03.2025 festgestellt.

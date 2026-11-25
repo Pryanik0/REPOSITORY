@@ -1,0 +1,311 @@
+{
+  "provider": "karriere",
+  "company": {
+    "key": "Deutsche Rück",
+    "name": "Deutsche Rück",
+    "location": "Düsseldorf",
+    "name_source": "company_name",
+    "urls": [
+      "https://www.deutscherueck.de"
+    ],
+    "kununu_url": null,
+    "branches": [
+      "Versicherungen"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "40549",
+    "street": "Hansaallee 177",
+    "region": "Nordrhein-Westfalen",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:17:41.406142+00:00",
+  "status": "partial",
+  "jobs": [],
+  "pages": [
+    {
+      "url": "https://www.deutscherueck.de/",
+      "final_url": "https://www.deutscherueck.de/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.deutscherueck.de/karriere",
+      "final_url": "https://www.deutscherueck.de/karriere",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.deutscherueck.de/karriere/das-duale-studium/",
+      "final_url": "https://www.deutscherueck.de/karriere/das-duale-studium/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.deutscherueck.de/karriere/weiterbildung",
+      "final_url": "https://www.deutscherueck.de/karriere/weiterbildung",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.deutscherueck.de/karriere/unternehmenskultur",
+      "final_url": "https://www.deutscherueck.de/karriere/unternehmenskultur",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.deutscherueck.de/karriere/berufsfelder",
+      "final_url": "https://www.deutscherueck.de/karriere/berufsfelder",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.deutscherueck.de/karriere/stellenanzeige?sid=1537",
+      "final_url": "https://www.deutscherueck.de/karriere/stellenanzeige?sid=1537",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.deutscherueck.de/karriere/stellenanzeige?sid=1551",
+      "final_url": "https://www.deutscherueck.de/karriere/stellenanzeige?sid=1551",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.deutscherueck.de/karriere/stellenanzeige?sid=1524",
+      "final_url": "https://www.deutscherueck.de/karriere/stellenanzeige?sid=1524",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.deutscherueck.de/karriere/stellenanzeige?sid=1545",
+      "final_url": "https://www.deutscherueck.de/karriere/stellenanzeige?sid=1545",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.deutscherueck.de/karriere/stellenanzeige?sid=1546",
+      "final_url": "https://www.deutscherueck.de/karriere/stellenanzeige?sid=1546",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.deutscherueck.de/karriere/stellenanzeige?sid=1187",
+      "final_url": "https://www.deutscherueck.de/karriere/stellenanzeige?sid=1187",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.deutscherueck.de/karriere/das-duale-studium",
+      "final_url": "https://www.deutscherueck.de/karriere/das-duale-studium",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.deutscherueck.de/r/z12332wv3senh3m/Manager+Informationssicherheit+%26+ISMS+++Mensch*+im+qualitativen+Risikomanagement/40549/D%C3%BCsseldorf",
+      "final_url": "https://karriere.deutscherueck.de/karriere/?origin=rss",
+      "redirects": [
+        {
+          "source": "https://karriere.deutscherueck.de/r/z12332wv3senh3m/Manager+Informationssicherheit+%26+ISMS+++Mensch*+im+qualitativen+Risikomanagement/40549/D%C3%BCsseldorf",
+          "target": "https://karriere.deutscherueck.de/karriere/?origin=rss",
+          "status": 302
+        }
+      ],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.deutscherueck.de/r/z01jnd44r9ucbb9/Senior+Expert+Haftpflicht+und++Spartensteuerung+Mensch*/40549/D%C3%BCsseldorf",
+      "final_url": "https://karriere.deutscherueck.de/karriere/?origin=rss",
+      "redirects": [
+        {
+          "source": "https://karriere.deutscherueck.de/r/z01jnd44r9ucbb9/Senior+Expert+Haftpflicht+und++Spartensteuerung+Mensch*/40549/D%C3%BCsseldorf",
+          "target": "https://karriere.deutscherueck.de/karriere/?origin=rss",
+          "status": 302
+        }
+      ],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.deutscherueck.de/r/z10sjdb2d8ja8il/Senior+Payroll+Specialist+Mensch*+Verg%C3%BCtung+und+Personalcontrolling/40549/D%C3%BCsseldorf",
+      "final_url": "https://karriere.deutscherueck.de/karriere/?origin=rss",
+      "redirects": [
+        {
+          "source": "https://karriere.deutscherueck.de/r/z10sjdb2d8ja8il/Senior+Payroll+Specialist+Mensch*+Verg%C3%BCtung+und+Personalcontrolling/40549/D%C3%BCsseldorf",
+          "target": "https://karriere.deutscherueck.de/karriere/?origin=rss",
+          "status": 302
+        }
+      ],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.deutscherueck.de/r/z10ceyyft2xxvsk/Senior-Referent+Sach-Spartenmanagement+Mensch*+Schwerpunkt+Grundsatzfragen/40549/D%C3%BCsseldorf",
+      "final_url": "https://karriere.deutscherueck.de/karriere/?origin=rss",
+      "redirects": [
+        {
+          "source": "https://karriere.deutscherueck.de/r/z10ceyyft2xxvsk/Senior-Referent+Sach-Spartenmanagement+Mensch*+Schwerpunkt+Grundsatzfragen/40549/D%C3%BCsseldorf",
+          "target": "https://karriere.deutscherueck.de/karriere/?origin=rss",
+          "status": 302
+        }
+      ],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.deutscherueck.de/r/z122j02857c7bwi/Senior-Referent+Sach-Spartenmanagement+Mensch*+Schwerpunkt+Industrie-+und+Gro%C3%9Frisikogesch%C3%A4ft/40549/D%C3%BCsseldorf",
+      "final_url": "https://karriere.deutscherueck.de/karriere/?origin=rss",
+      "redirects": [
+        {
+          "source": "https://karriere.deutscherueck.de/r/z122j02857c7bwi/Senior-Referent+Sach-Spartenmanagement+Mensch*+Schwerpunkt+Industrie-+und+Gro%C3%9Frisikogesch%C3%A4ft/40549/D%C3%BCsseldorf",
+          "target": "https://karriere.deutscherueck.de/karriere/?origin=rss",
+          "status": 302
+        }
+      ],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.deutscherueck.de/r/z014c49in62jt0t/Referendar+Mensch*+f%C3%BCr+die+Anwalts-+oder+Wahlstation/40549/D%C3%BCsseldorf",
+      "final_url": "https://karriere.deutscherueck.de/karriere/?origin=rss",
+      "redirects": [
+        {
+          "source": "https://karriere.deutscherueck.de/r/z014c49in62jt0t/Referendar+Mensch*+f%C3%BCr+die+Anwalts-+oder+Wahlstation/40549/D%C3%BCsseldorf",
+          "target": "https://karriere.deutscherueck.de/karriere/?origin=rss",
+          "status": 302
+        }
+      ],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    }
+  ],
+  "errors": [
+    {
+      "url": "https://karriere.deutscherueck.de/karriere/?origin=rss",
+      "reason": "no_extractable_jobs_or_career_links",
+      "error": "Keine auslesbaren Stellen; JavaScript oder manuelle Prüfung erforderlich."
+    },
+    {
+      "url": "https://karriere.deutscherueck.de/karriere/?origin=rss",
+      "reason": "no_extractable_jobs_or_career_links",
+      "error": "Keine auslesbaren Stellen; JavaScript oder manuelle Prüfung erforderlich."
+    },
+    {
+      "url": "https://karriere.deutscherueck.de/karriere/?origin=rss",
+      "reason": "no_extractable_jobs_or_career_links",
+      "error": "Keine auslesbaren Stellen; JavaScript oder manuelle Prüfung erforderlich."
+    },
+    {
+      "url": "https://karriere.deutscherueck.de/karriere/?origin=rss",
+      "reason": "no_extractable_jobs_or_career_links",
+      "error": "Keine auslesbaren Stellen; JavaScript oder manuelle Prüfung erforderlich."
+    },
+    {
+      "url": "https://karriere.deutscherueck.de/karriere/?origin=rss",
+      "reason": "no_extractable_jobs_or_career_links",
+      "error": "Keine auslesbaren Stellen; JavaScript oder manuelle Prüfung erforderlich."
+    },
+    {
+      "url": "https://karriere.deutscherueck.de/karriere/?origin=rss",
+      "reason": "no_extractable_jobs_or_career_links",
+      "error": "Keine auslesbaren Stellen; JavaScript oder manuelle Prüfung erforderlich."
+    }
+  ],
+  "excluded": [],
+  "sources": [
+    {
+      "url": "https://www.deutscherueck.de/",
+      "linked_from": null,
+      "mechanism": "configured"
+    },
+    {
+      "url": "https://karriere.deutscherueck.de/r/z12332wv3senh3m/Manager+Informationssicherheit+%26+ISMS+++Mensch*+im+qualitativen+Risikomanagement/40549/D%C3%BCsseldorf",
+      "linked_from": "https://www.deutscherueck.de/karriere/stellenanzeige?sid=1537",
+      "mechanism": "employer_link"
+    },
+    {
+      "url": "https://karriere.deutscherueck.de/karriere/?origin=rss",
+      "linked_from": "https://karriere.deutscherueck.de/r/z12332wv3senh3m/Manager+Informationssicherheit+%26+ISMS+++Mensch*+im+qualitativen+Risikomanagement/40549/D%C3%BCsseldorf",
+      "mechanism": "http_redirect"
+    },
+    {
+      "url": "https://karriere.deutscherueck.de/karriere/?origin=rss",
+      "linked_from": "https://karriere.deutscherueck.de/r/z01jnd44r9ucbb9/Senior+Expert+Haftpflicht+und++Spartensteuerung+Mensch*/40549/D%C3%BCsseldorf",
+      "mechanism": "http_redirect"
+    },
+    {
+      "url": "https://karriere.deutscherueck.de/karriere/?origin=rss",
+      "linked_from": "https://karriere.deutscherueck.de/r/z10sjdb2d8ja8il/Senior+Payroll+Specialist+Mensch*+Verg%C3%BCtung+und+Personalcontrolling/40549/D%C3%BCsseldorf",
+      "mechanism": "http_redirect"
+    },
+    {
+      "url": "https://karriere.deutscherueck.de/karriere/?origin=rss",
+      "linked_from": "https://karriere.deutscherueck.de/r/z10ceyyft2xxvsk/Senior-Referent+Sach-Spartenmanagement+Mensch*+Schwerpunkt+Grundsatzfragen/40549/D%C3%BCsseldorf",
+      "mechanism": "http_redirect"
+    },
+    {
+      "url": "https://karriere.deutscherueck.de/karriere/?origin=rss",
+      "linked_from": "https://karriere.deutscherueck.de/r/z122j02857c7bwi/Senior-Referent+Sach-Spartenmanagement+Mensch*+Schwerpunkt+Industrie-+und+Gro%C3%9Frisikogesch%C3%A4ft/40549/D%C3%BCsseldorf",
+      "mechanism": "http_redirect"
+    },
+    {
+      "url": "https://karriere.deutscherueck.de/karriere/?origin=rss",
+      "linked_from": "https://karriere.deutscherueck.de/r/z014c49in62jt0t/Referendar+Mensch*+f%C3%BCr+die+Anwalts-+oder+Wahlstation/40549/D%C3%BCsseldorf",
+      "mechanism": "http_redirect"
+    }
+  ],
+  "adapter_attempts": [],
+  "coverage": {
+    "scope": "configured_sites_and_linked_career_portals",
+    "complete": false,
+    "pending_pages": 0,
+    "page_limit_reached": false,
+    "job_limit_reached": false,
+    "request_limit_reached": false,
+    "pages_attempted": 19,
+    "pages_read": 19,
+    "dynamic_or_unparsed_pages": true,
+    "http": {
+      "requests_attempted": 27,
+      "allocated_requests": 718,
+      "cache_hits": 0
+    }
+  },
+  "pending_urls": [],
+  "jobs_before_keyword_filter": 0,
+  "reason": "search_incomplete"
+}

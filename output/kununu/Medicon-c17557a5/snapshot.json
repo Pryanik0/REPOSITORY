@@ -1,0 +1,183 @@
+{
+  "provider": "kununu",
+  "backend": "browser",
+  "status": "ok",
+  "query": "Medicon eG. Chirurgiemechaniker-Genossenschaft",
+  "profile": {
+    "url": "https://www.kununu.com/de/medicon-chirurgiemechaniker-genossenschaft",
+    "name": "Medicon eG. Chirurgiemechaniker-Genossenschaft",
+    "overall_score": 3.6,
+    "review_count": 7,
+    "recommendation_percent": 50,
+    "recommendation_period": "last_2_years",
+    "observed_at": "2026-11-25T17:14:49.699915+00:00"
+  },
+  "reviews": [
+    {
+      "id": "53385842-6c44-4912-b18f-56944e7e6e17",
+      "url": "https://www.kununu.com/de/medicon-chirurgiemechaniker-genossenschaft/bewertung/53385842-6c44-4912-b18f-56944e7e6e17",
+      "title": "Naja……",
+      "content": "Altbacken\n\nFür manche ja, für manche nicht.\n\nAbteilungsbedingt\n\nJeder ist sich selbst der nächste.\n\nBuschfunk vorhanden\n\nDas schon, und auch gute und Sinvolle aufhaben.",
+      "rating": 2.4,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Altbacken",
+        "workLife": "Für manche ja, für manche nicht.",
+        "teamwork": "Abteilungsbedingt",
+        "leadership": "Jeder ist sich selbst der nächste.",
+        "communication": "Buschfunk vorhanden",
+        "tasks": "Das schon, und auch gute und Sinvolle aufhaben."
+      },
+      "factor_scores": {
+        "atmosphere": 2.0,
+        "workLife": 2.0,
+        "communication": 2.0,
+        "workConditions": 3.0,
+        "leadership": 1.0,
+        "teamwork": 3.0,
+        "oldColleagues": 2.0,
+        "equality": 3.0,
+        "career": 2.0,
+        "salary": 3.0,
+        "image": 2.0,
+        "environment": 2.0,
+        "tasks": 4.0
+      },
+      "published_at": "2026-09-16T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "308e256b-9f92-4411-b997-26808e5a840f",
+      "url": "https://www.kununu.com/de/medicon-chirurgiemechaniker-genossenschaft/bewertung/308e256b-9f92-4411-b997-26808e5a840f",
+      "title": "Sehr gutes Team, kurze Wege, hohes Niveau",
+      "content": "",
+      "rating": 4.0,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 5.0,
+        "communication": 4.0,
+        "workConditions": 4.0,
+        "leadership": 4.0,
+        "teamwork": 4.0,
+        "oldColleagues": 4.0,
+        "equality": 4.0,
+        "career": 3.0,
+        "salary": 4.0,
+        "image": 4.0,
+        "environment": 4.0,
+        "tasks": 4.0
+      },
+      "published_at": "2025-02-06T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    }
+  ],
+  "review_limit": 15,
+  "review_period": {
+    "since": "2024-11-25T00:00:00+00:00",
+    "until": "2026-11-25T17:14:48.187937+00:00",
+    "date_field": "published_at",
+    "missing_dates": "excluded"
+  },
+  "factor_scores_aggregated": {
+    "atmosphere": {
+      "mean": 3.0,
+      "count": 2
+    },
+    "workLife": {
+      "mean": 3.5,
+      "count": 2
+    },
+    "communication": {
+      "mean": 3.0,
+      "count": 2
+    },
+    "workConditions": {
+      "mean": 3.5,
+      "count": 2
+    },
+    "leadership": {
+      "mean": 2.5,
+      "count": 2
+    },
+    "teamwork": {
+      "mean": 3.5,
+      "count": 2
+    },
+    "oldColleagues": {
+      "mean": 3.0,
+      "count": 2
+    },
+    "equality": {
+      "mean": 3.5,
+      "count": 2
+    },
+    "career": {
+      "mean": 2.5,
+      "count": 2
+    },
+    "salary": {
+      "mean": 3.5,
+      "count": 2
+    },
+    "image": {
+      "mean": 3.0,
+      "count": 2
+    },
+    "environment": {
+      "mean": 3.0,
+      "count": 2
+    },
+    "tasks": {
+      "mean": 4.0,
+      "count": 2
+    }
+  },
+  "coverage": "bounded_employee_review_sample_last_2_years_not_all_reviews",
+  "diagnostics": {
+    "pages": [
+      {
+        "page": "reviews",
+        "page_number": 1,
+        "load_more_clicks": 0,
+        "requested_url": "https://www.kununu.com/de/medicon-chirurgiemechaniker-genossenschaft/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Medicon-c17557a5\\browser\\reviews.html",
+        "browser_step": 39,
+        "final_url": "https://www.kununu.com/de/medicon-chirurgiemechaniker-genossenschaft/kommentare",
+        "observed_at": "2026-11-25T17:14:49.431533+00:00",
+        "http_status": 200,
+        "factor_cards_expanded": 2,
+        "reviews_collected": 2
+      }
+    ]
+  },
+  "source_url": "https://www.kununu.com/de/medicon-chirurgiemechaniker-genossenschaft",
+  "profile_source": "https://www.kununu.com/de/medicon-chirurgiemechaniker-genossenschaft/kommentare",
+  "review_stop_reason": "end_of_available_reviews",
+  "factor_score_coverage": {
+    "reviews_with_scores": 2,
+    "reviews_without_scores": 0,
+    "reviews_with_all_known_scores": 2,
+    "status": "complete"
+  },
+  "request_limits": {
+    "max_browser_steps": 295,
+    "browser_steps": 39,
+    "zyte_requests": 0
+  },
+  "reason": null
+}

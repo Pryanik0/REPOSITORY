@@ -1,0 +1,721 @@
+{
+  "provider": "kununu",
+  "backend": "browser",
+  "status": "ok",
+  "query": "NÜRNBERGER Beteiligungs-AG",
+  "profile": {
+    "url": "https://www.kununu.com/de/nuernberger",
+    "name": "NÜRNBERGER Versicherung",
+    "overall_score": 3.8,
+    "review_count": 771,
+    "recommendation_percent": 78,
+    "recommendation_period": "last_2_years",
+    "observed_at": "2026-11-25T17:16:13.207671+00:00"
+  },
+  "reviews": [
+    {
+      "id": "9b628f9d-bdf1-4d15-83f3-eb6f42258543",
+      "url": "https://www.kununu.com/de/nuernberger/bewertung/9b628f9d-bdf1-4d15-83f3-eb6f42258543",
+      "title": "Der Beste Arbeitgeber den ich bis jetzt hatte",
+      "content": "Man bekommt seine zeit zum Lernen\n\nDie Büroräume sind Ordentlich und schön eingerichtet. Im allgemein ist das ganzen Gelände schön\n\nPerfekt\n\nMit den Kollegen lässt sich gut reden und es sind alle nett zueinander und helfen sich\n\nKommuniziert auf einer Ebene mit den Kollegen\n\nMann kann gut über alle Themen kommunizieren",
+      "rating": 4.3,
+      "sections": {
+        "positive": "Man bekommt seine zeit zum Lernen",
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Die Büroräume sind Ordentlich und schön eingerichtet. Im allgemein ist das ganzen Gelände schön",
+        "workLife": "Perfekt",
+        "teamwork": "Mit den Kollegen lässt sich gut reden und es sind alle nett zueinander und helfen sich",
+        "leadership": "Kommuniziert auf einer Ebene mit den Kollegen",
+        "communication": "Mann kann gut über alle Themen kommunizieren"
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 4.0,
+        "workConditions": 5.0,
+        "leadership": 3.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 3.0,
+        "career": 5.0,
+        "salary": 4.0,
+        "image": 3.0,
+        "environment": 5.0,
+        "tasks": 4.0
+      },
+      "published_at": "2026-11-18T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "faef9e63-8fdc-459d-837d-79e74de8ad75",
+      "url": "https://www.kununu.com/de/nuernberger/bewertung/faef9e63-8fdc-459d-837d-79e74de8ad75",
+      "title": "Hat Stärken und Schwächen",
+      "content": "Homeoffice, Kantine, Ausstattung\n\nWir wollen wissen woran wir sind, wie sieht es mit uns Mitarbeitenden aus? Müssen wir schon nach anderen Arbeitsplätzen suchen? Wir werden von der Betriebsversammlung nicht mehr informiert\n\nDie Arbeitsatmosphäre ist leider sehr angespannt. Wir wissen nicht woran wir sind, letzter Stand war keine betriebsbedingte Kündigungen bis Ende des Jahres. Und jetzt?\n\nLeider etwas kaputt gegangen\n\nTariflich\n\nIst von Abteilung zu Abteilung anders. Bei uns ist es leider nicht gegeben, lächeln dich an und reden über dich sobald du weg bist\n\nSehr gut\n\nDruck, Druck… mehr Arbeit. Aber keine Wertschätzung\n\nMit 60% Homeoffice super\n\nEs geht, wir werden regelmäßig up to dated gehalten\n\nAuf jeden Fall gegeben.",
+      "rating": 2.5,
+      "sections": {
+        "positive": "Homeoffice, Kantine, Ausstattung",
+        "negative": null,
+        "suggestion": "Wir wollen wissen woran wir sind, wie sieht es mit uns Mitarbeitenden aus? Müssen wir schon nach anderen Arbeitsplätzen suchen? Wir werden von der Betriebsversammlung nicht mehr informiert"
+      },
+      "factor_comments": {
+        "atmosphere": "Die Arbeitsatmosphäre ist leider sehr angespannt. Wir wissen nicht woran wir sind, letzter Stand war keine betriebsbedingte Kündigungen bis Ende des Jahres. Und jetzt?",
+        "image": "Leider etwas kaputt gegangen",
+        "salary": "Tariflich",
+        "teamwork": "Ist von Abteilung zu Abteilung anders. Bei uns ist es leider nicht gegeben, lächeln dich an und reden über dich sobald du weg bist",
+        "oldColleagues": "Sehr gut",
+        "leadership": "Druck, Druck… mehr Arbeit. Aber keine Wertschätzung",
+        "workConditions": "Mit 60% Homeoffice super",
+        "communication": "Es geht, wir werden regelmäßig up to dated gehalten",
+        "equality": "Auf jeden Fall gegeben."
+      },
+      "factor_scores": {
+        "atmosphere": 1.0,
+        "workLife": 3.0,
+        "communication": 2.0,
+        "workConditions": 4.0,
+        "leadership": 2.0,
+        "teamwork": 2.0,
+        "oldColleagues": 4.0,
+        "equality": 5.0,
+        "career": 1.0,
+        "salary": 3.0,
+        "image": 2.0,
+        "environment": 2.0,
+        "tasks": 2.0
+      },
+      "published_at": "2026-11-08T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "3c72c9fc-0ee4-4663-929e-60e0393349a3",
+      "url": "https://www.kununu.com/de/nuernberger/bewertung/3c72c9fc-0ee4-4663-929e-60e0393349a3",
+      "title": "Toller Arbeitgeber in spannendem Umfeld",
+      "content": "Sehr gut! Homeoffice und die tollen Arbeitswelten machen es möglich.\n\nLeider ein bisschen angestoßen, aber auf dem Weg nach oben.\n\n1a- 40:60 Regelung ist optimal.\n\nAlle Chancen offen.\n\nAlles fair und geregelt.\n\nVoraussetzungen sind geschaffen. Geht aber immer und überall mehr.\n\nMan ist füreinander da. Sehr familiär.\n\nWertschätzend\n\nAuf Augenhöhe und jederzeit fair.\n\nKomfortable Arbeitswelten und Raum für jede Tätigkeit.\n\nTransparent und auf Augenhöhe\n\nSehr bemüht! Und auf einem guten Wrg.\n\nDie Transformation bringt täglich neue spannende Aufgaben.",
+      "rating": 4.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Sehr gut! Homeoffice und die tollen Arbeitswelten machen es möglich.",
+        "image": "Leider ein bisschen angestoßen, aber auf dem Weg nach oben.",
+        "workLife": "1a- 40:60 Regelung ist optimal.",
+        "career": "Alle Chancen offen.",
+        "salary": "Alles fair und geregelt.",
+        "environment": "Voraussetzungen sind geschaffen. Geht aber immer und überall mehr.",
+        "teamwork": "Man ist füreinander da. Sehr familiär.",
+        "oldColleagues": "Wertschätzend",
+        "leadership": "Auf Augenhöhe und jederzeit fair.",
+        "workConditions": "Komfortable Arbeitswelten und Raum für jede Tätigkeit.",
+        "communication": "Transparent und auf Augenhöhe",
+        "equality": "Sehr bemüht! Und auf einem guten Wrg.",
+        "tasks": "Die Transformation bringt täglich neue spannende Aufgaben."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 4.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 4.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-11-07T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "1ef87ce8-0474-4202-8aa9-cf0dad2ca7a5",
+      "url": "https://www.kununu.com/de/nuernberger/bewertung/1ef87ce8-0474-4202-8aa9-cf0dad2ca7a5",
+      "title": "Sehr zufrieden",
+      "content": "Bin einfach total zufrieden. Ein Top Arbeitgeber",
+      "rating": 5.0,
+      "sections": {
+        "positive": "Bin einfach total zufrieden. Ein Top Arbeitgeber",
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-11-04T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "dd129034-cc42-4b38-ba68-bcaae5656d41",
+      "url": "https://www.kununu.com/de/nuernberger/bewertung/dd129034-cc42-4b38-ba68-bcaae5656d41",
+      "title": "Zukunft mitgestalten kann man hier",
+      "content": "Je nach Abteilung und Team gut. In den Kontexten in denen ich unterwegs bin/war, herrscht eine sehr gute Atmosphäre.\n\nJe nach Thema/Projekt kann das variieren. Aber die Betriebsvereinbarung mit Homeoffice/mobilem Arbeiten, Gleitzeittagen, Arbeiten im Ausland usw. lässt viel individuellen Gestaltungsspielraum.\n\nHier könnte mehr strukturiert und strategisch passieren. Mein Eindruck ist, dass es viel von der jeweiligen Führungskraft und dem eigenen Bereich abhängt.\n\nIn den Bereichen, in denen ich unterwegs bin, sehr gut.\n\nWie überall abhängig von der jeweiligen Führungskraft. In meinem Fall immer wertschätzend und unterstützend auf Augenhöhe.\n\nHier wird richtig viel gemacht. Meiner Meinung nach gibt es wenige Unternehmen in denen Informationen so liberalisiert sind wie bei uns. (Sicher hängt es an manchen Stellen auch von der Führungskraft vor Ort ab)\n\nIn der strategischen Ausrichtung ja. Gelebt gibt es sowohl bei Geschlechtergerechtigkeit als auch bei Vielfalt allgemein noch viel Potential.\n\nKann ich für mich sagen, auf jeden Fall. Viel Gestaltungsspielraum, ein Unternehmen im Wandel, den man aktiv mitgestalten kann, wenn man will.",
+      "rating": 4.2,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Je nach Abteilung und Team gut. In den Kontexten in denen ich unterwegs bin/war, herrscht eine sehr gute Atmosphäre.",
+        "workLife": "Je nach Thema/Projekt kann das variieren. Aber die Betriebsvereinbarung mit Homeoffice/mobilem Arbeiten, Gleitzeittagen, Arbeiten im Ausland usw. lässt viel individuellen Gestaltungsspielraum.",
+        "career": "Hier könnte mehr strukturiert und strategisch passieren. Mein Eindruck ist, dass es viel von der jeweiligen Führungskraft und dem eigenen Bereich abhängt.",
+        "teamwork": "In den Bereichen, in denen ich unterwegs bin, sehr gut.",
+        "leadership": "Wie überall abhängig von der jeweiligen Führungskraft. In meinem Fall immer wertschätzend und unterstützend auf Augenhöhe.",
+        "communication": "Hier wird richtig viel gemacht. Meiner Meinung nach gibt es wenige Unternehmen in denen Informationen so liberalisiert sind wie bei uns. (Sicher hängt es an manchen Stellen auch von der Führungskraft vor Ort ab)",
+        "equality": "In der strategischen Ausrichtung ja. Gelebt gibt es sowohl bei Geschlechtergerechtigkeit als auch bei Vielfalt allgemein noch viel Potential.",
+        "tasks": "Kann ich für mich sagen, auf jeden Fall. Viel Gestaltungsspielraum, ein Unternehmen im Wandel, den man aktiv mitgestalten kann, wenn man will."
+      },
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 3.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 4.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 3.0,
+        "career": 3.0,
+        "salary": 4.0,
+        "image": 4.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-11-04T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "cac943bc-389a-4039-afe6-8cc0fd2ab14b",
+      "url": "https://www.kununu.com/de/nuernberger/bewertung/cac943bc-389a-4039-afe6-8cc0fd2ab14b",
+      "title": "Ein gemischtes Bild",
+      "content": "Man gibt sich kämpferisch und als reiner Arbeitgeber ist die Nürnberger ein tolles Unternehmen.\n\nDen Drang an jede Ecke KI andocken zu wollen. Die Mangel an Informationen wie aus den abstrakten strategischen Zielen, klare operative Umsetzungen werden.\n\nPersonenkulte abschaffen. Der Vorstand steht häufig im Rampenlicht wenn es um die Kommunikation geht. Ein Unternehmen, dass Mitarbeiterbeteiligung in den Vordergrund stellen will, sollte auch den Mitarbeiter in den Vordergrund stellen.\nAußerdem sollte die Menge der Leitungsebenen reduziert werden. Durch die Menge an Ebenen sind Informationen zu gefiltert und verzerrt bis sie bei relevanten Entscheidungsträgern ankommen.\n\nSeit drei Jahren existiert eine konstante Unruhe. Diese Unruhe rührt zum einen von den nachvollziehbaren Veränderungen die in der jüngsten Vergangenheit passiert sind. Die Versuche auf Leitungsebene gegenzusteuern nehme ich gemischt wahr. Man ist dort bemüht eine Vision zu zeichnen, doch all zu oft verbleibt man auf Überschriftenebene ohne Substanz zu schaffen.\n\nDie Selbstwahrnehmung deckt sich nicht dem Außenbild.\n\nSehr familienfreundlich und immer proaktiv an Lösungen interessiert wenn man als Mitarbeiter mit komplizierteren Situationen konfrontiert ist. Eine Anwesenheitsquote um der Quote willen schmälert das Bild etwas.\n\nKarrierepfade sind komplett abhängig von verfügbaren Positionen. Sind keine (höherwertigen) Stellen offen, gibt es auch keine Möglichkeit für Karriereschritte. Es gibt ein internes Weiterbildungsportal mit klaren Fokus auf Versicherungsthemen. Externe Weiterbildung wird bezahlt, sofern sie zum Aufgabenfeld passt. Entwicklungsgespräche müssen aktiv eingefordert werden.\n\nKeine Gehaltserhöhung seit drei Jahren. Das Benefitpaket ist für ein Unternehmen dieser Größenordnung angemessen.\n\nUmweltthemen spielen keine Rolle. Der krampfhafte Drang KI in jeder Situation einzusetzen, könnte sich sogar negativ auswirken. Sozial ist die Nürnberger oft durch Spendenaktionen aktiv.\n\nDie starke interne Identität der Nürnberger sorgt für ein sehr kollegiales und helfendes Miteinander.\n\nEinwandfrei.\n\nGenerell ein positives kohärentes Bild. Derzeit wird von höheren Leitungsebenen viel Druck aufgebaut der dann häufig direkt durchgereicht wird ohne zu hinterfragen oder zu steuern.\n\nDie Büros sind gut eingerichtet, ausnahmslos mit Stehschreibtischen. Die Laptops sind für Büroarbeiten ausreichend. Es gibt eine Kantine mit sehr fairen Preisen. Mitarbeiter für Stellplätze bezahlen zu lassen ist eine Sache an die ich mich nicht gewöhnen kann.\n\nEs gibt eine Lücke irgendwo zwischen Konzernleitung und operativer Ebene (gesprochen für die IT). Scheinbar gibt es eine erdachte Marschrichtung, wie diese sich im Alltag ausdrückt bleibt unklar.\n\nEinwandfrei.\n\nViele notwendige Entwicklungen wurden in der Vergangenheit nicht gemacht. Häufig müssen fundamentale Dinge erst aufgebaut werden, die längst Standard in anderen Unternehmen sind. Man arbeitet nicht an innovativen Themen.",
+      "rating": 3.2,
+      "sections": {
+        "positive": "Man gibt sich kämpferisch und als reiner Arbeitgeber ist die Nürnberger ein tolles Unternehmen.",
+        "negative": "Den Drang an jede Ecke KI andocken zu wollen. Die Mangel an Informationen wie aus den abstrakten strategischen Zielen, klare operative Umsetzungen werden.",
+        "suggestion": "Personenkulte abschaffen. Der Vorstand steht häufig im Rampenlicht wenn es um die Kommunikation geht. Ein Unternehmen, dass Mitarbeiterbeteiligung in den Vordergrund stellen will, sollte auch den Mitarbeiter in den Vordergrund stellen.\nAußerdem sollte die Menge der Leitungsebenen reduziert werden. Durch die Menge an Ebenen sind Informationen zu gefiltert und verzerrt bis sie bei relevanten Entscheidungsträgern ankommen."
+      },
+      "factor_comments": {
+        "atmosphere": "Seit drei Jahren existiert eine konstante Unruhe. Diese Unruhe rührt zum einen von den nachvollziehbaren Veränderungen die in der jüngsten Vergangenheit passiert sind. Die Versuche auf Leitungsebene gegenzusteuern nehme ich gemischt wahr. Man ist dort bemüht eine Vision zu zeichnen, doch all zu oft verbleibt man auf Überschriftenebene ohne Substanz zu schaffen.",
+        "image": "Die Selbstwahrnehmung deckt sich nicht dem Außenbild.",
+        "workLife": "Sehr familienfreundlich und immer proaktiv an Lösungen interessiert wenn man als Mitarbeiter mit komplizierteren Situationen konfrontiert ist. Eine Anwesenheitsquote um der Quote willen schmälert das Bild etwas.",
+        "career": "Karrierepfade sind komplett abhängig von verfügbaren Positionen. Sind keine (höherwertigen) Stellen offen, gibt es auch keine Möglichkeit für Karriereschritte. Es gibt ein internes Weiterbildungsportal mit klaren Fokus auf Versicherungsthemen. Externe Weiterbildung wird bezahlt, sofern sie zum Aufgabenfeld passt. Entwicklungsgespräche müssen aktiv eingefordert werden.",
+        "salary": "Keine Gehaltserhöhung seit drei Jahren. Das Benefitpaket ist für ein Unternehmen dieser Größenordnung angemessen.",
+        "environment": "Umweltthemen spielen keine Rolle. Der krampfhafte Drang KI in jeder Situation einzusetzen, könnte sich sogar negativ auswirken. Sozial ist die Nürnberger oft durch Spendenaktionen aktiv.",
+        "teamwork": "Die starke interne Identität der Nürnberger sorgt für ein sehr kollegiales und helfendes Miteinander.",
+        "oldColleagues": "Einwandfrei.",
+        "leadership": "Generell ein positives kohärentes Bild. Derzeit wird von höheren Leitungsebenen viel Druck aufgebaut der dann häufig direkt durchgereicht wird ohne zu hinterfragen oder zu steuern.",
+        "workConditions": "Die Büros sind gut eingerichtet, ausnahmslos mit Stehschreibtischen. Die Laptops sind für Büroarbeiten ausreichend. Es gibt eine Kantine mit sehr fairen Preisen. Mitarbeiter für Stellplätze bezahlen zu lassen ist eine Sache an die ich mich nicht gewöhnen kann.",
+        "communication": "Es gibt eine Lücke irgendwo zwischen Konzernleitung und operativer Ebene (gesprochen für die IT). Scheinbar gibt es eine erdachte Marschrichtung, wie diese sich im Alltag ausdrückt bleibt unklar.",
+        "equality": "Einwandfrei.",
+        "tasks": "Viele notwendige Entwicklungen wurden in der Vergangenheit nicht gemacht. Häufig müssen fundamentale Dinge erst aufgebaut werden, die längst Standard in anderen Unternehmen sind. Man arbeitet nicht an innovativen Themen."
+      },
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 4.0,
+        "communication": 2.0,
+        "workConditions": 4.0,
+        "leadership": 3.0,
+        "teamwork": 4.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 3.0,
+        "salary": 3.0,
+        "image": 2.0,
+        "environment": 2.0,
+        "tasks": 2.0
+      },
+      "published_at": "2026-11-02T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "a76a53cc-be33-4013-ae71-d88975f3fe0b",
+      "url": "https://www.kununu.com/de/nuernberger/bewertung/a76a53cc-be33-4013-ae71-d88975f3fe0b",
+      "title": "Soweit gut",
+      "content": "Gut aufgestellt\n\nNichts genaues\n\nPasst\n\nGut\n\nGut\n\nSehr gut\n\nSehr gut\n\nSehr gut\n\nSehr gut\n\nSehr gut\n\nGut\n\nGut\n\nFast gut\n\nSehr gut\n\nGut\n\nSehr gut",
+      "rating": 4.5,
+      "sections": {
+        "positive": "Gut aufgestellt",
+        "negative": "Nichts genaues",
+        "suggestion": "Passt"
+      },
+      "factor_comments": {
+        "atmosphere": "Gut",
+        "image": "Gut",
+        "workLife": "Sehr gut",
+        "career": "Sehr gut",
+        "salary": "Sehr gut",
+        "environment": "Sehr gut",
+        "teamwork": "Sehr gut",
+        "oldColleagues": "Gut",
+        "leadership": "Gut",
+        "workConditions": "Fast gut",
+        "communication": "Sehr gut",
+        "equality": "Gut",
+        "tasks": "Sehr gut"
+      },
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 3.0,
+        "leadership": 4.0,
+        "teamwork": 5.0,
+        "oldColleagues": 4.0,
+        "equality": 4.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 4.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-11-01T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "53e76235-43c7-4962-9435-5f6fd5db3ed5",
+      "url": "https://www.kununu.com/de/nuernberger/bewertung/53e76235-43c7-4962-9435-5f6fd5db3ed5",
+      "title": "NÜRNBERGER- sehr guter Arbeitgeber",
+      "content": "Gute Kantine, neu gestaltete Büros, gute Erreichbarkeit, gutes Arbeitsklima, gute Kommunikation mit unserer Führungskraft.\n\nMehr Präsenz auf Social Media Kanälen, Berechnungslogik Büroanwesenheit einfacher gestalten.",
+      "rating": 4.7,
+      "sections": {
+        "positive": "Gute Kantine, neu gestaltete Büros, gute Erreichbarkeit, gutes Arbeitsklima, gute Kommunikation mit unserer Führungskraft.",
+        "negative": null,
+        "suggestion": "Mehr Präsenz auf Social Media Kanälen, Berechnungslogik Büroanwesenheit einfacher gestalten."
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 4.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 3.0,
+        "environment": 4.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-10-29T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "af334198-9d1b-4bda-b999-3ad07a361395",
+      "url": "https://www.kununu.com/de/nuernberger/bewertung/af334198-9d1b-4bda-b999-3ad07a361395",
+      "title": "Neuer Kurs ist eingeschlagen - volle Kraft voraus!",
+      "content": "Es findet eine kontinuierliche Weiterentwicklung statt. Mitarbeitern wird mehr Verantwortung übertragen.\n\nEs gibt noch zu viele Führungskräfte, die nicht über Ziele führen. Zudem verlässt man sich immer noch auf Berater, die im Grunde die eigenen Erkenntnisse für teures Geld bestätigen.\n\nWeniger Ressourcen für den Erkenntnisgewinn einsetzen und dafür mehr in die Umsetzung bringen. Mehr Fokus auf wenige Themen und diese dann schneller übers Ziel bringen.",
+      "rating": 4.8,
+      "sections": {
+        "positive": "Es findet eine kontinuierliche Weiterentwicklung statt. Mitarbeitern wird mehr Verantwortung übertragen.",
+        "negative": "Es gibt noch zu viele Führungskräfte, die nicht über Ziele führen. Zudem verlässt man sich immer noch auf Berater, die im Grunde die eigenen Erkenntnisse für teures Geld bestätigen.",
+        "suggestion": "Weniger Ressourcen für den Erkenntnisgewinn einsetzen und dafür mehr in die Umsetzung bringen. Mehr Fokus auf wenige Themen und diese dann schneller übers Ziel bringen."
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 4.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 4.0
+      },
+      "published_at": "2026-10-28T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "ad689480-ba13-4bf0-8a73-f3baab08c9a0",
+      "url": "https://www.kununu.com/de/nuernberger/bewertung/ad689480-ba13-4bf0-8a73-f3baab08c9a0",
+      "title": "Mehr Unternehmertum wäre gut und richtige Auswahl an Personen.",
+      "content": "Kollegen.\n\nKleine Dinge werden groß aufgepustet. Wenig Machen eher ewig über jede Kleinigkeit diskutieren. Jeder nimmt sich wichtiger als die Sache selbst. Durch viele Wechsel häufig Personen an Stellen für die sie eigentlich nicht qualifiziert sind. Selten Unternehmerisches denken sichtbar, weil auch keine Erfahrungen damit. Wenig Unternehmer an den relevanten Positionen.\n\nMehr Unternehmerisches Denken fördern. Was aber auch mit Freiheiten einhergeht. Wie HO ohne Quoten dafür aber Leistung messen.\n\nWirklich schlechtes Image. Viele sprechen einen darauf an.\n\nAktuell kaum Karrierechancen. Weiterbildung stagniert. Kein Geld.\n\nGewinn über alles. Ob für Kunden sinnvoll ist zweitrangig. Typisch Versicherung.",
+      "rating": 2.1,
+      "sections": {
+        "positive": "Kollegen.",
+        "negative": "Kleine Dinge werden groß aufgepustet. Wenig Machen eher ewig über jede Kleinigkeit diskutieren. Jeder nimmt sich wichtiger als die Sache selbst. Durch viele Wechsel häufig Personen an Stellen für die sie eigentlich nicht qualifiziert sind. Selten Unternehmerisches denken sichtbar, weil auch keine Erfahrungen damit. Wenig Unternehmer an den relevanten Positionen.",
+        "suggestion": "Mehr Unternehmerisches Denken fördern. Was aber auch mit Freiheiten einhergeht. Wie HO ohne Quoten dafür aber Leistung messen."
+      },
+      "factor_comments": {
+        "image": "Wirklich schlechtes Image. Viele sprechen einen darauf an.",
+        "career": "Aktuell kaum Karrierechancen. Weiterbildung stagniert. Kein Geld.",
+        "environment": "Gewinn über alles. Ob für Kunden sinnvoll ist zweitrangig. Typisch Versicherung."
+      },
+      "factor_scores": {
+        "atmosphere": 2.0,
+        "workLife": 3.0,
+        "communication": 1.0,
+        "workConditions": 2.0,
+        "leadership": 1.0,
+        "teamwork": 5.0,
+        "oldColleagues": 4.0,
+        "equality": 2.0,
+        "career": 1.0,
+        "salary": 2.0,
+        "image": 1.0,
+        "environment": 1.0,
+        "tasks": 2.0
+      },
+      "published_at": "2026-10-20T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "743795cc-71d2-410c-bb3d-73c00c076929",
+      "url": "https://www.kununu.com/de/nuernberger/bewertung/743795cc-71d2-410c-bb3d-73c00c076929",
+      "title": "Spannende Transformation mit einer starken Unternehmenskultur",
+      "content": "Die Zusammenarbeit ist von Respekt, Vertrauen und Hilfsbereitschaft geprägt. Auch bereichsübergreifend begegnet man sich (meistens) auf Augenhöhe. Engagement wird gesehen und anerkannt.\n\nImage hat in den letzten Jahren sehr gelitten. Mit dem neuen Förderer VIG und dem Fokus auf Kundenzufriedenheit wird aber hart an einer kontinuierlichen Weiterentwicklung gearbeitet.\n\nFlexible Arbeitszeiten und moderne Mobile-Work-Regelungen ermöglichen eine gute Vereinbarkeit von Beruf und Privatleben. Eigenverantwortliches Arbeiten wird aktiv unterstützt.\n\nEs gibt zahlreiche Möglichkeiten zur fachlichen und persönlichen Weiterentwicklung. Weiterbildung wird unterstützt und individuelle Karrierewege werden gefördert.\n\nVergütung und Sozialleistungen sind attraktiv und wettbewerbsfähig. Zusätzlich bietet das Unternehmen weitere Leistungen, die Mitarbeitende spürbar unterstützen.\n\nNachhaltigkeit und gesellschaftliche Verantwortung gewinnen sichtbar an Bedeutung. Das Unternehmen engagiert sich in verschiedenen sozialen und nachhaltigen Initiativen.\n\nDer Zusammenhalt in unserem Bereich ist außergewöhnlich stark. Kolleginnen und Kollegen unterstützen sich gegenseitig auch in herausfordernden Situationen und arbeiten lösungsorientiert zusammen. Krisen meistern können wir!\n\nErfahrung wird geschätzt und aktiv eingebunden. Die Zusammenarbeit unterschiedlicher Generationen funktioniert sehr gut.\n\nFührung wird wertschätzend und professionell gelebt. Ziele sind klar, Feedback erfolgt konstruktiv und die persönliche Entwicklung der Mitarbeitenden wird gefördert.\n\nModerne Arbeitsplätze, gute technische Ausstattung und kontinuierliche Investitionen in digitale Arbeitsmittel schaffen ein professionelles Arbeitsumfeld.\n\nWichtige Entscheidungen und Entwicklungen werden transparent kommuniziert. Management informiert regelmäßig in fixen Formaten und schaffen Möglichkeiten für Austausch und Feedback.\n\nVielfalt und Chancengleichheit werden ernst genommen. Leistung und Kompetenz stehen im Vordergrund, unabhängig von Geschlecht, Alter oder persönlichem Hintergrund.\n\nDie Aufgaben sind abwechslungsreich und bieten die Möglichkeit, Verantwortung zu übernehmen. Besonders die laufenden Zukunfts- und Transformationsprojekte schaffen spannende Entwicklungsmöglichkeiten.",
+      "rating": 5.0,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Die Zusammenarbeit ist von Respekt, Vertrauen und Hilfsbereitschaft geprägt. Auch bereichsübergreifend begegnet man sich (meistens) auf Augenhöhe. Engagement wird gesehen und anerkannt.",
+        "image": "Image hat in den letzten Jahren sehr gelitten. Mit dem neuen Förderer VIG und dem Fokus auf Kundenzufriedenheit wird aber hart an einer kontinuierlichen Weiterentwicklung gearbeitet.",
+        "workLife": "Flexible Arbeitszeiten und moderne Mobile-Work-Regelungen ermöglichen eine gute Vereinbarkeit von Beruf und Privatleben. Eigenverantwortliches Arbeiten wird aktiv unterstützt.",
+        "career": "Es gibt zahlreiche Möglichkeiten zur fachlichen und persönlichen Weiterentwicklung. Weiterbildung wird unterstützt und individuelle Karrierewege werden gefördert.",
+        "salary": "Vergütung und Sozialleistungen sind attraktiv und wettbewerbsfähig. Zusätzlich bietet das Unternehmen weitere Leistungen, die Mitarbeitende spürbar unterstützen.",
+        "environment": "Nachhaltigkeit und gesellschaftliche Verantwortung gewinnen sichtbar an Bedeutung. Das Unternehmen engagiert sich in verschiedenen sozialen und nachhaltigen Initiativen.",
+        "teamwork": "Der Zusammenhalt in unserem Bereich ist außergewöhnlich stark. Kolleginnen und Kollegen unterstützen sich gegenseitig auch in herausfordernden Situationen und arbeiten lösungsorientiert zusammen. Krisen meistern können wir!",
+        "oldColleagues": "Erfahrung wird geschätzt und aktiv eingebunden. Die Zusammenarbeit unterschiedlicher Generationen funktioniert sehr gut.",
+        "leadership": "Führung wird wertschätzend und professionell gelebt. Ziele sind klar, Feedback erfolgt konstruktiv und die persönliche Entwicklung der Mitarbeitenden wird gefördert.",
+        "workConditions": "Moderne Arbeitsplätze, gute technische Ausstattung und kontinuierliche Investitionen in digitale Arbeitsmittel schaffen ein professionelles Arbeitsumfeld.",
+        "communication": "Wichtige Entscheidungen und Entwicklungen werden transparent kommuniziert. Management informiert regelmäßig in fixen Formaten und schaffen Möglichkeiten für Austausch und Feedback.",
+        "equality": "Vielfalt und Chancengleichheit werden ernst genommen. Leistung und Kompetenz stehen im Vordergrund, unabhängig von Geschlecht, Alter oder persönlichem Hintergrund.",
+        "tasks": "Die Aufgaben sind abwechslungsreich und bieten die Möglichkeit, Verantwortung zu übernehmen. Besonders die laufenden Zukunfts- und Transformationsprojekte schaffen spannende Entwicklungsmöglichkeiten."
+      },
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "eb9e576f-38c4-495f-9a5a-5fe3e74c52c3",
+      "url": "https://www.kununu.com/de/nuernberger/bewertung/eb9e576f-38c4-495f-9a5a-5fe3e74c52c3",
+      "title": "Viele Entwicklungsmöglichkeiten und eine Kultur im positiven Wandel",
+      "content": "Wer Eigeninitiative zeigt, bekommt viele Chancen zur persönlichen und beruflichen Weiterentwicklung. Besonders schätze ich die Offenheit für Feedback sowie die positive Veränderung der Unternehmenskultur in den letzten Jahren.\n\nBegonnene Kultur- und Führungsinitiativen sollten konsequent weiterverfolgt und nachhaltig verankert werden. Besonders bei Führung sollte weiterhin darauf geachtet werden, Unterschiede in der Führungsqualität frühzeitig sichtbar zu machen und gezielt zu begleiten.\n\nDas Unternehmen investiert sichtbar in Kultur-, Feedback- und Führungsthemen. Meine Erfahrungen waren durchweg positiv und von Vertrauen sowie Wertschätzung geprägt.\n\nTrotz herausfordernder Jahre hat das Unternehmen offen kommuniziert und wichtige Veränderungen transparent begleitet. Die positive Weiterentwicklung ist deutlich erkennbar.\n\nFlexible Arbeitszeiten, Homeoffice-Möglichkeiten und Rücksicht auf persönliche Situationen ermöglichen eine sehr gute Vereinbarkeit von Beruf und Privatleben.\n\nDas Unternehmen bietet zahlreiche Weiterbildungs- und Entwicklungsmöglichkeiten. Mir wurde über die Jahre viel ermöglicht, sowohl durch interne Programme als auch durch individuelle Qualifizierungen.\n\nNeben einer fairen Vergütung bietet das Unternehmen zahlreiche Zusatzleistungen und Mitarbeitervorteile. Engagement und Eigeninitiative werden wahrgenommen und honoriert.\n\nNachhaltigkeits- und Umweltaspekte werden berücksichtigt und zunehmend stärker in den Fokus gerückt.\n\nIch habe überwiegend einen offenen und unterstützenden Umgang erlebt. Der Zusammenhalt kann je nach Team, Bereich und Arbeitsbelastung unterschiedlich ausgeprägt sein.\n\nErfahrung wird geschätzt und ältere Kolleginnen und Kollegen sind selbstverständlich Teil des Arbeitsalltags. Das Alter spielt aus meiner Sicht keine wesentliche Rolle.\n\nIch habe überwiegend sehr gute Erfahrungen mit Führungskräften gemacht. Wie in großen Unternehmen üblich, ist die Qualität der Führung jedoch auch von der jeweiligen Person abhängig.\n\nDie technische Ausstattung ist modern und die Arbeitsbedingungen insgesamt sehr gut. Aktuelle Umbau- und Modernisierungsmaßnahmen bringen zeitweise Einschränkungen mit sich.\n\nDurch regelmäßige Informationsformate wird Transparenz geschaffen und wichtige Entwicklungen nachvollziehbar erklärt. Wie gut Informationen weitergegeben werden, hängt zusätzlich von der jeweiligen Führungskraft ab.\n\nChancengleichheit wird gelebt. Auch Führungsaufgaben in Teilzeit und individuelle Karrierewege sind möglich.\n\nIch hatte in verschiedenen Rollen immer wieder die Möglichkeit, neue und abwechslungsreiche Aufgaben zu übernehmen. Wer aktiv mitgestaltet und seine Interessen einbringt, kann sein Aufgabenfeld oft selbst beeinflussen.",
+      "rating": 4.7,
+      "sections": {
+        "positive": "Wer Eigeninitiative zeigt, bekommt viele Chancen zur persönlichen und beruflichen Weiterentwicklung. Besonders schätze ich die Offenheit für Feedback sowie die positive Veränderung der Unternehmenskultur in den letzten Jahren.",
+        "negative": null,
+        "suggestion": "Begonnene Kultur- und Führungsinitiativen sollten konsequent weiterverfolgt und nachhaltig verankert werden. Besonders bei Führung sollte weiterhin darauf geachtet werden, Unterschiede in der Führungsqualität frühzeitig sichtbar zu machen und gezielt zu begleiten."
+      },
+      "factor_comments": {
+        "atmosphere": "Das Unternehmen investiert sichtbar in Kultur-, Feedback- und Führungsthemen. Meine Erfahrungen waren durchweg positiv und von Vertrauen sowie Wertschätzung geprägt.",
+        "image": "Trotz herausfordernder Jahre hat das Unternehmen offen kommuniziert und wichtige Veränderungen transparent begleitet. Die positive Weiterentwicklung ist deutlich erkennbar.",
+        "workLife": "Flexible Arbeitszeiten, Homeoffice-Möglichkeiten und Rücksicht auf persönliche Situationen ermöglichen eine sehr gute Vereinbarkeit von Beruf und Privatleben.",
+        "career": "Das Unternehmen bietet zahlreiche Weiterbildungs- und Entwicklungsmöglichkeiten. Mir wurde über die Jahre viel ermöglicht, sowohl durch interne Programme als auch durch individuelle Qualifizierungen.",
+        "salary": "Neben einer fairen Vergütung bietet das Unternehmen zahlreiche Zusatzleistungen und Mitarbeitervorteile. Engagement und Eigeninitiative werden wahrgenommen und honoriert.",
+        "environment": "Nachhaltigkeits- und Umweltaspekte werden berücksichtigt und zunehmend stärker in den Fokus gerückt.",
+        "teamwork": "Ich habe überwiegend einen offenen und unterstützenden Umgang erlebt. Der Zusammenhalt kann je nach Team, Bereich und Arbeitsbelastung unterschiedlich ausgeprägt sein.",
+        "oldColleagues": "Erfahrung wird geschätzt und ältere Kolleginnen und Kollegen sind selbstverständlich Teil des Arbeitsalltags. Das Alter spielt aus meiner Sicht keine wesentliche Rolle.",
+        "leadership": "Ich habe überwiegend sehr gute Erfahrungen mit Führungskräften gemacht. Wie in großen Unternehmen üblich, ist die Qualität der Führung jedoch auch von der jeweiligen Person abhängig.",
+        "workConditions": "Die technische Ausstattung ist modern und die Arbeitsbedingungen insgesamt sehr gut. Aktuelle Umbau- und Modernisierungsmaßnahmen bringen zeitweise Einschränkungen mit sich.",
+        "communication": "Durch regelmäßige Informationsformate wird Transparenz geschaffen und wichtige Entwicklungen nachvollziehbar erklärt. Wie gut Informationen weitergegeben werden, hängt zusätzlich von der jeweiligen Führungskraft ab.",
+        "equality": "Chancengleichheit wird gelebt. Auch Führungsaufgaben in Teilzeit und individuelle Karrierewege sind möglich.",
+        "tasks": "Ich hatte in verschiedenen Rollen immer wieder die Möglichkeit, neue und abwechslungsreiche Aufgaben zu übernehmen. Wer aktiv mitgestaltet und seine Interessen einbringt, kann sein Aufgabenfeld oft selbst beeinflussen."
+      },
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-10-16T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "deb98e52-7401-4df1-9356-7153fd92af89",
+      "url": "https://www.kununu.com/de/nuernberger/bewertung/deb98e52-7401-4df1-9356-7153fd92af89",
+      "title": "Weiter so!",
+      "content": "Tolle Kolleginnen und Kollegen und Wille Prävention in den Vordergrund zu heben",
+      "rating": 5.0,
+      "sections": {
+        "positive": "Tolle Kolleginnen und Kollegen und Wille Prävention in den Vordergrund zu heben",
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-09-25T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "e7545a4d-815a-4a7e-83a2-d72a6f0966b5",
+      "url": "https://www.kununu.com/de/nuernberger/bewertung/e7545a4d-815a-4a7e-83a2-d72a6f0966b5",
+      "title": "Trotz viel Veränderung ein top Arbeitgeber!",
+      "content": "Wir haben eine super Kantine; gute Anbindung an die Öffentlichen Verkehrsmittel, alternativ auch eine Tiefgarage für 4€ pro Tag (ist preislich gedeckelt), Sportgemeinschaft bei der die eigenen Mitarbeiter auch Kurse geben, unsere Barista Bar ist mittlerweile auch unverzichtbar! Ich arbeite immer noch sehr gerne bei der Nürnberger und werde das auch noch lange machen!\n\nEs ist viel passiert die letzten Jahre. Allerdings arbeite ich trotzdem immer noch sehr gerne für die NÜRNBERGER. Sowohl während der Ausbildung als auch danach habe ich immer Wertschätzung erhalten. Auch wenn wir viele Kollegen verloren haben, besteht immer noch ein großer Zusammenhalt untereinander\n\nÜberall Höhenverstellbare Schreibtisch & moderne Arbeitswelten. Platztechnisch wird es manchmal eng aufgrund der Verdichtung aber man findet immer einen Arbeitsplatz.",
+      "rating": 5.0,
+      "sections": {
+        "positive": "Wir haben eine super Kantine; gute Anbindung an die Öffentlichen Verkehrsmittel, alternativ auch eine Tiefgarage für 4€ pro Tag (ist preislich gedeckelt), Sportgemeinschaft bei der die eigenen Mitarbeiter auch Kurse geben, unsere Barista Bar ist mittlerweile auch unverzichtbar! Ich arbeite immer noch sehr gerne bei der Nürnberger und werde das auch noch lange machen!",
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Es ist viel passiert die letzten Jahre. Allerdings arbeite ich trotzdem immer noch sehr gerne für die NÜRNBERGER. Sowohl während der Ausbildung als auch danach habe ich immer Wertschätzung erhalten. Auch wenn wir viele Kollegen verloren haben, besteht immer noch ein großer Zusammenhalt untereinander",
+        "workConditions": "Überall Höhenverstellbare Schreibtisch & moderne Arbeitswelten. Platztechnisch wird es manchmal eng aufgrund der Verdichtung aber man findet immer einen Arbeitsplatz."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-09-23T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "8d0e30ab-22d9-4005-a2fe-62e5ecb0edc0",
+      "url": "https://www.kununu.com/de/nuernberger/bewertung/8d0e30ab-22d9-4005-a2fe-62e5ecb0edc0",
+      "title": "Leider kein guter Arbeitgeber mehr",
+      "content": "Da fällt mir leider nichts mehr ein, denn alles Gute, wird durch etwas schlechtes wieder weg gemacht. Wie Home Office oder das Gesundheitsprogramm\n\nAlles was ich oben schon genannt habe.\n\nVielleicht sollte man sich mal wieder auf die Menschen hinter den PP Punkten konzentrierten. Wir sind alle keine Maschinen. Das menschliche ist leider schon sehr lange verschwundenQll3s was ich oben\n\nEs ist überall schlechte Stimmung. Die Leistungsvirgab3n und die dadurch entstandene Überlastung und Erschöpfung sind sehr groß\n\nWird versucht hoch zu halten\n\nIst zwar da, aber man hat keine Zeit daran teilzunehmen oder man ist nach der Arbeit so erschöoft, dass man keine Kraft mehr hat noch teilzunehmen. Außerdem was nützt das alles, wenn die Arbeitslast und das schlechte Klima alles wieder weg macht.\n\nNur mit Vitamin B\n\nDa tut sich schon seit ewigkeiten nichts mehr. Man wird für eine Stelle angelockt, mit einem bestimmten Gehalt, dann heißt es, erstmal einarbeiten und dann sehen wir. Daraus wird dann nie was. Im Endeffekt wird immer mehr von einem verlangt, aber immer weniger bezahlt.\n\nDurch die starke Belastung wird auch der Ton untereinander rauer.\n\nDie sollten am besten alle raus. Es wird auch keine Rücksicht darauf genommen, dass man älter ist und deshalb vielleicht nicht mehr alles so schnell machen kann, wie ein 20 jähriger. Das die Augen nachlassen, man Rücken oder andere Probleme hat, oder vielleicht auch mit der vielen Technik, den ganzen englischen Ausdrücken nicht so schnell und so leicht mehr zurecht kommt, interessiert keinen. Ganz im Gegenteil. Du bekommst noch zusätzlich Druck.\n\nEs wird nur Druck gemacht. Braucht man aber Hilfe bei IT Problemen oder sonstigen wird immer nur auf agiles Arbeiten verwiesen. Man steht also für alles alleine da.\n\nKatastrophe. Im Sommer total heiß. Die Zimmer vielleicht zu groß um konzentriert arbeiten zu können. Die 60/40 Regel auf die Minute genau, ist ein zusätzliches Hindernis. Man denkt, ich spare mir ja den Fahrweg zur Arbeit oder nach Hause, dafür mache dann eine Stunde länger im Home Office. Schon hast du am nächsten Tag eine Stunde mehr, die du im Büro nachsitzen musst.\n\nAlles auf das nötigste beschränkt\n\nÜberhaupt nicht vorhanden\n\nGibt es nicht",
+      "rating": 1.6,
+      "sections": {
+        "positive": "Da fällt mir leider nichts mehr ein, denn alles Gute, wird durch etwas schlechtes wieder weg gemacht. Wie Home Office oder das Gesundheitsprogramm",
+        "negative": "Alles was ich oben schon genannt habe.",
+        "suggestion": "Vielleicht sollte man sich mal wieder auf die Menschen hinter den PP Punkten konzentrierten. Wir sind alle keine Maschinen. Das menschliche ist leider schon sehr lange verschwundenQll3s was ich oben"
+      },
+      "factor_comments": {
+        "atmosphere": "Es ist überall schlechte Stimmung. Die Leistungsvirgab3n und die dadurch entstandene Überlastung und Erschöpfung sind sehr groß",
+        "image": "Wird versucht hoch zu halten",
+        "workLife": "Ist zwar da, aber man hat keine Zeit daran teilzunehmen oder man ist nach der Arbeit so erschöoft, dass man keine Kraft mehr hat noch teilzunehmen. Außerdem was nützt das alles, wenn die Arbeitslast und das schlechte Klima alles wieder weg macht.",
+        "career": "Nur mit Vitamin B",
+        "salary": "Da tut sich schon seit ewigkeiten nichts mehr. Man wird für eine Stelle angelockt, mit einem bestimmten Gehalt, dann heißt es, erstmal einarbeiten und dann sehen wir. Daraus wird dann nie was. Im Endeffekt wird immer mehr von einem verlangt, aber immer weniger bezahlt.",
+        "teamwork": "Durch die starke Belastung wird auch der Ton untereinander rauer.",
+        "oldColleagues": "Die sollten am besten alle raus. Es wird auch keine Rücksicht darauf genommen, dass man älter ist und deshalb vielleicht nicht mehr alles so schnell machen kann, wie ein 20 jähriger. Das die Augen nachlassen, man Rücken oder andere Probleme hat, oder vielleicht auch mit der vielen Technik, den ganzen englischen Ausdrücken nicht so schnell und so leicht mehr zurecht kommt, interessiert keinen. Ganz im Gegenteil. Du bekommst noch zusätzlich Druck.",
+        "leadership": "Es wird nur Druck gemacht. Braucht man aber Hilfe bei IT Problemen oder sonstigen wird immer nur auf agiles Arbeiten verwiesen. Man steht also für alles alleine da.",
+        "workConditions": "Katastrophe. Im Sommer total heiß. Die Zimmer vielleicht zu groß um konzentriert arbeiten zu können. Die 60/40 Regel auf die Minute genau, ist ein zusätzliches Hindernis. Man denkt, ich spare mir ja den Fahrweg zur Arbeit oder nach Hause, dafür mache dann eine Stunde länger im Home Office. Schon hast du am nächsten Tag eine Stunde mehr, die du im Büro nachsitzen musst.",
+        "communication": "Alles auf das nötigste beschränkt",
+        "equality": "Überhaupt nicht vorhanden",
+        "tasks": "Gibt es nicht"
+      },
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-08-22T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    }
+  ],
+  "review_limit": 15,
+  "review_period": {
+    "since": "2024-11-25T00:00:00+00:00",
+    "until": "2026-11-25T17:16:11.291624+00:00",
+    "date_field": "published_at",
+    "missing_dates": "excluded"
+  },
+  "factor_scores_aggregated": {
+    "atmosphere": {
+      "mean": 4.0,
+      "count": 11
+    },
+    "workLife": {
+      "mean": 4.36,
+      "count": 11
+    },
+    "communication": {
+      "mean": 4.0,
+      "count": 11
+    },
+    "workConditions": {
+      "mean": 4.27,
+      "count": 11
+    },
+    "leadership": {
+      "mean": 3.82,
+      "count": 11
+    },
+    "teamwork": {
+      "mean": 4.64,
+      "count": 11
+    },
+    "oldColleagues": {
+      "mean": 4.73,
+      "count": 11
+    },
+    "equality": {
+      "mean": 4.18,
+      "count": 11
+    },
+    "career": {
+      "mean": 3.91,
+      "count": 11
+    },
+    "salary": {
+      "mean": 4.09,
+      "count": 11
+    },
+    "image": {
+      "mean": 3.45,
+      "count": 11
+    },
+    "environment": {
+      "mean": 4.0,
+      "count": 11
+    },
+    "tasks": {
+      "mean": 4.0,
+      "count": 11
+    }
+  },
+  "coverage": "bounded_employee_review_sample_last_2_years_not_all_reviews",
+  "diagnostics": {
+    "pages": [
+      {
+        "page": "reviews",
+        "page_number": 1,
+        "load_more_clicks": 0,
+        "requested_url": "https://www.kununu.com/de/nuernberger/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\N-RNBERGER-Versicherungsgruppe-4237d53f\\browser\\reviews.html",
+        "browser_step": 82,
+        "final_url": "https://www.kununu.com/de/nuernberger/kommentare",
+        "observed_at": "2026-11-25T17:16:12.843950+00:00",
+        "http_status": 200,
+        "factor_cards_expanded": 3,
+        "reviews_collected": 9
+      },
+      {
+        "page": "reviews",
+        "page_number": 2,
+        "load_more_clicks": 1,
+        "requested_url": "https://www.kununu.com/de/nuernberger/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\N-RNBERGER-Versicherungsgruppe-4237d53f\\browser\\reviews-2.html",
+        "browser_step": 83,
+        "final_url": "https://www.kununu.com/de/nuernberger/kommentare",
+        "observed_at": "2026-11-25T17:16:14.446446+00:00",
+        "actions_complete": true,
+        "factor_cards_expanded": 2,
+        "reviews_collected": 15
+      }
+    ]
+  },
+  "source_url": "https://www.kununu.com/de/nuernberger",
+  "profile_source": "https://www.kununu.com/de/nuernberger/kommentare",
+  "review_stop_reason": "sample_limit_reached",
+  "factor_score_coverage": {
+    "reviews_with_scores": 11,
+    "reviews_without_scores": 4,
+    "reviews_with_all_known_scores": 11,
+    "status": "partial"
+  },
+  "request_limits": {
+    "max_browser_steps": 295,
+    "browser_steps": 83,
+    "zyte_requests": 0
+  },
+  "reason": null
+}

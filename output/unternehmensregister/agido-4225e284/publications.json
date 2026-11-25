@@ -1,0 +1,88 @@
+{
+  "company": {
+    "key": "agido",
+    "name": "agido GmbH",
+    "location": "Dortmund",
+    "name_source": "company_name",
+    "urls": [
+      "https://www.agido.com/"
+    ],
+    "kununu_url": "https://www.kununu.com/de/agido",
+    "branches": [
+      "IT & Telekommunikation"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "44263",
+    "street": "Hörder Hafenstraße 11",
+    "region": "Nordrhein-Westfalen",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:49:24.779743+00:00",
+  "searches": [
+    {
+      "accounting_only": true,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=agido+GmbH&companyLocation=Dortmund&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ACCOUNTING&drilldownFilter=22&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": false
+    },
+    {
+      "accounting_only": false,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=agido+GmbH&companyLocation=Dortmund&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ALL_AREAS&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": false
+    }
+  ],
+  "excluded_company_matches": [],
+  "date_from": "2024-01-01",
+  "date_to": "2026-11-25",
+  "excluded_dates": [],
+  "max_publications": 30,
+  "truncated": false,
+  "coverage": {
+    "search_complete": true,
+    "more_pages": false,
+    "publication_limit_reached": false,
+    "downloads_selected": 3,
+    "downloads_succeeded": 3,
+    "download_limit_reached": false,
+    "downloads_complete": true,
+    "text_complete": true
+  },
+  "publications": [
+    {
+      "company": "agido GmbH, Dortmund",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-07-08",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=g6YQPq0vj8-kQLQhqVzhxvNZ4jD8hgbzgalWPs4PFCHxlzvk1YpXUtvUOfNy9-F03e6faLgCF-ooyn6dy3KboNWTX4hQMApQFUJgSwIJ_ox8ZzI_WCi_Cv7lWBVZbsuiNACpir-BaqU5FTkfk9PCK6orU--MnrCV11lXSNqS_zdWBlyfalgAWoa2dypFe6B-aAHmif65msgQV2_2I2jtgiUHkvOUThwQN66kW5KxM_6Xl4-4",
+      "metadata": "agido GmbH, Dortmund Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 08.07.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 1
+    },
+    {
+      "company": "agido GmbH, Dortmund",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-04-25",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=-Nj3tCIax7mI4SmO9w74DRuK32ZsL_MI5tA6Y4YoHY9yluNUei8jissCNhHyGTXN4KS7dwPdz4uwBeKlTMivb8jZL1bJpbN9gJhG1qq1usgkTM1jQLjw9qG1cD8sMrfZu2aPyW-VAVoJA6UlrxJn16zpzm7gdhj0lhK4MKtG19V1S497Sa97wDsLxUrpBV6dZXskImptvh3qnInEhjPTY5u3F8qXwjpHrkO7x9ox1FidbHus",
+      "metadata": "agido GmbH, Dortmund Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 25.04.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 2
+    },
+    {
+      "company": "agido GmbH, Dortmund",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-04-26",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=1Ywrou-5buFt_zCIxXGYGPkPn8Z-zQV-fw6FUuRXfMkEZR62usmXzFNM7mWyt8Kl5IxwObMKszeVOaGfmUVnpnWx-AH0tEZ49Iz2D2fy6hDkSeM-4Rck572mkC0qx1GfWvVyp_owqlISxlM8tSj6txK8ZeZ3HB8_vCHn6Txog6X-SuewtJjvLt22XLkSu8S8mXxiKC7ZCeOxwhHDKUrn4jhPU7MJ-Z0gJLQQZ6blwrjCFwQ_",
+      "metadata": "agido GmbH, Dortmund Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 26.04.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 3
+    }
+  ]
+}

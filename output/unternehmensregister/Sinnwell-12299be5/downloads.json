@@ -1,0 +1,56 @@
+[
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=4vdsFKdIqgH9oo2PGOByE8OxsrNFXJSWuZjFH5Qz3gXTR0LyOS7sDOHYs7p_mAubk_-4JL_X_Nc_-hLS4L-zGgw-42vbKcpBI2qkiPpKFO8T4qDhbz4sOCBuewjS3xwat90h_TBqimq-szWM7w2WSf1QOCosEh2GQbRS9wTJF0B7Km8XtxO4Fh90sV_JSlleRWZ_OVNKTOuBENOYAPErJhsbHctqwmbUwWsMn9x1DuFZk_rV",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Sinnwell-12299be5\\bekanntmachungen\\publication-1\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Sinnwell-12299be5\\bekanntmachungen\\publication-1\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Sinnwell-12299be5\\bekanntmachungen\\publication-1\\publication.txt",
+    "index": 1,
+    "category": "bekanntmachungen",
+    "company": "Sinnwell GmbH, München",
+    "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+    "documents_path": "output\\unternehmensregister\\Sinnwell-12299be5\\bekanntmachungen\\publication-1\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=QuQfrUYhR84FKjs4JCJu6Vtkq0RQgj0iKIC1rxibztuliTe9xVRRGxeIz3OrlOjJeGiDe0EN32KR0FnLAUL9T8kZ1V6YVzcqfYI0Nl0yFFrhUc9dflWZ-to8j8F4lAJcpoRvSPaJ3ObXn4E0w2FHB9cazreRJXSFXNzS-5u7sgtyjWN8mYmsBvoCFnu7UQYa9n7x7i2o41STbH089HkZcpnTuZURXHDC-cU8df7QMkeYLNsU",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Sinnwell-12299be5\\bekanntmachungen\\publication-2\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Sinnwell-12299be5\\bekanntmachungen\\publication-2\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Sinnwell-12299be5\\bekanntmachungen\\publication-2\\publication.txt",
+    "index": 2,
+    "category": "bekanntmachungen",
+    "company": "Sinnwell GmbH, München",
+    "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+    "documents_path": "output\\unternehmensregister\\Sinnwell-12299be5\\bekanntmachungen\\publication-2\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=cV1rS0_CPAeb6MDodm5ZFWUnVHiApKg5ZMdB2gRXLrx_rl2ktaS9mV7Vitj0MTnWj6GFJ4A9l6D51g3NiB72ijBaf08b8wzHHC72MPAHmnt3zrOoZPHbOfHGkqRFl-SGtkm6P3pxpk7i1ru5PskSCDJeJtQ7-kPlwl6z5MgUm_aHawvod0nU4E058-Q3vGdVxYg32EbNw0B8wrXlLI9vySgSC07Tc8ezcKRB0-kDdqxxlISQ",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Sinnwell-12299be5\\bekanntmachungen\\publication-3\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Sinnwell-12299be5\\bekanntmachungen\\publication-3\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Sinnwell-12299be5\\bekanntmachungen\\publication-3\\publication.txt",
+    "index": 3,
+    "category": "bekanntmachungen",
+    "company": "Sinnwell GmbH, München",
+    "title": "Registerbekanntmachung nach dem Umwandlungsgesetz",
+    "documents_path": "output\\unternehmensregister\\Sinnwell-12299be5\\bekanntmachungen\\publication-3\\documents.json"
+  }
+]

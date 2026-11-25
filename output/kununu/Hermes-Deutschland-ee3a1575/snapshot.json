@@ -1,0 +1,756 @@
+{
+  "provider": "kununu",
+  "backend": "browser",
+  "status": "ok",
+  "query": "Hermes Germany GmbH",
+  "profile": {
+    "url": "https://www.kununu.com/de/hermesgermany",
+    "name": "Hermes Germany GmbH",
+    "overall_score": 3.3,
+    "review_count": 754,
+    "recommendation_percent": 52,
+    "recommendation_period": "last_2_years",
+    "observed_at": "2026-11-25T17:16:49.042420+00:00"
+  },
+  "reviews": [
+    {
+      "id": "8fdf1583-11b3-4963-849e-0f9682dc3b10",
+      "url": "https://www.kununu.com/de/hermesgermany/bewertung/8fdf1583-11b3-4963-849e-0f9682dc3b10",
+      "title": "Sehr solider Arbeitgeber - viel besser als sein Ruf",
+      "content": "Ok\n\nSchlechter als verdient\n\nTop\n\nAusbaufähig\n\nIntransparent\n\nBemüht\n\n1A\n\nOk\n\nGemischt\n\nPasst\n\nGemischt\n\nAusbaufähig\n\nPasst",
+      "rating": 3.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Ok",
+        "image": "Schlechter als verdient",
+        "workLife": "Top",
+        "career": "Ausbaufähig",
+        "salary": "Intransparent",
+        "environment": "Bemüht",
+        "teamwork": "1A",
+        "oldColleagues": "Ok",
+        "leadership": "Gemischt",
+        "workConditions": "Passt",
+        "communication": "Gemischt",
+        "equality": "Ausbaufähig",
+        "tasks": "Passt"
+      },
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 5.0,
+        "communication": 4.0,
+        "workConditions": 4.0,
+        "leadership": 4.0,
+        "teamwork": 5.0,
+        "oldColleagues": 4.0,
+        "equality": 3.0,
+        "career": 3.0,
+        "salary": 3.0,
+        "image": 3.0,
+        "environment": 4.0,
+        "tasks": 4.0
+      },
+      "published_at": "2026-11-07T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "d77b01d2-68c8-4e63-bcd6-14ce318b2ea7",
+      "url": "https://www.kununu.com/de/hermesgermany/bewertung/d77b01d2-68c8-4e63-bcd6-14ce318b2ea7",
+      "title": "I have never seen such skulduggery, incompetence and sheer lack of communication and basic logistics knowledge in my ent",
+      "content": "Nothing to like..\n\nI don't know from what place this Hermes sources its Warehouse managers.\nI have never seen such skulduggery, incompetence and sheer lack of communication and basic logistics knowledge in my entire life..\nI would like to know how they got through basic screening and compliance checks because there is 100% something wrong with there behavior. this is not normal.\n\nA simple implementation to allow workers to rate the warehouse manager is bound to save them alot of money in internal upgr",
+      "rating": 1.0,
+      "sections": {
+        "positive": "Nothing to like..",
+        "negative": "I don't know from what place this Hermes sources its Warehouse managers.\nI have never seen such skulduggery, incompetence and sheer lack of communication and basic logistics knowledge in my entire life..\nI would like to know how they got through basic screening and compliance checks because there is 100% something wrong with there behavior. this is not normal.",
+        "suggestion": "A simple implementation to allow workers to rate the warehouse manager is bound to save them alot of money in internal upgr"
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 1.0,
+        "workLife": 1.0,
+        "communication": 1.0,
+        "workConditions": 1.0,
+        "leadership": 1.0,
+        "teamwork": 1.0,
+        "oldColleagues": 1.0,
+        "equality": 1.0,
+        "career": 1.0,
+        "salary": 1.0,
+        "image": 1.0,
+        "environment": 1.0,
+        "tasks": 1.0
+      },
+      "published_at": "2026-11-06T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "44b69dc6-5146-4cb3-9c03-26f67199cdd9",
+      "url": "https://www.kununu.com/de/hermesgermany/bewertung/44b69dc6-5146-4cb3-9c03-26f67199cdd9",
+      "title": "Schlechter Arbeitgeber in ketzin !",
+      "content": "- Gehalt\n- Führungskräfte\n- Arbeitsbedingungen\n- Umgang mit Mitarbeiterk\n\nMehr mit Mitarbeitern kommunizieren\n\nDie Arbeitsatmosphäre ist sehr schlecht. Gruppenleiter sagen nicht mal guten Morgen. Herzkranke dürfen Stapler fahren, ausgebildete müssen ans Band. Es ist ein Graus. Man fährt jeden Tag mit Bauchschmerzen hin\n\n3 - Schicht - System\n\nDas Kernteam hält zusammen\n\nToiletten Gänge werden untersagt, man muss zu Gesprächen, wenn man nach der Pause kurz auf Toilette war und dann wird einem die Pause in den nächsten Tagen verweigert\n\nVorgesetzte sind keine Vorgesetzten. Viele sind von oben herab und beleidigen die Mitarbeiter. Persönliche und private Differenzen werden auf Arbeit ausgetragen und Mitarbeiter werden gemobbt ! Es wird mit Kündigung gedroht. Andere werden gekündigt, dann fragen Mitarbeiter besorgt nach, ob sie auch gekündigt werden und es heißt „na jetzt noch nicht“\n\nSchlecht ! Kalte Halle, laute Umgebung\n\nDurch die hohe Sprachbarriere kann man nicht mehr kommunizieren",
+      "rating": 1.4,
+      "sections": {
+        "positive": null,
+        "negative": "- Gehalt\n- Führungskräfte\n- Arbeitsbedingungen\n- Umgang mit Mitarbeiterk",
+        "suggestion": "Mehr mit Mitarbeitern kommunizieren"
+      },
+      "factor_comments": {
+        "atmosphere": "Die Arbeitsatmosphäre ist sehr schlecht. Gruppenleiter sagen nicht mal guten Morgen. Herzkranke dürfen Stapler fahren, ausgebildete müssen ans Band. Es ist ein Graus. Man fährt jeden Tag mit Bauchschmerzen hin",
+        "workLife": "3 - Schicht - System",
+        "teamwork": "Das Kernteam hält zusammen",
+        "oldColleagues": "Toiletten Gänge werden untersagt, man muss zu Gesprächen, wenn man nach der Pause kurz auf Toilette war und dann wird einem die Pause in den nächsten Tagen verweigert",
+        "leadership": "Vorgesetzte sind keine Vorgesetzten. Viele sind von oben herab und beleidigen die Mitarbeiter. Persönliche und private Differenzen werden auf Arbeit ausgetragen und Mitarbeiter werden gemobbt ! Es wird mit Kündigung gedroht. Andere werden gekündigt, dann fragen Mitarbeiter besorgt nach, ob sie auch gekündigt werden und es heißt „na jetzt noch nicht“",
+        "workConditions": "Schlecht ! Kalte Halle, laute Umgebung",
+        "communication": "Durch die hohe Sprachbarriere kann man nicht mehr kommunizieren"
+      },
+      "factor_scores": {
+        "atmosphere": 1.0,
+        "workLife": 3.0,
+        "communication": 1.0,
+        "workConditions": 1.0,
+        "leadership": 1.0,
+        "teamwork": 3.0,
+        "oldColleagues": 1.0,
+        "equality": 1.0,
+        "career": 1.0,
+        "salary": 2.0,
+        "image": 1.0,
+        "environment": 1.0,
+        "tasks": 1.0
+      },
+      "published_at": "2026-11-06T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "a05d6cf6-7619-41e8-964a-efd1ed1cdd27",
+      "url": "https://www.kununu.com/de/hermesgermany/bewertung/a05d6cf6-7619-41e8-964a-efd1ed1cdd27",
+      "title": "Dringender Erneuerungsbedarf: weniger Steuerungskreise, mehr wirksame Führung und nachhaltige Mitarbeiterentwicklung",
+      "content": "Als ehemalige Führungskraft im mittleren Management bei Hermes Germany in Hamburg habe ich die zunehmenden Umstrukturierungsmaßnahmen der letzten Jahre aus nächster Nähe erlebt. Angesichts eines herausfordernden Marktes und rückläufiger Geschäftsergebnisse sind Veränderungen grundsätzlich notwendig. Entscheidend ist jedoch, wie sie vorbereitet, kommuniziert und umgesetzt werden.\nAus meiner Sicht fehlte es in mehreren Bereichen an einer nachhaltigen Strategie. Viele Maßnahmen wirkten eher reaktiv und aktionistisch als langfristig geplant. Gleichzeitig entstanden zusätzliche Steuerungs- und Priorisierungsgremien. Diese führten aus meiner Sicht nicht zu spürbar mehr Effizienz oder klareren Entscheidungen, sondern zu mehr Formalismus und längeren Abstimmungswegen. Starke Organisationen brauchen meiner Erfahrung nach vor allem klare Verantwortlichkeiten, verbindliche Entscheidungen und sichtbare Führung – nicht weitere Koordinationsrunden.\nBesonders bedauerlich ist der Verlust erfahrener Mitarbeitender mit wertvollem Unternehmens- und Prozesswissen. Dieses Know-how war über viele Jahre ein wesentlicher Erfolgsfaktor. Ich würde mir wünschen, dass Potenziale frühzeitig erkannt, gezielt entwickelt und langfristig gehalten werden – statt erst dann zu reagieren, wenn Kompetenzen bereits verloren gegangen sind.\nDie Zusammenarbeit zwischen verschiedenen Geschäftsbereichen hat in der Vergangenheit vielfach konkreten Mehrwert geschaffen. Dass etablierte, ergebnisorientierte Zusammenarbeiten im Zuge der Neuausstellung reduziert oder aufgegeben wurden, halte ich rückblickend für einen vermeidbaren Nachteil. Eine Orientierung an Wettbewerbsstrukturen kann Impulse geben, sollte aber nicht unkritisch kopiert werden. Wichtiger sind eine klare eigene Strategie, gelebte Querschnittszusammenarbeit und Entscheidungen, die tatsächlich zur wirtschaftlichen Stabilisierung beitragen.\nMein zentraler Verbesserungsvorschlag: Der Erneuerungsprozess muss konsequent auch bei Führung und Verantwortungsstrukturen ansetzen. Es braucht eine ehrliche Analyse, welche Entscheidungen der vergangenen Jahre funktioniert haben und welche nicht – sowie die Bereitschaft, daraus Konsequenzen zu ziehen. Neue Ideen sind vorhanden; entscheidend ist, sie strukturiert umzusetzen und Führungskräfte stärker für Ergebnisse, Teamentwicklung und nachhaltige Entscheidungen verantwortlich zu machen.\nDer Markt ist anspruchsvoll, aber bewältigbar. Mit klarerer Führung, weniger Bürokratie, verlässlicher Mitarbeiterentwicklung und einem strategisch statt reaktiv geprägten Change-Prozess könnte Hermes sich meiner Einschätzung nach deutlich besser im Wettbewerb aufstellen\n\n....habe ich früher als gut erlebt. In den letzten Jahren meiner Tätigkeit hat sie sich aus meiner Sicht spürbar verschlechtert.\n\n.... das öffentliche Image wird den vorhandenen Stärken des Unternehmens aus meiner Sicht nicht vollständig gerecht.\n\nHomeoffice und flexible Arbeitszeiten waren in meinem Tätigkeitsbereich grundsätzlich möglich, soweit die Aufgaben dies zuließen.\n\n....in den letzten Jahren habe ich die Möglichkeiten zur beruflichen Weiterentwicklung und Weiterbildung in meinem Bereich als stark eingeschränkt erlebt.\n\n...hatten in meinem Arbeitsumfeld immer einen hohen Stellenwert.\n\nein wirkliches Asset für die Firma\n\nDas Führungsverhalten habe ich nicht immer als \"ehrlich\" erlebt. Bei Führungsqualität und Nachvollziehbarkeit von Entscheidungen sehe ich deutlichen Verbesserungsbedarf.\n\n...die interne Kommunikation habe ich in den letzten Jahren meiner Tätigkeit als zunehmend unzureichend erlebt.\n\n...ist unter Berücksichtigung des Leistungsprinzips aus meiner Sicht voll und ganz gegegeben.\n\nGegen Ende meiner Tätigkeit habe ich die Aufgaben als weniger interessant erlebt als in den Jahren zuvor.",
+      "rating": 2.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": "Als ehemalige Führungskraft im mittleren Management bei Hermes Germany in Hamburg habe ich die zunehmenden Umstrukturierungsmaßnahmen der letzten Jahre aus nächster Nähe erlebt. Angesichts eines herausfordernden Marktes und rückläufiger Geschäftsergebnisse sind Veränderungen grundsätzlich notwendig. Entscheidend ist jedoch, wie sie vorbereitet, kommuniziert und umgesetzt werden.\nAus meiner Sicht fehlte es in mehreren Bereichen an einer nachhaltigen Strategie. Viele Maßnahmen wirkten eher reaktiv und aktionistisch als langfristig geplant. Gleichzeitig entstanden zusätzliche Steuerungs- und Priorisierungsgremien. Diese führten aus meiner Sicht nicht zu spürbar mehr Effizienz oder klareren Entscheidungen, sondern zu mehr Formalismus und längeren Abstimmungswegen. Starke Organisationen brauchen meiner Erfahrung nach vor allem klare Verantwortlichkeiten, verbindliche Entscheidungen und sichtbare Führung – nicht weitere Koordinationsrunden.\nBesonders bedauerlich ist der Verlust erfahrener Mitarbeitender mit wertvollem Unternehmens- und Prozesswissen. Dieses Know-how war über viele Jahre ein wesentlicher Erfolgsfaktor. Ich würde mir wünschen, dass Potenziale frühzeitig erkannt, gezielt entwickelt und langfristig gehalten werden – statt erst dann zu reagieren, wenn Kompetenzen bereits verloren gegangen sind.\nDie Zusammenarbeit zwischen verschiedenen Geschäftsbereichen hat in der Vergangenheit vielfach konkreten Mehrwert geschaffen. Dass etablierte, ergebnisorientierte Zusammenarbeiten im Zuge der Neuausstellung reduziert oder aufgegeben wurden, halte ich rückblickend für einen vermeidbaren Nachteil. Eine Orientierung an Wettbewerbsstrukturen kann Impulse geben, sollte aber nicht unkritisch kopiert werden. Wichtiger sind eine klare eigene Strategie, gelebte Querschnittszusammenarbeit und Entscheidungen, die tatsächlich zur wirtschaftlichen Stabilisierung beitragen.\nMein zentraler Verbesserungsvorschlag: Der Erneuerungsprozess muss konsequent auch bei Führung und Verantwortungsstrukturen ansetzen. Es braucht eine ehrliche Analyse, welche Entscheidungen der vergangenen Jahre funktioniert haben und welche nicht – sowie die Bereitschaft, daraus Konsequenzen zu ziehen. Neue Ideen sind vorhanden; entscheidend ist, sie strukturiert umzusetzen und Führungskräfte stärker für Ergebnisse, Teamentwicklung und nachhaltige Entscheidungen verantwortlich zu machen.\nDer Markt ist anspruchsvoll, aber bewältigbar. Mit klarerer Führung, weniger Bürokratie, verlässlicher Mitarbeiterentwicklung und einem strategisch statt reaktiv geprägten Change-Prozess könnte Hermes sich meiner Einschätzung nach deutlich besser im Wettbewerb aufstellen"
+      },
+      "factor_comments": {
+        "atmosphere": "....habe ich früher als gut erlebt. In den letzten Jahren meiner Tätigkeit hat sie sich aus meiner Sicht spürbar verschlechtert.",
+        "image": ".... das öffentliche Image wird den vorhandenen Stärken des Unternehmens aus meiner Sicht nicht vollständig gerecht.",
+        "workLife": "Homeoffice und flexible Arbeitszeiten waren in meinem Tätigkeitsbereich grundsätzlich möglich, soweit die Aufgaben dies zuließen.",
+        "career": "....in den letzten Jahren habe ich die Möglichkeiten zur beruflichen Weiterentwicklung und Weiterbildung in meinem Bereich als stark eingeschränkt erlebt.",
+        "environment": "...hatten in meinem Arbeitsumfeld immer einen hohen Stellenwert.",
+        "teamwork": "ein wirkliches Asset für die Firma",
+        "leadership": "Das Führungsverhalten habe ich nicht immer als \"ehrlich\" erlebt. Bei Führungsqualität und Nachvollziehbarkeit von Entscheidungen sehe ich deutlichen Verbesserungsbedarf.",
+        "communication": "...die interne Kommunikation habe ich in den letzten Jahren meiner Tätigkeit als zunehmend unzureichend erlebt.",
+        "equality": "...ist unter Berücksichtigung des Leistungsprinzips aus meiner Sicht voll und ganz gegegeben.",
+        "tasks": "Gegen Ende meiner Tätigkeit habe ich die Aufgaben als weniger interessant erlebt als in den Jahren zuvor."
+      },
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 3.0,
+        "communication": 2.0,
+        "workConditions": 2.0,
+        "leadership": 1.0,
+        "teamwork": 5.0,
+        "oldColleagues": 4.0,
+        "equality": 5.0,
+        "career": 1.0,
+        "salary": 3.0,
+        "image": 2.0,
+        "environment": 4.0,
+        "tasks": 2.0
+      },
+      "published_at": "2026-10-29T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "bae3d821-711f-4358-8103-a20dd8fdde04",
+      "url": "https://www.kununu.com/de/hermesgermany/bewertung/bae3d821-711f-4358-8103-a20dd8fdde04",
+      "title": "Entwicklung in die völlig falsche Richtung! Man nimmt sie einfach nicht mehr ernst.",
+      "content": "Die Führungskräfte mit Verantwortung für die Depot-Organisation sollten wieder verstärkt vor Ort im Büro und Betrieb präsent sein, um den direkten Dialog mit den Lagermitarbeitern auf Augenhöhe zu suchen. Zudem ist es wichtig, bestehende Vetternwirtschaft aufzubrechen und Aufstiegsprozesse zu schaffen. Nur so erhalten auch andere engagierte Mitarbeiter die Chance, neue Impulse einzubringen.\n\nDas Arbeitsklima entwickelt sich nicht in die richtige Richtung. Die Schichten sind komplett auf sich allein gestellt, während die Verantwortlichen ständig im Homeoffice sind. Wenn man Informationen oder Hilfe braucht, wartet man teilweise 1 bis 3 Tage darauf.\n\nDie aktuelle Schichtplanung sehe ich sehr kritisch. Es fehlen klare, reguläre Schichtzeiten – stattdessen liegen die Arbeitszeiten häufig überschneidend zwischen zwei regulären Schichten. Das führt zu unergonomischen Einsatzzeiten und erschwert die Abläufe.\nZusätzlich kommt es auf Anweisung der Standortleitung immer wieder zu kurzfristigen Vorverlegungen der Arbeitszeiten, ohne dass die betroffenen Mitarbeiter hierbei ein Mitspracherecht haben.\n\nGefühlt gibt es kaum Aufstiegschancen oder eine Chance, wahrgenommen zu werden. Wer soll einen auch sehen, wenn alle nur im Homeoffice sitzen?! Ganz zu schweigen von der starken Vetternwirtschaft, die anscheinend ganz von oben – sogar vom Area Manager – ausgeht. Befördert werden nur Leute, die wie auch immer miteinander verwandt oder verschwägert sind.\n\nEs gibt einige, die kaum benutzt sind.\n\nKeinem ist irgendetwas wichtig. Es gibt nicht einmal eine Mülltrennung.\n\nWir versuchen als Team eng zusammenzuhalten – schließlich ist das alles, was wir haben, wenn mann versteht, was ich meine. Leider gibt es seit Jahren keinerlei organisierte Veranstaltungen mehr, die den Zusammenhalt noch weiter stärken könnten.\n\nInsgesamt eigentlich gut. Aber alle sind so unmotiviert und demoralisiert, dass die Erfahrung kaum noch von Alt auf Jung weitergegeben wird.\n\nGleich Null. Sie sind nicht nur praktisch nicht vorhanden – wenn man nicht zu ihrem engeren Kreis gehört, wird man von ihnen nicht einmal wahrgenommen!\n\nAkzeptabel.\n\nWie schon erwähnt, ist die Kommunikation mittlerweile fast bei Null angekommen. Es gibt kaum noch Austausch, weil die Verantwortlichen viel zu gelassen an die Sache herangehen. Über das Einzige, worüber wir ab und zu informiert werden, sind die Unternehmensergebnisse.\n\nTja.\n\nPaket nehmen, Paket sortieren, sich am Po kratzen … und wieder von vorne.",
+      "rating": 2.1,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": "Die Führungskräfte mit Verantwortung für die Depot-Organisation sollten wieder verstärkt vor Ort im Büro und Betrieb präsent sein, um den direkten Dialog mit den Lagermitarbeitern auf Augenhöhe zu suchen. Zudem ist es wichtig, bestehende Vetternwirtschaft aufzubrechen und Aufstiegsprozesse zu schaffen. Nur so erhalten auch andere engagierte Mitarbeiter die Chance, neue Impulse einzubringen."
+      },
+      "factor_comments": {
+        "atmosphere": "Das Arbeitsklima entwickelt sich nicht in die richtige Richtung. Die Schichten sind komplett auf sich allein gestellt, während die Verantwortlichen ständig im Homeoffice sind. Wenn man Informationen oder Hilfe braucht, wartet man teilweise 1 bis 3 Tage darauf.",
+        "workLife": "Die aktuelle Schichtplanung sehe ich sehr kritisch. Es fehlen klare, reguläre Schichtzeiten – stattdessen liegen die Arbeitszeiten häufig überschneidend zwischen zwei regulären Schichten. Das führt zu unergonomischen Einsatzzeiten und erschwert die Abläufe.\nZusätzlich kommt es auf Anweisung der Standortleitung immer wieder zu kurzfristigen Vorverlegungen der Arbeitszeiten, ohne dass die betroffenen Mitarbeiter hierbei ein Mitspracherecht haben.",
+        "career": "Gefühlt gibt es kaum Aufstiegschancen oder eine Chance, wahrgenommen zu werden. Wer soll einen auch sehen, wenn alle nur im Homeoffice sitzen?! Ganz zu schweigen von der starken Vetternwirtschaft, die anscheinend ganz von oben – sogar vom Area Manager – ausgeht. Befördert werden nur Leute, die wie auch immer miteinander verwandt oder verschwägert sind.",
+        "salary": "Es gibt einige, die kaum benutzt sind.",
+        "environment": "Keinem ist irgendetwas wichtig. Es gibt nicht einmal eine Mülltrennung.",
+        "teamwork": "Wir versuchen als Team eng zusammenzuhalten – schließlich ist das alles, was wir haben, wenn mann versteht, was ich meine. Leider gibt es seit Jahren keinerlei organisierte Veranstaltungen mehr, die den Zusammenhalt noch weiter stärken könnten.",
+        "oldColleagues": "Insgesamt eigentlich gut. Aber alle sind so unmotiviert und demoralisiert, dass die Erfahrung kaum noch von Alt auf Jung weitergegeben wird.",
+        "leadership": "Gleich Null. Sie sind nicht nur praktisch nicht vorhanden – wenn man nicht zu ihrem engeren Kreis gehört, wird man von ihnen nicht einmal wahrgenommen!",
+        "workConditions": "Akzeptabel.",
+        "communication": "Wie schon erwähnt, ist die Kommunikation mittlerweile fast bei Null angekommen. Es gibt kaum noch Austausch, weil die Verantwortlichen viel zu gelassen an die Sache herangehen. Über das Einzige, worüber wir ab und zu informiert werden, sind die Unternehmensergebnisse.",
+        "equality": "Tja.",
+        "tasks": "Paket nehmen, Paket sortieren, sich am Po kratzen … und wieder von vorne."
+      },
+      "factor_scores": {
+        "atmosphere": 2.0,
+        "workLife": 3.0,
+        "communication": 1.0,
+        "workConditions": 3.0,
+        "leadership": 1.0,
+        "teamwork": 3.0,
+        "oldColleagues": 4.0,
+        "equality": 3.0,
+        "career": 1.0,
+        "salary": 2.0,
+        "image": 2.0,
+        "environment": 1.0,
+        "tasks": 1.0
+      },
+      "published_at": "2026-08-27T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "d357067e-6213-4c1e-935b-c38284e531ad",
+      "url": "https://www.kununu.com/de/hermesgermany/bewertung/d357067e-6213-4c1e-935b-c38284e531ad",
+      "title": "Gutes Team, gute Aufgaben",
+      "content": "Gutes Team und sehr nette Kollegen\n\nSehr gut. Es finden auch viele Team Events statt.",
+      "rating": 4.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Gutes Team und sehr nette Kollegen",
+        "teamwork": "Sehr gut. Es finden auch viele Team Events statt."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 4.0,
+        "image": 4.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-08-15T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "786564ab-9649-4e19-a91a-3f132b06e1bd",
+      "url": "https://www.kununu.com/de/hermesgermany/bewertung/786564ab-9649-4e19-a91a-3f132b06e1bd",
+      "title": "Arbeiten in der Zentrale HH",
+      "content": "Die noch gute Erreichbarkeit, die Umsetzung des HO während Covid von einem Tag auf den anderen. Die Regel für das Remote-Arbeiten (1x monatlich Präsenztermin). Das gute Gehalt im direkten Vergleich zu anderen potentiellen AG in der näheren Umgebung.\n\nDie \"holprige\" Kommunikation während der \"Kündigungswelle\", manche KollegInnen haben von ihrem möglichen Ausscheiden über Organigrammfolien erfahren, nicht durch die Vorgesetzten. Wie mit MA umgegangen wird auf der Führungsebene/Fläche. Stellenbeschreibungen, die gar nicht umgesetzt oder falsch umgesetzt wurden, ohne die Betroffenen rechtzeitig darüber in Kenntnis zu setzen.\n\nDen sehr alten, aber harten Kern des Filzes noch los werden. Es gibt immer noch Mitarbeiter mit der \"alten Denke\" im Unternehmen. Trotz über 800 FTE-weniger-als-vorher-Maßnahme.\n\nNach Führungswechsel besser.\n\nBesser als es die Belegschaft wahr nimmt.\n\nDurch mitarbeitergestützte Schichtplanung flexibel.\n\nStagniert. Es werden selbst bei MA im gleichen Team ungleiche Bedingungen erstellt für limitierte Arbeitszeiten per Vertragszusatzklausel.\nAlle Menschen sind vor dem Gesetz gleich (GG) und andere sind eben gleicher.\n\nOTTO und Bonprix Benefits werden gut und gerne genutzt.\n\nWenn man bestimmten Leuten auf der höchsten Führungsebene auf Jobnetzwerken folgt, läuft es super.\n\nRelativ betrübt, da vorherige Führungskraft jahrelang das Klima vergiftet hat.\n\nRelativ gut. War schon mal schlimmer.\n\nMittlerweile besser.\n\nNach Einsparmaßnahmen, ist der Druck größer, es werden auch anonymisierte Umfragen zum Thema \"psychische Erkrankungen\" unternommen.\n\n\"\n\nBis auf wenige Vorfälle der Diskriminierung (Mitarbeiter sind nicht mehr für das Unternehmen tätig), meidet man auch bestimmte ehemalige \"Buddies\" der alten Führungskraft, welche auch im BR sitzen.\n\nQuerunterstützung möglich in anderen Teams. Alle K3 Tarif, es gibt kaum Chancen auf Gehaltsverbesserungen.",
+      "rating": 3.0,
+      "sections": {
+        "positive": "Die noch gute Erreichbarkeit, die Umsetzung des HO während Covid von einem Tag auf den anderen. Die Regel für das Remote-Arbeiten (1x monatlich Präsenztermin). Das gute Gehalt im direkten Vergleich zu anderen potentiellen AG in der näheren Umgebung.",
+        "negative": "Die \"holprige\" Kommunikation während der \"Kündigungswelle\", manche KollegInnen haben von ihrem möglichen Ausscheiden über Organigrammfolien erfahren, nicht durch die Vorgesetzten. Wie mit MA umgegangen wird auf der Führungsebene/Fläche. Stellenbeschreibungen, die gar nicht umgesetzt oder falsch umgesetzt wurden, ohne die Betroffenen rechtzeitig darüber in Kenntnis zu setzen.",
+        "suggestion": "Den sehr alten, aber harten Kern des Filzes noch los werden. Es gibt immer noch Mitarbeiter mit der \"alten Denke\" im Unternehmen. Trotz über 800 FTE-weniger-als-vorher-Maßnahme."
+      },
+      "factor_comments": {
+        "atmosphere": "Nach Führungswechsel besser.",
+        "image": "Besser als es die Belegschaft wahr nimmt.",
+        "workLife": "Durch mitarbeitergestützte Schichtplanung flexibel.",
+        "career": "Stagniert. Es werden selbst bei MA im gleichen Team ungleiche Bedingungen erstellt für limitierte Arbeitszeiten per Vertragszusatzklausel.\nAlle Menschen sind vor dem Gesetz gleich (GG) und andere sind eben gleicher.",
+        "salary": "OTTO und Bonprix Benefits werden gut und gerne genutzt.",
+        "environment": "Wenn man bestimmten Leuten auf der höchsten Führungsebene auf Jobnetzwerken folgt, läuft es super.",
+        "teamwork": "Relativ betrübt, da vorherige Führungskraft jahrelang das Klima vergiftet hat.",
+        "oldColleagues": "Relativ gut. War schon mal schlimmer.",
+        "leadership": "Mittlerweile besser.",
+        "workConditions": "Nach Einsparmaßnahmen, ist der Druck größer, es werden auch anonymisierte Umfragen zum Thema \"psychische Erkrankungen\" unternommen.",
+        "communication": "\"",
+        "equality": "Bis auf wenige Vorfälle der Diskriminierung (Mitarbeiter sind nicht mehr für das Unternehmen tätig), meidet man auch bestimmte ehemalige \"Buddies\" der alten Führungskraft, welche auch im BR sitzen.",
+        "tasks": "Querunterstützung möglich in anderen Teams. Alle K3 Tarif, es gibt kaum Chancen auf Gehaltsverbesserungen."
+      },
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 3.0,
+        "communication": 3.0,
+        "workConditions": 3.0,
+        "leadership": 3.0,
+        "teamwork": 2.0,
+        "oldColleagues": 3.0,
+        "equality": 3.0,
+        "career": 1.0,
+        "salary": 4.0,
+        "image": 3.0,
+        "environment": 4.0,
+        "tasks": 4.0
+      },
+      "published_at": "2026-07-30T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "ca93b4f0-74f9-4010-a4b3-a587084265f9",
+      "url": "https://www.kununu.com/de/hermesgermany/bewertung/ca93b4f0-74f9-4010-a4b3-a587084265f9",
+      "title": "Tolle Benefits aber problematisches Verhalten und zwei Klassen Gesellschaft.",
+      "content": "Die Benefits mit Otto\n\nDas damalige verhalten gegenübern den Frauen die und Führungspositionen wollten.\n\nMehr Feedback Gespräche mit den einzelnen Mitarbeitern und auch mal den „kleineren“ eine Chance geben.\n\nWar bedingt vorhanden, durch vorheriger Führung war es besser, wurde unangenehmer nach Führungswechsel.\n\nWar nicht besonderlich gut so wie heute, denn das Image geht nicht über die Leute die im Büro arbeiten. Sondern über die Fahrer, die oft auch nur den Job machen auf denen die meisten keine Lust haben.\n\nSowas gab es zur der Zeit nicht wirklich, für deine WorkLife Balance biste selber zuständig.\n\nGab es eher weniger bis gar nicht, warum auch die Leute weiterbilden die an ihrer aktuellen Stelle „geeigneter“ sind.\n\nDas Gehalt war Durchschnitt aber die Benefis waren super, vorallem vielfältig und mit der Kooperation von Otto, einfach genial.\n\nAuch hier gab es klare Trennungen zwischen „Lager“ und „Büro“ aber Schnitt hat man sich Verstanden.\n\nFand ich persönlich nicht immer korrekt, zu mal auch hier oft das „Nase“ Prinzip angewandt worden ist.\n\nWaren ok zu der Zeit, hätten aber auch gerne etwas mehr mit der Zeit gehen können.\n\nunter den Mitarbeitern ja aber von Vorgesetzten zu den Angestellten, war die Leitung sehr lang.\n\nKann ich von meiner Erfahrung nicht behaupten, da es doch vorkam, dass männliche Angestellte gerade in Führungspositionen bevorzugt wurden.\n\nAufgaben gab es viele und Zahlreich, Anfangs auch sehr interessant aber mit der Dauer wurden sie alltäglich.",
+      "rating": 2.8,
+      "sections": {
+        "positive": "Die Benefits mit Otto",
+        "negative": "Das damalige verhalten gegenübern den Frauen die und Führungspositionen wollten.",
+        "suggestion": "Mehr Feedback Gespräche mit den einzelnen Mitarbeitern und auch mal den „kleineren“ eine Chance geben."
+      },
+      "factor_comments": {
+        "atmosphere": "War bedingt vorhanden, durch vorheriger Führung war es besser, wurde unangenehmer nach Führungswechsel.",
+        "image": "War nicht besonderlich gut so wie heute, denn das Image geht nicht über die Leute die im Büro arbeiten. Sondern über die Fahrer, die oft auch nur den Job machen auf denen die meisten keine Lust haben.",
+        "workLife": "Sowas gab es zur der Zeit nicht wirklich, für deine WorkLife Balance biste selber zuständig.",
+        "career": "Gab es eher weniger bis gar nicht, warum auch die Leute weiterbilden die an ihrer aktuellen Stelle „geeigneter“ sind.",
+        "salary": "Das Gehalt war Durchschnitt aber die Benefis waren super, vorallem vielfältig und mit der Kooperation von Otto, einfach genial.",
+        "teamwork": "Auch hier gab es klare Trennungen zwischen „Lager“ und „Büro“ aber Schnitt hat man sich Verstanden.",
+        "leadership": "Fand ich persönlich nicht immer korrekt, zu mal auch hier oft das „Nase“ Prinzip angewandt worden ist.",
+        "workConditions": "Waren ok zu der Zeit, hätten aber auch gerne etwas mehr mit der Zeit gehen können.",
+        "communication": "unter den Mitarbeitern ja aber von Vorgesetzten zu den Angestellten, war die Leitung sehr lang.",
+        "equality": "Kann ich von meiner Erfahrung nicht behaupten, da es doch vorkam, dass männliche Angestellte gerade in Führungspositionen bevorzugt wurden.",
+        "tasks": "Aufgaben gab es viele und Zahlreich, Anfangs auch sehr interessant aber mit der Dauer wurden sie alltäglich."
+      },
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 3.0,
+        "communication": 3.0,
+        "workConditions": 3.0,
+        "leadership": 3.0,
+        "teamwork": 3.0,
+        "oldColleagues": 2.0,
+        "equality": 1.0,
+        "career": 2.0,
+        "salary": 4.0,
+        "image": 3.0,
+        "environment": 3.0,
+        "tasks": 4.0
+      },
+      "published_at": "2026-07-27T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "84f3f08f-482b-4f77-9a3c-d011d8f888dc",
+      "url": "https://www.kununu.com/de/hermesgermany/bewertung/84f3f08f-482b-4f77-9a3c-d011d8f888dc",
+      "title": "Alter Arbeitgeber",
+      "content": "Dass man mit ihm offen und ehrlich reden kann\n\nNichts auszusetzen\n\nBin schon lange raus vielleicht ist schon was anders geworden\n\nGut\n\nBefriedigend\n\nBefriedigend\n\nGeht so\n\nGeht so\n\nGut\n\nBefridigend\n\nGut\n\nGut\n\nGut\n\nGut\n\nBefriedigend\n\nMal ja mal nein",
+      "rating": 3.3,
+      "sections": {
+        "positive": "Dass man mit ihm offen und ehrlich reden kann",
+        "negative": "Nichts auszusetzen",
+        "suggestion": "Bin schon lange raus vielleicht ist schon was anders geworden"
+      },
+      "factor_comments": {
+        "atmosphere": "Gut",
+        "image": "Befriedigend",
+        "workLife": "Befriedigend",
+        "career": "Geht so",
+        "salary": "Geht so",
+        "environment": "Gut",
+        "teamwork": "Befridigend",
+        "oldColleagues": "Gut",
+        "leadership": "Gut",
+        "workConditions": "Gut",
+        "communication": "Gut",
+        "equality": "Befriedigend",
+        "tasks": "Mal ja mal nein"
+      },
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 3.0,
+        "communication": 4.0,
+        "workConditions": 3.0,
+        "leadership": 4.0,
+        "teamwork": 3.0,
+        "oldColleagues": 4.0,
+        "equality": 3.0,
+        "career": 3.0,
+        "salary": 3.0,
+        "image": 3.0,
+        "environment": 4.0,
+        "tasks": 3.0
+      },
+      "published_at": "2026-07-15T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "2182a1bd-5104-420d-8fca-10d0fefcdbd3",
+      "url": "https://www.kununu.com/de/hermesgermany/bewertung/2182a1bd-5104-420d-8fca-10d0fefcdbd3",
+      "title": "Keine Veränderung seit der letzten Bewertung. Leider.",
+      "content": "Wie vor Jahren auch schon bemängelt wenig Gehalt auch nach fast 20 Jahren Betriebszugehörigkeit und guten Leistungen. Karriere und Weiterentwicklung Chancen gleich null.",
+      "rating": 2.2,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "salary": "Wie vor Jahren auch schon bemängelt wenig Gehalt auch nach fast 20 Jahren Betriebszugehörigkeit und guten Leistungen. Karriere und Weiterentwicklung Chancen gleich null."
+      },
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 2.0,
+        "communication": 2.0,
+        "workConditions": 3.0,
+        "leadership": 2.0,
+        "teamwork": 3.0,
+        "oldColleagues": 1.0,
+        "equality": 4.0,
+        "career": 1.0,
+        "salary": 1.0,
+        "image": 2.0,
+        "environment": 3.0,
+        "tasks": 1.0
+      },
+      "published_at": "2026-07-13T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "94f4350e-b0d3-43c5-90dd-875537a9e790",
+      "url": "https://www.kununu.com/de/hermesgermany/bewertung/94f4350e-b0d3-43c5-90dd-875537a9e790",
+      "title": "Bin im Nachhinein froh, dass Hermes mich und alle festangestellten Fahrer sozialverträglich entlassen hat",
+      "content": "Gehalt, Benefits, die Wertschätzung der Kunden\n\nBis auf oben genannte Punkte alles\n\nNicht nur auf Masse setzen, sondern auch auf Qualität. Und sich mehr in Richtung gewerbliche Kunden orientieren\n\nSchlecht, man kämpfte jeden Tag mit Vorgesetzten, wurde belogen und es wurde ständig Druck ausgeübt\n\nAbsolut unterirdisch. Man schämte sich zu sagen für welches Unternehmen man arbeitet\n\nLange Arbeitszeit, zumindest Wochenende über 2 Tage\n\nNicht möglich, nicht erwünscht\n\nDurch Altvertrag und Bestandsschutz ganz ordentliches Gehalt, teilweise gute Benefits wie JobRad\n\nMülltrennung funktionierte nie, da viele Ausländische Mitarbeiter es nie verstanden haben\n\nUnter den festangestellten Fahrern gut\n\nNicht gut, wer aufgrund des Alters häufiger erkrankt ist wurde als Faulenzer abgekanzelt\n\nSchlecht! Ständig Druck, Lügen, es wurde Angst geschürt, keinerlei Wertschätzung\n\nTechnisch einwandfreie Fahrzeuge, aber ohne Klimaanlage. Ein Unding im Sommer\n\nKeine Kommunikation auf Augenhöhe\n\nEs gab praktisch keine Aufstiegsmöglichkeiten\n\nKeine mehr, weil kein Geld mehr da war wurde an allem gespart",
+      "rating": 1.5,
+      "sections": {
+        "positive": "Gehalt, Benefits, die Wertschätzung der Kunden",
+        "negative": "Bis auf oben genannte Punkte alles",
+        "suggestion": "Nicht nur auf Masse setzen, sondern auch auf Qualität. Und sich mehr in Richtung gewerbliche Kunden orientieren"
+      },
+      "factor_comments": {
+        "atmosphere": "Schlecht, man kämpfte jeden Tag mit Vorgesetzten, wurde belogen und es wurde ständig Druck ausgeübt",
+        "image": "Absolut unterirdisch. Man schämte sich zu sagen für welches Unternehmen man arbeitet",
+        "workLife": "Lange Arbeitszeit, zumindest Wochenende über 2 Tage",
+        "career": "Nicht möglich, nicht erwünscht",
+        "salary": "Durch Altvertrag und Bestandsschutz ganz ordentliches Gehalt, teilweise gute Benefits wie JobRad",
+        "environment": "Mülltrennung funktionierte nie, da viele Ausländische Mitarbeiter es nie verstanden haben",
+        "teamwork": "Unter den festangestellten Fahrern gut",
+        "oldColleagues": "Nicht gut, wer aufgrund des Alters häufiger erkrankt ist wurde als Faulenzer abgekanzelt",
+        "leadership": "Schlecht! Ständig Druck, Lügen, es wurde Angst geschürt, keinerlei Wertschätzung",
+        "workConditions": "Technisch einwandfreie Fahrzeuge, aber ohne Klimaanlage. Ein Unding im Sommer",
+        "communication": "Keine Kommunikation auf Augenhöhe",
+        "equality": "Es gab praktisch keine Aufstiegsmöglichkeiten",
+        "tasks": "Keine mehr, weil kein Geld mehr da war wurde an allem gespart"
+      },
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-07-09T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "f30c2bd6-11d0-42b3-8556-1a12b75a13e7",
+      "url": "https://www.kununu.com/de/hermesgermany/bewertung/f30c2bd6-11d0-42b3-8556-1a12b75a13e7",
+      "title": "Guter Arbeitgeber jedoch mit wirtschaftlichen Herausforderungen und Aufholbedarf bei Benefits",
+      "content": "Das Hermes nicht alle Benefits der Konzernmutter anbietet bewerte ich sehr negativ.\nAußerdem fehlt ein Firmenfitness-Angebot.\n\nEs wird auf eine gute Arbeitsatmosphäre geachtet.\n\nEher negativ durch das öffentliche Ansehen des Unternehmens.\n\nPositiv, wobei Workation nicht angeboten wird obwohl Benefit der Konzerngesellschaft.\n\nEin Karriereprogramm gibt es bisher nicht.\n\nGehalt auf Branchenniveau, Firmenfitness fehlt.\n\nHermes verfolgt das Ziel der CO²-neutralen Zustellung in Großstädten.\n\nStark innerhalb der Abteilung, weniger abteilungsübergreifend.\n\nExterne Bewerbe werden internen Bewerbungen vorgezogen.\n\nKonflikte auf Führungsebene wirken sich negativ auf Mitarbeitende aus.\n\nFlächenauslastung sehr hoch, sodass immer Arbeitsplatzbuchungen notwendig sind.\n\nDie Kommunikation ist gut, könnte aber transparenter sein.\n\nHermes steht für Vielfalt.\n\nFehlende Investitionsbereitschaft verhindert innovative Arbeit.",
+      "rating": 3.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": "Das Hermes nicht alle Benefits der Konzernmutter anbietet bewerte ich sehr negativ.\nAußerdem fehlt ein Firmenfitness-Angebot."
+      },
+      "factor_comments": {
+        "atmosphere": "Es wird auf eine gute Arbeitsatmosphäre geachtet.",
+        "image": "Eher negativ durch das öffentliche Ansehen des Unternehmens.",
+        "workLife": "Positiv, wobei Workation nicht angeboten wird obwohl Benefit der Konzerngesellschaft.",
+        "career": "Ein Karriereprogramm gibt es bisher nicht.",
+        "salary": "Gehalt auf Branchenniveau, Firmenfitness fehlt.",
+        "environment": "Hermes verfolgt das Ziel der CO²-neutralen Zustellung in Großstädten.",
+        "teamwork": "Stark innerhalb der Abteilung, weniger abteilungsübergreifend.",
+        "oldColleagues": "Externe Bewerbe werden internen Bewerbungen vorgezogen.",
+        "leadership": "Konflikte auf Führungsebene wirken sich negativ auf Mitarbeitende aus.",
+        "workConditions": "Flächenauslastung sehr hoch, sodass immer Arbeitsplatzbuchungen notwendig sind.",
+        "communication": "Die Kommunikation ist gut, könnte aber transparenter sein.",
+        "equality": "Hermes steht für Vielfalt.",
+        "tasks": "Fehlende Investitionsbereitschaft verhindert innovative Arbeit."
+      },
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-07-08T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "72cb0327-edf3-4f7b-9397-8e6867f54f17",
+      "url": "https://www.kununu.com/de/hermesgermany/bewertung/72cb0327-edf3-4f7b-9397-8e6867f54f17",
+      "title": "Wenn wir so weiter machen werden wir die Nr. 1",
+      "content": "Sehr sozial für einen Logistiker\n\nStändige Inkonsequenz bei allen Themen\n\nJede Führungskraft ab TL bis GF muss alle 2 Jahre für 2 Tage an die Front und Pakete ausfahren oder im Lager sortieren\n\nAngenehm\n\nWird immer besser, weil man nicht mehr das Schmuddelkind der Branche ist und auch gute Arbeit macht\n\nMuss man selber sicherstellen. Hier sind alle extreme und alles dazwischen möglich... hat man selber in der Hand\n\nWer was kann und will ... wird hier was\n\nAktzeptabel\n\nSehr hoch weil die Mutter das treibt\n\nTop... gerade wenns eng wird rückt man zusammen. Top\n\nman stellt eher jünger ein, schätzt aber seine Veteranen\n\nambivalent\n\nModern und sicherlich für Logistik über dem Standard\n\nGeht immer besser aber die GF ist bemüht wirklich alle mitzunehmen\n\nzeitgemäß\n\n100 %",
+      "rating": 3.9,
+      "sections": {
+        "positive": "Sehr sozial für einen Logistiker",
+        "negative": "Ständige Inkonsequenz bei allen Themen",
+        "suggestion": "Jede Führungskraft ab TL bis GF muss alle 2 Jahre für 2 Tage an die Front und Pakete ausfahren oder im Lager sortieren"
+      },
+      "factor_comments": {
+        "atmosphere": "Angenehm",
+        "image": "Wird immer besser, weil man nicht mehr das Schmuddelkind der Branche ist und auch gute Arbeit macht",
+        "workLife": "Muss man selber sicherstellen. Hier sind alle extreme und alles dazwischen möglich... hat man selber in der Hand",
+        "career": "Wer was kann und will ... wird hier was",
+        "salary": "Aktzeptabel",
+        "environment": "Sehr hoch weil die Mutter das treibt",
+        "teamwork": "Top... gerade wenns eng wird rückt man zusammen. Top",
+        "oldColleagues": "man stellt eher jünger ein, schätzt aber seine Veteranen",
+        "leadership": "ambivalent",
+        "workConditions": "Modern und sicherlich für Logistik über dem Standard",
+        "communication": "Geht immer besser aber die GF ist bemüht wirklich alle mitzunehmen",
+        "equality": "zeitgemäß",
+        "tasks": "100 %"
+      },
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-06-28T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "cc4ae9ae-ede7-42d0-9dfa-76a55f6baa0a",
+      "url": "https://www.kununu.com/de/hermesgermany/bewertung/cc4ae9ae-ede7-42d0-9dfa-76a55f6baa0a",
+      "title": "Klassisch tradiertes Unternehmen",
+      "content": "Sehr patriarchal-hierarchisch und machtgeprägt\n\nInformationsweitergabe häufig sehr spät und oft nur als Teil-Informationen\n\nExtrem konservative, altbackene Vorurteile vorherrschend",
+      "rating": 2.7,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "leadership": "Sehr patriarchal-hierarchisch und machtgeprägt",
+        "communication": "Informationsweitergabe häufig sehr spät und oft nur als Teil-Informationen",
+        "equality": "Extrem konservative, altbackene Vorurteile vorherrschend"
+      },
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 3.0,
+        "communication": 2.0,
+        "workConditions": 3.0,
+        "leadership": 1.0,
+        "teamwork": 3.0,
+        "oldColleagues": 3.0,
+        "equality": 1.0,
+        "career": 2.0,
+        "salary": 3.0,
+        "image": 3.0,
+        "environment": 3.0,
+        "tasks": 4.0
+      },
+      "published_at": "2026-06-26T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "719f1124-570a-41e2-a9fc-bb4e030ad71d",
+      "url": "https://www.kununu.com/de/hermesgermany/bewertung/719f1124-570a-41e2-a9fc-bb4e030ad71d",
+      "title": "Konner noch besser laufen",
+      "content": "Soziales miteinander\n\nMehr ruecksichtsnahme und das Fachkompete Mitarbeiter besser entlohnt werden sollten\n\nMehr möglichkeiten eigene Mitarbeit zu foerdern\n\nEine Grünewald Oase mit viel spas bei der Arbeit\n\nLeider nicht immer\n\nAusgeglichen und unterstüzend\n\nFehlt leider\n\nZufriedenstellenden Gehalt\n\nSuper\n\nEtwas verzögerte communication\n\nAb und zu nicht gewollt\n\nZufriedenstellend\n\nAlles I’m grünen Bereich\n\nNicht zufriedenstellend\n\nAb und zu felt die herausforderung",
+      "rating": 3.8,
+      "sections": {
+        "positive": "Soziales miteinander",
+        "negative": "Mehr ruecksichtsnahme und das Fachkompete Mitarbeiter besser entlohnt werden sollten",
+        "suggestion": "Mehr möglichkeiten eigene Mitarbeit zu foerdern"
+      },
+      "factor_comments": {
+        "atmosphere": "Eine Grünewald Oase mit viel spas bei der Arbeit",
+        "image": "Leider nicht immer",
+        "workLife": "Ausgeglichen und unterstüzend",
+        "career": "Fehlt leider",
+        "salary": "Zufriedenstellenden Gehalt",
+        "environment": "Super",
+        "teamwork": "Etwas verzögerte communication",
+        "oldColleagues": "Ab und zu nicht gewollt",
+        "leadership": "Zufriedenstellend",
+        "workConditions": "Alles I’m grünen Bereich",
+        "equality": "Nicht zufriedenstellend",
+        "tasks": "Ab und zu felt die herausforderung"
+      },
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-06-11T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    }
+  ],
+  "review_limit": 15,
+  "review_period": {
+    "since": "2024-11-25T00:00:00+00:00",
+    "until": "2026-11-25T17:16:47.047589+00:00",
+    "date_field": "published_at",
+    "missing_dates": "excluded"
+  },
+  "factor_scores_aggregated": {
+    "atmosphere": {
+      "mean": 3.0,
+      "count": 11
+    },
+    "workLife": {
+      "mean": 3.09,
+      "count": 11
+    },
+    "communication": {
+      "mean": 2.55,
+      "count": 11
+    },
+    "workConditions": {
+      "mean": 2.82,
+      "count": 11
+    },
+    "leadership": {
+      "mean": 2.36,
+      "count": 11
+    },
+    "teamwork": {
+      "mean": 3.27,
+      "count": 11
+    },
+    "oldColleagues": {
+      "mean": 2.91,
+      "count": 11
+    },
+    "equality": {
+      "mean": 2.73,
+      "count": 11
+    },
+    "career": {
+      "mean": 1.91,
+      "count": 11
+    },
+    "salary": {
+      "mean": 2.73,
+      "count": 11
+    },
+    "image": {
+      "mean": 2.45,
+      "count": 11
+    },
+    "environment": {
+      "mean": 3.0,
+      "count": 11
+    },
+    "tasks": {
+      "mean": 2.73,
+      "count": 11
+    }
+  },
+  "coverage": "bounded_employee_review_sample_last_2_years_not_all_reviews",
+  "diagnostics": {
+    "pages": [
+      {
+        "page": "reviews",
+        "page_number": 1,
+        "load_more_clicks": 0,
+        "requested_url": "https://www.kununu.com/de/hermesgermany/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Hermes-Deutschland-ee3a1575\\browser\\reviews.html",
+        "browser_step": 99,
+        "final_url": "https://www.kununu.com/de/hermesgermany/kommentare",
+        "observed_at": "2026-11-25T17:16:48.622194+00:00",
+        "http_status": 200,
+        "factor_cards_expanded": 3,
+        "reviews_collected": 10
+      },
+      {
+        "page": "reviews",
+        "page_number": 2,
+        "load_more_clicks": 1,
+        "requested_url": "https://www.kununu.com/de/hermesgermany/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Hermes-Deutschland-ee3a1575\\browser\\reviews-2.html",
+        "browser_step": 100,
+        "final_url": "https://www.kununu.com/de/hermesgermany/kommentare",
+        "observed_at": "2026-11-25T17:16:50.198475+00:00",
+        "actions_complete": true,
+        "factor_cards_expanded": 1,
+        "reviews_collected": 15
+      }
+    ]
+  },
+  "source_url": "https://www.kununu.com/de/hermesgermany",
+  "profile_source": "https://www.kununu.com/de/hermesgermany/kommentare",
+  "review_stop_reason": "sample_limit_reached",
+  "factor_score_coverage": {
+    "reviews_with_scores": 11,
+    "reviews_without_scores": 4,
+    "reviews_with_all_known_scores": 11,
+    "status": "partial"
+  },
+  "request_limits": {
+    "max_browser_steps": 295,
+    "browser_steps": 100,
+    "zyte_requests": 0
+  },
+  "reason": null
+}

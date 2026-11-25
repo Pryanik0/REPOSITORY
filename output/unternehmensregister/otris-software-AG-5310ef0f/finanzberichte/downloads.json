@@ -1,0 +1,56 @@
+[
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=9MlvBI0jYyJAdtKB4QiT4KxBTxM8BFokRWu7-qit7XT5A5HsmsZ-35E9cqJ5cV9MjVSlW8Azl2fEAiVbjPMCWIjh9ibxCtnczYyBSQ0pXu3QDg2uiKcH-65oxsgKtYToGVFpM_Ls6I5e03V0tWwqW3HEBlWugKKFZLwTygZJ83h7TXhwKHbojnd_cvcZhIM0si2sOvG8NLetPsLyLazuwS4SVBFz9oeYqSkwA2wshhU5W8yP",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\otris-software-AG-5310ef0f\\finanzberichte\\publication-1\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\otris-software-AG-5310ef0f\\finanzberichte\\publication-1\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\otris-software-AG-5310ef0f\\finanzberichte\\publication-1\\publication.txt",
+    "index": 1,
+    "category": "finanzberichte",
+    "company": "otris software AG, Dortmund",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+    "documents_path": "output\\unternehmensregister\\otris-software-AG-5310ef0f\\finanzberichte\\publication-1\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=izP9GgGZqJNHaP9Bb5fSirXIDmPHcyImL0MbC5fpB7_Y01eom3iRtrz66S0jDsycJk4nsPVORETOrOlde6Wd79AJXs2-n1j7fjEsqvUnEg0ATJbOjRX0NoQg0q3nSEm0anvOe2AgO2Evd1QGPzUx-hJyATGLyZwruGN-wTh3kZmuFlFy9FW4Zw0fsbCtblbFrJwxCMMuOuy-EZahg_pCnsOebdy-_Rvde1_yuSZ6AENtPBi8",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\otris-software-AG-5310ef0f\\finanzberichte\\publication-2\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\otris-software-AG-5310ef0f\\finanzberichte\\publication-2\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\otris-software-AG-5310ef0f\\finanzberichte\\publication-2\\publication.txt",
+    "index": 2,
+    "category": "finanzberichte",
+    "company": "otris software AG, Dortmund",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+    "documents_path": "output\\unternehmensregister\\otris-software-AG-5310ef0f\\finanzberichte\\publication-2\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=12h9nOTsvn0TKwHsc7Ue20wq3c95XI0-qdpFzBAgzHtKi6DZBT62appAoE_pgoZ6FdjMX3G94Z6S5WSnDDYFKFCdxx9rRRM_ij1-O1wN11aRcB_haOY7zoq1Fda-Fa83fKlkqLbEsKMmXy6IcJu0Pl2IdE5nE_0D_DzK2WwU6X4mcZpr5C1omPmhov0hehIGbatSeYBzNjhAufqdSpZfDwlg7rpnG35AxW6LAXqbmgCXMCT8",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\otris-software-AG-5310ef0f\\finanzberichte\\publication-3\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\otris-software-AG-5310ef0f\\finanzberichte\\publication-3\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\otris-software-AG-5310ef0f\\finanzberichte\\publication-3\\publication.txt",
+    "index": 3,
+    "category": "finanzberichte",
+    "company": "otris software AG, Dortmund",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+    "documents_path": "output\\unternehmensregister\\otris-software-AG-5310ef0f\\finanzberichte\\publication-3\\documents.json"
+  }
+]

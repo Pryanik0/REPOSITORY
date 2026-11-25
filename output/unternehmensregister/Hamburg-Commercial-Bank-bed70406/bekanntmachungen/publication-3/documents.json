@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Hamburg Commercial Bank AG",
+    "original_name": "publication.html",
+    "title": "publication.html",
+    "company": "Hamburg Commercial Bank AG",
+    "format": "html",
+    "text": "Hamburg Commercial Bank AG\n\nHamburg\n\nAnnouncement\n\nIssue of USD 25.000.000,00\nLandesbank Schleswig-Holstein Nachr.DL-FLR-Notes.v.01(31)\nof\nHamburg Commercial Bank AG\n\nISIN: XS0124807099\n\nscroll\n\nRate of Interest: 5.76816 % p.a.\n\nInterest Period: 19.11.2026 to 18.02.2027 (incl.)\n\nInterest Amount for USD 100.000,00: USD 1.474,09\n\nInterest Payment Date: 19.02.2027\n\nHamburg Commercial Bank AG",
+    "tables": [
+      {
+        "index": 1,
+        "title": "ISIN: XS0124807099",
+        "rows": [
+          [
+            ""
+          ]
+        ],
+        "cells": [
+          [
+            {
+              "text": "",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ]
+        ]
+      }
+    ]
+  }
+]

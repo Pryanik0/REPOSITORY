@@ -1,0 +1,460 @@
+{
+  "provider": "karriere",
+  "company": {
+    "key": "Ingentis Softwareentwicklung",
+    "name": "Ingentis Softwareentwicklung GmbH",
+    "location": "Nürnberg",
+    "name_source": "company_name",
+    "urls": [
+      "https://www.ingentis.com/"
+    ],
+    "kununu_url": "https://www.kununu.com/de/ingentis-group",
+    "branches": [
+      "IT & Telekommunikation"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "90475",
+    "street": "Raudtener Straße 7",
+    "region": "Bayern",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:09:56.468140+00:00",
+  "status": "partial",
+  "jobs": [
+    {
+      "title": "People Operations Specialist (m/w/d)",
+      "url": "https://ingentis.onlyfy.jobs/en/job/v3y8ge1radhxp1pgmoeobtnx9ejy03w",
+      "description": "People Operations Specialist (m/w/d)People Operations ist ein zentraler Bestandteil unseres People & Culture Operating Models. Diesen Bereich bauen wir konsequent weiter aus, damit unsere operativ",
+      "locations": [
+        "Nuremberg, DE"
+      ],
+      "employment_type": "FULL_TIME",
+      "remote": "TELECOMMUTE",
+      "employer": "Ingentis Holding GmbH",
+      "date_posted": "2026-11-23",
+      "valid_through": null,
+      "reference": "Ingentis Holding GmbH",
+      "extraction": "schema_org_jobposting",
+      "source_url": "https://ingentis.onlyfy.jobs/en/job/v3y8ge1radhxp1pgmoeobtnx9ejy03w",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:10:04.654085+00:00",
+      "id": "f0f5065f3b177c284324",
+      "company_key": "Ingentis Softwareentwicklung"
+    },
+    {
+      "title": "Steuerfachangestellte:r (m/w/d)",
+      "url": "https://ingentis.onlyfy.jobs/en/job/fmhz9ox9kcrxbj8wfcqzy8q712syxg6",
+      "description": "Steuerfachangestellte:r / Steuerfachwirt:in (m/w/d) - Kanzlei-Support & Schulung für KanzleisoftwareDu kennst den Kanzleialltag. Jetzt kannst du ihn für andere einfacher machen.Du arbeitest als St",
+      "locations": [
+        "Nuremberg, DE"
+      ],
+      "employment_type": "FULL_TIME",
+      "remote": "",
+      "employer": "Kanzlei.Suite GmbH",
+      "date_posted": "2026-11-09",
+      "valid_through": null,
+      "reference": "Kanzlei.Suite GmbH",
+      "extraction": "schema_org_jobposting",
+      "source_url": "https://ingentis.onlyfy.jobs/en/job/fmhz9ox9kcrxbj8wfcqzy8q712syxg6",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:10:05.625852+00:00",
+      "id": "9460e63c1d73d1124bf3",
+      "company_key": "Ingentis Softwareentwicklung"
+    },
+    {
+      "title": "Software Consultant & Kundenberater (m/w/d) für Steuerkanzleien",
+      "url": "https://ingentis.onlyfy.jobs/en/job/hkwvvqfarqh8c1biv89koov694ubqeh",
+      "description": "Software Consultant & Kundenberater (m/w/d) für SteuerkanzleienDu kennst die Welt der Steuerkanzleien bereits aus eigener Erfahrung, sei es aus einer Kanzlei, einem Beratungsunternehmen, einem Sof",
+      "locations": [
+        "Nuremberg, DE"
+      ],
+      "employment_type": "FULL_TIME",
+      "remote": "TELECOMMUTE",
+      "employer": "Kanzlei.Suite GmbH",
+      "date_posted": "2026-10-05",
+      "valid_through": null,
+      "reference": "Kanzlei.Suite GmbH",
+      "extraction": "schema_org_jobposting",
+      "source_url": "https://ingentis.onlyfy.jobs/en/job/hkwvvqfarqh8c1biv89koov694ubqeh",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:10:06.683615+00:00",
+      "id": "9655c99c8a69bc1cabcf",
+      "company_key": "Ingentis Softwareentwicklung"
+    },
+    {
+      "title": "Technical Solutions Engineer (m/w/d) für Steuerkanzleien",
+      "url": "https://ingentis.onlyfy.jobs/en/job/6w1vz65j21q0tig0vd3l95j7m40z2d4",
+      "description": "Technical Solutions Engineer (m/w/d) für SteuerkanzleienDu kommst aus der Systemadministration, einem IT-Systemhaus, dem technischen Support, dem System Engineering oder aus technischen Kunden-, Infra",
+      "locations": [
+        "Nuremberg, DE"
+      ],
+      "employment_type": "FULL_TIME",
+      "remote": "TELECOMMUTE",
+      "employer": "Kanzlei.Suite GmbH",
+      "date_posted": "2026-10-05",
+      "valid_through": null,
+      "reference": "Kanzlei.Suite GmbH",
+      "extraction": "schema_org_jobposting",
+      "source_url": "https://ingentis.onlyfy.jobs/en/job/6w1vz65j21q0tig0vd3l95j7m40z2d4",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:10:07.598564+00:00",
+      "id": "08b774869c8c7c3d84bc",
+      "company_key": "Ingentis Softwareentwicklung"
+    },
+    {
+      "title": "Senior Sales Development Representative (m/w/d) UK Market",
+      "url": "https://ingentis.onlyfy.jobs/en/job/wncn3tnywhmfjb6butk26v559f84s0s",
+      "description": "Senior Sales Development Representative (m/w/d) UK MarketWe are looking for a highly strategic and hands-on Senior Sales Development Representative remote or at our HQ in Nuremberg to help drive Ingen",
+      "locations": [],
+      "employment_type": "FULL_TIME",
+      "remote": "TELECOMMUTE",
+      "employer": "Ingentis Softwareentwicklung GmbH",
+      "date_posted": "2026-10-05",
+      "valid_through": null,
+      "reference": "Ingentis Softwareentwicklung GmbH",
+      "extraction": "schema_org_jobposting",
+      "source_url": "https://ingentis.onlyfy.jobs/en/job/wncn3tnywhmfjb6butk26v559f84s0s",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:10:08.651174+00:00",
+      "id": "e4befea498a2cd91aa03",
+      "company_key": "Ingentis Softwareentwicklung"
+    },
+    {
+      "title": "Kanzlei-Organisationsbeauftragter (m/w/d) Software-Support & Kundenbetreuung",
+      "url": "https://ingentis.onlyfy.jobs/en/job/gwau59hnfe93zxrm5o1ivzwqhnhhoha",
+      "description": "Kanzlei-Organisationsbeauftragter (m/w/d) Software-Support & KundenbetreuungDu kennst den Alltag in einer Steuerkanzlei aus eigener Erfahrung und möchtest dein Fachwissen künftig in einer modernen",
+      "locations": [
+        "Nuremberg, DE"
+      ],
+      "employment_type": "FULL_TIME",
+      "remote": "TELECOMMUTE",
+      "employer": "Kanzlei.Suite GmbH",
+      "date_posted": "2026-09-16",
+      "valid_through": null,
+      "reference": "Kanzlei.Suite GmbH",
+      "extraction": "schema_org_jobposting",
+      "source_url": "https://ingentis.onlyfy.jobs/en/job/gwau59hnfe93zxrm5o1ivzwqhnhhoha",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:10:09.656563+00:00",
+      "id": "12c1c13392c943d1c806",
+      "company_key": "Ingentis Softwareentwicklung"
+    },
+    {
+      "title": "Sales Executive (m/w/d)",
+      "url": "https://ingentis.onlyfy.jobs/en/job/07dzmr17ht1fjfb64mcxstbpply5wvp",
+      "description": "Sales Executive (m/w/d)Ingentis ist ein spezialisierter Softwareanbieter für Organizational Analytics & Design, Organisationsvisualisierung sowie datenbasierte Einblicke in Unternehmensstrukturen",
+      "locations": [
+        "Nuremberg, DE"
+      ],
+      "employment_type": "FULL_TIME",
+      "remote": "TELECOMMUTE",
+      "employer": "Ingentis Softwareentwicklung GmbH",
+      "date_posted": "2026-08-21",
+      "valid_through": null,
+      "reference": "Ingentis Softwareentwicklung GmbH",
+      "extraction": "schema_org_jobposting",
+      "source_url": "https://ingentis.onlyfy.jobs/en/job/07dzmr17ht1fjfb64mcxstbpply5wvp",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:10:10.667132+00:00",
+      "id": "0e174ec64ad3cf5e4cfc",
+      "company_key": "Ingentis Softwareentwicklung"
+    },
+    {
+      "title": "Enterprise Account Executive",
+      "url": "https://ingentis.onlyfy.jobs/en/job/ogzpyz2qd7buvi7w64igf2pgzlfbf4s",
+      "description": "Enterprise Account ExecutiveBased in the United States; remote from Nashville, TN, or primarily on-site in Huntsville, AL\nIngentis is a leading software provider for Organizational Analytics and Strat",
+      "locations": [
+        "Nashville, US"
+      ],
+      "employment_type": "FULL_TIME",
+      "remote": "TELECOMMUTE",
+      "employer": "Ingentis Inc.",
+      "date_posted": "2026-08-04",
+      "valid_through": null,
+      "reference": "Ingentis Inc.",
+      "extraction": "schema_org_jobposting",
+      "source_url": "https://ingentis.onlyfy.jobs/en/job/ogzpyz2qd7buvi7w64igf2pgzlfbf4s",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:10:11.703506+00:00",
+      "id": "982e25d2948cb04acdb3",
+      "company_key": "Ingentis Softwareentwicklung"
+    },
+    {
+      "title": "Sales Development Representative",
+      "url": "https://ingentis.onlyfy.jobs/en/job/0zv48eib1u2ptbpzp69ywbqvhlj1dk0",
+      "description": "Sales Development RepresentativeBased in the US, remote out of Nashville, TN or in our office in Huntsville, AL.\nWe're looking for a highly skilled Sales Development Representative who thrives in acco",
+      "locations": [
+        "Nashville, US"
+      ],
+      "employment_type": "FULL_TIME",
+      "remote": "TELECOMMUTE",
+      "employer": "Ingentis Inc.",
+      "date_posted": "2026-05-07",
+      "valid_through": null,
+      "reference": "Ingentis Inc.",
+      "extraction": "schema_org_jobposting",
+      "source_url": "https://ingentis.onlyfy.jobs/en/job/0zv48eib1u2ptbpzp69ywbqvhlj1dk0",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:10:12.617703+00:00",
+      "id": "62313cf2b04f5545d440",
+      "company_key": "Ingentis Softwareentwicklung"
+    },
+    {
+      "title": "Initiativ",
+      "url": "https://ingentis.onlyfy.jobs/en/job/bkbfx15444ulh77jwkixq1izv1p4m6g",
+      "description": "",
+      "locations": [
+        "Nuremberg, DE"
+      ],
+      "employment_type": "OTHER",
+      "remote": "",
+      "employer": "Ingentis Holding GmbH",
+      "date_posted": "2023-03-01",
+      "valid_through": null,
+      "reference": "Ingentis Holding GmbH",
+      "extraction": "schema_org_jobposting",
+      "source_url": "https://ingentis.onlyfy.jobs/en/job/bkbfx15444ulh77jwkixq1izv1p4m6g",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:10:13.530213+00:00",
+      "id": "28fe8f03bc8e49ca938c",
+      "company_key": "Ingentis Softwareentwicklung"
+    }
+  ],
+  "pages": [
+    {
+      "url": "https://www.ingentis.com/",
+      "final_url": "https://www.ingentis.com/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.ingentis.com/en/about-us/career/",
+      "final_url": "https://www.ingentis.com/en/about-us/career/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.ingentis.com/de/ueber-uns/karriere/",
+      "final_url": "https://www.ingentis.com/de/ueber-uns/karriere/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://ingentis.onlyfy.jobs/",
+      "final_url": "https://ingentis.onlyfy.jobs/en",
+      "redirects": [
+        {
+          "source": "https://ingentis.onlyfy.jobs/",
+          "target": "https://ingentis.onlyfy.jobs/en",
+          "status": 307
+        }
+      ],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://ingentis.onlyfy.jobs/en/job/v3y8ge1radhxp1pgmoeobtnx9ejy03w",
+      "final_url": "https://ingentis.onlyfy.jobs/en/job/v3y8ge1radhxp1pgmoeobtnx9ejy03w",
+      "redirects": [],
+      "jobs_found": 1,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://ingentis.onlyfy.jobs/en/job/fmhz9ox9kcrxbj8wfcqzy8q712syxg6",
+      "final_url": "https://ingentis.onlyfy.jobs/en/job/fmhz9ox9kcrxbj8wfcqzy8q712syxg6",
+      "redirects": [],
+      "jobs_found": 1,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://ingentis.onlyfy.jobs/en/job/hkwvvqfarqh8c1biv89koov694ubqeh",
+      "final_url": "https://ingentis.onlyfy.jobs/en/job/hkwvvqfarqh8c1biv89koov694ubqeh",
+      "redirects": [],
+      "jobs_found": 1,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://ingentis.onlyfy.jobs/en/job/6w1vz65j21q0tig0vd3l95j7m40z2d4",
+      "final_url": "https://ingentis.onlyfy.jobs/en/job/6w1vz65j21q0tig0vd3l95j7m40z2d4",
+      "redirects": [],
+      "jobs_found": 1,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://ingentis.onlyfy.jobs/en/job/wncn3tnywhmfjb6butk26v559f84s0s",
+      "final_url": "https://ingentis.onlyfy.jobs/en/job/wncn3tnywhmfjb6butk26v559f84s0s",
+      "redirects": [],
+      "jobs_found": 1,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://ingentis.onlyfy.jobs/en/job/gwau59hnfe93zxrm5o1ivzwqhnhhoha",
+      "final_url": "https://ingentis.onlyfy.jobs/en/job/gwau59hnfe93zxrm5o1ivzwqhnhhoha",
+      "redirects": [],
+      "jobs_found": 1,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://ingentis.onlyfy.jobs/en/job/07dzmr17ht1fjfb64mcxstbpply5wvp",
+      "final_url": "https://ingentis.onlyfy.jobs/en/job/07dzmr17ht1fjfb64mcxstbpply5wvp",
+      "redirects": [],
+      "jobs_found": 1,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://ingentis.onlyfy.jobs/en/job/ogzpyz2qd7buvi7w64igf2pgzlfbf4s",
+      "final_url": "https://ingentis.onlyfy.jobs/en/job/ogzpyz2qd7buvi7w64igf2pgzlfbf4s",
+      "redirects": [],
+      "jobs_found": 1,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://ingentis.onlyfy.jobs/en/job/0zv48eib1u2ptbpzp69ywbqvhlj1dk0",
+      "final_url": "https://ingentis.onlyfy.jobs/en/job/0zv48eib1u2ptbpzp69ywbqvhlj1dk0",
+      "redirects": [],
+      "jobs_found": 1,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://ingentis.onlyfy.jobs/en/job/bkbfx15444ulh77jwkixq1izv1p4m6g",
+      "final_url": "https://ingentis.onlyfy.jobs/en/job/bkbfx15444ulh77jwkixq1izv1p4m6g",
+      "redirects": [],
+      "jobs_found": 1,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://ingentis.onlyfy.jobs/en/policy",
+      "final_url": "https://ingentis.onlyfy.jobs/en/policy",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://ingentis.onlyfy.jobs/en/imprint",
+      "final_url": "https://ingentis.onlyfy.jobs/en/imprint",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    }
+  ],
+  "errors": [
+    {
+      "url": "https://ingentis.onlyfy.jobs/candidate/job/print/v3y8ge1radhxp1pgmoeobtnx9ejy03w?mode=print&lang=en",
+      "reason": "fetch_failed",
+      "error": "PDF-Linktitel oder Dateiname nennt kein ausgewähltes Unternehmen."
+    },
+    {
+      "url": "https://ingentis.onlyfy.jobs/candidate/job/print/fmhz9ox9kcrxbj8wfcqzy8q712syxg6?mode=print&lang=en",
+      "reason": "fetch_failed",
+      "error": "PDF-Linktitel oder Dateiname nennt kein ausgewähltes Unternehmen."
+    },
+    {
+      "url": "https://ingentis.onlyfy.jobs/candidate/job/print/hkwvvqfarqh8c1biv89koov694ubqeh?mode=print&lang=en",
+      "reason": "fetch_failed",
+      "error": "PDF-Linktitel oder Dateiname nennt kein ausgewähltes Unternehmen."
+    },
+    {
+      "url": "https://ingentis.onlyfy.jobs/candidate/job/print/6w1vz65j21q0tig0vd3l95j7m40z2d4?mode=print&lang=en",
+      "reason": "fetch_failed",
+      "error": "PDF-Linktitel oder Dateiname nennt kein ausgewähltes Unternehmen."
+    },
+    {
+      "url": "https://ingentis.onlyfy.jobs/candidate/job/print/wncn3tnywhmfjb6butk26v559f84s0s?mode=print&lang=en",
+      "reason": "fetch_failed",
+      "error": "PDF-Linktitel oder Dateiname nennt kein ausgewähltes Unternehmen."
+    },
+    {
+      "url": "https://ingentis.onlyfy.jobs/candidate/job/print/gwau59hnfe93zxrm5o1ivzwqhnhhoha?mode=print&lang=en",
+      "reason": "fetch_failed",
+      "error": "PDF-Linktitel oder Dateiname nennt kein ausgewähltes Unternehmen."
+    },
+    {
+      "url": "https://ingentis.onlyfy.jobs/candidate/job/print/07dzmr17ht1fjfb64mcxstbpply5wvp?mode=print&lang=en",
+      "reason": "fetch_failed",
+      "error": "PDF-Linktitel oder Dateiname nennt kein ausgewähltes Unternehmen."
+    },
+    {
+      "url": "https://ingentis.onlyfy.jobs/candidate/job/print/ogzpyz2qd7buvi7w64igf2pgzlfbf4s?mode=print&lang=en",
+      "reason": "fetch_failed",
+      "error": "PDF-Linktitel oder Dateiname nennt kein ausgewähltes Unternehmen."
+    },
+    {
+      "url": "https://ingentis.onlyfy.jobs/candidate/job/print/0zv48eib1u2ptbpzp69ywbqvhlj1dk0?mode=print&lang=en",
+      "reason": "fetch_failed",
+      "error": "PDF-Linktitel oder Dateiname nennt kein ausgewähltes Unternehmen."
+    },
+    {
+      "url": "https://ingentis.onlyfy.jobs/candidate/job/print/bkbfx15444ulh77jwkixq1izv1p4m6g?mode=print&lang=en",
+      "reason": "fetch_failed",
+      "error": "PDF-Linktitel oder Dateiname nennt kein ausgewähltes Unternehmen."
+    },
+    {
+      "url": "https://ingentis.onlyfy.jobs/en/policy",
+      "reason": "no_extractable_jobs_or_career_links",
+      "error": "Keine auslesbaren Stellen; JavaScript oder manuelle Prüfung erforderlich."
+    },
+    {
+      "url": "https://ingentis.onlyfy.jobs/en/imprint",
+      "reason": "no_extractable_jobs_or_career_links",
+      "error": "Keine auslesbaren Stellen; JavaScript oder manuelle Prüfung erforderlich."
+    }
+  ],
+  "excluded": [],
+  "sources": [
+    {
+      "url": "https://www.ingentis.com/",
+      "linked_from": null,
+      "mechanism": "configured"
+    },
+    {
+      "url": "https://ingentis.onlyfy.jobs/",
+      "linked_from": "https://www.ingentis.com/en/about-us/career/",
+      "mechanism": "employer_link"
+    },
+    {
+      "url": "https://ingentis.onlyfy.jobs/en",
+      "linked_from": "https://ingentis.onlyfy.jobs/",
+      "mechanism": "http_redirect"
+    }
+  ],
+  "adapter_attempts": [],
+  "coverage": {
+    "scope": "configured_sites_and_linked_career_portals",
+    "complete": false,
+    "pending_pages": 0,
+    "page_limit_reached": false,
+    "job_limit_reached": false,
+    "request_limit_reached": false,
+    "pages_attempted": 26,
+    "pages_read": 16,
+    "dynamic_or_unparsed_pages": true,
+    "http": {
+      "requests_attempted": 29,
+      "allocated_requests": 445,
+      "cache_hits": 0
+    }
+  },
+  "pending_urls": [],
+  "jobs_before_keyword_filter": 10
+}

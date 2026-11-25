@@ -1,0 +1,9 @@
+{
+  "url": "https://www.otris.de/robots.txt",
+  "final_url": "https://www.otris.de/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "fetched_at": "2026-11-25T16:17:40.290029+00:00",
+  "text": "User-agent: *\r\nDisallow: /wp-admin/\r\nAllow: /wp-admin/admin-ajax.php\r\nDisallow: /wp-content/uploads/wpforms/\r\nDisallow: /?s=\r\nDisallow: /page/*/?s=\r\nDisallow: /search/\r\n\r\nUser-agent: GPTBot\r\nAllow: /\r\n\r\nUser-agent: ChatGPT-User\r\nAllow: /\r\n\r\nUser-agent: ClaudeBot\r\nAllow: /\r\n\r\nUser-agent: Anthropic-AI\r\nAllow: /\r\n\r\nUser-agent: PerplexityBot\r\nAllow: /\r\n\r\nUser-agent: Google-Extended\r\nAllow: /\r\n\r\nUser-agent: Bingbot\r\nAllow: /\r\n\r\nUser-agent: OAI-SearchBot\r\nAllow: /\r\n\r\nUser-agent: Claude-Web\r\nAllow: /\r\n\r\nUser-agent: anthropic-ai\r\nAllow: /\r\n\r\nUser-agent: Google-Agent\r\nAllow: /\r\n\r\nUser-agent: Gemini-Deep-Research\r\nAllow: /\r\n\r\nUser-agent: Google-NotebookLM\r\nAllow: /\r\n\r\nUser-agent: Applebot\r\nAllow: /\r\n\r\nUser-agent: YouBot\r\nAllow: /\r\n\r\nUser-agent: DuckAssistBot\r\nAllow: /\r\n\r\nUser-agent: MistralAI-User\r\nAllow: /\r\n\r\nUser-agent: DeepSeekBot\r\nAllow: /\r\n\r\nSitemap: https://www.otris.de/sitemap.xml\n"
+}

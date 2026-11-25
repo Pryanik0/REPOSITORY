@@ -1,0 +1,9 @@
+{
+  "url": "https://vacucast.jobs.personio.com/xml",
+  "final_url": "https://vacucast.jobs.personio.com/xml",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/xml",
+  "fetched_at": "2026-11-25T16:07:25.616376+00:00",
+  "text": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n\n<workzag-jobs>\n\n\n</workzag-jobs>"
+}

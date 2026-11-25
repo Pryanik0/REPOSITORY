@@ -1,0 +1,561 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:ix="http://www.xbrl.org/2013/inlineXBRL" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xbrldi="http://xbrl.org/2006/xbrldi" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:ixt="http://www.xbrl.org/inlineXBRL/transformation/2022-02-16" xmlns:pcbcr="https://commission.europa.eu/taxonomy/pcbcr/2026-07-31/pcbcr_cor">
+<head>
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8"/>
+<title>pCBCR iXBRL</title>
+<style type="text/css">
+@page { size: A4 portrait; margin: 10mm; }
+@page landscape { size: A4 landscape; }
+body {font-family: Arial, sans-serif; font-size: 13px; color: #000; background: #fff; margin: 0; padding: 0;}
+.page { page-break-after: always; box-sizing: border-box; }
+.page:last-child { page-break-after: auto; }
+.page-landscape { page: landscape; }
+.top {margin-bottom: 20px; border-bottom: 2px solid #000; padding-bottom: 5px;}
+h1 {font-size: 18px; margin: 0; text-align: center;}
+.report-subtitle {font-size: 12px; font-weight: normal; color: #555; text-align: center; margin-top: 5px;}
+.section {margin-top: 30px; page-break-inside: avoid;}
+.section h2 {font-size: 15px; margin: 0 0 6px 0; border-bottom: 1px solid #000; padding-bottom: 2px;}
+.s3-subs { white-space: pre-line !important; }
+td.s1-label { background: #e6e6e6; font-weight: bold; }
+.para { white-space: pre-line; }
+th.mx-sepcol, td.mx-sepcol { width: 10px; min-width: 10px; max-width: 10px; padding-left: 1px; padding-right: 1px; }
+table {border-collapse: collapse; width: 100%; margin-bottom: 15px; table-layout: fixed;}
+th, td {border: 1px solid #000; padding: 6px 8px; vertical-align: top; overflow-wrap: anywhere; word-break: break-word; white-space: pre-line;}
+th {background: #e6e6e6; font-weight: bold; text-align: left; font-size: 11px; line-height: 1.15;}
+td {font-size: 12px; line-height: 1.2;}
+td { white-space: pre-line; }
+table.tbl-s2 td:nth-child(n+3) { white-space: nowrap; }
+th {background: #e6e6e6; font-weight: bold; text-align: left;}
+tr.mx-sep td { background: #e6e6e6; font-weight: bold; }
+tr.std-sep td { background: #e6e6e6; font-weight: bold; }
+td.mx-grey, th.mx-grey { background: #e6e6e6; }
+@media screen { .page { max-width: 1150px; margin: 15px auto; padding: 20px; } }
+</style></head><body>
+<div style="display:none">
+  <ix:header>
+    <ix:references>
+      <link:schemaRef xlink:type="simple" xlink:href="https://commission.europa.eu/taxonomy/pcbcr/2026-07-31/pcbcr_entry.xsd"/>
+    </ix:references>
+    <ix:resources>
+      <xbrli:context id="c_INST">
+        <xbrli:entity><xbrli:identifier scheme="urn:entity:name">Daiichi Sankyo Group</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:instant>2026-03-31</xbrli:instant></xbrli:period>
+      </xbrli:context>
+      <xbrli:context id="c_DUR">
+        <xbrli:entity><xbrli:identifier scheme="urn:entity:name">Daiichi Sankyo Group</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:startDate>2025-04-01</xbrli:startDate><xbrli:endDate>2026-03-31</xbrli:endDate></xbrli:period>
+      </xbrli:context>
+      <xbrli:context id="c_DUR_JUR_DE">
+        <xbrli:entity><xbrli:identifier scheme="urn:entity:name">Daiichi Sankyo Group</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:startDate>2025-04-01</xbrli:startDate><xbrli:endDate>2026-03-31</xbrli:endDate></xbrli:period>
+        <xbrli:scenario>
+          <xbrldi:typedMember dimension="pcbcr:NameOfMemberStateOrTaxJurisdictionTypedAxis"><pcbcr:TYP>Germany</pcbcr:TYP></xbrldi:typedMember>
+        </xbrli:scenario>
+      </xbrli:context>
+      <xbrli:context id="c_INST_JUR_DE">
+        <xbrli:entity><xbrli:identifier scheme="urn:entity:name">Daiichi Sankyo Group</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:instant>2026-03-31</xbrli:instant></xbrli:period>
+        <xbrli:scenario>
+          <xbrldi:typedMember dimension="pcbcr:NameOfMemberStateOrTaxJurisdictionTypedAxis"><pcbcr:TYP>Germany</pcbcr:TYP></xbrldi:typedMember>
+        </xbrli:scenario>
+      </xbrli:context>
+      <xbrli:context id="c_DUR_JUR_IT">
+        <xbrli:entity><xbrli:identifier scheme="urn:entity:name">Daiichi Sankyo Group</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:startDate>2025-04-01</xbrli:startDate><xbrli:endDate>2026-03-31</xbrli:endDate></xbrli:period>
+        <xbrli:scenario>
+          <xbrldi:typedMember dimension="pcbcr:NameOfMemberStateOrTaxJurisdictionTypedAxis"><pcbcr:TYP>Italy</pcbcr:TYP></xbrldi:typedMember>
+        </xbrli:scenario>
+      </xbrli:context>
+      <xbrli:context id="c_INST_JUR_IT">
+        <xbrli:entity><xbrli:identifier scheme="urn:entity:name">Daiichi Sankyo Group</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:instant>2026-03-31</xbrli:instant></xbrli:period>
+        <xbrli:scenario>
+          <xbrldi:typedMember dimension="pcbcr:NameOfMemberStateOrTaxJurisdictionTypedAxis"><pcbcr:TYP>Italy</pcbcr:TYP></xbrldi:typedMember>
+        </xbrli:scenario>
+      </xbrli:context>
+      <xbrli:context id="c_DUR_JUR_ES">
+        <xbrli:entity><xbrli:identifier scheme="urn:entity:name">Daiichi Sankyo Group</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:startDate>2025-04-01</xbrli:startDate><xbrli:endDate>2026-03-31</xbrli:endDate></xbrli:period>
+        <xbrli:scenario>
+          <xbrldi:typedMember dimension="pcbcr:NameOfMemberStateOrTaxJurisdictionTypedAxis"><pcbcr:TYP>Spain</pcbcr:TYP></xbrldi:typedMember>
+        </xbrli:scenario>
+      </xbrli:context>
+      <xbrli:context id="c_INST_JUR_ES">
+        <xbrli:entity><xbrli:identifier scheme="urn:entity:name">Daiichi Sankyo Group</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:instant>2026-03-31</xbrli:instant></xbrli:period>
+        <xbrli:scenario>
+          <xbrldi:typedMember dimension="pcbcr:NameOfMemberStateOrTaxJurisdictionTypedAxis"><pcbcr:TYP>Spain</pcbcr:TYP></xbrldi:typedMember>
+        </xbrli:scenario>
+      </xbrli:context>
+      <xbrli:context id="c_DUR_JUR_FR">
+        <xbrli:entity><xbrli:identifier scheme="urn:entity:name">Daiichi Sankyo Group</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:startDate>2025-04-01</xbrli:startDate><xbrli:endDate>2026-03-31</xbrli:endDate></xbrli:period>
+        <xbrli:scenario>
+          <xbrldi:typedMember dimension="pcbcr:NameOfMemberStateOrTaxJurisdictionTypedAxis"><pcbcr:TYP>France</pcbcr:TYP></xbrldi:typedMember>
+        </xbrli:scenario>
+      </xbrli:context>
+      <xbrli:context id="c_INST_JUR_FR">
+        <xbrli:entity><xbrli:identifier scheme="urn:entity:name">Daiichi Sankyo Group</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:instant>2026-03-31</xbrli:instant></xbrli:period>
+        <xbrli:scenario>
+          <xbrldi:typedMember dimension="pcbcr:NameOfMemberStateOrTaxJurisdictionTypedAxis"><pcbcr:TYP>France</pcbcr:TYP></xbrldi:typedMember>
+        </xbrli:scenario>
+      </xbrli:context>
+      <xbrli:context id="c_DUR_JUR_BE">
+        <xbrli:entity><xbrli:identifier scheme="urn:entity:name">Daiichi Sankyo Group</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:startDate>2025-04-01</xbrli:startDate><xbrli:endDate>2026-03-31</xbrli:endDate></xbrli:period>
+        <xbrli:scenario>
+          <xbrldi:typedMember dimension="pcbcr:NameOfMemberStateOrTaxJurisdictionTypedAxis"><pcbcr:TYP>Belgium</pcbcr:TYP></xbrldi:typedMember>
+        </xbrli:scenario>
+      </xbrli:context>
+      <xbrli:context id="c_INST_JUR_BE">
+        <xbrli:entity><xbrli:identifier scheme="urn:entity:name">Daiichi Sankyo Group</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:instant>2026-03-31</xbrli:instant></xbrli:period>
+        <xbrli:scenario>
+          <xbrldi:typedMember dimension="pcbcr:NameOfMemberStateOrTaxJurisdictionTypedAxis"><pcbcr:TYP>Belgium</pcbcr:TYP></xbrldi:typedMember>
+        </xbrli:scenario>
+      </xbrli:context>
+      <xbrli:context id="c_DUR_JUR_PT">
+        <xbrli:entity><xbrli:identifier scheme="urn:entity:name">Daiichi Sankyo Group</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:startDate>2025-04-01</xbrli:startDate><xbrli:endDate>2026-03-31</xbrli:endDate></xbrli:period>
+        <xbrli:scenario>
+          <xbrldi:typedMember dimension="pcbcr:NameOfMemberStateOrTaxJurisdictionTypedAxis"><pcbcr:TYP>Portugal</pcbcr:TYP></xbrldi:typedMember>
+        </xbrli:scenario>
+      </xbrli:context>
+      <xbrli:context id="c_INST_JUR_PT">
+        <xbrli:entity><xbrli:identifier scheme="urn:entity:name">Daiichi Sankyo Group</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:instant>2026-03-31</xbrli:instant></xbrli:period>
+        <xbrli:scenario>
+          <xbrldi:typedMember dimension="pcbcr:NameOfMemberStateOrTaxJurisdictionTypedAxis"><pcbcr:TYP>Portugal</pcbcr:TYP></xbrldi:typedMember>
+        </xbrli:scenario>
+      </xbrli:context>
+      <xbrli:context id="c_DUR_JUR_AT">
+        <xbrli:entity><xbrli:identifier scheme="urn:entity:name">Daiichi Sankyo Group</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:startDate>2025-04-01</xbrli:startDate><xbrli:endDate>2026-03-31</xbrli:endDate></xbrli:period>
+        <xbrli:scenario>
+          <xbrldi:typedMember dimension="pcbcr:NameOfMemberStateOrTaxJurisdictionTypedAxis"><pcbcr:TYP>Austria</pcbcr:TYP></xbrldi:typedMember>
+        </xbrli:scenario>
+      </xbrli:context>
+      <xbrli:context id="c_INST_JUR_AT">
+        <xbrli:entity><xbrli:identifier scheme="urn:entity:name">Daiichi Sankyo Group</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:instant>2026-03-31</xbrli:instant></xbrli:period>
+        <xbrli:scenario>
+          <xbrldi:typedMember dimension="pcbcr:NameOfMemberStateOrTaxJurisdictionTypedAxis"><pcbcr:TYP>Austria</pcbcr:TYP></xbrldi:typedMember>
+        </xbrli:scenario>
+      </xbrli:context>
+      <xbrli:context id="c_DUR_JUR_NL">
+        <xbrli:entity><xbrli:identifier scheme="urn:entity:name">Daiichi Sankyo Group</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:startDate>2025-04-01</xbrli:startDate><xbrli:endDate>2026-03-31</xbrli:endDate></xbrli:period>
+        <xbrli:scenario>
+          <xbrldi:typedMember dimension="pcbcr:NameOfMemberStateOrTaxJurisdictionTypedAxis"><pcbcr:TYP>Netherlands</pcbcr:TYP></xbrldi:typedMember>
+        </xbrli:scenario>
+      </xbrli:context>
+      <xbrli:context id="c_INST_JUR_NL">
+        <xbrli:entity><xbrli:identifier scheme="urn:entity:name">Daiichi Sankyo Group</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:instant>2026-03-31</xbrli:instant></xbrli:period>
+        <xbrli:scenario>
+          <xbrldi:typedMember dimension="pcbcr:NameOfMemberStateOrTaxJurisdictionTypedAxis"><pcbcr:TYP>Netherlands</pcbcr:TYP></xbrldi:typedMember>
+        </xbrli:scenario>
+      </xbrli:context>
+      <xbrli:context id="c_DUR_JUR_DK">
+        <xbrli:entity><xbrli:identifier scheme="urn:entity:name">Daiichi Sankyo Group</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:startDate>2025-04-01</xbrli:startDate><xbrli:endDate>2026-03-31</xbrli:endDate></xbrli:period>
+        <xbrli:scenario>
+          <xbrldi:typedMember dimension="pcbcr:NameOfMemberStateOrTaxJurisdictionTypedAxis"><pcbcr:TYP>Denmark</pcbcr:TYP></xbrldi:typedMember>
+        </xbrli:scenario>
+      </xbrli:context>
+      <xbrli:context id="c_INST_JUR_DK">
+        <xbrli:entity><xbrli:identifier scheme="urn:entity:name">Daiichi Sankyo Group</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:instant>2026-03-31</xbrli:instant></xbrli:period>
+        <xbrli:scenario>
+          <xbrldi:typedMember dimension="pcbcr:NameOfMemberStateOrTaxJurisdictionTypedAxis"><pcbcr:TYP>Denmark</pcbcr:TYP></xbrldi:typedMember>
+        </xbrli:scenario>
+      </xbrli:context>
+      <xbrli:context id="c_DUR_JUR_IE">
+        <xbrli:entity><xbrli:identifier scheme="urn:entity:name">Daiichi Sankyo Group</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:startDate>2025-04-01</xbrli:startDate><xbrli:endDate>2026-03-31</xbrli:endDate></xbrli:period>
+        <xbrli:scenario>
+          <xbrldi:typedMember dimension="pcbcr:NameOfMemberStateOrTaxJurisdictionTypedAxis"><pcbcr:TYP>Ireland</pcbcr:TYP></xbrldi:typedMember>
+        </xbrli:scenario>
+      </xbrli:context>
+      <xbrli:context id="c_INST_JUR_IE">
+        <xbrli:entity><xbrli:identifier scheme="urn:entity:name">Daiichi Sankyo Group</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:instant>2026-03-31</xbrli:instant></xbrli:period>
+        <xbrli:scenario>
+          <xbrldi:typedMember dimension="pcbcr:NameOfMemberStateOrTaxJurisdictionTypedAxis"><pcbcr:TYP>Ireland</pcbcr:TYP></xbrldi:typedMember>
+        </xbrli:scenario>
+      </xbrli:context>
+      <xbrli:context id="c_DUR_JUR_GR">
+        <xbrli:entity><xbrli:identifier scheme="urn:entity:name">Daiichi Sankyo Group</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:startDate>2025-04-01</xbrli:startDate><xbrli:endDate>2026-03-31</xbrli:endDate></xbrli:period>
+        <xbrli:scenario>
+          <xbrldi:typedMember dimension="pcbcr:NameOfMemberStateOrTaxJurisdictionTypedAxis"><pcbcr:TYP>Greece</pcbcr:TYP></xbrldi:typedMember>
+        </xbrli:scenario>
+      </xbrli:context>
+      <xbrli:context id="c_INST_JUR_GR">
+        <xbrli:entity><xbrli:identifier scheme="urn:entity:name">Daiichi Sankyo Group</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:instant>2026-03-31</xbrli:instant></xbrli:period>
+        <xbrli:scenario>
+          <xbrldi:typedMember dimension="pcbcr:NameOfMemberStateOrTaxJurisdictionTypedAxis"><pcbcr:TYP>Greece</pcbcr:TYP></xbrldi:typedMember>
+        </xbrli:scenario>
+      </xbrli:context>
+      <xbrli:context id="c_DUR_JUR_SE">
+        <xbrli:entity><xbrli:identifier scheme="urn:entity:name">Daiichi Sankyo Group</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:startDate>2025-04-01</xbrli:startDate><xbrli:endDate>2026-03-31</xbrli:endDate></xbrli:period>
+        <xbrli:scenario>
+          <xbrldi:typedMember dimension="pcbcr:NameOfMemberStateOrTaxJurisdictionTypedAxis"><pcbcr:TYP>Sweden</pcbcr:TYP></xbrldi:typedMember>
+        </xbrli:scenario>
+      </xbrli:context>
+      <xbrli:context id="c_INST_JUR_SE">
+        <xbrli:entity><xbrli:identifier scheme="urn:entity:name">Daiichi Sankyo Group</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:instant>2026-03-31</xbrli:instant></xbrli:period>
+        <xbrli:scenario>
+          <xbrldi:typedMember dimension="pcbcr:NameOfMemberStateOrTaxJurisdictionTypedAxis"><pcbcr:TYP>Sweden</pcbcr:TYP></xbrldi:typedMember>
+        </xbrli:scenario>
+      </xbrli:context>
+      <xbrli:context id="c_DUR_JUR_FI">
+        <xbrli:entity><xbrli:identifier scheme="urn:entity:name">Daiichi Sankyo Group</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:startDate>2025-04-01</xbrli:startDate><xbrli:endDate>2026-03-31</xbrli:endDate></xbrli:period>
+        <xbrli:scenario>
+          <xbrldi:typedMember dimension="pcbcr:NameOfMemberStateOrTaxJurisdictionTypedAxis"><pcbcr:TYP>Finland</pcbcr:TYP></xbrldi:typedMember>
+        </xbrli:scenario>
+      </xbrli:context>
+      <xbrli:context id="c_INST_JUR_FI">
+        <xbrli:entity><xbrli:identifier scheme="urn:entity:name">Daiichi Sankyo Group</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:instant>2026-03-31</xbrli:instant></xbrli:period>
+        <xbrli:scenario>
+          <xbrldi:typedMember dimension="pcbcr:NameOfMemberStateOrTaxJurisdictionTypedAxis"><pcbcr:TYP>Finland</pcbcr:TYP></xbrldi:typedMember>
+        </xbrli:scenario>
+      </xbrli:context>
+      <xbrli:context id="c_DUR_JUR_LU">
+        <xbrli:entity><xbrli:identifier scheme="urn:entity:name">Daiichi Sankyo Group</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:startDate>2025-04-01</xbrli:startDate><xbrli:endDate>2026-03-31</xbrli:endDate></xbrli:period>
+        <xbrli:scenario>
+          <xbrldi:typedMember dimension="pcbcr:NameOfMemberStateOrTaxJurisdictionTypedAxis"><pcbcr:TYP>Luxembourg</pcbcr:TYP></xbrldi:typedMember>
+        </xbrli:scenario>
+      </xbrli:context>
+      <xbrli:context id="c_INST_JUR_LU">
+        <xbrli:entity><xbrli:identifier scheme="urn:entity:name">Daiichi Sankyo Group</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:instant>2026-03-31</xbrli:instant></xbrli:period>
+        <xbrli:scenario>
+          <xbrldi:typedMember dimension="pcbcr:NameOfMemberStateOrTaxJurisdictionTypedAxis"><pcbcr:TYP>Luxembourg</pcbcr:TYP></xbrldi:typedMember>
+        </xbrli:scenario>
+      </xbrli:context>
+      <xbrli:context id="c_DUR_JUR_NO">
+        <xbrli:entity><xbrli:identifier scheme="urn:entity:name">Daiichi Sankyo Group</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:startDate>2025-04-01</xbrli:startDate><xbrli:endDate>2026-03-31</xbrli:endDate></xbrli:period>
+        <xbrli:scenario>
+          <xbrldi:typedMember dimension="pcbcr:NameOfMemberStateOrTaxJurisdictionTypedAxis"><pcbcr:TYP>Norway</pcbcr:TYP></xbrldi:typedMember>
+        </xbrli:scenario>
+      </xbrli:context>
+      <xbrli:context id="c_INST_JUR_NO">
+        <xbrli:entity><xbrli:identifier scheme="urn:entity:name">Daiichi Sankyo Group</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:instant>2026-03-31</xbrli:instant></xbrli:period>
+        <xbrli:scenario>
+          <xbrldi:typedMember dimension="pcbcr:NameOfMemberStateOrTaxJurisdictionTypedAxis"><pcbcr:TYP>Norway</pcbcr:TYP></xbrldi:typedMember>
+        </xbrli:scenario>
+      </xbrli:context>
+      <xbrli:unit id="u_JPY"><xbrli:measure>iso4217:JPY</xbrli:measure></xbrli:unit>
+      <xbrli:unit id="u_pure"><xbrli:measure>xbrli:pure</xbrli:measure></xbrli:unit>
+    </ix:resources>
+  </ix:header>
+</div>
+<div class="page page-portrait">
+  <div class="top"><h1>ERTRAGSTEUERINFORMATIONSBERICHT</h1><div class="report-subtitle">gemäß Kapitel 10a der Richtlinie 2013/34/EU („länderspezifische Berichte“)</div></div>
+  <div class="section">
+    <h2>Introduction</h2>
+    <p class="para">All values are made in JPY millions.</p>
+  </div>
+</div>
+<div class="page page-portrait">
+<div class="section"><h2>Abschnitt 1. Allgemeine Angaben</h2>
+<div class="block">
+<table><tbody>
+<tr><td class="s1-label">Name des obersten Mutterunternehmens der Gruppe/des unverbundenen Unternehmens</td><td><ix:nonNumeric id="f1" name="pcbcr:NameOfUltimateParentOfGroupOfStandaloneCompany" contextRef="c_DUR">Daiichi Sankyo Co., Ltd.</ix:nonNumeric></td></tr>
+<tr><td class="s1-label">Land des Unternehmenssitzes des obersten Mutterunternehmens</td><td><ix:nonNumeric id="f2" name="pcbcr:CountryOfRegisteredOfficeOfUltimateParentUndertaking" contextRef="c_DUR">Japan</ix:nonNumeric></td></tr>
+<tr><td class="s1-label">Datum des Beginns des Geschäftsjahrs</td><td><ix:nonNumeric id="f3" name="pcbcr:DateOfStartOfFinancialYear" contextRef="c_DUR">2025-04-01</ix:nonNumeric></td></tr>
+<tr><td class="s1-label">Datum des Endes des Geschäftsjahrs</td><td><ix:nonNumeric id="f4" name="pcbcr:DateOfEndOfFinancialYear" contextRef="c_DUR">2026-03-31</ix:nonNumeric></td></tr>
+<tr><td class="s1-label">Berichtswährung</td><td><ix:nonNumeric id="f5" name="pcbcr:ReportingCurrency" contextRef="c_DUR">JPY</ix:nonNumeric></td></tr>
+<tr><td class="s1-label">Anwendung der Option zur Meldung gemäß den Berichterstattungsvorgaben für Steuerzwecke</td><td><ix:nonNumeric id="f6" name="pcbcr:ApplicationOfOptionToReportInAccordanceWithTaxationReportingInstructions" contextRef="c_INST" format="ixt:fixed-true">true</ix:nonNumeric></td></tr>
+<tr><td class="s1-label">Name und Sitz eines einzelnes Tochterunternehmens, das den Ertragsteuerinformationsbericht eines Unternehmens veröffentlicht hat, das nicht dem Recht eines Mitgliedstaats unterliegt</td><td><ix:nonNumeric id="f7" name="pcbcr:NameOfSingleSubsidiaryPublishingNonEUUndertakingReport" contextRef="c_DUR">Daiichi Sankyo Europe GmbH
+Zielstattstr. 48, 81379 Munich</ix:nonNumeric></td></tr>
+<tr><td class="s1-label">Name und Anschrift einer einzelnen Zweigniederlassung, die den Ertragsteuerinformationsbericht eines Unternehmens veröffentlicht hat, das nicht dem Recht eines Mitgliedstaats unterliegt</td><td>-</td></tr>
+<tr><td class="s1-label">Sprache des Berichts</td><td><ix:nonNumeric id="f9" name="pcbcr:LanguageOfReport" contextRef="c_DUR">en</ix:nonNumeric></td></tr>
+</tbody></table></div></div></div>
+<div class="page page-landscape">
+<div class="section"><h2>Abschnitt 2. Überblick über Informationen nach Land</h2>
+<div class='block'><table class="tbl-s2">
+<thead><tr>
+<th>Name des Mitgliedstaats oder Steuerhoheitsgebiets</th>
+<th>Ländercode des Mitgliedstaats oder Steuerhoheitsgebiets</th>
+<th>Erträge</th>
+<th>Gewinn (Verlust) vor Steuern</th>
+<th>Gezahlte Ertragsteuer (auf Kassenbasis)</th>
+<th>Noch zu zahlende Ertragsteuer — laufendes Jahr</th>
+<th>Einbehaltener Gewinn</th>
+<th>Zahl der Beschäftigten</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Germany</td>
+<td><ix:nonNumeric id="f10" name="pcbcr:CountryCodeOfMemberStateOrTaxJurisdiction" contextRef="c_DUR_JUR_DE">DE</ix:nonNumeric></td>
+<td><ix:nonFraction id="f11" name="pcbcr:Revenues" contextRef="c_DUR_JUR_DE" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">692544</ix:nonFraction></td>
+<td><ix:nonFraction id="f12" name="pcbcr:ProfitLossBeforeTax" contextRef="c_DUR_JUR_DE" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">14297</ix:nonFraction></td>
+<td><ix:nonFraction id="f13" name="pcbcr:IncomeTaxPaidOnCashBasis" contextRef="c_DUR_JUR_DE" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">322</ix:nonFraction></td>
+<td><ix:nonFraction id="f14" name="pcbcr:IncomeTaxAccrued" contextRef="c_DUR_JUR_DE" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">4175</ix:nonFraction></td>
+<td><ix:nonFraction id="f15" name="pcbcr:AccumulatedEarnings" contextRef="c_INST_JUR_DE" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">70549</ix:nonFraction></td>
+<td><ix:nonFraction id="f16" name="pcbcr:NumberOfEmployees" contextRef="c_INST_JUR_DE" unitRef="u_pure" decimals="0" format="ixt:num-dot-decimal">2054</ix:nonFraction></td>
+</tr>
+<tr>
+<td>Italy</td>
+<td><ix:nonNumeric id="f17" name="pcbcr:CountryCodeOfMemberStateOrTaxJurisdiction" contextRef="c_DUR_JUR_IT">IT</ix:nonNumeric></td>
+<td><ix:nonFraction id="f18" name="pcbcr:Revenues" contextRef="c_DUR_JUR_IT" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">83841</ix:nonFraction></td>
+<td><ix:nonFraction id="f19" name="pcbcr:ProfitLossBeforeTax" contextRef="c_DUR_JUR_IT" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">2888</ix:nonFraction></td>
+<td><ix:nonFraction id="f20" name="pcbcr:IncomeTaxPaidOnCashBasis" contextRef="c_DUR_JUR_IT" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">2370</ix:nonFraction></td>
+<td><ix:nonFraction id="f21" name="pcbcr:IncomeTaxAccrued" contextRef="c_DUR_JUR_IT" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">2205</ix:nonFraction></td>
+<td><ix:nonFraction id="f22" name="pcbcr:AccumulatedEarnings" contextRef="c_INST_JUR_IT" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">1813</ix:nonFraction></td>
+<td><ix:nonFraction id="f23" name="pcbcr:NumberOfEmployees" contextRef="c_INST_JUR_IT" unitRef="u_pure" decimals="0" format="ixt:num-dot-decimal">265</ix:nonFraction></td>
+</tr>
+<tr>
+<td>Spain</td>
+<td><ix:nonNumeric id="f24" name="pcbcr:CountryCodeOfMemberStateOrTaxJurisdiction" contextRef="c_DUR_JUR_ES">ES</ix:nonNumeric></td>
+<td><ix:nonFraction id="f25" name="pcbcr:Revenues" contextRef="c_DUR_JUR_ES" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">58050</ix:nonFraction></td>
+<td><ix:nonFraction id="f26" name="pcbcr:ProfitLossBeforeTax" contextRef="c_DUR_JUR_ES" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">2760</ix:nonFraction></td>
+<td><ix:nonFraction id="f27" name="pcbcr:IncomeTaxPaidOnCashBasis" contextRef="c_DUR_JUR_ES" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">955</ix:nonFraction></td>
+<td><ix:nonFraction id="f28" name="pcbcr:IncomeTaxAccrued" contextRef="c_DUR_JUR_ES" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">775</ix:nonFraction></td>
+<td><ix:nonFraction id="f29" name="pcbcr:AccumulatedEarnings" contextRef="c_INST_JUR_ES" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">4500</ix:nonFraction></td>
+<td><ix:nonFraction id="f30" name="pcbcr:NumberOfEmployees" contextRef="c_INST_JUR_ES" unitRef="u_pure" decimals="0" format="ixt:num-dot-decimal">244</ix:nonFraction></td>
+</tr>
+<tr>
+<td>France</td>
+<td><ix:nonNumeric id="f31" name="pcbcr:CountryCodeOfMemberStateOrTaxJurisdiction" contextRef="c_DUR_JUR_FR">FR</ix:nonNumeric></td>
+<td><ix:nonFraction id="f32" name="pcbcr:Revenues" contextRef="c_DUR_JUR_FR" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">40465</ix:nonFraction></td>
+<td><ix:nonFraction id="f33" name="pcbcr:ProfitLossBeforeTax" contextRef="c_DUR_JUR_FR" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">2798</ix:nonFraction></td>
+<td><ix:nonFraction id="f34" name="pcbcr:IncomeTaxPaidOnCashBasis" contextRef="c_DUR_JUR_FR" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">1130</ix:nonFraction></td>
+<td><ix:nonFraction id="f35" name="pcbcr:IncomeTaxAccrued" contextRef="c_DUR_JUR_FR" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">1093</ix:nonFraction></td>
+<td><ix:nonFraction id="f36" name="pcbcr:AccumulatedEarnings" contextRef="c_INST_JUR_FR" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">622</ix:nonFraction></td>
+<td><ix:nonFraction id="f37" name="pcbcr:NumberOfEmployees" contextRef="c_INST_JUR_FR" unitRef="u_pure" decimals="0" format="ixt:num-dot-decimal">222</ix:nonFraction></td>
+</tr>
+<tr>
+<td>Belgium</td>
+<td><ix:nonNumeric id="f38" name="pcbcr:CountryCodeOfMemberStateOrTaxJurisdiction" contextRef="c_DUR_JUR_BE">BE</ix:nonNumeric></td>
+<td><ix:nonFraction id="f39" name="pcbcr:Revenues" contextRef="c_DUR_JUR_BE" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">22205</ix:nonFraction></td>
+<td><ix:nonFraction id="f40" name="pcbcr:ProfitLossBeforeTax" contextRef="c_DUR_JUR_BE" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">1038</ix:nonFraction></td>
+<td><ix:nonFraction id="f41" name="pcbcr:IncomeTaxPaidOnCashBasis" contextRef="c_DUR_JUR_BE" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">244</ix:nonFraction></td>
+<td><ix:nonFraction id="f42" name="pcbcr:IncomeTaxAccrued" contextRef="c_DUR_JUR_BE" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">272</ix:nonFraction></td>
+<td><ix:nonFraction id="f43" name="pcbcr:AccumulatedEarnings" contextRef="c_INST_JUR_BE" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">832</ix:nonFraction></td>
+<td><ix:nonFraction id="f44" name="pcbcr:NumberOfEmployees" contextRef="c_INST_JUR_BE" unitRef="u_pure" decimals="0" format="ixt:num-dot-decimal">84</ix:nonFraction></td>
+</tr>
+<tr>
+<td>Portugal</td>
+<td><ix:nonNumeric id="f45" name="pcbcr:CountryCodeOfMemberStateOrTaxJurisdiction" contextRef="c_DUR_JUR_PT">PT</ix:nonNumeric></td>
+<td><ix:nonFraction id="f46" name="pcbcr:Revenues" contextRef="c_DUR_JUR_PT" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">12336</ix:nonFraction></td>
+<td><ix:nonFraction id="f47" name="pcbcr:ProfitLossBeforeTax" contextRef="c_DUR_JUR_PT" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">614</ix:nonFraction></td>
+<td>-<ix:nonFraction id="f48" name="pcbcr:IncomeTaxPaidOnCashBasis" contextRef="c_DUR_JUR_PT" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal" sign="-">61</ix:nonFraction></td>
+<td><ix:nonFraction id="f49" name="pcbcr:IncomeTaxAccrued" contextRef="c_DUR_JUR_PT" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">102</ix:nonFraction></td>
+<td><ix:nonFraction id="f50" name="pcbcr:AccumulatedEarnings" contextRef="c_INST_JUR_PT" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">523</ix:nonFraction></td>
+<td><ix:nonFraction id="f51" name="pcbcr:NumberOfEmployees" contextRef="c_INST_JUR_PT" unitRef="u_pure" decimals="0" format="ixt:num-dot-decimal">69</ix:nonFraction></td>
+</tr>
+<tr>
+<td>Austria</td>
+<td><ix:nonNumeric id="f52" name="pcbcr:CountryCodeOfMemberStateOrTaxJurisdiction" contextRef="c_DUR_JUR_AT">AT</ix:nonNumeric></td>
+<td><ix:nonFraction id="f53" name="pcbcr:Revenues" contextRef="c_DUR_JUR_AT" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">17695</ix:nonFraction></td>
+<td><ix:nonFraction id="f54" name="pcbcr:ProfitLossBeforeTax" contextRef="c_DUR_JUR_AT" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">966</ix:nonFraction></td>
+<td><ix:nonFraction id="f55" name="pcbcr:IncomeTaxPaidOnCashBasis" contextRef="c_DUR_JUR_AT" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">214</ix:nonFraction></td>
+<td><ix:nonFraction id="f56" name="pcbcr:IncomeTaxAccrued" contextRef="c_DUR_JUR_AT" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">244</ix:nonFraction></td>
+<td><ix:nonFraction id="f57" name="pcbcr:AccumulatedEarnings" contextRef="c_INST_JUR_AT" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">733</ix:nonFraction></td>
+<td><ix:nonFraction id="f58" name="pcbcr:NumberOfEmployees" contextRef="c_INST_JUR_AT" unitRef="u_pure" decimals="0" format="ixt:num-dot-decimal">59</ix:nonFraction></td>
+</tr>
+<tr>
+<td>Netherlands</td>
+<td><ix:nonNumeric id="f59" name="pcbcr:CountryCodeOfMemberStateOrTaxJurisdiction" contextRef="c_DUR_JUR_NL">NL</ix:nonNumeric></td>
+<td><ix:nonFraction id="f60" name="pcbcr:Revenues" contextRef="c_DUR_JUR_NL" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">8496</ix:nonFraction></td>
+<td><ix:nonFraction id="f61" name="pcbcr:ProfitLossBeforeTax" contextRef="c_DUR_JUR_NL" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">382</ix:nonFraction></td>
+<td><ix:nonFraction id="f62" name="pcbcr:IncomeTaxPaidOnCashBasis" contextRef="c_DUR_JUR_NL" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">80</ix:nonFraction></td>
+<td><ix:nonFraction id="f63" name="pcbcr:IncomeTaxAccrued" contextRef="c_DUR_JUR_NL" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">79</ix:nonFraction></td>
+<td><ix:nonFraction id="f64" name="pcbcr:AccumulatedEarnings" contextRef="c_INST_JUR_NL" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">307</ix:nonFraction></td>
+<td><ix:nonFraction id="f65" name="pcbcr:NumberOfEmployees" contextRef="c_INST_JUR_NL" unitRef="u_pure" decimals="0" format="ixt:num-dot-decimal">32</ix:nonFraction></td>
+</tr>
+<tr>
+<td>Denmark</td>
+<td><ix:nonNumeric id="f66" name="pcbcr:CountryCodeOfMemberStateOrTaxJurisdiction" contextRef="c_DUR_JUR_DK">DK</ix:nonNumeric></td>
+<td><ix:nonFraction id="f67" name="pcbcr:Revenues" contextRef="c_DUR_JUR_DK" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">9975</ix:nonFraction></td>
+<td><ix:nonFraction id="f68" name="pcbcr:ProfitLossBeforeTax" contextRef="c_DUR_JUR_DK" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">607</ix:nonFraction></td>
+<td><ix:nonFraction id="f69" name="pcbcr:IncomeTaxPaidOnCashBasis" contextRef="c_DUR_JUR_DK" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">76</ix:nonFraction></td>
+<td><ix:nonFraction id="f70" name="pcbcr:IncomeTaxAccrued" contextRef="c_DUR_JUR_DK" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">137</ix:nonFraction></td>
+<td><ix:nonFraction id="f71" name="pcbcr:AccumulatedEarnings" contextRef="c_INST_JUR_DK" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">1009</ix:nonFraction></td>
+<td><ix:nonFraction id="f72" name="pcbcr:NumberOfEmployees" contextRef="c_INST_JUR_DK" unitRef="u_pure" decimals="0" format="ixt:num-dot-decimal">27</ix:nonFraction></td>
+</tr>
+<tr>
+<td>Ireland</td>
+<td><ix:nonNumeric id="f73" name="pcbcr:CountryCodeOfMemberStateOrTaxJurisdiction" contextRef="c_DUR_JUR_IE">IE</ix:nonNumeric></td>
+<td><ix:nonFraction id="f74" name="pcbcr:Revenues" contextRef="c_DUR_JUR_IE" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">4374</ix:nonFraction></td>
+<td><ix:nonFraction id="f75" name="pcbcr:ProfitLossBeforeTax" contextRef="c_DUR_JUR_IE" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">448</ix:nonFraction></td>
+<td><ix:nonFraction id="f76" name="pcbcr:IncomeTaxPaidOnCashBasis" contextRef="c_DUR_JUR_IE" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">33</ix:nonFraction></td>
+<td><ix:nonFraction id="f77" name="pcbcr:IncomeTaxAccrued" contextRef="c_DUR_JUR_IE" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">72</ix:nonFraction></td>
+<td><ix:nonFraction id="f78" name="pcbcr:AccumulatedEarnings" contextRef="c_INST_JUR_IE" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">787</ix:nonFraction></td>
+<td><ix:nonFraction id="f79" name="pcbcr:NumberOfEmployees" contextRef="c_INST_JUR_IE" unitRef="u_pure" decimals="0" format="ixt:num-dot-decimal">25</ix:nonFraction></td>
+</tr>
+<tr>
+<td>Greece</td>
+<td><ix:nonNumeric id="f80" name="pcbcr:CountryCodeOfMemberStateOrTaxJurisdiction" contextRef="c_DUR_JUR_GR">GR</ix:nonNumeric></td>
+<td><ix:nonFraction id="f81" name="pcbcr:Revenues" contextRef="c_DUR_JUR_GR" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">49</ix:nonFraction></td>
+<td><ix:nonFraction id="f82" name="pcbcr:ProfitLossBeforeTax" contextRef="c_DUR_JUR_GR" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">19</ix:nonFraction></td>
+<td><ix:nonFraction id="f83" name="pcbcr:IncomeTaxPaidOnCashBasis" contextRef="c_DUR_JUR_GR" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">6</ix:nonFraction></td>
+<td>-<ix:nonFraction id="f84" name="pcbcr:IncomeTaxAccrued" contextRef="c_DUR_JUR_GR" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal" sign="-">1</ix:nonFraction></td>
+<td><ix:nonFraction id="f85" name="pcbcr:AccumulatedEarnings" contextRef="c_INST_JUR_GR" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">23</ix:nonFraction></td>
+<td><ix:nonFraction id="f86" name="pcbcr:NumberOfEmployees" contextRef="c_INST_JUR_GR" unitRef="u_pure" decimals="0" format="ixt:num-dot-decimal">12</ix:nonFraction></td>
+</tr>
+<tr>
+<td>Sweden</td>
+<td><ix:nonNumeric id="f87" name="pcbcr:CountryCodeOfMemberStateOrTaxJurisdiction" contextRef="c_DUR_JUR_SE">SE</ix:nonNumeric></td>
+<td><ix:nonFraction id="f88" name="pcbcr:Revenues" contextRef="c_DUR_JUR_SE" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">224</ix:nonFraction></td>
+<td><ix:nonFraction id="f89" name="pcbcr:ProfitLossBeforeTax" contextRef="c_DUR_JUR_SE" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">12</ix:nonFraction></td>
+<td><ix:nonFraction id="f90" name="pcbcr:IncomeTaxPaidOnCashBasis" contextRef="c_DUR_JUR_SE" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">19</ix:nonFraction></td>
+<td><ix:nonFraction id="f91" name="pcbcr:IncomeTaxAccrued" contextRef="c_DUR_JUR_SE" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">2</ix:nonFraction></td>
+<td>-<ix:nonFraction id="f92" name="pcbcr:AccumulatedEarnings" contextRef="c_INST_JUR_SE" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal" sign="-">7</ix:nonFraction></td>
+<td><ix:nonFraction id="f93" name="pcbcr:NumberOfEmployees" contextRef="c_INST_JUR_SE" unitRef="u_pure" decimals="0" format="ixt:num-dot-decimal">7</ix:nonFraction></td>
+</tr>
+<tr>
+<td>Finland</td>
+<td><ix:nonNumeric id="f94" name="pcbcr:CountryCodeOfMemberStateOrTaxJurisdiction" contextRef="c_DUR_JUR_FI">FI</ix:nonNumeric></td>
+<td><ix:nonFraction id="f95" name="pcbcr:Revenues" contextRef="c_DUR_JUR_FI" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">96</ix:nonFraction></td>
+<td><ix:nonFraction id="f96" name="pcbcr:ProfitLossBeforeTax" contextRef="c_DUR_JUR_FI" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">12</ix:nonFraction></td>
+<td><ix:nonFraction id="f97" name="pcbcr:IncomeTaxPaidOnCashBasis" contextRef="c_DUR_JUR_FI" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">11</ix:nonFraction></td>
+<td><ix:nonFraction id="f98" name="pcbcr:IncomeTaxAccrued" contextRef="c_DUR_JUR_FI" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">3</ix:nonFraction></td>
+<td><ix:nonFraction id="f99" name="pcbcr:AccumulatedEarnings" contextRef="c_INST_JUR_FI" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">11</ix:nonFraction></td>
+<td><ix:nonFraction id="f100" name="pcbcr:NumberOfEmployees" contextRef="c_INST_JUR_FI" unitRef="u_pure" decimals="0" format="ixt:num-dot-decimal">3</ix:nonFraction></td>
+</tr>
+<tr>
+<td>Luxembourg</td>
+<td><ix:nonNumeric id="f101" name="pcbcr:CountryCodeOfMemberStateOrTaxJurisdiction" contextRef="c_DUR_JUR_LU">LU</ix:nonNumeric></td>
+<td><ix:nonFraction id="f102" name="pcbcr:Revenues" contextRef="c_DUR_JUR_LU" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">35</ix:nonFraction></td>
+<td><ix:nonFraction id="f103" name="pcbcr:ProfitLossBeforeTax" contextRef="c_DUR_JUR_LU" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">2</ix:nonFraction></td>
+<td><ix:nonFraction id="f104" name="pcbcr:IncomeTaxPaidOnCashBasis" contextRef="c_DUR_JUR_LU" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">0</ix:nonFraction></td>
+<td><ix:nonFraction id="f105" name="pcbcr:IncomeTaxAccrued" contextRef="c_DUR_JUR_LU" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">0</ix:nonFraction></td>
+<td><ix:nonFraction id="f106" name="pcbcr:AccumulatedEarnings" contextRef="c_INST_JUR_LU" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">0</ix:nonFraction></td>
+<td><ix:nonFraction id="f107" name="pcbcr:NumberOfEmployees" contextRef="c_INST_JUR_LU" unitRef="u_pure" decimals="0" format="ixt:num-dot-decimal">1</ix:nonFraction></td>
+</tr>
+<tr>
+<td>Norway</td>
+<td><ix:nonNumeric id="f108" name="pcbcr:CountryCodeOfMemberStateOrTaxJurisdiction" contextRef="c_DUR_JUR_NO">NO</ix:nonNumeric></td>
+<td><ix:nonFraction id="f109" name="pcbcr:Revenues" contextRef="c_DUR_JUR_NO" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">82</ix:nonFraction></td>
+<td><ix:nonFraction id="f110" name="pcbcr:ProfitLossBeforeTax" contextRef="c_DUR_JUR_NO" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">7</ix:nonFraction></td>
+<td><ix:nonFraction id="f111" name="pcbcr:IncomeTaxPaidOnCashBasis" contextRef="c_DUR_JUR_NO" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">11</ix:nonFraction></td>
+<td><ix:nonFraction id="f112" name="pcbcr:IncomeTaxAccrued" contextRef="c_DUR_JUR_NO" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">2</ix:nonFraction></td>
+<td><ix:nonFraction id="f113" name="pcbcr:AccumulatedEarnings" contextRef="c_INST_JUR_NO" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">16</ix:nonFraction></td>
+<td><ix:nonFraction id="f114" name="pcbcr:NumberOfEmployees" contextRef="c_INST_JUR_NO" unitRef="u_pure" decimals="0" format="ixt:num-dot-decimal">2</ix:nonFraction></td>
+</tr>
+<tr class="mx-sep"><td colspan="8">Alle anderen Steuerhoheits-gebiete (auf aggregierter Basis)</td></tr>
+<tr>
+<td class="mx-grey"></td><td class="mx-grey"></td>
+<td><ix:nonFraction id="f115" name="pcbcr:RevenuesOtherTaxJurisdictions" contextRef="c_DUR" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">3373244</ix:nonFraction></td>
+<td><ix:nonFraction id="f116" name="pcbcr:ProfitLossBeforeTaxOtherTaxJurisdictions" contextRef="c_DUR" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">584128</ix:nonFraction></td>
+<td><ix:nonFraction id="f117" name="pcbcr:IncomeTaxPaidOnCashBasisOtherTaxJurisdictions" contextRef="c_DUR" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">121973</ix:nonFraction></td>
+<td><ix:nonFraction id="f118" name="pcbcr:IncomeTaxAccruedOtherTaxJurisdictions" contextRef="c_DUR" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">153296</ix:nonFraction></td>
+<td><ix:nonFraction id="f119" name="pcbcr:AccumulatedEarningsOtherTaxJurisdictions" contextRef="c_INST" unitRef="u_JPY" decimals="0" format="ixt:num-dot-decimal">1317057</ix:nonFraction></td>
+<td><ix:nonFraction id="f120" name="pcbcr:NumberOfEmployeesOtherTaxJurisdictions" contextRef="c_INST" unitRef="u_pure" decimals="0" format="ixt:num-dot-decimal">17065</ix:nonFraction></td>
+</tr>
+</tbody>
+</table></div></div></div>
+<div class="page page-landscape">
+<div class="section"><h2>Abschnitt 3. Liste von Tochterunternehmen und Tätigkeiten</h2>
+<div class='block'><table><thead><tr><th>Name des Mitgliedstaats oder Steuerhoheitsgebiets</th><th>Ländercode des Mitgliedstaats oder Steuerhoheitsgebiets</th><th>Namen in den konsolidierten Abschluss des obersten Mutterunternehmens einbezogener Tochterunternehmen</th><th>Kurze Beschreibung der Art der Tätigkeiten im Mitgliedstaat oder Steuerhoheitsgebiet nach Ländern</th></tr></thead><tbody>
+<tr><td>Germany</td>
+<td><ix:nonNumeric id="f121" name="pcbcr:CountryCodeOfMemberStateOrTaxJurisdiction" contextRef="c_DUR_JUR_DE">DE</ix:nonNumeric></td>
+<td class="s3-subs"><ix:nonNumeric id="f122" name="pcbcr:DisclosureOfNamesOfSubsidiaryUndertakingsConsolidatedInFinancialStatementsOfUltimateParentUndertakingExplanatory" contextRef="c_DUR_JUR_DE">Daiichi Sankyo Europe GmbH
+Daiichi Sankyo Deutschland GmbH
+Daiichi Sankyo Northern Europe GmbH
+Daiichi Sankyo Real Estate GmbH
+Daiichi Sankyo Oncology Europe GmbH</ix:nonNumeric></td>
+<td><ix:nonNumeric id="f123" name="pcbcr:DescriptionOfNatureOfActivitiesOfSubsidiaryUndertakingsInMemberStateOrTaxJurisdictionExplanatory" contextRef="c_DUR_JUR_DE">F&amp;E, Beschaffung, Produktion, Vertrieb, Holding</ix:nonNumeric></td>
+</tr>
+<tr><td>Italy</td>
+<td><ix:nonNumeric id="f124" name="pcbcr:CountryCodeOfMemberStateOrTaxJurisdiction" contextRef="c_DUR_JUR_IT">IT</ix:nonNumeric></td>
+<td class="s3-subs"><ix:nonNumeric id="f125" name="pcbcr:DisclosureOfNamesOfSubsidiaryUndertakingsConsolidatedInFinancialStatementsOfUltimateParentUndertakingExplanatory" contextRef="c_DUR_JUR_IT">Daiichi Sankyo Italia S.p.A.</ix:nonNumeric></td>
+<td><ix:nonNumeric id="f126" name="pcbcr:DescriptionOfNatureOfActivitiesOfSubsidiaryUndertakingsInMemberStateOrTaxJurisdictionExplanatory" contextRef="c_DUR_JUR_IT">Vertrieb</ix:nonNumeric></td>
+</tr>
+<tr><td>Spain</td>
+<td><ix:nonNumeric id="f127" name="pcbcr:CountryCodeOfMemberStateOrTaxJurisdiction" contextRef="c_DUR_JUR_ES">ES</ix:nonNumeric></td>
+<td class="s3-subs"><ix:nonNumeric id="f128" name="pcbcr:DisclosureOfNamesOfSubsidiaryUndertakingsConsolidatedInFinancialStatementsOfUltimateParentUndertakingExplanatory" contextRef="c_DUR_JUR_ES">Daiichi Sankyo España S.A.</ix:nonNumeric></td>
+<td><ix:nonNumeric id="f129" name="pcbcr:DescriptionOfNatureOfActivitiesOfSubsidiaryUndertakingsInMemberStateOrTaxJurisdictionExplanatory" contextRef="c_DUR_JUR_ES">Vertrieb</ix:nonNumeric></td>
+</tr>
+<tr><td>France</td>
+<td><ix:nonNumeric id="f130" name="pcbcr:CountryCodeOfMemberStateOrTaxJurisdiction" contextRef="c_DUR_JUR_FR">FR</ix:nonNumeric></td>
+<td class="s3-subs"><ix:nonNumeric id="f131" name="pcbcr:DisclosureOfNamesOfSubsidiaryUndertakingsConsolidatedInFinancialStatementsOfUltimateParentUndertakingExplanatory" contextRef="c_DUR_JUR_FR">Daiichi Sankyo France S.A.S.
+Daiichi Sankyo Altkirch S.a.r.l.
+Daiichi Sankyo Oncology France S.A.S.</ix:nonNumeric></td>
+<td><ix:nonNumeric id="f132" name="pcbcr:DescriptionOfNatureOfActivitiesOfSubsidiaryUndertakingsInMemberStateOrTaxJurisdictionExplanatory" contextRef="c_DUR_JUR_FR">F&amp;E, Beschaffung, Produktion, Vertrieb</ix:nonNumeric></td>
+</tr>
+<tr><td>Belgium</td>
+<td><ix:nonNumeric id="f133" name="pcbcr:CountryCodeOfMemberStateOrTaxJurisdiction" contextRef="c_DUR_JUR_BE">BE</ix:nonNumeric></td>
+<td class="s3-subs"><ix:nonNumeric id="f134" name="pcbcr:DisclosureOfNamesOfSubsidiaryUndertakingsConsolidatedInFinancialStatementsOfUltimateParentUndertakingExplanatory" contextRef="c_DUR_JUR_BE">Daiichi Sankyo Belgium N.V.S.A.</ix:nonNumeric></td>
+<td><ix:nonNumeric id="f135" name="pcbcr:DescriptionOfNatureOfActivitiesOfSubsidiaryUndertakingsInMemberStateOrTaxJurisdictionExplanatory" contextRef="c_DUR_JUR_BE">Vertrieb</ix:nonNumeric></td>
+</tr>
+<tr><td>Portugal</td>
+<td><ix:nonNumeric id="f136" name="pcbcr:CountryCodeOfMemberStateOrTaxJurisdiction" contextRef="c_DUR_JUR_PT">PT</ix:nonNumeric></td>
+<td class="s3-subs"><ix:nonNumeric id="f137" name="pcbcr:DisclosureOfNamesOfSubsidiaryUndertakingsConsolidatedInFinancialStatementsOfUltimateParentUndertakingExplanatory" contextRef="c_DUR_JUR_PT">Daiichi Sankyo Portugal, Unipessoal Lda.</ix:nonNumeric></td>
+<td><ix:nonNumeric id="f138" name="pcbcr:DescriptionOfNatureOfActivitiesOfSubsidiaryUndertakingsInMemberStateOrTaxJurisdictionExplanatory" contextRef="c_DUR_JUR_PT">Vertrieb</ix:nonNumeric></td>
+</tr>
+<tr><td>Austria</td>
+<td><ix:nonNumeric id="f139" name="pcbcr:CountryCodeOfMemberStateOrTaxJurisdiction" contextRef="c_DUR_JUR_AT">AT</ix:nonNumeric></td>
+<td class="s3-subs"><ix:nonNumeric id="f140" name="pcbcr:DisclosureOfNamesOfSubsidiaryUndertakingsConsolidatedInFinancialStatementsOfUltimateParentUndertakingExplanatory" contextRef="c_DUR_JUR_AT">Daiichi Sankyo Austria GmbH</ix:nonNumeric></td>
+<td><ix:nonNumeric id="f141" name="pcbcr:DescriptionOfNatureOfActivitiesOfSubsidiaryUndertakingsInMemberStateOrTaxJurisdictionExplanatory" contextRef="c_DUR_JUR_AT">Vertrieb</ix:nonNumeric></td>
+</tr>
+<tr><td>Netherlands</td>
+<td><ix:nonNumeric id="f142" name="pcbcr:CountryCodeOfMemberStateOrTaxJurisdiction" contextRef="c_DUR_JUR_NL">NL</ix:nonNumeric></td>
+<td class="s3-subs"><ix:nonNumeric id="f143" name="pcbcr:DisclosureOfNamesOfSubsidiaryUndertakingsConsolidatedInFinancialStatementsOfUltimateParentUndertakingExplanatory" contextRef="c_DUR_JUR_NL">Daiichi Sankyo Nederland B.V.</ix:nonNumeric></td>
+<td><ix:nonNumeric id="f144" name="pcbcr:DescriptionOfNatureOfActivitiesOfSubsidiaryUndertakingsInMemberStateOrTaxJurisdictionExplanatory" contextRef="c_DUR_JUR_NL">Vertrieb</ix:nonNumeric></td>
+</tr>
+<tr><td>Denmark</td>
+<td><ix:nonNumeric id="f145" name="pcbcr:CountryCodeOfMemberStateOrTaxJurisdiction" contextRef="c_DUR_JUR_DK">DK</ix:nonNumeric></td>
+<td class="s3-subs"><ix:nonNumeric id="f146" name="pcbcr:DisclosureOfNamesOfSubsidiaryUndertakingsConsolidatedInFinancialStatementsOfUltimateParentUndertakingExplanatory" contextRef="c_DUR_JUR_DK">Daiichi Sankyo Nordics ApS</ix:nonNumeric></td>
+<td><ix:nonNumeric id="f147" name="pcbcr:DescriptionOfNatureOfActivitiesOfSubsidiaryUndertakingsInMemberStateOrTaxJurisdictionExplanatory" contextRef="c_DUR_JUR_DK">Vertrieb</ix:nonNumeric></td>
+</tr>
+<tr><td>Ireland</td>
+<td><ix:nonNumeric id="f148" name="pcbcr:CountryCodeOfMemberStateOrTaxJurisdiction" contextRef="c_DUR_JUR_IE">IE</ix:nonNumeric></td>
+<td class="s3-subs"><ix:nonNumeric id="f149" name="pcbcr:DisclosureOfNamesOfSubsidiaryUndertakingsConsolidatedInFinancialStatementsOfUltimateParentUndertakingExplanatory" contextRef="c_DUR_JUR_IE">Daiichi Sankyo Ireland Ltd.</ix:nonNumeric></td>
+<td><ix:nonNumeric id="f150" name="pcbcr:DescriptionOfNatureOfActivitiesOfSubsidiaryUndertakingsInMemberStateOrTaxJurisdictionExplanatory" contextRef="c_DUR_JUR_IE">Vertrieb</ix:nonNumeric></td>
+</tr>
+<tr><td>Greece</td>
+<td><ix:nonNumeric id="f151" name="pcbcr:CountryCodeOfMemberStateOrTaxJurisdiction" contextRef="c_DUR_JUR_GR">GR</ix:nonNumeric></td>
+<td class="s3-subs"><ix:nonNumeric id="f152" name="pcbcr:DisclosureOfNamesOfSubsidiaryUndertakingsConsolidatedInFinancialStatementsOfUltimateParentUndertakingExplanatory" contextRef="c_DUR_JUR_GR">Daiichi Sankyo Greece Single Member S.A.</ix:nonNumeric></td>
+<td><ix:nonNumeric id="f153" name="pcbcr:DescriptionOfNatureOfActivitiesOfSubsidiaryUndertakingsInMemberStateOrTaxJurisdictionExplanatory" contextRef="c_DUR_JUR_GR">Vertrieb</ix:nonNumeric></td>
+</tr>
+<tr><td>Sweden</td>
+<td><ix:nonNumeric id="f154" name="pcbcr:CountryCodeOfMemberStateOrTaxJurisdiction" contextRef="c_DUR_JUR_SE">SE</ix:nonNumeric></td>
+<td class="s3-subs"><ix:nonNumeric id="f155" name="pcbcr:DisclosureOfNamesOfSubsidiaryUndertakingsConsolidatedInFinancialStatementsOfUltimateParentUndertakingExplanatory" contextRef="c_DUR_JUR_SE">Daiichi Sankyo Nordics ApS (Sweden PE)</ix:nonNumeric></td>
+<td><ix:nonNumeric id="f156" name="pcbcr:DescriptionOfNatureOfActivitiesOfSubsidiaryUndertakingsInMemberStateOrTaxJurisdictionExplanatory" contextRef="c_DUR_JUR_SE">Vertrieb</ix:nonNumeric></td>
+</tr>
+<tr><td>Finland</td>
+<td><ix:nonNumeric id="f157" name="pcbcr:CountryCodeOfMemberStateOrTaxJurisdiction" contextRef="c_DUR_JUR_FI">FI</ix:nonNumeric></td>
+<td class="s3-subs"><ix:nonNumeric id="f158" name="pcbcr:DisclosureOfNamesOfSubsidiaryUndertakingsConsolidatedInFinancialStatementsOfUltimateParentUndertakingExplanatory" contextRef="c_DUR_JUR_FI">Daiichi Sankyo Nordics ApS (Finland PE)</ix:nonNumeric></td>
+<td><ix:nonNumeric id="f159" name="pcbcr:DescriptionOfNatureOfActivitiesOfSubsidiaryUndertakingsInMemberStateOrTaxJurisdictionExplanatory" contextRef="c_DUR_JUR_FI">Vertrieb</ix:nonNumeric></td>
+</tr>
+<tr><td>Luxembourg</td>
+<td><ix:nonNumeric id="f160" name="pcbcr:CountryCodeOfMemberStateOrTaxJurisdiction" contextRef="c_DUR_JUR_LU">LU</ix:nonNumeric></td>
+<td class="s3-subs"><ix:nonNumeric id="f161" name="pcbcr:DisclosureOfNamesOfSubsidiaryUndertakingsConsolidatedInFinancialStatementsOfUltimateParentUndertakingExplanatory" contextRef="c_DUR_JUR_LU">Daiichi Sankyo Belgium N.V.S.A.
+ (Luxembourg Branch)</ix:nonNumeric></td>
+<td><ix:nonNumeric id="f162" name="pcbcr:DescriptionOfNatureOfActivitiesOfSubsidiaryUndertakingsInMemberStateOrTaxJurisdictionExplanatory" contextRef="c_DUR_JUR_LU">Vertrieb</ix:nonNumeric></td>
+</tr>
+<tr><td>Norway</td>
+<td><ix:nonNumeric id="f163" name="pcbcr:CountryCodeOfMemberStateOrTaxJurisdiction" contextRef="c_DUR_JUR_NO">NO</ix:nonNumeric></td>
+<td class="s3-subs"><ix:nonNumeric id="f164" name="pcbcr:DisclosureOfNamesOfSubsidiaryUndertakingsConsolidatedInFinancialStatementsOfUltimateParentUndertakingExplanatory" contextRef="c_DUR_JUR_NO">Daiichi Sankyo Nordics ApS (Norway PE)</ix:nonNumeric></td>
+<td><ix:nonNumeric id="f165" name="pcbcr:DescriptionOfNatureOfActivitiesOfSubsidiaryUndertakingsInMemberStateOrTaxJurisdictionExplanatory" contextRef="c_DUR_JUR_NO">Vertrieb</ix:nonNumeric></td>
+</tr>
+</tbody></table></div></div></div>
+<div class="page page-portrait">
+<div class="section"><h2>Abschnitt 4. Nicht aufgenommene Informationen</h2>
+<div class="block"><table><thead><tr><th colspan="3">Angabe der Art nicht aufgenommener Informationen</th></tr><tr><th>Nicht aufgenommene Informationen</th><th>Nicht aufgenommene Informationen, andere Steuerhoheitsgebiete</th><th>Begründung der Nichtaufnahme von Informationen</th></tr></thead><tbody>
+<tr><td>-</td><td>-</td><td>-</td></tr>
+<tr><th colspan="3">Offenlegung von in früheren Geschäftsjahren nicht aufgenommenen Informationen</th></tr>
+<tr><td colspan="3">-</td></tr>
+</tbody></table></div></div></div>
+<div class="page page-portrait">
+<div class="section"><h2>Abschnitt 5. Erläuterungen zu wesentlichen Diskrepanzen zwischen gezahlten und noch zu zahlenden Ertragsteuern</h2>
+<div class="block">
+<table><thead><tr><th colspan="2">Erläuterungen zu wesentlichen Diskrepanzen zwischen gezahlten und noch zu zahlenden Ertragsteuern</th></tr></thead><tbody>
+<tr><td colspan="2">-</td></tr>
+</tbody></table></div></div></div>
+</body></html>

@@ -1,0 +1,9 @@
+{
+  "url": "https://www.finvia.fo/robots.txt",
+  "final_url": "https://www.finvia.fo/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "fetched_at": "2026-11-25T16:37:11.136902+00:00",
+  "text": "Disallow: /events/finvia-friends\nDisallow: /events/finvia-forecast-oktober\nDisallow: /ueber-finvia/team/nina-fillsack\n\n\nSitemap: https://www.finvia.fo/sitemap.xml"
+}

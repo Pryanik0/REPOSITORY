@@ -1,0 +1,538 @@
+{
+  "provider": "kununu",
+  "backend": "browser",
+  "status": "partial",
+  "query": "MAC IT-Solutions GmbH",
+  "profile": {
+    "url": "https://www.kununu.com/de/mac-it-solutions1",
+    "name": "MAC IT-Solutions",
+    "overall_score": 4.7,
+    "review_count": 73,
+    "recommendation_percent": 100,
+    "recommendation_period": "last_2_years",
+    "observed_at": "2026-11-25T17:16:20.270852+00:00"
+  },
+  "reviews": [
+    {
+      "id": "f5dc6af1-fc8c-4f25-8171-4a3b3dd3adc8",
+      "url": "https://www.kununu.com/de/mac-it-solutions1/bewertung/f5dc6af1-fc8c-4f25-8171-4a3b3dd3adc8",
+      "title": "Angenehmes Arbeitsklima & vielfältige Aufgabenbereiche",
+      "content": "Flexibles Arbeitszeitenmodell & vielfältige Aufgaben\n\nAngenehme Atmosphäre, sowie hilfsbereite Kollegen\n\nJeder hilft jedem",
+      "rating": 4.8,
+      "sections": {
+        "positive": "Flexibles Arbeitszeitenmodell & vielfältige Aufgaben",
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Angenehme Atmosphäre, sowie hilfsbereite Kollegen",
+        "teamwork": "Jeder hilft jedem"
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 4.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 4.0,
+        "image": 5.0,
+        "environment": 4.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-01-28T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "88e5c7a0-b5ff-4de0-8a9c-0f53ebed837c",
+      "url": "https://www.kununu.com/de/mac-it-solutions1/bewertung/88e5c7a0-b5ff-4de0-8a9c-0f53ebed837c",
+      "title": "Das Gesamtpaket stimmt!",
+      "content": "grüne Tonne für die Küche,\nMehr Schallschutz auf den großen Büroflächen\n\nEs herrscht eine positive Grundstimmung mit flachen Hierarchien und lockerem Umgang.\n\nBenefits wie Massagen Inhouse für kleines Geld, der Mittagstisch oder sehr gute und reichlich belegte Brötchen um 10 Uhr sind absolut nicht selbstverständlich.\n\nIst auf jeden Fall vorhanden. Gleitzeit wird sehr frei gehandhabt und Überstunden können abgefeiert werden. Manchmal werden projektbedingt Einsätze außerhalb der regulären Kernarbeitszeit nötig.\n\nZum Start werden interne Schulungen zum Produkt, sowie externe Entwicklerschalen von Microsoft angeboten. Es gibt ein Weiterbildungsbudget, auf das alle zugreifen können.\n\nWie immer Verhandlungssache. Es lässt sich bestimmt anderswo mehr verdienen, aber wahrscheinlich nicht so angenehm wie hier.\n\nDie Auto Flotte ist elektrisch. Es gibt leider immer noch keine grüne Tonne im Flensburger Büro ;)\n\nIch erlebe eine große Hilfsbereitschaft unabhängig von Teamzugehörigkeit. Mit meinen Herausforderungen wurde ich nie allein gelassen.\n\nNoch nie etwas Schlechtes Gehört, das Kollegium ist vom Alter her bunt gemischt mit vielen langjährigen KolegInnen.\n\nEs wird offen und respektvoll mit einander geredet und auch bei Interessenkonflikten eine gute Lösung sowohl für das Unternehmen, als auch die Mitarbeitenden angestrebt.\n\nVolle Homeoffice Ausstattung, überall höhenverstellbare Tische.\nIm Flensburger Büro sind viele größere Büroflächen, die bei voller Besetzung ein wenig unruhig werden können. Auf Nachfrage werden Kopfhörer mit Active Noice Cancelling angeboten. Persönliche Vorlieben bei Arbeitsmaterial, wie z.B. Tastatur oder Maus, werden beachtet.\nIn den Pausen kann man sich für wenig direkt Inhouse Geld massieren lassen.\n\nKann wie in so ziemlich jedem Unternehmen an einigen Stellen optimiert werden, aber grundsätzlich sind alle bemüht.\n\nBranchenbedingt sind wir Frauen in der Softwareentwicklung auch hier in der Unterzahl. Ich habe mich noch nie benachteiligt gefühlt.\n\nInteressen werden gestärkt und gefördert. Im Gegenzug kann auch schnell Verantwortung für größere Themen übertragen werden.",
+      "rating": 4.6,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": "grüne Tonne für die Küche,\nMehr Schallschutz auf den großen Büroflächen"
+      },
+      "factor_comments": {
+        "atmosphere": "Es herrscht eine positive Grundstimmung mit flachen Hierarchien und lockerem Umgang.",
+        "image": "Benefits wie Massagen Inhouse für kleines Geld, der Mittagstisch oder sehr gute und reichlich belegte Brötchen um 10 Uhr sind absolut nicht selbstverständlich.",
+        "workLife": "Ist auf jeden Fall vorhanden. Gleitzeit wird sehr frei gehandhabt und Überstunden können abgefeiert werden. Manchmal werden projektbedingt Einsätze außerhalb der regulären Kernarbeitszeit nötig.",
+        "career": "Zum Start werden interne Schulungen zum Produkt, sowie externe Entwicklerschalen von Microsoft angeboten. Es gibt ein Weiterbildungsbudget, auf das alle zugreifen können.",
+        "salary": "Wie immer Verhandlungssache. Es lässt sich bestimmt anderswo mehr verdienen, aber wahrscheinlich nicht so angenehm wie hier.",
+        "environment": "Die Auto Flotte ist elektrisch. Es gibt leider immer noch keine grüne Tonne im Flensburger Büro ;)",
+        "teamwork": "Ich erlebe eine große Hilfsbereitschaft unabhängig von Teamzugehörigkeit. Mit meinen Herausforderungen wurde ich nie allein gelassen.",
+        "oldColleagues": "Noch nie etwas Schlechtes Gehört, das Kollegium ist vom Alter her bunt gemischt mit vielen langjährigen KolegInnen.",
+        "leadership": "Es wird offen und respektvoll mit einander geredet und auch bei Interessenkonflikten eine gute Lösung sowohl für das Unternehmen, als auch die Mitarbeitenden angestrebt.",
+        "workConditions": "Volle Homeoffice Ausstattung, überall höhenverstellbare Tische.\nIm Flensburger Büro sind viele größere Büroflächen, die bei voller Besetzung ein wenig unruhig werden können. Auf Nachfrage werden Kopfhörer mit Active Noice Cancelling angeboten. Persönliche Vorlieben bei Arbeitsmaterial, wie z.B. Tastatur oder Maus, werden beachtet.\nIn den Pausen kann man sich für wenig direkt Inhouse Geld massieren lassen.",
+        "communication": "Kann wie in so ziemlich jedem Unternehmen an einigen Stellen optimiert werden, aber grundsätzlich sind alle bemüht.",
+        "equality": "Branchenbedingt sind wir Frauen in der Softwareentwicklung auch hier in der Unterzahl. Ich habe mich noch nie benachteiligt gefühlt.",
+        "tasks": "Interessen werden gestärkt und gefördert. Im Gegenzug kann auch schnell Verantwortung für größere Themen übertragen werden."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 4.0,
+        "workConditions": 4.0,
+        "leadership": 4.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 4.0,
+        "image": 5.0,
+        "environment": 4.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-11-10T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "245995bc-a0cd-4d95-9958-2e0b0efc2966",
+      "url": "https://www.kununu.com/de/mac-it-solutions1/bewertung/245995bc-a0cd-4d95-9958-2e0b0efc2966",
+      "title": "Toller Arbeitgeber, tolle Kollegen, vielfältige Aufgaben",
+      "content": "Vieles. Es wird viel dafür getan, dass die Mitarbeiter sich auf Arbeit wohlfühlen, den Mitarbeitern wird vertraut und viel Spielraum gegeben, was den täglichen Zeitraum der Arbeitszeit betrifft. Die Arbeitgeber sind in gesundem Maße verständnisvoll und kompromissbereit. Minusstunden sind grundsätzlich auch kein Problem, so lange die Arbeit geschafft und die Minusstunden später ausgeglichen werden. Die Atmosphäre im Büro ist gut, es gibt viele Möglichkeiten, um kurz abzuschalten (zB Massage, Tischkicker, Dart, um Beispiele zu nennen), die allgemeine Stimmung unter den Kollegen ist gut, es gibt Firmenevents und Teamevents, an denen man teilnehmen darf (nicht muss), die Firma bietet Benefits und Weiterbildungsmöglichkeiten.\n\nDas Gehalt ist nicht schlecht, aber auch nicht so hoch, wie es bei manch anderem IT-Unternehmen ist. Für SH ist es jedoch immer noch im Rahmen und man bekommt einen Arbeitgeber mit sehr guter Arbeitskultur.",
+      "rating": 4.8,
+      "sections": {
+        "positive": "Vieles. Es wird viel dafür getan, dass die Mitarbeiter sich auf Arbeit wohlfühlen, den Mitarbeitern wird vertraut und viel Spielraum gegeben, was den täglichen Zeitraum der Arbeitszeit betrifft. Die Arbeitgeber sind in gesundem Maße verständnisvoll und kompromissbereit. Minusstunden sind grundsätzlich auch kein Problem, so lange die Arbeit geschafft und die Minusstunden später ausgeglichen werden. Die Atmosphäre im Büro ist gut, es gibt viele Möglichkeiten, um kurz abzuschalten (zB Massage, Tischkicker, Dart, um Beispiele zu nennen), die allgemeine Stimmung unter den Kollegen ist gut, es gibt Firmenevents und Teamevents, an denen man teilnehmen darf (nicht muss), die Firma bietet Benefits und Weiterbildungsmöglichkeiten.",
+        "negative": "Das Gehalt ist nicht schlecht, aber auch nicht so hoch, wie es bei manch anderem IT-Unternehmen ist. Für SH ist es jedoch immer noch im Rahmen und man bekommt einen Arbeitgeber mit sehr guter Arbeitskultur.",
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 4.0,
+        "communication": 4.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 4.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-02-28T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "b0597c04-e8a5-4b3a-8a58-e0f10d1f24aa",
+      "url": "https://www.kununu.com/de/mac-it-solutions1/bewertung/b0597c04-e8a5-4b3a-8a58-e0f10d1f24aa",
+      "title": "Technical Consultant MAC",
+      "content": "",
+      "rating": 4.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-07-06T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "a06936af-1e5b-4596-8849-a112ad93913a",
+      "url": "https://www.kununu.com/de/mac-it-solutions1/bewertung/a06936af-1e5b-4596-8849-a112ad93913a",
+      "title": "Tolles Umfeld",
+      "content": "",
+      "rating": 4.5,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-07-06T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "459e0feb-666f-44ec-9d65-c8a9258d0cbc",
+      "url": "https://www.kununu.com/de/mac-it-solutions1/bewertung/459e0feb-666f-44ec-9d65-c8a9258d0cbc",
+      "title": "Sehr guter Ort für Berufsanfänger aus dem Studium",
+      "content": "",
+      "rating": 4.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-05-15T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "e5a4d6e0-9259-4bc1-b48d-3d926e1019cc",
+      "url": "https://www.kununu.com/de/mac-it-solutions1/bewertung/e5a4d6e0-9259-4bc1-b48d-3d926e1019cc",
+      "title": "Mega Arbeitgeber :)",
+      "content": "",
+      "rating": 4.9,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-04-24T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "c6a008ac-799e-4ee6-9352-2538e8df39da",
+      "url": "https://www.kununu.com/de/mac-it-solutions1/bewertung/c6a008ac-799e-4ee6-9352-2538e8df39da",
+      "title": "Super Moderne Firma. Tolle Teams und spannende Projekte.",
+      "content": "",
+      "rating": 4.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-03-04T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "b840c30f-cf44-4a0d-8203-ca769310ef04",
+      "url": "https://www.kununu.com/de/mac-it-solutions1/bewertung/b840c30f-cf44-4a0d-8203-ca769310ef04",
+      "title": "Meine Bewertung als Werkstudent",
+      "content": "",
+      "rating": 4.2,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-02-27T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "aaa82247-e5ff-442f-b310-75b2b18c071f",
+      "url": "https://www.kununu.com/de/mac-it-solutions1/bewertung/aaa82247-e5ff-442f-b310-75b2b18c071f",
+      "title": "Moderner Tech Stack, flexibles Arbeitsumfeld",
+      "content": "",
+      "rating": 5.0,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-02-26T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "57e102b7-c6c9-4ad5-b3d5-eb19fc8d3417",
+      "url": "https://www.kununu.com/de/mac-it-solutions1/bewertung/57e102b7-c6c9-4ad5-b3d5-eb19fc8d3417",
+      "title": "Ein tolles familiäres Unternehmen",
+      "content": "",
+      "rating": 4.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-01-28T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    }
+  ],
+  "review_limit": 15,
+  "review_period": {
+    "since": "2024-11-25T00:00:00+00:00",
+    "until": "2026-11-25T17:16:18.097850+00:00",
+    "date_field": "published_at",
+    "missing_dates": "excluded"
+  },
+  "factor_scores_aggregated": {
+    "atmosphere": {
+      "mean": 5.0,
+      "count": 3
+    },
+    "workLife": {
+      "mean": 4.67,
+      "count": 3
+    },
+    "communication": {
+      "mean": 4.0,
+      "count": 3
+    },
+    "workConditions": {
+      "mean": 4.67,
+      "count": 3
+    },
+    "leadership": {
+      "mean": 4.67,
+      "count": 3
+    },
+    "teamwork": {
+      "mean": 5.0,
+      "count": 3
+    },
+    "oldColleagues": {
+      "mean": 5.0,
+      "count": 3
+    },
+    "equality": {
+      "mean": 5.0,
+      "count": 3
+    },
+    "career": {
+      "mean": 5.0,
+      "count": 3
+    },
+    "salary": {
+      "mean": 4.0,
+      "count": 3
+    },
+    "image": {
+      "mean": 5.0,
+      "count": 3
+    },
+    "environment": {
+      "mean": 4.33,
+      "count": 3
+    },
+    "tasks": {
+      "mean": 5.0,
+      "count": 3
+    }
+  },
+  "coverage": "bounded_employee_review_sample_last_2_years_not_all_reviews",
+  "diagnostics": {
+    "pages": [
+      {
+        "page": "reviews",
+        "page_number": 1,
+        "load_more_clicks": 0,
+        "requested_url": "https://www.kununu.com/de/mac-it-solutions1/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\MAC-IT-Solutions-fcb73411\\browser\\reviews.html",
+        "browser_step": 86,
+        "final_url": "https://www.kununu.com/de/mac-it-solutions1/kommentare",
+        "observed_at": "2026-11-25T17:16:19.802545+00:00",
+        "http_status": 200,
+        "factor_cards_expanded": 5,
+        "reviews_collected": 3
+      },
+      {
+        "page": "reviews",
+        "page_number": 2,
+        "load_more_clicks": 1,
+        "requested_url": "https://www.kununu.com/de/mac-it-solutions1/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\MAC-IT-Solutions-fcb73411\\browser\\reviews-2.html",
+        "browser_step": 87,
+        "final_url": "https://www.kununu.com/de/mac-it-solutions1/kommentare",
+        "observed_at": "2026-11-25T17:16:21.572140+00:00",
+        "actions_complete": true,
+        "factor_cards_expanded": 4,
+        "reviews_collected": 3
+      },
+      {
+        "page": "reviews",
+        "page_number": 3,
+        "load_more_clicks": 2,
+        "requested_url": "https://www.kununu.com/de/mac-it-solutions1/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\MAC-IT-Solutions-fcb73411\\browser\\reviews-3.html",
+        "browser_step": 88,
+        "final_url": "https://www.kununu.com/de/mac-it-solutions1/kommentare",
+        "observed_at": "2026-11-25T17:16:23.425957+00:00",
+        "actions_complete": true,
+        "reviews_collected": 3
+      },
+      {
+        "page": "reviews",
+        "page_number": 4,
+        "load_more_clicks": 3,
+        "requested_url": "https://www.kununu.com/de/mac-it-solutions1/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\MAC-IT-Solutions-fcb73411\\browser\\reviews-4.html",
+        "browser_step": 89,
+        "final_url": "https://www.kununu.com/de/mac-it-solutions1/kommentare",
+        "observed_at": "2026-11-25T17:16:26.084863+00:00",
+        "actions_complete": true,
+        "reviews_collected": 11
+      },
+      {
+        "page": "reviews",
+        "page_number": 5,
+        "load_more_clicks": 4,
+        "requested_url": "https://www.kununu.com/de/mac-it-solutions1/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\MAC-IT-Solutions-fcb73411\\browser\\reviews-5.html",
+        "browser_step": 90,
+        "final_url": "https://www.kununu.com/de/mac-it-solutions1/kommentare",
+        "observed_at": "2026-11-25T17:16:28.425939+00:00",
+        "actions_complete": true,
+        "reviews_collected": 11,
+        "status": "error",
+        "reason": "review_page_limit_reached",
+        "error": "Maximal fünf Bewertungsabrufe je Firma erreicht; Stichprobe unvollständig."
+      }
+    ]
+  },
+  "source_url": "https://www.kununu.com/de/mac-it-solutions1",
+  "profile_source": "https://www.kununu.com/de/mac-it-solutions1/kommentare",
+  "review_stop_reason": "review_page_limit_reached",
+  "reason": "review_page_limit_reached",
+  "error": "reviews: Maximal fünf Bewertungsabrufe je Firma erreicht; Stichprobe unvollständig.",
+  "factor_score_coverage": {
+    "reviews_with_scores": 3,
+    "reviews_without_scores": 8,
+    "reviews_with_all_known_scores": 3,
+    "status": "partial"
+  },
+  "request_limits": {
+    "max_browser_steps": 295,
+    "browser_steps": 90,
+    "zyte_requests": 0
+  }
+}

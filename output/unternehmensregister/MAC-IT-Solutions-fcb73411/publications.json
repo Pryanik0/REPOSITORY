@@ -1,0 +1,88 @@
+{
+  "company": {
+    "key": "MAC IT-Solutions",
+    "name": "MAC IT-Solutions GmbH",
+    "location": "Flensburg",
+    "name_source": "company_name",
+    "urls": [
+      "https://www.mac-its.com/"
+    ],
+    "kununu_url": "https://www.kununu.com/de/mac-it-solutions1",
+    "branches": [
+      "IT & Telekommunikation"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "24941",
+    "street": "Lise-Meitner-Straße 14",
+    "region": "Schleswig-Holstein",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:50:58.429261+00:00",
+  "searches": [
+    {
+      "accounting_only": true,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=MAC+IT-Solutions+GmbH&companyLocation=Flensburg&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ACCOUNTING&drilldownFilter=22&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": false
+    },
+    {
+      "accounting_only": false,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=MAC+IT-Solutions+GmbH&companyLocation=Flensburg&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ALL_AREAS&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": false
+    }
+  ],
+  "excluded_company_matches": [],
+  "date_from": "2024-01-01",
+  "date_to": "2026-11-25",
+  "excluded_dates": [],
+  "max_publications": 30,
+  "truncated": false,
+  "coverage": {
+    "search_complete": true,
+    "more_pages": false,
+    "publication_limit_reached": false,
+    "downloads_selected": 3,
+    "downloads_succeeded": 3,
+    "download_limit_reached": false,
+    "downloads_complete": true,
+    "text_complete": true
+  },
+  "publications": [
+    {
+      "company": "MAC IT-Solutions GmbH, Flensburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-01-30",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=us3UPzlTqk0YaCz_3fAbKujy1Y4gkAiv7GPKOnjla5w7YftTgRDW2Inin7mLZfA0-ieHg7D7NIH5iO-B0FJ2u99sihNc5nE_nhQ43xxSHAAjNJKABQuszq5NL0PUEuIkjsPm-87d6EC8tSVMziWKbqNDIjLfmUC5KeO7dsoVy-VY2jTs279FicOENZtlLLDR4V9NjIU8hrkFOXeLB_t_fqYDrejYrInTmo7vaV3h-JwQUrHy",
+      "metadata": "MAC IT-Solutions GmbH, Flensburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 30.01.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 1
+    },
+    {
+      "company": "MAC IT-Solutions GmbH, Flensburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-01-27",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=tjW3w-i-ZZGY_anVSe6fk9mfpyXzm5ueCPgv70dx-mpoNmRl1-8xCt9LNPHGL-lB3I-DaC_ia4JX-22okfGPp0o0-88dS8FDYf7VIVjCthNw91fNP5YqM1vQ1tBCiPXX3Ufimwc9mvYv0eqGDHYf4LiMO27S4O7-rnThsO23mAanwVrwzwfgdXyTrodMrGekwFpOWEcDnho7WH-N8MwVTZxceP1KF7jJEWQQGrAEUj_i3_1f",
+      "metadata": "MAC IT-Solutions GmbH, Flensburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 27.01.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 2
+    },
+    {
+      "company": "MAC IT-Solutions GmbH, Flensburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-01-10",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=C-Me0Bj1749rj_SPEPlAn_WC3y_0E9BdcbIV4uRHk-s48VdDLQS7Hdb4iXvQ6i9AolFJwPm_RWv_yfnQtDYG_Q25J8vs1kJvfB7C_eP9v7pB-wwKlqNSayWJTyM0FJ_RLgz9FOdNPsZKmh0qW_mcPCZLlxBfMGAToGVCYpHaJ0ijHh3fNBkcBu_wo8VLCjzr8J7_VSk-XdWy0vmda_xiamAwqrfSeYldoz7wtg4PuwsNx4z2",
+      "metadata": "MAC IT-Solutions GmbH, Flensburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 10.01.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 3
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "url": "https://www.comcross.de/robots.txt",
+  "final_url": "https://www.comcross.de/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/plain",
+  "fetched_at": "2026-11-25T16:18:22.627242+00:00",
+  "text": "User-agent: *\nDisallow:\n"
+}

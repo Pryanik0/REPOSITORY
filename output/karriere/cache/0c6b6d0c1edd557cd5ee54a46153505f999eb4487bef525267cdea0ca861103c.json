@@ -1,0 +1,15 @@
+{
+  "url": "http://kulzer.de/robots.txt",
+  "final_url": "https://kulzer.de/robots.txt",
+  "redirects": [
+    {
+      "source": "http://kulzer.de/robots.txt",
+      "target": "https://kulzer.de/robots.txt",
+      "status": 301
+    }
+  ],
+  "status": 200,
+  "content_type": "text/plain",
+  "fetched_at": "2026-11-25T16:07:37.326361+00:00",
+  "text": "User-agent: *\nAllow: /\nSitemap: https://kulzer.de/de/de/xml-sitemap.xml\nSitemap: https://kulzer.de/de/de/xml-sitemap-products-1.xml\n"
+}

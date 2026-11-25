@@ -1,0 +1,64 @@
+{
+  "provider": "karriere",
+  "company": {
+    "key": "Taylor Wessing",
+    "name": "Taylor Wessing Partnerschaftsgesellschaft von Rechtsanwälten und Steuerberatern mbB",
+    "location": "Düsseldorf",
+    "name_source": "company_name",
+    "urls": [
+      "https://www.taylorwessing.com/"
+    ],
+    "kununu_url": "https://www.kununu.com/de/taylor-wessing",
+    "branches": [
+      "Rechtsberatung"
+    ],
+    "search_terms": [
+      "Taylor Wessing Partnerschaftsgesellschaft mbB"
+    ],
+    "career_urls": [],
+    "postal_code": "40213",
+    "street": "Benrather Straße 15",
+    "region": "Nordrhein-Westfalen",
+    "career_sitemap_locations": [],
+    "implisense_id": "DEQZHAMYC367"
+  },
+  "searched_at": "2026-11-25T16:15:37.305660+00:00",
+  "status": "error",
+  "jobs": [],
+  "pages": [],
+  "errors": [
+    {
+      "url": "https://www.taylorwessing.com/",
+      "reason": "fetch_failed",
+      "error": "robots.txt HTTP 403; Zugriffsberechtigung unklar."
+    }
+  ],
+  "excluded": [],
+  "sources": [
+    {
+      "url": "https://www.taylorwessing.com/",
+      "linked_from": null,
+      "mechanism": "configured"
+    }
+  ],
+  "adapter_attempts": [],
+  "coverage": {
+    "scope": "configured_sites_and_linked_career_portals",
+    "complete": false,
+    "pending_pages": 0,
+    "page_limit_reached": false,
+    "job_limit_reached": false,
+    "request_limit_reached": false,
+    "pages_attempted": 1,
+    "pages_read": 0,
+    "dynamic_or_unparsed_pages": false,
+    "http": {
+      "requests_attempted": 1,
+      "allocated_requests": 599,
+      "cache_hits": 0
+    }
+  },
+  "pending_urls": [],
+  "jobs_before_keyword_filter": 0,
+  "reason": "search_incomplete"
+}

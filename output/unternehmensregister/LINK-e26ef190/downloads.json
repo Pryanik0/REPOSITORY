@@ -1,0 +1,56 @@
+[
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=HwMVvfp3YOlDPbcnl9rl4Q2lOrTo2qdTUGv3ifG5ney8k0jwnkcCUupilcyyeIc4hkm944iwWUTa4JUnem1iAPQaek_Fnku97S0LzHciwBrt7KWNH3j7A8thUIfUo1tLhaYA-mempLoYOxIB3CfbvDpSxAgswTUx70MeC-e1nr7d6AkzoGeq2-4CW95WSNKOfKHhCADApzNGrhYiJJNEs2wri3bsY8ENaRk5dWKqpwKL0FI",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\LINK-e26ef190\\bekanntmachungen\\publication-1\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\LINK-e26ef190\\bekanntmachungen\\publication-1\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\LINK-e26ef190\\bekanntmachungen\\publication-1\\publication.txt",
+    "index": 1,
+    "category": "bekanntmachungen",
+    "company": "WALDEMAR LINK GmbH & Co. KG, Hamburg",
+    "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+    "documents_path": "output\\unternehmensregister\\LINK-e26ef190\\bekanntmachungen\\publication-1\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=icWG7-3n4hH5w9G_L_UILWmP904pJ7qnaNEyGvtym7Yk1PthwfA7ws3AFEaoaC74ze614oJmGF6lFZRH6N1qvt7aZwRrSKCSesCJrna38Ma9MVsV-IYCDpKnYsusZAWQ6miRflDhWljS_SGd-KYgAS1VvvVkIxnooF-7RBkiZmHNcLb2DM9gsgav3Gn5a9GokOH9F3dFkeM-uYQ59QODa4qiCuWiy9dwFWE7HHDme5AJ0EE",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\LINK-e26ef190\\bekanntmachungen\\publication-2\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\LINK-e26ef190\\bekanntmachungen\\publication-2\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\LINK-e26ef190\\bekanntmachungen\\publication-2\\publication.txt",
+    "index": 2,
+    "category": "bekanntmachungen",
+    "company": "WALDEMAR LINK GmbH & Co. KG, Hamburg",
+    "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+    "documents_path": "output\\unternehmensregister\\LINK-e26ef190\\bekanntmachungen\\publication-2\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=UaKbksiZ7MgEas5uHHWtOsZsOalnD6duZhhzEYohwVEidiDA3hdCD1-OF0Fn0MgV_W_V-1xl4wcxQjTNy5xoeo1pupYQjDBSBF2fAY_sFxFJjBfiJj-p7vf9obXuo3kKlaIJ1QkvUW-bFvZLQ2f7v93NVvxDuuc28TzuTB1QYTL4fAsg2K3M2VMPoA6aMvLqZRsUqi7VAKOs81VWbgjztjgInagsY_4QniV--jNR8oKLijs",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\LINK-e26ef190\\bekanntmachungen\\publication-3\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\LINK-e26ef190\\bekanntmachungen\\publication-3\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\LINK-e26ef190\\bekanntmachungen\\publication-3\\publication.txt",
+    "index": 3,
+    "category": "bekanntmachungen",
+    "company": "WALDEMAR LINK GmbH & Co. KG, Hamburg",
+    "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+    "documents_path": "output\\unternehmensregister\\LINK-e26ef190\\bekanntmachungen\\publication-3\\documents.json"
+  }
+]

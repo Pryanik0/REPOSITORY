@@ -1,0 +1,2986 @@
+{
+  "provider": "gewerkschaften",
+  "date_from": "2026-05-25",
+  "date_to": "2026-11-25",
+  "companies": {
+    "mediCAD": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\mediCAD-241a81f7\\snapshot.json",
+      "search_coverage": {
+        "fetched": 6,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "elderbrook solutions": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\elderbrook-solutions-9b3a7ad0\\snapshot.json",
+      "search_coverage": {
+        "fetched": 6,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "Kyowa Kirin International": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\Kyowa-Kirin-International-5b71de53\\snapshot.json",
+      "search_coverage": {
+        "fetched": 6,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "Recor Medical": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\Recor-Medical-63f8737a\\snapshot.json",
+      "search_coverage": {
+        "fetched": 6,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "Daiichi Sankyo Europe": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\Daiichi-Sankyo-Europe-fd95d50e\\snapshot.json",
+      "search_coverage": {
+        "fetched": 9,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "WINDSTAR MEDICAL": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\WINDSTAR-MEDICAL-988bcbbe\\snapshot.json",
+      "search_coverage": {
+        "fetched": 6,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "Centrient Pharmaceuticals": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\Centrient-Pharmaceuticals-82eaef83\\snapshot.json",
+      "search_coverage": {
+        "fetched": 6,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "HERMES PHARMA": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\HERMES-PHARMA-f03bf4b2\\snapshot.json",
+      "search_coverage": {
+        "fetched": 6,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "LINK": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\LINK-e26ef190\\snapshot.json",
+      "search_coverage": {
+        "fetched": 6,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "Kulzer": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\Kulzer-eab975bf\\snapshot.json",
+      "search_coverage": {
+        "fetched": 6,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "Novaled": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\Novaled-cfec40d3\\snapshot.json",
+      "search_coverage": {
+        "fetched": 6,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "Klosterfrau Healthcare": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\Klosterfrau-Healthcare-1f9eafae\\snapshot.json",
+      "search_coverage": {
+        "fetched": 9,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "Dr. Pfleger Arzneimittel": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\Dr-Pfleger-Arzneimittel-ab3d2c1b\\snapshot.json",
+      "search_coverage": {
+        "fetched": 6,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "Resuscitec": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\Resuscitec-6d490c85\\snapshot.json",
+      "search_coverage": {
+        "fetched": 6,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "Medicon": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\Medicon-c17557a5\\snapshot.json",
+      "search_coverage": {
+        "fetched": 9,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "XION": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\XION-8033f08d\\snapshot.json",
+      "search_coverage": {
+        "fetched": 6,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "Charite Research Organisation": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\Charite-Research-Organisation-6f20409c\\snapshot.json",
+      "search_coverage": {
+        "fetched": 6,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "Finzelberg": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\Finzelberg-3604eecd\\snapshot.json",
+      "search_coverage": {
+        "fetched": 6,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "KOB": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\KOB-6acc73f3\\snapshot.json",
+      "search_coverage": {
+        "fetched": 9,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "CEEZER Software": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\CEEZER-Software-83ce8337\\snapshot.json",
+      "search_coverage": {
+        "fetched": 4,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 1
+      },
+      "article_count": 0
+    },
+    "Ingentis Softwareentwicklung": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\Ingentis-Softwareentwicklung-1bf884a2\\snapshot.json",
+      "search_coverage": {
+        "fetched": 4,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 1
+      },
+      "article_count": 0
+    },
+    "Eurofiber Netz": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\Eurofiber-Netz-ca101010\\snapshot.json",
+      "search_coverage": {
+        "fetched": 4,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 1
+      },
+      "article_count": 0
+    },
+    "Deutsche Pfandbriefbank": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\Deutsche-Pfandbriefbank-e7f3d2c4\\snapshot.json",
+      "search_coverage": {
+        "fetched": 4,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "Hamburg Commercial Bank": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\Hamburg-Commercial-Bank-bed70406\\snapshot.json",
+      "search_coverage": {
+        "fetched": 4,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "MBS Logistics": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\MBS-Logistics-0396b8f9\\snapshot.json",
+      "search_coverage": {
+        "fetched": 4,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "MSG Systems": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\MSG-Systems-5bc73aa0\\snapshot.json",
+      "search_coverage": {
+        "fetched": 4,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 1
+      },
+      "article_count": 0
+    },
+    "agido": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\agido-4225e284\\snapshot.json",
+      "search_coverage": {
+        "fetched": 4,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 1
+      },
+      "article_count": 0
+    },
+    "NÜRNBERGER Versicherungsgruppe": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\N-RNBERGER-Versicherungsgruppe-4237d53f\\snapshot.json",
+      "search_coverage": {
+        "fetched": 4,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "Allgeier IT Services": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\Allgeier-IT-Services-6be16c45\\snapshot.json",
+      "search_coverage": {
+        "fetched": 4,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 1
+      },
+      "article_count": 0
+    },
+    "MAC IT-Solutions": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\MAC-IT-Solutions-fcb73411\\snapshot.json",
+      "search_coverage": {
+        "fetched": 4,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 1
+      },
+      "article_count": 0
+    },
+    "SGL Carbon": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\SGL-Carbon-cd155304\\snapshot.json",
+      "search_coverage": {
+        "fetched": 6,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "Taylor Wessing": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\Taylor-Wessing-b5cb2cce\\snapshot.json",
+      "search_coverage": {
+        "fetched": 6,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "Diakonie Düsseldorf": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\Diakonie-D-sseldorf-2b7acdf6\\snapshot.json",
+      "search_coverage": {
+        "fetched": 6,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "Stadt Köln": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\Stadt-K-ln-fe0037e7\\snapshot.json",
+      "search_coverage": {
+        "fetched": 3,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "Hermes Deutschland": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\Hermes-Deutschland-ee3a1575\\snapshot.json",
+      "search_coverage": {
+        "fetched": 4,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "otris software AG": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\otris-software-AG-5310ef0f\\snapshot.json",
+      "search_coverage": {
+        "fetched": 2,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 1
+      },
+      "article_count": 0
+    },
+    "Deutsche Rück": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\Deutsche-R-ck-d5b4f190\\snapshot.json",
+      "search_coverage": {
+        "fetched": 2,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "Sparkasse Vest": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\Sparkasse-Vest-7b1d9cca\\snapshot.json",
+      "search_coverage": {
+        "fetched": 2,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "Comcross": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\Comcross-ebb4ce09\\snapshot.json",
+      "search_coverage": {
+        "fetched": 2,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "Kreisverwaltung des Westerwaldkreises": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\Kreisverwaltung-des-Westerwaldkreises-ed6bb608\\snapshot.json",
+      "search_coverage": {
+        "fetched": 3,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "Rosenberger": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\Rosenberger-72f8c9db\\snapshot.json",
+      "search_coverage": {
+        "fetched": 2,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 1
+      },
+      "article_count": 0
+    },
+    "OVB MEDIA": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\OVB-MEDIA-9ed67fc1\\snapshot.json",
+      "search_coverage": {
+        "fetched": 3,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "Sinnwell": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\Sinnwell-12299be5\\snapshot.json",
+      "search_coverage": {
+        "fetched": 2,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "Cybertrading GmbH": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\Cybertrading-GmbH-9ea8cb12\\snapshot.json",
+      "search_coverage": {
+        "fetched": 2,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "Berg-Energie": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\Berg-Energie-5a43e776\\snapshot.json",
+      "search_coverage": {
+        "fetched": 3,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "Adlershorst": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\Adlershorst-7e560485\\snapshot.json",
+      "search_coverage": {
+        "fetched": 2,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "Scheidt-Bachmann": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\Scheidt-Bachmann-64c73604\\snapshot.json",
+      "search_coverage": {
+        "fetched": 2,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 1
+      },
+      "article_count": 0
+    },
+    "Schoellershammer": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\Schoellershammer-c87237d3\\snapshot.json",
+      "search_coverage": {
+        "fetched": 2,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "Hasse": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\Hasse-b9232a41\\snapshot.json",
+      "search_coverage": {
+        "fetched": 3,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "tink": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\tink-68efe261\\snapshot.json",
+      "search_coverage": {
+        "fetched": 2,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "REISSWOLF Bayern GmbH": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\REISSWOLF-Bayern-GmbH-3af42708\\snapshot.json",
+      "search_coverage": {
+        "fetched": 2,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "Buss Port Services GmbH": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\Buss-Port-Services-GmbH-fd674510\\snapshot.json",
+      "search_coverage": {
+        "fetched": 2,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "sea chefs": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\sea-chefs-94a3b5ac\\snapshot.json",
+      "search_coverage": {
+        "fetched": 2,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "FINVIA Family Office GmbH": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\FINVIA-Family-Office-GmbH-8726f618\\snapshot.json",
+      "search_coverage": {
+        "fetched": 2,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "welovepr": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\welovepr-004f42ca\\snapshot.json",
+      "search_coverage": {
+        "fetched": 2,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "constellr": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\constellr-4aa40ef0\\snapshot.json",
+      "search_coverage": {
+        "fetched": 2,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "simpleclub": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\simpleclub-ad0918ec\\snapshot.json",
+      "search_coverage": {
+        "fetched": 2,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 2
+      },
+      "article_count": 0
+    },
+    "bmedx": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\bmedx-45119e49\\snapshot.json",
+      "search_coverage": {
+        "fetched": 3,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    },
+    "Gerresheimer Bünde GmbH": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "path": "output\\gewerkschaften\\Gerresheimer-B-nde-GmbH-89219cce\\snapshot.json",
+      "search_coverage": {
+        "fetched": 3,
+        "error": 0,
+        "not_attempted": 0,
+        "ignored_query": 0,
+        "sites_without_search": 0
+      },
+      "article_count": 0
+    }
+  },
+  "sites": [
+    {
+      "name": "dbb",
+      "organization": "dbb",
+      "status": "partial",
+      "company_keys": [
+        "Stadt Köln",
+        "Kreisverwaltung des Westerwaldkreises"
+      ],
+      "phase": "primary",
+      "manifest": "output\\gewerkschaften\\_sites\\dbb-52d39e84\\manifest.json",
+      "article_count": 0,
+      "searches": [
+        {
+          "url": "https://www.dbb.de/suche/?id=2425&tx_kesearch_pi1%5Bpage%5D=1&tx_kesearch_pi1%5BresetFilters%5D=0&tx_kesearch_pi1%5BsortByField%5D=sortdate&tx_kesearch_pi1%5BsortByDir%5D=desc&tx_kesearch_pi1%5Bsword%5D=Stadt+K%C3%B6ln",
+          "company_key": "Stadt Köln",
+          "query": "Stadt Köln",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dbb.de/suche/?id=2425&tx_kesearch_pi1%5Bpage%5D=1&tx_kesearch_pi1%5BresetFilters%5D=0&tx_kesearch_pi1%5BsortByField%5D=sortdate&tx_kesearch_pi1%5BsortByDir%5D=desc&tx_kesearch_pi1%5Bsword%5D=Kreisverwaltung+des+Westerwaldkreises",
+          "company_key": "Kreisverwaltung des Westerwaldkreises",
+          "query": "Kreisverwaltung des Westerwaldkreises",
+          "mechanism": "get_form",
+          "status": "fetched"
+        }
+      ],
+      "truncated": true,
+      "pdf_count": 0,
+      "search_mode": "site_search",
+      "page_coverage": {
+        "search_pages": 2,
+        "content_pages": 50,
+        "search_page_limit": 15,
+        "content_page_limit": 50,
+        "queued_remaining": 119,
+        "queue_limit_reached": false
+      }
+    },
+    {
+      "name": "DJV",
+      "organization": "DJV",
+      "status": "partial",
+      "company_keys": [
+        "OVB MEDIA"
+      ],
+      "phase": "primary",
+      "manifest": "output\\gewerkschaften\\_sites\\DJV-b63f3943\\manifest.json",
+      "article_count": 0,
+      "searches": [
+        {
+          "url": "https://www.djv.de/suche/?tx_solr%5Bq%5D=OVB+MEDIA",
+          "company_key": "OVB MEDIA",
+          "query": "OVB MEDIA",
+          "mechanism": "get_form",
+          "status": "fetched"
+        }
+      ],
+      "truncated": true,
+      "pdf_count": 0,
+      "search_mode": "site_search",
+      "page_coverage": {
+        "search_pages": 1,
+        "content_pages": 50,
+        "search_page_limit": 15,
+        "content_page_limit": 50,
+        "queued_remaining": 320,
+        "queue_limit_reached": false
+      }
+    },
+    {
+      "name": "GEW",
+      "organization": "GEW",
+      "status": "error",
+      "company_keys": [
+        "simpleclub"
+      ],
+      "phase": "primary",
+      "manifest": "output\\gewerkschaften\\_sites\\GEW-9d738b87\\manifest.json",
+      "article_count": 0,
+      "searches": [],
+      "truncated": false,
+      "pdf_count": 0,
+      "search_mode": "link_discovery",
+      "page_coverage": {
+        "search_pages": 0,
+        "content_pages": 1,
+        "search_page_limit": 15,
+        "content_page_limit": 50,
+        "queued_remaining": 0,
+        "queue_limit_reached": false
+      }
+    },
+    {
+      "name": "IG BCE",
+      "organization": "IG BCE",
+      "status": "complete",
+      "company_keys": [
+        "mediCAD",
+        "elderbrook solutions",
+        "Kyowa Kirin International",
+        "Recor Medical",
+        "Daiichi Sankyo Europe",
+        "WINDSTAR MEDICAL",
+        "Centrient Pharmaceuticals",
+        "HERMES PHARMA",
+        "LINK",
+        "Kulzer",
+        "Novaled",
+        "Klosterfrau Healthcare",
+        "Dr. Pfleger Arzneimittel",
+        "Resuscitec",
+        "Medicon",
+        "XION",
+        "Charite Research Organisation",
+        "Finzelberg",
+        "KOB",
+        "SGL Carbon",
+        "Berg-Energie",
+        "Hasse",
+        "bmedx",
+        "Gerresheimer Bünde GmbH"
+      ],
+      "phase": "primary",
+      "manifest": "output\\gewerkschaften\\_sites\\IG-BCE-3b602192\\manifest.json",
+      "article_count": 0,
+      "searches": [
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=mediCAD",
+          "company_key": "mediCAD",
+          "query": "mediCAD",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=mediCAD+Hectec+GmbH",
+          "company_key": "mediCAD",
+          "query": "mediCAD Hectec GmbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=elderbrook+solutions",
+          "company_key": "elderbrook solutions",
+          "query": "elderbrook solutions",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=elderbrook+solutions+GmbH",
+          "company_key": "elderbrook solutions",
+          "query": "elderbrook solutions GmbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=Kyowa+Kirin+International",
+          "company_key": "Kyowa Kirin International",
+          "query": "Kyowa Kirin International",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=Kyowa+Kirin+GmbH",
+          "company_key": "Kyowa Kirin International",
+          "query": "Kyowa Kirin GmbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=Recor+Medical",
+          "company_key": "Recor Medical",
+          "query": "Recor Medical",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=Recor+Medical+Europe+GmbH",
+          "company_key": "Recor Medical",
+          "query": "Recor Medical Europe GmbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=Daiichi+Sankyo+Europe",
+          "company_key": "Daiichi Sankyo Europe",
+          "query": "Daiichi Sankyo Europe",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=Daiichi+Sankyo+Europe+GmbH",
+          "company_key": "Daiichi Sankyo Europe",
+          "query": "Daiichi Sankyo Europe GmbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=Daiichi+Sankyo+Deutschland+GmbH",
+          "company_key": "Daiichi Sankyo Europe",
+          "query": "Daiichi Sankyo Deutschland GmbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=WINDSTAR+MEDICAL",
+          "company_key": "WINDSTAR MEDICAL",
+          "query": "WINDSTAR MEDICAL",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=WindStar+Medical+GmbH",
+          "company_key": "WINDSTAR MEDICAL",
+          "query": "WindStar Medical GmbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=Centrient+Pharmaceuticals",
+          "company_key": "Centrient Pharmaceuticals",
+          "query": "Centrient Pharmaceuticals",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=Centrient+Pharmaceuticals+Netherlands+B.V.",
+          "company_key": "Centrient Pharmaceuticals",
+          "query": "Centrient Pharmaceuticals Netherlands B.V.",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=HERMES+PHARMA",
+          "company_key": "HERMES PHARMA",
+          "query": "HERMES PHARMA",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=HERMES+PHARMA+GmbH",
+          "company_key": "HERMES PHARMA",
+          "query": "HERMES PHARMA GmbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=LINK",
+          "company_key": "LINK",
+          "query": "LINK",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=Waldemar+Link+GmbH+%26+Co.+KG",
+          "company_key": "LINK",
+          "query": "Waldemar Link GmbH & Co. KG",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=Kulzer",
+          "company_key": "Kulzer",
+          "query": "Kulzer",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=Kulzer+GmbH",
+          "company_key": "Kulzer",
+          "query": "Kulzer GmbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=Novaled",
+          "company_key": "Novaled",
+          "query": "Novaled",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=Novaled+GmbH",
+          "company_key": "Novaled",
+          "query": "Novaled GmbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=Klosterfrau+Healthcare",
+          "company_key": "Klosterfrau Healthcare",
+          "query": "Klosterfrau Healthcare",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=Maria+Clementine+Martin+Klosterfrau+Vertriebsgesellschaft+mbH",
+          "company_key": "Klosterfrau Healthcare",
+          "query": "Maria Clementine Martin Klosterfrau Vertriebsgesellschaft mbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=MCM+Klosterfrau+Vertriebsgesellschaft+mbH",
+          "company_key": "Klosterfrau Healthcare",
+          "query": "MCM Klosterfrau Vertriebsgesellschaft mbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=Dr.+Pfleger+Arzneimittel",
+          "company_key": "Dr. Pfleger Arzneimittel",
+          "query": "Dr. Pfleger Arzneimittel",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=Dr.+Pfleger+Arzneimittel+GmbH",
+          "company_key": "Dr. Pfleger Arzneimittel",
+          "query": "Dr. Pfleger Arzneimittel GmbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=Resuscitec",
+          "company_key": "Resuscitec",
+          "query": "Resuscitec",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=Resuscitec+GmbH",
+          "company_key": "Resuscitec",
+          "query": "Resuscitec GmbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=Medicon",
+          "company_key": "Medicon",
+          "query": "Medicon",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=Medicon+eG.+Chirurgiemechaniker-Genossenschaft",
+          "company_key": "Medicon",
+          "query": "Medicon eG. Chirurgiemechaniker-Genossenschaft",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=Medicon+eG",
+          "company_key": "Medicon",
+          "query": "Medicon eG",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=XION",
+          "company_key": "XION",
+          "query": "XION",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=XION+GmbH",
+          "company_key": "XION",
+          "query": "XION GmbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=Charite+Research+Organisation",
+          "company_key": "Charite Research Organisation",
+          "query": "Charite Research Organisation",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=Charit%C3%A9+Research+Organisation+GmbH",
+          "company_key": "Charite Research Organisation",
+          "query": "Charité Research Organisation GmbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=Finzelberg",
+          "company_key": "Finzelberg",
+          "query": "Finzelberg",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=Finzelberg+GmbH+%26+Co.+KG",
+          "company_key": "Finzelberg",
+          "query": "Finzelberg GmbH & Co. KG",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=KOB",
+          "company_key": "KOB",
+          "query": "KOB",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=KOB+GmbH",
+          "company_key": "KOB",
+          "query": "KOB GmbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=Karl+Otto+Braun",
+          "company_key": "KOB",
+          "query": "Karl Otto Braun",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=SGL+Carbon",
+          "company_key": "SGL Carbon",
+          "query": "SGL Carbon",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=SGL+Carbon+SE",
+          "company_key": "SGL Carbon",
+          "query": "SGL Carbon SE",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=Berg-Energie",
+          "company_key": "Berg-Energie",
+          "query": "Berg-Energie",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=Hasse",
+          "company_key": "Hasse",
+          "query": "Hasse",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=bmedx",
+          "company_key": "bmedx",
+          "query": "bmedx",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=Gerresheimer+B%C3%BCnde+GmbH",
+          "company_key": "Gerresheimer Bünde GmbH",
+          "query": "Gerresheimer Bünde GmbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        }
+      ],
+      "truncated": false,
+      "pdf_count": 0,
+      "search_mode": "site_search",
+      "page_coverage": {
+        "search_pages": 48,
+        "content_pages": 18,
+        "search_page_limit": 48,
+        "content_page_limit": 50,
+        "queued_remaining": 0,
+        "queue_limit_reached": false
+      }
+    },
+    {
+      "name": "IG Metall",
+      "organization": "IG Metall",
+      "status": "partial",
+      "company_keys": [
+        "CEEZER Software",
+        "Ingentis Softwareentwicklung",
+        "Eurofiber Netz",
+        "MSG Systems",
+        "agido",
+        "Allgeier IT Services",
+        "MAC IT-Solutions",
+        "otris software AG",
+        "Rosenberger",
+        "Scheidt-Bachmann"
+      ],
+      "phase": "primary",
+      "manifest": "output\\gewerkschaften\\_sites\\IG-Metall-5a6ca4e6\\manifest.json",
+      "article_count": 0,
+      "searches": [],
+      "truncated": true,
+      "pdf_count": 0,
+      "search_mode": "feeds_and_links",
+      "page_coverage": {
+        "search_pages": 0,
+        "content_pages": 50,
+        "search_page_limit": 20,
+        "content_page_limit": 50,
+        "queued_remaining": 14,
+        "queue_limit_reached": false
+      }
+    },
+    {
+      "name": "VBE",
+      "organization": "VBE",
+      "status": "partial",
+      "company_keys": [
+        "simpleclub"
+      ],
+      "phase": "primary",
+      "manifest": "output\\gewerkschaften\\_sites\\VBE-a42a62e8\\manifest.json",
+      "article_count": 0,
+      "searches": [],
+      "truncated": true,
+      "pdf_count": 0,
+      "search_mode": "link_discovery",
+      "page_coverage": {
+        "search_pages": 1,
+        "content_pages": 50,
+        "search_page_limit": 15,
+        "content_page_limit": 50,
+        "queued_remaining": 215,
+        "queue_limit_reached": false
+      }
+    },
+    {
+      "name": "ver.di",
+      "organization": "ver.di",
+      "status": "partial",
+      "company_keys": [
+        "CEEZER Software",
+        "Ingentis Softwareentwicklung",
+        "Eurofiber Netz",
+        "Deutsche Pfandbriefbank",
+        "Hamburg Commercial Bank",
+        "MSG Systems",
+        "agido",
+        "NÜRNBERGER Versicherungsgruppe",
+        "Allgeier IT Services",
+        "MAC IT-Solutions",
+        "Stadt Köln",
+        "otris software AG",
+        "Deutsche Rück",
+        "Sparkasse Vest",
+        "Kreisverwaltung des Westerwaldkreises",
+        "Cybertrading GmbH",
+        "Berg-Energie",
+        "REISSWOLF Bayern GmbH",
+        "simpleclub"
+      ],
+      "phase": "primary",
+      "manifest": "output\\gewerkschaften\\_sites\\ver-di-51994702\\manifest.json",
+      "article_count": 0,
+      "searches": [
+        {
+          "url": "https://www.verdi.de/suche?q=CEEZER+Software",
+          "company_key": "CEEZER Software",
+          "query": "CEEZER Software",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=CEEZER+Software+GmbH",
+          "company_key": "CEEZER Software",
+          "query": "CEEZER Software GmbH",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Ingentis+Softwareentwicklung",
+          "company_key": "Ingentis Softwareentwicklung",
+          "query": "Ingentis Softwareentwicklung",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Ingentis+Softwareentwicklung+GmbH",
+          "company_key": "Ingentis Softwareentwicklung",
+          "query": "Ingentis Softwareentwicklung GmbH",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Eurofiber+Netz",
+          "company_key": "Eurofiber Netz",
+          "query": "Eurofiber Netz",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Eurofiber+Netz+GmbH",
+          "company_key": "Eurofiber Netz",
+          "query": "Eurofiber Netz GmbH",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Deutsche+Pfandbriefbank",
+          "company_key": "Deutsche Pfandbriefbank",
+          "query": "Deutsche Pfandbriefbank",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Deutsche+Pfandbriefbank+AG",
+          "company_key": "Deutsche Pfandbriefbank",
+          "query": "Deutsche Pfandbriefbank AG",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Hamburg+Commercial+Bank",
+          "company_key": "Hamburg Commercial Bank",
+          "query": "Hamburg Commercial Bank",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Hamburg+Commercial+Bank+AG",
+          "company_key": "Hamburg Commercial Bank",
+          "query": "Hamburg Commercial Bank AG",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=MSG+Systems",
+          "company_key": "MSG Systems",
+          "query": "MSG Systems",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=msg+systems+ag",
+          "company_key": "MSG Systems",
+          "query": "msg systems ag",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=agido",
+          "company_key": "agido",
+          "query": "agido",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=agido+GmbH",
+          "company_key": "agido",
+          "query": "agido GmbH",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=N%C3%9CRNBERGER+Versicherungsgruppe",
+          "company_key": "NÜRNBERGER Versicherungsgruppe",
+          "query": "NÜRNBERGER Versicherungsgruppe",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=N%C3%9CRNBERGER+Beteiligungs-AG",
+          "company_key": "NÜRNBERGER Versicherungsgruppe",
+          "query": "NÜRNBERGER Beteiligungs-AG",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Allgeier+IT+Services",
+          "company_key": "Allgeier IT Services",
+          "query": "Allgeier IT Services",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=AVENDIS+GmbH",
+          "company_key": "Allgeier IT Services",
+          "query": "AVENDIS GmbH",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=MAC+IT-Solutions",
+          "company_key": "MAC IT-Solutions",
+          "query": "MAC IT-Solutions",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=MAC+IT-Solutions+GmbH",
+          "company_key": "MAC IT-Solutions",
+          "query": "MAC IT-Solutions GmbH",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Stadt+K%C3%B6ln",
+          "company_key": "Stadt Köln",
+          "query": "Stadt Köln",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=otris+software+AG",
+          "company_key": "otris software AG",
+          "query": "otris software AG",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Deutsche+R%C3%BCck",
+          "company_key": "Deutsche Rück",
+          "query": "Deutsche Rück",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Sparkasse+Vest",
+          "company_key": "Sparkasse Vest",
+          "query": "Sparkasse Vest",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Kreisverwaltung+des+Westerwaldkreises",
+          "company_key": "Kreisverwaltung des Westerwaldkreises",
+          "query": "Kreisverwaltung des Westerwaldkreises",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Cybertrading+GmbH",
+          "company_key": "Cybertrading GmbH",
+          "query": "Cybertrading GmbH",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Berg-Energie",
+          "company_key": "Berg-Energie",
+          "query": "Berg-Energie",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=REISSWOLF+Bayern+GmbH",
+          "company_key": "REISSWOLF Bayern GmbH",
+          "query": "REISSWOLF Bayern GmbH",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=simpleclub",
+          "company_key": "simpleclub",
+          "query": "simpleclub",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        }
+      ],
+      "truncated": true,
+      "pdf_count": 0,
+      "search_mode": "site_search",
+      "page_coverage": {
+        "search_pages": 29,
+        "content_pages": 50,
+        "search_page_limit": 38,
+        "content_page_limit": 50,
+        "queued_remaining": 126,
+        "queue_limit_reached": false
+      }
+    },
+    {
+      "name": "DGB",
+      "organization": "DGB",
+      "status": "partial",
+      "company_keys": [
+        "mediCAD",
+        "elderbrook solutions",
+        "Kyowa Kirin International",
+        "Recor Medical",
+        "Daiichi Sankyo Europe",
+        "WINDSTAR MEDICAL",
+        "Centrient Pharmaceuticals",
+        "HERMES PHARMA",
+        "LINK",
+        "Kulzer",
+        "Novaled",
+        "Klosterfrau Healthcare",
+        "Dr. Pfleger Arzneimittel",
+        "Resuscitec",
+        "Medicon",
+        "XION",
+        "Charite Research Organisation",
+        "Finzelberg",
+        "KOB",
+        "CEEZER Software",
+        "Ingentis Softwareentwicklung",
+        "Eurofiber Netz",
+        "Deutsche Pfandbriefbank",
+        "Hamburg Commercial Bank",
+        "MBS Logistics",
+        "MSG Systems",
+        "agido",
+        "NÜRNBERGER Versicherungsgruppe",
+        "Allgeier IT Services",
+        "MAC IT-Solutions",
+        "SGL Carbon",
+        "Taylor Wessing",
+        "Diakonie Düsseldorf",
+        "Stadt Köln",
+        "Hermes Deutschland",
+        "otris software AG",
+        "Deutsche Rück",
+        "Sparkasse Vest",
+        "Comcross",
+        "Kreisverwaltung des Westerwaldkreises",
+        "Rosenberger",
+        "OVB MEDIA",
+        "Sinnwell",
+        "Cybertrading GmbH",
+        "Berg-Energie",
+        "Adlershorst",
+        "Scheidt-Bachmann",
+        "Schoellershammer",
+        "Hasse",
+        "tink",
+        "REISSWOLF Bayern GmbH",
+        "Buss Port Services GmbH",
+        "sea chefs",
+        "FINVIA Family Office GmbH",
+        "welovepr",
+        "constellr",
+        "simpleclub",
+        "bmedx",
+        "Gerresheimer Bünde GmbH"
+      ],
+      "phase": "fallback",
+      "manifest": "output\\gewerkschaften\\_sites\\DGB-df3cffd4\\fallback\\manifest.json",
+      "article_count": 0,
+      "searches": [
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=mediCAD",
+          "company_key": "mediCAD",
+          "query": "mediCAD",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=mediCAD+Hectec+GmbH",
+          "company_key": "mediCAD",
+          "query": "mediCAD Hectec GmbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=elderbrook+solutions",
+          "company_key": "elderbrook solutions",
+          "query": "elderbrook solutions",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=elderbrook+solutions+GmbH",
+          "company_key": "elderbrook solutions",
+          "query": "elderbrook solutions GmbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Kyowa+Kirin+International",
+          "company_key": "Kyowa Kirin International",
+          "query": "Kyowa Kirin International",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Kyowa+Kirin+GmbH",
+          "company_key": "Kyowa Kirin International",
+          "query": "Kyowa Kirin GmbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Recor+Medical",
+          "company_key": "Recor Medical",
+          "query": "Recor Medical",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Recor+Medical+Europe+GmbH",
+          "company_key": "Recor Medical",
+          "query": "Recor Medical Europe GmbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Daiichi+Sankyo+Europe",
+          "company_key": "Daiichi Sankyo Europe",
+          "query": "Daiichi Sankyo Europe",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Daiichi+Sankyo+Europe+GmbH",
+          "company_key": "Daiichi Sankyo Europe",
+          "query": "Daiichi Sankyo Europe GmbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Daiichi+Sankyo+Deutschland+GmbH",
+          "company_key": "Daiichi Sankyo Europe",
+          "query": "Daiichi Sankyo Deutschland GmbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=WINDSTAR+MEDICAL",
+          "company_key": "WINDSTAR MEDICAL",
+          "query": "WINDSTAR MEDICAL",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=WindStar+Medical+GmbH",
+          "company_key": "WINDSTAR MEDICAL",
+          "query": "WindStar Medical GmbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Centrient+Pharmaceuticals",
+          "company_key": "Centrient Pharmaceuticals",
+          "query": "Centrient Pharmaceuticals",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Centrient+Pharmaceuticals+Netherlands+B.V.",
+          "company_key": "Centrient Pharmaceuticals",
+          "query": "Centrient Pharmaceuticals Netherlands B.V.",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=HERMES+PHARMA",
+          "company_key": "HERMES PHARMA",
+          "query": "HERMES PHARMA",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=HERMES+PHARMA+GmbH",
+          "company_key": "HERMES PHARMA",
+          "query": "HERMES PHARMA GmbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=LINK",
+          "company_key": "LINK",
+          "query": "LINK",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Waldemar+Link+GmbH+%26+Co.+KG",
+          "company_key": "LINK",
+          "query": "Waldemar Link GmbH & Co. KG",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Kulzer",
+          "company_key": "Kulzer",
+          "query": "Kulzer",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Kulzer+GmbH",
+          "company_key": "Kulzer",
+          "query": "Kulzer GmbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Novaled",
+          "company_key": "Novaled",
+          "query": "Novaled",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Novaled+GmbH",
+          "company_key": "Novaled",
+          "query": "Novaled GmbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Klosterfrau+Healthcare",
+          "company_key": "Klosterfrau Healthcare",
+          "query": "Klosterfrau Healthcare",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Maria+Clementine+Martin+Klosterfrau+Vertriebsgesellschaft+mbH",
+          "company_key": "Klosterfrau Healthcare",
+          "query": "Maria Clementine Martin Klosterfrau Vertriebsgesellschaft mbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=MCM+Klosterfrau+Vertriebsgesellschaft+mbH",
+          "company_key": "Klosterfrau Healthcare",
+          "query": "MCM Klosterfrau Vertriebsgesellschaft mbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Dr.+Pfleger+Arzneimittel",
+          "company_key": "Dr. Pfleger Arzneimittel",
+          "query": "Dr. Pfleger Arzneimittel",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Dr.+Pfleger+Arzneimittel+GmbH",
+          "company_key": "Dr. Pfleger Arzneimittel",
+          "query": "Dr. Pfleger Arzneimittel GmbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Resuscitec",
+          "company_key": "Resuscitec",
+          "query": "Resuscitec",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Resuscitec+GmbH",
+          "company_key": "Resuscitec",
+          "query": "Resuscitec GmbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Medicon",
+          "company_key": "Medicon",
+          "query": "Medicon",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Medicon+eG.+Chirurgiemechaniker-Genossenschaft",
+          "company_key": "Medicon",
+          "query": "Medicon eG. Chirurgiemechaniker-Genossenschaft",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Medicon+eG",
+          "company_key": "Medicon",
+          "query": "Medicon eG",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=XION",
+          "company_key": "XION",
+          "query": "XION",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=XION+GmbH",
+          "company_key": "XION",
+          "query": "XION GmbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Charite+Research+Organisation",
+          "company_key": "Charite Research Organisation",
+          "query": "Charite Research Organisation",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Charit%C3%A9+Research+Organisation+GmbH",
+          "company_key": "Charite Research Organisation",
+          "query": "Charité Research Organisation GmbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Finzelberg",
+          "company_key": "Finzelberg",
+          "query": "Finzelberg",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Finzelberg+GmbH+%26+Co.+KG",
+          "company_key": "Finzelberg",
+          "query": "Finzelberg GmbH & Co. KG",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=KOB",
+          "company_key": "KOB",
+          "query": "KOB",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=KOB+GmbH",
+          "company_key": "KOB",
+          "query": "KOB GmbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Karl+Otto+Braun",
+          "company_key": "KOB",
+          "query": "Karl Otto Braun",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=CEEZER+Software",
+          "company_key": "CEEZER Software",
+          "query": "CEEZER Software",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=CEEZER+Software+GmbH",
+          "company_key": "CEEZER Software",
+          "query": "CEEZER Software GmbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Ingentis+Softwareentwicklung",
+          "company_key": "Ingentis Softwareentwicklung",
+          "query": "Ingentis Softwareentwicklung",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Ingentis+Softwareentwicklung+GmbH",
+          "company_key": "Ingentis Softwareentwicklung",
+          "query": "Ingentis Softwareentwicklung GmbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Eurofiber+Netz",
+          "company_key": "Eurofiber Netz",
+          "query": "Eurofiber Netz",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Eurofiber+Netz+GmbH",
+          "company_key": "Eurofiber Netz",
+          "query": "Eurofiber Netz GmbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Deutsche+Pfandbriefbank",
+          "company_key": "Deutsche Pfandbriefbank",
+          "query": "Deutsche Pfandbriefbank",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Deutsche+Pfandbriefbank+AG",
+          "company_key": "Deutsche Pfandbriefbank",
+          "query": "Deutsche Pfandbriefbank AG",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Hamburg+Commercial+Bank",
+          "company_key": "Hamburg Commercial Bank",
+          "query": "Hamburg Commercial Bank",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Hamburg+Commercial+Bank+AG",
+          "company_key": "Hamburg Commercial Bank",
+          "query": "Hamburg Commercial Bank AG",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=MBS+Logistics",
+          "company_key": "MBS Logistics",
+          "query": "MBS Logistics",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=MBS+Speditionsgesellschaft+mbH",
+          "company_key": "MBS Logistics",
+          "query": "MBS Speditionsgesellschaft mbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=MSG+Systems",
+          "company_key": "MSG Systems",
+          "query": "MSG Systems",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=msg+systems+ag",
+          "company_key": "MSG Systems",
+          "query": "msg systems ag",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=agido",
+          "company_key": "agido",
+          "query": "agido",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=agido+GmbH",
+          "company_key": "agido",
+          "query": "agido GmbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=N%C3%9CRNBERGER+Versicherungsgruppe",
+          "company_key": "NÜRNBERGER Versicherungsgruppe",
+          "query": "NÜRNBERGER Versicherungsgruppe",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=N%C3%9CRNBERGER+Beteiligungs-AG",
+          "company_key": "NÜRNBERGER Versicherungsgruppe",
+          "query": "NÜRNBERGER Beteiligungs-AG",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Allgeier+IT+Services",
+          "company_key": "Allgeier IT Services",
+          "query": "Allgeier IT Services",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=AVENDIS+GmbH",
+          "company_key": "Allgeier IT Services",
+          "query": "AVENDIS GmbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=MAC+IT-Solutions",
+          "company_key": "MAC IT-Solutions",
+          "query": "MAC IT-Solutions",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=MAC+IT-Solutions+GmbH",
+          "company_key": "MAC IT-Solutions",
+          "query": "MAC IT-Solutions GmbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=SGL+Carbon",
+          "company_key": "SGL Carbon",
+          "query": "SGL Carbon",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=SGL+Carbon+SE",
+          "company_key": "SGL Carbon",
+          "query": "SGL Carbon SE",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Taylor+Wessing",
+          "company_key": "Taylor Wessing",
+          "query": "Taylor Wessing",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Taylor+Wessing+Partnerschaftsgesellschaft+von+Rechtsanw%C3%A4lten+und+Steuerberatern+mbB",
+          "company_key": "Taylor Wessing",
+          "query": "Taylor Wessing Partnerschaftsgesellschaft von Rechtsanwälten und Steuerberatern mbB",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Taylor+Wessing+Partnerschaftsgesellschaft+mbB",
+          "company_key": "Taylor Wessing",
+          "query": "Taylor Wessing Partnerschaftsgesellschaft mbB",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Diakonie+D%C3%BCsseldorf",
+          "company_key": "Diakonie Düsseldorf",
+          "query": "Diakonie Düsseldorf",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Diakonie+D%C3%BCsseldorf+Gemeindedienst+der+evangelischen+Kirchengemeinden+e.V.",
+          "company_key": "Diakonie Düsseldorf",
+          "query": "Diakonie Düsseldorf Gemeindedienst der evangelischen Kirchengemeinden e.V.",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Diakonie+D%C3%BCsseldorf+e.V.",
+          "company_key": "Diakonie Düsseldorf",
+          "query": "Diakonie Düsseldorf e.V.",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Stadt+K%C3%B6ln",
+          "company_key": "Stadt Köln",
+          "query": "Stadt Köln",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Hermes+Deutschland",
+          "company_key": "Hermes Deutschland",
+          "query": "Hermes Deutschland",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Hermes+Germany+GmbH",
+          "company_key": "Hermes Deutschland",
+          "query": "Hermes Germany GmbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=otris+software+AG",
+          "company_key": "otris software AG",
+          "query": "otris software AG",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Deutsche+R%C3%BCck",
+          "company_key": "Deutsche Rück",
+          "query": "Deutsche Rück",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Sparkasse+Vest",
+          "company_key": "Sparkasse Vest",
+          "query": "Sparkasse Vest",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Comcross",
+          "company_key": "Comcross",
+          "query": "Comcross",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Kreisverwaltung+des+Westerwaldkreises",
+          "company_key": "Kreisverwaltung des Westerwaldkreises",
+          "query": "Kreisverwaltung des Westerwaldkreises",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Rosenberger",
+          "company_key": "Rosenberger",
+          "query": "Rosenberger",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=OVB+MEDIA",
+          "company_key": "OVB MEDIA",
+          "query": "OVB MEDIA",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Sinnwell",
+          "company_key": "Sinnwell",
+          "query": "Sinnwell",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Cybertrading+GmbH",
+          "company_key": "Cybertrading GmbH",
+          "query": "Cybertrading GmbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Berg-Energie",
+          "company_key": "Berg-Energie",
+          "query": "Berg-Energie",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Adlershorst",
+          "company_key": "Adlershorst",
+          "query": "Adlershorst",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Scheidt-Bachmann",
+          "company_key": "Scheidt-Bachmann",
+          "query": "Scheidt-Bachmann",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Schoellershammer",
+          "company_key": "Schoellershammer",
+          "query": "Schoellershammer",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Hasse",
+          "company_key": "Hasse",
+          "query": "Hasse",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=tink",
+          "company_key": "tink",
+          "query": "tink",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=REISSWOLF+Bayern+GmbH",
+          "company_key": "REISSWOLF Bayern GmbH",
+          "query": "REISSWOLF Bayern GmbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Buss+Port+Services+GmbH",
+          "company_key": "Buss Port Services GmbH",
+          "query": "Buss Port Services GmbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=sea+chefs",
+          "company_key": "sea chefs",
+          "query": "sea chefs",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=FINVIA+Family+Office+GmbH",
+          "company_key": "FINVIA Family Office GmbH",
+          "query": "FINVIA Family Office GmbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=welovepr",
+          "company_key": "welovepr",
+          "query": "welovepr",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=constellr",
+          "company_key": "constellr",
+          "query": "constellr",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=simpleclub",
+          "company_key": "simpleclub",
+          "query": "simpleclub",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=bmedx",
+          "company_key": "bmedx",
+          "query": "bmedx",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Gerresheimer+B%C3%BCnde+GmbH",
+          "company_key": "Gerresheimer Bünde GmbH",
+          "query": "Gerresheimer Bünde GmbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        }
+      ],
+      "truncated": true,
+      "fallback_reasons": {
+        "mediCAD": "no_primary_articles",
+        "elderbrook solutions": "no_primary_articles",
+        "Kyowa Kirin International": "no_primary_articles",
+        "Recor Medical": "no_primary_articles",
+        "Daiichi Sankyo Europe": "no_primary_articles",
+        "WINDSTAR MEDICAL": "no_primary_articles",
+        "Centrient Pharmaceuticals": "no_primary_articles",
+        "HERMES PHARMA": "no_primary_articles",
+        "LINK": "no_primary_articles",
+        "Kulzer": "no_primary_articles",
+        "Novaled": "no_primary_articles",
+        "Klosterfrau Healthcare": "no_primary_articles",
+        "Dr. Pfleger Arzneimittel": "no_primary_articles",
+        "Resuscitec": "no_primary_articles",
+        "Medicon": "no_primary_articles",
+        "XION": "no_primary_articles",
+        "Charite Research Organisation": "no_primary_articles",
+        "Finzelberg": "no_primary_articles",
+        "KOB": "no_primary_articles",
+        "CEEZER Software": "no_primary_articles",
+        "Ingentis Softwareentwicklung": "no_primary_articles",
+        "Eurofiber Netz": "no_primary_articles",
+        "Deutsche Pfandbriefbank": "no_primary_articles",
+        "Hamburg Commercial Bank": "no_primary_articles",
+        "MBS Logistics": "no_matching_primary_source",
+        "MSG Systems": "no_primary_articles",
+        "agido": "no_primary_articles",
+        "NÜRNBERGER Versicherungsgruppe": "no_primary_articles",
+        "Allgeier IT Services": "no_primary_articles",
+        "MAC IT-Solutions": "no_primary_articles",
+        "SGL Carbon": "no_primary_articles",
+        "Taylor Wessing": "no_matching_primary_source",
+        "Diakonie Düsseldorf": "no_matching_primary_source",
+        "Stadt Köln": "no_primary_articles",
+        "Hermes Deutschland": "no_matching_primary_source",
+        "otris software AG": "no_primary_articles",
+        "Deutsche Rück": "no_primary_articles",
+        "Sparkasse Vest": "no_primary_articles",
+        "Comcross": "no_matching_primary_source",
+        "Kreisverwaltung des Westerwaldkreises": "no_primary_articles",
+        "Rosenberger": "no_primary_articles",
+        "OVB MEDIA": "no_primary_articles",
+        "Sinnwell": "no_matching_primary_source",
+        "Cybertrading GmbH": "no_primary_articles",
+        "Berg-Energie": "no_primary_articles",
+        "Adlershorst": "no_matching_primary_source",
+        "Scheidt-Bachmann": "no_primary_articles",
+        "Schoellershammer": "no_matching_primary_source",
+        "Hasse": "no_primary_articles",
+        "tink": "no_matching_primary_source",
+        "REISSWOLF Bayern GmbH": "no_primary_articles",
+        "Buss Port Services GmbH": "no_matching_primary_source",
+        "sea chefs": "no_matching_primary_source",
+        "FINVIA Family Office GmbH": "no_matching_primary_source",
+        "welovepr": "no_matching_primary_source",
+        "constellr": "no_matching_primary_source",
+        "simpleclub": "no_primary_articles",
+        "bmedx": "no_primary_articles",
+        "Gerresheimer Bünde GmbH": "no_primary_articles"
+      },
+      "pdf_count": 0,
+      "search_mode": "site_search",
+      "page_coverage": {
+        "search_pages": 118,
+        "content_pages": 50,
+        "search_page_limit": 118,
+        "content_page_limit": 50,
+        "queued_remaining": 415,
+        "queue_limit_reached": false
+      }
+    },
+    {
+      "name": "ver.di",
+      "organization": "ver.di",
+      "status": "partial",
+      "company_keys": [
+        "mediCAD",
+        "elderbrook solutions",
+        "Kyowa Kirin International",
+        "Recor Medical",
+        "Daiichi Sankyo Europe",
+        "WINDSTAR MEDICAL",
+        "Centrient Pharmaceuticals",
+        "HERMES PHARMA",
+        "LINK",
+        "Kulzer",
+        "Novaled",
+        "Klosterfrau Healthcare",
+        "Dr. Pfleger Arzneimittel",
+        "Resuscitec",
+        "Medicon",
+        "XION",
+        "Charite Research Organisation",
+        "Finzelberg",
+        "KOB",
+        "MBS Logistics",
+        "SGL Carbon",
+        "Taylor Wessing",
+        "Diakonie Düsseldorf",
+        "Hermes Deutschland",
+        "Comcross",
+        "Rosenberger",
+        "OVB MEDIA",
+        "Sinnwell",
+        "Adlershorst",
+        "Scheidt-Bachmann",
+        "Schoellershammer",
+        "Hasse",
+        "tink",
+        "Buss Port Services GmbH",
+        "sea chefs",
+        "FINVIA Family Office GmbH",
+        "welovepr",
+        "constellr",
+        "bmedx",
+        "Gerresheimer Bünde GmbH"
+      ],
+      "phase": "fallback",
+      "manifest": "output\\gewerkschaften\\_sites\\ver-di-51994702\\fallback\\manifest.json",
+      "article_count": 0,
+      "searches": [
+        {
+          "url": "https://www.verdi.de/suche?q=mediCAD",
+          "company_key": "mediCAD",
+          "query": "mediCAD",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=mediCAD+Hectec+GmbH",
+          "company_key": "mediCAD",
+          "query": "mediCAD Hectec GmbH",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=elderbrook+solutions",
+          "company_key": "elderbrook solutions",
+          "query": "elderbrook solutions",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=elderbrook+solutions+GmbH",
+          "company_key": "elderbrook solutions",
+          "query": "elderbrook solutions GmbH",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Kyowa+Kirin+International",
+          "company_key": "Kyowa Kirin International",
+          "query": "Kyowa Kirin International",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Kyowa+Kirin+GmbH",
+          "company_key": "Kyowa Kirin International",
+          "query": "Kyowa Kirin GmbH",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Recor+Medical",
+          "company_key": "Recor Medical",
+          "query": "Recor Medical",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Recor+Medical+Europe+GmbH",
+          "company_key": "Recor Medical",
+          "query": "Recor Medical Europe GmbH",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Daiichi+Sankyo+Europe",
+          "company_key": "Daiichi Sankyo Europe",
+          "query": "Daiichi Sankyo Europe",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Daiichi+Sankyo+Europe+GmbH",
+          "company_key": "Daiichi Sankyo Europe",
+          "query": "Daiichi Sankyo Europe GmbH",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Daiichi+Sankyo+Deutschland+GmbH",
+          "company_key": "Daiichi Sankyo Europe",
+          "query": "Daiichi Sankyo Deutschland GmbH",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=WINDSTAR+MEDICAL",
+          "company_key": "WINDSTAR MEDICAL",
+          "query": "WINDSTAR MEDICAL",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=WindStar+Medical+GmbH",
+          "company_key": "WINDSTAR MEDICAL",
+          "query": "WindStar Medical GmbH",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Centrient+Pharmaceuticals",
+          "company_key": "Centrient Pharmaceuticals",
+          "query": "Centrient Pharmaceuticals",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Centrient+Pharmaceuticals+Netherlands+B.V.",
+          "company_key": "Centrient Pharmaceuticals",
+          "query": "Centrient Pharmaceuticals Netherlands B.V.",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=HERMES+PHARMA",
+          "company_key": "HERMES PHARMA",
+          "query": "HERMES PHARMA",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=HERMES+PHARMA+GmbH",
+          "company_key": "HERMES PHARMA",
+          "query": "HERMES PHARMA GmbH",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=LINK",
+          "company_key": "LINK",
+          "query": "LINK",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Waldemar+Link+GmbH+%26+Co.+KG",
+          "company_key": "LINK",
+          "query": "Waldemar Link GmbH & Co. KG",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Kulzer",
+          "company_key": "Kulzer",
+          "query": "Kulzer",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Kulzer+GmbH",
+          "company_key": "Kulzer",
+          "query": "Kulzer GmbH",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Novaled",
+          "company_key": "Novaled",
+          "query": "Novaled",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Novaled+GmbH",
+          "company_key": "Novaled",
+          "query": "Novaled GmbH",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Klosterfrau+Healthcare",
+          "company_key": "Klosterfrau Healthcare",
+          "query": "Klosterfrau Healthcare",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Maria+Clementine+Martin+Klosterfrau+Vertriebsgesellschaft+mbH",
+          "company_key": "Klosterfrau Healthcare",
+          "query": "Maria Clementine Martin Klosterfrau Vertriebsgesellschaft mbH",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=MCM+Klosterfrau+Vertriebsgesellschaft+mbH",
+          "company_key": "Klosterfrau Healthcare",
+          "query": "MCM Klosterfrau Vertriebsgesellschaft mbH",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Dr.+Pfleger+Arzneimittel",
+          "company_key": "Dr. Pfleger Arzneimittel",
+          "query": "Dr. Pfleger Arzneimittel",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Dr.+Pfleger+Arzneimittel+GmbH",
+          "company_key": "Dr. Pfleger Arzneimittel",
+          "query": "Dr. Pfleger Arzneimittel GmbH",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Resuscitec",
+          "company_key": "Resuscitec",
+          "query": "Resuscitec",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Resuscitec+GmbH",
+          "company_key": "Resuscitec",
+          "query": "Resuscitec GmbH",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Medicon",
+          "company_key": "Medicon",
+          "query": "Medicon",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Medicon+eG.+Chirurgiemechaniker-Genossenschaft",
+          "company_key": "Medicon",
+          "query": "Medicon eG. Chirurgiemechaniker-Genossenschaft",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Medicon+eG",
+          "company_key": "Medicon",
+          "query": "Medicon eG",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=XION",
+          "company_key": "XION",
+          "query": "XION",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=XION+GmbH",
+          "company_key": "XION",
+          "query": "XION GmbH",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Charite+Research+Organisation",
+          "company_key": "Charite Research Organisation",
+          "query": "Charite Research Organisation",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Charit%C3%A9+Research+Organisation+GmbH",
+          "company_key": "Charite Research Organisation",
+          "query": "Charité Research Organisation GmbH",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Finzelberg",
+          "company_key": "Finzelberg",
+          "query": "Finzelberg",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Finzelberg+GmbH+%26+Co.+KG",
+          "company_key": "Finzelberg",
+          "query": "Finzelberg GmbH & Co. KG",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=KOB",
+          "company_key": "KOB",
+          "query": "KOB",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=KOB+GmbH",
+          "company_key": "KOB",
+          "query": "KOB GmbH",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Karl+Otto+Braun",
+          "company_key": "KOB",
+          "query": "Karl Otto Braun",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=MBS+Logistics",
+          "company_key": "MBS Logistics",
+          "query": "MBS Logistics",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=MBS+Speditionsgesellschaft+mbH",
+          "company_key": "MBS Logistics",
+          "query": "MBS Speditionsgesellschaft mbH",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=SGL+Carbon",
+          "company_key": "SGL Carbon",
+          "query": "SGL Carbon",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=SGL+Carbon+SE",
+          "company_key": "SGL Carbon",
+          "query": "SGL Carbon SE",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Taylor+Wessing",
+          "company_key": "Taylor Wessing",
+          "query": "Taylor Wessing",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Taylor+Wessing+Partnerschaftsgesellschaft+von+Rechtsanw%C3%A4lten+und+Steuerberatern+mbB",
+          "company_key": "Taylor Wessing",
+          "query": "Taylor Wessing Partnerschaftsgesellschaft von Rechtsanwälten und Steuerberatern mbB",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Taylor+Wessing+Partnerschaftsgesellschaft+mbB",
+          "company_key": "Taylor Wessing",
+          "query": "Taylor Wessing Partnerschaftsgesellschaft mbB",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Diakonie+D%C3%BCsseldorf",
+          "company_key": "Diakonie Düsseldorf",
+          "query": "Diakonie Düsseldorf",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Diakonie+D%C3%BCsseldorf+Gemeindedienst+der+evangelischen+Kirchengemeinden+e.V.",
+          "company_key": "Diakonie Düsseldorf",
+          "query": "Diakonie Düsseldorf Gemeindedienst der evangelischen Kirchengemeinden e.V.",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Diakonie+D%C3%BCsseldorf+e.V.",
+          "company_key": "Diakonie Düsseldorf",
+          "query": "Diakonie Düsseldorf e.V.",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Hermes+Deutschland",
+          "company_key": "Hermes Deutschland",
+          "query": "Hermes Deutschland",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Hermes+Germany+GmbH",
+          "company_key": "Hermes Deutschland",
+          "query": "Hermes Germany GmbH",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Comcross",
+          "company_key": "Comcross",
+          "query": "Comcross",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Rosenberger",
+          "company_key": "Rosenberger",
+          "query": "Rosenberger",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=OVB+MEDIA",
+          "company_key": "OVB MEDIA",
+          "query": "OVB MEDIA",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Sinnwell",
+          "company_key": "Sinnwell",
+          "query": "Sinnwell",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Adlershorst",
+          "company_key": "Adlershorst",
+          "query": "Adlershorst",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Scheidt-Bachmann",
+          "company_key": "Scheidt-Bachmann",
+          "query": "Scheidt-Bachmann",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Schoellershammer",
+          "company_key": "Schoellershammer",
+          "query": "Schoellershammer",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Hasse",
+          "company_key": "Hasse",
+          "query": "Hasse",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=tink",
+          "company_key": "tink",
+          "query": "tink",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Buss+Port+Services+GmbH",
+          "company_key": "Buss Port Services GmbH",
+          "query": "Buss Port Services GmbH",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=sea+chefs",
+          "company_key": "sea chefs",
+          "query": "sea chefs",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=FINVIA+Family+Office+GmbH",
+          "company_key": "FINVIA Family Office GmbH",
+          "query": "FINVIA Family Office GmbH",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=welovepr",
+          "company_key": "welovepr",
+          "query": "welovepr",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=constellr",
+          "company_key": "constellr",
+          "query": "constellr",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=bmedx",
+          "company_key": "bmedx",
+          "query": "bmedx",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Gerresheimer+B%C3%BCnde+GmbH",
+          "company_key": "Gerresheimer Bünde GmbH",
+          "query": "Gerresheimer Bünde GmbH",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        }
+      ],
+      "truncated": true,
+      "fallback_reasons": {
+        "mediCAD": "no_primary_articles",
+        "elderbrook solutions": "no_primary_articles",
+        "Kyowa Kirin International": "no_primary_articles",
+        "Recor Medical": "no_primary_articles",
+        "Daiichi Sankyo Europe": "no_primary_articles",
+        "WINDSTAR MEDICAL": "no_primary_articles",
+        "Centrient Pharmaceuticals": "no_primary_articles",
+        "HERMES PHARMA": "no_primary_articles",
+        "LINK": "no_primary_articles",
+        "Kulzer": "no_primary_articles",
+        "Novaled": "no_primary_articles",
+        "Klosterfrau Healthcare": "no_primary_articles",
+        "Dr. Pfleger Arzneimittel": "no_primary_articles",
+        "Resuscitec": "no_primary_articles",
+        "Medicon": "no_primary_articles",
+        "XION": "no_primary_articles",
+        "Charite Research Organisation": "no_primary_articles",
+        "Finzelberg": "no_primary_articles",
+        "KOB": "no_primary_articles",
+        "MBS Logistics": "no_matching_primary_source",
+        "SGL Carbon": "no_primary_articles",
+        "Taylor Wessing": "no_matching_primary_source",
+        "Diakonie Düsseldorf": "no_matching_primary_source",
+        "Hermes Deutschland": "no_matching_primary_source",
+        "Comcross": "no_matching_primary_source",
+        "Rosenberger": "no_primary_articles",
+        "OVB MEDIA": "no_primary_articles",
+        "Sinnwell": "no_matching_primary_source",
+        "Adlershorst": "no_matching_primary_source",
+        "Scheidt-Bachmann": "no_primary_articles",
+        "Schoellershammer": "no_matching_primary_source",
+        "Hasse": "no_primary_articles",
+        "tink": "no_matching_primary_source",
+        "Buss Port Services GmbH": "no_matching_primary_source",
+        "sea chefs": "no_matching_primary_source",
+        "FINVIA Family Office GmbH": "no_matching_primary_source",
+        "welovepr": "no_matching_primary_source",
+        "constellr": "no_matching_primary_source",
+        "bmedx": "no_primary_articles",
+        "Gerresheimer Bünde GmbH": "no_primary_articles"
+      },
+      "pdf_count": 0,
+      "search_mode": "site_search",
+      "page_coverage": {
+        "search_pages": 70,
+        "content_pages": 50,
+        "search_page_limit": 80,
+        "content_page_limit": 50,
+        "queued_remaining": 191,
+        "queue_limit_reached": false
+      }
+    }
+  ],
+  "requests_attempted": 793,
+  "cache_hits": 0,
+  "max_requests": 2000
+}

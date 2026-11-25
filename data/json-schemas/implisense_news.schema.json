@@ -1,0 +1,45 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Datenvertrag v0.4: implisense/browser/news.json",
+  "description": "Nachrichten und Registerereignisse aus Implisense für alle abgefragten Firmen in einer Datei. Die Datei gehört keiner einzelnen Firma. Jeder Eintrag nennt die Firma bei Implisense (companyId, companyName). Die Zuordnung zu unseren Firmen (company_id) erfolgt bei uns über eine Mapping-Tabelle, nicht im Import. Genutzt für die Registerereignisse (E2d) und die Textsignale (E4). Die übrigen Dateien im Ordner browser (CSV, Sitzung, Anfragen) werden nicht gelesen.",
+  "type": "object",
+  "required": ["fetched_at", "period_days", "articles", "register_events"],
+  "properties": {
+    "fetched_at": { "type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}T[0-9]{2}:[0-9]{2}:[0-9]{2}(\\.[0-9]+)?(Z|[+-][0-9]{2}:[0-9]{2})$", "description": "Zeitpunkt des Abrufs" },
+    "period_days": { "type": "integer", "minimum": 1, "description": "Betrachteter Zeitraum in Tagen, zum Beispiel 90" },
+    "articles": {
+      "type": "array",
+      "description": "Nachrichten zu den Firmen im betrachteten Zeitraum",
+      "items": {
+        "type": "object",
+        "required": ["title", "companyId", "companyName", "publishedAt", "sourceUrl"],
+        "properties": {
+          "title": { "type": "string", "description": "Überschrift der Nachricht" },
+          "companyId": { "type": "string", "x-anzeige": "Implisense-Kennung", "minLength": 1, "description": "Kennung der Firma bei Implisense, zum Beispiel DE39NU4THL70. Schlüssel für die Mapping-Tabelle" },
+          "companyName": { "type": "string", "description": "Firmenname bei Implisense" },
+          "publishedAt": { "type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$", "description": "Veröffentlichungsdatum" },
+          "sourceUrl": { "type": "string", "x-anzeige": "URL", "description": "Adresse der Originalquelle" },
+          "sourceName": { "type": ["string", "null"], "description": "Name der Quelle, zum Beispiel Reuters" },
+          "signal": { "type": ["string", "null"], "x-bekannte-werte": ["financing", "personnel", "expansion", "distress"], "description": "Einordnung durch Implisense. Offene Liste, neue Werte sind erlaubt" },
+          "summaryDe": { "type": ["string", "null"], "description": "Zusammenfassung auf Deutsch" },
+          "summaryEn": { "type": ["string", "null"], "description": "Zusammenfassung auf Englisch" }
+        }
+      }
+    },
+    "register_events": {
+      "type": "array",
+      "description": "Registerereignisse zu den Firmen im betrachteten Zeitraum, zum Beispiel Personenwechsel",
+      "items": {
+        "type": "object",
+        "required": ["title", "companyId", "companyName", "publishedAt", "category"],
+        "properties": {
+          "title": { "type": "string", "description": "Beschreibung, zum Beispiel: Person ausgeschieden: Max Muster. Daraus lesen wir die Ereignisart (E2d)" },
+          "companyId": { "type": "string", "x-anzeige": "Implisense-Kennung", "minLength": 1, "description": "Kennung der Firma bei Implisense" },
+          "companyName": { "type": "string", "description": "Firmenname bei Implisense" },
+          "publishedAt": { "type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$", "description": "Datum des Ereignisses" },
+          "category": { "type": "string", "x-bekannte-werte": ["Geschäftsführung und Team", "Finanzen und Kapital"], "description": "Rubrik bei Implisense. Offene Liste" }
+        }
+      }
+    }
+  }
+}

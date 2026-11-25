@@ -1,0 +1,638 @@
+{
+  "company": {
+    "key": "Buss Port Services GmbH",
+    "name": "Buss Port Services GmbH",
+    "location": "Hamburg",
+    "name_source": "company_name",
+    "urls": [
+      "https://www.buss-ports.de"
+    ],
+    "kununu_url": null,
+    "branches": [
+      "Logistik"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "20457",
+    "street": "Am Sandtorkai 48",
+    "region": "Hamburg",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:59:53.029934+00:00",
+  "searches": [
+    {
+      "accounting_only": true,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=Buss+Port+Services+GmbH&companyLocation=Hamburg&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ACCOUNTING&drilldownFilter=22&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": true
+    },
+    {
+      "accounting_only": false,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=Buss+Port+Services+GmbH&companyLocation=Hamburg&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ALL_AREAS&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": true
+    }
+  ],
+  "excluded_company_matches": [
+    {
+      "company": "Buss Capital Holding GmbH & Co. KG, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-09-25",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=DgD4pvy71pZGAMGDuIUq1dki7DbXliS43GRRkfDJ8fnAg3z38ggs-elLpL__d0B_o7719jl1fVRKxxrjHXuuCqsOKmUCu36o_1U1RDUB3pgRk4YXsawiBNwOm_CfHlfG8APWpRuSd5XqCgfNFz3r894UAg8yEtkIt2XkvFVjacy5fr8aoujZVVvUaodbdGpysREi4O0_10rliDfOk1iqIkHnYvkU1yFqbdgspasQn8oX6sv5",
+      "metadata": "Buss Capital Holding GmbH & Co. KG, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 25.09.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Capital Holding GmbH & Co. KG, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-06-20",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=lwoRhKhFJq0P-Rxcqrox7Ec38Hj3p7uIv4cDKQa66MEdLwNyfuE3AIXZ9pK1I43C5awu_22DLdFSEMlBONOBhQO08UZYvLtB4l3wwFeWO4e3CkGd5G9AaEXwsBjhnyeXZDeCY6tzZWt3fNlmC0lqmFHpHZ4BauJXcSJiaDtOUwvQUrGSBLfFkS_2fUQpo97sF3tevpCeuPY5IWA7uEajjf2H25hIyTP-obxdFeV83yEBwDXA",
+      "metadata": "Buss Capital Holding GmbH & Co. KG, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 20.06.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Capital Holding Verwaltung GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-11-10",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=FaKW8CeKEXkEZtoYdiGkwoOD8jQncKuOaOS2ONX913Ub_rRO85Dkw1-5e8tXIC8_fFnVoTD-kZ7EI46NMVOvOH2TmNgbKGWmK66BnkwTBphtJTAU-hFPEd3s5OMpVvj2KuXmeQFKGRGueDdt3VGkiYjZHCOeZglaocI6GNN06TiU2YNT_WPu5Vk6nXXL7e2EOv2nQF-JtOGBN0uFdRvyBiMV3WXof-agP4QRpoYYeMGwM-vX",
+      "metadata": "Buss Capital Holding Verwaltung GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 10.11.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Capital Holding Verwaltung GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-05-28",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=6AL_jN7VW8hxY-BdLZleNmjQtioo-NmCIMQNOAovp2z5e2UlcGZ-oR7eNg0Jj3fgE2vhmtPxLrhqJN7elgS56xVRUf73eZA4unUfdrcXQxCD3UNYayRqhdEZo8Gj0GfYQCkRFOnYEiCsGILUCKVQn8Gqe7tohAUpAFL4pv12Mj94H8j40Uw4RFmX01YlQBbAilv3l1kaiQaGDaD9qLiuuR34OWgsNEpX6O1dr1RCAHDECa-S",
+      "metadata": "Buss Capital Holding Verwaltung GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 28.05.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Capital Holding Verwaltung GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-01-28",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=EkVzJUrwFR6n2GHdgZ9ASw5KRvXzf5aOZLjItpOCri046bZlNnsdTJmN6eIYYaLy1Ih71674szy-ZFEuNrEYKkbz3vVZyDlKsg20TDrUQQdL1qOoKb2XrWbgkTI4H8GvXu7QEDTTrLGoiPdCVxo33u_r4-47EM2jCd17rDgYHGQy3hoF0ANM5518lGSEVYDRWzKNyZQbdjv-lY86PaputenZZM1_p06jt5lWlhqNMvDtbnf_",
+      "metadata": "Buss Capital Holding Verwaltung GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 28.01.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Capital Invest GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-09-05",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=I_esVy8Q4p7shrUehFZmb2DeJHDGEexRAPd12GWaQ2bWnbBlL0mjGWVa8I33JnDDmPjDis_77TiEi8yQ5KLj7cRvQN1vSgo3VztjBCaPsNwd0oZ8nBa7jEXkISIaLUy1WlRMDNHxiEGDMOf2EXD13XqRrigpvnTn0RW_UPUIItk1oMYyzTibXq6pD0E9NZu9fZk9wS_3UUA4nM9jWQ6rXGqQWyUbAz_aafLuD-73d-kiQ4hh",
+      "metadata": "Buss Capital Invest GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 05.09.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Capital Invest GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2024-08-29",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=NyJ2dzST4nNpguJVmsgxE69HYrlTL5ymQG_SG6_ZSAsIeAjN1MGJejj2ngW4aeTwtD4xMp3ZHL8pz_FBDC6EnLaBn8EvmHs_IOEsXAF5b8wvdVTP1i3OVbucc-2baOXls0kww71fl6NPT6xA2wrHtoBpWdbFPmVMnKEaPwrUCxim9TFuofbQKE4CzAjQn37rzz_yBON0S0r1Srx7PpkUlKE4rgz7pi1_xt3KIQs6L6potFw7",
+      "metadata": "Buss Capital Invest GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 29.08.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Capital Invest Management GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-11-18",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=4e649dIPlLHtNUjrmV9z07K3qOgyDW9RfMsDyn8DQyc2UsABrhbq3cGIvj_9Pf-n0rhkYj6CxQ01sgoP732CAjzh5g-8nmVQj2mwoIaoe1uIpJuRchPoqkiQpO2NUGxvuSn2xyR1Laz6T0wIOViwLwV81Tmldl5cfJOS0TziOiuFZSXk56FxmkEFibJhTrQEOEIOWl9bO7TYjYGzq9sKeQD8LkWhXvfiJKeESLWrkMo7wCgA",
+      "metadata": "Buss Capital Invest Management GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 18.11.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Capital Invest Management GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-05-28",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=Gw9u9Cu_ikLEk41JkPpVtz523RDCT3E1EWBUbcqLH4sK3ksXFcCg3wt0GmrP01Pxiz6ppJ2S_IaqmF0TyrqDMQ55JLcqxCdNEMfMnbrE2dJrra_5Mc9KFLTmpVg7MTM1_9NJhLKw7vogocUGLd4kj1XkI4DnauggDjOX8QyLuhndPQNh3drsw_Xx0FAnVXB1HhaB_ViVNCfaS4cIZS81nmgy20_ST6djWxrR3bvXWbtXJKd4",
+      "metadata": "Buss Capital Invest Management GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 28.05.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Capital Invest Management GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2024-08-29",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=mx0WJGPx8XOdIkdrNV1VhqT9FYmHC3Rey3hlKDTp-RAtK-sTdH9G-kaRJj5_RI-DLukgMg2MAyjyU53XnT6YEbrT1yX_0r4bCSBlC8EKbCIjw6HJ1O838wc5OSjpLtQtikOIwwFfCZBW807Xibs_raqFAt_Be85ABhQwLSg7f76NDg65a1_ZkvE-MIaQfJQMKuA90NZ5S0rtM2d004AzLojr-FTumem2vvvjfLdttS39BUEq",
+      "metadata": "Buss Capital Invest Management GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 29.08.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Container Finance 3 GmbH & Co. KG, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-07-09",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=9Xx_BIWzfZLwLqVHWnx0sR_IrLjrBJidp_bUevtgcbgswXzdbsri2v6GpI0LfQAOt1ggwK3CtTFtJ2I06z9FijW-h8LX7vhbtzzXzA1d4dP0_c97-KeAqp0VCOyqc3N3YavSZ1WDr3bUEKsBF5LYmOZcgB1m_jzmlEHynF82izdfFEXJ7MfxWCSZ9STRp1uR0mDSzozxf1ek79-A5mQmhpLekJpkrGPyNUQ7ectefSevbOqz",
+      "metadata": "Buss Container Finance 3 GmbH & Co. KG, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 09.07.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Container Finance 3 GmbH & Co. KG, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-07-23",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=5OxqvnRfDelyvjtcw7Wh0JD0mNNafHw-0UrVT5h6AFaLXvKAdecEc5RHiQphKw5sbX3anUScFG4BOydTZ6xONZ7Xxq9HKoxMJUfckrI5sIneE3GdXEVAhbhFC32uf4RArAPS8upXUkyc1Tm5fTkVEIOrEeCVRxIBCZhguCAPw2pjUcgZ_bNT2ff0ootdgC6oa1lDPea-HfVt5vUQ2_7-2DT-zJsBtCbo8xEuERUOKmb4CQEm",
+      "metadata": "Buss Container Finance 3 GmbH & Co. KG, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 23.07.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Container Finance 3 GmbH & Co. KG, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2024-08-27",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=1fI_q9vY8Kn1U57uEjksz9hzDwdGv4sYerwjvUDtPfwuUkDnOmzErU08CqfjdK4tBdSqb353-mJSkhrYqJHYhxNCCqwFBK78wbrO3pjkJit7tuJffKk8lyGZrtPxrBvvzo7sy7QCsY6qHaa2FSFgBFWNu_MTDoDgFi6AqBgOZFgD19Yaan1rxPL5j06le5rn0bm7EeXUfcJcvTkNaw2wq92GipfyAGE-eQEbTMS_o1J1b1mI",
+      "metadata": "Buss Container Finance 3 GmbH & Co. KG, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 27.08.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Container Finance 4 GmbH & Co. KG, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-07-09",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=BBWKsr6TouOhnRvi_SQPcdI2YfKH5hQfICM0bTQ5jCp1HPzqoRgmTpFRCATsY3QifCZGzu_BrC0yk_X4u8n_3funxujPvW-VqdGUBe8GK3fyhT0Uvs_l1KBlVjREQOjDNBOBU-bRnna-qwk26Hhg8a2CoZYkCqituiJ1V-BZQ73wlyMPK5AMHV7zfqbnAQzfmsMjljP9_OJA-h1DPMgyFs5GUC4Z_DsmeWMzevvIzyrSA2ui",
+      "metadata": "Buss Container Finance 4 GmbH & Co. KG, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 09.07.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Container Finance 4 GmbH & Co. KG, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-07-23",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=Z7BhkiIFGvlp_yvql3cMTfkjd7Fh-oQt5jom9kfGvrZfOSaceHCYSYBiHcigweCY5elqRYWV4rcQRLD907bVl8UynW1CmMo9w7W6QbDLAAWkRjNVdC9oa8Mpwz0g5S0qT7U7dB_E85f3-hKSTksMbb6Cu-9zK39xT3h8matOAGSkPKus3LHoF1PbDLioWLRrUkLg_PW8BFPj5_COXlO4d1TYgp59v-Tl_PhFQ4_-ux3Pa_gw",
+      "metadata": "Buss Container Finance 4 GmbH & Co. KG, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 23.07.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Container Finance 4 GmbH & Co. KG, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2024-09-27",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=lHbY_WyJ_3ZuR9MZsCaw9_YV-AxSZvDC4cwiIrgjssyVMDjXcddKacEYzqokGmHAeq05XIjqV9BKzrfng5pupB2iCj7IzHIaPZb2MOnAJhLPkJF9axGbtKjXHA9BrcmcTbyV1DldSRITafy2h7YAvAC9hmv70MrEeF5MBMo0SbEEjVrP79rUCPJp-KwStKLRZxi0Zah9xLuMz49UVt9lg-AoNSA7qZD3hScxkx8-UTxjzmCU",
+      "metadata": "Buss Container Finance 4 GmbH & Co. KG, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 27.09.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Container Finance Verwaltung GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-11-10",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=Osr6qmBHiwIhBUPSSa5t3zBxC5EZlp8cDS9xiVmGNtxymErcdqPURiX5sDAJdbih3E4AGq-B4zKfjuD-976l0asaYttLdqw4lvAc8pZyCdI7KUncJoXbQqB0spOlK0m1aGZZRuuyUKcgHRoHjgZTyHSB13nPo7Cfd04TR0DZVnkZloqf-sGfGcV6BCvUtwTT50uXoYhnLKJlyp1-XqgsbpCuyzfa0pQPe5IHBglnFvxDBv5C",
+      "metadata": "Buss Container Finance Verwaltung GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 10.11.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Container Finance Verwaltung GmbH, Hamburg",
+      "title": "Liquidationseröffnungsbilanz zum Geschäftsjahr vom 01.01.2025 bis zum 01.01.2025",
+      "publication_date": "2025-08-26",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=sd32CDCBJpJkwRD9Aqk_wOOOkoIwE2joxvB5RqcLSKCLk0l6PVIPMJJ8Y6s7Iba6tQ65gIDfihEcOcxay7Nsd-ZK3JV8wkDvVsjFzfW4nMPhGJ8VexTc0XsNRksAOjyDenAmEGXYFNU29Cr6LgLqECNLc0iUrRQJoVqppI897zvCBeTe6xBdvFuqk7ohBTeHTIbtbZWMgIgNjL1ozaHDwylweu4AO4EKTy9BcicAmFCQjItc",
+      "metadata": "Buss Container Finance Verwaltung GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Liquidationseröffnungsbilanz zum Geschäftsjahr vom 01.01.2025 bis zum 01.01.2025 Datum: 26.08.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Container Finance Verwaltung GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-05-28",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=I-yjjApXWOHX6l1qxSnJs8Q_Y1q_ekUobTaV-GsvKySkBwjSxt4n2FNdMlQpdnmjNynhADty9gXDHgPnFigua7gq-N0cEzZMKpwLomkUTXzu_zRVvNGebFuaF2mKcC8p4EmLj9-GZvOKZ7GVR64thqhUSFX7E_Vg5GeDTyen0ywi-fONXKgIauz25LaK1BtqBhrKYJCyovjpWMZ4EL2wfCj_aczB9OO190l4beTlPwTXhmhl",
+      "metadata": "Buss Container Finance Verwaltung GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 28.05.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Container Finance Verwaltung GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2024-08-23",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=1VvcL-1yfg24t6BJnD8xX6EL5mMuhOs-gYrTEJ8TM4AmoksoogdCaXQnrgz7Xa4SyvzxGiTaAdaV1pNe5XzBw3STjgcxwzpY3igseNYZbVtb8wdoGErIl4Wj__qFE3Ek7bdr9cOYfOMfR5Z28wX1gVH7e4H0CJvo3HnYCF1KDkNDajyp6zMGnJGJieYIs2O9n6HXYSaB0DkQgQdcenLknEL21NHbk2taXWwP1cCt1wpowzBg",
+      "metadata": "Buss Container Finance Verwaltung GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 23.08.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Container International 4 GmbH & Co. KG, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-07-28",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=8jVk7f8ZgpQcep94yQ4HoWy-4Lkjtb52mpVDT2ORFJ2fXwHy-ApdIuyJZ5q4RTvWW_jpc39yf5RqtXINyVzfNs_Tb9M4bDviS4BgKkpsgyBVhq8INXmqF62ZD9dlqKMo9Yj5mxSZdfcGZoz3gAA5W-INYoFh6czhZWYpz4Y85zRSMzzYwlgSjAERwMzKoc3Qs4MJNquZNxcwRY9xH5bFHkhRPWg2Jm7qPzpgLJ5kQ8WPxL_L",
+      "metadata": "Buss Container International 4 GmbH & Co. KG, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 28.07.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Container International 4 GmbH & Co. KG, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2024-09-24",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=GYLiMQLss_tAccDcevvpuELLciraxZeJ9mRqDPYXaNzxxZvP-DmHeos4VJa0tG5geSn-rScrNpXry-xa4g5E0RW09OPkFu0SbEEXzx0zlWjzZcA5dXygJTMBWGE2xLwqsQlMTLyUdRohIMl8a3_lyer_rk-2vAcirhM6n1PRCnxCSo6QDY2bJB9llrnO24JRFCvfvK8T4DrVcIpPr7yuXRcTfhL-mV2r2SLUdPGfw7nVb6Ns",
+      "metadata": "Buss Container International 4 GmbH & Co. KG, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 24.09.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Container International 4 Verwaltung GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-11-18",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=GawNxOrSY4pSk19xjeqmdGwVmqreWNI7nRD-ue7BUJJCirpzZrPg9EE5X_NZx3JwjQYnHW8YMWubDCw-G1IFOrTDtz9HJ6LUEkWPnmO6tP_2UqShIBlP46ON0-cs6Kb6pjv4w5uNeBNGCc5GHWCM7cGApGgvsvLbfVfwgGQdocgwh2_Soxtavq133iLCkJAL797dpaSTRUr2PdGv4MbPnYsZVZXaV_UkLiuwVXxOM4q_bywV",
+      "metadata": "Buss Container International 4 Verwaltung GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 18.11.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Container International 4 Verwaltung GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-05-28",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=ISP6SfOyFAXX2ymN8UfB9iSDzN0Ea5-C09NSb58SQtj9r4NIdPkNI7AVNzfLnHPN09KIkCokYN3UCjmrcIUSkcEmob0qylZiH_Vwhj9RW81YA1mJexXuBqXZa8t9tKv79QVUN2Lla-bzHVU_DUgztChGWOupWs0fDHzIA_aaDvgEwsu-q5hwesJRyHcR0-Ro_28NBt01jmUVIJcLOdTUTKQWOOopz1NQQv2yy7Qs4sK0mBvs",
+      "metadata": "Buss Container International 4 Verwaltung GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 28.05.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Container International 4 Verwaltung GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2024-08-29",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=WoEJv1hlon9X9R8M04Lmbq0-0waD-VtnTkbltmZIsuzh1f4FmBuXWasHgxN1ELIcqY0Z-UP8-kmv-kQU7lJM-U-Jv771efIyAiFfZzTGidqtCfN8pmwp6LBKJfu6flgVZlGQjpB4rG-y38FceRroPVnuCi50SPFKy15trNT9e3aYCqmUD5s05TnzEc0KueBNks0NeIrVregisuBdjKiaomFOGMZn-hqSJumSBhFEOGuwStW-",
+      "metadata": "Buss Container International 4 Verwaltung GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 29.08.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Energy Beteiligungen GmbH & Co. KG, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-01-14",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=YvCMq-CojqD5H1W1nuVAIffGjI3x3Vcqxu-YPM0bGFDTMl3c2PCjHnIEP3ZrEDIOJ8QcdP6tFY9vyZK3wnut6sENsgBlW6TXC4K7rCO2BSpVq_5aQhcsw-MHPgy2ANRQvF-A3oadt_BgItwCMCRqAIyPT67Kytp1wb9Dd1nv5Q-mjWtSL5OwdhZ0hzaOMJnx9FyYIKPAefU79zSHGnS8ywktBX-nXuUNymc1nzktlADeyMnb",
+      "metadata": "Buss Energy Beteiligungen GmbH & Co. KG, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 14.01.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Energy Group GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-01-22",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=Pb_KK1Afq4MEhiwUvyCvQUCPa6dUkPvItQBqdzyU4hqwO9OX8mq24hCYnQOcLUufNFk_UjQ6CbS9kZJS9K3HlmWh1KpEm2XWYAKVIb0qcsVLtox010RIRMjVSwVUZ-wuNB23YMDc1wZAuhAfs5MPB51K9L1TSGbF3Qv9WY26coZgGY7vVxRB3BdXekuHlIv7kXF9LFSqx9Po6G817dhbp29SjzyYKAoIldZGxM7MRfL2S9y2",
+      "metadata": "Buss Energy Group GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 22.01.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Energy Group GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-01-23",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=fEAshFTEvrCj5_Ovv2E88Pg6fzG_06D9Jpx2GQ5BOCA2_Y2qzIN9ipt8MaMHLPuc_YZsnm2MT-QRjySO3Owv7Fk871nZjZAUVZsl-ZyhE9CRnwwsGLUvdVhY_s9d9RUKhnFW73J8yXyEsuwS-pIJf6ICOacoRhkle9b-V2N8BI3BodjV0HvEI0qZ5xsC98jlH8GtjMLtHzRw_8DnkMNQQxNEKQLhjmvO5of9WzM3KiXlLyBe",
+      "metadata": "Buss Energy Group GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 23.01.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Capital Holding GmbH & Co. KG, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-09-25",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=2xT_NLZVp0MG09BbI6RydnhOcUuQ0ddgxZLwInBS4KJqCA1qY8hXVrmtyaCFos1N75UOj_MelGjk2nUtmNXNLdFe47VGQSW1lQGvHWfaTvtLQPDmTt4ByeHdhG2YuJ_I04Xm4-OwUIc7g_o9-lN881mu2N4rdJFuPxYf8oVucmsy_HBmBxp35fWUqUfkoOmZWp0GR_Bme0KK0KlVJyTAHlhKpTGtX_uwmdemZV4-4zTmHkxP",
+      "metadata": "Buss Capital Holding GmbH & Co. KG, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 25.09.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Capital Holding GmbH & Co. KG, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-06-20",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=EFy14bDGp11iOHZ2PbChA48P5AInZEYCZauIEFjbzeACqp1jHujTqFzbb_LmI2irHDizEwo4UjVg-GtLLJVIFR0LQgRp2SdIsdi_xhcqo6SVA3s9rnhMARosL8edWSC6bl2wynFNPptmF7uh82BS2ZjuM1t_OwKVX40IFDhExcVSrb5lcSA20hN9W2ehw5eDd-iq0aJ7c50P8FeWB1-unX6UOHNb1iiaq5-6zv4SPidf1nnr",
+      "metadata": "Buss Capital Holding GmbH & Co. KG, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 20.06.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Capital Holding Verwaltung GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-11-10",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=cT2hKZEXL_nEfSjZuC8jRPwisJy5UMpqKRLMl1PCDTe4DY7mTbsVFzovOX2ePdAuGKqJOcmpvr_hZhu4uc55opdE7zeAbrbpQvgX4I1bnNaj8RsNT2ACdGJ_nnfHiedcxcUUU3R56P7peTjpGCrBd6YTFWtPIuXyvFZ2aUQgWEzUxdmbL56Q6xdo5yxDppYav5Agf0To6pbMKboaUmPf1ZY2zVp7Do3is92xYTcsSCoIHlWF",
+      "metadata": "Buss Capital Holding Verwaltung GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 10.11.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Capital Holding Verwaltung GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-05-28",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=HFX8FUrqkfGNs-59Mi-xBGomD47_lfg0gGH00J426khIV4CHEZF4ZvzQPErvAt7yPsW4aDUyJeqftKQI19JUd1v2J46YSUWjUzgR7K3yWCBdfB2abW3H8OZwzjdVqcwqWi7t7rsk8dgWW56tPQY7XXh3Vfzf0k-6oyGTEJEf9562HnMccoUlk21-O1gPX0wU8ETK-ux1a3xbVPzsGH0mvcek4-omBicQ0TZlhMhpilWXce0R",
+      "metadata": "Buss Capital Holding Verwaltung GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 28.05.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Capital Holding Verwaltung GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-01-28",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=qUJhlv5Uw2YdpiyvVJo3rhX1saPkj_x6j3LnL-isBOo3PhEBhSS8e55F3lN_2Ze3qMJkGiQ6cg3f9JiW8gDy1nrKxpH-9S4kQ7a5xjcVtQX0SYP2TqTULJP861lYyg2yIaQVPA6Kbm2XtODpyLNjENDtVxcKjE5vWciuXvYArbJ7dYMWLIwPN6M1nNO4p2vaMMWgijOJyIbzDrX52QDzBKa9hK3YCi2P0cfPo4wBk_YAg8XJ",
+      "metadata": "Buss Capital Holding Verwaltung GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 28.01.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Capital Invest GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-09-05",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=plsGWWRKUUFdv12Zs1d5yeMwmBQvDE7KDr3i0iMRtdW-bnvqTPbKWw3FnAZyuXokrdzIwdYQrKfJYVt1ZNPtvK-VGbbiZ1Z1o0PZKgCDu0avl-M2hDo_9jKiim8gBX7_HKhrXYcUf7QheYYEWzAks9EZ-dTEnHj7UNv4kMFMaDIuIyMZG8Huhoe8hq1oJ9PeCs1-iaaqySat8mWLy5bJlUVt_LUyfmNUZBoTa-uzCmgEiemw",
+      "metadata": "Buss Capital Invest GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 05.09.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Capital Invest GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2024-08-29",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=C5ynkll9JMoffhKS4fkr5UytxsapeccUjdqXrEKfsc2JHTxcumMH9eh6pGj0-lT8yYJihC20w39qYsP78RWrFTw55XIleHP4o_hHskAXBmBCMPX1NKUxrPVuH85ny8-gYbjp32MRQ36ccYIu2fwgZjjLVwTj2Xt3_Bn9EMFVMe0uc7NqbbxOnPV1WnXPqvIdOHoLoTez_dJCnyTMjkt2NynYTJQdGYi3-OXtlIdTdO5MastN",
+      "metadata": "Buss Capital Invest GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 29.08.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Capital Invest GmbH, Hamburg",
+      "title": "gemäß § 9 Abs. 2 Satz 1 Nr. 2 Vermögensanlagengesetz",
+      "publication_date": "2024-03-20",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=YOA1Uhfc7Ku6k9MkgfjCWZOzbWvnW5TlUm81-7cKFZvHD6LECz4INd5h9B6CalArQXpyEJEpbx9EjO4AFVMj092hoz7UQ5mvJLvUvdmwBTdAhPkxxZjbFKxXCkKfp6krzdSW0EOjLccAMlGVT0YOcN8IOIQb-Hyz1VLlv1Pu3T4POiRWHvnJNQyZ55MeKtNIgAZeAAr8__BCilRVoTuNTbr0G5fAwG5JswX_XcOg2iUZKzeC",
+      "metadata": "Buss Capital Invest GmbH, Hamburg Kapitalmarktinformationen Bundesanzeiger gemäß § 9 Abs. 2 Satz 1 Nr. 2 Vermögensanlagengesetz Datum: 20.03.2024 Sprache: Deutsch",
+      "source_area": "Kapitalmarktinformationen Bundesanzeiger",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Capital Invest Management GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-11-18",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=HOeOmaOoKQ9k3zpyru01EMGBXwAV2SnlAagkaS7EywsHIF3TbDMwGEM7g5c8TT0VcCgLNN4YwOolOrurXAQD123AHIMKzOptOyjoO5vF9lw2nsdfDZd-DN3ABvc1K06e6_XPkXJRmLg_9qOEyep3IOJIBNX1Zpz7wN82i41AfaXA-71laRnp57G1ua1KJh4uyd0fqpmaDTzN-v09A_5f2yLo4rG7jkGYaDgAe3-FUyqfbdEL",
+      "metadata": "Buss Capital Invest Management GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 18.11.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Capital Invest Management GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-05-28",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=w2C1lyIW-g-E9nWzcEcWx6bdCQUaWmGmHi-50mnsFtwtzmNCrWt9AgOVx_cJ96zuapeZmVUUrXljFSVjtj5J7Wc2Mg-d4KVl3BcQfGJd6K1-Nh0W4H2WE4wO7oltOEnq0a9oXh0P47gB-VF_GL4-j4na81pivb1vLJm3JQhKtH3Hy30aowsKgyVc6NLXlbKLjJKoKBFV4sjyvSvcYoBpgJTpYMTN3Eoy3NeZL_xsMnuCqyM6",
+      "metadata": "Buss Capital Invest Management GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 28.05.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Capital Invest Management GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2024-08-29",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=0jlhbGXAr2OFJRJU-9nlTxh3M0rG7cFCDnYTRoAX-0djJyFwnZ6hwQ0L_UoQGDiEbEuCYiWOA_NNG5z7oWyS__qfEwoCGqbGEQ86U56b0F2WQm3cmDCX6VMylrvPazEMGu8-Q90NyPZN228ARf4SW6yhzW8p82U36jDhxtqzniBzULgkW1OK8doxvf0URhRLBEukNUsXcS3v4kJO7ABWudKdM_e0W1bf_ms0naxqc1V2y8ua",
+      "metadata": "Buss Capital Invest Management GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 29.08.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Container Finance 3 GmbH & Co. KG, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-07-09",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=Jc8wh_wEM5GOhxs6tKZhV52S-WK0GGGQ1DofjzFZ5GrWt3K01GhbmzdJqu1FMek-YxEAhsCd-kLxumrd0zeYDK1buFyGGL5GYx4v16T5snv_92P_iN8kfkpxqUz9dDSildaYxtmU7i07if_n8qL4eHYA2TpAH8kysK0gdRzsxH8AQJBMUOCXUrzyIigNpq8z0hiOKvz0tJoEhu2fp8SjLJW_vwI-dlLrdY-ylfDHtdDyPExN",
+      "metadata": "Buss Container Finance 3 GmbH & Co. KG, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 09.07.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Container Finance 3 GmbH & Co. KG, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-07-23",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=HflPOAt0ZjpcA-gTYG_dRpn4iafACM_P66X6lNlXZqQv2w9lXg02_wuLTApFTD2MRANc4CofI5BVM88Ah80bWAn9yD2Eul41K0rcLxScQAT8WaHM6XcSCBqr1jWcP2SOfG2hZZRUWX7Gw0d3sVcErAyPTLomrmlEDfabGQ81nMriFXOMh450wO0fzn5yl99reTEasLMY5gTuTJ2FSZcb-E5U3Qx_WXbTZyWIMUIyme7pxwJ3",
+      "metadata": "Buss Container Finance 3 GmbH & Co. KG, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 23.07.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Container Finance 3 GmbH & Co. KG, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2024-08-27",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=_kTT_hAwnTIB0MhlzEUNVXcALZlGHZmyYjJQhX2wZMt9ci3hdPtARhXnNDW4wIXrt9crPq-F-pris2e-0Ws18oLB2Ecg6m70Q53lPW4KMyG-Hh4IkgA7GViP_owIlFAi4jZEn7qLVnAiqkzpSq1U1z1zw2DQs6JyUG1ZeFsbIjT0FwIa5PCwxBFpW3negj7SZ6lcSxBhTMGaP1i9y7i_oovBVr2fzlqj8LW6Rd78kPQM4o1s",
+      "metadata": "Buss Container Finance 3 GmbH & Co. KG, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 27.08.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Container Finance 4 GmbH & Co. KG, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-07-09",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=v9mK3Gt7y8WkBIhNB1KBBNzjid3UgMDejkA1_oC3uLBCfRJHpNROnsJOrHrLbcGe45TUJe2GKZKmwO2YR4M6d7w5rwqkn03Kjp1m0AonOeDZV3jlVdnVgcKf_jyE5UADeDf1OGN7AuGBKVyxR-kU5lcY09f1CbtNt53Yx5c6JjNw620A9HSY4itxwa51cZA5yFnqlFIgzm0C2HV0-kDiGZJ0If5VsoRaT1NDJyt35WegyAda",
+      "metadata": "Buss Container Finance 4 GmbH & Co. KG, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 09.07.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Container Finance 4 GmbH & Co. KG, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-07-23",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=Pd3BNuEj_4Bnme3rxb3KwaPTp5ltrTPNUY80PLIiUgVS5KPl8v7JB8wKvqMTgBb_9ldmj7DycFdMjD5FxvoMl3PfUQdT8Q8RYydAYP8qd79wpdTWKEQVC_XfXfGWba25CZ_V-h-Dg2IOqd-qRNjQQBVu9FjgiizlYCKrlj1o9hL3UtGHDGH8r5M9XYcaElLeUFGvnClbxLglfENVtsi3b-YvLaHK9IRmxx4aQ5tagynpWS8T",
+      "metadata": "Buss Container Finance 4 GmbH & Co. KG, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 23.07.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Container Finance 4 GmbH & Co. KG, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2024-09-27",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=AOA_xlDqliYFQNGRYMxxEd9kCOKBMjOLGsD280bQgNuYDRddkCZo1YaS7KsOD0CALlyia6Or0M9MHy-VV7ZhaxLFdwsRs0O2oU8xvlKHpsKLh7R0V8AiYj09U1qrtltlVDoeNkP3ZWbDg3Oz4LtOceUiSh7OMt7W_4lkMW5IqYMskZ9G9vwMv2hRkluE3S2LSr8B_W6n5vVakIqEARfH5XYT-Vu5erkEL6dEzqhFlCz4JHJv",
+      "metadata": "Buss Container Finance 4 GmbH & Co. KG, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 27.09.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Container Finance 4 GmbH & Co. KG, Hamburg",
+      "title": "Mittelverwendungskontrolle gemäß § 5c VermAnlG",
+      "publication_date": "2024-07-25",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=hTyt7VlOoqFUlznRJHfETQ1zANEiKU0x2FOLyLJI4Jov6X83ArEe_VFATtiebVmeBxk9tMMwFwDrIPshCs-Q6U75_pf-b_I3naQ6gTXKFFf0wnJzM03LYg1JOnzxfYMla8FFICE5Btq0GowW3vTdedDcejuRdaSdQnuCfNUMTO-xgCNridvySzq_RqpG-IoscVhQ_JziM9VcuQqgKqvP8C_wRb-YYg2iedg0_D-JBkDa2pGF",
+      "metadata": "Buss Container Finance 4 GmbH & Co. KG, Hamburg Kapitalmarktinformationen Bundesanzeiger Mittelverwendungskontrolle gemäß § 5c VermAnlG Datum: 25.07.2024 Sprache: Deutsch",
+      "source_area": "Kapitalmarktinformationen Bundesanzeiger",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Container Finance Verwaltung GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-11-10",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=LTWyyg-ooIlL1odEStm0qDHLMLcuWwUU5URvSp0KSM-DjvKZEsQIj1VFFQ6-O6gADIrC1od1XfeFli7XuZxOOhM-c6kKnplDJA9Xn0UwMkY-jds2UGVrIudCQ-FEsBYfkvzrZ5ASUibW7vd5lfI24FuW18mhW2HnNCoKVMHSztzSoycQ7RRIjm4PRkxOuprhbfg9ZsjMJz28cuAQeQ-DvVUUM26Yeatx-zHfycZKks64pGEw",
+      "metadata": "Buss Container Finance Verwaltung GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 10.11.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Container Finance Verwaltung GmbH, Hamburg",
+      "title": "Liquidationseröffnungsbilanz zum Geschäftsjahr vom 01.01.2025 bis zum 01.01.2025",
+      "publication_date": "2025-08-26",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=oS7HJTfgXhsSKWUZJg5HZ8h7YKTvPq-HU7r8_KQFR_3WUMSiD9SWBUA9aCU_n7o-RdyYpL2wMbTQMEG5A01T1I5DCaaaC0MPOLgjcEBoxXW1Myo6v25Nm7drqoIfEsgotoOdCHBYwph6SA7LDhN3j9V5NTnKZDOuMUCQrj7Ge4tcyxCMwIEotUK2-JR7VdRLrbGu5koIO8kxhF9mbfIJbOxoiqxnJuM-_FeLLRqQwiLqrTjc",
+      "metadata": "Buss Container Finance Verwaltung GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Liquidationseröffnungsbilanz zum Geschäftsjahr vom 01.01.2025 bis zum 01.01.2025 Datum: 26.08.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Container Finance Verwaltung GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-05-28",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=lSuYussJwt2KavunSygC-vC-6pdg1r3HRF7VL62XVzD3XtwHnPJickmwBYx_ZDiWSCOjY5wZrPridUXdBZoznAdPt1l8uMLBmDsQEfZeE27GEIrmJhyvfuTxxkpNwoOjiM-9vvgVNNn30R4K3mugkFQcCXZaYyldmN9nEmtMK0MjoFfMMIhkDnqFpAptrhOrJrFuy1bHBoUDMkbMOkvQKmfGWI2EHWNegWjcPofAEm9jLBsz",
+      "metadata": "Buss Container Finance Verwaltung GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 28.05.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Container Finance Verwaltung GmbH, Hamburg",
+      "title": "Liquidation",
+      "publication_date": "2025-01-02",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=lPWL84DNWaKot2JH2p58topLuCjtHyMC17s7j-1UZDIB_TOapZ_JobdVvbS9yoCJrG_ZZuXaMLNudtCGFASCMLbhbjQpm53PUW2GkKVQWjtQma-AAfuh36CT3DOetl2Rf9K3fSXqAqbqeMFAMvMCwzRtiijQn4hIZE8eTS2Br97WMqRzdgz7N6HCzSYq0STUoY_vgCZUv3RHS2CdEmtm0UlbgfU7vgF6CrQH6P_rRDmQmOCx",
+      "metadata": "Buss Container Finance Verwaltung GmbH, Hamburg Gesellschaftsbekanntmachungen Bundesanzeiger Liquidation Datum: 02.01.2025 Sprache: Deutsch",
+      "source_area": "Gesellschaftsbekanntmachungen Bundesanzeiger",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Container Finance Verwaltung GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2024-08-23",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=_gkE3fOUsfLt1tJrIZDxeDp0f74nqiUXPgyL4xtmArleCgzz5Q54jkWO0liPrJH22C4iRdixTOg9vH4jUYTCzDIps7q1c28D3eaI895mEnyZ-fxFHXQoHM7LLTvmCawHzwguRgo4Z8SCpw4eJE34aGG9MkYAKNQa9jtT4mBroghbFUujWXuYfTQiCqjsCnuORtwJaEkM-V3wVx4rhk07XQIUi3u6IvwiS1QijVVdk76RTANN",
+      "metadata": "Buss Container Finance Verwaltung GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 23.08.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Container International 4 GmbH & Co. KG, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-07-28",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=D_VPNfu8Wn5InbSmcVMK20Kd0136-DLh4051DR4bnCHU7qAX1OSSF7VlZOAZKTiJ1gQh1cjy-RBfuHvz6KGI0t2WyCr2ZIlTB3TUdyH0oX--gir2kIU3tMau-oOHhsvp3dYKHoyrX6-NY0gUu7ExTGSh6lPGD1dqqOIsrhsoXUoIjD1k4p9N0s-8CI2lxLI7X-Zt4jBQMdMHbnaHOIC0V0t3OegTdf4pf0XKyQPpl6ZVR28C",
+      "metadata": "Buss Container International 4 GmbH & Co. KG, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 28.07.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Container International 4 GmbH & Co. KG, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2024-09-24",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=EVGdqaDL5rog7ngN1e1QKBHyjRfP-qluHYy53t1jOpHGpJkD8XZGrxOwBR5HkcMUrk8p6U2IwXKV-N9GXa4REwlAlvsYFXSwnUvF2kcxAGMYDal9FDFQ_H3M0dzCSc_6ZxzYO4-GW-pDJcnuCvzYkn3ZUf8wDxWIgBIS-SiHEzjX5yG2LhAYSYqkUkPIUqCzK9NLTO6zwTc_4Fz0BHbJ-EvEgBUvgKU7l_nJ5TbK_tCAQTTk",
+      "metadata": "Buss Container International 4 GmbH & Co. KG, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 24.09.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Container International 4 Verwaltung GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-11-18",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=OFtD3Z2T_-N1zydAkV_UesOxXvpwluPfx798ytuXeVnWdGEwnIdkldRH7dTSVHvAh6Tb6m-8y8asg-HhNf8wFUg9XBFdiy4nWBOQj0VcA8XPbzAbuepd0TpbqvDfB1VyliZU8CllRx_6OrVMtcCo2YJvw9ykIjcfmrzt6N1LeyW9mM7uXx9HRMexLwXF0KDqWGnUlrzQIR9jgDIbKwm6e2myD9P3TOwi4Jn78nbBU_bVjyjm",
+      "metadata": "Buss Container International 4 Verwaltung GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 18.11.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Container International 4 Verwaltung GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-05-28",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=GMeW0xPF9mbJM-But6D1X97tfDTkmiuk_yUOKA-Y3I5AyU4swb3gNpuJBNg8mQ4JDt2hyTRANE3sIQ__80tJ5WoSMrKWeGId4y-Z0MI99gVHPxLK_tUkIF6WALft5-l2xlLpcqWy8obZyUWd7HupC14vM-y2DYjrGKM5YujlchhWL9e0KI-7Ns3xJWZbjZagVOH2IQfNmpD1AK2OrNEZe_LOAbJSi1_GaEDQBrzuWSdgmdzH",
+      "metadata": "Buss Container International 4 Verwaltung GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 28.05.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Buss Container International 4 Verwaltung GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2024-08-29",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=SfvlMpBFLKqFUo28f9PfdzSxA_G6NOilfCpWqbadm7cOkEqNHVt2h-cpX4lgVtJkgFewrsdajHR2S4q18LB9beT387g3VNI73witRp-8V4NhemE-9zRJjPXwy2IW0Bxr-ZevGVKp2oH9Zzve8uk9qM6xVHbO7YJ2jeug-_lcNQtPUvNoXg2s0GZI_198aM8NMfERO4rMtJGKNgHFETcbMqs7fcVlXmBoj8kMiFC7NyK9SAf5",
+      "metadata": "Buss Container International 4 Verwaltung GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 29.08.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    }
+  ],
+  "date_from": "2024-01-01",
+  "date_to": "2026-11-25",
+  "excluded_dates": [],
+  "max_publications": 30,
+  "truncated": true,
+  "coverage": {
+    "search_complete": false,
+    "more_pages": true,
+    "publication_limit_reached": false,
+    "downloads_selected": 2,
+    "downloads_succeeded": 2,
+    "download_limit_reached": false,
+    "downloads_complete": true,
+    "text_complete": true
+  },
+  "publications": [
+    {
+      "company": "Buss Port Services GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-01-22",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=ExQThn1zXY8v6f0clFluXzAsaEJXeabLeUXoUJayZSIyNGw9NgT_ec24_nBzeUDTS1qsTPWKDzB7HrNde0nlQi2ARirwk0fgmBFq3gIB3_Goyj_i-e_i1BHKrb5JIjTY37BIp-qEC8Py9Eu8uQoACpLqzBWypU7emuoMOen_QwrhJYc90oDq6jrHfx0UaUxRh4sbUpfV9_f2U7rGV1jGkfcta9rvzWrBF0-EmsO7-c1SZq8",
+      "metadata": "Buss Port Services GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 22.01.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 1
+    },
+    {
+      "company": "Buss Port Services GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-02-21",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=v745NKy_DmozMMr1IuWTXvHMuCw7eNXvJsKHdnmu97IXXT69IJwI9qng7GyNusu87gQQ1td_qCD1NXV52Hl9zeezIGv7kIYrV-cnnLmfRA6jf2SdWWMYl9ObdlIzwkk-L4PXs7KWVp-6ZaARuPOxqjb7bKvuJ78OXD1N3GqGxvEqySPEaHux0oiUywOd61knsZRxbhad-OlsOPhf-rANN13tMuwojfGrezVb_nLqqiVEy4s",
+      "metadata": "Buss Port Services GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 21.02.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 2
+    }
+  ]
+}

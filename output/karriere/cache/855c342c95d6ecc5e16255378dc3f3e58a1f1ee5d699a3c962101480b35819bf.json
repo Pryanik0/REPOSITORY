@@ -1,0 +1,9 @@
+{
+  "url": "https://www.kaenguru-online.de/robots.txt",
+  "final_url": "https://www.kaenguru-online.de/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/plain",
+  "fetched_at": "2026-11-25T16:17:38.383307+00:00",
+  "text": "User-agent: *\nAllow: /\nDisallow: /index.php*\nSitemap: https://www.kaenguru-online.de/sitemap.xml\n"
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=FvGxjwfAKcgq_LWuUdQYWkJR8Yktk6SCWNYweYry8RMO9QCONrFhBdgk5rwtqtuOiqZT8B3Aw-HFfvXz2uuCSpfSDjJnCceOwCfvLnoRG3YvYy0JOtcdZwI2yfZeH97NC0ML910Imn_XhzbfXXoyBk6AQUglUVx1ZRIrQniM9N7pEGedC70huJfnIZcJ9IqgUxH7e4mPXhJtc-fmNAKJhUM3eFrKrfFWsSghX6wULJWHN9Vd",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Kyowa-Kirin-International-5b71de53\\finanzberichte\\publication-1\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Kyowa-Kirin-International-5b71de53\\finanzberichte\\publication-1\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Kyowa-Kirin-International-5b71de53\\finanzberichte\\publication-1\\publication.txt",
+    "index": 1,
+    "category": "finanzberichte",
+    "company": "Kyowa Kirin GmbH, Düsseldorf",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+    "documents_path": "output\\unternehmensregister\\Kyowa-Kirin-International-5b71de53\\finanzberichte\\publication-1\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=g5h8PtggTEhZWzPIX2g9f6KQmNJZeVYL6Ut1YFbh79YVa4N5_JXbNyw_Li5sWDFIfaVzunsKVJ28U40OyCE4XNKRC14oRY6cSuaDs7PduKclfXdjcjV15bJ9BbL9ZywakJaKxFtmrG-msw-3HrJZKZDjk_h5o4d9sW1o55mMVMlfYwlTvVAjVYE2623YgwPYjttmXJqySv6DIsF-l4WJrDiLGMmtZcpUKWBPAcfarIvuxQ-4",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Kyowa-Kirin-International-5b71de53\\finanzberichte\\publication-2\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Kyowa-Kirin-International-5b71de53\\finanzberichte\\publication-2\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Kyowa-Kirin-International-5b71de53\\finanzberichte\\publication-2\\publication.txt",
+    "index": 2,
+    "category": "finanzberichte",
+    "company": "Kyowa Kirin GmbH, Düsseldorf",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+    "documents_path": "output\\unternehmensregister\\Kyowa-Kirin-International-5b71de53\\finanzberichte\\publication-2\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=Syqcl0Y6pBWhyIDGmGnyLGoz_lg8KEufc0Vj5brqACVVjR-ZheFfXp6zAe3A8y2tMbm4hO1lIDoCZxdw2o6PjIPlkMfsbs99rePsSx_VRhgZF6yfdkgJrcPUPC5KfLRJP5Rd65J_myQxyKqYrzRqA3n91LxdqSkaMh627IQ6Y9rEpf_uHKEoRSKoWXZC6MwZhmonAEf8zbtkRaaTtzsZb_ybMQi0H08oW81w-GGgfOjiAFXc",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Kyowa-Kirin-International-5b71de53\\finanzberichte\\publication-3\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Kyowa-Kirin-International-5b71de53\\finanzberichte\\publication-3\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Kyowa-Kirin-International-5b71de53\\finanzberichte\\publication-3\\publication.txt",
+    "index": 3,
+    "category": "finanzberichte",
+    "company": "Kyowa Kirin GmbH, Düsseldorf",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+    "documents_path": "output\\unternehmensregister\\Kyowa-Kirin-International-5b71de53\\finanzberichte\\publication-3\\documents.json"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Hamburg Commercial Bank AG",
+    "original_name": "publication.html",
+    "title": "publication.html",
+    "company": "Hamburg Commercial Bank AG",
+    "format": "html",
+    "text": "Hamburg Commercial Bank AG\n\nHamburg\n\nscroll\n\nBekanntmachung\n\nbis zu EUR 5.000.000,00\nVariabel verzinsliche Inhaberschuldverschreibungen von 2023 (2029)\nSerie 2757\nder\nHamburg Commercial Bank AG\n\nISIN: DE000HCB0BU2\n\nVerzinsung: 4,451 % p.a.\n\nZinsperiode: 24.11.2026 bis 23.05.2027 (inkl.)\n\nZinsbetrag für Nominal EUR 100.000,00: EUR 2.237,86\n\nZinszahlung: 24.05.2027\n\nHamburg Commercial Bank AG",
+    "tables": [
+      {
+        "index": 1,
+        "title": "Hamburg",
+        "rows": [
+          [
+            ""
+          ]
+        ],
+        "cells": [
+          [
+            {
+              "text": "",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ]
+        ]
+      }
+    ]
+  }
+]

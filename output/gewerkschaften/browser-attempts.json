@@ -1,0 +1,93 @@
+[
+  {
+    "url": "https://www.djv.de/",
+    "http_status": 500,
+    "browser_status": 200,
+    "final_url": "https://www.djv.de/"
+  },
+  {
+    "url": "https://www.djv.de/mitgliederservice/",
+    "http_status": 500,
+    "browser_status": 200,
+    "final_url": "https://www.djv.de/mitgliederservice/"
+  },
+  {
+    "url": "https://www.djv.de/medienpolitik/",
+    "http_status": 500,
+    "browser_status": 200,
+    "final_url": "https://www.djv.de/medienpolitik/"
+  },
+  {
+    "url": "https://www.djv.de/news/",
+    "http_status": 500,
+    "browser_status": 200,
+    "final_url": "https://www.djv.de/news/"
+  },
+  {
+    "url": "https://www.djv.de/medienpolitik/kuenstliche-intelligenz/",
+    "http_status": 500,
+    "browser_status": 200,
+    "final_url": "https://www.djv.de/medienpolitik/kuenstliche-intelligenz/"
+  },
+  {
+    "url": "https://www.djv.de/der-djv/ueber-den-djv/djv-gremien/verbandstag/",
+    "http_status": 500,
+    "browser_status": 200,
+    "final_url": "https://www.djv.de/der-djv/ueber-den-djv/djv-gremien/verbandstag/"
+  },
+  {
+    "url": "https://www.djv.de/der-djv/ueber-den-djv/fachausschuesse-und-kommissionen/betriebsratsarbeit-und-tageszeitungen/",
+    "http_status": 500,
+    "browser_status": 200,
+    "final_url": "https://www.djv.de/der-djv/ueber-den-djv/fachausschuesse-und-kommissionen/betriebsratsarbeit-und-tageszeitungen/"
+  },
+  {
+    "url": "https://www.djv.de/der-djv/ueber-den-djv/fachausschuesse-und-kommissionen/chancengleichheit-und-diversity/",
+    "http_status": 500,
+    "browser_status": 200,
+    "final_url": "https://www.djv.de/der-djv/ueber-den-djv/fachausschuesse-und-kommissionen/chancengleichheit-und-diversity/"
+  },
+  {
+    "url": "https://www.djv.de/einsatzfelder/tarife-honorare/",
+    "http_status": 500,
+    "browser_status": 200,
+    "final_url": "https://www.djv.de/einsatzfelder/tarife-honorare/"
+  },
+  {
+    "url": "https://www.djv.de/einsatzfelder/freier-journalismus/",
+    "http_status": 500,
+    "browser_status": 200,
+    "final_url": "https://www.djv.de/einsatzfelder/freier-journalismus/"
+  },
+  {
+    "url": "https://www.djv.de/einsatzfelder/chancengleichheit-diversity/",
+    "http_status": 500,
+    "error": "CrawlError: Browser-Weiterleitung außerhalb der Quelldomains."
+  },
+  {
+    "url": "https://www.djv.de/einsatzfelder/rundfunk/",
+    "http_status": 500,
+    "browser_status": 200,
+    "final_url": "https://www.djv.de/einsatzfelder/rundfunk/"
+  },
+  {
+    "url": "https://www.djv.de/mitgliederservice/mitgliederbereich/index/weitere-services/freieninfo-plus",
+    "http_status": 403,
+    "browser_status": 403,
+    "final_url": "https://www.djv.de/mitgliederservice/mitgliederbereich/index/weitere-services/freieninfo-plus",
+    "error": "CrawlError: Browser HTTP 403: https://www.djv.de/mitgliederservice/mitgliederbereich/index/weitere-services/freieninfo-plus; Seite nicht verfügbar oder Sicherheitsprüfung erforderlich."
+  },
+  {
+    "url": "https://www.djv.de/der-djv/ueber-den-djv/fachausschuesse-und-kommissionen/rundfunk/",
+    "http_status": 500,
+    "browser_status": 200,
+    "final_url": "https://www.djv.de/der-djv/ueber-den-djv/fachausschuesse-und-kommissionen/rundfunk/"
+  },
+  {
+    "url": "https://www.gew.de/presse",
+    "http_status": 403,
+    "browser_status": 403,
+    "final_url": "https://www.gew.de/presse",
+    "error": "CrawlError: Browser HTTP 403: https://www.gew.de/presse; Seite nicht verfügbar oder Sicherheitsprüfung erforderlich."
+  }
+]

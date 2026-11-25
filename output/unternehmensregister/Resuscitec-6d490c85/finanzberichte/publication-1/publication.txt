@@ -1,0 +1,616 @@
+Resuscitec GmbH — Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023
+Resuscitec GmbH
+
+Freiburg im Breisgau
+
+Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023
+
+Lagebericht Geschäftsjahr 2023
+
+1. Grundlagen des Unternehmens
+
+a. Gesellschaft und Geschäftsmodell
+
+Die Resuscitec GmbH ist ein Medizintechnikunternehmen mit Sitz in Freiburg.
+
+Gegründet wurde die Resuscitec 2010 als Spin-off der Universitätsklinik Freiburg. Der Schwerpunkt der Gesellschaft liegt in der Entwicklung von Verfahren und Methoden zur kontrollierten Ganzkörper-Reperfusion. Dabei stellt die Resuscitec modernste Geräte im Bereich der kardiotechnischen Notfallmedizin her, welche die Umsetzung neu entwickelter klinischer Verfahren in die Praxis ermöglichen.
+
+Der Aufbau und die Entwicklung der Resuscitec wurde über Fördermittel der EU, Venture Capital sowie Kapital von Family Offices finanziert.
+
+Mit dem CARL-System („Controlled Automated Reperfusion of the whoLe Body“) hat die Resuscitec ein neuartiges Verfahren zur Wiederbelebung von Personen nach einem auch länger anhaltenden Herz-Kreislauf-Stillstand (HKS) entwickelt. Das CARL-System ermöglicht einen neuen methodischen Ansatz der Wiederbelebung und begründet die neuartige Behandlungsform der extrakorporalen, kardiopulmonalen Reanimation (ECPR). Das CARL-System ermöglicht die personalisierte Reanimation.
+
+Das CARL-System ist entsprechend der europäischen Medizinprodukteverordnung (MDR), die seit Mai 2021 für Medizinprodukte in der EU gilt, zugelassen. CARL wird seit 2023 im Rahmen eines limited Market Release in den EMEA-Märkten eingeführt. Dabei liegt der primäre Fokus auf den jeweils führenden Herzzentren in den jeweiligen Ländern.
+
+Die Marktzulassung in den USA befindet sich in der Vorbereitung.
+
+Die Entwicklung und Produktion des CARL-Systems sowie der zugehörigen Verbrauchsmaterialien (sog. „Disposables“, wie u.a. Reperfusions-Sets) erfolgt am Standort Freiburg. Der Vertrieb sowie der Clinical Support erfolgen über ein eigenes, hoch qualifiziertes Expertenteam unter Einbindung von Distributoren.
+
+Zum 31. Dezember 2023 beschäftigt die Gesellschaft 73 festangestellte Mitarbeitende.
+
+b. Forschung und Entwicklung
+
+Die Forschungs- und Entwicklungsaktivitäten konzentrieren sich auf das CARL-System mit seinen verschiedenen Komponenten und Verbrauchsmaterialien. Die Entwicklungstätigkeiten wurden in einem ersten Schritt im Jahr 2021 abgeschlossen. Seither erfolgen eine gezielte Produktweiterentwicklung und Produktpflege.
+
+Im Jahr 2023 waren im Bereich Forschung und Entwicklung 19 Mitarbeitende beschäftigt. Die Gesamtaufwendungen für die Entwicklung betrugen ca. 2,9 Mio. EUR (2022: ca. 3,2 Mio. EUR) für das Geschäftsjahr 2023. Eine Aktivierung selbsterstellter immaterieller Vermögensgegenstände erfolgte im Berichtsjahr nicht.
+
+Das Kernwissen des CARL-Systems ist durch Patente abgesichert, die zum Teil der Resuscitec und zu einem anderen Teil dem Tochterunternehmen RST Systems GmbH gehören.
+
+c. Ziele und Strategien
+
+In den ersten sechs Jahren nach Unternehmensgründung (bis 2016) lag der Fokus der Resuscitec auf der klinischen Forschung zur Finalisierung der Entwicklung der CARL-Therapie. Anschließend folgte die Entwicklung der CARL-Technologie, die die exklusive Basis für die Anwendung der CARL-Therapie bildet. Mit Erteilung der CE-Zertifizierung in 2020 und der MDR-Zertifizierung in 2023 erlangte das CARL-System Marktreife und die Marktzulassung im EU-Raum. Seither erfolgt ein limited Market Release in EMEA.
+
+Zur Absicherung der Lieferkette und zur Erhöhung der eigenen Wertschöpfung hat die Resuscitec über die letzten Jahre eine technologische Unabhängigkeit bei Kernkomponenten und Kernprodukten durch Insourcing der entsprechenden Herstellung erlangt - bei sterilen wie unsterilen Komponenten und Produkten.
+
+Die Resuscitec verfügt über die für ein Medizintechnikunternehmen mit eigener Herstellung notwendigen Kompetenzen und Zulassungen. Die interne Organisation der Resuscitec agiert vollständig integriert und nutzt Microsoft Dynamics (Navision) als unternehmensübergreifende betriebswirtschaftliche Software.
+
+d. Steuerungsrelevante Leistungsindikatoren
+
+Die Gesellschaft befindet sich noch immer in der Aufbau- und Wachstumsphase. Die Resuscitec kann derzeit die zur Aufrechterhaltung des Geschäftsbetriebes notwendigen finanziellen Mittel noch nicht vollständig selbst erwirtschaften. Zentrale Größen für die Unternehmenssteuerung sind daher die Zahlungsfähigkeit, die Umsatzerlöse sowie die Aufwendungen für Sachkosten und Personal.
+
+Die Liquiditätsplanung basiert auf den Umsatzerwartungen und Mittelzuflüssen aus dem operativen Geschäft, den dazugehörigen Auszahlungen und den geplanten Investitionen. In die Liquiditätsplanung eingerechnet werden zugesagte bzw. in Aussicht gestellte Finanzierungsmittel der Gesellschafter oder neuer Investoren in Form von Wandeldarlehen oder Eigenkapitalzuführungen, die bis zur Erreichung des Cash-Break-Evens erforderlich sind.
+
+2. Wirtschaftsbericht
+
+a. Gesamtwirtschaftliche sowie branchenbezogene Rahmenbedingungen
+
+Im Geschäftsjahr 2023 nahm die gesamtwirtschaftliche Leistung in Deutschland um 0,3 % ab, die Steigerung aus dem Vorjahr (1,8 %) konnte nicht erreicht werden. Damit lag Deutschland leicht über dem Wachstum im europäischen Durchschnitt (0,1 %) (Quelle: Destatis Bruttoinlandsprodukt 2023 & Eurostat Bruttoinlandsprodukt EU 2023).
+
+Die Medizintechnik-Branche hat sich 2023 gegenüber dem Vorjahr weiter erholt. Entsprechend der Schätzung des Branchenverbandes BVMed liegt das Umsatzwachstum 2023 der in Deutschland tätigen Unternehmen bei 4,8 %. Dem stehen jedoch stark gestiegene Logistik- und Energiepreise sowie die hohen Kosten für die MDR-Umsetzung gegenüber. (Quelle: BVMED, Ergebnisse der BV-Med Herbstumfrage 2022 vom 13.09 2023). Investitionen innerhalb von Deutschland gehen immer weiter zurück und werden zunehmend ins Ausland verlagert. Das Innovationsklima ist nach dem BVMed-Index auf dem Tiefpunkt. Hauptgrund sehen viele in der überbürokratischen EU-Medizinprodukteverordnung (MDR).
+
+b. Geschäftsverlauf
+
+Die wirtschaftliche Entwicklung der Resuscitec ist im Kontext des insgesamt schwierigen Marktumfeldes im europäischen Gesundheitswesen sowie der weiter zunehmenden Anforderungen an die Medizintechnikindustrie zu betrachten.
+
+Der Umsatz der Resuscitec setzt sich aus Geräte- und Disposable-Verkäufen zusammen. Während in 2023 die Geräteverkäufe den größten Umsatzanteil bildeten, nahmen in 2024 die Disposable-Verkäufe zu - dieses entsprechend der Zielsetzung der Etablierung eines von Disposable-Verkäufen getriebenen Geschäftsmodells. Die Zahl der installierten CARL-Systeme konnte auf 60 Stück in Kliniken in EMEA in 2023 erhöht werden, diese mit steigenden Einsatzzahlen.
+
+Die Zahl der CARL-Einsätze und damit die Umsatzentwicklung aus dem Verkauf von Disposables in 2023 blieb aufgrund der zuvor beschriebenen Herausforderungen im Gesundheitswesen hinter den Erwartungen zurück. Die Einführung von CARL erfordert aufgrund fehlender personeller Kapazitäten und fehlender Investitionsmittel in den jeweiligen Kliniken deutlich mehr Zeit als erwartet - trotz der sehr guten klinischen Ergebnisse der CARL-Therapie.
+
+3. Vermögens-, Finanz- und Ertragslage
+
+Die wirtschaftliche Lage der Resuscitec in 2023 war geprägt durch hinter den Erwartungen zurückgebliebenen Umsatzerlösen sowie eine dem Umsatzniveau nicht entsprechende Kostenstruktur. Hinzu kamen u.a. hohe regulatorische Kosten für Zulassungsverfahren in mehreren Ländern, Prozess Auditierungen sowie hohe Kosten der Markterschließung. Die Liquiditätsausstattung der Gesellschaft konnte diese Entwicklungen tragen.
+
+Für die Steuerung des operativen Geschäfts nutzt die Gesellschaft die zentralen finanziellen Leistungskennzahlen Umsatz, Auftragseingang, Kosten und Liquidität.
+
+a. Vermögenslage
+
+Die Bilanzsumme der Gesellschaft beträgt nach Abzug des auf der Aktivseite ausgewiesenen nicht durch Eigenkapital gedeckten Fehlbetrags zum Bilanzstichtag 13,5 Mio. EUR.
+
+Auf der Aktivseite hat sich das Anlagevermögen mit 3,1 Mio. EUR zum Vorjahr leicht reduziert (Vorjahr 3,3 Mio. EUR). Den Abschreibungen bei den immateriellen Vermögengegenständen und dem Sachanlagevermögen von 1,3 Mio. EUR stehen Zugänge für eigene CARL-Systeme, Messvorrichtungen, Um- und Einbauten und andere technischen Anlagen und Maschinen von 0,8 Mio. EUR gegenüber.
+
+Das Vorratsvermögen hat sich im Rahmen einer Working Capital Optimierung von 5,7 Mio. EUR auf 5,2 Mio. EUR vermindert.
+
+Die Finanzierung der Entwicklungs-, Zulassung- und Markteinführungsphase des CARL-Systems wurde durch die Gesellschafter neben der zur Verfügungstellung von Eigenkapital (40,9 Mio. EUR) durch die Gewährung von Wandeldarlehen und anderen Kreditausreichungen finanziert. Das Eigenkapital ist aufgebraucht - es besteht zum Bilanzstichtag ein nicht durch Eigenkapital gedeckter Fehlbetrag von 25,2 Mio. EUR. Die Verbindlichkeiten gegenüber Gesellschaftern aus Kreditgewährungen und Wandeldarlehen betragen 34,3 Mio. EUR nach 16,6 Mio. EUR im Vorjahr. Der Anstieg resultiert aus der Bereitstellung der notwendigen Liquidität in Form neuer Wandeldarlehen.
+
+b. Finanzlage
+
+Der Mittelabfluss aus dem operativen Geschäft betrug im Berichtsjahr ca. 15,6 Mio. EUR. Die Resuscitec wurde in der Vergangenheit stets auf Jahresbasis durch die Gesellschafter über Eigenkapital oder Wandeldarlehen finanziert. Dieses gilt auch für 2023. Der Geschäftsgang 2023 wurde durch die Aufnahme weiterer Wandeldarlehen in Höhe von 14,7 Mio. EUR abgesichert. Eine weitere Erhöhung der Wandeldarlehen um 0,3 Mio. EUR erfolgte im Januar 2024. Die Wandeldarlehen hatten eine Laufzeit bis 31. Dezember 2025, wobei die Zinsen bis zur Endfälligkeit gestundet waren. Die Gesellschaft war hierdurch während des Berichtsjahres zu jeder Zeit in der Lage, ihre Zahlungsverpflichtungen zu erfüllen. Im Hinblick auf die Liquiditätslage in 2024 und 2025 verweisen wir auf unsere Ausführungen unter „4. Prognosebericht“ und „5. Ereignisse oder Gegebenheiten, auf Grund derer eine wesentliche Unsicherheit bezüglich der Fortführung der Unternehmenstätigkeit besteht“.
+
+c. Ertragslage
+
+Die Umsatzerlöse 2023 lagen bei 3,1 Mio. EUR und damit ca. 1,0 Mio. EUR unter Plan. Ursächlich hierfür waren die bereits erwähnten Herausforderungen im Gesundheitswesen welche eine schnelle Marktdistribution verhindern.
+
+Die Kostenstruktur 2023 war auf das ursprünglich erwartete Umsatzniveau sowie das geplante künftige Wachstum abgestellt und damit letztlich zu hoch. Die Personalkosten sind aufgrund einer höheren durchschnittlichen Mitarbeiterzahl gegenüber dem Vorjahr um 1,2 Mio. EUR auf 7,3 Mio. EUR angestiegen. Die sonstigen betrieblichen Aufwendungen sind von 7,4 Mio. EUR auf 10,3 Mio. EUR gestiegen. Der Anstieg entfällt insbesondere auf höhere Mietleasingkosten (+1,1 Mio. EUR) und gestiegene Raumkosten (+0,3 Mio. EUR).
+
+Die Kostenstruktur wurde Ende 2023 an die korrigierten, niedrigeren Umsatzerwartungen der Folgejahre angepasst. Die in Folge eines Personalabbaus erforderlichen Abfindungen sind im Jahresabschluss bereits berücksichtigt.
+
+Insgesamt schließt die Resuscitec das Geschäftsjahr 2023 mit einem Jahresfehlbetrag von - 23,1 Mio. EUR (Vorjahr -11,9 Mio. EUR) ab. Entsprechend erachtet die Geschäftsführung die Entwicklung der Vermögens-, Finanz- und Ertragslage unter den gegebenen Umständen als unbefriedigend.
+
+4. Prognosebericht
+
+Laut dem Konjunkturbericht des Kieler Instituts für Weltwirtschaft (IfW) verharrte die deutsche Wirtschaft im Jahr 2024 weiterhin in der Stagnation. Die noch im ersten Halbjahr 2024 erkennbaren Erholungstendenzen konnten sich im weiteren Verlauf des Jahres nicht verfestigen. Das Wirtschaftswachstum lag bei -0,2 % im Jahr 2024. Damit schrumpft das Bruttoinlandsprodukt (BIP) im zweiten Jahr in Folge.
+
+Nach der Herbstumfrage des BVMed steht der Medizintechnik-Standort Deutschland unter erheblichem Druck. Die Mitgliedsunternehmen des BVMed erwarten für 2024 nur noch einen Umsatzanstieg von 1,2 % in Deutschland. Das ist gegenüber dem Vorjahreswert von 4,8 % ein deutlicher Rückgang. Aufgrund der anhaltenden Kostensteigerungen erwarten nur noch 10 % der BVMed-Mitglieder in 2024 Gewinnsteigerungen gegenüber dem Vorjahr.
+
+Für 2025 sieht das IfW in seinem Konjunkturbericht aus dem ersten Quartel 2025 ein Nullwachstum in Deutschland beim Bruttoinlandsprodukt.
+
+Der von der Resuscitec mit CARL adressierte Markt der ECPR (extrakorporale Reanimation) entwickelt sich nach in Auftrag gegebenen internen Studien mit zunehmender Dynamik - von einem aktuell adressierbaren Marktvolumen (EMEA+USA) von ca. 400,0 Mio. EUR auf erwartete über 2,0 Mrd. EUR (EMEA+USA) in 2033.
+
+Die eigene Vertriebsorganisation wurde Anfang 2024 umgebaut und neu ausgerichtet. Dieses mit dem Ziel einer höheren Kundennähe und verbesserten Kundenbetreuung. Ebenfalls wird der Clinical Support noch näher an den Kunden gerückt. Die Zusammenarbeit mit den Distributoren wird weiter optimiert. Zugleich werden neue Produkte in die Märkte eingeführt und weitere Marktgebiete in EMEA erschlossen. Die inhouse Produktion für Geräte und Disposables wird hochgefahren. Diese Maßnahmen haben in Summe noch nicht zu einem höheren Auftragseingang 2024 geführt (ca. 2,9 Mio. EUR). Allerdings hat sich der Anteil von Disposable-Verkäufen gesteigert. Für 2024 wurde ein Umsatz von ca. 1,6 Mio. EURbei einem Auftragsbestand zum Jahresende von ca. 1,3 Mio. EUR erzielt. Für 2025 wird ein Umsatzwachstum auf 6,7 Mio. EUR erwartet.
+
+Die Personal- und Sachkostensteigerungen in 2024 und 2025 werden moderat erwartet, so dass die Gesellschaft plant, Mitte 2026 erstmals auf Monatsebene einen positiven operativen Cash- Break-Even zu erreichen.
+
+Im Zuge der Restrukturierung haben unsere Gesellschafter zugesagt, in Höhe auftretender Verluste auf die Rückzahlung der bis 31. Dezember 2023 gewährten Wandeldarlehen ersatzlos und ohne Besserungsabreden zu verzichten. Die Jahresergebnisse 2024 und 2025 werden daher dann Null EUR betragen. Vor Darlehensverzicht wird der Jahresverlust 2024 bei ca. 8,5 Mio. EUR erwartet. Darin berücksichtigt sind bereits Erträge aus einem vorab ausgesprochenen Teilverzicht von 9,3 Mio. EUR der ehemaligen Wandeldarlehensinhaber. Für 2025 wird mit einem Jahresverlust vor Darlehensverzicht von 9,8 Mio. EUR gerechnet.
+
+StaRUG-Verfahren
+
+Der Finanzierungsbedarf bis zur dauerhaften Erreichung des Cash-Break-Even in 2026 ist ermittelt und soll durch die Gesellschafter bereitgestellt werden. Hierin bestand bis Februar 2024 im Gesellschafterkreis Einigkeit - dann kam es jedoch zu kurzfristigen und unerwarteten Verwerfungen, die letztlich zu einer kapitalseitigen Restrukturierung über ein StaRUG-Verfahren geführt haben.
+
+Einzelne Gesellschafter, die das Unternehmen teilweise seit 13 Jahren finanzierten, waren inzwischen nicht mehr bereit bzw. in der Lage, die Weiterentwicklung des Unternehmens mitzutragen. In der Folge beschlossen die Gesellschafter der Resuscitec im März 2024, die Gesellschaft im Rahmen eines StaRUG-Verfahrens (Unternehmensstabilisierungs- und -restrukturierungsgesetz) kapitalseitig neu auszurichten. Ein entsprechender Restrukturierungsplan wurde erarbeitet und Ende März 2024 beim Amtsgericht Karlsruhe, Registergericht, rechtshängig.
+
+Mit Beschluss des Amtsgerichts Karlsruhe, Restrukturierungsgericht, im September 2024 wurde der Restrukturierungsplan rechtskräftig. Im Zuge der Umsetzung erfolgte ein Kapitalschnitt auf Null EUR verbunden mit einer Kapitalerhöhung auf 2,0 Mio. EUR. Die der Gesellschaft in Vorjahren gewährten Wandeldarlehen inkl. der bis zum 10. September 2024 aufgelaufenen Zinsen in Höhe von € 31,6 Mio. gingen nach einem Teilverzicht in Höhe von € 9,3 Mio. in Höhe des Restbetrages von € 22,3 Mio. auf die neuen Investoren über, wurden zinslos gestellt und erfuhren zugleich eine Wandlung in klassische Gesellschafterdarlehen. Ferner haben die Darlehensgläubiger vertraglich zugesagt, dass in Höhe auftretender Verluste auf Rückzahlungen zu diesen Darlehen verzichtet wird.
+
+Weitere der Gesellschaft gewährte Darlehen wurden in ihrer Laufzeit sowohl hinsichtlich der Rückzahlung als auch des Zeitpunkts der Zinszahlungen ebenfalls restrukturiert.
+
+Im Zuge der Kapitalerhöhung haben die neuen Gesellschafter weitere 8,5 Mio. EUR in die Kapitalrücklage nach § 272 Abs. 2 Nr. 4 HGB eingezahlt. Diese Mittel waren der Gesellschaft bereits in drei Tranchen nach Eröffnung des StaRUG-Verfahens unterjährig zur Finanzierung des laufenden Geschäfts zur Verfügung gestellt worden.
+
+Ein neuer Wandeldarlehensvertrag über 3,5 Mio. EUR zur Finanzierung des ersten Halbjahres 2025 wurde im Januar 2025 unterzeichnet und bereits im ersten Quartal 2025 einbezahlt. Zudem wurden Anfang April 2025 ergänzende Wandeldarlehen über ebenfalls 3,5 Mio. EUR zugesagt und bis Anfang Mai 2025 einbezahlt Weitere Darlehen und Wandeldarlehen sind in Aussicht gestellt, so dass die Finanzierung der Gesellschaft bis Mitte 2026 gesichert ist.
+
+Die Eintragung der Restrukturierung der Gesellschaft mit Neufassung des Gesellschaftsvertrages und der Herabsetzung und anschließenden Erhöhung des Stammkapitals erfolgte am 21. November 2024 im Handelsregister Freiburg. Das neue Stammkapital ist zum Eintragungszeitpunkt voll einbezahlt.
+
+Im Zuge der kapitalseitigen Restrukturierung der Gesellschaft legte Dr. Thomas Kraft sein Geschäftsführungsmandat zum 1. April 2024 nieder. Die Geschäftsführung besteht seither aus Prof. Dr. Christoph Benk, CEO und CTO, und Jörg Ronde, CFO und COO.
+
+5. Ereignisse oder Gegebenheiten, auf Grund derer eine wesentliche Unsicherheit bezüglich der Fortführung der Unternehmenstätigkeit besteht
+
+Die Gesellschaft weist zum 31. Dezember 2023 einen nicht durch Eigenkapital gedeckten Fehlbetrag von 25,2 Mio. EUR aus und ist damit bilanziell überschuldet. Die Finanzierung der Entwicklungs-, Zulassung- und Markteinführungsphase des CARL-Systems erfolgt auf Jahresbasis durch die Gesellschafter. Nach der Unternehmensplanung wird die Gesellschaft ab voraussichtlich Mitte 2026 einen positiven, operativen Cashflow auf Monatsbasis erwirtschaften. Bis dahin ist die Gesellschaft weiterhin auf die Bereitstellung von Finanzierungsmittel durch die Gesellschafter angewiesen. Durch das in 2024 abgeschlossene Restrukturierungsverfahren nach StaRuG sind der Gesellschaft bis Mai 2025 bereits 17,5 Mio. EUR durch Eigenkapitalzuführung und Wandeldarlehen zugeflossen. Weitere Darlehen und Wandeldarlehen wurden seitens der Gesellschafter in Aussicht gestellt. Die erhaltenen und in Aussicht gestellten Mittel reichen nach der Unternehmensplanung bis zur Erreichung des Cash-Break-Evens aus. Sollte die Planung nicht im vorgesehenen Rahmen eintreten und der Cash-Break-Even Mitte 2026 nicht erreicht werden, wäre der Fortbestand der Gesellschaft von weiteren Unterstützungsmaßnahmen durch die Gesellschafter abhängig. Ohne diese weitere Unterstützung bestünde eine wesentliche Unsicherheit bezüglich der Fortführung der Unternehmenstätigkeit mit der Konsequenz, dass die Gesellschaft ihre Verbindlichkeiten im gewöhnlichem Geschäftsverlauf möglicherweise nicht begleichen kann.
+
+6. Chancen- und Risikobericht
+
+Wesentliche Finanzinstrumente sind die Forderungen und Verbindlichkeiten aus Lieferungen und Leistungen sowie vor allem die Wandeldarlehen. Zur Reduzierung von Ausfallrisiken verfügt die Gesellschaft über ein adäquates Debitorenmanagement. Aufgrund der Kundenstruktur schätzen wir das Ausfallrisiko der Forderungen als gering ein. Soweit Ausfall- und Bonitätsrisiken erkennbar sind, werden entsprechende Wertberichtigungen vorgenommen. Wesentliche Risiken bei den Verbindlichkeiten bestehen nicht. Die Wandeldarlehen wurden in 2024 im Anschluss an das durchgeführte StaRUG-Verfahren abgelöst; neue Vereinbarungen über weitere Wandeldarlehen wurden in 2025 geschlossen.
+
+Die Resuscitec bedient einen sich gerade erst entwickelnden Markt (ECPR) mit einer neuartigen Therapie und zukunftsweisenden Technologie. Die Markteinführung wurde in der EMEA-Region erfolgreich gestartet. Aufgrund des insgesamt schwierigen wirtschaftlichen Umfelds im globalen Gesundheitswesen erfordert die Markt-einführung einen gesteigerten Ressourceneinsatz und trägt ein gewisses zeitliches Risiko. Unvorhergesehene Verzögerungen können die wirtschaftliche Entwicklung der Resuscitec belasten und in der Folge zu einem höheren Kapitalbedarf führen.
+
+Die Gesellschaft überprüft den Geschäftsgang in monatlichen Zyklen auf neu auftretende Risiken. Neben einem Liquiditäts- und Ergebnis-Controlling und den damit einhergehenden Planüberprüfungen werden markt -, produkt- und produktionsseitige Risiken mit den Fachabteilungen in Regelsitzungen sondiert und bewertet. Notwendig erscheinende Plananpassungen werden vorgenommen sowie Maßnahmen zu Ursachenabstellung definiert.
+
+Regulatorische sowie beschaffungs- und produktionsseitige Risiken, die über das übliche Geschäftsrisiko hinausgehen, bestehen nicht.
+
+Trotz der zuvor skizzierten Risiken sehen wir die Fortführung des Unternehmens als überwiegend wahrscheinlich an.
+
+Freiburg im Breisgau, 9. Mai 2025
+
+Die Geschäftsführung
+
+Prof. Dr. Christoph Benk
+
+Jörg Ronde
+
+Bilanz zum 31. Dezember 2023
+
+Aktiva
+
+scroll
+
+	31.12.2023	31.12.2023	Vorjahr
+	EUR	EUR	EUR
+A. Anlagevermögen			
+I. Immaterielle Vermögensgegenstände			
+Entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten		779.420,16	983.442,63
+II. Sachanlagen			
+1. Technische Anlagen und Maschinen	1.250.127,06		946.337,94
+2. Andere Anlagen, Betriebs- und Geschäftsausstattung	999.894,52		1.003.219,59
+		2.250.021,58	1.949.557,53
+III. Finanzanlagen			
+1. Anteile an verbundenen Unternehmen	25.850,85		25.850,85
+2. Ausleihungen an verbundene Unternehmen	0,00		333.183,59
+		25.850,85	359.034,44
+		3.055.292,59	3.292.034,60
+B. Umlaufvermögen			
+I. Vorräte			
+1. Roh-, Hilfs- und Betriebsstoffe	1.911.357,53		2.016.446,28
+2. Unfertige Erzeugnisse, unfertige Leistungen	1.573.365,36		1.399.228,28
+3. Fertige Erzeugnisse und Waren	1.540.360,71		2.263.534,70
+4. Geleistete Anzahlungen	151.071,60		0,00
+		5.176.155,20	5.679.209,26
+II. Forderungen und sonstige Vermögensgegenstände			
+1. Forderungen aus Lieferungen und Leistungen	719.750,78		279.564,33
+2. Forderungen gegen verbundene Unternehmen	13.425,51		174.979,15
+3. Sonstige Vermögensgegenstände	551.300,71		667.981,86
+		1.284.477,00	1.122.525,34
+III. Kassenbestand, Guthaben bei Kreditinstituten		720.146,77	1.748.197,99
+		7.180.778,97	8.549.932,59
+C. Rechnungsabgrenzungsposten		3.248.441,63	2.241.098,03
+D. Nicht durch Eigenkapital gedeckter Fehlbetrag		25.172.299,66	4.565.463,72
+		38.656.812,85	18.648.528,94
+
+Passiva
+
+scroll
+
+	31.12.2023	31.12.2023	Vorjahr
+	EUR	EUR	EUR
+A. Eigenkapital			
+I. Gezeichnetes Kapital	438.385,00		438.385,00
+II. Kapitalrücklage	40.412.997,16		37.894.723,24
+III. Verlustvortrag	-42.898.571,96		-30.965.194,85
+IV. Jahresfehlbetrag	-23.125.109,86		-11.933.377,11
+V. Nicht durch Eigenkapital gedeckter Fehlbetrag	25.172.299,66		4.565.463,72
+		0,00	0,00
+B. Rückstellungen			
+Sonstige Rückstellungen		1.472.125,93	927.663,48
+C. Verbindlichkeiten			
+1. Verbindlichkeiten gegenüber Kreditinstuten	61.592,90		0,00
+2. Verbindlichkeiten aus Lieferungen und Leistungen	2.373.303,65		970.512,35
+3. Verbindlichkeiten gegenüber Gesellschaftern	34.258.209,97		16.609.008,17
+davon konvertible Anleihe: EUR 28.862.979,90 (Vj.: EUR 11.503.308,17)			
+4. Sonstige Verbindlichkeiten	491.580,40		141.344,94
+davon aus Steuern: EUR 93.240,58 (Vj.: EUR 108.131,48)			
+davon im Rahmen der sozialen Sicherheit: EUR 72.630,67 (Vj.: EUR 12.388,99)			
+		37.184.686,92	17.720.865,46
+		38.656.812,85	18.648.528,94
+
+Gewinn- und Verlustrechnung für das Geschäftsjahr vom 1. Januar bis zum 31. Dezember 2023
+
+scroll
+
+	2023	2023	Vorjahr
+	EUR	EUR	EUR EUR
+1. Umsatzerlöse		3.125.926,70	6.150.958,47
+2. Verminderung (Vorjahr: Erhöhung) des Bestands an fertigen und unfertigen Erzeugnissen		-508.280,66	690.455,54
+3. Andere aktivierte Eigenleistungen		272.401,80	122.694,55
+4. Sonstige betriebliche Erträge		351.976,04	124.397,93
+5. Materialaufwand			
+a) Aufwendungen für Roh-, Hilfs- und Betriebsstoffe und für bezogene Waren	-565.779,07		-613.600,26
+b) Aufwendungen für bezogene Leistungen	-2.126.710,27		-2.006.159,07
+		-2.692.489,34	-2.619.759,33
+6. Personalaufwand			
+a) Löhne und Gehälter	-6.214.496,70		-5.114.361,81
+b) Soziale Abgaben und Aufwendungen für Altersversorgung und für Unterstützung			
+davon für Altersversorgung: EUR 9.462,22 (Vorjahr: EUR 2.468,24)	-1.105.951,69		-1.020.771,09
+		-7.320.448,39	-6.135.132,90
+7. Abschreibungen auf immaterielle Vermögensgegenstände des Anlagevermögens und Sachanlagen		-731.519,69	-603.925,00
+8. Sonstige betriebliche Aufwendungen		-10.327.521,18	-7.385.684,92
+9. Zinsen und ähnliche Erträge		35.199,48	17.575,44
+davon aus verbundenen Unternehmen: EUR 0,00 (Vorjahr: EUR 13.713,49)			
+10. Abschreibungen auf Finanzanlagen und Wertpapiere des Umlaufvermögens		-333.183,59	0,00
+davon außerplanmäßige Abschreibungen: EUR 333.159,59 (Vorjahr: EUR 0,00)			
+11. Zinsen und ähnliche Aufwendungen		-4.985.179,71	-2.293.614,95
+12. Steuren vom Einkommen und vom Ertrag		-10.752,32	0,00
+13. Ergebnis nach Steuern		-23.123.870,86	-11.932.035,17
+14. Sonstige Steuern		-1.239,00	-1.341,94
+15. Jahresfehlbetrag		-23.125.109,86	-11.933.377,11
+
+Anhang für das Geschäftsjahr 2023
+
+Resuscitec GmbH
+
+Freiburg im Breisgau
+
+I. Angaben zur Identifikation der Gesellschaft
+
+Die Resuscitec GmbH hat ihren Sitz in Freiburg im Breisgau. Sie ist im Registergericht Freiburg unter HRB 707215 eingetragen.
+
+II. Allgemeine Angaben zu Inhalt und Gliederung des Jahresabschlusses
+
+Der Jahresabschluss wurde auf Grundlage der Rechnungslegungsvorschriften des Handelsgesetzbuchs und den ergänzenden Vorschriften des GmbH-Gesetzes aufgestellt.
+
+Die Gesellschaft ist eine mittelgroße Kapitalgesellschaft im Sinne von § 267 Abs. 2 HGB. Größenabhängige Erleichterungen bei der Erstellung des Jahresabschlusses wurden teilweise in Anspruch genommen.
+
+III. Bilanzierungs- und Bewertungsmethoden
+
+Die Bilanzierungs- und Bewertungsmethoden wurden unverändert zum Vorjahr angewandt.
+
+Anlagevermögen
+
+Selbst geschaffene immaterielle Vermögensgegenstände werden im Anlagevermögen der Bilanz nicht ausgewiesen.
+
+Die Bilanzierung der entgeltlich erworbenen, immateriellen Vermögensgegenstände und Sachanlagen erfolgt zu Anschaffungs- bzw. Herstellungskosten, unter Berücksichtigung nutzungsbedingter planmäßiger Abschreibungen. Dabei umfassen die Herstellungskosten neben den direkt zurechenbaren Kosten auch anteilige Material- und Fertigungsgemeinkosten sowie angemessene Teile der allgemeinen Verwaltungskosten. Grundlage der planmäßigen Abschreibungen ist die voraussichtliche Nutzungsdauer des jeweiligen Vermögensgegenstandes. Die Anlagegüter werden linear abgeschrieben.
+
+Die wirtschaftlichen Nutzungsdauern werden wie folgt angesetzt:
+
+scroll
+
+• Immaterielle Vermögensgegenstände	3 bis 17 Jahre
+• Technische Anlagen und Maschinen	3 bis 15 Jahre
+• Andere Anlagen, Betriebs- und Geschäftsausstattung	3 bis 15 Jahre
+
+Die Finanzanlagen werden zu Anschaffungskosten bzw. zu den niedrigeren beizulegenden Werten am Bilanzstichtag angesetzt. Entsprechend dem Wahlrecht nach § 253 Abs. 3 Satz 6 HGB werden Abwertungen auch bei einer voraussichtlich nicht dauernden Wertminderung vorgenommen.
+
+Umlaufvermögen
+
+Bei den Vorräten wurden Roh-, Hilfs- und Betriebsstoffe und die Waren mit den Anschaffungskosten angesetzt, soweit nicht die niedrigeren Wiederbeschaffungskosten anzusetzen waren oder ein niedrigerer Wert beizulegen war. Die unfertigen und fertigen Erzeugnisse wurden mit ihren Herstellungskosten angesetzt, die neben den Material- und Fertigungseinzelkosten angemessene Gemeinkostenzuschläge für Material und Fertigung sowie den Wertverzehr des Anlagevermögens umfassen, soweit nicht der niedrigere Marktpreis oder der niedrigere beizulegende Wert anzusetzen war.
+
+Forderungen und sonstige Vermögensgegenstände sind zum Nennwert angesetzt.
+
+Die Kassen- und Bankbestände sind zu Nominalwerten bilanziert.
+
+Aktive Rechnungsabgrenzung
+
+Geleistete Zahlungen, die Aufwand des Folgejahres darstellen, wurden in den Rechnungsabgrenzungsposten eingestellt.
+
+Unter der aktiven Rechnungsabgrenzung wird daneben ein Agio auf Wandeldarlehen von T€ 3.190 (Vorjahr T€ 2.025) ausgewiesen.
+
+Eigenkapital
+
+Das Eigenkapital wurde zum Nennwert angesetzt. Die Darstellung erfolgt nach § 272 HGB.
+
+Im Jahr 2013 hatte der Verlust der Gesellschaft die Hälfte des Stammkapitals erreicht. Die Verlustanzeige wurde vom Geschäftsführer in der Gesellschafterversammlung vom 18.12.2013 gemacht.
+
+Rückstellungen
+
+Die Rückstellungen werden nach vernünftiger kaufmännischer Beurteilung bemessen. Sie berücksichtigen alle erkennbaren Risiken und ungewissen Verbindlichkeiten und sind mit dem Erfüllungsbetrag bewertet. Rückstellungen mit einer Restlaufzeit von mehr als einem Jahr werden mit dem ihrer Restlaufzeit entsprechenden durchschnittlichen Marktzins der vergangenen sieben Geschäftsjahre gemäß § 253 Abs. 2 S. 1 HGB abgezinst. wird
+
+Verbindlichkeiten
+
+Verbindlichkeiten wurden mit dem Erfüllungsbetrag bilanziert.
+
+IV.ANGABEN UND ERLÄUTERUNGEN ZU DEN POSTEN DER BILANZ UND DER GEWINN- UND VERLUSTRECHNUNG
+
+Anlagevermögen
+
+Die Entwicklung des Anlagevermögens ist in der Anlage zum Anhang dargestellt.
+
+Zum Bilanzstichtag besteht eine unter „Ausleihungen an verbundene Unternehmen“ ausgewiesene Darlehensforderung gegenüber der 100 %-igen Tochtergesellschaft RST Systems GmbHSitz in Höhe von ursprünglich € 633.183,59. Die Resuscitec GmbH hat zu der Darlehensforderung einen Rangrücktritt erklärt. Da die RST Systems GmbH seit ihrer Gründung nur Verluste erwirtschaftet hat, wurde die Darlehensforderung im Jahr 2020 um € 300.000,00 abgewertet und zum 31.12.2024 um € 333.183,59 auf einen Restbuchert von € 0,00 abgeschrieben.
+
+Forderungen und sonstige Vermögensgegenstände
+
+Von den sonstigen Vermögensgegenständen haben T€ 140 (Vorjahr: T€ 140) eine Restlaufzeit von über einem Jahr. Alle übrigen Forderungen und sonstigen Vermögensgegenstände haben wie im Vorjahr eine Restlaufzeit von bis zu einem Jahr.
+
+Zum Bilanzstichtag besteht eine Forderung aus Lieferungen und Leistungen gegen die 100 %-ige Tochtergesellschaft Resuscitec Corp., USA, von € 13.425,51 (Vorjahr € 4.452,95). Im Vorjahr bestanden daneben Forderungen aus Lieferungen und Leistungen gegenüber der RST Systems GmbH in Höhe von € 170.526,20), die im Geschäftsjahr wertberichtigt wurden.
+
+Eigenkapital
+
+Im Geschäftsjahr erfolgten Umbuchungen vom Agio auf das Wandeldarlehen in die Kapitalrücklage (§ 272 Abs. 2 Nr. 4 HGB) i.H.v. T€ 2.518.
+
+Daneben wurde ein Agio von T€ 1.165 (Vorjahr: T€ 1.061) aus der Ausgabe von Schuldverschreibungen für Wandlungsrechte zum Erwerb von Geschäftsanteilen in die Kapitalrücklagen eingestellt.
+
+Zum Stichtag besteht ein nicht durch Eigenkapital gedeckter Fehlbetrag. Diesem stehen nach der Planung der Geschäftsführung aber positive Jahresergebnisse in den kommenden 3-5 Jahren sowie eine ausreichende Liquidität unter der Maßgabe einer weiteren Finanzmittelzuführung durch die Gesellschafter wie in den Vorjahren gegenüber. Die Wandelschuldverschreibung wurde in 2023 um T€ 14.653 erhöht, eine weitere Erhöhung auf dieses Darlehen um T€ 347 ist im Januar 2024 erfolgt. Weiterhin erfolgten im Januar 2024 Zahlungen nach Vereinbarung eines Nachrangdarlehens i.H.v. T€ 2.643.
+
+Die Gesellschaft plante für 2024 eine Neuausrichtung der Finanzierungsstruktur und damit verbunden eine veränderte Gesellschafterstruktur. Um dies zu gewährleisten, haben die bisherigen Gesellschafter am 22. März 2024 die Teilnahme an einem Verfahren nach dem Unternehmensstabilisierungs- und -restrukturierungsgesetz (StaRUG) beschlossen. Wir verweisen hierzu auf unsere Darstellung unter „Nachtragsbericht“ in diesem Anhang.
+
+Rückstellungen
+
+Die sonstigen Rückstellungen setzen sich wie folgt zusammen:
+
+scroll
+
+Kosten Jahresabschluss und Steuererklärungen	EUR 31.350,00
+Erfüllungsbetrag für Rückbauverpflichtung zum Stichtag	157.609,50
+Ausstehende Rechnungen 2023	900.773,27
+Gewährleistung ggü. Kunden	45.450,00
+Urlaub 2023	133.763,58
+Zeitguthaben aus Überstunden 2023	19.178,98
+Boni Mitarbeiter 2023	138.650,00
+Berufsgenossenschaftsbeiträge 2023	32.250,00
+Schwerbehindertenabgabe 2023	13.100,00
+	EUR 1.472.125,33
+
+Verbindlichkeiten
+
+Die Laufzeiten der Verbindlichkeiten - gegliedert nach Restlaufzeiten - sind:
+
+scroll
+
+Verbindlichkeiten	bis zu 1 Jahr	von 1 bis zu 5 Jahren	Gesamtbetrag
+	EUR	EUR	EUR
+gegenüber Kreditinstituten	61.592,90	0,00	61.592,90
+	(VJ T€ 0)	(VJ.: 0)	(VJ T€ 0)
+aus Lieferungen und Leistungen	2.373.303,65	0,00	2.373.303,65
+	(VJ T€ 971)	(VJ.: 0)	(VJ T€ 971)
+Gegenüber Gesellschafter	0,00	34.258.209,97	34.258.209,97
+Gegenüber Gesellschafter	(VJ 0)	(VJ T€ 16.609)	(VJ T€ 16.609)
+Sonstige	491.580,40	0,00	491.580,40
+	(VJ T€ 137)	(VJ T€ 4)	(VJ T€ 141)
+Gesamt	2.926.476,95	34.258.210,57	37.184.686,92
+Gesamt	(VJ T€ 1.108)	(VJ T€ 16.613)	(VJ T€ 17.721)
+
+Die Verbindlichkeiten gegenüber Gesellschaftern beinhalten u.a. eine Verbindlichkeit aus einem Darlehen zur Unterstützung der weiteren Geschäftstätigkeit i.H.v. 5.106 T€ zzgl. Zinsen sowie mit 55 T€ eine weitere Darlehensverbindlichkeit. Auf letztere wurde ein Rangrücktritt erklärt.
+
+Daneben betreffen die Verbindlichkeiten gegenüber Gesellschaftern die im folgenden erläuterten Wandelschuldverschreibung i.H.v. T€ 24.653 zzgl. aufgelaufener Zinsen von T€ 4.210. Es gibt wie im Vorjahr keine Verbindlichkeiten mit Restlaufzeiten von über fünf Jahren.
+
+Eine Besicherung der Verbindlichkeiten ist nicht erfolgt.
+
+Durch Beschluss des Beirats vom 27.09. 2021 wurde eine Wandelschuldverschreibung von insgesamt T€ 10.000 ausgegeben, wovon in 2021 T€ 6.064 und in 2022 T€ 3.936 eingezahlt wurden. Das Darlehen wird mit einem Jahreszinssatz von 14% p.a. verzinst. Die Wandelschuldverschreibung verbrieft jedem Darlehensgeber das Recht, den eingezahlten Nominalbetrag samt aufgelaufener Zinsen insgesamt innerhalb der Festlaufzeit des Darlehensvertrags bis 2025 in neue Geschäftsanteile zu wandeln.Zur Schließung der Finanzierungslücke des Geschäftsjahres 2023 wurden im Dezember 2022 und im September 2023 weitere Verträge über Wandeldarlehen i.H.v. T€ 12.253 bzw. T€ 2.747 geschlossen. Davon wurden T€ 14.653 im Jahr 2023 eingezahlt, die übrigen T€ 347 im Januar 2024.
+
+Sämtliche zum 31. Dezember 2023 bestehenden Wandeldarlehen inklusive der bis dahin aufgelaufenen Zinsen (T€ 28.863) gingen nach einem Teilverzicht in Höhe von 9,3 Mio. EUR auf die neuen Investoren über und erfuhren zugleich eine Wandlung in klassische Gesellschafterdarlehen.
+
+Umsatzerlöse
+
+Die Umsatzerlöse des Jahres 2023 gliedern sich wie folgt:
+
+scroll
+
+Inland	CARL-Hardware	€ 1.017.843
+	CARL-Disposables	€ 696.401
+	Sonstiges	€ 25.777
+Europa	CARL-Hardware	€ 876.976
+	CARL-Disposables	€ 289.392
+	Sonstiges	€ 110.671
+Übrige Welt	CARL-Hardware	€ 78.866
+	Sonstiges	€ 30.000
+Gesamt		€ 3.125.927
+
+Die sonstigen Umsatzerlöse enthalten Umsätze aus der Vermietung von CARL-Hardware i.H.v. T€ 107 sowie Entwicklungsleistungen von T€ 30.
+
+Sonstige betriebliche Aufwendungen und Erträge
+
+Die sonstigen betrieblichen Erträge enthalten periodenfremde Erträge aus der Auflösung von Rückstellungen i.H.v. € 179.453 (VJ T€ 10) und Erträge aus der Währungsumrechnung i.H.v. € 1.565 (VJ T€ 6).
+
+Die sonstigen betrieblichen Aufwendungen enthalten Aufwendungen aus der Währungsumrechnung von € 2.690(VJ T€ 7). Wie im Vorjahr sind keine Aufwendungen von außergewöhnlicher Bedeutung oder außergewöhnlicher Größenordnung und auch keine periodenfremden Aufwendungen angefallen.
+
+Aufwendungen für bezogene Leistungen
+
+Die Aufwendungen für bezogene Leistungen i.H.v. € 2.126.710,27 betreffen vor allem von Dritten durchgeführte Dienstleistungen, die für die derzeitige Fertigung von Geräten für eine verbesserte Therapie zur Reanimation von Patienten mit Herz-Kreislaufstillstand erforderlich sind. Sie stellen damit Leistungen von Dritten für ausgelagerte Fertigungsschritte dar.
+
+V. ERGÄNZENDE ANGABEN
+
+Haftungsverhältnisse
+
+Es bestehen keine Haftungsverhältnisse.
+
+Sonstige finanzielle Verpflichtungen
+
+Die sonstigen finanziellen Verpflichtungen - gegliedert nach Restlaufzeiten - sind:
+
+scroll
+
+	bis zu 1 Jahr	von 1 bis 5 Jahren	gesamt
+	€	€	€
+Mieten	358.541	710.339	1.068.880
+Leasing	2.503.166	5.632.589	8.135.755
+	2.861.707	6.342.928	9.204.635
+
+Personal
+
+Die Gesellschaft beschäftigte im Geschäftsjahr 2023 durchschnittlich 85 Mitarbeiter, hiervon 79 als Angestellte und 6 als leitende Angestellte.
+
+Angaben über den Anteilsbesitz
+
+Die Resuscitec GmbH ist mit 100% der Anteile an der im Jahr 2017 gegründeten RST Systems GmbH, Freiburg im Breisgau, beteiligt. Das Stammkapital der RST Systems GmbH beträgt € 25.000,00. Das Stammkapital ist zum Bilanzstichtag vollständig eingefordert und einbezahlt. Der nicht durch Eigenkapital gedeckte Fehlbetrag der RST Systems GmbH beläuft sich zum 31. Dezember 2023 auf T€ 477. Der Jahresfehlbetrag beträgt T€ 114. Daneben hält die Gesellschaft 100% der Anteile an der Resuscitec Corp., Chicago/USA. Deren Eigenkapital beläuft sich auf TUSD-14, der Jahresfehlbetrag beträgt TUSD 9.
+
+Organe der Gesellschaft
+
+Während des abgelaufenen Geschäftsjahres wurden die Geschäfte der Gesellschaft geführt durch
+
+Dr. Thomas Kraft, Überlingen, CEO (bis zum 1. April 2024)
+
+Prof. Dr. Christoph Benk, Freiburg im Breisgau, CEO und CTO
+
+Jörg Ronde, Stuttgart, CFO und COO.Auf die Angabe der Organbezüge wird unter Bezugnahme auf § 286 Abs. 4 HGB verzichtet.
+
+Die Gesellschaft hat einen Beirat mit 6 Mitgliedern. Die Bezüge des Beirats belaufen sich auf TEUR 20.
+
+Honorar Abschlussprüfer
+
+Das im Geschäftsjahr erfasste Honorar für die Abschlussprüfung beläuft sich auf T€ 22.
+
+Konzernabschluss
+
+Die Gesellschaft ist nach § 293 HGB von der Pflicht, einen Konzernabschluss zu erstellen, befreit.
+
+VII. Nachtragsbericht
+
+Im Februar 2024 erklärten die Gesellschafter D11Z Ventures GmbH und KLS Martin SE aufgrund eigener, geschäftsstrategischer Überlegungen an der weiteren Finanzierung der Gesellschaft nicht mehr teilnehmen zu wollen. In der Folge beschlossen die Gesellschafter am 22. März 2024 einstimmig eine kapitalseitige Restrukturierung der Gesellschaft im rechtlichen Rahmen eines StaRUG-Verfahrens. Der diesbezügliche Restrukturierungsplan wurde vom Amtsgericht Karlsruhe am 27. März 2024 angenommen, in der Folge mit den Gesellschaftern und Finanzierern konkretisiert sowie am 10. September 2024 durch das Amtsgericht Karlsruhe bestätigt. Es kam zu einem Kapitalschnitt auf € Null verbunden mit einer anschließenden Kapitalerhöhung auf ein Stammkapital von € 2,0 Mio. durch den neuen Investorenkreis. Daneben erfolgt eine Einlage in die Kapitalrücklagen (§ 272 Abs. 2 Nr. 4 HGB) von € 8,5 Mio. Die der Gesellschaft in Vorjahren gewährten Wandeldarlehen inkl. der bis zum 10. September 2024 aufgelaufenen Zinsen in Höhe von € 31,6 Mio. gingen nach einem Teilverzicht in Höhe von € 9,3 Mio. in Höhe des Restbetrages von € 22,3 Mio. auf die neuen Investoren über und werden zinslos gestellt. Die Eintragung der Restrukturierung der Gesellschaft mit Neufassung des Gesellschaftsvertrages und der Herabsetzung und anschließenden Erhöhung des Stammkapitals erfolgte am 21. November 2024 im Handelsregister Freiburg. Das neue Stammkapital war zum Eintragungszeitpunkt voll einbezahlt. Ein neuer Wandeldarlehensvertrag über 3,5 Mio. EUR zur Finanzierung des ersten Halbjahres 2025 wurde im Januar 2025 unterzeichnet und bereits im ersten Quartal 2025 einbezahlt. Weitere Wandeldarlehensverträge wurden Anfang April 2025 ebenfalls über 3,5 Mio. EUR zugesagt. Davon wurden bereits 1,5 Mio. EUR im April 2025 einbezahlt, weitere 2,0 Mio. EUR sollen im Mai 2025 einbezahlt werden. Jeder Darlehensgeber hat dabei das Recht, innerhalb der Festlaufzeit des Vertrags unmittelbar vor einem vorzeitigen Exit oder zum Endfälligkeitsdatum in Geschäftsanteile der Gesellschaft zu wandeln. Die Anzahl der neuen Geschäftsanteile, die ein Darlehensgeber bei der Wandlung zu übernehmen berechtigt ist, ermittelt sich auf Basis einer vertraglich festgelegten pre-money-Bewertung.
+
+Weitere Wandeldarlehen über weitere 3,5 Mio. EUR sind in Aussicht gestellt, so dass die Finanzierung der Gesellschaft bis Mitte 2026 gesichert ist.
+
+Im Zuge der kapitalseitigen Restrukturierung der Gesellschaft legt Dr. Thomas Kraft sein Geschäftsführungsmandat zum 1. April 2024 nieder. Die Geschäftsführung besteht seither aus Prof. Dr. Christoph Benk und Jörg Ronde.
+
+Freiburg im Breisgau, 9. Mai 2025
+
+Die Geschäftsführung
+
+Prof. Dr. Christoph Benk
+
+Jörg Ronde
+
+Entwicklung des Anlagevermögens im Geschäftsjahr 2023
+
+scroll
+
+	Anschaffungs- / Herstellungskosten	Anschaffungs- / Herstellungskosten	Anschaffungs- / Herstellungskosten	Anschaffungs- / Herstellungskosten
+		Zugänge	Abgänge	
+	01.01.2023 EUR	EUR	EUR	31.12.2023 EUR
+I. Immaterielle Vermögensgegenstände				
+Entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten	1.326.643,82	64.326,45	0,00	1.390.970,27
+	1.326.643,82	64.326,45	0,00	1.390.970,27
+II. Sachanlagen				
+1. Technische Anlagen und Maschinen	1.323.589,94	515.806,28	35.868,00	1.803.528,22
+2. Andere Anlagen, Betriebs- und Geschäftsausstattung	1.616.539,25	265.914,72	3.851,42	1.878.602,55
+	2.940.129,19	781.721,00	39.719,42	3.682.130,77
+III. Finanzanlagen				
+1. Anteile an verbundenen Unternehmen	25.850,85	0,00	0,00	25.850,85
+2. Auslehungen an verbunden Unternehmen	633.183,59	0,00	0,00	633.183,59
+	659.034,44	0,00	0,00	659.034,44
+	4.925.807,45	846.047,45	39.719,42	5.732.135,48
+
+scroll
+
+	Kumulierte Abschreibungen	Kumulierte Abschreibungen	Kumulierte Abschreibungen	Kumulierte Abschreibungen
+		Zugänge	Abgänge	
+	01.01.2023 EUR	EUR	EUR	31.12.2023 EUR
+I. Immaterielle Vermögensgegenstände				
+Entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten	343.201,19	268.348,92	0,00	611.550,11
+	343.201,19	268.348,92	0,00	611.550,11
+II. Sachanlagen				
+1. Technische Anlagen und Maschinen	377.252,00	196.910,32	20.761,16	553.401,16
+2. Andere Anlagen, Betriebs- und Geschäftsausstattung	613.319,66	266.260,45	872,08	878.708,03
+	990.571,66	463.170,77	21.633,24	1.432.109,19
+III. Finanzanlagen				
+1. Anteile an verbundenen Unternehmen	0,00	0,00	0,00	0,00
+2. Auslehungen an verbunden Unternehmen	300.000,00	333.183,59	0,00	633.183,59
+	300.000,00	333.183,59	0,00	633.183,59
+	1.633.772,85	1.064.703,28	21.633,24	2.676.842,89
+
+scroll
+
+	Nettobuchwerte	Nettobuchwerte
+	31.12.2023	Vorjahr
+	EUR	EUR
+I. Immaterielle Vermögensgegenstände		
+Entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten	779.420,16	983.442,63
+	779.420,16	983.442,63
+II. Sachanlagen		
+1. Technische Anlagen und Maschinen	1.250.127,06	946.337,94
+2. Andere Anlagen, Betriebs- und Geschäftsausstattung	999.894,52	1.003.219,59
+	2.250.021,58	1.949.557,53
+III. Finanzanlagen		
+1. Anteile an verbundenen Unternehmen	25.850,85	25.850,85
+2. Auslehungen an verbunden Unternehmen	0,00	333.183,59
+	25.850,85	359.034,44
+	3.055.292,59	3.292.034,60
+
+BESTÄTIGUNGSVERMERK DES UNABHÄNGIGEN ABSCHLUSSPRÜFERS
+
+An die Resuscitec GmbH, Freiburg im Breisgau
+
+Prüfungsurteile
+
+Wir haben den Jahresabschluss der Resuscitec GmbH, Freiburg im Breisgau, - bestehend aus der Bilanz zum 31. Dezember 2023 und der Gewinn- und Verlustrechnung für das Geschäftsjahr vom 1. Januar bis zum 31. Dezember 2023 sowie dem Anhang, einschließlich der Darstellung der Bilanzierungs- und Bewertungsmethoden - geprüft. Darüber hinaus haben wir den Lagebericht der Resuscitec GmbH, Freiburg im Breisgau, für das Geschäftsjahr vom 1. Januar bis zum 31. Dezember 2023 geprüft.
+
+Nach unserer Beurteilung aufgrund der bei der Prüfung gewonnenen Erkenntnisse
+
+•
+
+entspricht der beigefügte Jahresabschluss in allen wesentlichen Belangen den deutschen, für Kapitalgesellschaften geltenden handelsrechtlichen Vorschriften und vermittelt unter Beachtung der deutschen Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens- und Finanzlage der Gesellschaft zum 31. Dezember 2023 sowie ihrer Ertragslage für das Geschäftsjahr vom 1. Januar bis zum 31. Dezember 2023 und
+
+•
+
+vermittelt der beigefügte Lagebericht insgesamt ein zutreffendes Bild von der Lage der Gesellschaft. In allen wesentlichen Belangen steht dieser Lagebericht in Einklang mit dem Jahresabschluss, entspricht den deutschen gesetzlichen Vorschriften und stellt die Chancen und Risiken der zukünftigen Entwicklung zutreffend dar.
+
+Gemäß § 322 Abs. 3 Satz 1 HGB erklären wir, dass unsere Prüfung zu keinen Einwendungen gegen die Ordnungsmäßigkeit des Jahresabschlusses und des Lageberichts geführt hat.
+
+Grundlage für die Prüfungsurteile
+
+Wir haben unsere Prüfung des Jahresabschlusses und des Lageberichts in Übereinstimmung mit § 317 HGB unter Beachtung der vom Institut der Wirtschaftsprüfer (IDW) festgestellten deutschen Grundsätze ordnungsmäßiger Abschlussprüfung durchgeführt. Unsere Verantwortung nach diesen Vorschriften und Grundsätzen ist im Abschnitt „Verantwortung des Abschlussprüfers für die Prüfung des Jahresabschlusses und des Lageberichts“ unseres Bestätigungsvermerks weitergehend beschrieben. Wir sind von dem Unternehmen unabhängig in Übereinstimmung mit den deutschen handelsrechtlichen und berufsrechtlichen Vorschriften und haben unsere sonstigen deutschen Berufspflichten in Übereinstimmung mit diesen Anforderungen erfüllt. Wir sind der Auffassung, dass die von uns erlangten Prüfungsnachweise ausreichend und geeignet sind, um als Grundlage für unsere Prüfungsurteile zum Jahresabschluss und zum Lagebericht zu dienen.
+
+Wesentliche Unsicherheit im Zusammenhang mit der Fortführung der Unternehmenstätigkeit
+
+Wir verweisen auf Angabe „VII. Nachtragsbericht“ im Anhang sowie die Angaben in Abschnitt 5 des Lageberichts, in denen die gesetzlichen Vertreter beschreiben, dass die Gesellschaft im Jahr 2024 ein Restrukturierungsverfahren nach dem Unternehmensstabilisierungs- und -restrukturierungsgesetz (StaRUG) durchlaufen hat, das eine bilanzielle Entschuldung der Gesellschaft ermöglichte. Der Gesellschaft wurde zudem Liquidität in Form von Wandeldarlehen zur Verfügung gestellt. Nach Ausführungen der gesetzlichen Vertreter ist die Gesellschaft derzeit nicht in der Lage, die zur Aufrechterhaltung des Geschäftsbetriebs erforderlichen Zahlungsmittel aus eigener Kraft zu erwirtschaften und folglich bis zur Erreichung eines positiven, operativen Cash Flows auf die Unterstützung der Gesellschafter angewiesen. Wie in Angabe „VII. Nachtragsbericht“ und Abschnitt 5 dargelegt, zeigen diese Ereignisse und Gegebenheiten, dass eine wesentliche Unsicherheit besteht, die bedeutsame Zweifel an der Fähigkeit der Gesellschaft zur Fortführung der Unternehmenstätigkeit aufwerfen kann und die ein bestandsgefährdendes Risiko im Sinne des § 322 Abs. 2 Satz 3 HGB darstellt. Unsere Prüfungsurteile zum Jahresabschluss und zum Lagebericht sind bezüglich dieses Sachverhalts nicht modifiziert.
+
+Verantwortung der gesetzlichen Vertreter und des Beirats für den Jahresabschluss und den Lagebericht
+
+Die gesetzlichen Vertreter sind verantwortlich für die Aufstellung des Jahresabschlusses, der den deutschen, für Kapitalgesellschaften geltenden handelsrechtlichen Vorschriften in allen wesentlichen Belangen entspricht, und dafür, dass der Jahresabschluss unter Beachtung der deutschen Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage der Gesellschaft vermittelt. Ferner sind die gesetzlichen Vertreter verantwortlich für die internen Kontrollen, die sie in Übereinstimmung mit den deutschen Grundsätzen ordnungsmäßiger Buchführung als notwendig bestimmt haben, um die Aufstellung eines Jahresabschlusses zu ermöglichen, der frei von wesentlichen falschen Darstellungen aufgrund von dolosen Handlungen (d.h. Manipulationen der Rechnungslegung und Vermögensschädigungen) oder Irrtümern ist.
+
+Bei der Aufstellung des Jahresabschlusses sind die gesetzlichen Vertreter dafür verantwortlich, die Fähigkeit der Gesellschaft zur Fortführung der Unternehmenstätigkeit zu beurteilen. Des Weiteren haben sie die Verantwortung, Sachverhalte im Zusammenhang mit der Fortführung der Unternehmenstätigkeit, sofern einschlägig, anzugeben. Darüber hinaus sind sie dafür verantwortlich, auf der Grundlage des Rechnungslegungsgrundsatzes der Fortführung der Unternehmenstätigkeit zu bilanzieren, sofern dem nicht tatsächliche oder rechtliche Gegebenheiten entgegenstehen.
+
+Außerdem sind die gesetzlichen Vertreter verantwortlich für die Aufstellung des Lageberichts, der insgesamt ein zutreffendes Bild von der Lage der Gesellschaft vermittelt sowie in allen wesentlichen Belangen mit dem Jahresabschluss in Einklang steht, den deutschen gesetzlichen Vorschriften entspricht und die Chancen und Risiken der zukünftigen Entwicklung zutreffend darstellt. Ferner sind die gesetzlichen Vertreter verantwortlich für die Vorkehrungen und Maßnahmen (Systeme), die sie als notwendig erachtet haben, um die Aufstellung eines Lageberichts in Übereinstimmung mit den anzuwendenden deutschen gesetzlichen Vorschriften zu ermöglichen und um ausreichende geeignete Nachweise für die Aussagen im Lagebericht erbringen zu können.
+
+Der Beirat ist verantwortlich für die Überwachung des Rechnungslegungsprozesses der Gesellschaft zur Aufstellung des Jahresabschlusses und des Lageberichts.
+
+Verantwortung des Abschlussprüfers für die Prüfung des Jahresabschlusses und des Lageberichts
+
+Unsere Zielsetzung ist, hinreichende Sicherheit darüber zu erlangen, ob der Jahresabschluss als Ganzes frei von wesentlichen falschen Darstellungen aufgrund von dolosen Handlungen oder Irrtümern ist, und ob der Lagebericht insgesamt ein zutreffendes Bild von der Lage der Gesellschaft vermittelt sowie in allen wesentlichen Belangen mit dem Jahresabschluss sowie mit den bei der Prüfung gewonnenen Erkenntnissen in Einklang steht, den deutschen gesetzlichen Vorschriften entspricht und die Chancen und Risiken der zukünftigen Entwicklung zutreffend darstellt, sowie einen Bestätigungsvermerk zu erteilen, der unsere Prüfungsurteile zum Jahresabschluss und zum Lagebericht beinhaltet.
+
+Hinreichende Sicherheit ist ein hohes Maß an Sicherheit, aber keine Garantie dafür, dass eine in Übereinstimmung mit § 317 HGB unter Beachtung der vom Institut der Wirtschaftsprüfer (IDW) festgestellten deutschen Grundsätze ordnungsmäßiger Abschlussprüfung durchgeführte Prüfung eine wesentliche falsche Darstellung stets aufdeckt. Falsche Darstellungen können aus dolosen Handlungen oder Irrtümern resultieren und werden als wesentlich angesehen, wenn vernünftigerweise erwartet werden könnte, dass sie einzeln oder insgesamt die auf der Grundlage dieses Jahresabschlusses und Lageberichts getroffenen wirtschaftlichen Entscheidungen von Adressaten beeinflussen.
+
+Während der Prüfung üben wir pflichtgemäßes Ermessen aus und bewahren eine kritische Grundhaltung. Darüber hinaus
+
+•
+
+identifizieren und beurteilen wir die Risiken wesentlicher falscher Darstellungen im Jahresabschluss und im Lagebericht aufgrund von dolosen Handlungen oder Irrtümern, planen und führen Prüfungshandlungen als Reaktion auf diese Risiken durch sowie erlangen Prüfungsnachweise, die ausreichend und geeignet sind, um als Grundlage für unsere Prüfungsurteile zu dienen. Das Risiko, dass aus dolosen Handlungen resultierende wesentliche falsche Darstellungen nicht aufgedeckt werden, ist höher als das Risiko, dass aus Irrtümern resultierende wesentliche falsche Darstellungen nicht aufgedeckt werden, da dolose Handlungen kollusives Zusammenwirken, Fälschungen, beabsichtigte Unvollständigkeiten, irreführende Darstellungen bzw. das Außerkraftsetzen interner Kontrollen beinhalten können.
+
+•
+
+gewinnen wir ein Verständnis von dem für die Prüfung des Jahresabschlusses relevanten internen Kontrollsystem und den für die Prüfung des Lageberichts relevanten Vorkehrungen und Maßnahmen, um Prüfungshandlungen zu planen, die unter den gegebenen Umständen angemessen sind, jedoch nicht mit dem Ziel, ein Prüfungsurteil zur Wirksamkeit dieser Systeme der Gesellschaft abzugeben.
+
+•
+
+beurteilen wir die Angemessenheit der von den gesetzlichen Vertretern angewandten Rechnungslegungsmethoden sowie die Vertretbarkeit der von den gesetzlichen Vertretern dargestellten geschätzten Werte und damit zusammenhängenden Angaben.
+
+•
+
+ziehen wir Schlussfolgerungen über die Angemessenheit des von den gesetzlichen Vertretern angewandten Rechnungslegungsgrundsatzes der Fortführung der Unternehmenstätigkeit sowie, auf der Grundlage der erlangten Prüfungsnachweise, ob eine wesentliche Unsicherheit im Zusammenhang mit Ereignissen oder Gegebenheiten besteht, die bedeutsame Zweifel an der Fähigkeit der Gesellschaft zur Fortführung der Unternehmenstätigkeit aufwerfen können. Falls wir zu dem Schluss kommen, dass eine wesentliche Unsicherheit besteht, sind wir verpflichtet, im Bestätigungsvermerk auf die dazugehörigen Angaben im Jahresabschluss und im Lagebericht aufmerksam zu machen oder, falls diese Angaben unangemessen sind, unser jeweiliges Prüfungsurteil zu modifizieren. Wir ziehen unsere Schlussfolgerungen auf der Grundlage der bis zum Datum unseres Bestätigungsvermerks erlangten Prüfungsnachweise. Zukünftige Ereignisse oder Gegebenheiten können jedoch dazu führen, dass die Gesellschaft ihre Unternehmenstätigkeit nicht mehr fortführen kann.
+
+•
+
+beurteilen wir Darstellung, Aufbau und Inhalt des Jahresabschlusses insgesamt einschließlich der Angaben sowie ob der Jahresabschluss die zugrunde liegenden Geschäftsvorfälle und Ereignisse so darstellt, dass der Jahresabschluss unter Beachtung der deutschen Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage der Gesellschaft vermittelt.
+
+•
+
+beurteilen wir den Einklang des Lageberichts mit dem Jahresabschluss, seine Gesetzesentsprechung und das von ihm vermittelte Bild von der Lage der Gesellschaft.
+
+•
+
+führen wir Prüfungshandlungen zu den von den gesetzlichen Vertretern dargestellten zukunftsorientierten Angaben im Lagebericht durch. Auf Basis ausreichender geeigneter Prüfungsnachweise vollziehen wir dabei insbesondere die den zukunftsorientierten Angaben von den gesetzlichen Vertretern zugrunde gelegten bedeutsamen Annahmen nach und beurteilen die sachgerechte Ableitung der zukunftsorientierten Angaben aus diesen Annahmen. Ein eigenständiges Prüfungsurteil zu den zukunftsorientierten Angaben sowie zu den zugrunde liegenden Annahmen geben wir nicht ab. Es besteht ein erhebliches unvermeidbares Risiko, dass künftige Ereignisse wesentlich von den zukunftsorientierten Angaben abweichen.
+
+Wir erörtern mit den für die Überwachung Verantwortlichen unter anderem den geplanten Umfang und die Zeitplanung der Prüfung sowie bedeutsame Prüfungsfeststellungen, einschließlich etwaiger bedeutsamer Mängel im internen Kontrollsystem, die wir während unserer Prüfung feststellen.
+
+Stuttgart, den 14. Mai 2025
+
+Deloitte GmbH
+Wirtschaftsprüfungsgesellschaft
+
+Thomas Traub, Wirtschaftsprüfer
+
+Elke Bernhardt, Wirtschaftsprüferin
+
+Mit Gesellschafterbeschluss vom 26. Mai 2025 wurde der Jahresabschluss zum 31. Dezember 2023 festgestellt.

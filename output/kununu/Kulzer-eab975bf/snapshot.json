@@ -1,0 +1,762 @@
+{
+  "provider": "kununu",
+  "backend": "browser",
+  "status": "ok",
+  "query": "Kulzer GmbH",
+  "profile": {
+    "url": "https://www.kununu.com/de/kulzer-mitsui-chemicals-group",
+    "name": "Kulzer Mitsui Chemicals Group",
+    "overall_score": 3.3,
+    "review_count": 102,
+    "recommendation_percent": 34,
+    "recommendation_period": "last_2_years",
+    "observed_at": "2026-11-25T17:14:12.181467+00:00"
+  },
+  "reviews": [
+    {
+      "id": "898099d5-e1cd-4483-9264-67597d40e84b",
+      "url": "https://www.kununu.com/de/kulzer-mitsui-chemicals-group/bewertung/898099d5-e1cd-4483-9264-67597d40e84b",
+      "title": "Von \"super\" inzwischen leider völlig abgestürzt",
+      "content": "Inzwischen leider nichts mehr\n\nInzwischen leider so gut wie alles\n\nEin komplettes Umdenken wäre nötig\n\nInzwischen geprägt von Jobangst\n\nWenig innovativ\n\nAnforderungen werden kontinuierlich nach oben geschraubt\n\nSackgasse\n\nBoni werden teilweise zurückgefordert\n\nBilanz ist das Wichtigste\n\nHier passt es noch\n\nWenig Rücksicht\n\nDruck muss nach unten weitergeleitet werden\n\nEs wird gespart, wo es nur geht\n\nVornerum offen - hinter den Kulissen wird aber falsch gespielt\n\nJe höher im Organigramm, desto weniger Frauen\n\nEs werden zunehmend nicht nachvollziehbare Aufgaben gestellt",
+      "rating": 2.4,
+      "sections": {
+        "positive": "Inzwischen leider nichts mehr",
+        "negative": "Inzwischen leider so gut wie alles",
+        "suggestion": "Ein komplettes Umdenken wäre nötig"
+      },
+      "factor_comments": {
+        "atmosphere": "Inzwischen geprägt von Jobangst",
+        "image": "Wenig innovativ",
+        "workLife": "Anforderungen werden kontinuierlich nach oben geschraubt",
+        "career": "Sackgasse",
+        "salary": "Boni werden teilweise zurückgefordert",
+        "environment": "Bilanz ist das Wichtigste",
+        "teamwork": "Hier passt es noch",
+        "oldColleagues": "Wenig Rücksicht",
+        "leadership": "Druck muss nach unten weitergeleitet werden",
+        "workConditions": "Es wird gespart, wo es nur geht",
+        "communication": "Vornerum offen - hinter den Kulissen wird aber falsch gespielt",
+        "equality": "Je höher im Organigramm, desto weniger Frauen",
+        "tasks": "Es werden zunehmend nicht nachvollziehbare Aufgaben gestellt"
+      },
+      "factor_scores": {
+        "atmosphere": 2.0,
+        "workLife": 1.0,
+        "communication": 2.0,
+        "workConditions": 2.0,
+        "leadership": 3.0,
+        "teamwork": 5.0,
+        "oldColleagues": 3.0,
+        "equality": 3.0,
+        "career": 2.0,
+        "salary": 2.0,
+        "image": 3.0,
+        "environment": 2.0,
+        "tasks": 1.0
+      },
+      "published_at": "2026-10-20T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "05086e97-8de8-4d63-98db-7a249f5a5e32",
+      "url": "https://www.kununu.com/de/kulzer-mitsui-chemicals-group/bewertung/05086e97-8de8-4d63-98db-7a249f5a5e32",
+      "title": "Insgesamt ein guter Arbeigeber",
+      "content": "Die Arbeitsatmosphäre ist echt angenehm. Im Team herrscht ein gutes Miteinander, man unterstützt sich gegenseitig und kann offen miteinander sprechen. Insgesamt fühlt man sich hier einfach wohl.\n\nZum Image kann ich gar nicht so viel sagen. Klar, es gibt einige, die gerne mal meckern oder unzufrieden sind. Dass das Image nachgelassen hat, kann ich persönlich aber nicht bestätigen – so habe ich es bisher nicht wahrgenommen.\n\nDie Work-Life-Balance ist echt gut. Durch flexible Arbeitszeiten und Homeoffice lässt sich die Arbeit gut mit dem Privatleben vereinbaren.\n\nDazu kann ich bisher nicht so viel sagen, da ich selbst noch keine Erfahrungen damit gemacht habe.\n\nIch bin insgesamt zufrieden.\n\nDer Zusammenhalt unter den Kollegen ist wirklich gut. Man unterstützt sich gegenseitig und kann sich aufeinander verlassen. Insgesamt herrscht ein angenehmes und kollegiales Miteinander.\n\nDer Umgang mit älteren Kollegen ist sehr positiv. Da das Durchschnittsalter bei uns eher höher ist, gehört eine gute Mischung aus Erfahrung und jüngeren Kollegen ganz selbstverständlich dazu. Ich finde, dass die Zusammenarbeit über die verschiedenen Altersgruppen hinweg sehr gut funktioniert.\n\nIch kann natürlich nicht für andere Abteilungen sprechen, aber mit meinem Vorgesetzten bin ich wirklich sehr zufrieden. Er ist absolut vorbildlich, immer fair und ansprechbar.\n\nDie Arbeitsbedingungen sind echt gut. Moderne Technik, flexible Arbeitsmöglichkeiten und ein angenehmes Arbeitsumfeld machen den Arbeitsalltag angenehm.\n\nDie Kommunikation ist insgesamt gut und offen. Ich habe nicht das Gefühl, dass Informationen zurückgehalten werden, und bei Fragen kann man sich immer an die Kollegen wenden.\n\nDazu kann ich leider nicht viel sagen, da ich bisher keine direkten Erfahrungen damit gemacht habe. Daher möchte ich das an dieser Stelle nicht bewerten.\n\nIch finde meinen Bereich und die Aufgaben wirklich interessant und abwechslungsreich. Man hat viel eigenen Gestaltungsspielraum und kann auch eigene Ideen einbringen. Dadurch bleibt die Arbeit spannend und wird nicht langweilig.",
+      "rating": 4.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Die Arbeitsatmosphäre ist echt angenehm. Im Team herrscht ein gutes Miteinander, man unterstützt sich gegenseitig und kann offen miteinander sprechen. Insgesamt fühlt man sich hier einfach wohl.",
+        "image": "Zum Image kann ich gar nicht so viel sagen. Klar, es gibt einige, die gerne mal meckern oder unzufrieden sind. Dass das Image nachgelassen hat, kann ich persönlich aber nicht bestätigen – so habe ich es bisher nicht wahrgenommen.",
+        "workLife": "Die Work-Life-Balance ist echt gut. Durch flexible Arbeitszeiten und Homeoffice lässt sich die Arbeit gut mit dem Privatleben vereinbaren.",
+        "career": "Dazu kann ich bisher nicht so viel sagen, da ich selbst noch keine Erfahrungen damit gemacht habe.",
+        "salary": "Ich bin insgesamt zufrieden.",
+        "teamwork": "Der Zusammenhalt unter den Kollegen ist wirklich gut. Man unterstützt sich gegenseitig und kann sich aufeinander verlassen. Insgesamt herrscht ein angenehmes und kollegiales Miteinander.",
+        "oldColleagues": "Der Umgang mit älteren Kollegen ist sehr positiv. Da das Durchschnittsalter bei uns eher höher ist, gehört eine gute Mischung aus Erfahrung und jüngeren Kollegen ganz selbstverständlich dazu. Ich finde, dass die Zusammenarbeit über die verschiedenen Altersgruppen hinweg sehr gut funktioniert.",
+        "leadership": "Ich kann natürlich nicht für andere Abteilungen sprechen, aber mit meinem Vorgesetzten bin ich wirklich sehr zufrieden. Er ist absolut vorbildlich, immer fair und ansprechbar.",
+        "workConditions": "Die Arbeitsbedingungen sind echt gut. Moderne Technik, flexible Arbeitsmöglichkeiten und ein angenehmes Arbeitsumfeld machen den Arbeitsalltag angenehm.",
+        "communication": "Die Kommunikation ist insgesamt gut und offen. Ich habe nicht das Gefühl, dass Informationen zurückgehalten werden, und bei Fragen kann man sich immer an die Kollegen wenden.",
+        "equality": "Dazu kann ich leider nicht viel sagen, da ich bisher keine direkten Erfahrungen damit gemacht habe. Daher möchte ich das an dieser Stelle nicht bewerten.",
+        "tasks": "Ich finde meinen Bereich und die Aufgaben wirklich interessant und abwechslungsreich. Man hat viel eigenen Gestaltungsspielraum und kann auch eigene Ideen einbringen. Dadurch bleibt die Arbeit spannend und wird nicht langweilig."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 4.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 4.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-09-08T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "94d0d496-023c-484e-b1bf-183135401b07",
+      "url": "https://www.kununu.com/de/kulzer-mitsui-chemicals-group/bewertung/94d0d496-023c-484e-b1bf-183135401b07",
+      "title": "Firma im Abbau",
+      "content": "Mobiles Arbeiten in fast allen Bereichen möglich\n\nUnternehmen ist im Abbau. Angst, Chaos und schlechte Kommunikation beherrschen den Alltag. Zu viele Low Performer werden durchgeschleppt. Motivierte Mitarbeiter suchen den Weg raus, da Leistung nicht belohnt wird, sondern Sichtbarkeit und politische Anschlussfähigkeit. HR ist in sich gespalten. Auf Arbeitsebene gibt es noch Austausch. Von oben gibt es nur Entscheidungen, deren Konsequenzen andere tragen müssen. Führungskräfte werden mit der Lösung der Probleme alleine gelassen. Mitarbeiter sind erschöpft\n\nBestimmte öffentliche Bewertungen auf Kununu wirken teilweise wenig realistisch im Vergleich zum internen Alltag. Eigene Erfahrung weicht davon ab.\n\nDie Arbeitsatmosphäre wird zunehmend schlechter.\n\nWird schlechter, da man mittlerweile aus allen Richtungen Zusatzarbeit bekommt\n\nNicht vorhanden\n\nTarif\n\nEs gibt noch Gruppen, die gut funktionieren und sich bereits lange kennen, an diesen Stellen funktioniert es noch.\n\nWunderbar, da der Altersdurchschnitt hoch ist\n\nHängt stark vom Vorgesetzten ab; in meinem Fall gut\n\nMan reibt sich nur noch auf.\n\nKommunikation mittlerweile kaum noch vorhanden oder nur unter der Hand.\n\nVon Männern dominiert\n\nInhalte repetitiv; wer Feuerwehreinsätze mag, wird die Aufgaben lieben",
+      "rating": 2.3,
+      "sections": {
+        "positive": "Mobiles Arbeiten in fast allen Bereichen möglich",
+        "negative": "Unternehmen ist im Abbau. Angst, Chaos und schlechte Kommunikation beherrschen den Alltag. Zu viele Low Performer werden durchgeschleppt. Motivierte Mitarbeiter suchen den Weg raus, da Leistung nicht belohnt wird, sondern Sichtbarkeit und politische Anschlussfähigkeit. HR ist in sich gespalten. Auf Arbeitsebene gibt es noch Austausch. Von oben gibt es nur Entscheidungen, deren Konsequenzen andere tragen müssen. Führungskräfte werden mit der Lösung der Probleme alleine gelassen. Mitarbeiter sind erschöpft",
+        "suggestion": "Bestimmte öffentliche Bewertungen auf Kununu wirken teilweise wenig realistisch im Vergleich zum internen Alltag. Eigene Erfahrung weicht davon ab."
+      },
+      "factor_comments": {
+        "atmosphere": "Die Arbeitsatmosphäre wird zunehmend schlechter.",
+        "workLife": "Wird schlechter, da man mittlerweile aus allen Richtungen Zusatzarbeit bekommt",
+        "career": "Nicht vorhanden",
+        "salary": "Tarif",
+        "teamwork": "Es gibt noch Gruppen, die gut funktionieren und sich bereits lange kennen, an diesen Stellen funktioniert es noch.",
+        "oldColleagues": "Wunderbar, da der Altersdurchschnitt hoch ist",
+        "leadership": "Hängt stark vom Vorgesetzten ab; in meinem Fall gut",
+        "workConditions": "Man reibt sich nur noch auf.",
+        "communication": "Kommunikation mittlerweile kaum noch vorhanden oder nur unter der Hand.",
+        "equality": "Von Männern dominiert",
+        "tasks": "Inhalte repetitiv; wer Feuerwehreinsätze mag, wird die Aufgaben lieben"
+      },
+      "factor_scores": {
+        "atmosphere": 2.0,
+        "workLife": 2.0,
+        "communication": 1.0,
+        "workConditions": 2.0,
+        "leadership": 3.0,
+        "teamwork": 3.0,
+        "oldColleagues": 4.0,
+        "equality": 1.0,
+        "career": 1.0,
+        "salary": 3.0,
+        "image": 3.0,
+        "environment": 3.0,
+        "tasks": 2.0
+      },
+      "published_at": "2026-09-03T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "e7427035-aec4-4ce2-9971-bea914edc9ae",
+      "url": "https://www.kununu.com/de/kulzer-mitsui-chemicals-group/bewertung/e7427035-aec4-4ce2-9971-bea914edc9ae",
+      "title": "Eher schwierig",
+      "content": "Okay.\n\nTarifvertrag\n\nDas klappt noch ganz gut.\n\nEher nicht so gut.\n\nZu viel.",
+      "rating": 2.5,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Okay.",
+        "salary": "Tarifvertrag",
+        "teamwork": "Das klappt noch ganz gut.",
+        "communication": "Eher nicht so gut.",
+        "tasks": "Zu viel."
+      },
+      "factor_scores": {
+        "atmosphere": 2.0,
+        "workLife": 2.0,
+        "communication": 2.0,
+        "workConditions": 3.0,
+        "leadership": 2.0,
+        "teamwork": 3.0,
+        "oldColleagues": 3.0,
+        "equality": 3.0,
+        "career": 1.0,
+        "salary": 4.0,
+        "image": 2.0,
+        "environment": 3.0,
+        "tasks": 2.0
+      },
+      "published_at": "2026-08-31T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "3c232953-8d1c-4e6c-b973-9ecd28a68a24",
+      "url": "https://www.kununu.com/de/kulzer-mitsui-chemicals-group/bewertung/3c232953-8d1c-4e6c-b973-9ecd28a68a24",
+      "title": "Attraktiver Arbeitgeber mit guten Arbeitsbedingungen und engagierten Mitarbeitenden",
+      "content": "Besonders positiv sind die kollegiale Unternehmenskultur, das respektvolle Miteinander, die interessanten und abwechslungsreichen Aufgaben sowie die guten Arbeitsbedingungen. Hervorzuheben ist auch das Engagement des Gebäudemanagement, das täglich für einen sicheren, funktionierenden und angenehmen Arbeitsplatz sorgt. Eigenverantwortliches Arbeiten wird gefördert und geschätzt.\n\nGrößere Kritikpunkte gibt es nicht. Verbesserungspotenzial sehe ich vereinzelt bei Abstimmungsprozessen zwischen einzelnen Bereichen sowie bei der Transparenz und Unterstützung von Karriere- und Weiterbildungsmöglichkeiten, die teilweise von der jeweiligen Führungskraft abhängig sind.\n\nDie interne Kommunikation und bereichsübergreifende Zusammenarbeit könnten an einzelnen Stellen noch weiter verbessert werden. Zudem sollten Weiterbildungs- und Entwicklungsmöglichkeiten noch stärker und einheitlicher durch alle Führungskräfte gefördert werden. Dadurch könnten Potenziale und Kompetenzen der Mitarbeitenden noch besser genutzt werden\n\nAngenehme und kollegiale Arbeitsatmosphäre. Das Miteinander ist geprägt von Respekt, Hilfsbereitschaft und einer offenen Zusammenarbeit\n\nDas Unternehmen genießt insgesamt einen guten Ruf bei Kunden und Geschäftspartnern. Die positiven Leistungen könnten nach außen jedoch teilweise noch stärker kommuniziert werden\n\nDie Vereinbarkeit von Beruf und Privatleben ist insgesamt gut. Durch eine noch flexiblere Gestaltung in einzelnen Bereichen könnten die Rahmenbedingungen weiter verbessert werden.\n\nWeiterbildungsangebote und Entwicklungsmöglichkeiten sind grundsätzlich vorhanden. Die individuelle Förderung und Karriereentwicklung ist jedoch teilweise stark von der jeweiligen Führungskraft abhängig. Hier sehe ich noch Verbesserungspotenzial hinsichtlich Transparenz, Gleichbehandlung und aktiver Unterstützung der Mitarbeitenden\n\nVergütung und Zusatzleistungen sind attraktiv und marktgerecht. Die angebotenen Benefits tragen positiv zur Mitarbeiterzufriedenheit bei, mehr geht ja immer\n\nNachhaltigkeit, Arbeitssicherheit und der verantwortungsvolle Umgang mit Ressourcen haben einen hohen Stellenwert. Auch soziale Aspekte werden im Unternehmen berücksichtigt, jedoch nicht von allen Kollegen selbst gelebt\n\nDer Zusammenhalt unter den Kolleginnen und Kollegen ist sehr gut. Bei Herausforderungen unterstützt man sich gegenseitig und arbeitet lösungsorientiert zusammen\n\nDer Umgang mit älteren Kolleginnen und Kollegen ist respektvoll und wertschätzend. Die vorhandene Erfahrung wird anerkannt, könnte jedoch in einzelnen Bereichen noch stärker genutzt werden.\n\nMein direkter Vorgesetzter lebt eine wertschätzende und professionelle Führungskultur, weshalb ich diesen Bereich insgesamt positiv bewerte. Gleichzeitig gibt es in anderen Führungsbereichen noch Verbesserungspotenzial. Insbesondere der Umgang mit Mitarbeitenden, die Kommunikation sowie die Ausübung der Führungsrolle könnten teilweise moderner und stärker auf Zusammenarbeit ausgerichtet sein\n\nDie Arbeitsbedingungen sind sehr gut. Hinter vielen Dingen, die im Alltag selbstverständlich erscheinen, steht die tägliche Arbeit engagierter Kolleginnen und Kollegen aus dem Facility Management, die für funktionierende Gebäude, sichere Arbeitsplätze und eine angenehme Arbeitsumgebung sorgen, bei Problemen wird einem sehr schnell und professionell geholfen\n\nDie Kommunikation funktioniert im Wesentlichen gut und wichtige Informationen werden überwiegend rechtzeitig weitergegeben. An einzelnen Stellen könnten Abstimmungswege noch etwas transparenter und schneller gestaltet werden\n\nAlle Beschäftigten werden unabhängig von Funktion, Alter oder persönlichem Hintergrund fair und respektvoll behandelt\n\nDas Aufgabengebiet ist abwechslungsreich und bietet interessante sowie verantwortungsvolle Tätigkeiten mit Gestaltungsspielraum",
+      "rating": 4.6,
+      "sections": {
+        "positive": "Besonders positiv sind die kollegiale Unternehmenskultur, das respektvolle Miteinander, die interessanten und abwechslungsreichen Aufgaben sowie die guten Arbeitsbedingungen. Hervorzuheben ist auch das Engagement des Gebäudemanagement, das täglich für einen sicheren, funktionierenden und angenehmen Arbeitsplatz sorgt. Eigenverantwortliches Arbeiten wird gefördert und geschätzt.",
+        "negative": "Größere Kritikpunkte gibt es nicht. Verbesserungspotenzial sehe ich vereinzelt bei Abstimmungsprozessen zwischen einzelnen Bereichen sowie bei der Transparenz und Unterstützung von Karriere- und Weiterbildungsmöglichkeiten, die teilweise von der jeweiligen Führungskraft abhängig sind.",
+        "suggestion": "Die interne Kommunikation und bereichsübergreifende Zusammenarbeit könnten an einzelnen Stellen noch weiter verbessert werden. Zudem sollten Weiterbildungs- und Entwicklungsmöglichkeiten noch stärker und einheitlicher durch alle Führungskräfte gefördert werden. Dadurch könnten Potenziale und Kompetenzen der Mitarbeitenden noch besser genutzt werden"
+      },
+      "factor_comments": {
+        "atmosphere": "Angenehme und kollegiale Arbeitsatmosphäre. Das Miteinander ist geprägt von Respekt, Hilfsbereitschaft und einer offenen Zusammenarbeit",
+        "image": "Das Unternehmen genießt insgesamt einen guten Ruf bei Kunden und Geschäftspartnern. Die positiven Leistungen könnten nach außen jedoch teilweise noch stärker kommuniziert werden",
+        "workLife": "Die Vereinbarkeit von Beruf und Privatleben ist insgesamt gut. Durch eine noch flexiblere Gestaltung in einzelnen Bereichen könnten die Rahmenbedingungen weiter verbessert werden.",
+        "career": "Weiterbildungsangebote und Entwicklungsmöglichkeiten sind grundsätzlich vorhanden. Die individuelle Förderung und Karriereentwicklung ist jedoch teilweise stark von der jeweiligen Führungskraft abhängig. Hier sehe ich noch Verbesserungspotenzial hinsichtlich Transparenz, Gleichbehandlung und aktiver Unterstützung der Mitarbeitenden",
+        "salary": "Vergütung und Zusatzleistungen sind attraktiv und marktgerecht. Die angebotenen Benefits tragen positiv zur Mitarbeiterzufriedenheit bei, mehr geht ja immer",
+        "environment": "Nachhaltigkeit, Arbeitssicherheit und der verantwortungsvolle Umgang mit Ressourcen haben einen hohen Stellenwert. Auch soziale Aspekte werden im Unternehmen berücksichtigt, jedoch nicht von allen Kollegen selbst gelebt",
+        "teamwork": "Der Zusammenhalt unter den Kolleginnen und Kollegen ist sehr gut. Bei Herausforderungen unterstützt man sich gegenseitig und arbeitet lösungsorientiert zusammen",
+        "oldColleagues": "Der Umgang mit älteren Kolleginnen und Kollegen ist respektvoll und wertschätzend. Die vorhandene Erfahrung wird anerkannt, könnte jedoch in einzelnen Bereichen noch stärker genutzt werden.",
+        "leadership": "Mein direkter Vorgesetzter lebt eine wertschätzende und professionelle Führungskultur, weshalb ich diesen Bereich insgesamt positiv bewerte. Gleichzeitig gibt es in anderen Führungsbereichen noch Verbesserungspotenzial. Insbesondere der Umgang mit Mitarbeitenden, die Kommunikation sowie die Ausübung der Führungsrolle könnten teilweise moderner und stärker auf Zusammenarbeit ausgerichtet sein",
+        "workConditions": "Die Arbeitsbedingungen sind sehr gut. Hinter vielen Dingen, die im Alltag selbstverständlich erscheinen, steht die tägliche Arbeit engagierter Kolleginnen und Kollegen aus dem Facility Management, die für funktionierende Gebäude, sichere Arbeitsplätze und eine angenehme Arbeitsumgebung sorgen, bei Problemen wird einem sehr schnell und professionell geholfen",
+        "communication": "Die Kommunikation funktioniert im Wesentlichen gut und wichtige Informationen werden überwiegend rechtzeitig weitergegeben. An einzelnen Stellen könnten Abstimmungswege noch etwas transparenter und schneller gestaltet werden",
+        "equality": "Alle Beschäftigten werden unabhängig von Funktion, Alter oder persönlichem Hintergrund fair und respektvoll behandelt",
+        "tasks": "Das Aufgabengebiet ist abwechslungsreich und bietet interessante sowie verantwortungsvolle Tätigkeiten mit Gestaltungsspielraum"
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 4.0,
+        "communication": 4.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 4.0,
+        "equality": 5.0,
+        "career": 4.0,
+        "salary": 5.0,
+        "image": 4.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-08-28T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "70323588-31b7-4725-8d44-34d91a071a41",
+      "url": "https://www.kununu.com/de/kulzer-mitsui-chemicals-group/bewertung/70323588-31b7-4725-8d44-34d91a071a41",
+      "title": "Top Arbeitgeber, ich bereue keinen Tag bei Kulzer",
+      "content": "Kulzer ist ein Top-Arbeitgeber. Die geringe Fluktuation vor allem in Wehrheim zeigt das deutlich.\n\nDie R&D Abteilung wurde vor einigen Jahren von Wehrheim nach Hanau verlegt. Da war der Kontakt zwischen Produktion und R&D noch enger.",
+      "rating": 4.5,
+      "sections": {
+        "positive": "Kulzer ist ein Top-Arbeitgeber. Die geringe Fluktuation vor allem in Wehrheim zeigt das deutlich.",
+        "negative": "Die R&D Abteilung wurde vor einigen Jahren von Wehrheim nach Hanau verlegt. Da war der Kontakt zwischen Produktion und R&D noch enger.",
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 4.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 4.0,
+        "career": 5.0,
+        "salary": 3.0,
+        "image": 4.0,
+        "environment": 3.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-08-14T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "301f0408-ed57-4220-a355-783732ae9261",
+      "url": "https://www.kununu.com/de/kulzer-mitsui-chemicals-group/bewertung/301f0408-ed57-4220-a355-783732ae9261",
+      "title": "Ich rate jedem jungen Menschen der seine Karriere vor sich hat ab.",
+      "content": "Sehr unprofessionelles Unternehmen. Sehr unfaire Behandlung von langjährigen Mitarbeitern. Alle 2 Jahre eine Umstrukturierung.",
+      "rating": 1.5,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Sehr unprofessionelles Unternehmen. Sehr unfaire Behandlung von langjährigen Mitarbeitern. Alle 2 Jahre eine Umstrukturierung."
+      },
+      "factor_scores": {
+        "atmosphere": 1.0,
+        "workLife": 3.0,
+        "communication": 2.0,
+        "workConditions": 2.0,
+        "leadership": 1.0,
+        "teamwork": 1.0,
+        "oldColleagues": 2.0,
+        "equality": 1.0,
+        "career": 1.0,
+        "salary": 1.0,
+        "image": 1.0,
+        "environment": 2.0,
+        "tasks": 1.0
+      },
+      "published_at": "2026-06-18T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "2bd1239e-6110-4fe8-b420-1526c240e1cb",
+      "url": "https://www.kununu.com/de/kulzer-mitsui-chemicals-group/bewertung/2bd1239e-6110-4fe8-b420-1526c240e1cb",
+      "title": "Mal sehn wie lang das noch so geht…..",
+      "content": "Wir haben immer noch gute Produkte, die mittlerweile einige Überarbeitungen benötigen. Die Kollegen untereinander unterstützen sich meist.\n\nEs werden immer wieder die gleichen Fehler gemacht. Oft dann von neuen Managern, die keinen Durchblick haben, aber Entscheiden können.\n\nWirklich mal auf die eigenen Leute hören. Die wollen nicht immer nur Geld und ausquetschen. Die wollen konstruktive Kritik geben und Lösungsmöglichkeiten wie wir vorankommen können.\n\nGerade echt schwierig\n\nWar mal Spitze, mittlerweile hapert es durch falsche Managerentscheidungen immer mehr. Es wird leider nicht auf die Kunden und die Kollegen gehört, eher auf marktferne „Berater“.\n\nEs kommt drauf an, wie man es sich selbst einteilt. Wenn man alles machen würde, was verlangt wird, kommt man mit 50-60h/ Woche kaum hin\n\nDas is nich viel zu machen.\n\nGehalt ist schon gut. Sozialleistungen für AT eher mager, das is nur für Tarif gedacht.\n\nDenkt man eigentlich. Wird auch einiges gemacht, aber beim Auto isses mehr Makulatur. Es dürfen nur Diesel gefahren werden, aber dann nur 160g CO2. Da gibts nur noch wenige Autos und Elektro schaffen sie nicht umzusetzen. Mehr als überfällig!\n\nImmer noch gut, würd ich sagen\n\nEigentlich schon gut, trotzdem wird da im AD kaum Rücksicht genommen.\n\nNun ja, manche verstehen ihren Job nicht richtig. Hat mit Managen nix zu tun. Das nennt man Drücker oder Aufgabenverteiler.\n\nDer Druck wird größer und damit auch der innere Druck und das macht es nicht leichter seine Arbeit gern und ordentlich zu machen. Wenn man richtig führen würde, wäre es deutlich besser. Jetzt gibt man nur einfach den großen Druck der Japaner nach unten weiter und es interessiert keinen wie die Menschen darauf reagieren. Da kommt nix Gutes raus, leider.\n\nDas hinkt schon seit Jahren\n\nWird schon meist gelebt\n\nWird leider nicht mehr so viel Neues gemacht, dadurch eher ältere Produkte",
+      "rating": 3.2,
+      "sections": {
+        "positive": "Wir haben immer noch gute Produkte, die mittlerweile einige Überarbeitungen benötigen. Die Kollegen untereinander unterstützen sich meist.",
+        "negative": "Es werden immer wieder die gleichen Fehler gemacht. Oft dann von neuen Managern, die keinen Durchblick haben, aber Entscheiden können.",
+        "suggestion": "Wirklich mal auf die eigenen Leute hören. Die wollen nicht immer nur Geld und ausquetschen. Die wollen konstruktive Kritik geben und Lösungsmöglichkeiten wie wir vorankommen können."
+      },
+      "factor_comments": {
+        "atmosphere": "Gerade echt schwierig",
+        "image": "War mal Spitze, mittlerweile hapert es durch falsche Managerentscheidungen immer mehr. Es wird leider nicht auf die Kunden und die Kollegen gehört, eher auf marktferne „Berater“.",
+        "workLife": "Es kommt drauf an, wie man es sich selbst einteilt. Wenn man alles machen würde, was verlangt wird, kommt man mit 50-60h/ Woche kaum hin",
+        "career": "Das is nich viel zu machen.",
+        "salary": "Gehalt ist schon gut. Sozialleistungen für AT eher mager, das is nur für Tarif gedacht.",
+        "environment": "Denkt man eigentlich. Wird auch einiges gemacht, aber beim Auto isses mehr Makulatur. Es dürfen nur Diesel gefahren werden, aber dann nur 160g CO2. Da gibts nur noch wenige Autos und Elektro schaffen sie nicht umzusetzen. Mehr als überfällig!",
+        "teamwork": "Immer noch gut, würd ich sagen",
+        "oldColleagues": "Eigentlich schon gut, trotzdem wird da im AD kaum Rücksicht genommen.",
+        "leadership": "Nun ja, manche verstehen ihren Job nicht richtig. Hat mit Managen nix zu tun. Das nennt man Drücker oder Aufgabenverteiler.",
+        "workConditions": "Der Druck wird größer und damit auch der innere Druck und das macht es nicht leichter seine Arbeit gern und ordentlich zu machen. Wenn man richtig führen würde, wäre es deutlich besser. Jetzt gibt man nur einfach den großen Druck der Japaner nach unten weiter und es interessiert keinen wie die Menschen darauf reagieren. Da kommt nix Gutes raus, leider.",
+        "communication": "Das hinkt schon seit Jahren",
+        "equality": "Wird schon meist gelebt",
+        "tasks": "Wird leider nicht mehr so viel Neues gemacht, dadurch eher ältere Produkte"
+      },
+      "factor_scores": {
+        "atmosphere": 2.0,
+        "workLife": 4.0,
+        "communication": 2.0,
+        "workConditions": 3.0,
+        "leadership": 2.0,
+        "teamwork": 4.0,
+        "oldColleagues": 4.0,
+        "equality": 4.0,
+        "career": 2.0,
+        "salary": 5.0,
+        "image": 3.0,
+        "environment": 3.0,
+        "tasks": 3.0
+      },
+      "published_at": "2026-06-15T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "8cf8b9e5-66d7-4b07-ba76-547f7f30d77b",
+      "url": "https://www.kununu.com/de/kulzer-mitsui-chemicals-group/bewertung/8cf8b9e5-66d7-4b07-ba76-547f7f30d77b",
+      "title": "Ich bin war ich glücklich und wollte erst am Tag meiner Rente das Unternehmen verlassen.",
+      "content": "Das er an alten Zöpfen hängt die keinen Umsatz machen und nur Geld kosten.\nWenn ich Profit will, werfe ich unnötigen Ballast ab und kündige nicht die Kollegen die die Firma am laufen halten\n\nGegenüber der benannten Stelle öfters die Diskussion suchen.\nMehr Kommunikation mit den anderen Mitgliedern der Zahntechnischen chemischen Industrie, um die gemeinsamen Ziele / Probleme zu erreichen / bewältigen.\nNicht auf die Unternehmensberater hören deren einziger Vorschlag scheinbar war Stellen zu kürzen.\n\nDas Voting bezieht sich auf meine alte Abteilung\n\nHat schwer gelitten\n\nMein direkter Vorgesetzter und der Niederlassungsleiter bekommen 5 Sterne die Betriebsleitung nur einen.\n\nDie Kommunikation von oben war mangelhaft. DIe Kommunikation zwischen den Kollegen zwischen 3 und 5 Sternen",
+      "rating": 4.2,
+      "sections": {
+        "positive": null,
+        "negative": "Das er an alten Zöpfen hängt die keinen Umsatz machen und nur Geld kosten.\nWenn ich Profit will, werfe ich unnötigen Ballast ab und kündige nicht die Kollegen die die Firma am laufen halten",
+        "suggestion": "Gegenüber der benannten Stelle öfters die Diskussion suchen.\nMehr Kommunikation mit den anderen Mitgliedern der Zahntechnischen chemischen Industrie, um die gemeinsamen Ziele / Probleme zu erreichen / bewältigen.\nNicht auf die Unternehmensberater hören deren einziger Vorschlag scheinbar war Stellen zu kürzen."
+      },
+      "factor_comments": {
+        "atmosphere": "Das Voting bezieht sich auf meine alte Abteilung",
+        "image": "Hat schwer gelitten",
+        "leadership": "Mein direkter Vorgesetzter und der Niederlassungsleiter bekommen 5 Sterne die Betriebsleitung nur einen.",
+        "communication": "Die Kommunikation von oben war mangelhaft. DIe Kommunikation zwischen den Kollegen zwischen 3 und 5 Sternen"
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 2.0,
+        "workConditions": 5.0,
+        "leadership": 1.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 3.0,
+        "salary": 5.0,
+        "image": 3.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-06-15T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "bf0f7816-6d5a-47cb-a731-55f875d8c786",
+      "url": "https://www.kununu.com/de/kulzer-mitsui-chemicals-group/bewertung/bf0f7816-6d5a-47cb-a731-55f875d8c786",
+      "title": "Ich hoffe es wird wieder",
+      "content": "Einige Produkte. Wenige Kollegen.\n\nAuf Kosten der Mitarbeiter wird immer mehr eingespart, sodass manche Abteilungen nicht mehr Handlungsfähig sind.\nEs werden unlösbare Situationen geschaffen.\n\nEs ist klar, dass etwas getan werden muss. Das verstehe ich gut. Ich bin auch froh, dass aufgeräumt wird.\nMein Vorschlag wäre: das Portfolio aufräumen und unabhängig von Einzelmeinungen der Produktzuständigen neu aufzustellen. Weniger ist manchmal mehr. Fokussiertes Marketing und Kundenmanagement.\nSich nicht \"ausschließlich\" auf externe Berater und ganz neue Mitarbeiter verlassen, wenn es darum geht etwas zu verändern. Vielleicht auch mal die anhören, die sonst nicht gefragt werden.\nDie Mitarbeiterumfrage nicht so auslegen, wie es gerade passt.\nWertschätzung für, und Vertrauen zu den Mitarbeitern haben!!! Denn ohne gut ausgebildete Mitarbeiter kann das Unternehmen sicherlich sparen, aber hat dann ein anderes Problem.\nDurch Kontrolle wird die Umgebung der Angst nicht besser.\n\nDie Arbeitsatmosphäre ist oberflächlich gut, allerdings ist unter den wirtschaftlichen Anforderungen eine Atmosphäre der Angst vorhanden. Keiner sagt etwas, weil man sich einfach nicht traut.\nTake it, or leave it. Das ist die Aussage. Nachdem man nun schon Jahrelang den Gürtel immer enger geschnallt hat und die Extrameile gegangen ist, muss man wirklich gut aufpassen, dass man dabei nicht krank wird.\n\nleider habe ich das Gefühl, dass das Image immer schlechter wird. Darüber bin ich wirklich traurig.\n\nDadurch, dass man immer das Gefühl hat Zuwenig zu tun, obwohl man schon viel mehr macht, als es die Arbeitszeit etc. vorgeben, ist die Work-Life-Balance schlecht. Man nimmt viel mit in die Freizeit\n\nnicht vorhanden\n\ngut\n\ndazu kann ich nichts sagen\n\nLeider führt der Druck dazu, dass es auch mal zu ungerechtfertigten \"Beißereien\" kommt. Diese werden dann unter dem Motto: \"man musste sich mal Luft machen\" entschuldigt. Mit manchen Kollegen geht es noch, aber das Misstrauen wächst und so wird es immer schwieriger.\n\ngut\n\nschlecht\n\nBürogebäude schmutzig, shared desks ist eine Katastrophe\n\nOberflächlich alles TOP! Die offene Kommunikation wird zwar vorgegaukelt, allerdings passiert viel, ohne, dass man Informationen bekommt. Die Restrukturierung hat da nicht geholfen. Auch vom Betriebsrat hat man nicht das Gefühl Informationen zu bekommen.\n\ngut\n\ngeht so. Könnte interessant sein, wenn der Rest stimmen würde",
+      "rating": 1.9,
+      "sections": {
+        "positive": "Einige Produkte. Wenige Kollegen.",
+        "negative": "Auf Kosten der Mitarbeiter wird immer mehr eingespart, sodass manche Abteilungen nicht mehr Handlungsfähig sind.\nEs werden unlösbare Situationen geschaffen.",
+        "suggestion": "Es ist klar, dass etwas getan werden muss. Das verstehe ich gut. Ich bin auch froh, dass aufgeräumt wird.\nMein Vorschlag wäre: das Portfolio aufräumen und unabhängig von Einzelmeinungen der Produktzuständigen neu aufzustellen. Weniger ist manchmal mehr. Fokussiertes Marketing und Kundenmanagement.\nSich nicht \"ausschließlich\" auf externe Berater und ganz neue Mitarbeiter verlassen, wenn es darum geht etwas zu verändern. Vielleicht auch mal die anhören, die sonst nicht gefragt werden.\nDie Mitarbeiterumfrage nicht so auslegen, wie es gerade passt.\nWertschätzung für, und Vertrauen zu den Mitarbeitern haben!!! Denn ohne gut ausgebildete Mitarbeiter kann das Unternehmen sicherlich sparen, aber hat dann ein anderes Problem.\nDurch Kontrolle wird die Umgebung der Angst nicht besser."
+      },
+      "factor_comments": {
+        "atmosphere": "Die Arbeitsatmosphäre ist oberflächlich gut, allerdings ist unter den wirtschaftlichen Anforderungen eine Atmosphäre der Angst vorhanden. Keiner sagt etwas, weil man sich einfach nicht traut.\nTake it, or leave it. Das ist die Aussage. Nachdem man nun schon Jahrelang den Gürtel immer enger geschnallt hat und die Extrameile gegangen ist, muss man wirklich gut aufpassen, dass man dabei nicht krank wird.",
+        "image": "leider habe ich das Gefühl, dass das Image immer schlechter wird. Darüber bin ich wirklich traurig.",
+        "workLife": "Dadurch, dass man immer das Gefühl hat Zuwenig zu tun, obwohl man schon viel mehr macht, als es die Arbeitszeit etc. vorgeben, ist die Work-Life-Balance schlecht. Man nimmt viel mit in die Freizeit",
+        "career": "nicht vorhanden",
+        "salary": "gut",
+        "environment": "dazu kann ich nichts sagen",
+        "teamwork": "Leider führt der Druck dazu, dass es auch mal zu ungerechtfertigten \"Beißereien\" kommt. Diese werden dann unter dem Motto: \"man musste sich mal Luft machen\" entschuldigt. Mit manchen Kollegen geht es noch, aber das Misstrauen wächst und so wird es immer schwieriger.",
+        "oldColleagues": "gut",
+        "leadership": "schlecht",
+        "workConditions": "Bürogebäude schmutzig, shared desks ist eine Katastrophe",
+        "communication": "Oberflächlich alles TOP! Die offene Kommunikation wird zwar vorgegaukelt, allerdings passiert viel, ohne, dass man Informationen bekommt. Die Restrukturierung hat da nicht geholfen. Auch vom Betriebsrat hat man nicht das Gefühl Informationen zu bekommen.",
+        "equality": "gut",
+        "tasks": "geht so. Könnte interessant sein, wenn der Rest stimmen würde"
+      },
+      "factor_scores": {
+        "atmosphere": 1.0,
+        "workLife": 2.0,
+        "communication": 1.0,
+        "workConditions": 3.0,
+        "leadership": 1.0,
+        "teamwork": 1.0,
+        "oldColleagues": 3.0,
+        "equality": 3.0,
+        "career": 1.0,
+        "salary": 3.0,
+        "image": 2.0,
+        "environment": 2.0,
+        "tasks": 2.0
+      },
+      "published_at": "2026-06-11T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "96b4b592-f734-4b2e-90db-1e1658812b3c",
+      "url": "https://www.kununu.com/de/kulzer-mitsui-chemicals-group/bewertung/96b4b592-f734-4b2e-90db-1e1658812b3c",
+      "title": "Leider immer weiter in die falsche Richtung",
+      "content": "Gehalt ist gut gewesen.\n\nStark abnehmend, einfach weil immer wieder falsch entschieden wird.\n\nAbnehmend\n\nWar akzeptabel, aber durch immer höhere Vorgagen, steigender Druck\n\nNicht vorhanden\n\nGehalt ist gut\n\nImmer noch gut\n\nEr ist kein Vorgesetzter, eher ein Postenverwalter.\n\nMacht einfach keinen Spass mehr\n\nMangelhaft, da der Vorgesetzte Informationen hortet, oder selbst nicht bekommt.",
+      "rating": 2.2,
+      "sections": {
+        "positive": "Gehalt ist gut gewesen.",
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Stark abnehmend, einfach weil immer wieder falsch entschieden wird.",
+        "image": "Abnehmend",
+        "workLife": "War akzeptabel, aber durch immer höhere Vorgagen, steigender Druck",
+        "career": "Nicht vorhanden",
+        "salary": "Gehalt ist gut",
+        "teamwork": "Immer noch gut",
+        "leadership": "Er ist kein Vorgesetzter, eher ein Postenverwalter.",
+        "workConditions": "Macht einfach keinen Spass mehr",
+        "communication": "Mangelhaft, da der Vorgesetzte Informationen hortet, oder selbst nicht bekommt."
+      },
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 3.0,
+        "communication": 2.0,
+        "workConditions": 1.0,
+        "leadership": 1.0,
+        "teamwork": 3.0,
+        "oldColleagues": 1.0,
+        "equality": 3.0,
+        "career": 1.0,
+        "salary": 4.0,
+        "image": 1.0,
+        "environment": 3.0,
+        "tasks": 3.0
+      },
+      "published_at": "2026-05-20T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "293e5a6b-14dd-4043-8793-0d4dc82c963a",
+      "url": "https://www.kununu.com/de/kulzer-mitsui-chemicals-group/bewertung/293e5a6b-14dd-4043-8793-0d4dc82c963a",
+      "title": "Beängstigende Entwicklung",
+      "content": "Die nutzbare Kantine von Heraeus, Gleitzeit, Parkplätze und teilweise ein angemessenes Gehalt.\n\nDer Umgang mit den Mitarbeitern. Das höhere Management möchte zwar Transparenz vermitteln, verbreitet aber viele Unwahrheiten. Einige im Management sind nicht geeignet, um Menschen zu führen. Das BOM schafft es nach vielen Jahren immer noch nicht, eine Strategie zu entwerfen und sie den Mitarbeitern mitzuteilen. Ein Wir-Gefühl ist nicht vorhanden.\n\nMitarbeiter sind ein hohes Gut und sollten mit Respekt behandelt werden. Leider ist das oft nicht der Fall. Da motivierendes Lob von Vorgesetzten nur selten kommt, muss man sich selbst motivieren, um weiter Spaß an der Arbeit zu haben.\n\nEs war mal gut, inzwischen ist es eher schlecht. Lob bekommen meist nur die „Lieblinge” der Chefs. Mobbing kommt auch immer häufiger vor.\n\nEs war recht gut, verliert aber immer mehr.\n\nDas ist grundsätzlich gut, aber Homeoffice ist beispielsweise nur erwünscht, wenn es in die Vorstellung des jeweiligen Vorgesetzten passt. Wenn zu bestimmten Uhrzeiten nicht genügend Mitarbeiter vor Ort sind, gibt es Ärger. (z. B. freitags nachmittags).\n\nDies ist nur für bestimmte Mitarbeiter möglich.\n\nDas Gehalt ist soweit in Ordnung, für „Lieblinge” sogar sehr gut.\n\nEs gibt Ansätze, die jedoch nicht konsequent zu Ende geführt werden.\n\nEs war mal gut, aber durch die letzte Umstrukturierung ist es eher schlecht geworden. Jeder ist gegen jeden und denkt nur an sich selbst.\n\nDa der Durchschnitt sehr hoch, eher gut.\n\nEs ist sehr schlecht. Die Mitarbeiter werden ständig belogen und es findet teilweise Bossing statt. Der Betriebsrat schaut nur zu und unternimmt nichts.\n\nGrundsätzlich ist es gut, aber leider wird überall der Rotstift angesetzt. Zum Beispiel werden die Klimaanlagen zentral gesteuert und nach einer Stunde abgeschaltet. Das kann im Sommer schon belastend sein.\n\nBei großen Veranstaltungen wird viel geredet, aber die wichtigen Dinge werden nicht richtig angesprochen. „Insiderinformationen” erhalten nur die „Lieblinge”.\n\nGibt es nicht.\n\nDie Themen sind teilweise spannend, werden im Vorfeld aber nicht richtig vorgearbeitet und dann oft eingestellt oder heruntergefahren, bis sie sich nicht mehr rentieren.",
+      "rating": 2.2,
+      "sections": {
+        "positive": "Die nutzbare Kantine von Heraeus, Gleitzeit, Parkplätze und teilweise ein angemessenes Gehalt.",
+        "negative": "Der Umgang mit den Mitarbeitern. Das höhere Management möchte zwar Transparenz vermitteln, verbreitet aber viele Unwahrheiten. Einige im Management sind nicht geeignet, um Menschen zu führen. Das BOM schafft es nach vielen Jahren immer noch nicht, eine Strategie zu entwerfen und sie den Mitarbeitern mitzuteilen. Ein Wir-Gefühl ist nicht vorhanden.",
+        "suggestion": "Mitarbeiter sind ein hohes Gut und sollten mit Respekt behandelt werden. Leider ist das oft nicht der Fall. Da motivierendes Lob von Vorgesetzten nur selten kommt, muss man sich selbst motivieren, um weiter Spaß an der Arbeit zu haben."
+      },
+      "factor_comments": {
+        "atmosphere": "Es war mal gut, inzwischen ist es eher schlecht. Lob bekommen meist nur die „Lieblinge” der Chefs. Mobbing kommt auch immer häufiger vor.",
+        "image": "Es war recht gut, verliert aber immer mehr.",
+        "workLife": "Das ist grundsätzlich gut, aber Homeoffice ist beispielsweise nur erwünscht, wenn es in die Vorstellung des jeweiligen Vorgesetzten passt. Wenn zu bestimmten Uhrzeiten nicht genügend Mitarbeiter vor Ort sind, gibt es Ärger. (z. B. freitags nachmittags).",
+        "career": "Dies ist nur für bestimmte Mitarbeiter möglich.",
+        "salary": "Das Gehalt ist soweit in Ordnung, für „Lieblinge” sogar sehr gut.",
+        "environment": "Es gibt Ansätze, die jedoch nicht konsequent zu Ende geführt werden.",
+        "teamwork": "Es war mal gut, aber durch die letzte Umstrukturierung ist es eher schlecht geworden. Jeder ist gegen jeden und denkt nur an sich selbst.",
+        "oldColleagues": "Da der Durchschnitt sehr hoch, eher gut.",
+        "leadership": "Es ist sehr schlecht. Die Mitarbeiter werden ständig belogen und es findet teilweise Bossing statt. Der Betriebsrat schaut nur zu und unternimmt nichts.",
+        "workConditions": "Grundsätzlich ist es gut, aber leider wird überall der Rotstift angesetzt. Zum Beispiel werden die Klimaanlagen zentral gesteuert und nach einer Stunde abgeschaltet. Das kann im Sommer schon belastend sein.",
+        "communication": "Bei großen Veranstaltungen wird viel geredet, aber die wichtigen Dinge werden nicht richtig angesprochen. „Insiderinformationen” erhalten nur die „Lieblinge”.",
+        "equality": "Gibt es nicht.",
+        "tasks": "Die Themen sind teilweise spannend, werden im Vorfeld aber nicht richtig vorgearbeitet und dann oft eingestellt oder heruntergefahren, bis sie sich nicht mehr rentieren."
+      },
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-03-13T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "13d97c9f-6f4f-4b9d-9002-9c677823f9e1",
+      "url": "https://www.kununu.com/de/kulzer-mitsui-chemicals-group/bewertung/13d97c9f-6f4f-4b9d-9002-9c677823f9e1",
+      "title": "Besorgniserregender Abwärtstrend",
+      "content": "War mal gut und machte Spaß.\n\nDer seit Monaten anhaltende Abwärtstrend ist besorgniserregend.\n\nVieles. Leider hat man sich mit einigen Personalentscheidungen und darauf folgender Umorganisation keinen Gefallen getan. Den Kollegen leider auch nicht.\n\nSehr schnell sehr unangenehm geworden ohne Aussicht auf Besserung.\n\nNimmt ab.\n\nGanz okay.\n\nKaum Raum da. Fraglich, ob gewünscht.\n\nChemie, deswegen gut.\n\nBemüht, aber nicht konsequent genug.\n\nMit den eigenen Leuten noch gut. Galgenhumor von Vorteil.\n\nGeht so.\n\nKommt auf den Vorgesetzten an.\n\nAlte Räumlichkeiten. Immer wieder Probleme mit der Technik. Ansonsten okay.\n\nMan redet viel. Leider nicht miteinander über die wirklich wichtigen Dinge.\n\nGeht so.\n\nImmer weniger werdend. Viele Ideen im Keim erstickt. Auf wichtige Hinweise oder Erfahrungswerte wurde nicht eingegangen.",
+      "rating": 2.5,
+      "sections": {
+        "positive": "War mal gut und machte Spaß.",
+        "negative": "Der seit Monaten anhaltende Abwärtstrend ist besorgniserregend.",
+        "suggestion": "Vieles. Leider hat man sich mit einigen Personalentscheidungen und darauf folgender Umorganisation keinen Gefallen getan. Den Kollegen leider auch nicht."
+      },
+      "factor_comments": {
+        "atmosphere": "Sehr schnell sehr unangenehm geworden ohne Aussicht auf Besserung.",
+        "image": "Nimmt ab.",
+        "workLife": "Ganz okay.",
+        "career": "Kaum Raum da. Fraglich, ob gewünscht.",
+        "salary": "Chemie, deswegen gut.",
+        "environment": "Bemüht, aber nicht konsequent genug.",
+        "teamwork": "Mit den eigenen Leuten noch gut. Galgenhumor von Vorteil.",
+        "oldColleagues": "Geht so.",
+        "leadership": "Kommt auf den Vorgesetzten an.",
+        "workConditions": "Alte Räumlichkeiten. Immer wieder Probleme mit der Technik. Ansonsten okay.",
+        "communication": "Man redet viel. Leider nicht miteinander über die wirklich wichtigen Dinge.",
+        "equality": "Geht so.",
+        "tasks": "Immer weniger werdend. Viele Ideen im Keim erstickt. Auf wichtige Hinweise oder Erfahrungswerte wurde nicht eingegangen."
+      },
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-03-07T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "9a8ee5f6-d37a-41d9-932a-6b956a1aecb7",
+      "url": "https://www.kununu.com/de/kulzer-mitsui-chemicals-group/bewertung/9a8ee5f6-d37a-41d9-932a-6b956a1aecb7",
+      "title": "Keine positive Entwicklung zu sehen..",
+      "content": "Bezahlung ist gut.\n\nRest\n\nIn die Zukunft investieren, ohne das gibt es Kulzer so bald nicht mehr.\n\nStark abnehmend, durch die aktuellen Veränderungen wird immer mehr auf den Außendienst abgewälzt. Egal ob dieser technisch oder kaufm. arbeitet.\n\nAbnehmend, leider\n\nIm Außendienst noch in Ordnung\n\nNicht vorhanden\n\nGehalt gut\n\nKeine Meinung\n\nJeder denkt nur an sich\n\nSolala\n\nEntscheiden nichts eigenständig, versichern sich immer rück, oder lassen gleich die höhere Instanz entscheiden.\n\nEntscheidungen egal welcher Auswirkung werden mitgeteilt. Wenn diese nicht gefallen......\n\nVorhanden\n\nAußendienst ist sehr abwechslungsreich...unabhängig wo.",
+      "rating": 1.9,
+      "sections": {
+        "positive": "Bezahlung ist gut.",
+        "negative": "Rest",
+        "suggestion": "In die Zukunft investieren, ohne das gibt es Kulzer so bald nicht mehr."
+      },
+      "factor_comments": {
+        "atmosphere": "Stark abnehmend, durch die aktuellen Veränderungen wird immer mehr auf den Außendienst abgewälzt. Egal ob dieser technisch oder kaufm. arbeitet.",
+        "image": "Abnehmend, leider",
+        "workLife": "Im Außendienst noch in Ordnung",
+        "career": "Nicht vorhanden",
+        "salary": "Gehalt gut",
+        "environment": "Keine Meinung",
+        "teamwork": "Jeder denkt nur an sich",
+        "oldColleagues": "Solala",
+        "leadership": "Entscheiden nichts eigenständig, versichern sich immer rück, oder lassen gleich die höhere Instanz entscheiden.",
+        "communication": "Entscheidungen egal welcher Auswirkung werden mitgeteilt. Wenn diese nicht gefallen......",
+        "equality": "Vorhanden",
+        "tasks": "Außendienst ist sehr abwechslungsreich...unabhängig wo."
+      },
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-03-04T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "abb2b644-3c96-45ae-8e5b-2ead9fbb2e69",
+      "url": "https://www.kununu.com/de/kulzer-mitsui-chemicals-group/bewertung/abb2b644-3c96-45ae-8e5b-2ead9fbb2e69",
+      "title": "Früher war es defnitiv Besser",
+      "content": "Gehalt, Flextime, Boni, Renten\n\nOben Beschrieben\n\nMehr auf mitarbeiter wünsche reagieren, mehr auf Kranke achten .. die kollegen suchen sich ihre krankheiten nicht aus..Bitte ernst nehmen\n\nVor 2020 war es Besser\n\nLeider kennt kaum einer Kulzer\n\nGutes gehalt, gute bonis..\n\nSeid dem die alten Kollegen nicht mehr sind, ist der Zusammenhalt nur noch furchtbar\n\nIn mein Augen und meine Ansicht und die Vertrete ich auch..Furchtbar!!!\n\nSollte meines erachtens auf eine Schulung geschickt werden.. der Kleine Vorarbeiter geht noch, aber oben ...schulen bitte\n\nNach dem 5S die der Ehemalige Kollege eingeführt hat, hat man ea auch leichter gehabt etwas zu finden und auch schneller\n\nMan muss nachfragen\n\nAus meiner erfahrung, kannste gut mit dem Kleinen Vorgesetzten kannste glück haben und wirst gut behandelt, aber nur solange er etwas von dir möchte\n\nVielfälltig aber nicht Interessant",
+      "rating": 2.2,
+      "sections": {
+        "positive": "Gehalt, Flextime, Boni, Renten",
+        "negative": "Oben Beschrieben",
+        "suggestion": "Mehr auf mitarbeiter wünsche reagieren, mehr auf Kranke achten .. die kollegen suchen sich ihre krankheiten nicht aus..Bitte ernst nehmen"
+      },
+      "factor_comments": {
+        "atmosphere": "Vor 2020 war es Besser",
+        "image": "Leider kennt kaum einer Kulzer",
+        "salary": "Gutes gehalt, gute bonis..",
+        "teamwork": "Seid dem die alten Kollegen nicht mehr sind, ist der Zusammenhalt nur noch furchtbar",
+        "oldColleagues": "In mein Augen und meine Ansicht und die Vertrete ich auch..Furchtbar!!!",
+        "leadership": "Sollte meines erachtens auf eine Schulung geschickt werden.. der Kleine Vorarbeiter geht noch, aber oben ...schulen bitte",
+        "workConditions": "Nach dem 5S die der Ehemalige Kollege eingeführt hat, hat man ea auch leichter gehabt etwas zu finden und auch schneller",
+        "communication": "Man muss nachfragen",
+        "equality": "Aus meiner erfahrung, kannste gut mit dem Kleinen Vorgesetzten kannste glück haben und wirst gut behandelt, aber nur solange er etwas von dir möchte",
+        "tasks": "Vielfälltig aber nicht Interessant"
+      },
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-11-03T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    }
+  ],
+  "review_limit": 15,
+  "review_period": {
+    "since": "2024-11-25T00:00:00+00:00",
+    "until": "2026-11-25T17:14:10.142750+00:00",
+    "date_field": "published_at",
+    "missing_dates": "excluded"
+  },
+  "factor_scores_aggregated": {
+    "atmosphere": {
+      "mean": 3.0,
+      "count": 11
+    },
+    "workLife": {
+      "mean": 3.27,
+      "count": 11
+    },
+    "communication": {
+      "mean": 2.36,
+      "count": 11
+    },
+    "workConditions": {
+      "mean": 3.27,
+      "count": 11
+    },
+    "leadership": {
+      "mean": 2.64,
+      "count": 11
+    },
+    "teamwork": {
+      "mean": 3.64,
+      "count": 11
+    },
+    "oldColleagues": {
+      "mean": 3.55,
+      "count": 11
+    },
+    "equality": {
+      "mean": 3.36,
+      "count": 11
+    },
+    "career": {
+      "mean": 2.27,
+      "count": 11
+    },
+    "salary": {
+      "mean": 3.64,
+      "count": 11
+    },
+    "image": {
+      "mean": 2.82,
+      "count": 11
+    },
+    "environment": {
+      "mean": 3.27,
+      "count": 11
+    },
+    "tasks": {
+      "mean": 3.09,
+      "count": 11
+    }
+  },
+  "coverage": "bounded_employee_review_sample_last_2_years_not_all_reviews",
+  "diagnostics": {
+    "pages": [
+      {
+        "page": "reviews",
+        "page_number": 1,
+        "load_more_clicks": 0,
+        "requested_url": "https://www.kununu.com/de/kulzer-mitsui-chemicals-group/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Kulzer-eab975bf\\browser\\reviews.html",
+        "browser_step": 20,
+        "final_url": "https://www.kununu.com/de/kulzer-mitsui-chemicals-group/kommentare",
+        "observed_at": "2026-11-25T17:14:11.692036+00:00",
+        "http_status": 200,
+        "factor_cards_expanded": 3,
+        "reviews_collected": 10
+      },
+      {
+        "page": "reviews",
+        "page_number": 2,
+        "load_more_clicks": 1,
+        "requested_url": "https://www.kununu.com/de/kulzer-mitsui-chemicals-group/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Kulzer-eab975bf\\browser\\reviews-2.html",
+        "browser_step": 21,
+        "final_url": "https://www.kununu.com/de/kulzer-mitsui-chemicals-group/kommentare",
+        "observed_at": "2026-11-25T17:14:13.343387+00:00",
+        "actions_complete": true,
+        "factor_cards_expanded": 1,
+        "reviews_collected": 15
+      }
+    ]
+  },
+  "source_url": "https://www.kununu.com/de/kulzer-mitsui-chemicals-group",
+  "profile_source": "https://www.kununu.com/de/kulzer-mitsui-chemicals-group/kommentare",
+  "review_stop_reason": "sample_limit_reached",
+  "factor_score_coverage": {
+    "reviews_with_scores": 11,
+    "reviews_without_scores": 4,
+    "reviews_with_all_known_scores": 11,
+    "status": "partial"
+  },
+  "request_limits": {
+    "max_browser_steps": 295,
+    "browser_steps": 21,
+    "zyte_requests": 0
+  },
+  "reason": null
+}

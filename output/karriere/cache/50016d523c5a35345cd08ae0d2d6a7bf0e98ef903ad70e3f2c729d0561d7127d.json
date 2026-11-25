@@ -1,0 +1,15 @@
+{
+  "url": "https://www.avendis.com/robots.txt",
+  "final_url": "https://avendis.com/robots.txt",
+  "redirects": [
+    {
+      "source": "https://www.avendis.com/robots.txt",
+      "target": "https://avendis.com/robots.txt",
+      "status": 301
+    }
+  ],
+  "status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "fetched_at": "2026-11-25T16:13:39.065223+00:00",
+  "text": "# START AVENDIS BLOCK\nUser-agent: *\nDisallow: /?s=\nDisallow: /*?s=\nDisallow: /search/\n# END AVENDIS BLOCK\n\n# START YOAST BLOCK\n# ---------------------------\nUser-agent: *\nDisallow:\n\nSitemap: https://avendis.com/sitemap_index.xml\n# ---------------------------\n# END YOAST BLOCK"
+}

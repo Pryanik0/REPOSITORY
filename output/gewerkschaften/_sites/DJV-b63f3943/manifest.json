@@ -1,0 +1,311 @@
+{
+  "status": "partial",
+  "provider": "gewerkschaften",
+  "date_from": "2026-05-25",
+  "pdf_download_policy": "company_in_link_metadata_or_filename",
+  "date_to": "2026-11-25",
+  "articles": [],
+  "visited": [
+    "https://www.djv.de/news/pressemitteilungen/",
+    "https://www.djv.de/suche/?tx_solr%5Bq%5D=OVB+MEDIA",
+    "https://www.djv.de/",
+    "https://www.djv.de/der-djv/ueber-den-djv/",
+    "https://www.djv.de/der-djv/ueber-den-djv/djv-gremien/",
+    "https://www.djv.de/der-djv/ueber-den-djv/fachausschuesse-und-kommissionen/",
+    "https://www.djv.de/der-djv/ueber-den-djv/fachausschuesse-und-kommissionen/presse-und-oeffentlichkeitsarbeit/",
+    "https://www.djv.de/mitgliederservice/",
+    "https://www.djv.de/einsatzfelder/",
+    "https://www.djv.de/einsatzfelder/presse-und-oeffentlichkeitsarbeit/",
+    "https://www.djv.de/einsatzfelder/presse-und-oeffentlichkeitsarbeit/leitfaden-presse-und-oeffentlichkeitsarbeit/",
+    "https://www.djv.de/einsatzfelder/presse-und-oeffentlichkeitsarbeit/positionspapier-mit-gpra-young-professionals/",
+    "https://www.djv.de/einsatzfelder/tageszeitungen-zeitschriften-nachrichtenagenturen/",
+    "https://www.djv.de/einsatzfelder/tageszeitungen-zeitschriften-nachrichtenagenturen/tarifverhandlungen-tageszeitungen-2025/",
+    "https://www.djv.de/medienpolitik/",
+    "https://www.djv.de/medienpolitik/djv-forderungen-an-die-politik/",
+    "https://www.djv.de/medienpolitik/djv-forderungen-an-die-politik/solidaritaetsfonds-zur-durchsetzung-der-pressefreiheit/",
+    "https://www.djv.de/medienpolitik/verfassungsbeschwerde-gegen-abhoerung-von-pressetelefon/",
+    "https://www.djv.de/medienpolitik/nachrichtendienstrechtsreform/",
+    "https://www.djv.de/medienpolitik/presserechtlicher-auskunftsanspruch/",
+    "https://www.djv.de/medienpolitik/presseauskunftsanspruch/",
+    "https://www.djv.de/medienpolitik/pressefreiheit/",
+    "https://www.djv.de/medienpolitik/pressefreiheit/medienschaffende-und-polizeieinsatzkraefte/",
+    "https://www.djv.de/news/",
+    "https://www.djv.de/medienpolitik/digitale-gewalt/",
+    "https://www.djv.de/medienpolitik/pressefreiheit/media-dialogue-eastern-partnership/",
+    "https://www.djv.de/medienpolitik/kuenstliche-intelligenz/",
+    "https://www.djv.de/medienpolitik/desinformation/",
+    "https://www.djv.de/medienpolitik/desinformation/stopptfakenews-die-politische-forderungen-des-djv/",
+    "https://www.djv.de/der-djv/ueber-den-djv/grundsatzprogramm/",
+    "https://www.djv.de/der-djv/ueber-den-djv/satzung-und-regelwerke/",
+    "https://www.djv.de/der-djv/ueber-den-djv/75-jahre-djv/",
+    "https://www.djv.de/der-djv/ueber-den-djv/djv-gremien/verbandstag/",
+    "https://www.djv.de/der-djv/ueber-den-djv/fachausschuesse-und-kommissionen/betriebsratsarbeit-und-tageszeitungen/",
+    "https://www.djv.de/der-djv/ueber-den-djv/djv-gremien/gesamtvorstand/",
+    "https://www.djv.de/der-djv/ueber-den-djv/djv-gremien/bundesvorstand/",
+    "https://www.djv.de/der-djv/ueber-den-djv/fachausschuesse-und-kommissionen/zeitschriften/",
+    "https://www.djv.de/der-djv/ueber-den-djv/fachausschuesse-und-kommissionen/freie-journalistinnen/",
+    "https://www.djv.de/der-djv/ueber-den-djv/fachausschuesse-und-kommissionen/chancengleichheit-und-diversity/",
+    "https://www.djv.de/mitgliederservice/mitgliederbereich/",
+    "https://www.djv.de/mitgliederservice/mitgliederbereich/?return_url=%2Fmitgliederservice%2Fmitgliederbereich%2Findex%2Fweitere-services%2Ftarife-honorare-streikunterstuetzung-downloads%2F",
+    "https://www.djv.de/einsatzfelder/tarife-honorare/",
+    "https://www.djv.de/medienpolitik/kuenstliche-intelligenz/sz-klage/",
+    "https://www.djv.de/medienpolitik/kuenstliche-intelligenz/ki-und-europa/",
+    "https://www.djv.de/einsatzfelder/freier-journalismus/",
+    "https://www.djv.de/einsatzfelder/chancengleichheit-diversity/",
+    "https://www.djv.de/einsatzfelder/rundfunk/",
+    "https://www.djv.de/einsatzfelder/rundfunk/tarifverhandlungen-2024/",
+    "https://www.djv.de/mitgliederservice/mitgliederbereich/index/weitere-services/freieninfo-plus",
+    "https://www.djv.de/der-djv/ueber-den-djv/fachausschuesse-und-kommissionen/rundfunk/",
+    "https://www.djv.de/news/pressemitteilungen?tx_intcheckout_cart%5Baction%5D=showCartSmall&tx_intcheckout_cart%5Bcontroller%5D=Checkout&type=1602947246"
+  ],
+  "rejected": [
+    {
+      "url": "https://www.djv.de/news/pressemitteilungen/",
+      "reason": "listing_page"
+    },
+    {
+      "url": "https://www.djv.de/suche/?tx_solr%5Bq%5D=OVB+MEDIA",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.djv.de/",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.djv.de/der-djv/ueber-den-djv/",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.djv.de/der-djv/ueber-den-djv/djv-gremien/",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.djv.de/der-djv/ueber-den-djv/fachausschuesse-und-kommissionen/",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.djv.de/der-djv/ueber-den-djv/fachausschuesse-und-kommissionen/presse-und-oeffentlichkeitsarbeit/",
+      "reason": "missing_article_heading"
+    },
+    {
+      "url": "https://www.djv.de/mitgliederservice/",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.djv.de/einsatzfelder/",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.djv.de/einsatzfelder/presse-und-oeffentlichkeitsarbeit/",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.djv.de/einsatzfelder/presse-und-oeffentlichkeitsarbeit/leitfaden-presse-und-oeffentlichkeitsarbeit/",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.djv.de/einsatzfelder/presse-und-oeffentlichkeitsarbeit/positionspapier-mit-gpra-young-professionals/",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.djv.de/einsatzfelder/tageszeitungen-zeitschriften-nachrichtenagenturen/",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.djv.de/einsatzfelder/tageszeitungen-zeitschriften-nachrichtenagenturen/tarifverhandlungen-tageszeitungen-2025/",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.djv.de/medienpolitik/",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.djv.de/medienpolitik/djv-forderungen-an-die-politik/",
+      "reason": "missing_article_heading"
+    },
+    {
+      "url": "https://www.djv.de/medienpolitik/djv-forderungen-an-die-politik/solidaritaetsfonds-zur-durchsetzung-der-pressefreiheit/",
+      "reason": "missing_article_heading"
+    },
+    {
+      "url": "https://www.djv.de/medienpolitik/verfassungsbeschwerde-gegen-abhoerung-von-pressetelefon/",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.djv.de/medienpolitik/nachrichtendienstrechtsreform/",
+      "reason": "missing_article_heading"
+    },
+    {
+      "url": "https://www.djv.de/medienpolitik/presserechtlicher-auskunftsanspruch/",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.djv.de/medienpolitik/presseauskunftsanspruch/",
+      "reason": "missing_article_heading"
+    },
+    {
+      "url": "https://www.djv.de/medienpolitik/pressefreiheit/",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.djv.de/medienpolitik/pressefreiheit/medienschaffende-und-polizeieinsatzkraefte/",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.djv.de/news/",
+      "reason": "listing_page"
+    },
+    {
+      "url": "https://www.djv.de/medienpolitik/digitale-gewalt/",
+      "reason": "missing_article_heading"
+    },
+    {
+      "url": "https://www.djv.de/medienpolitik/pressefreiheit/media-dialogue-eastern-partnership/",
+      "reason": "missing_article_heading"
+    },
+    {
+      "url": "https://www.djv.de/medienpolitik/kuenstliche-intelligenz/",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.djv.de/medienpolitik/desinformation/",
+      "reason": "missing_article_heading"
+    },
+    {
+      "url": "https://www.djv.de/medienpolitik/desinformation/stopptfakenews-die-politische-forderungen-des-djv/",
+      "reason": "missing_article_heading"
+    },
+    {
+      "url": "https://www.djv.de/der-djv/ueber-den-djv/grundsatzprogramm/",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.djv.de/der-djv/ueber-den-djv/satzung-und-regelwerke/",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.djv.de/der-djv/ueber-den-djv/75-jahre-djv/",
+      "reason": "missing_article_heading"
+    },
+    {
+      "url": "https://www.djv.de/der-djv/ueber-den-djv/djv-gremien/verbandstag/",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.djv.de/der-djv/ueber-den-djv/fachausschuesse-und-kommissionen/betriebsratsarbeit-und-tageszeitungen/",
+      "reason": "missing_article_heading"
+    },
+    {
+      "url": "https://www.djv.de/der-djv/ueber-den-djv/djv-gremien/gesamtvorstand/",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.djv.de/der-djv/ueber-den-djv/djv-gremien/bundesvorstand/",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.djv.de/der-djv/ueber-den-djv/fachausschuesse-und-kommissionen/zeitschriften/",
+      "reason": "missing_article_heading"
+    },
+    {
+      "url": "https://www.djv.de/der-djv/ueber-den-djv/fachausschuesse-und-kommissionen/freie-journalistinnen/",
+      "reason": "missing_article_heading"
+    },
+    {
+      "url": "https://www.djv.de/der-djv/ueber-den-djv/fachausschuesse-und-kommissionen/chancengleichheit-und-diversity/",
+      "reason": "missing_article_heading"
+    },
+    {
+      "url": "https://www.djv.de/mitgliederservice/mitgliederbereich/",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.djv.de/mitgliederservice/mitgliederbereich/?return_url=%2Fmitgliederservice%2Fmitgliederbereich%2Findex%2Fweitere-services%2Ftarife-honorare-streikunterstuetzung-downloads%2F",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.djv.de/einsatzfelder/tarife-honorare/",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.djv.de/medienpolitik/kuenstliche-intelligenz/sz-klage/",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.djv.de/medienpolitik/kuenstliche-intelligenz/ki-und-europa/",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.djv.de/einsatzfelder/freier-journalismus/",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.djv.de/einsatzfelder/rundfunk/",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.djv.de/einsatzfelder/rundfunk/tarifverhandlungen-2024/",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.djv.de/der-djv/ueber-den-djv/fachausschuesse-und-kommissionen/rundfunk/",
+      "reason": "missing_article_heading"
+    },
+    {
+      "url": "https://www.djv.de/news/pressemitteilungen?tx_intcheckout_cart%5Baction%5D=showCartSmall&tx_intcheckout_cart%5Bcontroller%5D=Checkout&type=1602947246",
+      "reason": "missing_article_heading"
+    }
+  ],
+  "errors": [
+    {
+      "url": "https://www.djv.de/einsatzfelder/chancengleichheit-diversity/",
+      "error": "CrawlError: Browser-Weiterleitung außerhalb der Quelldomains."
+    },
+    {
+      "url": "https://www.djv.de/mitgliederservice/mitgliederbereich/index/weitere-services/freieninfo-plus",
+      "error": "CrawlError: Browser HTTP 403: https://www.djv.de/mitgliederservice/mitgliederbereich/index/weitere-services/freieninfo-plus; Seite nicht verfügbar oder Sicherheitsprüfung erforderlich."
+    }
+  ],
+  "truncated": true,
+  "searches": [
+    {
+      "url": "https://www.djv.de/suche/?tx_solr%5Bq%5D=OVB+MEDIA",
+      "company_key": "OVB MEDIA",
+      "query": "OVB MEDIA",
+      "mechanism": "get_form",
+      "status": "fetched"
+    }
+  ],
+  "company_keys": [
+    "OVB MEDIA"
+  ],
+  "search_mode": "site_search",
+  "articles_examined": 0,
+  "page_coverage": {
+    "search_pages": 1,
+    "content_pages": 50,
+    "search_page_limit": 15,
+    "content_page_limit": 50,
+    "queued_remaining": 320,
+    "queue_limit_reached": false
+  },
+  "documents": [],
+  "requests_attempted": 198,
+  "gewerkschaft": {
+    "name": "DJV",
+    "branches": [
+      "Journalisten und Medien"
+    ],
+    "urls": [
+      "https://www.djv.de/"
+    ],
+    "news_urls": [
+      "https://www.djv.de/news/pressemitteilungen/"
+    ],
+    "url_prefixes": [],
+    "query_values": {},
+    "source_note": "",
+    "source_name": "",
+    "site_search": true
+  }
+}

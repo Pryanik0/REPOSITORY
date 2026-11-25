@@ -1,0 +1,748 @@
+{
+  "status": "complete",
+  "provider": "gewerkschaften",
+  "date_from": "2026-05-25",
+  "pdf_download_policy": "company_in_link_metadata_or_filename",
+  "date_to": "2026-11-25",
+  "articles": [],
+  "visited": [
+    "https://www.presseportal.de/nr/56813",
+    "https://www.presseportal.de/rss/pm_56813.rss2?langid=1",
+    "https://www.presseportal.de/nr/56813?search=mediCAD",
+    "https://www.presseportal.de/nr/56813?search=elderbrook+solutions",
+    "https://www.presseportal.de/nr/56813?search=Kyowa+Kirin+International",
+    "https://www.presseportal.de/nr/56813?search=Recor+Medical",
+    "https://www.presseportal.de/nr/56813?search=Daiichi+Sankyo+Europe",
+    "https://www.presseportal.de/nr/56813?search=WINDSTAR+MEDICAL",
+    "https://www.presseportal.de/nr/56813?search=Centrient+Pharmaceuticals",
+    "https://www.presseportal.de/nr/56813?search=HERMES+PHARMA",
+    "https://www.presseportal.de/nr/56813?search=LINK",
+    "https://www.presseportal.de/nr/56813?search=Kulzer",
+    "https://www.presseportal.de/nr/56813?search=Novaled",
+    "https://www.presseportal.de/nr/56813?search=Klosterfrau+Healthcare",
+    "https://www.presseportal.de/nr/56813?search=Dr.+Pfleger+Arzneimittel",
+    "https://www.presseportal.de/nr/56813?search=Resuscitec",
+    "https://www.presseportal.de/nr/56813?search=Medicon",
+    "https://www.presseportal.de/nr/56813?search=XION",
+    "https://www.presseportal.de/nr/56813?search=Charite+Research+Organisation",
+    "https://www.presseportal.de/nr/56813?search=Finzelberg",
+    "https://www.presseportal.de/nr/56813?search=KOB",
+    "https://www.presseportal.de/nr/56813?search=SGL+Carbon",
+    "https://www.presseportal.de/nr/56813?search=Berg-Energie",
+    "https://www.presseportal.de/nr/56813?search=Hasse",
+    "https://www.presseportal.de/nr/56813?search=bmedx",
+    "https://www.presseportal.de/nr/56813?search=Gerresheimer+B%C3%BCnde+GmbH",
+    "https://www.presseportal.de/nr/56813?search=mediCAD+Hectec+GmbH",
+    "https://www.presseportal.de/nr/56813?search=elderbrook+solutions+GmbH",
+    "https://www.presseportal.de/nr/56813?search=Kyowa+Kirin+GmbH",
+    "https://www.presseportal.de/nr/56813?search=Recor+Medical+Europe+GmbH",
+    "https://www.presseportal.de/nr/56813?search=Daiichi+Sankyo+Europe+GmbH",
+    "https://www.presseportal.de/nr/56813?search=WindStar+Medical+GmbH",
+    "https://www.presseportal.de/nr/56813?search=Centrient+Pharmaceuticals+Netherlands+B.V.",
+    "https://www.presseportal.de/nr/56813?search=HERMES+PHARMA+GmbH",
+    "https://www.presseportal.de/nr/56813?search=Waldemar+Link+GmbH+%26+Co.+KG",
+    "https://www.presseportal.de/nr/56813?search=Kulzer+GmbH",
+    "https://www.presseportal.de/nr/56813?search=Novaled+GmbH",
+    "https://www.presseportal.de/nr/56813?search=Maria+Clementine+Martin+Klosterfrau+Vertriebsgesellschaft+mbH",
+    "https://www.presseportal.de/nr/56813?search=Dr.+Pfleger+Arzneimittel+GmbH",
+    "https://www.presseportal.de/nr/56813?search=Resuscitec+GmbH",
+    "https://www.presseportal.de/nr/56813?search=Medicon+eG.+Chirurgiemechaniker-Genossenschaft",
+    "https://www.presseportal.de/nr/56813?search=XION+GmbH",
+    "https://www.presseportal.de/nr/56813?search=Charit%C3%A9+Research+Organisation+GmbH",
+    "https://www.presseportal.de/nr/56813?search=Finzelberg+GmbH+%26+Co.+KG",
+    "https://www.presseportal.de/nr/56813?search=KOB+GmbH",
+    "https://www.presseportal.de/nr/56813?search=SGL+Carbon+SE",
+    "https://www.presseportal.de/nr/56813?search=Daiichi+Sankyo+Deutschland+GmbH",
+    "https://www.presseportal.de/nr/56813?search=MCM+Klosterfrau+Vertriebsgesellschaft+mbH",
+    "https://www.presseportal.de/nr/56813?search=Medicon+eG",
+    "https://www.presseportal.de/nr/56813?search=Karl+Otto+Braun",
+    "https://www.presseportal.de/nr/56813?search=Waldemar+Link+GmbH+&+Co.+KG=",
+    "https://www.presseportal.de/nr/56813?search=Finzelberg+GmbH+&+Co.+KG=",
+    "https://www.presseportal.de/nr/56813?search=Waldemar+Link+GmbH",
+    "https://www.presseportal.de/nr/56813?search=Finzelberg+GmbH",
+    "https://www.presseportal.de/pm/56813/6364813",
+    "https://www.presseportal.de/pm/56813/6396814",
+    "https://www.presseportal.de/pm/56813/6388758",
+    "https://www.presseportal.de/pm/56813/6384643",
+    "https://www.presseportal.de/pm/56813/6376630",
+    "https://www.presseportal.de/pm/56813/6359541",
+    "https://www.presseportal.de/pm/56813/6332130",
+    "https://www.presseportal.de/pm/56813/6316826",
+    "https://www.presseportal.de/pm/56813/6308037",
+    "https://www.presseportal.de/pm/56813/6307050",
+    "https://www.presseportal.de/pm/56813/6300987",
+    "https://www.presseportal.de/pm/56813/6300135"
+  ],
+  "rejected": [
+    {
+      "url": "https://www.presseportal.de/nr/56813",
+      "reason": "listing_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=mediCAD",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=elderbrook+solutions",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Kyowa+Kirin+International",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Recor+Medical",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Daiichi+Sankyo+Europe",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=WINDSTAR+MEDICAL",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Centrient+Pharmaceuticals",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=HERMES+PHARMA",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=LINK",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Kulzer",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Novaled",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Klosterfrau+Healthcare",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Dr.+Pfleger+Arzneimittel",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Resuscitec",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Medicon",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=XION",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Charite+Research+Organisation",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Finzelberg",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=KOB",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=SGL+Carbon",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Berg-Energie",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Hasse",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=bmedx",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Gerresheimer+B%C3%BCnde+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=mediCAD+Hectec+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=elderbrook+solutions+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Kyowa+Kirin+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Recor+Medical+Europe+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Daiichi+Sankyo+Europe+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=WindStar+Medical+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Centrient+Pharmaceuticals+Netherlands+B.V.",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=HERMES+PHARMA+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Waldemar+Link+GmbH+%26+Co.+KG",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Kulzer+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Novaled+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Maria+Clementine+Martin+Klosterfrau+Vertriebsgesellschaft+mbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Dr.+Pfleger+Arzneimittel+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Resuscitec+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Medicon+eG.+Chirurgiemechaniker-Genossenschaft",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=XION+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Charit%C3%A9+Research+Organisation+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Finzelberg+GmbH+%26+Co.+KG",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=KOB+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=SGL+Carbon+SE",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Daiichi+Sankyo+Deutschland+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=MCM+Klosterfrau+Vertriebsgesellschaft+mbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Medicon+eG",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Karl+Otto+Braun",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Waldemar+Link+GmbH+&+Co.+KG=",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Finzelberg+GmbH+&+Co.+KG=",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Waldemar+Link+GmbH",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Finzelberg+GmbH",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.presseportal.de/pm/56813/6364813",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.presseportal.de/pm/56813/6396814",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.presseportal.de/pm/56813/6388758",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.presseportal.de/pm/56813/6384643",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.presseportal.de/pm/56813/6376630",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.presseportal.de/pm/56813/6359541",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.presseportal.de/pm/56813/6332130",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.presseportal.de/pm/56813/6316826",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.presseportal.de/pm/56813/6308037",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.presseportal.de/pm/56813/6307050",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.presseportal.de/pm/56813/6300987",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.presseportal.de/pm/56813/6300135",
+      "reason": "no_company_mention"
+    }
+  ],
+  "errors": [],
+  "truncated": false,
+  "searches": [
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=mediCAD",
+      "company_key": "mediCAD",
+      "query": "mediCAD",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=mediCAD+Hectec+GmbH",
+      "company_key": "mediCAD",
+      "query": "mediCAD Hectec GmbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=elderbrook+solutions",
+      "company_key": "elderbrook solutions",
+      "query": "elderbrook solutions",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=elderbrook+solutions+GmbH",
+      "company_key": "elderbrook solutions",
+      "query": "elderbrook solutions GmbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Kyowa+Kirin+International",
+      "company_key": "Kyowa Kirin International",
+      "query": "Kyowa Kirin International",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Kyowa+Kirin+GmbH",
+      "company_key": "Kyowa Kirin International",
+      "query": "Kyowa Kirin GmbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Recor+Medical",
+      "company_key": "Recor Medical",
+      "query": "Recor Medical",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Recor+Medical+Europe+GmbH",
+      "company_key": "Recor Medical",
+      "query": "Recor Medical Europe GmbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Daiichi+Sankyo+Europe",
+      "company_key": "Daiichi Sankyo Europe",
+      "query": "Daiichi Sankyo Europe",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Daiichi+Sankyo+Europe+GmbH",
+      "company_key": "Daiichi Sankyo Europe",
+      "query": "Daiichi Sankyo Europe GmbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Daiichi+Sankyo+Deutschland+GmbH",
+      "company_key": "Daiichi Sankyo Europe",
+      "query": "Daiichi Sankyo Deutschland GmbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=WINDSTAR+MEDICAL",
+      "company_key": "WINDSTAR MEDICAL",
+      "query": "WINDSTAR MEDICAL",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=WindStar+Medical+GmbH",
+      "company_key": "WINDSTAR MEDICAL",
+      "query": "WindStar Medical GmbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Centrient+Pharmaceuticals",
+      "company_key": "Centrient Pharmaceuticals",
+      "query": "Centrient Pharmaceuticals",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Centrient+Pharmaceuticals+Netherlands+B.V.",
+      "company_key": "Centrient Pharmaceuticals",
+      "query": "Centrient Pharmaceuticals Netherlands B.V.",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=HERMES+PHARMA",
+      "company_key": "HERMES PHARMA",
+      "query": "HERMES PHARMA",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=HERMES+PHARMA+GmbH",
+      "company_key": "HERMES PHARMA",
+      "query": "HERMES PHARMA GmbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=LINK",
+      "company_key": "LINK",
+      "query": "LINK",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Waldemar+Link+GmbH+%26+Co.+KG",
+      "company_key": "LINK",
+      "query": "Waldemar Link GmbH & Co. KG",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Kulzer",
+      "company_key": "Kulzer",
+      "query": "Kulzer",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Kulzer+GmbH",
+      "company_key": "Kulzer",
+      "query": "Kulzer GmbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Novaled",
+      "company_key": "Novaled",
+      "query": "Novaled",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Novaled+GmbH",
+      "company_key": "Novaled",
+      "query": "Novaled GmbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Klosterfrau+Healthcare",
+      "company_key": "Klosterfrau Healthcare",
+      "query": "Klosterfrau Healthcare",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Maria+Clementine+Martin+Klosterfrau+Vertriebsgesellschaft+mbH",
+      "company_key": "Klosterfrau Healthcare",
+      "query": "Maria Clementine Martin Klosterfrau Vertriebsgesellschaft mbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=MCM+Klosterfrau+Vertriebsgesellschaft+mbH",
+      "company_key": "Klosterfrau Healthcare",
+      "query": "MCM Klosterfrau Vertriebsgesellschaft mbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Dr.+Pfleger+Arzneimittel",
+      "company_key": "Dr. Pfleger Arzneimittel",
+      "query": "Dr. Pfleger Arzneimittel",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Dr.+Pfleger+Arzneimittel+GmbH",
+      "company_key": "Dr. Pfleger Arzneimittel",
+      "query": "Dr. Pfleger Arzneimittel GmbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Resuscitec",
+      "company_key": "Resuscitec",
+      "query": "Resuscitec",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Resuscitec+GmbH",
+      "company_key": "Resuscitec",
+      "query": "Resuscitec GmbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Medicon",
+      "company_key": "Medicon",
+      "query": "Medicon",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Medicon+eG.+Chirurgiemechaniker-Genossenschaft",
+      "company_key": "Medicon",
+      "query": "Medicon eG. Chirurgiemechaniker-Genossenschaft",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Medicon+eG",
+      "company_key": "Medicon",
+      "query": "Medicon eG",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=XION",
+      "company_key": "XION",
+      "query": "XION",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=XION+GmbH",
+      "company_key": "XION",
+      "query": "XION GmbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Charite+Research+Organisation",
+      "company_key": "Charite Research Organisation",
+      "query": "Charite Research Organisation",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Charit%C3%A9+Research+Organisation+GmbH",
+      "company_key": "Charite Research Organisation",
+      "query": "Charité Research Organisation GmbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Finzelberg",
+      "company_key": "Finzelberg",
+      "query": "Finzelberg",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Finzelberg+GmbH+%26+Co.+KG",
+      "company_key": "Finzelberg",
+      "query": "Finzelberg GmbH & Co. KG",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=KOB",
+      "company_key": "KOB",
+      "query": "KOB",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=KOB+GmbH",
+      "company_key": "KOB",
+      "query": "KOB GmbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Karl+Otto+Braun",
+      "company_key": "KOB",
+      "query": "Karl Otto Braun",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=SGL+Carbon",
+      "company_key": "SGL Carbon",
+      "query": "SGL Carbon",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=SGL+Carbon+SE",
+      "company_key": "SGL Carbon",
+      "query": "SGL Carbon SE",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Berg-Energie",
+      "company_key": "Berg-Energie",
+      "query": "Berg-Energie",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Hasse",
+      "company_key": "Hasse",
+      "query": "Hasse",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=bmedx",
+      "company_key": "bmedx",
+      "query": "bmedx",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.presseportal.de/nr/56813?search=Gerresheimer+B%C3%BCnde+GmbH",
+      "company_key": "Gerresheimer Bünde GmbH",
+      "query": "Gerresheimer Bünde GmbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    }
+  ],
+  "company_keys": [
+    "mediCAD",
+    "elderbrook solutions",
+    "Kyowa Kirin International",
+    "Recor Medical",
+    "Daiichi Sankyo Europe",
+    "WINDSTAR MEDICAL",
+    "Centrient Pharmaceuticals",
+    "HERMES PHARMA",
+    "LINK",
+    "Kulzer",
+    "Novaled",
+    "Klosterfrau Healthcare",
+    "Dr. Pfleger Arzneimittel",
+    "Resuscitec",
+    "Medicon",
+    "XION",
+    "Charite Research Organisation",
+    "Finzelberg",
+    "KOB",
+    "SGL Carbon",
+    "Berg-Energie",
+    "Hasse",
+    "bmedx",
+    "Gerresheimer Bünde GmbH"
+  ],
+  "search_mode": "site_search",
+  "articles_examined": 12,
+  "page_coverage": {
+    "search_pages": 48,
+    "content_pages": 18,
+    "search_page_limit": 48,
+    "content_page_limit": 50,
+    "queued_remaining": 0,
+    "queue_limit_reached": false
+  },
+  "documents": [],
+  "requests_attempted": 67,
+  "gewerkschaft": {
+    "name": "IG BCE",
+    "branches": [
+      "Chemieindustrie",
+      "Biotechnologie",
+      "Energie & Wasser",
+      "Glasindustrie",
+      "Kunststoffindustrie",
+      "Keramikindustrie",
+      "Pharma & Medizintechnik"
+    ],
+    "urls": [
+      "https://www.igbce.de"
+    ],
+    "news_urls": [
+      "https://www.presseportal.de/nr/56813",
+      "https://www.presseportal.de/rss/pm_56813.rss2?langid=1"
+    ],
+    "url_prefixes": [
+      "https://www.presseportal.de/nr/56813",
+      "https://www.presseportal.de/pm/56813",
+      "https://www.presseportal.de/rss/pm_56813.rss2"
+    ],
+    "query_values": {
+      "langid": [
+        "1"
+      ]
+    },
+    "source_note": "Offizieller IGBCE-Presseraum auf Presseportal (igbce.de sperrt den Crawler).",
+    "source_name": "",
+    "site_search": true
+  }
+}

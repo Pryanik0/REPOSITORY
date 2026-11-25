@@ -1,0 +1,9 @@
+{
+  "url": "https://elderbrook-solutions-gmbh.jobs.personio.de/xml",
+  "final_url": "https://elderbrook-solutions-gmbh.jobs.personio.de/xml",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/xml",
+  "fetched_at": "2026-11-25T16:00:47.901036+00:00",
+  "text": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n\n<workzag-jobs>\n\n\n</workzag-jobs>"
+}

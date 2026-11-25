@@ -1,0 +1,123 @@
+{
+  "provider": "gewerkschaften",
+  "status": "partial",
+  "company": {
+    "key": "Kyowa Kirin International",
+    "name": "Kyowa Kirin GmbH",
+    "location": "Düsseldorf",
+    "name_source": "company_name",
+    "urls": [
+      "https://kyowakirininternational.com/"
+    ],
+    "kununu_url": "https://www.kununu.com/de/kyowa-kirin-duesseldorf",
+    "branches": [
+      "Pharma & Medizintechnik"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "40549",
+    "street": "Monschauer Straße 1",
+    "region": "Nordrhein-Westfalen",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "relevance": "company_mention",
+  "date_from": "2026-05-25",
+  "date_to": "2026-11-25",
+  "search_terms": [
+    "Kyowa Kirin International",
+    "Kyowa Kirin GmbH"
+  ],
+  "truncated": true,
+  "associations": [
+    {
+      "name": "IG BCE",
+      "status": "complete",
+      "manifest": "output\\gewerkschaften\\_sites\\IG-BCE-3b602192\\manifest.json",
+      "phase": "primary",
+      "fallback_reason": null,
+      "search_mode": "site_search",
+      "searches": [
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=Kyowa+Kirin+International",
+          "company_key": "Kyowa Kirin International",
+          "query": "Kyowa Kirin International",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=Kyowa+Kirin+GmbH",
+          "company_key": "Kyowa Kirin International",
+          "query": "Kyowa Kirin GmbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        }
+      ]
+    },
+    {
+      "name": "DGB",
+      "status": "partial",
+      "manifest": "output\\gewerkschaften\\_sites\\DGB-df3cffd4\\fallback\\manifest.json",
+      "phase": "fallback",
+      "fallback_reason": "no_primary_articles",
+      "search_mode": "site_search",
+      "searches": [
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Kyowa+Kirin+International",
+          "company_key": "Kyowa Kirin International",
+          "query": "Kyowa Kirin International",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Kyowa+Kirin+GmbH",
+          "company_key": "Kyowa Kirin International",
+          "query": "Kyowa Kirin GmbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        }
+      ]
+    },
+    {
+      "name": "ver.di",
+      "status": "partial",
+      "manifest": "output\\gewerkschaften\\_sites\\ver-di-51994702\\fallback\\manifest.json",
+      "phase": "fallback",
+      "fallback_reason": "no_primary_articles",
+      "search_mode": "site_search",
+      "searches": [
+        {
+          "url": "https://www.verdi.de/suche?q=Kyowa+Kirin+International",
+          "company_key": "Kyowa Kirin International",
+          "query": "Kyowa Kirin International",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Kyowa+Kirin+GmbH",
+          "company_key": "Kyowa Kirin International",
+          "query": "Kyowa Kirin GmbH",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        }
+      ]
+    }
+  ],
+  "article_count": 0,
+  "articles": [],
+  "pdfs": {
+    "download_policy": "company_in_link_metadata_or_filename",
+    "downloaded_on_sources": 0,
+    "mentioning_company": 0,
+    "retained_as_articles": 0,
+    "index_path": null
+  },
+  "search_coverage": {
+    "fetched": 6,
+    "error": 0,
+    "not_attempted": 0,
+    "ignored_query": 0,
+    "sites_without_search": 0
+  },
+  "reason": "search_incomplete"
+}

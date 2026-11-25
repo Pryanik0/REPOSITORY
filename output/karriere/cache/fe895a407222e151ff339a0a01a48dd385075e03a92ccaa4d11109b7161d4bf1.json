@@ -1,0 +1,9 @@
+{
+  "url": "https://www.diakonie-duesseldorf.de/robots.txt",
+  "final_url": "https://www.diakonie-duesseldorf.de/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "fetched_at": "2026-11-25T16:15:37.518059+00:00",
+  "text": "User-Agent: *\nAllow: /\nDisallow: /typo3/\nAllow: /typo3/sysext/frontend/Resources/Public/*\nDisallow: /typo3conf/\nAllow: /typo3conf/ext/\nDisallow: /*?id=*\nDisallow: /*tx_powermail_pi1\nDisallow: /ajax.call?*\nUser-agent: Twitterbot\nDisallow:\nSitemap: https://ddd-2025.local/sitemap.xml\n"
+}

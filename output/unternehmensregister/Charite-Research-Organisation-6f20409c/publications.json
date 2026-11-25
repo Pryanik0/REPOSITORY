@@ -1,0 +1,400 @@
+{
+  "company": {
+    "key": "Charite Research Organisation",
+    "name": "Charité Research Organisation GmbH",
+    "location": "Berlin",
+    "name_source": "company_name",
+    "urls": [
+      "https://www.charite-research.org/"
+    ],
+    "kununu_url": "https://www.kununu.com/de/charite-research-organisation6",
+    "branches": [
+      "Pharma & Medizintechnik"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "10117",
+    "street": "Charitéplatz 1",
+    "region": "Berlin",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:45:19.887835+00:00",
+  "searches": [
+    {
+      "accounting_only": true,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=Charit%C3%A9+Research+Organisation+GmbH&companyLocation=Berlin&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ACCOUNTING&drilldownFilter=22&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": false
+    },
+    {
+      "accounting_only": false,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=Charit%C3%A9+Research+Organisation+GmbH&companyLocation=Berlin&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ALL_AREAS&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": false
+    }
+  ],
+  "excluded_company_matches": [
+    {
+      "company": "Charité CFM Facility Management GmbH, Berlin",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-11-24",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=3snnqAV1IC2rawELCuRWp71wR-7wqcOceYEMxMkAOHUkNyTI1oRD_uH6rHpUaAtm1RlZgd0WWu3WAi-1hjfntL2TYYYP9LducAq1On0QcCHB6E9rvcl5S70vTJdjprIQNerC4scHLX-AzXMjh6u0XcA3iPG_zDQa5iHmV7RLJmVFoGgNMLNLxH3MljfIrm_GjzhJKBrttWIZ9FXqpCyWL2wYjO2rwjA7rUZX2_LA4i2a4iw4",
+      "metadata": "Charité CFM Facility Management GmbH, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 24.11.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Charité CFM Facility Management GmbH, Berlin",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-01-21",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=D2HOQqckZDnWRmKaAbXpasb5Qcl3B-cS08cZCv2KF0Q-h8V7wevNVW4d5VMbbSSqEQF69wSrTFL_WP7ORv2yuAljQO7WgL795y0Ha8ADSt3e7ii1Yubuf5RXlTi6EWQ5hOQSIW4Q4BMxp6avAol6a6mDh_0uzmpN6hYQtr87rOAaO972jQ9UfBWxPcZcvZnIGhL2cO5_qfG_T5r8ARBzfwgTQtFC-7Ql8U51mjmwE_14idHC",
+      "metadata": "Charité CFM Facility Management GmbH, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 21.01.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Charité CFM Facility Management GmbH, Berlin",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-12-11",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=nVxpzz3ZoovRd35EPG60cbxjhRgjX4-_BBscwzlCaEA_AdowZ6Icf503VKH6vVULymQAWg53436-0-5_pF9nSq-zb9_RZ1QAfHdHpo5rgr9e8Hk2WEqIgwp5HuGy3sXqLyKWaUIdzky4IEMzXXY108eW4SRz-q4Ku5QpIBUNUP5vBPJ-GEtU8vqHe3_csEwEI_dz3lRdLuZWMqboJ_UQA548GE-g4YHKHt81NvGV0MCpQzSU",
+      "metadata": "Charité CFM Facility Management GmbH, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Berichtigung der Veröffentlichung vom 01.12.2025 Datum: 11.12.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Charité CFM Facility Management GmbH, Berlin",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-12-01",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=mrZcG94cSsrDKv8Mhzj0egDJSrUI9Vadg7j19PSl7USNlf43sQGPacR98Iu8mo1hFxdozL36y68ZvOjsbnNLSdfvGLP4MJmA8TcglUFLw4ThGUXvG1rJmK0XZ37w_46P9jJ10hXM_iTv2mzq5RVopPLhEk3RmdY_nX5pcLPa4Tv-GWj-RVq2nRSdKSbvpHUHh0sAcyTUe47nDbShni7xF-L_ardSNXxOBt2tuwLm9nU4uYRd",
+      "metadata": "Charité CFM Facility Management GmbH, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Ergänzung der Veröffentlichung vom 25.03.2025 Berichtigt am 11.12.2025 Datum: 01.12.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Charité CFM Facility Management GmbH, Berlin",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-03-25",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=Ycsc8TjeLiJZZ0Wht_ig_hcFJ28uGIcWdgeiLhkxFTyQciXgFHw05xZLQdnoeMgivyPdPWcy41jAv5PBU3hxFowk1xQgJacUN7UTZTlxUsMnYMEvYHWKAqRgLJoUx2heimQWQYeDwXuhNU0oRWi0KsRSYmpI0NHQf8HYSN0SxSOVm7yfYcfij3qYr3M_VfrlDU9KPsCI2LFCi0n0sk8gnTE6vCK9Jk92lHaN2Sb55iD5CHiB",
+      "metadata": "Charité CFM Facility Management GmbH, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Ergänzt am 01.12.2025 Datum: 25.03.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Charité CFM Facility Management GmbH, Berlin",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-07-01",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=IpjD8-IJy7ri5dMwlAVrTmvJtLDn6DtBe3BpFBFYU1rf4L7CwKrgW4mzMraLUgXd60IJmer0UNfKF_eCx6PRMg36UjDcGTPtMU2yckYBcYL4IOxBjHehhKqkPuAEIgnecRxIYWGNGMbZ9zvgV5g7U5vBHJZabSodaYSCHUeuPwAChFyE8w3HbiyC3IlaPYr_t1gG_FIlUbg97X6PIy64Z2JZIf3ct5b0tAE6EJRT5BY-hAgl",
+      "metadata": "Charité CFM Facility Management GmbH, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 01.07.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Charité Healthcare Services GmbH, Berlin",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-10-09",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=jRUAlRITV4QZS67AuanS0WEIPM7RZvQVDvSX-MAMlX-BtSvDwDKGLqPrMHNUiFAtvFQm0j6KWZ1Skmyj7dIdutExZh862azu4FOAaF0m_bnzA570sSQlCm2_YFAeh3IsCQ8cjtIANeCiAAQduA7AT0VmqMpxP8pJ0EPmqIXjiyGeKw4Z9_fNjc9-lJbQDmVYgNclSI1eUforaHE45RsBtwS_D5CNd-lA9SoJPHaADcghXeNn",
+      "metadata": "Charité Healthcare Services GmbH, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 09.10.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Charité Healthcare Services GmbH, Berlin",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2024-09-27",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=yT8AKMLMECG15q7bt9Xicm-1VxxW5apf5P_3Fk8nCHzw0ARAGMOCrYoYwSoNih4RlKFLv5EKJkakd_DpmpIKbjnjxtCOdPY5U-3GVWSPKpWSy44bNa5BgyvxJaAko4mvsxdew1F63AhvWgDYCRH_8qJcbRKuICmHX0jUalCHYXcqzOqVo6xeCPmffXk5VroylXNIrWEV1L9XSLpEdaz8TmQ4wUV1F_vMf2MgNErVvP5--Ruk",
+      "metadata": "Charité Healthcare Services GmbH, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 27.09.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Charité - Universitätsmedizin Berlin KöR, Berlin",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-02-03",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=wIbVdHV5krzXLvntafmOb7eJPjQrwfbjlOLD3rNEhKFDeB1qo0WqjWaPFqrOc5Eemsn6Y36ljNw0F_K1slDM4-NExKOLUZCMuHsDyrPpJSFQukBM35IHCHIFa9MiwXHADCslNyvOSRbGTNuA29FLWGf2ELTCKhEkH5t56b9jcuASKyEnk77pF80xuRnoDb2h3T9Zqniik-ssCHTr8yqKKhFU_NY7BOLg-0eje45QBBbTbVQR",
+      "metadata": "Charité - Universitätsmedizin Berlin KöR, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 03.02.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Charité – Universitätsmedizin Berlin KöR, Berlin",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-02-02",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=4xLPb9TESvRfcu8r7hGT21jXXpMAa-WEnkhHj_EOSsFMa6nnn22oKqmCazrri88TGgcy27hPBK8OPZgKEpckjLWnZuTxMumtiOjWcanH_E1XyC5Op8mAXY-8V4HT258HkuxrzFkJDSBOzzl0afPsPlRgvV724ZNcMcteAHP_xwN1dH9BbTlXwo05FFcTzUmhx-8z9IYrw0UrVTo7cNW3tSwfJGysjJzI6B3_kl3ozAE7fmhE",
+      "metadata": "Charité – Universitätsmedizin Berlin KöR, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 02.02.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Charité - Universitätsmedizin Berlin, Berlin",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-02-13",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=R6u9GcThTrV-2YqqJEmk2mzfyGX9t7cNnT_3atm4JEjz9pkHeuJuuygSA0nFE6cHAXpBu31-tiWYPhXOapN4pvTrOE0RlW5swQRsVCi_xwHus_Meo3UUrMnM5VAE5mECzzEp9sicTbHq7X9TmK6jCjSdAESdbrQ3TzOg_n7qcQWTfZl_VDItBCEOhBDTTq9RMN5XMSIOCwcHOQHaWML-c3TM8PLjD_FzJ2VRh3O808kj3z1n",
+      "metadata": "Charité - Universitätsmedizin Berlin, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 13.02.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Charité - Universitätsmedizin Berlin, Berlin",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-02-11",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=5PITVDJOkwfsy3RsWvI6yWqOIr1uPhWx1oH5ExP1Dux56HvPRkY8VyPY8qchyq2S7Obc4m6gDaBBdExq9VD_0Rxivh9NxBUMajXdIKdtkvp9WrE6znBNFHflv6pTnKNesE1NDFWOEFp9Twedi7BrsK6bZgRknNZ6KVz60z_KXIpFL9gtBcraG-VQ57IS7UcmEhXKNtyPgB4Kn3M-5_KtFhNb7cHFNSMnP4XMngoDe8K0guoP",
+      "metadata": "Charité - Universitätsmedizin Berlin, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 11.02.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Charité - Universitätsmedizin Berlin, Berlin",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-01-09",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=dGzXra_7zfF5eYSVatzE71JHqlB-rv7xTb5TpsuWCI_omXV87PYRkFQCEowUxOqQtCEurLjDXAI-AgpLFfFg6t0K6Sw22XnDPYTBqow3PA-DkIL1Ag8nNBBp7nX6Kvi6sZ3nauFFr_4zf-urBybaT0ukqUUXueysGZ0M6LOyF5ykzGMIr90vABNCsXjvJM7lfyjdjbwqaSnpydxPZ0Ghz_6FfEb6Qd1Qh66FAmXsXKY9LDGV",
+      "metadata": "Charité - Universitätsmedizin Berlin, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 09.01.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Charité – Universitätsmedizin Berlin KöR, Berlin",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-01-04",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=VERVAideMKQTmALsO-Lhrtq2ZGM7eCbu1Sc9pZTw_aSTMQo3zhE5-QvMpEdEwpzr_9DyLnOpS_nywukDMxics62A1wPETd7ptKuaV-DNUDD5dLNPmwxE4I3d2rnkRhvsR7S5fQOjyiG4WTw_LQlbQLDzt9uJTDKYEQ2sTnr5vE_XPRO5juuRC-Iy9FE7ISVcc3NUPIlEkb3uPomo-C33yg9Xe-JEjJxkppL4O4okaUfWPlse",
+      "metadata": "Charité – Universitätsmedizin Berlin KöR, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 04.01.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Charité CFM Facility Management GmbH, Berlin",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-11-24",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=2__XFrtJWvDLejYdIAzj1zk9o57G5eP5pvHJtb6IJktbzgjLm8naeKc2-wG_4FYYiHcXvsID49e3o2U8nRaXkTjhfuOaz614doDpWiqOAY7XFL7Yd2NbthCBvWQKufG4AvVpvTTGHNjLe8h3AUh3ueH-cP-X6DpyJTP-fSu5ZDGkj1CdtUOo9N4DjbFMHwKfYdef5i9vVupBAIohvT77bJdw2N1MP-2gLtmRxz2sGHtzRlwn",
+      "metadata": "Charité CFM Facility Management GmbH, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 24.11.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Charité CFM Facility Management GmbH, Berlin",
+      "title": "Einreichung neuer Dokumente",
+      "publication_date": "2026-10-21",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=rnms_rREqHqGKvXiIQ-3MChDDYJfKkgICWWzM3JRWwFr8mZSyHeGfN4lY4q6r3zRnanSb1zpFTLjPm4s0w22Eo_m86ae3nXZsk6O8DBcoyspCzhbN4Ciy6tWB8url_fowWOA-ixu5fHjwMZ4IRKDL-XN2VpqSrmCDkwpgeiUdsC4I-sYZkZRNWuj2NTKiqmWRHcv7WmKckfE5LelwEevRT_SR8FaLknSDlcymr86AC2Swb_V",
+      "metadata": "Charité CFM Facility Management GmbH, Berlin Registerbekanntmachungen Einreichung neuer Dokumente Datum: 21.10.2026 Sprache: Deutsch",
+      "source_area": "Registerbekanntmachungen",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Charité CFM Facility Management GmbH, Berlin",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-01-21",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=54BxDhDdGNyy7mNdCeZVgVOu6JZS0MaZl5h4cFWHfcYug0Cg_Scrivga4JtqVSOz62RP0Fc6Yr1f6UKRgmlYDykbei8NbBaKtawkPLaV5sqZ5CriEl2_MH8AOsp2y1Rx5_M5QfvuRwj4OTH9AyJEYT4oOpLACMAMGeU1j3ePtk5L-EcYaq0eKsVZfbv7fyZCdV6Nxix-hHezLL4nlUMm5isqulhIvO8p8YtkHwjbiY15Yi5M",
+      "metadata": "Charité CFM Facility Management GmbH, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 21.01.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Charité CFM Facility Management GmbH, Berlin",
+      "title": "Einreichung neuer Dokumente",
+      "publication_date": "2025-12-22",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=Uvanrk9kloh5FUKC1kfNHCxuQKj0dpzDBrAYBh7FCmqbiSUPPPiwohefbA1sXRK0v5Bi5W_TNYq5rxg3gvnjQhEXEvhbN-DeHrv_3sGz0_-3l_ZihD8upOG8lKqe4H7va_TmisEnFYpz2S_QvBiK2kea933Y7jSltZtGFn7h_1QD0cw3KXwhQaqyiSqWw08Jy3Pq-VlfNMzE28B1TKaxvuScOQQo1qJEokcCiRQHzuifNDoy",
+      "metadata": "Charité CFM Facility Management GmbH, Berlin Registerbekanntmachungen Einreichung neuer Dokumente Datum: 22.12.2025 Sprache: Deutsch",
+      "source_area": "Registerbekanntmachungen",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Charité CFM Facility Management GmbH, Berlin",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-12-11",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=7DwoIvpHF92r32tGAqkWAWSysottKIsPDCmqU4wlM6-rwXZyKXOimjp7Ldpw-GmO-b4PfV3t23EnNFSmC0n-0nnvNoAyNKQz6wqVdLXDsqHHHH44v8Z4R3uwHjF-wIYHFfqJ7E6Q-VIBNVyMLxShrKDntXm8wPe60jYtN7rUbqWKWBYsDosJxfpIrqrnMC2xohSfv_WFkfL6vO-S2t7kVZzas4nmjd1WSErRR1511dTK42b1",
+      "metadata": "Charité CFM Facility Management GmbH, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Berichtigung der Veröffentlichung vom 01.12.2025 Datum: 11.12.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Charité CFM Facility Management GmbH, Berlin",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-12-01",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=KAwIQUmmN2zWp95mQ5YH3Ui3Ikkn0yxcvU65Ttr0qJkNaad8ncMevvfIlNamLtIFF4-YUi2uAbRyrR1v1CAn35qSp6ZJ9PLIc2umwh6Zmaxz_RXWQtkglWE7lsh49qSsdcb8N1bZNLC6P-slBxmKKOSelTHlQGvNDaaAGmSzMDSl2u3h_FRVYzgxTQJsUfJF6s-kb4UgVVSftgLuBC1rc7YAIdsE2al1NgaY4Dd2xdFkVY4T",
+      "metadata": "Charité CFM Facility Management GmbH, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Ergänzung der Veröffentlichung vom 25.03.2025 Berichtigt am 11.12.2025 Datum: 01.12.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Charité CFM Facility Management GmbH, Berlin",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-03-25",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=zcGdPIvZKC4qXOMHBzTQF_-1IcxGM8iKcOWAZTl0RgQD1jsIyCwlJxoljuloDDcpWL-j0IR7HRJ7zSxlxCdolKGNfYXRYV6Lr-3vXiJrGM5_E_13IP7iwr2sL0fhE9RmXT4f04Vr9UVuR5uaRxDTIl9dLCUCkWezK8BCq6cHq7wZWjC1UGN7hJhkP6SAnTTDVjgDM-vaekdsXYYvckm-2d8g-AVc5CMyZkEyvji29N3er13Y",
+      "metadata": "Charité CFM Facility Management GmbH, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Ergänzt am 01.12.2025 Datum: 25.03.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Charité CFM Facility Management GmbH, Berlin",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-07-01",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=EttcBiny1LmSZUo-fTb7hPMyGa8_dnI2FR9vIOMbdPO1sIa7u_URcVQSnWacDBK7K5lF7MW0YgPuOb-11G6qRNjrNFG_uEK1CCzCZv_i9TORImBlioKdFW_kayWRqXImUKH6bYCAoUnl3O-oCbhQIwD98ZGB1VX41HkZDUgcEcr2gu92_Z95xrkCHdFZa68cPqt3iQ6MVnorPvDCGDOqQblO4Q-RN6ytkvH4BVpZjAF2J8Qy",
+      "metadata": "Charité CFM Facility Management GmbH, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 01.07.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Charité Healthcare Services GmbH, Berlin",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-10-09",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=V9tJzx451zs0rR_QKzdklTbq35OUpwGE07ARoQAhySRvAPyzq9kSE3Lv5pqDu91robJeoaQkiW_9pquGdcUPpRTEJM6HNIEKfCLwmnKhXsMSScsk9Xrfzr55oh42PAbnh3iiTv1QpGrDRIe2jXSxmnE6xHRwsKwpgaj2HBeijo4W9bJu1jkyOE6mphca7sACBNAb31tPiXvyvZHPEfQKOmPr1tRew8YrrRKbD6lqqUXIexOV",
+      "metadata": "Charité Healthcare Services GmbH, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 09.10.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Charité Healthcare Services GmbH, Berlin",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2024-09-27",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=KVZHY-iRlPOjd8ABXoxeNsLHwj-qZTDTA2SgzLpv0ipE2RKxI8cQSTCQZfm4AfYwmIuuC5IeLPjk71fBztBA733oMQLGyeDoxrk_VIvr5NegYmxZ5Jq_cxt3Mic2ItcpAeoXtjOxa4ZeC6ZmxiMRObsWCP51i8-0jlvGknQ8GA7Jpo7-IBXKJjdvXDJmtVh6x6DxxK5TxJMaBxZYmEqDk4oU5NCMD8xjS2BLFoAG_L9w4EmR",
+      "metadata": "Charité Healthcare Services GmbH, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 27.09.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Charité - Universitätsmedizin Berlin KöR, Berlin",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-02-03",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=T6SYiBzfmC3IYw1Gh2y0Id0jQIcVKNJzLYJdfkK6Qk20IgpbOibrGzJVOesyzJQFGGgN6qLYEYIX2jlgQOcRrEulqfs8DYPEcNay557bKH7xIncPV-Kx7wRtXt-hK-Pm1_gQuodOjuUctFyRQzaCbuCwfl7pUMq9oSoghm_IvQBqcHRhRydU6hVGIddJv4k1nMDxKVdJuRfHJogkFzK7YyAmQohqA5cs3tnqUcRwiJw60kVz",
+      "metadata": "Charité - Universitätsmedizin Berlin KöR, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 03.02.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Charité – Universitätsmedizin Berlin KöR, Berlin",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-02-02",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=Lfc39NydNi-h0EXNB1gBMn8eNlnpdqG7yjZEhbXiywjr4xnxMXtYuWQaKQF2zyqrUGG0FdNmQ_8sVQZ6e2eHIApzXwKGSVE3twzAqWtRFT8b6gO71r42N6roHpA0Al3MZ00-okV97X9M6RrYJyMddRbKO_5c67OmPg9kyo7PfdBxyfk6elhfInc_Fx2oaQ2QxkqLPo4ZpeMB3JRaRC-TOpaxvWWOk0Pko2AJrLMm_DIeAV89",
+      "metadata": "Charité – Universitätsmedizin Berlin KöR, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 02.02.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Charité - Universitätsmedizin Berlin, Berlin",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-02-13",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=8klTY5Jgfz-Eg81yfJmdHfUO-ykzhdCTizeNurSITEYBoqdC3o9-t9H5j3t698uXY9WDdzNUaEtnKQH_nnFaCo_kpC_Y0JQw-K2i_d6MydRzqTOHgcx-9DJ1e3PI0sjC7Vb-RFWc-Vcdh0GB-1dAY62EEZptRMyNvmlBdbGRq1GDrGK6eKoPtJ8_Y0qu7LOTXtT5htLGwSZdaoTwFpNedmyaC8Ml4ARBgfJHqVjudBCnODFy",
+      "metadata": "Charité - Universitätsmedizin Berlin, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 13.02.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Charité - Universitätsmedizin Berlin, Berlin",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-02-11",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=McsC2Ot90AyrYNwbA-gpXQLUYkwPu0yy1nVpNWn9_356u8h0LmYxJpEJpeXaB3244iu7aL6V6gkKHR4z4IN0xwV6K-n-RoJgTdPQpllo_0Fh5_spz5VEuccyCdgYkbC4TIUB1kkHiO7HMRN41xXQxNcduC_tVuuzuFTNzSRxjvY4as5c3Ydz4U8VOtXaMaYX-_nklwqzKt7dKgB9Y_-jCV15sbweHeFbDsVaZ-vqpm8BWDUk",
+      "metadata": "Charité - Universitätsmedizin Berlin, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 11.02.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Charité - Universitätsmedizin Berlin, Berlin",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-01-09",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=ZcL0XlwWSjq6V_bhyubjzj1PDG1wU9RF91iJFrPQDNUTkNyRlBjHI-oUljlcyYm7ySIgu6jP5oZnIp8ZGhdTlpW6FRDgdoLl0rSGIbSd3ZFt90DLM_hLHzhs4j_sPLs3Fvm_d_NYVFAr-nYEsDw2z9HmHC1dwVPyvJWDDIH1972Ng9KBnYA9u-YQtvdJ3z6cRRDbbvOfD7mx0Gk9-2v_8and5OKhIfNjnn81a9YT99tKJytX",
+      "metadata": "Charité - Universitätsmedizin Berlin, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 09.01.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Charité – Universitätsmedizin Berlin KöR, Berlin",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-01-04",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=3SUtwQIZ8a4DA5-RjHP-afnBO-c6dL7h9JV0MP0i2DGcXxDHi4p3t8tRyXchF7_Kd3F6C-q-Uaen-hUXE7nmtpSzRvEu9-u-_JzQdI19PxWG-9AjwxN98rVmJi6oBvX_3yp_uWXkaZr1RtwFgXk3Oa7JMPYF5pXetN8CaeAgfTgX8zPRqEYmPyPT1Hc4AJlmolhmZ6t8OvqeLNVBDeLapogYGhOVUjjqlrrPtz4j6BT60eZF",
+      "metadata": "Charité – Universitätsmedizin Berlin KöR, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 04.01.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    }
+  ],
+  "date_from": "2024-01-01",
+  "date_to": "2026-11-25",
+  "excluded_dates": [],
+  "max_publications": 30,
+  "truncated": false,
+  "coverage": {
+    "search_complete": true,
+    "more_pages": false,
+    "publication_limit_reached": false,
+    "downloads_selected": 3,
+    "downloads_succeeded": 3,
+    "download_limit_reached": true,
+    "downloads_complete": false,
+    "text_complete": true
+  },
+  "publications": [
+    {
+      "company": "Charité Research Organisation GmbH, Berlin",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-11-13",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=M9b4b8jSPo6nuSDgw47bmYbh50ulyNYlihrXnH-RhSqf9tufr4uEg0KdOshs87EUudlCRwnSFYa-lyIq2zscdeSvbPCVPeRieP3qGHdwCuvcYrMHkxOkSFAyRIJoAfR7ti2spbNVhd6CiVSv6HzabohxnibfkhbRfUNtTeoClQJ4h5VWFu_njvrQ1iDP_yTC80EVFdyxSwQnlKGnBHvTh3-mBFQuSHvU6cyJIOu2FTGUNkm6",
+      "metadata": "Charité Research Organisation GmbH, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 13.11.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 1
+    },
+    {
+      "company": "Charité Research Organisation GmbH, Berlin",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-11-06",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=Bnn_0P_EHWGgj6ubq_TksqywcLh51x3Tdf8NWnbZAkdlqqov_3qhvAY0geRxLnA1q72DT5v-YoopEoCe80D7PBCuRe1NKJomdEAlmEPA538xCf_aedZVN0T2q7afuTYnc-GguHrIn4iqaCpfeb7-AcSKiWvC3qXsRuWbK50On2_Gy0htJdmrMq1vkaLQzKOHii8_XIoBNvZ12F0EVI6yVxFQTfGwrGbHr13DZpluwbG5quKG",
+      "metadata": "Charité Research Organisation GmbH, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 06.11.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 2
+    },
+    {
+      "company": "Charité Research Organisation GmbH, Berlin",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2024-11-20",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=RUxlQe_PbX6GVcL2l80IRNEux_-e0FlU-GVIOnJ9Q80nqkerYDwJc1MmImuNCHH9ajiIkkGJx17fdq6c5vk8xha-fpr48cthQfT0XGkh4okOAjFUQPi3IUrRWiSOtcrg6T5UffN7bEsPaux3DSbkxFctjBgg4nSUn7GYEoLD7vjCR1UKvkTTxVOu2c-QH-dHTf5cNS0jXvRSwxnrQYoSmVmbbmDPM4zOq3ubaLSb3swNymKp",
+      "metadata": "Charité Research Organisation GmbH, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 20.11.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 3
+    },
+    {
+      "company": "Charité Research Organisation GmbH, Berlin",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-02-08",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=TvsB6qSDrrrNk4jLX6vI86qGzv3JgSU9VesDQ-kFHDA_x1LgEvUxUl7OmBqQqaR29aRGO24afwaVL2aWe0F_lTUmv00nEmQ-S9LwvQz5r8lV8pMdr9X7SLtlOGdhV7YFcx1E8IIn3pCyc7CcKA9yY5RnaCs9UgidvOdVVmzjWADyks3ha3sel4y8SazLx5AohUlkdWCVscq0T2JTiko6h7OdW0aZc9FgduQjynknYLc8kPQi",
+      "metadata": "Charité Research Organisation GmbH, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 08.02.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 4
+    }
+  ]
+}

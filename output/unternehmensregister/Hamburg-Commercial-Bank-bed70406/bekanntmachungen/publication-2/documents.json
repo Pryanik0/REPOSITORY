@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Hamburg Commercial Bank AG",
+    "original_name": "publication.html",
+    "title": "publication.html",
+    "company": "Hamburg Commercial Bank AG",
+    "format": "html",
+    "text": "Hamburg Commercial Bank AG\n\nHamburg\n\nBekanntmachung\n\nbetreffend die\n\nNachr.MTN IHS v.1999(2039)\nSerie 119\nder\nHamburg Commercial Bank AG\n\nISIN: XS0104723266\n\nscroll\n\n\tEmissionsbetrag bis zum 24.11.2026 inkl.: Emissionsbetrag ab dem 25.11.2026:\tEuro 74.000.000,00 Euro 72.000.000,00\n\nTeiltilgung über Euro 2.000.000,00 per 25.11.2026\n\nHamburg, den 18.11.2026\n\nHamburg Commercial Bank AG",
+    "tables": [
+      {
+        "index": 1,
+        "title": "ISIN: XS0104723266",
+        "rows": [
+          [
+            "",
+            "Emissionsbetrag bis zum 24.11.2026 inkl.: Emissionsbetrag ab dem 25.11.2026:",
+            "Euro 74.000.000,00 Euro 72.000.000,00"
+          ]
+        ],
+        "cells": [
+          [
+            {
+              "text": "",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "Emissionsbetrag bis zum 24.11.2026 inkl.: Emissionsbetrag ab dem 25.11.2026:",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "Euro 74.000.000,00 Euro 72.000.000,00",
+              "column": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ]
+        ]
+      }
+    ]
+  }
+]

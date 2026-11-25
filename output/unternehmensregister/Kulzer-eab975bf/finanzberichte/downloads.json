@@ -1,0 +1,56 @@
+[
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=Cqpl7V7JUansX9m9y9LQ_PoACU-satdA2XEwUf_Gou_rZR5yElfwH8cWMPBSUhB6m_fZm7WxyDE34mkRZXRgL_zuW8BgS76TlDT3AT3U8gWrG1PHQ2e5zFJIlFGYdRwD8ulh0fGnQSpSGUoUxWT4_8oMHeYFHAqDIiNXXd7-nNW2TBC26kkvuYi7QuwgBF_ARrMsXuEbKOSBC_MYxC-tGllxCnFUDg96tiWghpZM29KWI54",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Kulzer-eab975bf\\finanzberichte\\publication-3\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Kulzer-eab975bf\\finanzberichte\\publication-3\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Kulzer-eab975bf\\finanzberichte\\publication-3\\publication.txt",
+    "index": 3,
+    "category": "finanzberichte",
+    "company": "Kulzer GmbH, Hanau",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.04.2024 bis zum 31.03.2025",
+    "documents_path": "output\\unternehmensregister\\Kulzer-eab975bf\\finanzberichte\\publication-3\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=H-SIkyIwu8qBJ5Ex9zjQLHAQuc2UsKSS-ENjy_8kneB5vORbLf3Um38XQE9GzGAKdmKp-0MuV4bimtFuDvJ-_Ic8JzKdnMbyeC1IkKGPq-cGAursVkmJt_31WY9PUXPaI5CVwS6teGHHr6oUfctUKrm8IF9-GVFy0F0KteqsiMmsUTtPWwHf8Oo1-w9BM7k7PJ2xBaXXWebqYA_Yj22pFPy-eucaEfeWobpDIQ4nvM9oIgQ",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Kulzer-eab975bf\\finanzberichte\\publication-6\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Kulzer-eab975bf\\finanzberichte\\publication-6\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Kulzer-eab975bf\\finanzberichte\\publication-6\\publication.txt",
+    "index": 6,
+    "category": "finanzberichte",
+    "company": "Kulzer GmbH, Hanau",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.04.2023 bis zum 31.03.2024",
+    "documents_path": "output\\unternehmensregister\\Kulzer-eab975bf\\finanzberichte\\publication-6\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=2dFT9lfqNLzzBK0Fyn-SxCNzkGZDJ6zn0NgBH0f2qws_UzuVXcIR0OGR-EPmuUQqJaH7E6oe33utLkzZ2A9bIM8Vjs4cHqW6oi7WVIoTfe3hnYh_J0wGH-FnGRG_C_XpZglHvXn6WWxutN2UfsB-bS2MS00VHp0WFcgp2iJEY1YnsTrPZscka6GNdNKqKhOtOIQsPWKqaveoCyBmsuKQVMcwsUmZ6vu_KFioZ5H812Rj8ao",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Kulzer-eab975bf\\finanzberichte\\publication-9\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Kulzer-eab975bf\\finanzberichte\\publication-9\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Kulzer-eab975bf\\finanzberichte\\publication-9\\publication.txt",
+    "index": 9,
+    "category": "finanzberichte",
+    "company": "Kulzer GmbH, Hanau",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.04.2022 bis zum 31.03.2023",
+    "documents_path": "output\\unternehmensregister\\Kulzer-eab975bf\\finanzberichte\\publication-9\\documents.json"
+  }
+]

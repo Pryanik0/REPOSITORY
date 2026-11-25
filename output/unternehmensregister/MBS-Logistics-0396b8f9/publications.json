@@ -1,0 +1,191 @@
+{
+  "company": {
+    "key": "MBS Logistics",
+    "name": "MBS Speditionsgesellschaft mbH",
+    "location": "Köln",
+    "name_source": "company_name",
+    "urls": [
+      "https://www.mbslogistics.com/"
+    ],
+    "kununu_url": "https://www.kununu.com/de/mbs-logistics",
+    "branches": [
+      "Logistik"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "51149",
+    "street": "Hansestraße 57",
+    "region": "Nordrhein-Westfalen",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:48:44.398234+00:00",
+  "searches": [
+    {
+      "accounting_only": true,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=MBS+Speditionsgesellschaft+mbH&companyLocation=K%C3%B6ln&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ACCOUNTING&drilldownFilter=22&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": false
+    },
+    {
+      "accounting_only": false,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=MBS+Speditionsgesellschaft+mbH&companyLocation=K%C3%B6ln&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ALL_AREAS&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": false
+    }
+  ],
+  "excluded_company_matches": [
+    {
+      "company": "MBS Logistics GmbH, Köln",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-04-17",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=s3WlqxGsrtKfKOopkOowvOfe_0rd-Vf75w9BjJiv2YfK_jh20K0LPr64VQcsixKoHo07Owod_Yr8RQ5yCqwFY7xRnWcZPiOVGCx0HtR8YSMHMOxgnKI4HNh7D6ttLwhNBuWbrDBynsVx0gR5GHhcF1Y3UGTFOW_hTErPRrP3UiGu5yPtX_mSStbCH0KPQCulzrGgFe75ywpY4Hhri9s0gCffAJrbZhdUJSKUyjPChjMS5mY",
+      "metadata": "MBS Logistics GmbH, Köln Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 17.04.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "MBS Logistics GmbH, Köln",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-05-20",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=iMkws-IboIJvk7ieRbHstMrhEwSxoFKIZdIk2149E6FK8NmbxWqu34_HmJ3CPcKMHVHDY2PSql89YQMugwnOt66-HVPjKYnlkkbjzrnFP2WqlXmz9XIUjNr5cRvVEAL_919pIA3y5Mxfnfo5pPQpucN4g1EydDwV54uh_cKc27hMgfdRDrbrZS79pPIGnuD8frgQh_mkORVwZARvxpOp4SWYGsDstFIio9UqVnvGrU1LaTE",
+      "metadata": "MBS Logistics GmbH, Köln Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 20.05.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "MBS Logistics GmbH, Köln",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-05-27",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=0HM7sIlv4T-eYBb53QciHaq_sdQ1WwkBEGz9YYLttsS-co6NmlaZZd4mPZlRwWFx9MiMvxLdNPwdzEXF413DmjjNofR4mQ3jR9hUxJlcbxpZsq7w2AEyIbx8d1kviJ1_Dx-kgC2xtCXTeIbiJi1DZVmkuuLzm0nGi4IA53uGMYE1Z3w8pngDzFhP2f2_Mp0J_sQtmciGBlX4BwKHpCgDvft2bIxiGU5TY_J4yHUJd6Z-j8I",
+      "metadata": "MBS Logistics GmbH, Köln Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 27.05.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "MBS-Baugesellschaft mbH (Mauern-Beton-Schalen), Köln",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-07-31",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=lfNbWrBBcOvzNsT3R0SFZPSS8P0RsDNbVgUtDyeRAa4EbFIJH6HWY54PS7pepEbu0PjTffbZXTk6M5kVQbjCQFoDX-lEPhHIVynpCwsxY_p-RdjhDjUQ-ZDDKc55hEfT-ud7ucJIizVG6W2_cuLEl2kRUaBMGQKDGtC88xLko11HSPKtTXU4xmad85gNpQRd9eBLDEPam399maiEriqc1geKnyW1bxGBMNrGry3vLjhWGu8z",
+      "metadata": "MBS-Baugesellschaft mbH (Mauern-Beton-Schalen), Köln Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 31.07.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "MBS Logistics GmbH, Köln",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-04-17",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=wy2sDC1rQmC22LafmOPxo7QvFWKaZnjkqupYAbly-QnuEGeN9KYd-fJrgUTxg5egQONO4OJSG16E9SuUr9bebQRhT6EN37arfvmolW7DAVvVSt0xyihUbWCZ-F9yRXGb0Z9mP3nOcA2fhlvfPBMdePqsxb6Y9AWxwsTDFWAmO-BzObCMBNCFp9oBZ0xUqTi0IQOGDCmt64zYHw27dMOr2cGJr6i7_BMQtzpVoeN1k0y1meo",
+      "metadata": "MBS Logistics GmbH, Köln Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 17.04.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "MBS Logistics GmbH, Köln",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-05-20",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=25svEMlzJgNOkiPCFQFXdBWZYyiqGhbSyg1hCK_5dkjXDALeN5Ibjv_3n5Ru87abnC1nJMevZj7aNtup1SsB-Qy0KuyTKLVPjX9e2XqIjjdZCofqBr7Bb6AKEw4pvVROFwvAYnf7WPwdGJuLYrSuHVrUdYzprs6Mi3fRY_2qm2lTB12QUiXBqjBitWGM1VUp7lquauKsfldt6lRppGB8MjLzK7SM-OTyXdjo9OC-D_jVQLQ",
+      "metadata": "MBS Logistics GmbH, Köln Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 20.05.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "MBS Logistics GmbH, Köln",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-05-27",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=IlDq6UiEs1bh2pNX0yC-8mQt6qgkQSb-xNDUV2aoffWnNkJ3gp0BTWgC-VS3E0ZKDRXF_MDZHiLC7Wx5j_c5yZMJlN3ERrzstPQyGlfNeK3HUDTnS917TqLu_IEPjUZzBT4TIqrQCVjaJhFjbF3hbVug8e2rWzBxwEB0irRCM7m9idD9mAub4TS-8EO6e_eXqpqwkBQM4q-Syk_-qawg4pinjz2xKjWx3rnYsKDXTU1VloI",
+      "metadata": "MBS Logistics GmbH, Köln Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 27.05.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "MBS-Baugesellschaft mbH (Mauern-Beton-Schalen), Köln",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-07-31",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=KUdi7JXMDjq8fO4KypBu7rM4qX6K79MOZ991kCRJFrqaT1K7UNq2jtE5A9YX_rVmGSZLQq-gI7-Hluac87cuydgI5KiIY15n-NAtHArkMWPwy8f92TjbjQhZnBiHz1BO23SWqkJOe3GYBfplwJFc1xQrqA_JZVVzWqr4ePP9guPFzOMHsuY_l49Z09YJB643Z4oSW9WFEpWwpBzHe0MdHn9FJTuFgcG9OvK2LVUV9oCDWkV3",
+      "metadata": "MBS-Baugesellschaft mbH (Mauern-Beton-Schalen), Köln Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 31.07.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    }
+  ],
+  "date_from": "2024-01-01",
+  "date_to": "2026-11-25",
+  "excluded_dates": [],
+  "max_publications": 30,
+  "truncated": false,
+  "coverage": {
+    "search_complete": true,
+    "more_pages": false,
+    "publication_limit_reached": false,
+    "downloads_selected": 3,
+    "downloads_succeeded": 3,
+    "download_limit_reached": true,
+    "downloads_complete": false,
+    "text_complete": true
+  },
+  "publications": [
+    {
+      "company": "MBS Speditionsgesellschaft mbH, Köln",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-04-09",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=EhK0MTt2qpLMD1c_cwXStGhdoK0D7xfU9W97aUZJnnRYnFNRgmWzArlWlO_b70L0WUX6AUffL45exe9DJiQcWP0OfHWVRSR78Hteb72qOV96rIapAJ4hwlsY-17EZ2Qsebl9-PLsTWlPm9GPqMMUYrQY_PtT2Jo_A7gTKciYt9ReTbEO-oERKy52nF1PY487Ct_N58UX9wM8UIDffizXEhvoN-0MFUXowKxF2wSXZHsOlgc",
+      "metadata": "MBS Speditionsgesellschaft mbH, Köln Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 09.04.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 1
+    },
+    {
+      "company": "MBS Speditionsgesellschaft mbH, Köln",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-08-07",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=yKjyqF1rxO20bD--g9zv-hgZhpLF7vr0-cgurlsEAMy4K_pw52Q1IxMrzXSnhHkuJpGOIiIJk7KmKQ4pUhlreXqAkQi0Odz6x3rOfVXzUKOXuAOklh-STFZS0MusMVNzU4UoQTeB3qLxpisbwT2MS5vx1WU_v821SpEaNcb9rLVaeOicl07tWZtm4MAoIwl532TtK4NceVAcF83SuUEl2hmHOhszTq_7aibhwrG0OvefTKE",
+      "metadata": "MBS Speditionsgesellschaft mbH, Köln Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 07.08.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 2
+    },
+    {
+      "company": "MBS Speditionsgesellschaft mbH, Köln",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-05-14",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=azPDz9rS8PNJdWkjpR_tcbVv2Vz7yjz12M251jIT7JvLyYcYjOxWOVDQWynVqol_7wcpSseIlOgP6wUQb0NqGrMG3w3PjaC0R2O-TA9_ZOZ_Ioi4fRt8GUiNJs5rMaLg59pXNWq2mML_ZB1eMr1Oq3CshT3QT5taQ_EymRO9fDGNSC2NPjH0cO4XMbJWUqQHUAQQp0CdcxYZ2K7wNQ3dyBICgMY-M2tb_oc-C-lFv2w8x3E",
+      "metadata": "MBS Speditionsgesellschaft mbH, Köln Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 14.05.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 3
+    },
+    {
+      "company": "MBS Speditionsgesellschaft mbH, Köln",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2025-01-08",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=mvLBjX5PcBvJROF6gwK2t15N9OaT50yBh1ugs95L0ZUPNbX8E_a5cuPZGiSMa5ckcvj2ZuQHVtXbQ4GIHcubh-3ulvXp2gQrEMo1ZmIA7KQOMq582oUC87TGP3QZHV5wx3CY_3zAWoIrJLePC0yguG2n0Sub4GgWZIhcCuECjqk65orw8pJ8pdJ7Mo48EIuFvoy4-DlIHFe2T9IwEFlPsyemOISo6qb3c98x4MeyJ2Ien30",
+      "metadata": "MBS Speditionsgesellschaft mbH, Köln Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 08.01.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 4
+    },
+    {
+      "company": "MBS Speditionsgesellschaft mbH, Köln",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-04-10",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=NZlxogvrrM8EXS38yR9FoDSfD9knAD1hQTfDxGrrEyduTlorB-JRaT82hT_l1v81i9if0kGlhIbaS7l--Sm0APtqusQU4_j_Kn2sZaJ_3Qlbru0xvp4qpv-UTr1iZ1Xh-3KsGBvTPc69jAohirSaMWHdyrYhvuPD0FKHCCFBHQqqL0N1vmIf9EG6QRqKsYyNN7OebYrb9QzZD1R-WuCyyWBR_PqsVpjd1SWtMkGTfbyPSJY",
+      "metadata": "MBS Speditionsgesellschaft mbH, Köln Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 10.04.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 5
+    }
+  ]
+}

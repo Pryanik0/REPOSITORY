@@ -1,0 +1,9 @@
+{
+  "url": "https://careers.hartmann.info/robots.txt",
+  "final_url": "https://careers.hartmann.info/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/plain",
+  "fetched_at": "2026-11-25T16:09:48.306206+00:00",
+  "text": "User-agent: *\nDisallow: /applybutton/\nDisallow: /talentcommunity/\nDisallow: /mobile/talentcommunity/\nDisallow: /emailsubscribe/\nDisallow: /email/image/\nDisallow: /services/\nDisallow: /preapply/\nDisallow: /error\nDisallow: /unsubscribe/\nDisallow: /reset/"
+}

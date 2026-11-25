@@ -1,0 +1,73 @@
+{
+  "schema_version": "0.4",
+  "beschreibung": "Ordnet jede Datei unterhalb von <quelle>/<run_id>/ ihrer Dateiart und ihrem Schema zu. pfad ist ein regulärer Ausdruck auf den Pfad relativ zum Laufordner, die erste Gruppe ist die Firma (company_id), wenn firma true ist. Dateien, die zu keinem Muster passen, werden nicht gelesen. silver sagt, wohin der Importer die Datei lädt: kununu (feste Tabellen), datei (Tabelle source_file) oder null (noch kein Ladeteil).",
+  "marker": "_fertig",
+  "quellen": {
+    "kununu": [
+      {
+        "art": "kununu_snapshot",
+        "pfad": "^([^/]+)/snapshot\\.json$",
+        "schema": "kununu_snapshot.schema.json",
+        "firma": true,
+        "silver": "datei"
+      }
+    ],
+    "register": [
+      {
+        "art": "register_publications",
+        "pfad": "^([^/]+)/publications\\.json$",
+        "schema": "register_publications.schema.json",
+        "firma": true,
+        "silver": "datei"
+      },
+      {
+        "art": "register_downloads",
+        "pfad": "^([^/]+)/downloads\\.json$",
+        "schema": "register_downloads.schema.json",
+        "firma": true,
+        "silver": "datei"
+      },
+      {
+        "art": "register_documents",
+        "pfad": "^([^/]+)/(?:finanzberichte|bekanntmachungen)/publication-[0-9]+/documents\\.json$",
+        "schema": "register_documents.schema.json",
+        "firma": true,
+        "silver": "datei"
+      }
+    ],
+    "gewerkschaft": [
+      {
+        "art": "artikel_snapshot",
+        "pfad": "^([^/]+)/snapshot\\.json$",
+        "schema": "artikel_snapshot.schema.json",
+        "firma": true,
+        "silver": "datei"
+      },
+      {
+        "art": "artikel_article",
+        "pfad": "^([^/]+)/articles/[^/]+/article\\.json$",
+        "schema": "artikel_article.schema.json",
+        "firma": true,
+        "silver": "datei"
+      }
+    ],
+    "implisense": [
+      {
+        "art": "implisense_news",
+        "pfad": "^browser/news\\.json$",
+        "schema": "implisense_news.schema.json",
+        "firma": false,
+        "silver": "datei"
+      }
+    ],
+    "befunde": [
+      {
+        "art": "befunde",
+        "pfad": "^([^/]+)/befunde\\.json$",
+        "schema": "befunde.schema.json",
+        "firma": true,
+        "silver": null
+      }
+    ]
+  }
+}

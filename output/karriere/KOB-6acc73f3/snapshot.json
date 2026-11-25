@@ -1,0 +1,155 @@
+{
+  "provider": "karriere",
+  "company": {
+    "key": "KOB",
+    "name": "KOB GmbH",
+    "location": "Wolfstein",
+    "name_source": "company_name",
+    "urls": [
+      "https://www.kob.de/"
+    ],
+    "kununu_url": "https://www.kununu.com/de/kob",
+    "branches": [
+      "Pharma & Medizintechnik"
+    ],
+    "search_terms": [
+      "Karl Otto Braun"
+    ],
+    "career_urls": [],
+    "postal_code": "67752",
+    "street": "Lauterstraße 50",
+    "region": "Rheinland-Pfalz",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:09:45.605936+00:00",
+  "status": "partial",
+  "jobs": [],
+  "pages": [
+    {
+      "url": "https://www.kob.de/",
+      "final_url": "https://www.kob.de/de",
+      "redirects": [
+        {
+          "source": "https://www.kob.de/",
+          "target": "https://www.kob.de/de",
+          "status": 307
+        }
+      ],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.kob.de/de/karriere",
+      "final_url": "https://www.kob.de/de/karriere",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.kob.de/de/karriere/kob-ausbildungsbetrieb",
+      "final_url": "https://www.kob.de/de/karriere/kob-ausbildungsbetrieb",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.kob.de/de/karriere/kob-arbeitgeber",
+      "final_url": "https://www.kob.de/de/karriere/kob-arbeitgeber",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://careers.hartmann.info/KOB/go/KOB-Jobs/4585101/",
+      "final_url": "https://careers.hartmann.info/KOB/go/KOB-Jobs/4585101/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://careers.hartmann.info/",
+      "final_url": "https://careers.hartmann.info/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://careers.hartmann.info/search/?createNewAlert=false&q=&locationsearch=&optionsFacetsDD_department=&optionsFacetsDD_country=&optionsFacetsDD_customfield1=",
+      "final_url": "https://careers.hartmann.info/search/?createNewAlert=false&q=&locationsearch=&optionsFacetsDD_department=&optionsFacetsDD_country=&optionsFacetsDD_customfield1=",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://careers.hartmann.info/search/",
+      "final_url": "https://careers.hartmann.info/search/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    }
+  ],
+  "errors": [
+    {
+      "url": "https://www.kob.de/de/karriere/ausbildung-studium",
+      "reason": "fetch_failed",
+      "error": "HTTP 404: https://www.kob.de/de/karriere/ausbildung-studium"
+    },
+    {
+      "url": "https://career5.successfactors.eu/career?company=paulhartma&site=&lang=en_US&requestParams=&navBarLevel=MY_PROFILE&_s.crb=GYKi7U%2FVBBo7uGvZUaDSPVEduNG%2BzusV1yZSc9X9Zs4%3D",
+      "reason": "fetch_failed",
+      "error": "Durch robots.txt gesperrt."
+    }
+  ],
+  "excluded": [],
+  "sources": [
+    {
+      "url": "https://www.kob.de/",
+      "linked_from": null,
+      "mechanism": "configured"
+    },
+    {
+      "url": "https://www.kob.de/de",
+      "linked_from": "https://www.kob.de/",
+      "mechanism": "http_redirect"
+    },
+    {
+      "url": "https://careers.hartmann.info/KOB/go/KOB-Jobs/4585101/",
+      "linked_from": "https://www.kob.de/de/karriere/kob-ausbildungsbetrieb",
+      "mechanism": "employer_link"
+    },
+    {
+      "url": "https://career5.successfactors.eu/career?company=paulhartma&site=&lang=en_US&requestParams=&navBarLevel=MY_PROFILE&_s.crb=GYKi7U%2FVBBo7uGvZUaDSPVEduNG%2BzusV1yZSc9X9Zs4%3D",
+      "linked_from": "https://careers.hartmann.info/",
+      "mechanism": "employer_link"
+    }
+  ],
+  "adapter_attempts": [],
+  "coverage": {
+    "scope": "configured_sites_and_linked_career_portals",
+    "complete": false,
+    "pending_pages": 0,
+    "page_limit_reached": false,
+    "job_limit_reached": false,
+    "request_limit_reached": false,
+    "pages_attempted": 10,
+    "pages_read": 8,
+    "dynamic_or_unparsed_pages": false,
+    "http": {
+      "requests_attempted": 13,
+      "allocated_requests": 424,
+      "cache_hits": 0
+    }
+  },
+  "pending_urls": [],
+  "jobs_before_keyword_filter": 0,
+  "reason": "search_incomplete"
+}

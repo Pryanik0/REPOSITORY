@@ -1,0 +1,59 @@
+52990038IB31TYK07X63-2025-12-31-1-de.xhtml
+52990038IB31TYK07X63 2025-12-31 52990038IB31TYK07X63 2025-01-01 2025-12-31 52990038IB31TYK07X63 2025-01-01 2025-12-31 Österreich 52990038IB31TYK07X63 2025-12-31 Österreich 52990038IB31TYK07X63 2025-01-01 2025-12-31 Frankreich 52990038IB31TYK07X63 2025-12-31 Frankreich 52990038IB31TYK07X63 2025-01-01 2025-12-31 Deutschland 52990038IB31TYK07X63 2025-12-31 Deutschland 52990038IB31TYK07X63 2025-01-01 2025-12-31 Italien 52990038IB31TYK07X63 2025-12-31 Italien 52990038IB31TYK07X63 2025-01-01 2025-12-31 Polen 52990038IB31TYK07X63 2025-12-31 Polen 52990038IB31TYK07X63 2025-01-01 2025-12-31 Portugal 52990038IB31TYK07X63 2025-12-31 Portugal 52990038IB31TYK07X63 2025-01-01 2025-12-31 Spanien 52990038IB31TYK07X63 2025-12-31 Spanien iso4217:EUR xbrli:pure
+
+ERTRAGSTEUERINFORMATIONSBERICHT
+
+gemäß Kapitel 10a der Richtlinie 2013/34/EU („länderspezifische Berichte“)
+
+Introduction
+
+Dieser öffentliche länderbezogene Bericht wurde für die SGL Carbon SE für das Geschäftsjahr vom 1. Januar 2025 bis zum 31. Dezember 2025 erstellt. Er wurde in Übereinstimmung mit den EU-Vorschriften zur öffentlichen länderbezogenen Berichterstattung und der gemeinsamen Vorlage für Berichte über Einkommensteuerinformationen erstellt. Die Angaben werden in Euro für jeden EU-Mitgliedstaat, in dem der Konzern tätig ist, sowie aggregiert für alle anderen Steuerhoheitsgebiete dargestellt.
+
+Abschnitt 1. Allgemeine Angaben
+
+Name des obersten Mutterunternehmens der Gruppe/des unverbundenen Unternehmens	SGL Carbon SE
+Land des Unternehmenssitzes des obersten Mutterunternehmens	Germany
+Datum des Beginns des Geschäftsjahrs	2025-01-01
+Datum des Endes des Geschäftsjahrs	2025-12-31
+Berichtswährung	EUR
+Anwendung der Option zur Meldung gemäß den Berichterstattungsvorgaben für Steuerzwecke	true
+Name und Sitz eines einzelnes Tochterunternehmens, das den Ertragsteuerinformationsbericht eines Unternehmens veröffentlicht hat, das nicht dem Recht eines Mitgliedstaats unterliegt	-
+Name und Anschrift einer einzelnen Zweigniederlassung, die den Ertragsteuerinformationsbericht eines Unternehmens veröffentlicht hat, das nicht dem Recht eines Mitgliedstaats unterliegt	-
+Sprache des Berichts	de
+
+Abschnitt 2. Überblick über Informationen nach Land
+
+Name des Mitgliedstaats oder Steuerhoheitsgebiets	Ländercode des Mitgliedstaats oder Steuerhoheitsgebiets	Erträge	Gewinn (Verlust) vor Steuern	Gezahlte Ertragsteuer (auf Kassenbasis)	Noch zu zahlende Ertragsteuer — laufendes Jahr	Einbehaltener Gewinn	Zahl der Beschäftigten
+Österreich	AT	76263947	- 15279250	124089	- 6368	- 11919857	240
+Frankreich	FR	68087013	2339392	342117	412423	10991859	239
+Deutschland	DE	585072368	- 419648619	- 404921	269273	- 1102933432	1864
+Italien	IT	10198767	1032088	702573	238306	- 49897675	23
+Polen	PL	28782581	- 292984	- 391844	27065	- 3772102	133
+Portugal	PT	37505150	- 32200719	65978	54180	- 196071912	187
+Spanien	ES	14335227	3099799	793543	768692	2323130	42
+Alle anderen Steuerhoheits-gebiete (auf aggregierter Basis)	Alle anderen Steuerhoheits-gebiete (auf aggregierter Basis)	Alle anderen Steuerhoheits-gebiete (auf aggregierter Basis)	Alle anderen Steuerhoheits-gebiete (auf aggregierter Basis)	Alle anderen Steuerhoheits-gebiete (auf aggregierter Basis)	Alle anderen Steuerhoheits-gebiete (auf aggregierter Basis)	Alle anderen Steuerhoheits-gebiete (auf aggregierter Basis)	Alle anderen Steuerhoheits-gebiete (auf aggregierter Basis)
+		493131307	24069201	6359444	5651762	- 1417279848	1307
+
+Abschnitt 3. Liste von Tochterunternehmen und Tätigkeiten
+
+Name des Mitgliedstaats oder Steuerhoheitsgebiets	Ländercode des Mitgliedstaats oder Steuerhoheitsgebiets	Namen in den konsolidierten Abschluss des obersten Mutterunternehmens einbezogener Tochterunternehmen	Kurze Beschreibung der Art der Tätigkeiten im Mitgliedstaat oder Steuerhoheitsgebiet nach Ländern
+Österreich	AT	SGL Composites GmbH	Verarbeitung oder Produktion Verkauf, Marketing oder Vertrieb
+Frankreich	FR	SGL CARBON S.A.S. SGL Carbon Technic S.A.S.	Verarbeitung oder Produktion Verkauf, Marketing oder Vertrieb
+Deutschland	DE	Dr. Schnabel GmbH SGL Battery Solutions GmbH SGL Carbon Asset GmbH SGL CARBON Beteiligung GmbH SGL Carbon Fibers GmbH SGL CARBON GmbH SGL Carbon SE SGL Composites Materials Germany GmbH SGL epo GmbH SGL Fuel Cell Components GmbH SGL TECHNOLOGIES GmbH SGL/A&R Immobiliengesellschaft Lemwerder mbH SGL/A&R Real Estate Lemwerder GmbH & Co. KG SGL/A&R Services Lemwerder GmbH	Verarbeitung oder Produktion Besitz oder Halten von Anteilen oder anderen Beteiligungstiteln Forschung und Entwicklung Einkauf oder Beschaffung Verkauf, Marketing oder Vertrieb Verwaltungs-, Management- oder Supportleistungen Besitz oder Verwaltung von geistigem Eigentum Interne Konzernfinanzierung
+Italien	IT	SGL CARBON S.p.A. in liquidazione (i.L.) SGL Graphite Verdello S.r.l.	Verarbeitung oder Produktion
+Polen	PL	SGL GRAPHITE SOLUTIONS POLSKA sp. z o.o.	Verarbeitung oder Produktion
+Portugal	PT	SGL BUSINESS SERVICES, UNIPESSOAL, LDA SGL Composites S.A.	Verwaltungs-, Management- oder Supportleistungen Verarbeitung oder Produktion Verkauf, Marketing oder Vertrieb
+Spanien	ES	SGL GELTER S.A.	Verarbeitung oder Produktion Verkauf, Marketing oder Vertrieb
+
+Abschnitt 4. Nicht aufgenommene Informationen
+
+Angabe der Art nicht aufgenommener Informationen	Angabe der Art nicht aufgenommener Informationen	Angabe der Art nicht aufgenommener Informationen
+Nicht aufgenommene Informationen	Nicht aufgenommene Informationen, andere Steuerhoheitsgebiete	Begründung der Nichtaufnahme von Informationen
+-	-	-
+Offenlegung von in früheren Geschäftsjahren nicht aufgenommenen Informationen	Offenlegung von in früheren Geschäftsjahren nicht aufgenommenen Informationen	Offenlegung von in früheren Geschäftsjahren nicht aufgenommenen Informationen
+-	-	-
+
+Abschnitt 5. Erläuterungen zu wesentlichen Diskrepanzen zwischen gezahlten und noch zu zahlenden Ertragsteuern
+
+Erläuterungen zu wesentlichen Diskrepanzen zwischen gezahlten und noch zu zahlenden Ertragsteuern	Erläuterungen zu wesentlichen Diskrepanzen zwischen gezahlten und noch zu zahlenden Ertragsteuern
+-	-

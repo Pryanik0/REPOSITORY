@@ -1,0 +1,285 @@
+{
+  "provider": "kununu",
+  "backend": "browser",
+  "status": "ok",
+  "query": "XION GmbH",
+  "profile": {
+    "url": "https://www.kununu.com/de/xion2",
+    "name": "XION GmbH",
+    "overall_score": 3.6,
+    "review_count": 15,
+    "recommendation_percent": 50,
+    "recommendation_period": "last_2_years",
+    "observed_at": "2026-11-25T17:14:52.321640+00:00"
+  },
+  "reviews": [
+    {
+      "id": "67ae5dd0-c671-4278-aee9-9c431e9b3bb4",
+      "url": "https://www.kununu.com/de/xion2/bewertung/67ae5dd0-c671-4278-aee9-9c431e9b3bb4",
+      "title": "Bewertung - Xion",
+      "content": "Jeder fühlt sich im Team Willkommen\n\nSehr gut\n\nTop\n\nMit Respekt und Wertschätzung\n\nKönnte besser laufen\n\nDas gibt immer..",
+      "rating": 4.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Jeder fühlt sich im Team Willkommen",
+        "workLife": "Sehr gut",
+        "teamwork": "Top",
+        "leadership": "Mit Respekt und Wertschätzung",
+        "communication": "Könnte besser laufen",
+        "tasks": "Das gibt immer.."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 4.0,
+        "workConditions": 4.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 4.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-11-16T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "6bd283b3-3694-4ae6-b600-8dcf9b05fa50",
+      "url": "https://www.kununu.com/de/xion2/bewertung/6bd283b3-3694-4ae6-b600-8dcf9b05fa50",
+      "title": "Schöner Mittelstand mit hohem Wachstumspotential",
+      "content": "Die Produkte, die Vision und die Motivation.\n\nUnternehmen ist relativ klein und manche Mitarbeiter klinken sich aus. Das Unternehmen könnte mit Fokus auf die motivierten Mitarbeiter deutlich erfolgreicher sein.\n\nProzessoptimierungen. Büroräume \"verschönern\".\n\nKonstruktiv. Man sieht, dass das Management das Unternehmen voranbringen möchte. Das Produkt und der Markt sind interessant\n\nSehr gut. Solides Portfolio und Markenimage.\n\nFreiheiten in Bezug auf mobiles und digitales Arbeiten. Sowie arbeiten vor Ort.\n\nKönnte verbessert werden\n\nGut\n\nNicht speziell aufgefallen. Produktion und Entwicklung ist am Standort.\n\nIst gut. Kann natürlich immer besser sein.\n\nViele Ältere Mitarbeiter auch eingestellt worden und über das Rentenalter hinaus beschäftigt.\n\nFair\n\nGut und fair\n\nViel über E-mail und Teams. Ist modern, man kann aber auch direkt jeden Kollegen ansprechen\n\nAus meiner Sicht nicht ungleich\n\nMedizintechnikmarkt ist innovativ und sicher",
+      "rating": 3.8,
+      "sections": {
+        "positive": "Die Produkte, die Vision und die Motivation.",
+        "negative": "Unternehmen ist relativ klein und manche Mitarbeiter klinken sich aus. Das Unternehmen könnte mit Fokus auf die motivierten Mitarbeiter deutlich erfolgreicher sein.",
+        "suggestion": "Prozessoptimierungen. Büroräume \"verschönern\"."
+      },
+      "factor_comments": {
+        "atmosphere": "Konstruktiv. Man sieht, dass das Management das Unternehmen voranbringen möchte. Das Produkt und der Markt sind interessant",
+        "image": "Sehr gut. Solides Portfolio und Markenimage.",
+        "workLife": "Freiheiten in Bezug auf mobiles und digitales Arbeiten. Sowie arbeiten vor Ort.",
+        "career": "Könnte verbessert werden",
+        "salary": "Gut",
+        "environment": "Nicht speziell aufgefallen. Produktion und Entwicklung ist am Standort.",
+        "teamwork": "Ist gut. Kann natürlich immer besser sein.",
+        "oldColleagues": "Viele Ältere Mitarbeiter auch eingestellt worden und über das Rentenalter hinaus beschäftigt.",
+        "leadership": "Fair",
+        "workConditions": "Gut und fair",
+        "communication": "Viel über E-mail und Teams. Ist modern, man kann aber auch direkt jeden Kollegen ansprechen",
+        "equality": "Aus meiner Sicht nicht ungleich",
+        "tasks": "Medizintechnikmarkt ist innovativ und sicher"
+      },
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 4.0,
+        "communication": 4.0,
+        "workConditions": 3.0,
+        "leadership": 4.0,
+        "teamwork": 3.0,
+        "oldColleagues": 5.0,
+        "equality": 4.0,
+        "career": 3.0,
+        "salary": 3.0,
+        "image": 5.0,
+        "environment": 3.0,
+        "tasks": 4.0
+      },
+      "published_at": "2026-04-15T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "711b797d-3104-4311-8786-2544d868348f",
+      "url": "https://www.kununu.com/de/xion2/bewertung/711b797d-3104-4311-8786-2544d868348f",
+      "title": "Negative Entwicklung",
+      "content": "Es zählt nicht der Einzelne MA nur Umsatz und Profit. Sie haben den Zugang zur Belegschaft,in meinen Augen,verloren.\n\nHat in den letzten Jahren sehr gelitten,da einzelne MA Klatsch und Tratsch verbreiten können ohne ausgebremst zu werden. Das vergiftet leider das Klima. Die Art und Weise wie die neue Geschäftsführung ,seit einigen Monaten,Änderungen impliziert ist zum Teil sehr herabwürdigend und der Umgangston(inhaltlich)...als stünde hier noch die Mauer.\nArrogant und von oben herab.\n\nEinfach die Entwicklung der Bewertungen anschauen, es geht bergab.\n\nGleitzeit,Urlaub wird immer gewährleistet ,wenn nichts extremes entgegensteht,HO wo möglich\n\nGibt wenige bis keine Möglichkeit.\n\nGehälter entsprechen nicht immer den Verantwortungen und/oder der Zugehörigkeit zu der Firma. Oft wird die Lohnstruktur als unfair wahrgenommen. (Grad im Vergleich mit denen am Hauptsitz des Mutterkonzernes (Tuttlingen), wo das Leben günstiger ist als in der Hauptstadt!) Es wird sich am unteren Lohnsigment orientiert.\n\nEs wird nicht angesprochen,wenn manch einer sich daneben benimmt,sodass sich auch nichts ändert. Manch eine/r kann sich und sein Verhalten nicht reflektieren ,was sich sehr negativ auf Alle auswirkt.\nDennoch gibt's es einige Freundschaften auch im Privaten\n\nAb und an extremer Lärmpegel, keine Klima(im Sommer sehr warm in der Produktion) Tische nicht höhenverstellbar, ergo keine ergonomischen Arbeitsplätze, teilweise veraltete Mikroskope ohne verstellbare Okulare. Kann einen stören,muss aber nicht, ist sehr Subjektiv\n\nEntscheidungsträger an der Spitze sind nur Herren. Nach unten auch Frauen.\n\nVieles wurde im Rahmen der Umstrukturierung ausgelagert, sodass es nun ziemlich eintönig ist,im Vergleich zu vorher,was neuen MA sicher nicht auffällt, aber wer es anders kennt...ist zum Teil gefrustet",
+      "rating": 1.9,
+      "sections": {
+        "positive": null,
+        "negative": "Es zählt nicht der Einzelne MA nur Umsatz und Profit. Sie haben den Zugang zur Belegschaft,in meinen Augen,verloren.",
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Hat in den letzten Jahren sehr gelitten,da einzelne MA Klatsch und Tratsch verbreiten können ohne ausgebremst zu werden. Das vergiftet leider das Klima. Die Art und Weise wie die neue Geschäftsführung ,seit einigen Monaten,Änderungen impliziert ist zum Teil sehr herabwürdigend und der Umgangston(inhaltlich)...als stünde hier noch die Mauer.\nArrogant und von oben herab.",
+        "image": "Einfach die Entwicklung der Bewertungen anschauen, es geht bergab.",
+        "workLife": "Gleitzeit,Urlaub wird immer gewährleistet ,wenn nichts extremes entgegensteht,HO wo möglich",
+        "career": "Gibt wenige bis keine Möglichkeit.",
+        "salary": "Gehälter entsprechen nicht immer den Verantwortungen und/oder der Zugehörigkeit zu der Firma. Oft wird die Lohnstruktur als unfair wahrgenommen. (Grad im Vergleich mit denen am Hauptsitz des Mutterkonzernes (Tuttlingen), wo das Leben günstiger ist als in der Hauptstadt!) Es wird sich am unteren Lohnsigment orientiert.",
+        "teamwork": "Es wird nicht angesprochen,wenn manch einer sich daneben benimmt,sodass sich auch nichts ändert. Manch eine/r kann sich und sein Verhalten nicht reflektieren ,was sich sehr negativ auf Alle auswirkt.\nDennoch gibt's es einige Freundschaften auch im Privaten",
+        "workConditions": "Ab und an extremer Lärmpegel, keine Klima(im Sommer sehr warm in der Produktion) Tische nicht höhenverstellbar, ergo keine ergonomischen Arbeitsplätze, teilweise veraltete Mikroskope ohne verstellbare Okulare. Kann einen stören,muss aber nicht, ist sehr Subjektiv",
+        "equality": "Entscheidungsträger an der Spitze sind nur Herren. Nach unten auch Frauen.",
+        "tasks": "Vieles wurde im Rahmen der Umstrukturierung ausgelagert, sodass es nun ziemlich eintönig ist,im Vergleich zu vorher,was neuen MA sicher nicht auffällt, aber wer es anders kennt...ist zum Teil gefrustet"
+      },
+      "factor_scores": {
+        "atmosphere": 1.0,
+        "workLife": 3.0,
+        "communication": 2.0,
+        "workConditions": 2.0,
+        "leadership": 2.0,
+        "teamwork": 3.0,
+        "oldColleagues": 3.0,
+        "equality": 1.0,
+        "career": 1.0,
+        "salary": 1.0,
+        "image": 2.0,
+        "environment": 2.0,
+        "tasks": 2.0
+      },
+      "published_at": "2025-06-23T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "0bda24cc-e4bd-40d8-bf16-5b666f29f0d4",
+      "url": "https://www.kununu.com/de/xion2/bewertung/0bda24cc-e4bd-40d8-bf16-5b666f29f0d4",
+      "title": "Seit Einstellung keine Gehaltserhöhung, trotz Inflation etc.",
+      "content": "",
+      "rating": 2.4,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-01-23T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": false
+    }
+  ],
+  "review_limit": 15,
+  "review_period": {
+    "since": "2024-11-25T00:00:00+00:00",
+    "until": "2026-11-25T17:14:49.831445+00:00",
+    "date_field": "published_at",
+    "missing_dates": "excluded"
+  },
+  "factor_scores_aggregated": {
+    "atmosphere": {
+      "mean": 3.33,
+      "count": 3
+    },
+    "workLife": {
+      "mean": 4.0,
+      "count": 3
+    },
+    "communication": {
+      "mean": 3.33,
+      "count": 3
+    },
+    "workConditions": {
+      "mean": 3.0,
+      "count": 3
+    },
+    "leadership": {
+      "mean": 3.67,
+      "count": 3
+    },
+    "teamwork": {
+      "mean": 3.67,
+      "count": 3
+    },
+    "oldColleagues": {
+      "mean": 4.33,
+      "count": 3
+    },
+    "equality": {
+      "mean": 3.33,
+      "count": 3
+    },
+    "career": {
+      "mean": 3.0,
+      "count": 3
+    },
+    "salary": {
+      "mean": 2.67,
+      "count": 3
+    },
+    "image": {
+      "mean": 4.0,
+      "count": 3
+    },
+    "environment": {
+      "mean": 3.33,
+      "count": 3
+    },
+    "tasks": {
+      "mean": 3.67,
+      "count": 3
+    }
+  },
+  "coverage": "bounded_employee_review_sample_last_2_years_not_all_reviews",
+  "diagnostics": {
+    "pages": [
+      {
+        "page": "reviews",
+        "page_number": 1,
+        "load_more_clicks": 0,
+        "requested_url": "https://www.kununu.com/de/xion2/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\XION-8033f08d\\browser\\reviews.html",
+        "browser_step": 40,
+        "final_url": "https://www.kununu.com/de/xion2/kommentare",
+        "observed_at": "2026-11-25T17:14:51.811347+00:00",
+        "http_status": 200,
+        "factor_cards_expanded": 6,
+        "reviews_collected": 3
+      },
+      {
+        "page": "reviews",
+        "page_number": 2,
+        "load_more_clicks": 1,
+        "requested_url": "https://www.kununu.com/de/xion2/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\XION-8033f08d\\browser\\reviews-2.html",
+        "browser_step": 41,
+        "final_url": "https://www.kununu.com/de/xion2/kommentare",
+        "observed_at": "2026-11-25T17:14:53.165606+00:00",
+        "actions_complete": true,
+        "factor_cards_expanded": 1,
+        "reviews_collected": 4
+      }
+    ]
+  },
+  "source_url": "https://www.kununu.com/de/xion2",
+  "profile_source": "https://www.kununu.com/de/xion2/kommentare",
+  "review_stop_reason": "end_of_available_reviews",
+  "factor_score_coverage": {
+    "reviews_with_scores": 3,
+    "reviews_without_scores": 1,
+    "reviews_with_all_known_scores": 3,
+    "status": "partial"
+  },
+  "request_limits": {
+    "max_browser_steps": 295,
+    "browser_steps": 41,
+    "zyte_requests": 0
+  },
+  "reason": null
+}

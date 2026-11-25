@@ -1,0 +1,56 @@
+[
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=4pSeo52ngIFlMM-teT9T4NbJClYeBuqXgDITfanfwMOPhCRkmJ2D5FZWn79R6aMO7RvW2X_iE2H2p52XdXjcpsXXYXtrLK2QAj-02RbjMv8GlJk5Gv16aAhWCuaLPvgpax-qAFeOnNs5JFaYnoSUBX7BbiuznZOQp6rV8T1U_Q1ZH6lS3xnS3ebxLvPLgpaFIeGED7cDQ0FyhFTcoG9s5ldVPbVuyoj_KSd5Gya3ql93KNa7",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Novaled-cfec40d3\\finanzberichte\\publication-1\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Novaled-cfec40d3\\finanzberichte\\publication-1\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Novaled-cfec40d3\\finanzberichte\\publication-1\\publication.txt",
+    "index": 1,
+    "category": "finanzberichte",
+    "company": "Novaled GmbH, Dresden",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+    "documents_path": "output\\unternehmensregister\\Novaled-cfec40d3\\finanzberichte\\publication-1\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=CGj1JHchC8NggB58N-bDaaNTUsJ4OXRdXtLoIveclUn5LqYdHuYW3BmuMcGNk_yIPRP22G0rk9dBfy4Upk3AReTZD582c2ih0Z9ArCAEzPz20RywxIfKrY8R5BXpZFz-6C851ovI--mWrc0GFnuNuWftQoKPuew0sZxwx5C_aunyq9x_vG7OZglY5nisk8YaVfCOwglt7yQhea71vp2tj4IR05pTiPSaAQzT1oEfMnTs4VO_",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Novaled-cfec40d3\\finanzberichte\\publication-2\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Novaled-cfec40d3\\finanzberichte\\publication-2\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Novaled-cfec40d3\\finanzberichte\\publication-2\\publication.txt",
+    "index": 2,
+    "category": "finanzberichte",
+    "company": "Novaled GmbH, Dresden",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+    "documents_path": "output\\unternehmensregister\\Novaled-cfec40d3\\finanzberichte\\publication-2\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=0ctNV9ntTt2RCwYCvQda1vLM65pHJOXRW4j2tlQGeljd0mN_Fi1aTIcMu8e7qruv9T_Vu_tI-Lj_o-RyEaiGWJzGlSFWm62zPL7XfurDpmARuPjEsO7dJRlWKi26NjnBf2c8738K3td2av8Xh3KypoFWw4XzIXTKe24eoR-yIo9wFKzYfZEsDlY_1zw6fP3O4_l_Mk1YtjuH0PCzwV6C8xQkaZEJkcZITr9x-f55Pgx5o9z0",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Novaled-cfec40d3\\finanzberichte\\publication-4\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Novaled-cfec40d3\\finanzberichte\\publication-4\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Novaled-cfec40d3\\finanzberichte\\publication-4\\publication.txt",
+    "index": 4,
+    "category": "finanzberichte",
+    "company": "Novaled GmbH, Dresden",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+    "documents_path": "output\\unternehmensregister\\Novaled-cfec40d3\\finanzberichte\\publication-4\\documents.json"
+  }
+]

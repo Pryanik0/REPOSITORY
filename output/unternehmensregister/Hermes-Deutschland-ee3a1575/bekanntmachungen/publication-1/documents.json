@@ -1,0 +1,160 @@
+[
+  {
+    "name": "Hermes Germany GmbH",
+    "original_name": "publication.html",
+    "title": "publication.html",
+    "company": "Hermes Germany GmbH",
+    "format": "html",
+    "text": "Hermes Germany GmbH\n\nHamburg\n\nHiermit zeigen wir an, dass sich die Zusammensetzung des Aufsichtsrates geändert hat, und geben die aktuelle Aufstellung des Aufsichtsrates wie folgt bekannt:\n\nscroll\n\nArbeitgebervertreter:\tArbeitnehmervertreter:\nKay Schiebur, Vorsitzender Kaufmann, Köln\tOliver Grund, stv. Vorsitzender gewerblicher Arbeitnehmer, Heinsberg\nDr. Marcus Ackermann Kaufmann, Hamburg\tRalf Cremerius, gewerblicher Arbeitnehmer, Neuss\nDr. Nelly Gerig, Juristin, Hamburg\tMichael Jacobs, kfm. Angestellter, Alveslohe\nKaty Roewer, Kauffrau, Hamburg\tUlrike Lässig, kfm. Angestellte, Hamburg\nBernd Schwenger, Kaufmann, München\tSilvia Reichert Gewerkschaftssekretärin, Bad Schwartau\nProf. Dr. Christoph Tripp, Professor Distributions- und Handelslogistik, Ottensoos\tLars-Uwe Rieck, Gewerkschaftssekretär, Grinau\n\nHamburg, den 3. Juni 2026\n\nDie Geschäftsführung",
+    "tables": [
+      {
+        "index": 1,
+        "title": "Hamburg",
+        "rows": [
+          [
+            "Arbeitgebervertreter:",
+            "Arbeitnehmervertreter:"
+          ],
+          [
+            "Kay Schiebur, Vorsitzender Kaufmann, Köln",
+            "Oliver Grund, stv. Vorsitzender gewerblicher Arbeitnehmer, Heinsberg"
+          ],
+          [
+            "Dr. Marcus Ackermann Kaufmann, Hamburg",
+            "Ralf Cremerius, gewerblicher Arbeitnehmer, Neuss"
+          ],
+          [
+            "Dr. Nelly Gerig, Juristin, Hamburg",
+            "Michael Jacobs, kfm. Angestellter, Alveslohe"
+          ],
+          [
+            "Katy Roewer, Kauffrau, Hamburg",
+            "Ulrike Lässig, kfm. Angestellte, Hamburg"
+          ],
+          [
+            "Bernd Schwenger, Kaufmann, München",
+            "Silvia Reichert Gewerkschaftssekretärin, Bad Schwartau"
+          ],
+          [
+            "Prof. Dr. Christoph Tripp, Professor Distributions- und Handelslogistik, Ottensoos",
+            "Lars-Uwe Rieck, Gewerkschaftssekretär, Grinau"
+          ]
+        ],
+        "cells": [
+          [
+            {
+              "text": "Arbeitgebervertreter:",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "Arbeitnehmervertreter:",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ],
+          [
+            {
+              "text": "Kay Schiebur, Vorsitzender Kaufmann, Köln",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "Oliver Grund, stv. Vorsitzender gewerblicher Arbeitnehmer, Heinsberg",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ],
+          [
+            {
+              "text": "Dr. Marcus Ackermann Kaufmann, Hamburg",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "Ralf Cremerius, gewerblicher Arbeitnehmer, Neuss",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ],
+          [
+            {
+              "text": "Dr. Nelly Gerig, Juristin, Hamburg",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "Michael Jacobs, kfm. Angestellter, Alveslohe",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ],
+          [
+            {
+              "text": "Katy Roewer, Kauffrau, Hamburg",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "Ulrike Lässig, kfm. Angestellte, Hamburg",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ],
+          [
+            {
+              "text": "Bernd Schwenger, Kaufmann, München",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "Silvia Reichert Gewerkschaftssekretärin, Bad Schwartau",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ],
+          [
+            {
+              "text": "Prof. Dr. Christoph Tripp, Professor Distributions- und Handelslogistik, Ottensoos",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "Lars-Uwe Rieck, Gewerkschaftssekretär, Grinau",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ]
+        ]
+      }
+    ]
+  }
+]

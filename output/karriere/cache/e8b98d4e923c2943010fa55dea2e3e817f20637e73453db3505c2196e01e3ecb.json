@@ -1,0 +1,9 @@
+{
+  "url": "https://www.gerresheimer.com/robots.txt",
+  "final_url": "https://www.gerresheimer.com/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "fetched_at": "2026-11-25T16:37:42.094156+00:00",
+  "text": "User-agent: *\n\nDisallow: /*?id=*\nDisallow: /*&id=*\n\nDisallow: /*?L=0*\nDisallow: /*&L=0*\n\n# Should always be protected (.htaccess)\nDisallow: /*/Private/*\nDisallow: /fileadmin/templates/html/*\nDisallow: /*/Configuration/*\n\nDisallow: /typo3temp/*\nAllow: /typo3temp/assets/*\n\nDisallow: *.sql\nDisallow: *.sql.gz\n\nSitemap: https://www.gerresheimer.com/sitemap.xml\nSitemap: https://www.gerresheimer.com/en/sitemap.xml\nSitemap: https://www.gerresheimer.com/cn/sitemap.xml\n"
+}

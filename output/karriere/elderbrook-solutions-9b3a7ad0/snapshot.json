@@ -1,0 +1,127 @@
+{
+  "provider": "karriere",
+  "company": {
+    "key": "elderbrook solutions",
+    "name": "elderbrook solutions GmbH",
+    "location": "Biberach an der Riß",
+    "name_source": "company_name",
+    "urls": [
+      "https://elderbrook.de/"
+    ],
+    "kununu_url": "https://www.kununu.com/de/elderbrook-solutions1",
+    "branches": [
+      "Pharma & Medizintechnik"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "88400",
+    "street": "Prinz-Eugen-Weg 24",
+    "region": "Baden-Württemberg",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T15:59:54.502324+00:00",
+  "status": "no_results",
+  "jobs": [],
+  "pages": [
+    {
+      "url": "https://elderbrook.de/",
+      "final_url": "https://elderbrook.de/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://elderbrook.de/career/",
+      "final_url": "https://elderbrook.de/career/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://elderbrook.de/career",
+      "final_url": "https://elderbrook.de/career/",
+      "redirects": [
+        {
+          "source": "https://elderbrook.de/career",
+          "target": "https://elderbrook.de/career/",
+          "status": 301
+        }
+      ],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://elderbrook.de/open-positions/",
+      "final_url": "https://elderbrook.de/open-positions/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://elderbrook-solutions-gmbh.jobs.personio.de/",
+      "final_url": "https://elderbrook-solutions-gmbh.jobs.personio.de/xml",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": true
+    }
+  ],
+  "errors": [],
+  "excluded": [],
+  "sources": [
+    {
+      "url": "https://elderbrook.de/",
+      "linked_from": null,
+      "mechanism": "configured"
+    },
+    {
+      "url": "https://elderbrook.de/career/",
+      "linked_from": "https://elderbrook.de/career",
+      "mechanism": "http_redirect"
+    },
+    {
+      "url": "https://elderbrook-solutions-gmbh.jobs.personio.de/",
+      "linked_from": "https://elderbrook.de/open-positions/",
+      "mechanism": "employer_link"
+    },
+    {
+      "url": "https://elderbrook-solutions-gmbh.jobs.personio.de/xml",
+      "linked_from": "https://elderbrook-solutions-gmbh.jobs.personio.de/",
+      "mechanism": "public_job_feed",
+      "adapter": "personio"
+    }
+  ],
+  "adapter_attempts": [
+    {
+      "provider": "personio",
+      "portal_url": "https://elderbrook-solutions-gmbh.jobs.personio.de/",
+      "url": "https://elderbrook-solutions-gmbh.jobs.personio.de/xml",
+      "status": "ok",
+      "jobs_found": 0
+    }
+  ],
+  "coverage": {
+    "scope": "configured_sites_and_linked_career_portals",
+    "complete": true,
+    "pending_pages": 0,
+    "page_limit_reached": false,
+    "job_limit_reached": false,
+    "request_limit_reached": false,
+    "pages_attempted": 5,
+    "pages_read": 5,
+    "dynamic_or_unparsed_pages": false,
+    "http": {
+      "requests_attempted": 8,
+      "allocated_requests": 315,
+      "cache_hits": 0
+    }
+  },
+  "pending_urls": [],
+  "jobs_before_keyword_filter": 0,
+  "reason": "explicit_no_open_jobs"
+}

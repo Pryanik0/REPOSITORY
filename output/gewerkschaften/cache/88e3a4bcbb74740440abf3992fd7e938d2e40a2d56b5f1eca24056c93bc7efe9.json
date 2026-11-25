@@ -1,0 +1,9 @@
+{
+  "url": "https://www.djv.de/robots.txt",
+  "final_url": "https://www.djv.de/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "fetched_at": "2026-11-25T15:49:03.916138+00:00",
+  "text": "User-agent: *\nAllow: /\n\n# folders\nDisallow: /typo3/\nDisallow: /typo3conf/\nAllow: /typo3conf/ext/\nAllow: /typo3temp/\n\n# parameters\nDisallow: /*?id=*                       # non speaking URLs\nDisallow: /*cHash=*                     # no cHash\nAllow:    /*sitemap=*&cHash=*\nDisallow: /*tx_powermail_pi1            # no powermail thanks pages\nDisallow: /*tx_form_formframework       # no forms\nDisallow: /*tx_intcheckout              # no checkout\nDisallow: /*__hstc=*\nDisallow: /*__hsfp=*\nDisallow: /*__hssc=*\nDisallow: /*adgroupid=*\nDisallow: /*creative=*\nDisallow: /*gad_source=*\nDisallow: /*keyword=*\nDisallow: /*targetid=*\nDisallow: /*_ctm=*\nDisallow: /*utm_source=*\nDisallow: /*utm_medium=*\nDisallow: /*utm_campaign=*\nDisallow: /*utm_term=*\nDisallow: /*utm_content=*\nDisallow: /*fbclid=*\nDisallow: /*ADMCMD_simUser=*\n"
+}

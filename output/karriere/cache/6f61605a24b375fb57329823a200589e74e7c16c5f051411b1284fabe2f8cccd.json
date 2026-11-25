@@ -1,0 +1,9 @@
+{
+  "url": "https://myjobboard.de/dr-pfleger/Jobs",
+  "final_url": "https://myjobboard.de/dr-pfleger/Jobs",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/html",
+  "fetched_at": "2026-11-25T16:08:34.344151+00:00",
+  "text": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><link id=\"favicon\" rel=\"icon\" href=\"public/favicon.ico\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><link rel=\"apple-touch-icon\" href=\"public/logo192.png\"/><link rel=\"manifest\" href=\"public/manifest.json\"/><title>Stellenliste</title><script defer=\"defer\" src=\"/static/js/main.a4f3c5da.js\"></script><link href=\"/static/css/main.82fcbdab.css\" rel=\"stylesheet\"></head><body><noscript>You need to enable JavaScript to run this app.</noscript><div id=\"root\"></div><script type=\"text/javascript\" src=\"/iframeResizer.contentWindow.min.js\"></script></body></html>"
+}

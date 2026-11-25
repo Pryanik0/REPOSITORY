@@ -1,0 +1,84 @@
+{
+  "provider": "gewerkschaften",
+  "status": "partial",
+  "company": {
+    "key": "tink",
+    "name": "tink",
+    "location": "Berlin",
+    "name_source": "company_name",
+    "urls": [
+      "https://tink.de"
+    ],
+    "kununu_url": null,
+    "branches": [
+      "Einzelhandel"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "10178",
+    "street": "Sophienstrasse 21",
+    "region": "Berlin",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "relevance": "company_mention",
+  "date_from": "2026-05-25",
+  "date_to": "2026-11-25",
+  "search_terms": [
+    "tink"
+  ],
+  "truncated": true,
+  "associations": [
+    {
+      "name": "DGB",
+      "status": "partial",
+      "manifest": "output\\gewerkschaften\\_sites\\DGB-df3cffd4\\fallback\\manifest.json",
+      "phase": "fallback",
+      "fallback_reason": "no_matching_primary_source",
+      "search_mode": "site_search",
+      "searches": [
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=tink",
+          "company_key": "tink",
+          "query": "tink",
+          "mechanism": "get_form",
+          "status": "fetched"
+        }
+      ]
+    },
+    {
+      "name": "ver.di",
+      "status": "partial",
+      "manifest": "output\\gewerkschaften\\_sites\\ver-di-51994702\\fallback\\manifest.json",
+      "phase": "fallback",
+      "fallback_reason": "no_matching_primary_source",
+      "search_mode": "site_search",
+      "searches": [
+        {
+          "url": "https://www.verdi.de/suche?q=tink",
+          "company_key": "tink",
+          "query": "tink",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        }
+      ]
+    }
+  ],
+  "article_count": 0,
+  "articles": [],
+  "pdfs": {
+    "download_policy": "company_in_link_metadata_or_filename",
+    "downloaded_on_sources": 0,
+    "mentioning_company": 0,
+    "retained_as_articles": 0,
+    "index_path": null
+  },
+  "search_coverage": {
+    "fetched": 2,
+    "error": 0,
+    "not_attempted": 0,
+    "ignored_query": 0,
+    "sites_without_search": 0
+  },
+  "reason": "search_incomplete"
+}

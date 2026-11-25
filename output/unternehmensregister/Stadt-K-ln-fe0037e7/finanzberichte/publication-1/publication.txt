@@ -1,0 +1,854 @@
+Kliniken der Stadt Köln gGmbH — Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024
+Kliniken der Stadt Köln gGmbH
+
+Köln
+
+Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024
+
+Lagebericht für das Geschäftsjahr 2024
+
+A. Geschäfts- und Rahmenbedingungen und Marktstellung
+
+Das preisbereinigte Bruttoinlandsprodukt (BIP) war im Jahr 2024 nach ersten Berechnungen des Statistischen Bundesamtes (Destatis) um 0,2 % niedriger als im Vorjahr. Kalenderbereinigt betrug der Rückgang der Wirtschaftsleistung 0,2 %. Konjunkturelle und strukturelle Belastungen standen im Jahr 2024 einer besseren wirtschaftlichen Entwicklung im Wege", sagte Ruth Brand bei der Pressekonferenz "Bruttoinlandsprodukt 2024 für Deutschland" in Berlin. "
+
+Die Ausgaben für Gesundheit in Deutschland betrugen nach Angaben des Statistischen Bundesamtes 2023 insgesamt 501 Milliarden Euro, das entspricht 12,0 Prozent des Bruttoinlandsproduktes. Die Hauptlast der Gesundheitsausgaben trug die gesetzliche Krankenversicherung (GKV) mit 55,7 Prozent. Damit übernimmt die GKV einen Großteil der Verantwortung für die Gesundheit der Menschen.
+
+(https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Gesundheit/Gesundheitsausgaben/_inhalt.html; Werte für 2024 liegen noch nicht vor)
+
+Die Leistungsausgaben der GKV stiegen weiterhin kontinuierlich an. Auch 2023 setzte sich dieser Trend fort: 288,62 Milliarden Euro gaben die Krankenkassen für die Gesundheitsversorgung ihrer Versicherten aus, +5,2 Prozent mehr als im Vorjahr.
+
+Der größte Teil der Ausgaben entfiel auch 2023 mit 93,95 Milliarden Euro (+6,6 Prozent) auf den Krankenhausbereich. Etwa halb so groß war das Ausgabenvolumen für die ambulante Versorgung. Es lag bei 47,1 Milliarden Euro (+2,1 Prozent). Noch darüber liegen die Ausgaben für die Arzneimittelversorgung. Hierfür wendete die GKV 50,2 Milliarden Euro auf (+2,7 Prozent).
+
+Im Jahr 2023 standen in insgesamt 1.874 (Vorjahr: 1.893) Krankenhäusern Deutschlands 476.924 (Vorjahr: 480.382) Betten für die stationäre Versorgung der Bevölkerung zur Verfügung. Ein Krankenhausaufenthalt dauerte wie im Vorjahr durchschnittlich 7,2 Tage, die Bettenauslastung stieg gegenüber dem Vorjahr um 3,1 Prozentpunkte auf 71,2 %.
+
+Der Anteil der Krankenhäuser in privater Trägerschaft, der bei Einführung der bundeseinheitlichen Krankenhausstatistik 1991 noch bei 14,8 % lag, steigt seit Jahren kontinuierlich an. 2023 ist bereits mehr als jedes dritte Krankenhaus (40,0 %; Vorjahr: 39,9 %) in privater Trägerschaft. Im gleichen Zeitraum sank der Anteil öffentlicher Krankenhäuser von 46,0 % auf 28,5%. Der Anteil freigemeinnütziger Krankenhäuser hat sich demgegenüber geringfügiger auf 31,5 % geändert (1991: 39,1 %). Weil private Einrichtungen mit durchschnittlich 131 (Vorjahr: 130) Betten zu den kleinen Krankenhäusern zählen, öffentliche Krankenhäuser mit durchschnittlich 418 (Vorjahr: 420) Betten jedoch mehr als dreimal so groß sind, stand weiterhin annähernd jedes zweite Bett (46,9 %) in einem öffentlichen Krankenhaus, ein Drittel der Krankenhausbetten (32,4 %) stand in einem freigemeinnützigen und ein Fünftel (20,7 %) in einem privaten Krankenhaus. (https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Gesundheit/Krankenhaeuser/Tabellen/eckzahlen-krankenhaeuser.html)
+
+Die Zahl der Beschäftigten im Gesundheitswesen wächst seit der Corona-Pandemie langsamer als in der Zeit davor. Nach Angaben des Statistischen Bundesamtes (Destatis) arbeiteten Ende 2023 knapp 6,1 Millionen Personen in diesem Sektor. Das waren 27.000 oder 0,5 Prozent mehr als im Vorjahr. Zwischen den Jahren 2019 und 2023 betrug die Zunahme demnach 5,3 Prozent. Von 2015 bis 2019, dem Vergleichszeitraum vor der Pandemie, hatte sie bei 6,9 Prozent gelegen. Die stärksten Personalzuwächse gab es seit 2019 im Gesundheitsschutz und in der pharmazeutischen Industrie.
+
+Umgerechnet auf Vollzeitstellen erhöhte sich die Beschäftigtenzahl laut Destatis von 2019 bis Ende 2023 um 4,4 Prozent auf gut 4,3 Millionen. Im Vergleichszeitraum bis 2019 war die Zahl dieser sogenannten Vollzeitäquivalente um 6,3 Prozent gestiegen.
+
+(https://www.aok.de/pp/gg/update/zahl-der-beschaeftigten-im-gesundheitswesen-waechst-langsamer/)
+
+Die Umstellung des Vergütungssystems in den Jahren 2003/2004 von tagesgleichen Entgelten auf Fallpauschalen hat nach Abschluss der Konvergenzphase in 2010 zu einem landeseinheitlichen Preissystem geführt. Der Landesbasisfallwert ohne Ausgleiche wurde in Nordrhein-Westfalen für 2024 auf € 4.206 festgesetzt (Vorjahr: € 3.992,52) und stand damit bundesweit in der Bandbreite von € 4.311 in Rheinland-Pfalz und € 4.201 in Thüringen, Sachsen-Anhalt und Sachsen am unteren Ende. Mit der langjährig angekündigten, aber bislang ausgebliebenen Einführung eines bundeseinheitlichen Basisfallwertes würden die Krankenhäuser Nordrhein-Westfalens über den Konvergenzzuschlag profitieren.
+
+In Köln und Umgebung sind die Kliniken der Stadt Köln gGmbH (im Folgenden auch bezeichnet als "Kliniken" oder "Kliniken der Stadt Köln") neben der Universitätsklinik Köln der größte Anbieter im Bereich der Regel- und Maximalversorgung. Die Klinken der Stadt Köln beschäftigen rund 4.500 Mitarbeiter, die rund 200.000 Patienten p.a. versorgen und betreiben drei in den Kölner Stadtteilen Merheim, Holweide und Riehl gelegene Krankenhäuser mit 1.335 somatischen Betten, eine Kinder- und Jugendpsychiatrie mit 68 Betten sowie eine Schule für Gesundheits-, Kranken- und Kinderkrankenpflege und leisten damit einen wichtigen Beitrag zur Sicherung der Versorgung der Bevölkerung in der Region. Das Krankenhaus in Merheim ist akademisches Lehrkrankenhaus der Universität zu Köln und der privaten Universität Witten/Herdecke. In Zusammenhang mit der Reakkreditierung der privaten Universität Herdecke wurden die Aktivitäten für Forschung und Lehre konsequent in Richtung einer integrativen und personalisierten Gesundheitsversorgung weiterentwickelt.
+
+Die Kliniken wurden mit Wirkung zum 1. Januar 2004 durch Ausgliederung zur Neugründung aus einem Eigenbetrieb der Stadt Köln in eine gemeinnützige Gesellschaft mit beschränkter Haftung umgewandelt. Alleingesellschafterin ist die Stadt Köln.
+
+B. Geschäftsverlauf
+
+Die Kliniken der Stadt Köln haben im Geschäftsjahr 2024 ein negatives, gegenüber dem Vorjahr verbessertes Jahresergebnis von € -25,1 Mio. (Vorjahr: € -28,6 Mio.) erzielt.
+
+Im Vergleich zum gemäß Wirtschaftsplan geplanten Ergebnis (€ -113,4 Mio.) ist ebenfalls eine deutlich positive Abweichung von € 88,3 Mio. zu verzeichnen. Bereinigt um den Betriebskostenzuschuss wurde das geplante Ergebnis 2024 um € 15,0 Mio. übertroffen.
+
+Damit das Betriebsergebnis zu dem des Vorjahres vergleichbar ist, haben wir den Betriebskostenzuschuss, der handelsrechtlich als sonstiger betrieblicher Ertrag auszuweisen ist, in der nachfolgenden Berichterstattung den neutralen Erträgen zugeordnet.
+
+Die Unternehmensleitung geht von einer insgesamt günstigen Geschäftsentwicklung aus.
+
+1.) Finanzielle Leistungsindikatoren
+
+Die Unternehmenssteuerung der Kliniken erfolgt insbesondere anhand der finanziellen Leistungsindikatoren Umsatzerlöse, Personalaufwand und Jahresergebnis. Die Gegenüberstellung dieser Indikatoren stellt sich im Vergleich zum Wirtschaftsplan für das Jahr 2024 wie folgt dar:
+
+scroll
+
+	Ist 2024	Plan (*) 2024	Abweichung	Abweichung
+	€ Mio.	€ Mio.	€ Mio.	%
+Umsatzerlöse	425,1	412,9	12,2	3,0
+Personalaufwendungen	319,6	317,4	2,2	0,7
+Jahresergebnis	-25,1	-113,4	88,3	-77,9
+Jahresergebnis bereinigt ( **)	-98,4	-113,4	15,0	-13,2
+
+(*): die Planwerte entsprechen den Werten gemäß Wirtschaftsplan 2024 v. 06.12.2024
+(**): beim bereinigten Jahresergebnis wird der Betriebskostenzuschuss über € 73,3 Mio. nicht berücksichtigt
+
+Die positive Abweichung zwischen den geplanten und tatsächlichen Umsatzerlösen um 3,0 % ist im Wesentlichen auf periodenfremde Erträge aus dem Pflegebudget 2020-2022 zurück zu führen (13,5 Mio. Euro).
+
+Die Abweichung der tatsächlichen zu den geplanten Umsatzerlösen stellt sich detailliert wie folgt dar:
+
+scroll
+
+	Ist 2024	Plan (*) 2024	Abweichung	Abweichung
+	€ Mio.	€ Mio.	€ Mio.	%
+Stationäre Erträge	329,3	334,7	-5,4	-1,6
+Erlöse aus Wahlleistungen	10,2	11,1	-0,9	-8,1
+Erlöse aus ambulanten Leistungen	25,4	22,4	3,0	13,3
+Nutzungsentgelte der Ärzte	3,6	5,7	-2,1	-37,1
+Sonstige Umsatzerlöse	56,6	38,9	17,7	45,5
+Umsatzerlöse	425,1	412,9	-12,2	-2,8
+
+(*): die Planwerte entsprechen den Werten gemäß Wirtschaftsplan 2024 v. 18.10.2023
+
+2.) Ertragslage
+
+Die Ertragslage für das Jahr 2024 stellt sich wie folgt dar:
+
+scroll
+
+	2024 € Mio.	2023 € Mio.	Veränderung Mio. €	%
+Stationäre Erträge	329,3	296,0	33,4	11,3
+Erlöse aus Wahlleistungen	10,2	9,6	0,6	6,0
+Erlöse aus ambulanten Leistungen	25,1	22,4	2,8	12,3
+Nutzungsentgelte der Ärzte	3,4	5,1	-1,7	-33,7
+Sonstige Umsatzerlöse	41,8	38,8	3,0	7,6
+Umsatzerlöse	409,8	371,9	37,9	10,2
+Bestandsveränderung	-0,7	-1,0	0,3	-27,0
+Zuweisungen u. Zuschüsse der öffentlichen Hand	2,2	6,8	-4,6	-67,7
+sonstige betriebliche Erträge	3,1	1,2	1,9	166,9
+Betriebsleistung	414,4	378,9	35,5	9,4
+Personalaufwand	-319,6	-290,3	-29,3	10,1
+Materialaufwand	-143,5	-135,9	-7,6	5,6
+sonstige betriebliche Aufwendungen	-38,3	-34,9	-3,5	9,9
+Betriebsergebnis	-87,0	-82,2	-4,8	5,8
+Investitionsergebnis	-8,5	-7,6	-0,9	-11,2
+Zinsergebnis	-17,1	-12,4	-4,8	38,5
+Ergebnis der gewöhnlichen Geschäftstätigkeit	-112,6	-102,2	-10,4	10,2
+neutrale Erträge	95,2	118,5	-23,3	-19,7
+neutrale Aufwendungen	-7,3	-44,8	37,5	-83,8
+Neutrales Ergebnis	87,9	73,7	14,2	19,3
+Ertragsteuern	-0,4	-0,1	-0,3	190,7
+Jahresergebnis	-25,1	-28,6	3,5	-12,3
+
+Im Vorjahresvergleich sind die Umsatzerlöse um 10,2 % bzw. € 37,9 Mio. gestiegen. Das Umsatzplus entfällt im Wesentlichen auf die stationären Erträge.
+
+Die Fallzahlen sind im Vergleich zum Vorjahr um 2,3 % gestiegen (2024: 47.565; Vorjahr: 46.503). In Merheim wurden 23.245 Patienten versorgt (Vorjahr: 22.948), in Holweide 15.641 (Vorjahr: 15.277) und In Riehl 8.679 (Vorjahr: 8.278). Die erzielten Casemixpunkte ("CMP") lagen in 2024 1.380 CMP über dem Vorjahreswert (47.107 CMP) und betrugen 48.486 CMP. Die geplante Fallzahl (47.147) wurde um 418 Fälle überstiegen, die geplanten Casemixpunkte (51.862 CMP) wurden nicht erreicht.
+
+Die Steigerung der sonstigen Umsatzerlöse um 7,6 % bzw. € 3 Mio. resultiert insbesondere aus gestiegenen Apothekenerlösen.
+
+Die Erträge aus Zuweisungen und Zuschüssen sind um € 4,6 Mio. gesunken. Dies resultiert im Wesentlichen aus dem Wegfall der öffentlichen Kompensationszahlungen für gestiegene Energiekosten.
+
+Die sonstigen betrieblichen Erträge betragen € 3,1 Mio. und liegen über dem Vorjahreswert (€ 1,2 Mio.). Ursächlich hierfür ist vor allem ein Erstattungsanspruch in Folge einer Bombenentschärfung beim Campus Projekt (zukünftige Zusammenlegung der Standorte Holweide und Riehl am Standort Merheim).
+
+Der Personalaufwand ist um € 29,3 Mio. bzw. 10,1 % gestiegen und beträgt € 319,6 Mio. Die Personalaufwandsquote (Verhältnis von Personalaufwand zu Betriebsleistung) beträgt 77,1 % (Vorjahr: 76,6 %). Die Anzahl der Vollkräfte im Jahresdurchschnitt 2024 beträgt 3.584,13 (Vorjahr: 3.306,20 VK). Im Vergleich zum Vorjahr stieg die Anzahl der Vollkräfte um 277,93, was einer Steigerung um 8,4% entspricht. Die Personalaufwendungen wurden durch die im Jahr 2024 erfolgten Tarifabschlüsse im Bereich des TVöD-VKA und TV-Ärzte/VKA erheblich beeinflusst. Im Bereich des TV-Ärzte war ab dem 01. Juli 2024 eine Tariferhöhung von 4 % zu finanzieren sowie eine Erhöhung von Nachtzuschlägen und Schichtarbeit. Im Bereich des TVöD wurde die Zahlung des Inflationsausgleiches bis zum Februar 2024 fortgesetzt. Darauffolgend musste ab dem 01. März 2024 eine durchschnittliche Erhöhung der Vergütung um 11% finanziert werden.
+
+Der Materialaufwand ist im Geschäftsjahr 2024 um € 7,6 Mio. bzw. 5,6 % gestiegen und beträgt € 143,5 Mio. Die Zunahme ist im Wesentlichen bedingt durch gestiegene Aufwendungen für medizinische Bedarfe (+ € 3,2 Mio.) und Energiekosten (+ € 1,6 Mio.).
+
+Die sonstigen betrieblichen Aufwendungen betragen € 38,3 Mio. und sind damit im Vorjahresvergleich um 9,9 % bzw. € 3,5 Mio. gestiegen. Ursächlich hierfür sind insbesondere gestiegene Instandhaltungskosten in Höhe von € 2,6 Mio.
+
+Das Betriebsergebnis für das Geschäftsjahr 2024 beträgt € -87,0 Mio. und liegt damit über dem Vorjahreswert (€ -82,2 Mio.).
+
+Das Investitionsergebnis ist wie in Vorjahren deutlich negativ und Ausdruck einer in der Vergangenheit unzureichenden öffentlichen Investitionsförderung und -finanzierung.
+
+Im Finanzergebnis werden im Wesentlichen Zinsaufwendungen aus nicht nach Krankenhausfinanzierungsrecht geförderten Darlehen und aus der Abzinsung langfristiger Rückstellungen ausgewiesen. Die Zinsaufwendungen sind im Vorjahresvergleich um € 4,8 Mio. auf € 17,1 Mio. gestiegen, was auf die Entwicklung des für die Gesellschafterdarlehen maßgeblichen Referenzzinssatzes EURIBOR zurückzuführen ist.
+
+Im neutralen Ergebnis, sind wie in den Vorjahren, der Betriebskostenzuschuss der Stadt Köln (€ 73,3 Mio.) sowie die Ausgleiche aus Vorjahren (€ 17,4 Mio.) die Hauptfaktoren bei den Erträgen. Im Aufwand sind es die periodenfremden Aufwendungen (€ 6,1 Mio.)'
+
+3.) Vermögenslage
+
+Die nachfolgend dargestellte Vermögenslage zeigt eine Zunahme der Bilanzsumme um 33,0 %. Die Veränderung resultiert im Bereich der Aktiva im Wesentlichen aus Zugängen zum Sachanlagevermögen (€ 42,7 Mio.) und den um € 200,7 Mio. gestiegenen Forderungen.
+
+Die Passiva zeigen eine erhebliche Abnahme des Fremdkapitals, der sich insbesondere aus der Umwandlung der Gesellschafterdarlehen von € 533,2 Mio. in eine Kapitalrücklage ergibt. Die Kliniken weisen dadurch zum 31. Dezember 2024 ein Eigenkapital von € 208,8 Mio. nach einen nicht durch Eigenkapital gedeckten Fehlbetrag im Vorjahr von € 299,3 Mio. aus.
+
+AKTIVA
+
+scroll
+
+	31.12.2024	Vorjahr	Veränderung	Veränderung
+	€ Mio.	€ Mio.	€ Mio.	%
+Anlagevermögen	255,8	213,1	42,7	16,7%
+Vorräte	12	14,1	-2,1	-17,5%
+Forderungen und sonstige Vermögensgegenstände	419,9	219,2	200,7	47,8%
+Liquide Mittel	79,2	67	12,2	15,4%
+Umlaufvermögen	511,1	300,4	210,7	41,2%
+Rechnungsabgrenzung	0,2	0,1	0,1	50,0%
+	767,1	513,6	253,5	33,0%
+PASSIVA				
+Eigenkapital	208,8	-299,3	508,1	243,3%
+Sonderposten	87,8	83,3	4,5	5,1%
+Wirtschaftliches Eigenkapital	296,6	-216	512,6	172,8%
+Rückstellungen	126,7	127,6	-0,9	-0,7%
+Verbindlichkeiten		0	0	0,0%
+Kreditinstitute	0			
+Verbindlichkeiten gg. Gesellschafterin	0,1	533,5	-533,4	-533400,0%
+Übrige Verbindlichkeiten	343,7	67,8	275,9	80,3%
+Fremdkapital	470,5	728,9	-258,4	-54,9%
+Rechnungsabgrenzung	0	0,7		
+	767,1	513,6	253,5	33,0%
+
+Die Zunahme des Anlagevermögens um € 42,7 Mio. resultiert aus den Investitionen in Immateriellen Vermögensgegenstände und Sachanlagen (€ 59,0 Mio.) sowie den um € 4,0 Mio. gestiegenen Ausleihungen an verbundene Unternehmen. Dem stehen Abschreibungen in Höhe von € 19,4 Mio. gegenüber.
+
+Das Vorratsvermögen beinhaltet insbesondere medizinische Bedarfs- und Verbrauchsmaterialien, Apothekenbestände sowie die zum Bilanzstichtag bestehenden unfertigen Leistungen.
+
+Die Veränderung der Forderungen und der sonstigen Vermögensgegenstände resultiert hauptsächlich aus Forderungen gemäß Krankenhausfinanzierungsrecht (+ € 240,5 Mio.) 2024 wurde von der Bezirksregierung Münster eine Einzelförderung des Campus Projektes in Höhe von € 250 Mio. gewährt. Gegenläufig haben sich die Forderungen aus Cash Pooling verringert (31.12.2024 € 30 Mio., Vorjahr € 66,6 Mio.).
+
+Die liquiden Mittel beinhalten insbesondere vereinnahmte Fördermittel und sind entsprechend zweckgebunden.
+
+Die Erhöhung des Eigenkapitals ergibt sich aus der Umwandlung von Gesellschafterdarlehen in eine Kapitalrücklage im Geschäftsjahr 2024. Die Kliniken weisen zum 31. Dezember 2024 ein Eigenkapital in Höhe von € 208,8 Mio. aus.
+
+Die Minderung des Fremdkapitals (um € 258,4 Mio.) ist im wesentlichen Folge der Umwandlung der Gesellschafterdarlehen.
+
+Die übrigen Verbindlichkeiten entfallen mit € 250 Mio. auf die Verpflichtung aus der Einzelförderung für das Campus Projekt. Darüber hinaus bestehen im Vergleich zum Vorjahr höhere Verpflichtungen aus der Kooperation mit Philipps betreffend den Radiologie-Neubau.
+
+4.) Finanzlage
+
+Der Finanzmittelfonds der Kliniken, bestehend aus Guthaben bei Kreditinstituten und Forderungen aus dem Cash-Pooling, belief sich zum 31. Dezember 2024 auf 109 Mio. € (Vorjahr: 133,7 Mio. €).
+
+Der Rückgang um 24,7 Mio. € ist im Wesentlichen auf Zahlungsmittelabflüsse aus der laufenden Geschäftstätigkeit (71,5 Mio. €) sowie aus Investitionstätigkeiten (58,7 Mio. €) zurückzuführen.
+
+Dem gegenüber steht ein positiver Cashflow aus der Finanzierungstätigkeit in Höhe von 105,72 Mio. €.
+
+5.) Gesamtaussage zur Vermögens-, Finanz- und Ertragslage
+
+Die Kliniken weisen zum 31. Dezember 2024 einen Jahresfehlbetrag aus.
+
+Das negative Jahresergebnis zeigt im operativen Geschäft ein deutliches Minus. Wesentliche Ursache der negativen Geschäftsentwicklung ist insbesondere das zunehmende Auseinanderklaffen von Preisentwicklungen auf der Leistungsseite zu den im Vergleich überproportionalen Steigerungen auf der Kosten- und dabei insbesondere der Personalkostenseite. Der Fachkräftemangel sorgt zudem zur Notwendigkeit des Einsatzes von im Vergleich kostenintensiveren Leiharbeitskräften und zwingt zur Stilllegung von Betten oder gar ganzer Stationen. Hieraus können erhebliche Wettbewerbsnachteile entstehen.
+
+Insgesamt ist zu konstatieren, dass sich die Kliniken finanziell in der Krise befinden.
+
+D. Beurteilung der Unternehmensfortführung
+
+Im Geschäftsjahr 2024 wurden den Kliniken von der Gesellschafterin die bisherigen Darlehen in Höhe von € 533,5 Mio. erlassen und als andere Zuzahlung in die Kapitalrücklage gemäß § 272 Abs. 2 Nr. 4 HGB bilanziert.
+
+Gemäß der von der Stadt Köln genehmigten Fünfjahresplanung lassen sich keine Sachverhalte erkennen, die der Annahme der Zahlungsfähigkeit entgegenstehen. Für das Geschäftsjahr 2025 sieht der Wirtschaftsplan Einzahlungen aus Betriebskostenzuschuss in Höhe von € 70,2 Mio. vor.
+
+Aufgrund der operativen Fehlbeträge und der daraus resultierenden angespannten Liquiditätslage ist die Gesellschaft auch weiterhin auf Mittel der Gesellschafterin angewiesen, um die Zahlungsfähigkeit aufrechtzuerhalten. Werden die geplanten Ergebnisse dauerhaft unterschritten, ist die Gesellschaft in ihrem Bestand gefährdet. Mit Hinweis auf die vorliegende Bestandsgefährdung gehen die gesetzlichen Vertreter der Kliniken der Stadt Köln daher von der Zahlungsfähigkeit und der Fortführung der Unternehmenstätigkeit gern. § 252 Abs.1 Nr. HGB aus.
+
+E. Voraussichtliche Entwicklung sowie Chancen und Risiken
+
+Die Kliniken der Stadt Köln befinden sich in einer erheblichen wirtschaftlichen Schieflage. Zielsetzung der kommenden Jahre muss neben der Erhaltung der hohen medizinischen Versorgung die Optimierung der Prozesse und Strukturen sein, um nachhaltige verbesserte Ergebnisse erzielen zu können. Dem tragen die Kliniken insbesondere durch die Umsetzung des Campus Projektes Rechnung.
+
+Des Weiteren müssen nachhaltige Entwicklungen im Personalbereich erfolgen, Mitarbeitergewinnung und Mitarbeiterbindung, die sicherstellen, dass die Versorgungskapazität der Kliniken für die Bevölkerung der Stadt Köln und der Region weiter auf hohem Niveau erfolgen kann.
+
+Im Rahmen der Entwicklungen der Reformen im Gesundheitswesen, auf Länder- und Bundesebene sind die Kliniken gefordert, zeitnahe organisatorische sowie strukturelle Anpassungen vorzunehmen, die die Kliniken weiter als Maximalversorger der Stadt Köln sichern. Hierzu wird das im Wesentlichen das Campus Projekt beitragen. Zudem haben sich die Kliniken der Stadt Köln im Rahmen der Landeskrankenhausplanung NRW, die in 2025 in die erste Umsetzung geht, im Vergleich zu anderen regionalen Kliniken bereits überaus stabil positioniert.
+
+Chance: Gesundheitscampus Merheim
+
+Mit Beschluss des Rates der Stadt Köln vom 10. Juli 2023 hat der Aufsichtsrat der Kliniken das von der Geschäftsführung der Kliniken der Stadt Köln vorgelegte Zukunftsmodell zur Kenntnis genommen und befürwortet die geplanten Investitionen in Höhe von € 590,0 Mio. zur Modernisierung und zum Ausbau des Standorts Merheim zu einem modernen, hochspezialisieren Klinikum der Maximalversorgung und als alleinigem Standort der Kliniken Köln, um die Gesundheitsversorgung in Köln sowie das Unternehmen Kliniken Köln selbst zukunftsfähig aufzustellen. Hinzu kommt eine Zusage der Bezirksregierung Münster zur Einzelförderung des Projektes in Höhe von € 250 Mio.. Dies unterstreicht die hohe Bedeutung der Umsetzung des Gesundheitscampus aus der Politik.
+
+Die bisher an den Standorten Merheim, Holweide und Riehl angebotenen Leistungen der Kliniken der Stadt Köln gGmbH werden - mit Ausnahme der Kinder- und Jugendpsychiatrie (KJP), deren Standort in Holweide verbleibt - mittel-bis langfristig am Standort Merheim zentralisiert. Die Kliniken entsprechen damit den Anforderungen und der strategischen Zielrichtung der Krankenhausplanung des Landes sowie des Bundes.
+
+Die Zentralisierung und die Modernisierung der Baulichkeiten der Kliniken sind die Voraussetzung, um die wirtschaftlichen Rahmenbedingungen entscheidend zu verbessern und um nachhaltig Wettbewerbs- und ertragsfähig agieren zu können. Dies gilt für sämtliche Bereiche in der Klinik - Struktur, Medizin, Personal, Investitionen und Baumaßnahmen.
+
+Die von der Gesellschafterin bereitgestellten Finanzmittel dienen in unserem Zukunftsmodell der Investition in die Zukunft statt der reinen Kompensation von Betriebsverlusten. Nach erfolgreicher Umsetzung des Modells erreichen wir optimierte Bedingungen für beste Medizin durch Prozessverbesserungen für Patienten und Mitarbeiter.
+
+Chance: Gute Marktpositionierung
+
+Die Kliniken der Stadt Köln sind am Markt gut positioniert und genießen auch überregional einen sehr guten Ruf. Im Einzugsgebiet von Düsseldorf über Aachen und Bonn haben sie einen Marktanteil von rd. 12 % und annähernd gleiche Fallzahlen wie die umliegenden Universitätskliniken. Durch ihr breites, dennoch spezialisiertes medizinisches Spektrum, die vorteilhafte Mischung von Maximalversorgung und Grund- bzw. Regelversorgung sind die Kliniken gut aufgestellt. Die strategische Ausrichtung der einzelnen Kliniken auf Vervollständigung der Wertschöpfungskette innerhalb eines Faches und die Breite des medizinischen Angebotes ergeben eine gezielte, optimale horizontal wie vertikal Unternehmensstruktur. Es ist unsere Erwartung, dass unser Zukunftsmodell die Attraktivität unseres Unternehmens als Gesundheitsdienstleister sowie unsere Arbeitsplätze weiter erhöhen wird, was die grundlegende Voraussetzung für wirtschaftliche Stabilisierung respektive Wachstum sein wird. Wesentlich wird auch unser bereits erzielter Erfolg in der Landeskrankenhausplanung NRW beitragen. Per Entscheid des Ministeriums für Arbeit, Gesundheit und Soziales NRW behalten die Kliniken mehr als 95 % ihres bisherigen Leistungsspektrums auch in der nächsten Zukunft. Es ist davon auszugehen, dass dieses Ergebnis auch bei der Umsetzung des Krankenhausplanes auf Bundesebene beibehalten wird. Ferner entwickeln die Klinken ihr Portfolio an hochspezialisierten zertifizierten Zentren weiter, um auch hierüber etablierte Strukturen medienwirksam in der Region sichtbar zu machen.
+
+Chance: Personalentwicklungskonzept
+
+Durch das fortgeführte und aktualisierte Personalentwicklungskonzept wird sowohl das Aus-, Fort- und Weiterbildungsspektrum vergrößert als auch die Qualifikation zahlreicher Mitarbeiter optimiert. Ferner steigert der Ausbau der Lehrstühle mit der Universität Witten-Herdecke die Attraktivität der Kliniken als Ausbildungs- und Arbeitsplatz für Ärztinnen und Ärzte. Im Ergebnis erhöht sich so die Qualität des Personals, was wiederum Auswirkungen auf den Patientenzuspruch haben wird. Somit bleiben die Kliniken im Wettbewerb um Mitarbeiter und Patienten auch für die Zukunft sehr gut aufgestellt und dies auch aufgrund des vorab erläuterten Zukunftsmodells.
+
+Risiko: Fachkräftemangel
+
+Im Gesundheits- und dabei insbesondere im Pflegebereich zeigt sich zunehmend ein erheblicher Mangel an Fachkräften. Die Pandemie hat diesen Mangel nachhaltig verstärkt. Der Fachkräftemangel führt einerseits zu nicht absehbaren Kostensteigerungen (z. B. duch vermehrt notwenigen Einsatz von Leiharbeit) sowie andererseits zu Mindererlösen, die aus der Schließung von Betten sowie ganzer Stationen resultieren. Der Wettbewerb um qualifizierte Mitarbeiter wird auch weiterhin mit die größte Herausforderung für die Zukunft sein.
+
+Risiko: Tarifanpassungen übersteigen Erlössteigerungen
+
+Die aktuellen, wie zukünftigen Rahmenbedingungen bleiben für den Gesundheitsmarkt herausfordernd. Neben den allgemeinen Kostensteigerungen durch Inflation führen vor allem die jüngsten Tarifabschlüsse (TVöD und TVÄ) einerseits und die restriktive Finanzierungspolitik von Krankenkassen und Bund andererseits zu einer nicht unwesentlichen Finanzierungslücke für kommunale Krankenhäuser. Durch die Festpreisfinanzierung der Krankenhäuser gibt es für die Kliniken keine wesentlich veränderbaren Spielräume, die diesen Kostenanstieg auffangen könnten.
+
+Risiko: Investitionsstaus
+
+Die Investitionskosten der Krankenhäuser werden schon lange nicht mehr alleine durch Fördermittel finanziert.
+
+Die fehlende Investitionskostenfinanzierung der Krankenhäuser durch die Bundesländer belasten die Krankenhäuser nicht nur direkt, sondern auch indirekt. Das zeigt eine Analyse des RWI - Leibniz-Institut für Wirtschaftsforschung und des heb Instituts.
+
+(https://www.aerzteblatt.de/nachrichten/143604/Fehlende-Investitionskosten-Kredite-und-Zinsen-belasten-Kliniken-zusaetzlich)
+
+Demnach rechnen RWI und heb aktuell mit rund 15 Milliarden Euro an Krediten, die die Krankenhäuser aufgenommen haben. Daraus resultiert Schätzungen zufolge eine jährliche Zinsbelastung von mehr als 400 Millionen Euro, wie RWI und heb dem Deutschen Ärzteblatt mitteilten.
+
+(https://www.aerzteblatt.de/nachrichten/143604/Fehlende-Investitionskosten-Kredite-und-Zinsen-belasten-Kliniken-zusaetzlich)
+
+Die finanzielle Lage der Kliniken wäre "wohl nur halb so prekär", wenn die Bundesländer die förderfähigen Investitionskosten in den vergangenen Jahren auch wirklich getätigt hätten, sagte Boris Augurzky vom RWI, ebenfalls Mitglied der Regierungskommission Krankenhaus.
+
+(https://www.aerzteblatt.de/nachrichten/143604/Fehlende-Investitionskosten-Kredite-und-Zinsen-belasten-Kliniken-zusaetzlich)
+
+Die Deutsche Krankenhausgesellschaft (DKG) hatte zuletzt im März 2023 Zahlen vorgelegt, wonach die Bundesländer weiterhin ihrer Pflicht zur auskömmlichen Investitionskostenfinanzierung der Krankenhäuser nicht nachkommen. Grundlage war die neu erhobene jährliche "Bestandsaufnahme zur Krankenhausplanung und Investitionsfinanzierung in den Bundesländern". Dem ermittelten Investitionsbedarf von rund 6,7 Milliarden Euro standen demnach im Jahr 2021 rund 3,3 Milliarden tatsächlich geleistete Zahlungen gegenüber. Im Vorjahr lag das Verhältnis bei rund 6,1 zu 3,2 Milliarden. Für das von starker Inflation geprägte Jahr 2022 erwartet die DKG-Untersuchung einen deutlich gesteigerten Investitionsbedarf von 8,13 Milliarden Euro. Von einer weiteren Verschlechterung ist, bei in den Folgejahren weiter vorangeschrittener Inflation, auszugehen.
+
+Dazu kommen weitere erhebliche Kostensteigerungen bspw. in den Bereichen Energie, Haftpflichtversicherungsprämien, Medikamente und Medizintechnik.
+
+Mehr als jede zweite Klinik in NRW erwirtschaftet aufgrund dessen rote Zahlen. Vor allem kleineren Krankenhäusern droht die Insolvenz.
+
+Insgesamt bauen sich aufgrund vorgenanntem erhebliche Investitionsstaus bei allen Krankenhäusern auf.
+
+Risiko: Inflation
+
+Die Inflationsrate in Deutschland wird im Mai 2025 voraussichtlich +2,1 % betragen. Gemessen wird sie als Veränderung des Verbraucherpreisindex (VPI) zum Vorjahresmonat. Wie das Statistische Bundesamt (Destatis) nach bisher vorliegenden Ergebnissen weiter mitteilt, steigen die Verbraucherpreise gegenüber April 2025 um 0,1 %. Die Inflationsrate ohne Nahrungsmittel und Energie, oftmals auch als Kerninflation bezeichnet, beträgt im Mai 2025 voraussichtlich +2,8 %.
+
+(https://www.destatis.de/DE/Presse/Pressemitteilungen/2025/05/PD25_192_611.html)
+
+Für das Gesamtjahr 2025 prognostizieren Bundesregierung und EU-Kommission 2,1 %; was gegenüber den Vorjahren eine Reduzierung aber dennoch immer noch relativ hohes Niveau bedeutet. Gerade der Preisauftrieb wird unsere Lebensmittelversorgung der Patienten belasten.
+
+F. Risikomanagement
+
+Die Kliniken haben sowohl für den medizinisch/pflegerischen Bereich als auch für die kaufmännischen Risiken ein Risikomanagementsystem implementiert.
+
+Die kaufmännischen Risiken, die nach Eintrittswahrscheinlichkeit und Schadenshöhe relevant sein könnten, sind in einem Risikoinventar erfasst. Der jährliche Risikobericht stellt die nach Kennzahlen bemessene und aggregierte Risikoeinschätzung der Fachabteilungen dar und zeigt Maßnahmen zur Risikobewältigung auf.
+
+Im medizinisch/pflegerischen Bereich wurde ebenso ein Risikoinventar erstellt. Ein klinikübergreifendes Koordinationsteam hat einen Aktionsplan zur Vermeidung bzw. Minimierung der identifizierten Risiken erarbeitet und koordiniert dessen Umsetzung.
+
+G. Nachtrags- und Prognosebericht
+
+Auf Basis des vorläufigen Monatsabschlusses zum 31. März 2025 haben die Kliniken nach Ablauf von drei Monaten im Jahr 2025 Erlöse in Höhe von € 109,0 Mio. erzielt und somit die Planerlöse um 2,4 % verfehlt. Die Vorjahreserlöse im Vergleichszeitraum wurden hingegen um 6,0 % bzw. € 6,2 Mio. übertroffen. Die Fallzahl liegt gegenüber dem Vorjahr um 4,1% höher. Der Personal- und Materialaufwand sowie die sonstigen betrieblichen Aufwendungen liegen in Summe über dem Vorjahr aber unter den Planwerten für 2025. Das Betriebsergebnis (€ -16,7 Mio.) verfehlt den Planwert (€ -16,1 Mio.) um € 0,6 Mio., und liegt € 0,1 Mio. unter dem Betriebsergebnis in Ql/2024. Auf Grundlage des Wirtschaftsplans 2025 sind Umsatzerlöse in Höhe von € 447,3 Mio. und demgegenüber Personalaufwendungen von € 330,3 Mio. sowie Materialaufwendungen von € 136,8 Mio. geplant. Hinsichtlich der Planung der Erlöse aus Krankenhausleistungen wird davon ausgegangen, dass die Steigerung der Fallzahlentwicklung in Ql 2025 ganzjährig beibehalten wird. Zusätzlich wurde die Steigerung des Landesbasisfallwertes Nordrhein-Westfalen um 4,3% zum 1. Januar 2025 berücksichtigt. Die weitere Steigerung des Landesbasisfallwertes wegen der Tarifrate 2024 ist noch nicht eingeflossen. Die Planung zeigt ein ausgeglichenes Jahresergebnis durch den Betriebskostenzuschuss in Höhe von € 70,2 Mio. für das Gesamtjahr 2025.
+
+Köln, den 13. Juni 2025
+
+Gez.
+
+Prof. Dr. med. Axel Goßmann, Geschäftsführer
+
+Daniel Dellmann, Geschäftsführer
+
+BILANZ ZUM 31. DEZEMBER 2024
+
+AKTIVA
+
+scroll
+
+	31.12.2024 EUR	31.12.2023 EUR
+A. Anlagevermögen		
+I. Immaterielle Vermögensgegenstände		
+1. entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten	6.779.206,23	6.205.715,90
+2. Geschäfts- oder Firmenwert	199.669,20	231.447,40
+Summe Immaterielle Vermögensgegenstände	6.978.875,43	6.437.163,30
+II. Sachanlagen		
+1. Grundstücke und grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken	201.310.931,37	143.318.242,84
+2. Technische Anlagen und Maschinen	6.659.074,90	4.557.321,85
+3. Andere Anlagen, Betriebs- und Geschäftsausstattung	30.281.709,73	27.867.324,96
+4. Geleistete Anzahlungen und Anlagen im Bau	5.370.652,04	29.386.581,52
+Summe Sachanlagen	243.622.368,04	205.129.471,17
+III. Finanzanlagen		
+1. Anteile an verbundenen Unternehmen	25.001,00	25.001,00
+2. Ausleihungen an verbundene Unternehmen	5.130.389,07	1.483.389,07
+3. Wertpapiere des Anlagevermögens	500,00	500,00
+4. Sonstige Ausleihungen	7.397,33	9.150,99
+Summe Finanzanlagen	5.163.287,40	1.518.041,06
+Summe Anlagevermögen	255.764.530,87	213.084.675,53
+B. Umlaufvermögen		
+I. Vorräte		
+1. Roh-, Hilfs- und Betriebsstoffe	6.538.705,82	7.990.897,69
+2. Unfertige Erzeugnisse, unfertige Leistungen	5.438.567,00	6.138.067,00
+Summe Vorräte	11.977.272,82	14.128.964,69
+II. Forderungen und sonstige Vermögensgegenstände		
+1. Forderungen aus Lieferungen und Leistungen	51.939.089,18	55.878.231,04
+2. Forderungen an Gesellschafter	33.631.186,97	70.395.034,98
+3. Forderungen gegen verbundene Unternehmen	2.508.088,59	1.470.070,52
+4. Forderungen nach dem Krankenhausfinanzierungsrecht	318.510.658,55	78.014.555,23
+- davon nach dem KHEntG/BPflV: € 7.466.254,00 (i. Vj.: € 10.404.000,00)		
+- davon mit einer Restlaufzeit bis zu einem Jahr: € 318.510.658,55 (i. Vj.: € 78.014.555,23)		
+5. sonstige Vermögensgegenstände	13.336.177,18	13.461.817,20
+Summe Forderungen und sonstige Vermögensgegenstände	419.925.200,47	219.219.708,97
+III. Kassenbestand, Guthaben bei Kreditinstituten	79.186.416,25	67.028.526,35
+Summe Umlaufvermögen	511.088.889,54	300.377.200,01
+C. Rechnungsabgrenzungsposten	252.371,32	110.632,06
+D. Nicht durch Eigenkapital gedeckter Fehlbetrag	0,00	299.328.572,60
+Bilanzsumme Aktiva	767.105.791,73	812.901.080,20
+PASSIVA		
+	31.12.2024 EUR	31.12.2023 EUR
+A. Eigenkapital		
+I. Gezeichnetes Kapital	17.000.000,00	17.000.000,00
+II. Kapitalrücklage	579.347.045,70	46.126.045,70
+III. Verlustvortrag	-362.454.618,30	-333.860.881,17
+IV. Jahresfehlbetrag	-25.111.459,94	-28.593.737,13
+V. Nicht durch Eigenkapital gedeckter Fehlbetrag	0,00	299.328.572,60
+Summe Eigenkapital	208.780.967,46	0,00
+B. Sonderposten aus Zuwendungen zur Finanzierung des Sachanlagevermögens		
+1. Sonderposten aus Fördermitteln nach dem KHG	64.910.548,12	70.155.782,48
+2. Sonderposten aus Zuweisungen und Zuschüssen der öffentlichen Hand	12.766.203,78	12.696.369,74
+3. Sonderposten aus Zuwendungen Dritter	10.074.887,45	458.210,48
+Summe Sonderposten aus Zuwendungen zur Finanzierung des Sachanlagevermögens	87.751.639,35	83.310.362,70
+C. Rückstellungen		
+1. Steuerrückstellungen	2.827.000,00	2.707.000,00
+2. sonstige Rückstellungen	123.860.000,00	124.923.017,00
+Summe Rückstellungen	126.687.000,00	127.630.017,00
+D. Verbindlichkeiten		
+1. Verbindlichkeiten gegenüber Kreditinstituten	2.715,00	0,00
+- davon mit einer Restlaufzeit bis zu einem Jahr: € 2.715,00 (i. Vj.: € 0,00)		
+2. Verbindlichkeiten aus Lieferungen und Leistungen	17.015.878,50	16.456.404,31
+- davon mit einer Restlaufzeit bis zu einem Jahr: € 17.015.878,50 (i. Vj.: € 16.456.404,31)		
+3. Verbindlichkeiten gegenüber Gesellschaftern	147.273,47	533.485.206,06
+- davon mit einer Restlaufzeit bis zu einem Jahr: € 147.273,47 (i. Vj.: € 264.206,06)		
+4. Verbindlichkeiten nach dem Krankenhausfinanzierungsrecht	271.163.154,83	14.036.962,48
+- davon mit einer Restlaufzeit bis zu einem Jahr: € 21.147.877,05 (i. Vj.: € 14.036.962,48)		
+5. Verbindlichkeiten gegenüber verbundenen Unternehmen	3.581,00	1.005,00
+- davon mit einer Restlaufzeit bis zu einem Jahr: € 3.581,00 (i. Vj.: € 1.005,00)		
+6. Sonstige Verbindlichkeiten	55.553.582,12	37.307.220,38
+- davon mit einer Restlaufzeit bis zu einem Jahr: € 14.948.875,13 (i. Vj.: € 27.506.050,50)		
+- davon aus Steuern: € 55.730,62 (i. Vj.: € 344.247,19)		
+Summe Verbindlichkeiten	343.886.184,92	601.286.798,23
+E. Rechnungsabgrenzungsposten	0,00	673.902,27
+Bilanzsumme Passiva	767.105.791,73	812.901.080,20
+
+Gewinn- und Verlustrechnung für das Geschäftsjahr 2024
+
+scroll
+
+	2024 EUR	2023 EUR
+1. Umsatzerlöse	425.132.481,15	416.568.387,97
+2. Verminderung/- Erhöhung des Bestandes an unfertigen Leistungen	-699.500,00	-958.800,00
+3. Sonstige betriebliche Erträge	96.027.080,41	91.702.297,81
+4. Materialaufwand		
+a. Aufwendungen für Roh-, Hilfs- und Betriebsstoffe	-99.086.416,67	-87.077.760,93
+b. Aufwendungen für bezogene Leistungen	-46.570.768,91	-49.816.680,46
+Summe Materialaufwand	-145.657.185,58	-136.894.441,39
+5. Personalaufwand		
+a. Löhne und Gehälter	-255.513.041,75	-230.901.460,64
+b. Soziale Abgaben und Aufwendungen für Altersversorgung und für Unterstützung	-64.109.890,97	-58.371.724,27
+- davon für Altersversorgung: € -23.377.488,36 (i. Vj.: € -21.478.172,71)		
+Summe Personalaufwand	-319.622.932,72	-289.273.184,91
+6. Abschreibungen auf immatrielle Vermögensgegenstände des Anlagevermögens und Sachanlagen	-19.355.788,97	-17.483.090,15
+7. Sonstige betriebliche Aufwendungen davon aus Ausgleichsbeträgen für frühere Geschäftsjahre	-43.346.894,52	-65.016.297,86
+8. Sonstige Zinsen und ähnliche Erträge	3.379.020,79	1.714.714,43
+- davon aus verbundenen Unternehmen: € 188.342,09 (i. Vj.: € 59.013,35)		
+9. Abschreibungen auf Finanzanlagen	0,00	-14.675.000,00
+10. Zinsen und ähnliche Aufwendungen	-20.512.979,04	-14.084.242,44
+- davon aus verbundene Unternehmen: € 20.609.378,71 (i. Vj.: € 14.077.734,41)		
+11. Steuern vom Einkommen und vom Ertrag	-397.875,25	-136.888,51
+12. Ergebnis nach Steuern	-25.054.573,73	-28.536.545,05
+13. Sonstige Steuern	-56.886,21	-57.192,08
+14. Jahresfehlbetrag	-25.111.459,94	-28.593.737,13
+
+Anhang für das Geschäftsjahr 2024
+
+1. Gliederung der Bilanz und der Gewinn- und Verlustrechnung
+
+Der Jahresabschluss zum 31. Dezember 2024 der Kliniken der Stadt Köln gGmbH (Registergericht Köln,HRB 53323) ist entsprechend den gesetzlichen Vorschriften des HGB und des GmbH-Gesetzes erstellt.
+
+Nach den Vorschriften des Handelsgesetzbuches (HGB) wurde die Gliederung der Bilanz und Gewinn- und Verlustrechnung, sofern dies für die Klarheit förderlich war, um die entsprechenden Posten gemäß § 265 Abs. 5-6 HGB ergänzt.
+
+Die Gewinn- und Verlustrechnung ist nach dem Gesamtkostenverfahren gegliedert.
+
+Die Gesellschaft ist eine große Kapitalgesellschaft.
+
+Darstellung und Gliederung des Jahresabschlusses entsprechen den Vorjahresgrundsätzen.
+
+Bei der Bewertung wird von der Fortführung des Unternehmens ausgegangen (Going-Concern-Prinzipgemäß § 252 Abs. 1 Nr. 2 HGB) und das Stetigkeitsprinzip beachtet.
+
+B. Bilanzierungs- und Bewertungsgrundsätze
+
+Anlagevermögen:
+
+Entgeltlich erworbene immaterielle Vermögensgegenstände sind zu Anschaffungskosten, vermindert um planmäßige Abschreibungen, bewertet.
+
+Das Sachanlagevermögen ist mit Anschaffungs- oder Herstellungskosten bewertet. Der Abnutzung wird durch planmäßige lineare Abschreibungen über die betriebsgewöhnliche Nutzungsdauer Rechnung getragen. In die Herstellungskosten wurden neben den direkt zurechenbaren Einzelkosten auch Fertigungs- und Materialgemeinkosten unter Einbeziehung von Abschreibungen eingerechnet. Die Abschreibungen wurden überwiegend linear über die erwartete Nutzungsdauer ermittelt (Gebäude bis 33 Jahre, Nutzungsdauern bis zu 19 Jahren bei Anlagen, bis zu 15 Jahren bei Betriebs- und Geschäftsausstattung). Für abnutzbare bewegliche selbständig nutzungsfähige Vermögensgegenstände des Anlagevermögens, deren Anschaffungskosten mindestens EUR 250,00 und maximal EUR 999,99 betragen, wurde ein Sammelposten gebildet, der im Jahr der Anschaffung und in den folgenden vier Geschäftsjahren mit jeweils einem Fünftel aufwandswirksam vermindert wird. Scheidet ein solcher Vermögensgegenstand aus dem Vermögen aus, wird der Sammelposten nicht vermindert. Abnutzbare bewegliche selbständig nutzungsfähige Vermögensgegenstände des Anlagevermögens mit Anschaffungskosten bis EUR 250,00 werden im Jahr des Zugangs in voller Höhe aufwandswirksam verbucht.
+
+Die Finanzanlagen sind mit ihren Anschaffungskosten oder bei Vorliegen einer voraussichtlich dauerhaften Wertminderung mit dem niedrigeren beizulegenden Wert angesetzt.
+
+Umlaufvermögen:
+
+Die Bewertung der Roh-, Hilfs- und Betriebsstoffe erfolgt zu Anschaffungskosten. Als Muster gelieferte Waren blieben außer Ansatz. Die in den OP-Bereichen lagernden Implantate und sonstigen medizinischen Verbrauchsartikel werden als Festwert gemäß § 240 Abs.3 HGB erfasst und wurden zuletzt in 2024 körperlich aufgenommen.
+
+Unfertige Leistungen sind gemäß § 253 Abs. 1 i. V. m. § 255 HGB zu Herstellungskosten zu bewerten. Als Herstellungskosten sind vereinfachend die Fallkosten des Jahres 2021 unter Berücksichtigung eines Bewertungsabschlages von 3 % zugrunde gelegt worden. Vor dem Hintergrund der allgemeinen Grundsätze der verlustfreien Bewertung bzw. zur Bewertung mit einem niedrigeren beizulegenden Wert (§ 253 Abs. 3 HGB) erfolgte ein Abgleich der Fallkosten des Jahres 2021 mit den erzielbaren Erlösen der jeweiligen DRG. Der niedrigere der beiden Werte bildete die Bemessungsgrundlage für die periodengerechte Aufteilung; letztere erfolgte über die lineare Verteilung entsprechend den Belegungstagen des einzelnen Überliegers.
+
+Forderungen und sonstige Vermögensgegenstände sind zum Nennwert unter Abzug gebotener Wertberichtigungen angesetzt.
+
+Flüssige Mittel:
+
+Der Kassenbestand und die Guthaben bei Kreditinstituten sind mit dem Nennwert bewertet.
+
+Rechnungsabgrenzungsposten:
+
+Als Rechnungsabgrenzungsposten werden solche Einnahmen bzw. Ausgaben abgegrenzt, die erst in Folgeperioden ertrags- bzw. aufwandswirksam werden.
+
+Eigenkapital:
+
+Das Gezeichnete Kapital ist mit dem Nennbetrag angesetzt und entspricht dem in das Handelsregister eingetragenen Betrag. Durch den Darlehenserlass der Stadt Köln, hat sich die Kapitalrücklage um MEUR 533 erhöht.
+
+Sonderposten:
+
+Fördermittel nach dem KHG, Zuweisungen und Zuschüsse der öffentlichen Hand sowie Zuwendungen Dritter zur Finanzierung von Investitionen in Vermögensgegenstände des Anlagevermögens werden als Sonderposten aus Zuwendungen zur Finanzierung des Sachanlagevermögens, vermindert um den Betrag der bis zum Abschlussstichtag angefallenen Abschreibungen auf diese Vermögensgegenstände, ausgewiesen.
+
+Rückstellungen:
+
+Als Rückstellung für Pensionen und ähnliche Verpflichtungen sind die Pensionsansprüche der von der Stadt Köln an das Krankenhaus abgeordneten Beamten ausgewiesen. Der Krankenhausträger hat sich gegenüber der Stadt verpflichtet, die auf die Dienstzeit bei den Kliniken entfallenden Pensionsansprüche zu übernehmen. Aufgrund der mittelbaren Verpflichtung weisen wir ab dem Jahr 2015 die Pensionsrückstellungen bei den sonstigen Rückstellungen aus.
+
+Die Bewertung der Verpflichtungen erfolgte in Übereinstimmung mit Tz. 61 von IDW RS HFA 30 nach dem ratierlichen Anwartschaftsbarwert i. S. v. IAS 19. Die Berechnung wurde mit Hilfe der Richttafeln 2018G von Dr. Klaus Heubeck durchgeführt. Das Mindesteintritts- und Bewertungsalter ist bei Anwärtern 25 Jahre und der 7-jährige Rechnungszinsfuß beträgt 1,96 % (Vorjahr: 1,74 %) p.a. Die erwarteten Gehaltssteigerungen wurden mit 2,2 % (Vorjahr: 2,2 %) berücksichtigt, die Fluktuation blieb unberücksichtigt.
+
+Der Wertansatz der Steuerrückstellungen und der Sonstigen Rückstellungen erfolgt mit dem nach vernünftiger kaufmännischer Beurteilung notwendigen Erfüllungsbetrag und berücksichtigt alle erkennbaren Risiken.
+
+Die Rückstellungen für Jubiläen wurden gemäß § 253 Abs. 2 HGB mit dem durchschnittlichen Marktzinssatz der vergangenen sieben Jahre angesetzt. Der Rechnungszinssatz beträgt 1,96 % (Vorjahr 1,74 %). Die erwarteten Gehaltssteigerungen wurden mit 2,2 % (Vorjahr: 2,2 %) berücksichtigt, die Fluktuation wie im Vorjahr mit 10,0 % p.a.
+
+Die Rückstellungen für Altersteilzeit wurden gemäß § 253 Abs. 2 HGB mit dem Rechnungszins in Höhe von 1,50 % (Vorjahr: 0,99 %) entsprechend der durchschnittlichen Restlaufzeit angesetzt. Die erwarteten Gehaltssteigerungen wurden mit 2,2 % (Vorjahr: 2,2 %) berücksichtigt.
+
+Die Rückstellungen für Beihilfezahlungen wurden gemäß § 253 Abs. 2 HGB mit dem notwendigen Erfüllungsbetrag angesetzt. Der Rechnungszinssatz beträgt 1,96 % (Vorjahr 1,74 %). Die erwarteten Gehaltssteigerungen wurden mit 2,2 % (Vorjahr: 2,2 %) berücksichtigt, die Fluktuation blieb unberücksichtigt.
+
+Dabei werden Rückstellungen mit einer Restlaufzeit von mehr als einem Jahr grundsätzlich mit dem ihrer Restlaufzeit entsprechenden durchschnittlichen Marktzinssatz der vergangenen sieben Geschäftsjahre abgezinst.
+
+Verbindlichkeiten:
+
+Die Verbindlichkeiten sind mit ihrem Erfüllungsbetrag angesetzt.
+
+C. Erläuterungen zur Bilanz und Gewinn- und Verlustrechnung
+
+Die Aufgliederung und Entwicklung des Anlagevermögens ist dem Anlagennachweis (Anlage zum Anhang) zu entnehmen.
+
+Im Finanzanlagevermögen ist eine 100%-ige Beteiligung an der RehaNova Köln Neurologische Rehabilitationsklinik GmbH, Köln (im Folgenden auch bezeichnet als "RehaNova"). Der Kauf- und Abtretungsvertrag ist vom 09.01.2014 (UR-Nr. 45/2014) und zum 31.03.2014 vollzogen worden. Das Eigenkapital der RehaNova beträgt zum 31.12.2024 TEUR -3.679, der Jahresfehlbetrag 2024 TEUR -4.343.
+
+Die Ausleihungen an verbundene Unternehmen entfallen auf Darlehensforderungen gegen die RehaNova.
+
+Die Festwertinventur nach § 240 Abs. 3 HGB wurde in 2024 für Teile der Roh-, Hilfs- und Betriebsstoffe durchgeführt.
+
+Die Forderungen gegen verbundene Unternehmen entfallen im Wesentlichen zu 2.483 TEUR auf Forderungen gegen die RehaNova und zu 25 TEUR auf die MVZ gGmbH. Diese sind in voller Höhe Forderungen aus Lieferungen und Leistungen. Die Forderungen und sonstigen Vermögensgegenstände sind wie im Vorjahr innerhalb eines Jahres fällig.
+
+Die Sonstigen Rückstellungen setzen sich wie folgt zusammen:
+
+scroll
+
+	31.12.2024 TEUR	Vorjahr TEUR
+Mittelbare Pensionsverpflichtungen	42.295	42.118
+Personalbereich	40.484	38.738
+Prozesskosten und Haftpflichtrisiken	28.809	30.295
+Sonstige	13.266	13.772
+	123.860	124.923
+
+In Anwendung von § 246 Abs.2 Satz 2 HGB sind Altersteilzeitverpflichtungen in Höhe von TEUR 994 (Vorjahr: TEUR 968) mit insolvenzfesten Bankguthaben saldiert worden. Der Zeitwert der Bankguthaben entspricht dem Nominalwert bzw. den Anschaffungskosten und beträgt zum 31. Dezember 2024 TEUR 994 (Vorjahr: TEUR 968), so dass kein aktiver Unterschiedsbetrag aus der Vermögensverrechnung ausgewiesen wird.
+
+Verbindlichkeitenspiegel zum 31. Dezember 2024
+
+scroll
+
+	Gesamt EUR	bis zu 1 Jahr EUR	Restlaufzeit über 1 Jahr EUR	davon über 5 Jahre EUR
+Verbindlichkeiten gegenüber Kreditinstituten	2.715,00	2.715,00	0,00	0,00
+(Vorjahr)	(0,00)	(0,00)	(0,00)	(0,00)
+				0,00
+Erhaltene Anzahlungen	0,00	0,00	0,00	0,00
+(Vorjahr)	(0,00)	(0,00)	(0,00)	(0,00)
+				0,00
+Verbindlichkeiten aus Lieferungen und Leistungen	17.015.878,50	17.015.878,50	0,00	0,00
+(Vorjahr)	(16.456.404,31)	(16.456.404,31)	(0,00)	(0,00)
+Verbindlichkeiten gegenüber Gesellschaftern	147.273,47	147.273,47	0,00	0,00
+(Vorjahr)	(533.485.206,06)	(264.206,06)	(533.221.000,00)	(0,00)
+Verbindlichkeiten Krankenhausfinanzierungsrecht	271.163.154,83	21.147.877,05	250.015.277,78	250.015.277,78
+(Vorjahr)	(14.036.962,48)	(14.036.962,48)	(0,00)	(0,00)
+Verbindlichkeiten gegenüber verbundenen Unternehmen	3.581,00	3.581,00	0,00	0,00
+(Vorjahr)	(1.005,00)	(1.005,00)	(0,00)	(0,00)
+Sonstige Verbindlichkeiten	55.553.582,12	14.948.875,13	40.604.706,99	12.910.753,00
+(Vorjahr)	(37.307.220,38)	(27.506.050,50)	(9.801.169,88)	(2.311.408,88)
+Summe	343.886.184,92	53.266.200,15	290.619.984,77	277.709.231,77
+(Vorjahr)	(601.286.798,23)	(58.264.628,35)	(543.022.169,88)	(2.311.408,88)
+
+Die Verbindlichkeiten gegenüber Gesellschaftern betreffen in Höhe von TEUR 0 (Vorjahr: TEUR 533.000) endfällige Darlehen von der Gesellschafterin, der Stadt Köln. Diese wurden von der Stadt Köln zum 31.12.2024 erlassen und in eine Kapitalrücklage umgewandelt. Bei den restlichen Verbindlichkeiten gegenüber Gesellschaftern handelt es sich um Verbindlichkeiten aus dem Liefer- und Leistungsverkehr in Höhe von TEUR 147.
+
+In den Sonstigen Verbindlichkeiten sind Verbindlichkeiten aus Steuern TEUR 57 (Vorjahr: TEUR 57) enthalten.
+
+Die Umsatzerlöse stellen sich im Vorjahresvergleich wie folgt dar:
+
+scroll
+
+	2024 TEUR	Vorjahr TEUR	Veränderung TEUR
+Erlöse aus Krankenhausleistungen	329.338	295.970	33.368
+Erlöse aus Wahlleistungen	10.202	9.627	575
+Erlöse aus ambulanten Leistungen	25.106	22.353	2.754
+Nutzungsentgelte der Ärzte	3.402	5.130	-1.727
+Periodenfremde Erträge	1.272	2.273	-1.001
+Umsatzerlöse eines Khs. nach § 277 HGB	55.811	81.216	-25.404
+	425.132	416.568	8.564
+
+Die Sonstigen betrieblichen Erträge stellen sich im Vorjahresvergleich wie folgt dar:
+
+scroll
+
+	2024 TEUR	Vorjahr TEUR	Veränderung TEUR
+Betriebskostenzuschuss der Gesellschafterin	73.300	67.200	6.100
+Erträge aus Energiepreispauschale	2.720	6.215	-4.861
+Erlöse aus Auflösung SopO	10.924	9.971	953
+Erträge Auflösung Rückstellung	3.973	4.350	-377
+Erträge aus Versicherungsschäden	2.164	795	1.369
+sonstige periodenfremde Erträge	1.724	2.137	929
+Steuererstattungen	4	148	-144
+übrige	1.218	1.681	-440
+	96.027	91.702	3.530
+
+Die sonstigen betrieblichen Erträge enthalten periodenfremde Erträge in Höhe von TEUR 5.698 (Vorjahr TEUR 15.478), die im Wesentlichen aus der Auflösung von Rückstellungen resultieren.
+
+Die Sonstigen betrieblichen Aufwendungen lassen sich im Vorjahresvergleich wie folgt strukturieren:
+
+scroll
+
+	2024 TEUR	Vorjahr TEUR	Veränderung TEUR
+Instandhaltungen	15.756	13.772	1.984
+Verwaltungsbedarf	9.413	7.945	1.468
+sonstige periodenfremde Aufwendungen	4.356	29.566	-25.210
+Abgaben, Gebühren, Versicherungen	5.061	5.593	-532
+übrige	8.761	8.140	621
+	43.347	65.017	-21.670
+
+Die sonstigen betrieblichen Aufwendungen enthalten periodenfremde Aufwendungen in Höhe von TEUR 4.356 (Vorjahr TEUR 29.566), die im Wesentlichen aus Rechnungskorrekturen für Leistungen der Vorjahre resultieren.
+
+Die Zinserträge resultieren in Höhe von TEUR 92 (Vorjahr: TEUR -1) aus der Aufzinsung von langfristen Rückstellungen.
+
+D. Sonstige Angaben
+
+Die durchschnittliche Zahl der während des Geschäftsjahres beschäftigten Arbeitnehmer gliedert sich nachfolgenden Gruppen auf:
+
+scroll
+
+	2024	Vorjahr
+Angestellte	4.580	4.393
+Beamte	14	17
+Auszubildende	308	291
+Gesamt	4.902	4.701
+
+Die sonstigen finanziellen Verpflichtungen umfassen mehrjährige Verpflichtungen aus Miet-, Leasing-, Wartungs- und Dienstleistungsverträgen und schwebende Verpflichtungen im Zusammenhang mit begonnenen Investitionsvorhaben. Diese stellen sich wie folgt dar:
+
+scroll
+
+	2025 TEUR	2026 TEUR	2027 TEUR	2028 TEUR	2029 TEUR	> 5 Jahre TEUR
+Verpflichtungen aus Miet-, Leasing-und Wartungsverträgen	26.000	16.500	11.000	10.900	10.900	29.400
+Bestellobligo aus begonnenen Investitionsvorhaben	0	0	0	0	0	0
+	26.000	16.500	11.000	10.900	10.900	29.400
+
+Die Kliniken der Stadt Köln gGmbH ist Mitglied in der Rheinischen Versorgungskasse Köln. Die Versorgungskasse hat die Aufgabe, eine zusätzliche Altersversorgung zu gewähren. Die Umlage beträgt zurzeit 5,5 % des zusatzversorgungspflichtigen Entgelts. Zum Aufbau einer Kapitaldeckung wird von der ZVK ein Zusatzbetrag von 3,2 % erhoben. Die umlagepflichtigen Gehälter betrugen im Geschäftsjahr 2024TEUR 204.904. Es handelt sich hierbei um eine indirekte Pensionsverpflichtung, für die das Wahlrecht gemäß Art. 28 EGHGB in Anspruch genommen wurde.
+
+Das vom Abschlussprüfer für das Geschäftsjahr berechnete Gesamthonorar betrug TEUR 86.
+
+Geschäftsführer der Kliniken der Stadt Köln gGmbH im Geschäftsjahr 2024 waren:
+
+―
+
+Frau Sylvia Langer bis 31. Januar 2024
+
+―
+
+Herr Professor Dr. med. Axel Goßmann
+
+―
+
+Herr Daniel Dellmann ab 01. September 2024
+
+Die Geschäftsführung erhielt für das Jahr 2024 folgende Bezüge:
+
+―
+
+Herr Professor Dr. med. Axel Goßmann EUR. 0,00 *
+
+―
+
+Herr Daniel Dellmann EUR 144.964,00
+
+―
+
+Frau Sylvia Langer EUR 72.500,00
+
+* Herr Professor Dr. med. Axel Goßmann hat keine extra Vergütung für Geschäftsführungstätigkeit erhalten.
+
+Der Aufsichtsrat der Gesellschaft setzt sich aus folgenden Personen (mit Angabe des Sitzungsgeldes) zusammen:
+
+Vorsitzender des Aufsichtsrats
+
+―
+
+Herr Dr. Ralf Unna Tierarzt (EUR 4.000)
+
+Stellvertretende Vorsitzende des Aufsichtsrats
+
+―
+
+Frau Ursula Gärtner Dipl.-Volkswirtin (EUR 2.231)
+
+Weitere Mitglieder
+
+―
+
+Frau Beate Hane-Knoll Krankenschwester (EUR 1.250)
+
+―
+
+Herr Joachim Heinlein Krankenhausdirektor i.R. (EUR 1.500)
+
+―
+
+Herr Sven Kaske Rettungsassistent (EUR 1.500)
+
+―
+
+Herr Dr. Thomas Portz Ltd. Angestellter (EUR 1.250)
+
+―
+
+Herr Dr. Harald Rau Beigeordneter (EUR 1.750)
+
+―
+
+Frau Ursula Röhrig Kochfacharbeiterin (EUR 1.750)
+
+―
+
+Herr Thomas Stiefelhagen Krankenpfleger (EUR 1.500)
+
+―
+
+Frau Heike Wolf Intensivkrankenschwester (EUR 1.250)
+
+―
+
+Frau Stefanie Neumann OP-Schwester (EUR 3.500)
+
+―
+
+Frau Viola Recktenwald Ärztin (EUR 2.000)
+
+Der Aufsichtsrat erhielt in 2024 Sitzungsgelder in Höhe von insgesamt EUR 23.481.
+
+Ereignisse nach dem Bilanzstichtag
+
+Nach dem Schluss des Geschäftsjahres sind keine Besonderheiten eingetreten, die für die Entwicklung und Lage des Unternehmens wesentlich sind.
+
+Ergebnisverwendungsvorschlag
+
+Die Geschäftsführung schlägt vor, das Jahresergebnis 2024 auf neue Rechnung vorzutragen.
+
+Köln, den 13. Juni 2025
+
+gez. Daniel Dellmann, Geschäftsführer
+
+gez. Professor Dr. med. Axel Goßmann, Geschäftsführer
+
+Entwicklung des Anlagevermögens vom 1. Januar bis 31. Dezember 2024
+
+scroll
+
+	Anschaffungs- bzw. Herstellungskosten	Anschaffungs- bzw. Herstellungskosten	Anschaffungs- bzw. Herstellungskosten	Anschaffungs- bzw. Herstellungskosten	Anschaffungs- bzw. Herstellungskosten
+	01.01.2024 €	Zugänge €	Umbuchungen €	Abgänge €	31.12.2024 €
+A. Anlagevermögen					
+I. Immaterielle Vermögensgegenstände					
+1. entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten	20.842.998,92	3.355.017,81	0,00	1.101.473,52	23.096.543,21
+2. Geschäfts- oder Firmenwert	317.782,00	0,00	0,00	0,00	317.782,00
+Summe Immaterielle Vermögensgegenstände	21.160.780,92	3.355.017,81	0,00	1.101.473,52	23.414.325,21
+II. Sachanlagen					
+1. Grundstücke und grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken	323.782.155,26	40.192.140,94	25.304.105,78	4.354,21	389.274.047,77
+2. Technische Anlagen und Maschinen	40.696.720,80	1.712.057,83	1.593.114,90	1.173.203,10	42.828.690,43
+3. Andere Anlagen, Betriebs- und Geschäftsausstattung	128.914.409,46	9.410.667,16	841.284,56	7.253.622,88	131.912.738,30
+4. Geleistete Anzahlungen und Anlagen im Bau	29.386.581,52	4.022.833,58	-27.738.505,24	300.257,82	5.370.652,04
+Summe Sachanlagen	522.779.867,04	55.337.699,51	0,00	8.731.438,01	569.386.128,54
+III. Finanzanlagen					
+1. Anteile an verbundenen Unternehmen	25.001,00	0,00	0,00	0,00	25.001,00
+2. Ausleihungen an verbundene Unternehmen	1.483.389,07	4.025.000,00	0,00	378.000,00	5.130.389,07
+3. Wertpapiere des Anlagevermögens	500,00	0,00	0,00	0,00	500,00
+4. Sonstige Ausleihungen	9.150,99	3.396,51	0,00	5.150,17	7.397,33
+Summe Finanzanlagen	1.518.041,06	4.028.396,51	0,00	383.150,17	5.163.287,40
+Summe Anlagevermögen	545.458.689,02	62.721.113,83	0,00	10.216.061,70	597.963.741,15
+
+scroll
+
+	Abschreibungen	Abschreibungen	Abschreibungen	Abschreibungen
+	01.01.2024 €	Zugänge €	Abgänge €	31.12.2024 €
+A. Anlagevermögen				
+I. Immaterielle Vermögensgegenstände				
+1. entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten	14.637.283,02	2.781.527,48	1.101.473,52	16.317.336,98
+2. Geschäfts- oder Firmenwert	86.334,60	31.778,20	0,00	118.112,80
+Summe Immaterielle Vermögensgegenstände	14.723.617,62	2.813.305,68	1.101.473,52	16.435.449,78
+II. Sachanlagen				
+1. Grundstücke und grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken	180.463.912,42	7.503.558,19	4.354,21	187.963.116,40
+2. Technische Anlagen und Maschinen	36.139.398,95	1.203.419,68	1.173.203,10	36.169.615,53
+3. Andere Anlagen, Betriebs- und Geschäftsausstattung	101.047.084,50	7.835.505,42	7.251.561,35	101.631.028,57
+4. Geleistete Anzahlungen und Anlagen im Bau	0,00	0,00	0,00	0,00
+Summe Sachanlagen	317.650.395,87	16.542.483,29	8.429.118,66	325.763.760,50
+III. Finanzanlagen				
+1. Anteile an verbundenen Unternehmen	0,00	0,00	0,00	0,00
+2. Ausleihungen an verbundene Unternehmen	0,00	0,00	0,00	0,00
+3. Wertpapiere des Anlagevermögens	0,00	0,00	0,00	0,00
+4. Sonstige Ausleihungen	0,00	0,00	0,00	0,00
+Summe Finanzanlagen	0,00	0,00	0,00	0,00
+Summe Anlagevermögen	332.374.013,49	19.355.788,97	9.530.592,18	342.199.210,28
+
+scroll
+
+	Buchwerte	Buchwerte
+	31.12.2024 €	31.12.2023 €
+A. Anlagevermögen		
+I. Immaterielle Vermögensgegenstände		
+1. entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten	6.779.206,23	6.205.715,90
+2. Geschäfts- oder Firmenwert	199.669,20	231.447,40
+Summe Immaterielle Vermögensgegenstände	6.978.875,43	6.437.163,30
+II. Sachanlagen		
+1. Grundstücke und grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken	201.310.931,37	143.318.242,84
+2. Technische Anlagen und Maschinen	6.659.074,90	4.557.321,85
+3. Andere Anlagen, Betriebs- und Geschäftsausstattung	30.281.709,73	27.867.324,96
+4. Geleistete Anzahlungen und Anlagen im Bau	5.370.652,04	29.386.581,52
+Summe Sachanlagen	243.622.368,04	205.129.471,17
+III. Finanzanlagen		
+1. Anteile an verbundenen Unternehmen	25.001,00	25.001,00
+2. Ausleihungen an verbundene Unternehmen	5.130.389,07	1.483.389,07
+3. Wertpapiere des Anlagevermögens	500,00	500,00
+4. Sonstige Ausleihungen	7.397,33	9.150,99
+Summe Finanzanlagen	5.163.287,40	1.518.041,06
+Summe Anlagevermögen	255.764.530,87	213.084.675,53
+
+Bestätigungsvermerk des unabhängigen Abschlussprüfers
+
+An die Kliniken der Stadt Köln gGmbH, Köln
+
+PRÜFUNGSURTEILE
+
+Wir haben den Jahresabschluss der Kliniken der Stadt Köln gGmbH, Köln, - bestehend aus der Bilanz zum 31.12.2024 und der Gewinn- und Verlustrechnung für das Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 sowie dem Anhang, einschließlich der Darstellung der Bilanzierungs- und Bewertungsmethoden geprüft. Darüber hinaus haben wir den Lagebericht der Mandant für das Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 geprüft.
+
+Nach unserer Beurteilung aufgrund der bei der Prüfung gewonnenen Erkenntnisse
+
+―
+
+entspricht der beigefügte Jahresabschluss in allen wesentlichen Belangen den deutschen, für Kapitalgesellschaften geltenden handelsrechtlichen Vorschriften und vermittelt unter Beachtung der deutschen Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens- und Finanzlage der Gesellschaft zum 31.12.2024 sowie ihrer Ertragslage für das Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 und
+
+―
+
+vermittelt der beigefügte Lagebericht insgesamt ein zutreffendes Bild von der Lage der Gesellschaft. In allen wesentlichen Belangen steht dieser Lagebericht in Einklang mit dem Jahresabschluss, entspricht den deutschen gesetzlichen Vorschriften und stellt die Chancen und Risiken der zukünftigen Entwicklung zutreffend dar.
+
+Gemäß § 322 Abs. 3 Satz 1 HGB erklären wir, dass unsere Prüfung zu keinen Einwendungen gegen die Ordnungsmäßigkeit des Jahresabschlusses und des Lageberichts geführt hat.
+
+GRUNDLAGE FÜR DIE PRÜFUNGSURTEILE
+
+Wir haben unsere Prüfung des Jahresabschlusses und des Lageberichts in Übereinstimmung mit § 317 HGB unter Beachtung der vom Institut der Wirtschaftsprüfer (IDW) festgestellten deutschen Grundsätze ordnungsmäßiger Abschlussprüfung durchgeführt. Unsere Verantwortung nach diesen Vorschriften und Grundsätzen ist im Abschnitt "Verantwortung des Abschlussprüfers für die Prüfung des Jahresabschlusses und des Lageberichts" unseres Bestätigungsvermerks weitergehend beschrieben. Wir sind von dem Unternehmen unabhängig in Übereinstimmung mit den deutschen handelsrechtlichen und berufsrechtlichen Vorschriften und haben unsere sonstigen deutschen Berufspflichten in Übereinstimmung mit diesen Anforderungen erfüllt. Wir sind der Auffassung, dass die von uns erlangten Prüfungsnachweise ausreichend und geeignet sind, um als Grundlage für unsere Prüfungsurteile zum Jahresabschluss und zum Lagebericht zu dienen.
+
+VERANTWORTUNG DER GESETZLICHEN VERTRETER UND DES AUFSICHTSRATS FÜR DEN JAHRESABSCHLUSS UND DEN LAGEBERICHT
+
+Die gesetzlichen Vertreter sind verantwortlich für die Aufstellung des Jahresabschlusses, der den deutschen, für Kapitalgesellschaften geltenden handelsrechtlichen Vorschriften in allen wesentlichen Belangen entspricht, und dafür, dass der Jahresabschluss unter Beachtung der deutschen Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage der Gesellschaft vermittelt. Ferner sind die gesetzlichen Vertreter verantwortlich für die internen Kontrollen, die sie in Übereinstimmung mit den deutschen Grundsätzen ordnungsmäßiger Buchführung als notwendig bestimmen haben, um die Aufstellung eines Jahresabschlusses zu ermöglichen, der frei von wesentlichen falschen Darstellungen aufgrund von dolosen Handlungen (d. h. Manipulationen der Rechnungslegung und Vermögensschädigungen) oder Irrtümern ist.
+
+Bei der Aufstellung des Jahresabschlusses sind die gesetzlichen Vertreter dafür verantwortlich, die Fähigkeit der Gesellschaft zur Fortführung der Unternehmenstätigkeit zu beurteilen. Des Weiteren haben sie die Verantwortung, Sachverhalte in Zusammenhang mit der Fortführung der Unternehmenstätigkeit, sofern einschlägig, anzugeben. Darüber hinaus sind sie dafür verantwortlich, auf der Grundlage des Rechnungslegungsgrundsatzes der Fortführung der Unternehmenstätigkeit zu bilanzieren, sofern dem nicht tatsächliche oder rechtliche Gegebenheiten entgegenstehen.
+
+Außerdem sind die gesetzlichen Vertreter verantwortlich für die Aufstellung des Lageberichts, der insgesamt ein zutreffendes Bild von der Lage der Gesellschaft vermittelt sowie in allen wesentlichen Belangen mit dem Jahresabschluss in Einklang steht, den deutschen gesetzlichen Vorschriften entspricht und die Chancen und Risiken der zukünftigen Entwicklung zutreffend darstellt. Ferner sind die gesetzlichen Vertreter verantwortlich für die Vorkehrungen und Maßnahmen (Systeme), die er als notwendig erachtet hat, um die Aufstellung eines Lageberichts in Übereinstimmung mit den anzuwendenden deutschen gesetzlichen Vorschriften zu ermöglichen, und um ausreichende geeignete Nachweise für die Aussagen im Lagebericht erbringen zu können.
+
+Der Aufsichtsrat ist verantwortlich für die Überwachung des Rechnungslegungsprozesses der Gesellschaft zur Aufstellung des Jahresabschlusses und des Lageberichts.
+
+VERANTWORTUNG DES ABSCHLUSSPRÜFERS FÜR DIE PRÜFUNG DES JAHRESABSCHLUSSES UND DES LAGEBERICHTS
+
+Unsere Zielsetzung ist, hinreichende Sicherheit darüber zu erlangen, ob der Jahresabschluss als Ganzes frei von wesentlichen falschen Darstellungen aufgrund von dolosen Handlungen oder Irrtümern ist, und ob der Lagebericht insgesamt ein zutreffendes Bild von der Lage der Gesellschaft vermittelt sowie in allen wesentlichen Belangen mit dem Jahresabschluss sowie mit den bei der Prüfung gewonnenen Erkenntnissen in Einklang steht, den deutschen gesetzlichen Vorschriften entspricht und die Chancen und Risiken der zukünftigen Entwicklung zutreffend darstellt, sowie einen Bestätigungsvermerk zu erteilen, der unsere Prüfungsurteile zum Jahresabschluss und zum Lagebericht beinhaltet.
+
+Hinreichende Sicherheit ist ein hohes Maß an Sicherheit, aber keine Garantie dafür, dass eine in Übereinstimmung mit § 317 HGB unter Beachtung der vom Institut der Wirtschaftsprüfer (IDW) festgestellten deutschen Grundsätze ordnungsmäßiger Abschlussprüfung durchgeführte Prüfung eine wesentliche falsche Darstellung stets aufdeckt. Falsche Darstellungen können aus dolosen Handlungen oder Irrtümern resultieren und werden als wesentlich angesehen, wenn vernünftigerweise erwartet werden könnte, dass sie einzeln oder insgesamt die auf der Grundlage dieses Jahresabschlusses und Lageberichts getroffenen wirtschaftlichen Entscheidungen von Adressaten beeinflussen.
+
+Während der Prüfung üben wir pflichtgemäßes Ermessen aus und bewahren eine kritische Grundhaltung. Darüber hinaus
+
+―
+
+identifizieren und beurteilen wir die Risiken wesentlicher falscher Darstellungen im Jahresabschluss und im Lagebericht aufgrund von dolosen Handlungen oder Irrtümern, planen und führen Prüfungshandlungen als Reaktion auf diese Risiken durch sowie erlangen Prüfungsnachweise, die ausreichend und geeignet sind, um als Grundlage für unsere Prüfungsurteile zu dienen. Das Risiko, dass eine aus dolosen Handlungen resultierende wesentliche falsche Darstellung nicht aufgedeckt wird, ist höher als das Risiko, dass eine aus Irrtümern resultierende wesentliche falsche Darstellung nicht aufgedeckt wird, da dolose Handlungen kollusives Zusammenwirken, Fälschungen, beabsichtigte Unvollständigkeiten, irreführende Darstellungen bzw. das Außerkraftsetzen interner Kontrollen beinhalten können.
+
+―
+
+erlangen wir ein Verständnis von den für die Prüfung des Jahresabschlusses relevanten internen Kontrollen und den für die Prüfung des Lageberichts relevanten Vorkehrungen und Maßnahmen, um Prüfungshandlungen zu planen, die unter den Umständen angemessen sind, jedoch nicht mit dem Ziel, ein Prüfungsurteil zur Wirksamkeit der internen Kontrollen der Gesellschaft bzw. dieser Vorkehrungen und Maßnahmen abzugeben.
+
+―
+
+beurteilen wir die Angemessenheit der von dem gesetzlichen Vertreter angewandten Rechnungslegungsmethoden sowie die Vertretbarkeit der von dem gesetzlichen Vertreter dargestellten geschätzten Werte und damit zusammenhängenden Angaben.
+
+―
+
+ziehen wir Schlussfolgerungen über die Angemessenheit des von dem gesetzlichen Vertreter angewandten Rechnungslegungsgrundsatzes der Fortführung der Unternehmenstätigkeit sowie, auf der Grundlage der erlangten Prüfungsnachweise, ob eine wesentliche Unsicherheit im Zusammenhang mit Ereignissen oder Gegebenheiten besteht, die bedeutsame Zweifel an der Fähigkeit der Gesellschaft zur Fortführung der Unternehmenstätigkeit aufwerfen können. Falls wir zu dem Schluss kommen, dass eine wesentliche Unsicherheit besteht, sind wir verpflichtet, im Bestätigungsvermerk auf die dazugehörigen Angaben im Jahresabschluss und im Lagebericht aufmerksam zu machen oder, falls diese Angaben unangemessen sind, unser jeweiliges Prüfungsurteil zu modifizieren. Wir ziehen unsere Schlussfolgerungen auf der Grundlage der bis zum Datum unseres Bestätigungsvermerks erlangten Prüfungsnachweise. Zukünftige Ereignisse oder Gegebenheiten können jedoch dazu führen, dass die Gesellschaft ihre Unternehmenstätigkeit nicht mehr fortführen kann.
+
+―
+
+beurteilen wir Darstellung, Aufbau und Inhalt des Jahresabschlusses insgesamt einschließlich der Angaben sowie ob der Jahresabschluss die zugrunde liegenden Geschäftsvorfälle und Ereignisse so darstellt, dass der Jahresabschluss unter Beachtung der deutschen Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage der Gesellschaft vermittelt.
+
+―
+
+beurteilen wir den Einklang des Lageberichts mit dem Jahresabschluss, seine Gesetzesentsprechung und das von ihm vermittelte Bild von der Lage der Gesellschaft.
+
+―
+
+führen wir Prüfungshandlungen zu den von dem gesetzlichen Vertreter dargestellten zukunftsorientierten Angaben im Lagebericht durch. Auf Basis ausreichender geeigneter Prüfungsnachweise vollziehen wir dabei insbesondere die den zukunftsorientierten Angaben von dem gesetzlichen Vertreter zugrunde gelegten bedeutsamen Annahmen nach und beurteilen die sachgerechte Ableitung der zukunftsorientierten Angaben aus diesen Annahmen. Ein eigenständiges Prüfungsurteil zu den zukunftsorientierten Angaben sowie zu den zugrunde liegenden Annahmen geben wir nicht ab. Es besteht ein erhebliches unvermeidbares Risiko, dass künftige Ereignisse wesentlich von den zukunftsorientierten Angaben abweichen.
+
+Wir erörtern mit den für die Überwachung Verantwortlichen unter anderem den geplanten Umfang und die Zeitplanung der Prüfung sowie bedeutsame Prüfungsfeststellungen, einschließlich etwaiger bedeutsamer Mängel in internen Kontrollen, die wir während unserer Prüfung feststellen.
+
+Stuttgart, 13. Juni 2025
+
+BW PARTNER
+Bauer Schätz Hasenclever Partnerschaft mbB
+Wirtschaftsprüfungsgesellschaft
+Steuerberatungsgesellschaft
+
+Susanne Reh, Wirtschaftsprüferin
+
+Marius Henkel, Wirtschaftsprüfer
+
+Bei Veröffentlichung oder Weitergabe des Jahresabschlusses und/oder des Lageberichts in einer von der bestätigten Fassung abweichenden Form bedarf es zuvor unserer erneuten Stellungnahme, sofern hierbei unser Bestätigungsvermerk zitiert oder auf unsere Prüfung hingewiesen wird; auf § 328 HGB wird verwiesen.
+
+Angaben zur Feststellung
+
+Der Jahresabschluss wurde am 04.07.2025 von der Gesellschafterversammlung festgestellt.

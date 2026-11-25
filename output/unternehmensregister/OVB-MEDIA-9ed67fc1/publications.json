@@ -1,0 +1,115 @@
+{
+  "company": {
+    "key": "OVB MEDIA",
+    "name": "OVB MEDIA",
+    "location": "Rosenheim",
+    "name_source": "company_name",
+    "urls": [
+      "https://www.ovbmedia.de"
+    ],
+    "kununu_url": null,
+    "branches": [
+      "Journalisten und Medien"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "83022",
+    "street": "Hafnerstrasse 5 - 13",
+    "region": "Bayern",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:56:00.632527+00:00",
+  "searches": [
+    {
+      "accounting_only": true,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=OVB+MEDIA&companyLocation=Rosenheim&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ACCOUNTING&drilldownFilter=22&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": false
+    },
+    {
+      "accounting_only": false,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=OVB+MEDIA&companyLocation=Rosenheim&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ALL_AREAS&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": false
+    }
+  ],
+  "excluded_company_matches": [
+    {
+      "company": "OVB24 GmbH, Rosenheim",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-08-20",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=jWKxupWMIsUmnR2hXFLyvkaK6uUz1Wyzm_b54IJwXG6rfr9cbTuslsBm7oz_SEGidlnq3NomjxpfICNZteJEJ72UFoLrJn22PcFns7lsAT2I5aQzq_ffFf9IB2K9vLA8zMmfKadDtf0ZZUTkGQxuAeCpS-rjUxqLX-BDHv9YtZwUmTKVGiMP8OSgN4yz6p1ohgBvoeOrzuQywrP7PbmO8yjuI1iIkO7RtIO86wvzwtLk-KCq",
+      "metadata": "OVB24 GmbH, Rosenheim Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 20.08.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "OVB24 GmbH, Rosenheim",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-08-14",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=Jajf1K2rGWiReDXsfpKLGsTUSk7upCclyy_t7gImEHwHEwkYMUFhF-h8TZcyHoia1twArssW9MuQzUaJlQavT9oWEkPAtsXOlABTqIzZraqjPUv3Po8ATeyyKvBiTdP1lWZVR0ttflaOgVHoG7H5Z-ITDCWmaZSC6oAyIZ66h4zH-ZxG1psavAuSwwl4C_bYgVTWw0lemY5PS9Jlh_obnYUaTxB22Knt9HpZnc0ZYmxlRVa0",
+      "metadata": "OVB24 GmbH, Rosenheim Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 14.08.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "OVB24 GmbH, Rosenheim",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2024-08-19",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=LjERRIV-DD6EDEkrSoUMmlDA6lwk578MrqtoG28uBz1cHHKdE9NLuP1UhQaHfmf5a3tu0vFS_lx54YK1MYf_tHae3N2TCTtkTlYu0VYdeIiJTSPcgZhNCZ5QmqWlqJbqVBIyMmLjUsHKmoec1nQlj2nXFnLYtIzn-H_E9-GEew_EvAwSnYUCxfVYYf7ItSleLIcq9D7R1q5t4k9nYHz3A-pOaLIdCjo5jop8q3ZBR9rT1pYw",
+      "metadata": "OVB24 GmbH, Rosenheim Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 19.08.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "OVB24 GmbH, Rosenheim",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-08-20",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=fFkKV2JbtfzNKHm-q9HFuvnIJyzjzz7Rclzgc5xe43Sr9hCffOJqoj8NdXhVxd4rOXyo32dZZWPinG_fJQuN2JMGSBd_MPne9cY_MMFGzOjqR7OKyh1mlfiue1wHnX658nkuI9zu3OGoMpnATPQs2jXE0ArWvBTBU4ULVGCCR7cfieJGu4T7Kr5z5BtAvVI7njiD2eh_A2DAWVlxzBd5kLWTYw05Dgxi7UEj32u6m3K4yzL9",
+      "metadata": "OVB24 GmbH, Rosenheim Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 20.08.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "OVB24 GmbH, Rosenheim",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-08-14",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=XkKH2MtwPtJ8ykTKrObP-Rce9hrvUUEJqFUf2_71Wr1Ugex3jjKwMkkVu2QolAL9eEU7IVgp_8p6GN_3PDCfabxwCWfsgCGsWJeauNaHghd2C67eXwIQ25W01csFf7rC3oekvjJs1exJOB7pCs_7SDuFELwuez-qzYMp_MgdoG76e_YPe1pmTvg86oy8jg55_UA47z6ddJVZdGpLpb5IYB0p2Gt4VfpqDNW1LhvefAdWrThX",
+      "metadata": "OVB24 GmbH, Rosenheim Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 14.08.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "OVB24 GmbH, Rosenheim",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2024-08-19",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=ZEcpfAvmhB80tBurQUkEYjw57CVCXoCf9LP87uqb_7gf9RLFjIw-CQ3nan9_UvmrzlK8BRAWxit-XqdgxU6DVQv2ZW7RWPnZ5C5gdoPvaGP7wMOyBQRjP-n16ZJmQTcBsNy20qJZtUPDcR3WiGtgqEaPa6cDYO8fL7Y4x7K-MfG9h21nONzpvMHk-4qPChMPT6yQgxoufAGF1ZxJE4at6otlTwjDcOF1aZGSK_bnTQJdAgL5",
+      "metadata": "OVB24 GmbH, Rosenheim Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 19.08.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    }
+  ],
+  "date_from": "2024-01-01",
+  "date_to": "2026-11-25",
+  "excluded_dates": [],
+  "max_publications": 30,
+  "truncated": false,
+  "coverage": {
+    "search_complete": true,
+    "more_pages": false,
+    "publication_limit_reached": false,
+    "downloads_selected": 0,
+    "downloads_succeeded": 0,
+    "download_limit_reached": false,
+    "downloads_complete": true,
+    "text_complete": true
+  },
+  "publications": []
+}

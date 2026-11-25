@@ -1,0 +1,101 @@
+{
+  "provider": "gewerkschaften",
+  "status": "partial",
+  "company": {
+    "key": "bmedx",
+    "name": "bmedx",
+    "location": "Heidelberg",
+    "name_source": "company_name",
+    "urls": [
+      "https://bmedx.com"
+    ],
+    "kununu_url": null,
+    "branches": [
+      "Biotechnologie"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "69120",
+    "street": "Im Neuenheimer Feld 583",
+    "region": "Baden-Württemberg",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "relevance": "company_mention",
+  "date_from": "2026-05-25",
+  "date_to": "2026-11-25",
+  "search_terms": [
+    "bmedx"
+  ],
+  "truncated": true,
+  "associations": [
+    {
+      "name": "IG BCE",
+      "status": "complete",
+      "manifest": "output\\gewerkschaften\\_sites\\IG-BCE-3b602192\\manifest.json",
+      "phase": "primary",
+      "fallback_reason": null,
+      "search_mode": "site_search",
+      "searches": [
+        {
+          "url": "https://www.presseportal.de/nr/56813?search=bmedx",
+          "company_key": "bmedx",
+          "query": "bmedx",
+          "mechanism": "get_form",
+          "status": "fetched"
+        }
+      ]
+    },
+    {
+      "name": "DGB",
+      "status": "partial",
+      "manifest": "output\\gewerkschaften\\_sites\\DGB-df3cffd4\\fallback\\manifest.json",
+      "phase": "fallback",
+      "fallback_reason": "no_primary_articles",
+      "search_mode": "site_search",
+      "searches": [
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=bmedx",
+          "company_key": "bmedx",
+          "query": "bmedx",
+          "mechanism": "get_form",
+          "status": "fetched"
+        }
+      ]
+    },
+    {
+      "name": "ver.di",
+      "status": "partial",
+      "manifest": "output\\gewerkschaften\\_sites\\ver-di-51994702\\fallback\\manifest.json",
+      "phase": "fallback",
+      "fallback_reason": "no_primary_articles",
+      "search_mode": "site_search",
+      "searches": [
+        {
+          "url": "https://www.verdi.de/suche?q=bmedx",
+          "company_key": "bmedx",
+          "query": "bmedx",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        }
+      ]
+    }
+  ],
+  "article_count": 0,
+  "articles": [],
+  "pdfs": {
+    "download_policy": "company_in_link_metadata_or_filename",
+    "downloaded_on_sources": 0,
+    "mentioning_company": 0,
+    "retained_as_articles": 0,
+    "index_path": null
+  },
+  "search_coverage": {
+    "fetched": 3,
+    "error": 0,
+    "not_attempted": 0,
+    "ignored_query": 0,
+    "sites_without_search": 0
+  },
+  "reason": "search_incomplete"
+}

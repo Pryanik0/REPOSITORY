@@ -1,0 +1,11 @@
+{
+  "source": "data\\sources.csv",
+  "source_hash": "bf4edf472ec14236c3e760eceb65ab61e04ffdcb45e8da4b71485d4e93834354",
+  "name": "sources-2026-11-25",
+  "list_id": "c9e4dedf-afcb-4e10-957f-0afa22e94eb8",
+  "source_rows": 59,
+  "imported_companies": 40,
+  "rows_needing_review": 19,
+  "url": "https://app.implisense.com/de/lists/c9e4dedf-afcb-4e10-957f-0afa22e94eb8",
+  "spent_credits": 0
+}

@@ -1,0 +1,9 @@
+{
+  "url": "https://jobs.msg.group/robots.txt",
+  "final_url": "https://jobs.msg.group/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/plain;charset=ISO-8859-1",
+  "fetched_at": "2026-11-25T16:11:44.646940+00:00",
+  "text": "User-agent: *\nAllow: /\nDisallow: /p/stepstone/\nDisallow: /p/personaldienstleisterbanking/\nDisallow: /p/get-in-it/\nDisallow: /p/talentry/\nDisallow: /p/advisors/\nDisallow: /p/linkedIn/\nDisallow: /p/kampagnenbanking/\nDisallow: /p/personaldienstleistermsgsystems/\nDisallow: /p/kampagnenautomotive/\nDisallow: /p/linkedin_suisse/\nDisallow: /p/kampagnensystems/\nSitemap: https://jobs.msg.group/sitemap.xml"
+}

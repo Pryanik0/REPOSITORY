@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Datenvertrag v0.4: gewerkschaften/<firma>/articles/<id>/article.json",
+  "description": "Volltext eines Gewerkschaftsartikels. Eine Datei je Artikel, der Ordnername ist die Artikel-id aus der snapshot.json. Genutzt für die Stichwortsuche (E2c) und die Textsignale (E4). Die Datei article.txt im selben Ordner wird nicht gelesen.",
+  "type": "object",
+  "required": ["id", "title", "url", "text"],
+  "properties": {
+    "id": { "type": "string", "x-anzeige": "Kennung", "minLength": 1, "description": "Kennung des Artikels, wie in der snapshot.json und wie der Ordnername" },
+    "title": { "type": "string", "description": "Überschrift des Artikels" },
+    "url": { "type": "string", "x-anzeige": "URL", "description": "Adresse des Artikels" },
+    "text": { "type": "string", "description": "Volltext des Artikels" },
+    "published_at": { "type": ["string", "null"], "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$", "description": "Veröffentlichungsdatum, null wenn nicht ermittelbar" },
+    "gewerkschaft": { "type": "string", "description": "Name der Gewerkschaft (nur bei Gewerkschaften)" },
+    "match": {
+      "type": "object",
+      "description": "Wie die Firma im Artikel gefunden wurde",
+      "properties": {
+        "matched_name": { "type": "string", "description": "Firmenname, wie er im Artikel gefunden wurde" },
+        "matched_in": { "type": "string", "x-bekannte-werte": ["title", "text"], "description": "Wo der Name steht: in der Überschrift oder im Text" },
+        "excerpt": { "type": ["string", "null"], "description": "Textstelle mit dem Firmennamen" }
+      }
+    },
+    "content_hash": { "type": ["string", "null"], "x-anzeige": "SHA-256", "description": "Fingerabdruck des Inhalts (SHA-256)" },
+    "fetched_at": { "type": ["string", "null"], "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}T[0-9]{2}:[0-9]{2}:[0-9]{2}(\\.[0-9]+)?(Z|[+-][0-9]{2}:[0-9]{2})$", "description": "Zeitpunkt des Abrufs" }
+  }
+}

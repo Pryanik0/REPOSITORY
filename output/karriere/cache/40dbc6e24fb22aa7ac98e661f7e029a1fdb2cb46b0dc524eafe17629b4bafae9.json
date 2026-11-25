@@ -1,0 +1,9 @@
+{
+  "url": "https://www.agido.com/robots.txt",
+  "final_url": "https://www.agido.com/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/html;charset=UTF-8",
+  "fetched_at": "2026-11-25T16:13:16.414969+00:00",
+  "text": "User-agent: * #all bots\r<br/>\r<br/>Sitemap: http://www.agido.com/sitemap.xml\r<br/>\r<br/>Disallow: /main/news/paypal-integration.html\r<br/>Disallow: /main/solutions/innovation.html\r<br/>Disallow: /main/news/paypal-integration\r<br/>Disallow: /main/solutions/innovation"
+}

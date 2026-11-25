@@ -1,0 +1,589 @@
+{
+  "provider": "kununu",
+  "backend": "browser",
+  "status": "ok",
+  "query": "Deutsche Rück",
+  "profile": {
+    "url": "https://www.kununu.com/de/deutsche-rueckversicherung2",
+    "name": "Deutsche Rückversicherung AG",
+    "overall_score": 4.8,
+    "review_count": 44,
+    "recommendation_percent": 100,
+    "recommendation_period": "last_2_years",
+    "observed_at": "2026-11-25T17:16:57.897973+00:00"
+  },
+  "reviews": [
+    {
+      "id": "4ea5a42b-ad89-409d-9830-fb2dfa4788d3",
+      "url": "https://www.kununu.com/de/deutsche-rueckversicherung2/bewertung/4ea5a42b-ad89-409d-9830-fb2dfa4788d3",
+      "title": "Großartiger Arbeitgeber mit besonderer Unternehmenskultur",
+      "content": "Kluges Haus mit viel Herz\n\nKaum etwas… ich bin sehr zufrieden\n\nDarauf achten, dieses besondere Miteinander nicht zu verlieren, auch wenn das Unternehmen wächst.\n\nTolle Menschen, wertschätzendes Miteinander, starker Teamgeist\n\nDas Unternehmen überzeugt durch Professionalität, Verlässlichkeit und eine starke Unternehmenskultur.\n\nSehr flexible Arbeits- und Rahmenbedingungen, Verständnis für persönliche Situationen immer gegeben\n\nEs gibt viele Möglichkeiten sich fachlich und persönlich weiterzuentwickeln und Verantwortung zu übernehmen. Entwicklungspotentiale werden erkannt und individuelle Karrierewege gestaltet.\n\nGehälter sind fair und leistungsgerecht; gelebtes Equal Pay; Vergütung rundet das insgesamt sehr gute Gesamtpaket ab\n\nSoziale Verantwortung und Nachhaltigkeit sind kein Lippenbekenntnis\n\nMacht einfach Spaß; man kann sich aufeinander verlassen.\n\nLangjährige Erfahrung und Wissen wird geschätzt und als wichtiger Bestandteil der Zusammenarbeit gesehen.\n\nInsgesamt sehr gut, Kultur von Vertrauen und Wertschätzung ist spürbar, ansonsten gibt es Potential ja immer…\n\nEinfach nur top, insbesondere das Arbeiten im neuen Gebäude; Sozialleistungen sind außergewöhnlich umfangreich; es gibt zahlreiche freiwillige attraktive Zusatzleistungen\n\nOffen und wertschätzend; Informationen werden klar vermittelt. Austausch auf Augenhöhe und Fragen finden jederzeit Gehör\n\nVielfalt wird gelebt und als Bereicherung verstanden. Menschen mit unterschiedlichen Kulturen sind sehr willkommen und bringen ihre vielfältigen Perspektiven positiv ein.\n\nAufgaben sind vielseitig, abwechslungsreich und anspruchsvoll; wer Verantwortung übernehmen möchte, erhält Möglichkeiten",
+      "rating": 4.8,
+      "sections": {
+        "positive": "Kluges Haus mit viel Herz",
+        "negative": "Kaum etwas… ich bin sehr zufrieden",
+        "suggestion": "Darauf achten, dieses besondere Miteinander nicht zu verlieren, auch wenn das Unternehmen wächst."
+      },
+      "factor_comments": {
+        "atmosphere": "Tolle Menschen, wertschätzendes Miteinander, starker Teamgeist",
+        "image": "Das Unternehmen überzeugt durch Professionalität, Verlässlichkeit und eine starke Unternehmenskultur.",
+        "workLife": "Sehr flexible Arbeits- und Rahmenbedingungen, Verständnis für persönliche Situationen immer gegeben",
+        "career": "Es gibt viele Möglichkeiten sich fachlich und persönlich weiterzuentwickeln und Verantwortung zu übernehmen. Entwicklungspotentiale werden erkannt und individuelle Karrierewege gestaltet.",
+        "salary": "Gehälter sind fair und leistungsgerecht; gelebtes Equal Pay; Vergütung rundet das insgesamt sehr gute Gesamtpaket ab",
+        "environment": "Soziale Verantwortung und Nachhaltigkeit sind kein Lippenbekenntnis",
+        "teamwork": "Macht einfach Spaß; man kann sich aufeinander verlassen.",
+        "oldColleagues": "Langjährige Erfahrung und Wissen wird geschätzt und als wichtiger Bestandteil der Zusammenarbeit gesehen.",
+        "leadership": "Insgesamt sehr gut, Kultur von Vertrauen und Wertschätzung ist spürbar, ansonsten gibt es Potential ja immer…",
+        "workConditions": "Einfach nur top, insbesondere das Arbeiten im neuen Gebäude; Sozialleistungen sind außergewöhnlich umfangreich; es gibt zahlreiche freiwillige attraktive Zusatzleistungen",
+        "communication": "Offen und wertschätzend; Informationen werden klar vermittelt. Austausch auf Augenhöhe und Fragen finden jederzeit Gehör",
+        "equality": "Vielfalt wird gelebt und als Bereicherung verstanden. Menschen mit unterschiedlichen Kulturen sind sehr willkommen und bringen ihre vielfältigen Perspektiven positiv ein.",
+        "tasks": "Aufgaben sind vielseitig, abwechslungsreich und anspruchsvoll; wer Verantwortung übernehmen möchte, erhält Möglichkeiten"
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 4.0,
+        "workConditions": 5.0,
+        "leadership": 4.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-10-20T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "8210491f-7c47-4013-9fac-d9cdf3082ba0",
+      "url": "https://www.kununu.com/de/deutsche-rueckversicherung2/bewertung/8210491f-7c47-4013-9fac-d9cdf3082ba0",
+      "title": "Sehr guter Arbeitgeber",
+      "content": "Sehr gutes und kollegiales Mitarbeiter. Gute Unternehmenskultur, in der Mitarbeiter/innen hohe Verantwortung übernehmen",
+      "rating": 5.0,
+      "sections": {
+        "positive": "Sehr gutes und kollegiales Mitarbeiter. Gute Unternehmenskultur, in der Mitarbeiter/innen hohe Verantwortung übernehmen",
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-04-26T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "d5304676-2c6b-4504-b5a4-e16174f8f4a6",
+      "url": "https://www.kununu.com/de/deutsche-rueckversicherung2/bewertung/d5304676-2c6b-4504-b5a4-e16174f8f4a6",
+      "title": "Hier macht das Arbeiten Spaß!",
+      "content": "Obwohl eine Rückversicherung vielleicht etwas konservativ und steif wirken könnte, sind die Arbeitsbedingungen modern und die Kolleg:innen nett und offen. Ich habe in meinen alten Jobs selten so viele freundliche und höchst professionelle Menschen getroffen.\nEs wird auch nie langweilig, weil man die unterschiedlichsten Fachrichtungen unter einem Dach hat (von Mathematiker:innen über Geolog:innen).\n\nWirklich \"schlecht\" finde ich eigentlich nichts :)\n\nIch würde mir für die Zukunft wünschen, dass auch alle älteren Kolleg:innen offen wären für Veränderung. Oftmals hört man den Satz: \"Das haben wir immer schon so gemacht...\". Durch viele neue junge Kolleg:innen verändert sich aber gerade die Gewichtung und das hat dann hoffentlich auch Auswirkungen auf das Arbeiten in den einzelnen Abteilungen.\nEin großer Wunsch wären auch Bürohunde! Dann wäre das Arbeiten bei der DR fast perfekt :)\n\nAllgemein ist die Atmosphäre sehr gut!\n\nGut denke ich!\n\nWir haben flexible Arbeitszeiten und können auch spontan mal frei nehmen oder Artzttermine annehmen. Das ist schon sehr angenehm!\n\nWenn man Interesse daran hat, wird man bei Weiterbildungen unterstützt und es wird gerne gesehen, wenn man seinen Horizont erweitern möchte.\n\nDurch den Tarifvertrag muss man nicht jedes Jahr um eine Gehaltserhöhung pokern. Auch die Extraleistungen sind super.\n\nBeim Neubau wurde sehr auf grünen Strom und smarte Konzepte gedacht. Auch bei Veranstaltungen wird darauf geachtet Unternehmen oder Dienstleister (kleine Betriebe) aus der Umgebung einzubeziehen.\n\nIn meinem Team gehen wir alle sehr freundschaftlich und fair miteinander um. Auch abteilungsübergreifend habe ich noch keine schlechten Erfahrungen gemacht.\n\nGeschieht meistens auf Augenhöhe. Der Großteil der älteren Kolleg:innen freut sich über frischen Wind und neue Perspektiven. Auch hier ist aber Luft nach oben.\n\nMan kann mit Problemen immer zum Vorgesetzten kommen oder sich Feedback einholen. das klappt ganz gut!\n\nich bewerte jetzt mal das neue Gebäude, da wir bald umziehen und wir uns alle sehr auf den Neubau und die modernen Büros freuen!\n\nHier kommt es wahrscheinlich immer auf die Abteilung an aber wir bekommen alles sehr schnell mit und werden informiert.\n\nDurch den Tarifvertrag sind wir schon sehr weit, was die Gleichberechtigung angeht. Trotzdem würde ich mir noch mehr junge Leute und gerade Frauen in Führungspositionen wünschen.\n\nIch kann viele Impulse selber setzen und eigene Ideen umsetzen. Deshalb macht es mir auch so viel Spaß :)",
+      "rating": 4.8,
+      "sections": {
+        "positive": "Obwohl eine Rückversicherung vielleicht etwas konservativ und steif wirken könnte, sind die Arbeitsbedingungen modern und die Kolleg:innen nett und offen. Ich habe in meinen alten Jobs selten so viele freundliche und höchst professionelle Menschen getroffen.\nEs wird auch nie langweilig, weil man die unterschiedlichsten Fachrichtungen unter einem Dach hat (von Mathematiker:innen über Geolog:innen).",
+        "negative": "Wirklich \"schlecht\" finde ich eigentlich nichts :)",
+        "suggestion": "Ich würde mir für die Zukunft wünschen, dass auch alle älteren Kolleg:innen offen wären für Veränderung. Oftmals hört man den Satz: \"Das haben wir immer schon so gemacht...\". Durch viele neue junge Kolleg:innen verändert sich aber gerade die Gewichtung und das hat dann hoffentlich auch Auswirkungen auf das Arbeiten in den einzelnen Abteilungen.\nEin großer Wunsch wären auch Bürohunde! Dann wäre das Arbeiten bei der DR fast perfekt :)"
+      },
+      "factor_comments": {
+        "atmosphere": "Allgemein ist die Atmosphäre sehr gut!",
+        "image": "Gut denke ich!",
+        "workLife": "Wir haben flexible Arbeitszeiten und können auch spontan mal frei nehmen oder Artzttermine annehmen. Das ist schon sehr angenehm!",
+        "career": "Wenn man Interesse daran hat, wird man bei Weiterbildungen unterstützt und es wird gerne gesehen, wenn man seinen Horizont erweitern möchte.",
+        "salary": "Durch den Tarifvertrag muss man nicht jedes Jahr um eine Gehaltserhöhung pokern. Auch die Extraleistungen sind super.",
+        "environment": "Beim Neubau wurde sehr auf grünen Strom und smarte Konzepte gedacht. Auch bei Veranstaltungen wird darauf geachtet Unternehmen oder Dienstleister (kleine Betriebe) aus der Umgebung einzubeziehen.",
+        "teamwork": "In meinem Team gehen wir alle sehr freundschaftlich und fair miteinander um. Auch abteilungsübergreifend habe ich noch keine schlechten Erfahrungen gemacht.",
+        "oldColleagues": "Geschieht meistens auf Augenhöhe. Der Großteil der älteren Kolleg:innen freut sich über frischen Wind und neue Perspektiven. Auch hier ist aber Luft nach oben.",
+        "leadership": "Man kann mit Problemen immer zum Vorgesetzten kommen oder sich Feedback einholen. das klappt ganz gut!",
+        "workConditions": "ich bewerte jetzt mal das neue Gebäude, da wir bald umziehen und wir uns alle sehr auf den Neubau und die modernen Büros freuen!",
+        "communication": "Hier kommt es wahrscheinlich immer auf die Abteilung an aber wir bekommen alles sehr schnell mit und werden informiert.",
+        "equality": "Durch den Tarifvertrag sind wir schon sehr weit, was die Gleichberechtigung angeht. Trotzdem würde ich mir noch mehr junge Leute und gerade Frauen in Führungspositionen wünschen.",
+        "tasks": "Ich kann viele Impulse selber setzen und eigene Ideen umsetzen. Deshalb macht es mir auch so viel Spaß :)"
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 4.0,
+        "equality": 4.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-01-15T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "d763fc51-8ebf-42fe-92f8-53fce466050d",
+      "url": "https://www.kununu.com/de/deutsche-rueckversicherung2/bewertung/d763fc51-8ebf-42fe-92f8-53fce466050d",
+      "title": "Das beste Unternehmen, für das ich je gearbeitet habe.",
+      "content": "Ein ziemlich guter Arbeitsplatz mit zahlreichen Vorteilen, an dem man merkt, dass man sich wirklich um das Wohl der Mitarbeiter kümmert!",
+      "rating": 5.0,
+      "sections": {
+        "positive": "Ein ziemlich guter Arbeitsplatz mit zahlreichen Vorteilen, an dem man merkt, dass man sich wirklich um das Wohl der Mitarbeiter kümmert!",
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-09-29T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "ac1c3d3b-9617-4d6e-910a-bb143c486d33",
+      "url": "https://www.kununu.com/de/deutsche-rueckversicherung2/bewertung/ac1c3d3b-9617-4d6e-910a-bb143c486d33",
+      "title": "Top Arbeitgeber",
+      "content": "Top Sozialleistungen, Fairer Umgang, sehr gute Work-Life-Balance",
+      "rating": 4.9,
+      "sections": {
+        "positive": "Top Sozialleistungen, Fairer Umgang, sehr gute Work-Life-Balance",
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 4.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-05-28T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "f944e31d-b517-4028-88b0-dc08979d1f33",
+      "url": "https://www.kununu.com/de/deutsche-rueckversicherung2/bewertung/f944e31d-b517-4028-88b0-dc08979d1f33",
+      "title": "Stabiler Arbeitgeber mit viel Potenzial",
+      "content": "Interessante Aufgaben, Unternehmensbindung ist sehr hoch, Sozialleistungen/Zusatzleistungen sind extrem gut!\n\nTeilweise festgefahren in alten Denkmustern, aber man erkennt Besserungen.\n\nEtwas mehr Offenheit für Veränderungen.\n\nUnzufriedenheit in einzelnen Bereichen spiegelt sich leider auch in der Gesamtatmosphäre wieder, aber es wird aktiv daran gearbeitet.\n\nHoher Home-Office Anteil möglich, daher ist das Privatleben gut mit dem Job vereinbar.\n\nGut finde ich vor allem, dass intern häufiger durch Kollegen/Abteilungen Schulungen angeboten werden. Ansonsten gibt es immer Möglichkeiten für externe Angebote. Die Personalabteilung ist sehr hilfreich.\n\nMeine Vorgesetzten geben sich sehr viel Mühe transparent zu sein und machen insgesamt einen unterstützenden Eindruck auf mich.\n\nVerbesserungsfähig aber schon ganz gut.\n\nSehr vielfältig! Durch die Unternehmensgröße hat man auch viele Freiheiten und kann sich gut engagieren, wenn Interesse besteht.",
+      "rating": 4.8,
+      "sections": {
+        "positive": "Interessante Aufgaben, Unternehmensbindung ist sehr hoch, Sozialleistungen/Zusatzleistungen sind extrem gut!",
+        "negative": "Teilweise festgefahren in alten Denkmustern, aber man erkennt Besserungen.",
+        "suggestion": "Etwas mehr Offenheit für Veränderungen."
+      },
+      "factor_comments": {
+        "atmosphere": "Unzufriedenheit in einzelnen Bereichen spiegelt sich leider auch in der Gesamtatmosphäre wieder, aber es wird aktiv daran gearbeitet.",
+        "workLife": "Hoher Home-Office Anteil möglich, daher ist das Privatleben gut mit dem Job vereinbar.",
+        "career": "Gut finde ich vor allem, dass intern häufiger durch Kollegen/Abteilungen Schulungen angeboten werden. Ansonsten gibt es immer Möglichkeiten für externe Angebote. Die Personalabteilung ist sehr hilfreich.",
+        "leadership": "Meine Vorgesetzten geben sich sehr viel Mühe transparent zu sein und machen insgesamt einen unterstützenden Eindruck auf mich.",
+        "communication": "Verbesserungsfähig aber schon ganz gut.",
+        "tasks": "Sehr vielfältig! Durch die Unternehmensgröße hat man auch viele Freiheiten und kann sich gut engagieren, wenn Interesse besteht."
+      },
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 5.0,
+        "communication": 4.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-03-31T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "104a3abb-4595-449f-9fda-3d9e4903552f",
+      "url": "https://www.kununu.com/de/deutsche-rueckversicherung2/bewertung/104a3abb-4595-449f-9fda-3d9e4903552f",
+      "title": "Fairer und sozialer Arbeitgeber",
+      "content": "Zu erwähnen sind hier die vielen Sozialleistungen.\n\nDas Sozialbewusstsein ist sehr gut. Umweltbewusstsein könnte noch etwas gefördert werden.\n\nDer Zusammenhalt innerhalb der Abteilung ist einwandfrei. Lediglich zwischen den Abteilungen besteht hin und wieder ein Konkurrenzkampf um Ressourcen.\n\nIn den gängigen Karrierestufen ist die Gleichberechtigung schon sehr weit. In Führungsposition ist Luft nach oben. Allerdings wird bereits daran gearbeitet.",
+      "rating": 4.2,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "salary": "Zu erwähnen sind hier die vielen Sozialleistungen.",
+        "environment": "Das Sozialbewusstsein ist sehr gut. Umweltbewusstsein könnte noch etwas gefördert werden.",
+        "teamwork": "Der Zusammenhalt innerhalb der Abteilung ist einwandfrei. Lediglich zwischen den Abteilungen besteht hin und wieder ein Konkurrenzkampf um Ressourcen.",
+        "equality": "In den gängigen Karrierestufen ist die Gleichberechtigung schon sehr weit. In Führungsposition ist Luft nach oben. Allerdings wird bereits daran gearbeitet."
+      },
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 3.0,
+        "oldColleagues": 5.0,
+        "equality": 3.0,
+        "career": 3.0,
+        "salary": 5.0,
+        "image": 4.0,
+        "environment": 4.0,
+        "tasks": 4.0
+      },
+      "published_at": "2025-03-04T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "65b61b9d-bc08-4dbf-b9df-1264d0b84eed",
+      "url": "https://www.kununu.com/de/deutsche-rueckversicherung2/bewertung/65b61b9d-bc08-4dbf-b9df-1264d0b84eed",
+      "title": "Top Arbeitgeber",
+      "content": "",
+      "rating": 5.0,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-07-16T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "e2046f46-087e-40fa-8adb-724457771d7a",
+      "url": "https://www.kununu.com/de/deutsche-rueckversicherung2/bewertung/e2046f46-087e-40fa-8adb-724457771d7a",
+      "title": "Spannende Aufgaben in hervorragender Atmosphäre",
+      "content": "",
+      "rating": 5.0,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-03-05T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "4a1c9b13-3e5e-4a56-b118-667927775ed4",
+      "url": "https://www.kununu.com/de/deutsche-rueckversicherung2/bewertung/4a1c9b13-3e5e-4a56-b118-667927775ed4",
+      "title": "Gute Rahmenbedingungen",
+      "content": "",
+      "rating": 4.9,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-02-15T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "583cbfe9-1e99-4934-a080-dd11065781fd",
+      "url": "https://www.kununu.com/de/deutsche-rueckversicherung2/bewertung/583cbfe9-1e99-4934-a080-dd11065781fd",
+      "title": "Rundum zufrieden",
+      "content": "",
+      "rating": 4.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-01-08T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "902ed5ae-3a45-4be4-b602-e3a9a68eb73a",
+      "url": "https://www.kununu.com/de/deutsche-rueckversicherung2/bewertung/902ed5ae-3a45-4be4-b602-e3a9a68eb73a",
+      "title": "Praktikum Marktaktuariat",
+      "content": "",
+      "rating": 4.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2024-11-28T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    }
+  ],
+  "review_limit": 15,
+  "review_period": {
+    "since": "2024-11-25T00:00:00+00:00",
+    "until": "2026-11-25T17:16:56.158494+00:00",
+    "date_field": "published_at",
+    "missing_dates": "excluded"
+  },
+  "factor_scores_aggregated": {
+    "atmosphere": {
+      "mean": 4.71,
+      "count": 7
+    },
+    "workLife": {
+      "mean": 5.0,
+      "count": 7
+    },
+    "communication": {
+      "mean": 4.57,
+      "count": 7
+    },
+    "workConditions": {
+      "mean": 5.0,
+      "count": 7
+    },
+    "leadership": {
+      "mean": 4.86,
+      "count": 7
+    },
+    "teamwork": {
+      "mean": 4.71,
+      "count": 7
+    },
+    "oldColleagues": {
+      "mean": 4.86,
+      "count": 7
+    },
+    "equality": {
+      "mean": 4.57,
+      "count": 7
+    },
+    "career": {
+      "mean": 4.71,
+      "count": 7
+    },
+    "salary": {
+      "mean": 5.0,
+      "count": 7
+    },
+    "image": {
+      "mean": 4.86,
+      "count": 7
+    },
+    "environment": {
+      "mean": 4.86,
+      "count": 7
+    },
+    "tasks": {
+      "mean": 4.86,
+      "count": 7
+    }
+  },
+  "coverage": "bounded_employee_review_sample_last_2_years_not_all_reviews",
+  "diagnostics": {
+    "pages": [
+      {
+        "page": "reviews",
+        "page_number": 1,
+        "load_more_clicks": 0,
+        "requested_url": "https://www.kununu.com/de/deutsche-rueckversicherung2/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Deutsche-R-ck-d5b4f190\\browser\\reviews.html",
+        "browser_step": 104,
+        "final_url": "https://www.kununu.com/de/deutsche-rueckversicherung2/kommentare",
+        "observed_at": "2026-11-25T17:16:57.593633+00:00",
+        "http_status": 200,
+        "factor_cards_expanded": 2,
+        "reviews_collected": 7
+      },
+      {
+        "page": "reviews",
+        "page_number": 2,
+        "load_more_clicks": 1,
+        "requested_url": "https://www.kununu.com/de/deutsche-rueckversicherung2/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Deutsche-R-ck-d5b4f190\\browser\\reviews-2.html",
+        "browser_step": 105,
+        "final_url": "https://www.kununu.com/de/deutsche-rueckversicherung2/kommentare",
+        "observed_at": "2026-11-25T17:16:59.000144+00:00",
+        "actions_complete": true,
+        "factor_cards_expanded": 3,
+        "reviews_collected": 7
+      },
+      {
+        "page": "reviews",
+        "page_number": 3,
+        "load_more_clicks": 2,
+        "requested_url": "https://www.kununu.com/de/deutsche-rueckversicherung2/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Deutsche-R-ck-d5b4f190\\browser\\reviews-3.html",
+        "browser_step": 106,
+        "final_url": "https://www.kununu.com/de/deutsche-rueckversicherung2/kommentare",
+        "observed_at": "2026-11-25T17:17:00.515752+00:00",
+        "actions_complete": true,
+        "reviews_collected": 9
+      },
+      {
+        "page": "reviews",
+        "page_number": 4,
+        "load_more_clicks": 3,
+        "requested_url": "https://www.kununu.com/de/deutsche-rueckversicherung2/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Deutsche-R-ck-d5b4f190\\browser\\reviews-4.html",
+        "browser_step": 107,
+        "final_url": "https://www.kununu.com/de/deutsche-rueckversicherung2/kommentare",
+        "observed_at": "2026-11-25T17:17:02.301395+00:00",
+        "actions_complete": true,
+        "reviews_collected": 12
+      },
+      {
+        "page": "reviews",
+        "page_number": 5,
+        "load_more_clicks": 4,
+        "requested_url": "https://www.kununu.com/de/deutsche-rueckversicherung2/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Deutsche-R-ck-d5b4f190\\browser\\reviews-5.html",
+        "browser_step": 108,
+        "final_url": "https://www.kununu.com/de/deutsche-rueckversicherung2/kommentare",
+        "observed_at": "2026-11-25T17:17:04.146620+00:00",
+        "actions_complete": true,
+        "reviews_collected": 12
+      }
+    ]
+  },
+  "source_url": "https://www.kununu.com/de/deutsche-rueckversicherung2",
+  "profile_source": "https://www.kununu.com/de/deutsche-rueckversicherung2/kommentare",
+  "review_stop_reason": "end_of_available_reviews",
+  "factor_score_coverage": {
+    "reviews_with_scores": 7,
+    "reviews_without_scores": 5,
+    "reviews_with_all_known_scores": 7,
+    "status": "partial"
+  },
+  "request_limits": {
+    "max_browser_steps": 295,
+    "browser_steps": 108,
+    "zyte_requests": 0
+  },
+  "reason": null
+}

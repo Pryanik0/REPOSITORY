@@ -1,0 +1,524 @@
+{
+  "provider": "kununu",
+  "backend": "browser",
+  "status": "partial",
+  "query": "Sparkasse Vest",
+  "profile": {
+    "url": "https://www.kununu.com/de/sparkasse-vest-recklinghausen",
+    "name": "Sparkasse Vest Recklinghausen",
+    "overall_score": 4.1,
+    "review_count": 75,
+    "recommendation_percent": 83,
+    "recommendation_period": "last_2_years",
+    "observed_at": "2026-11-25T17:17:07.016299+00:00"
+  },
+  "reviews": [
+    {
+      "id": "99bec996-a283-4ae8-aab5-6fb8451c54fa",
+      "url": "https://www.kununu.com/de/sparkasse-vest-recklinghausen/bewertung/99bec996-a283-4ae8-aab5-6fb8451c54fa",
+      "title": "Erste Adresse in der Region mit Handlungsfeldern die oft erkannt und mitunter konsequenter verfolgt werden können",
+      "content": "Menschlich, nahbares Unternehmen mit starker Verankerung in der Region, tollen engagierten Unternehmensvertretern und ebenso tollen Kundinnen und Kunden.\n\nNoch zu wenig Durchschlagskraft einiger Veränderungsprozesse.\n\nDen eingeschlagenen Weg konsequent fortsetzen, auch bei herausfordernden Projekten den Fokus und die Kundschaft nicht verlieren.\n\nWie überall abhängig vom Mikrokosmos, in meinem absolut positiv von Führungskraft zu übergeordneter Führungskraft wie zu und von Mitarbeitenden.\n\nDas Image der Sparkasse als größter Förderer wichtiger gesellschaftlicher Initiativen im Geschäftsgebiet ist sehr gut. Hinzu kommt die starke Verankerung der Mitarbeitenden in der Region oftmals mit auch sozialen Engagement.\n\nViele Themen aggregieren sich oft auf wenigen Schultern, an anderen Stellen könnte noch etwas Dynamik entfacht werden. Die Instrumente für WLB sind aber vorhanden und können zumeist auch gelebt werden.\n\nEs gibt es sehr breites Angebot fester Fortbildungen und ich habe vielfach erlebt, dass auch Offenheit bezüglich individueller Maßnahmen besteht.\n\nSolide zumeist auf Basis des TVöD-S. Die variablen Komponenten könnten eine stärkere Ausdifferenzierung zu Gunsten von Leistungsträgern enthalten. Auch hier hat man aber bereits Instrumente etabliert.\n\nMan hat sich in vielen Bereichen konsequent auf den Weg gemacht, will aber bewusst nicht early adaptor sein. Maßgeblich sind Energieeffizienz im Gebäudebereich, Dienst- und Poolwagen sowie Ressourcenverbrauch. Hier ist man bereichsübergreifend aktiv und nimmt auch Ideen auf.\n\nDer Zusammenhalt innerhalb, aber auch zwischen verschiedenen Abteilungen, ist oft sehr hoch.\n\nAuch hier ein hohes Maß an Wertschätzung für die Erfahrung, gleichzeitig die Einsicht, dass an vielen Stellen langfristige Übergabekonzepte erforderlich sind. Als Führungskraft Mann man dies aktiv gestalten.\n\nIn meinem Fall außerordentlich wertschätzend und konstruktiv kritisch. Gleiches erleben ich oft. Führungsdefiziten wird vermehrt nachgegangen und unterstützt oder nachjustiert.\n\nIm Gesamtunternehmen sicher heterogen, in Summe aber ein sehr solides bis sehr gutes Niveau.\n\nPositive Dinge können noch mehr kommuniziert werden - beispielsweise Vertriebszahlen und -erfolgr, Projektfortschritte, Neueinstellungen. Die Grundhaltung ist aber kollegial offen.\n\nIch spüre ein hohes Maß an institutionalisiertem, aber auch intrinsisch motiviertem Streben nach Gleichberechtigung im Sinne der Förderung der besten Talente.\n\nFür meinen Bereich kaum zu überbieten - große Freiheitsgrade, individuelle Lösungen und ein Zusammenspiel von Expertinnen und Experten im Sinne guter Lösungen für unsere Kundschaft.",
+      "rating": 4.5,
+      "sections": {
+        "positive": "Menschlich, nahbares Unternehmen mit starker Verankerung in der Region, tollen engagierten Unternehmensvertretern und ebenso tollen Kundinnen und Kunden.",
+        "negative": "Noch zu wenig Durchschlagskraft einiger Veränderungsprozesse.",
+        "suggestion": "Den eingeschlagenen Weg konsequent fortsetzen, auch bei herausfordernden Projekten den Fokus und die Kundschaft nicht verlieren."
+      },
+      "factor_comments": {
+        "atmosphere": "Wie überall abhängig vom Mikrokosmos, in meinem absolut positiv von Führungskraft zu übergeordneter Führungskraft wie zu und von Mitarbeitenden.",
+        "image": "Das Image der Sparkasse als größter Förderer wichtiger gesellschaftlicher Initiativen im Geschäftsgebiet ist sehr gut. Hinzu kommt die starke Verankerung der Mitarbeitenden in der Region oftmals mit auch sozialen Engagement.",
+        "workLife": "Viele Themen aggregieren sich oft auf wenigen Schultern, an anderen Stellen könnte noch etwas Dynamik entfacht werden. Die Instrumente für WLB sind aber vorhanden und können zumeist auch gelebt werden.",
+        "career": "Es gibt es sehr breites Angebot fester Fortbildungen und ich habe vielfach erlebt, dass auch Offenheit bezüglich individueller Maßnahmen besteht.",
+        "salary": "Solide zumeist auf Basis des TVöD-S. Die variablen Komponenten könnten eine stärkere Ausdifferenzierung zu Gunsten von Leistungsträgern enthalten. Auch hier hat man aber bereits Instrumente etabliert.",
+        "environment": "Man hat sich in vielen Bereichen konsequent auf den Weg gemacht, will aber bewusst nicht early adaptor sein. Maßgeblich sind Energieeffizienz im Gebäudebereich, Dienst- und Poolwagen sowie Ressourcenverbrauch. Hier ist man bereichsübergreifend aktiv und nimmt auch Ideen auf.",
+        "teamwork": "Der Zusammenhalt innerhalb, aber auch zwischen verschiedenen Abteilungen, ist oft sehr hoch.",
+        "oldColleagues": "Auch hier ein hohes Maß an Wertschätzung für die Erfahrung, gleichzeitig die Einsicht, dass an vielen Stellen langfristige Übergabekonzepte erforderlich sind. Als Führungskraft Mann man dies aktiv gestalten.",
+        "leadership": "In meinem Fall außerordentlich wertschätzend und konstruktiv kritisch. Gleiches erleben ich oft. Führungsdefiziten wird vermehrt nachgegangen und unterstützt oder nachjustiert.",
+        "workConditions": "Im Gesamtunternehmen sicher heterogen, in Summe aber ein sehr solides bis sehr gutes Niveau.",
+        "communication": "Positive Dinge können noch mehr kommuniziert werden - beispielsweise Vertriebszahlen und -erfolgr, Projektfortschritte, Neueinstellungen. Die Grundhaltung ist aber kollegial offen.",
+        "equality": "Ich spüre ein hohes Maß an institutionalisiertem, aber auch intrinsisch motiviertem Streben nach Gleichberechtigung im Sinne der Förderung der besten Talente.",
+        "tasks": "Für meinen Bereich kaum zu überbieten - große Freiheitsgrade, individuelle Lösungen und ein Zusammenspiel von Expertinnen und Experten im Sinne guter Lösungen für unsere Kundschaft."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 3.0,
+        "communication": 4.0,
+        "workConditions": 4.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 4.0,
+        "image": 5.0,
+        "environment": 4.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-07-31T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "a5177b56-a509-4989-9d7a-cff45c54747f",
+      "url": "https://www.kununu.com/de/sparkasse-vest-recklinghausen/bewertung/a5177b56-a509-4989-9d7a-cff45c54747f",
+      "title": "Toller Arbeitgeber mit vielen Möglichkeiten",
+      "content": "In meiner Abteilung super\n\nSehr flexibel! Gleitzeit mit der Möglichkeit jederzeit Freizeitausgleich zu nutzen\n\nklare Strukturen durch den TvöD\n\nwird immer mehr\n\nmanchmal etwas langsam - Flurfunk meist schneller\n\nAbwechslungsreiche Tätigkeiten",
+      "rating": 4.6,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "In meiner Abteilung super",
+        "workLife": "Sehr flexibel! Gleitzeit mit der Möglichkeit jederzeit Freizeitausgleich zu nutzen",
+        "salary": "klare Strukturen durch den TvöD",
+        "environment": "wird immer mehr",
+        "communication": "manchmal etwas langsam - Flurfunk meist schneller",
+        "tasks": "Abwechslungsreiche Tätigkeiten"
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 4.0,
+        "workConditions": 5.0,
+        "leadership": 4.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 4.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 4.0,
+        "environment": 4.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-03-10T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "55d8fa3e-7aca-4119-99a9-f45de82c5797",
+      "url": "https://www.kununu.com/de/sparkasse-vest-recklinghausen/bewertung/55d8fa3e-7aca-4119-99a9-f45de82c5797",
+      "title": "Gut. Aber nicht mehr",
+      "content": "Langsame Stellenbesetzung\nTeilweise keine Parkplätze",
+      "rating": 3.3,
+      "sections": {
+        "positive": null,
+        "negative": "Langsame Stellenbesetzung\nTeilweise keine Parkplätze",
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 2.0,
+        "communication": 3.0,
+        "workConditions": 2.0,
+        "leadership": 3.0,
+        "teamwork": 4.0,
+        "oldColleagues": 4.0,
+        "equality": 5.0,
+        "career": 3.0,
+        "salary": 3.0,
+        "image": 2.0,
+        "environment": 3.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-02-27T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "84bda134-6a09-4b7d-b6f4-900117b91e98",
+      "url": "https://www.kununu.com/de/sparkasse-vest-recklinghausen/bewertung/84bda134-6a09-4b7d-b6f4-900117b91e98",
+      "title": "Starre Strukturen und nur eingeschränkte Innovationsbereitschaft",
+      "content": "Gehalt, Sozialleitungen\n\nGeringe Innovationsbereitschaft, als \"Externer\" ist ein Einstieg in bestehende alte Strukturen nicht einfach\n\nStrenge \"Siez\"-Kultur, Vorstand der durch Äußerungen ein Zugehörigkeitsgefühl erschwert.\n\nGenerell gut, Preiserhöhungen bei einzelnen Produkten nagen am Image\n\n32 Urlaubstage und zukaufbare Urlaubstage.\n\nK.A.\n\nBezahlung gem. TVÖD-S mit 32 Urlaubstagen und 14 Gehältern.\n\nTeil der S-Finanzgruppe die sich der Nachhaligkeit verschrieben hat.\n\nDifferenzierung zwischen eigenem Team und Fachabteilungen. Eigenes Team vertrauensvolle, kollegiale Zusammenarbeit. Die Zusammenarbeit mit manchen Fachabteilugen ist geprägt von Eitelkeiten und keinem WIR-Gefühl.\n\nDer Großteil der Belegschaft ist seit der Ausbilung im Haus. Hohe Altersstruktur u.a. bei Führungskräften.\n\nBewertung bezieht sich nur auf meine Führungskraft: Kann sich hervorragend nach außen verkaufen, teamintern schwach! Keine Kritikfähigkeit, null Veränderungsbereitschaft (\"wird seit Jahren so gemacht\"), kann eigene Fehler nicht eingestehen.\n\nBürokapazitäten liegen unter der Personenzahl der jeweiligen Teams. Dafür steht Mobiles Arbeiten zur Verfügung.\n\nRegelmäßige Meetings mit für das Team relevanten Informationen\n\nNicht zu bewerten\n\nDurch geringe Personaldecke hohe Belastung. Themen werden durch externe Regularien (BGH, EU..) vorgegeben. Strukturelle Aufgabenverteilung (z.B. dezentralen Rechnungswesen) fragwürdig.",
+      "rating": 3.1,
+      "sections": {
+        "positive": "Gehalt, Sozialleitungen",
+        "negative": "Geringe Innovationsbereitschaft, als \"Externer\" ist ein Einstieg in bestehende alte Strukturen nicht einfach",
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Strenge \"Siez\"-Kultur, Vorstand der durch Äußerungen ein Zugehörigkeitsgefühl erschwert.",
+        "image": "Generell gut, Preiserhöhungen bei einzelnen Produkten nagen am Image",
+        "workLife": "32 Urlaubstage und zukaufbare Urlaubstage.",
+        "career": "K.A.",
+        "salary": "Bezahlung gem. TVÖD-S mit 32 Urlaubstagen und 14 Gehältern.",
+        "environment": "Teil der S-Finanzgruppe die sich der Nachhaligkeit verschrieben hat.",
+        "teamwork": "Differenzierung zwischen eigenem Team und Fachabteilungen. Eigenes Team vertrauensvolle, kollegiale Zusammenarbeit. Die Zusammenarbeit mit manchen Fachabteilugen ist geprägt von Eitelkeiten und keinem WIR-Gefühl.",
+        "oldColleagues": "Der Großteil der Belegschaft ist seit der Ausbilung im Haus. Hohe Altersstruktur u.a. bei Führungskräften.",
+        "leadership": "Bewertung bezieht sich nur auf meine Führungskraft: Kann sich hervorragend nach außen verkaufen, teamintern schwach! Keine Kritikfähigkeit, null Veränderungsbereitschaft (\"wird seit Jahren so gemacht\"), kann eigene Fehler nicht eingestehen.",
+        "workConditions": "Bürokapazitäten liegen unter der Personenzahl der jeweiligen Teams. Dafür steht Mobiles Arbeiten zur Verfügung.",
+        "communication": "Regelmäßige Meetings mit für das Team relevanten Informationen",
+        "equality": "Nicht zu bewerten",
+        "tasks": "Durch geringe Personaldecke hohe Belastung. Themen werden durch externe Regularien (BGH, EU..) vorgegeben. Strukturelle Aufgabenverteilung (z.B. dezentralen Rechnungswesen) fragwürdig."
+      },
+      "factor_scores": {
+        "atmosphere": 2.0,
+        "workLife": 4.0,
+        "communication": 4.0,
+        "workConditions": 4.0,
+        "leadership": 1.0,
+        "teamwork": 3.0,
+        "oldColleagues": 4.0,
+        "equality": 3.0,
+        "career": 2.0,
+        "salary": 4.0,
+        "image": 3.0,
+        "environment": 3.0,
+        "tasks": 3.0
+      },
+      "published_at": "2025-02-04T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "0f4ef5c1-cb3e-4cb7-91a7-eb2fe19d8c57",
+      "url": "https://www.kununu.com/de/sparkasse-vest-recklinghausen/bewertung/0f4ef5c1-cb3e-4cb7-91a7-eb2fe19d8c57",
+      "title": "Sparkasse Vest Recklinghausen",
+      "content": "",
+      "rating": 2.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-07-30T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "c808705a-ed5c-48ca-b98b-9c168814084c",
+      "url": "https://www.kununu.com/de/sparkasse-vest-recklinghausen/bewertung/c808705a-ed5c-48ca-b98b-9c168814084c",
+      "title": "Sozialer Arbeitgeber",
+      "content": "",
+      "rating": 4.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-03-12T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "77c34de3-f1c6-46ba-aa95-cacac8a1ea66",
+      "url": "https://www.kununu.com/de/sparkasse-vest-recklinghausen/bewertung/77c34de3-f1c6-46ba-aa95-cacac8a1ea66",
+      "title": "Guter Arbeitgeber",
+      "content": "",
+      "rating": 4.3,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-10-09T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "4327a50f-6780-43b0-88db-341cde6c2ec6",
+      "url": "https://www.kununu.com/de/sparkasse-vest-recklinghausen/bewertung/4327a50f-6780-43b0-88db-341cde6c2ec6",
+      "title": "guter Arbeitgeber, der Verantwortung für die Region und seine Menschen übernimmt.",
+      "content": "",
+      "rating": 4.6,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-09-09T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "86ebef00-5433-47b6-abca-f8009593c9f7",
+      "url": "https://www.kununu.com/de/sparkasse-vest-recklinghausen/bewertung/86ebef00-5433-47b6-abca-f8009593c9f7",
+      "title": "Top Arbeitgeber!",
+      "content": "",
+      "rating": 4.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-08-19T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "91aef5f7-4024-410b-95df-4db31609d806",
+      "url": "https://www.kununu.com/de/sparkasse-vest-recklinghausen/bewertung/91aef5f7-4024-410b-95df-4db31609d806",
+      "title": "Guter Arbeitgeber mit einigen Extras und Familienfreundlichkeit",
+      "content": "",
+      "rating": 4.4,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-06-26T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    }
+  ],
+  "review_limit": 15,
+  "review_period": {
+    "since": "2024-11-25T00:00:00+00:00",
+    "until": "2026-11-25T17:17:05.186465+00:00",
+    "date_field": "published_at",
+    "missing_dates": "excluded"
+  },
+  "factor_scores_aggregated": {
+    "atmosphere": {
+      "mean": 4.0,
+      "count": 4
+    },
+    "workLife": {
+      "mean": 3.5,
+      "count": 4
+    },
+    "communication": {
+      "mean": 3.75,
+      "count": 4
+    },
+    "workConditions": {
+      "mean": 3.75,
+      "count": 4
+    },
+    "leadership": {
+      "mean": 3.25,
+      "count": 4
+    },
+    "teamwork": {
+      "mean": 4.25,
+      "count": 4
+    },
+    "oldColleagues": {
+      "mean": 4.5,
+      "count": 4
+    },
+    "equality": {
+      "mean": 4.25,
+      "count": 4
+    },
+    "career": {
+      "mean": 3.75,
+      "count": 4
+    },
+    "salary": {
+      "mean": 4.0,
+      "count": 4
+    },
+    "image": {
+      "mean": 3.5,
+      "count": 4
+    },
+    "environment": {
+      "mean": 3.5,
+      "count": 4
+    },
+    "tasks": {
+      "mean": 4.5,
+      "count": 4
+    }
+  },
+  "coverage": "bounded_employee_review_sample_last_2_years_not_all_reviews",
+  "diagnostics": {
+    "pages": [
+      {
+        "page": "reviews",
+        "page_number": 1,
+        "load_more_clicks": 0,
+        "requested_url": "https://www.kununu.com/de/sparkasse-vest-recklinghausen/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Sparkasse-Vest-7b1d9cca\\browser\\reviews.html",
+        "browser_step": 109,
+        "final_url": "https://www.kununu.com/de/sparkasse-vest-recklinghausen/kommentare",
+        "observed_at": "2026-11-25T17:17:06.488885+00:00",
+        "http_status": 200,
+        "factor_cards_expanded": 3,
+        "reviews_collected": 4
+      },
+      {
+        "page": "reviews",
+        "page_number": 2,
+        "load_more_clicks": 1,
+        "requested_url": "https://www.kununu.com/de/sparkasse-vest-recklinghausen/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Sparkasse-Vest-7b1d9cca\\browser\\reviews-2.html",
+        "browser_step": 110,
+        "final_url": "https://www.kununu.com/de/sparkasse-vest-recklinghausen/kommentare",
+        "observed_at": "2026-11-25T17:17:07.944479+00:00",
+        "actions_complete": true,
+        "factor_cards_expanded": 1,
+        "reviews_collected": 4
+      },
+      {
+        "page": "reviews",
+        "page_number": 3,
+        "load_more_clicks": 2,
+        "requested_url": "https://www.kununu.com/de/sparkasse-vest-recklinghausen/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Sparkasse-Vest-7b1d9cca\\browser\\reviews-3.html",
+        "browser_step": 111,
+        "final_url": "https://www.kununu.com/de/sparkasse-vest-recklinghausen/kommentare",
+        "observed_at": "2026-11-25T17:17:09.341226+00:00",
+        "actions_complete": true,
+        "reviews_collected": 4
+      },
+      {
+        "page": "reviews",
+        "page_number": 4,
+        "load_more_clicks": 3,
+        "requested_url": "https://www.kununu.com/de/sparkasse-vest-recklinghausen/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Sparkasse-Vest-7b1d9cca\\browser\\reviews-4.html",
+        "browser_step": 112,
+        "final_url": "https://www.kununu.com/de/sparkasse-vest-recklinghausen/kommentare",
+        "observed_at": "2026-11-25T17:17:10.813248+00:00",
+        "actions_complete": true,
+        "reviews_collected": 4
+      },
+      {
+        "page": "reviews",
+        "page_number": 5,
+        "load_more_clicks": 4,
+        "requested_url": "https://www.kununu.com/de/sparkasse-vest-recklinghausen/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Sparkasse-Vest-7b1d9cca\\browser\\reviews-5.html",
+        "browser_step": 113,
+        "final_url": "https://www.kununu.com/de/sparkasse-vest-recklinghausen/kommentare",
+        "observed_at": "2026-11-25T17:17:12.762351+00:00",
+        "actions_complete": true,
+        "reviews_collected": 10,
+        "status": "error",
+        "reason": "review_page_limit_reached",
+        "error": "Maximal fünf Bewertungsabrufe je Firma erreicht; Stichprobe unvollständig."
+      }
+    ]
+  },
+  "source_url": "https://www.kununu.com/de/sparkasse-vest-recklinghausen",
+  "profile_source": "https://www.kununu.com/de/sparkasse-vest-recklinghausen/kommentare",
+  "review_stop_reason": "review_page_limit_reached",
+  "reason": "review_page_limit_reached",
+  "error": "reviews: Maximal fünf Bewertungsabrufe je Firma erreicht; Stichprobe unvollständig.",
+  "factor_score_coverage": {
+    "reviews_with_scores": 4,
+    "reviews_without_scores": 6,
+    "reviews_with_all_known_scores": 4,
+    "status": "partial"
+  },
+  "request_limits": {
+    "max_browser_steps": 295,
+    "browser_steps": 113,
+    "zyte_requests": 0
+  }
+}

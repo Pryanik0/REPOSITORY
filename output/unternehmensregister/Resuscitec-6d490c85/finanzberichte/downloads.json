@@ -1,0 +1,38 @@
+[
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=i5URtLIufXWKz7moFIMfg57v3IKGnH-ncX_ke9wS6Intt275UjI-WgiDOEz45Gq85Z74dKxbhb0cy-680gix32Gis1Ah9WTRmySZKYJYuEsX4haoorzEPU8fd7mlIhjn5dkKKge-lPQ9SeUxABR3VJmQwBFOt1wf3ZLu4_1T8EEkLkC_P3OsjSg_q1H8UidNk9mCOLg5UnLgJpcdz9zaEOEcr6_0lvMp-ig38IRyGhAuIfT9",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Resuscitec-6d490c85\\finanzberichte\\publication-1\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Resuscitec-6d490c85\\finanzberichte\\publication-1\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Resuscitec-6d490c85\\finanzberichte\\publication-1\\publication.txt",
+    "index": 1,
+    "category": "finanzberichte",
+    "company": "Resuscitec GmbH, Freiburg im Breisgau",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+    "documents_path": "output\\unternehmensregister\\Resuscitec-6d490c85\\finanzberichte\\publication-1\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=4uneDksMzoXoIc2mM2ncGpmtqB3nuq_cGdCY5t-_6LaQLR3fGVZx1xxS5AHXrPhEv4AKirkxLuFRV6UkErOuxeUhs-1MkV1S8S2lUAdULHpHYe6uA5FKdquMHVUrQj24puEayr7omIVJp2AfCIC_CMiGOJEL3JJptrfXUMiUPdWSpZ85E4VQc6kcW7wVCLRQgcsXyiEEr9__vcRS7WJZahjrveXbIesF-qjvq5hiVHsMF1VQ",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Resuscitec-6d490c85\\finanzberichte\\publication-4\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Resuscitec-6d490c85\\finanzberichte\\publication-4\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Resuscitec-6d490c85\\finanzberichte\\publication-4\\publication.txt",
+    "index": 4,
+    "category": "finanzberichte",
+    "company": "Resuscitec GmbH, Freiburg im Breisgau",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+    "documents_path": "output\\unternehmensregister\\Resuscitec-6d490c85\\finanzberichte\\publication-4\\documents.json"
+  }
+]

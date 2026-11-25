@@ -1,0 +1,9 @@
+{
+  "url": "https://www.djv.de/news/pressemitteilungen?tx_intcheckout_cart%5Baction%5D=showCartSmall&tx_intcheckout_cart%5Bcontroller%5D=Checkout&type=1602947246",
+  "final_url": "https://www.djv.de/news/pressemitteilungen?tx_intcheckout_cart%5Baction%5D=showCartSmall&tx_intcheckout_cart%5Bcontroller%5D=Checkout&type=1602947246",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "fetched_at": "2026-11-25T15:51:16.453004+00:00",
+  "text": " <div class=\"header--side-cart-popup-inner\"> <div class=\"header--side-cart-popup-top\"> <div class=\"header--side-cart-popup-headline\"> Ihr Warenkorb </div> <div class=\"header--side-cart-popup-close\" data-trigger-popup-group-close=\"cart\" onclick=\"closePopup(this)\"></div> </div> <div class=\"popup-divider\"></div> <div class=\"header--side-cart-popup-bottom\" data-container=\"small-cart\"> <div class=\"header--side-cart-popup-form-inner\"> <div class=\"checkout-step--data-message\"> <span class=\"input-error-text\"></span> </div> </div> <h3 class=\"header--side-cart-popup-empty-message\"> </h3> </div> </div>"
+}

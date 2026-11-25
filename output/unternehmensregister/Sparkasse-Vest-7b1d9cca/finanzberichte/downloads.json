@@ -1,0 +1,56 @@
+[
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=uIpFYsautU61pgC8BcqZzCx9DdDsjXYV2YgFYUD7hTaLAuYKvY-_fd1oF5MPUA8Ukc6cn1N8n9bnefhLq2qlSAJJ88R2CpCNZB_AtKiS0WQNP5f0cNuPlZi_8Mfbd0zLVPP7OqRk2-gfRuN3zSxKG8kavSgTRfFN4MElHN-HiPC8sSpcrAq-gStDNIvgmHISJdh0c9aHtQUJ38BNkjulNSgJhNbDGmq00yeoEv1bdfa_dU4",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Sparkasse-Vest-7b1d9cca\\finanzberichte\\publication-1\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Sparkasse-Vest-7b1d9cca\\finanzberichte\\publication-1\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Sparkasse-Vest-7b1d9cca\\finanzberichte\\publication-1\\publication.txt",
+    "index": 1,
+    "category": "finanzberichte",
+    "company": "Sparkasse Vest Recklinghausen, Recklinghausen",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+    "documents_path": "output\\unternehmensregister\\Sparkasse-Vest-7b1d9cca\\finanzberichte\\publication-1\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=Tjko2qCrXnVpG1KWQfp9oC7ZA5Kp5CB-nLtUc87fL1wQWCc7iL_66silReCR84uufdO7iatUsjeKqqCJRdNGuWtoSR4CJUdNB60D6sZUlbcBW-TuYcuJ-LuXw6lliSnfVZthMm0tdI8SJVFMjPxjcaQiu2CUNDouc8WOMzdXAqlyi3LhoRTSGgVkD47F6zIsxDKDX1Scu3uMB330JzIPi3d9-t4kOkNSbEzHwaAJEfyzhys",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Sparkasse-Vest-7b1d9cca\\finanzberichte\\publication-2\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Sparkasse-Vest-7b1d9cca\\finanzberichte\\publication-2\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Sparkasse-Vest-7b1d9cca\\finanzberichte\\publication-2\\publication.txt",
+    "index": 2,
+    "category": "finanzberichte",
+    "company": "S-Finanzdienste der Sparkasse Vest Recklinghausen GmbH, Recklinghausen",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+    "documents_path": "output\\unternehmensregister\\Sparkasse-Vest-7b1d9cca\\finanzberichte\\publication-2\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=1JurlL5VhUC8vvZ0nsd2UxL-NTc4v-bbXYcJVhzQ0h1-YqS8hj3rdvAV8x8F1hcqn6m9vO_4fV_jxqPP1TexgIY7U6Ty9MdHTEOlIXYHC5BA_aDZzE2skXwjXmKdXeirfFyULDlGqSwEymuMBNVAsq0ptc2RcAzc7Ivrje6x-Y-56E053MSCIgcIGtwtBLdTfeR_3Cy7xxa_QmGcK7Gi-5LB9x-Uoef2H0ZOeGjF1yRbFkI",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Sparkasse-Vest-7b1d9cca\\finanzberichte\\publication-3\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Sparkasse-Vest-7b1d9cca\\finanzberichte\\publication-3\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Sparkasse-Vest-7b1d9cca\\finanzberichte\\publication-3\\publication.txt",
+    "index": 3,
+    "category": "finanzberichte",
+    "company": "Sparkasse Vest Recklinghausen, Recklinghausen",
+    "title": "Gesonderter nichtfinanzieller Bericht außerhalb des Lageberichts zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+    "documents_path": "output\\unternehmensregister\\Sparkasse-Vest-7b1d9cca\\finanzberichte\\publication-3\\documents.json"
+  }
+]

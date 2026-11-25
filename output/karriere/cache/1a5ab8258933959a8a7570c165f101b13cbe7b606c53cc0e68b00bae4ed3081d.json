@@ -1,0 +1,9 @@
+{
+  "url": "https://dr-pfleger.de/robots.txt",
+  "final_url": "https://dr-pfleger.de/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "fetched_at": "2026-11-25T16:08:26.744418+00:00",
+  "text": "User-agent: *\nDisallow: /wp-admin/\nAllow: /wp-admin/admin-ajax.php\n\nSitemap: https://dr-pfleger.de/wp-sitemap.xml\n\nSitemap: https://dr-pfleger.de/sitemap.xml\n"
+}

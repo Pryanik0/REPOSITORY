@@ -1,0 +1,9 @@
+{
+  "url": "https://www.link-ortho.com/robots.txt",
+  "final_url": "https://www.link-ortho.com/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "fetched_at": "2026-11-25T16:07:21.145180+00:00",
+  "text": "# We do not distinguish between the browsers.\nUser-agent: *\n\n# Only allow URLs generated with frontend routing\nDisallow: /*?id=*\nDisallow: /*&id=*\n\n# L=0 is the default language\nDisallow: /*?L=0*\nDisallow: /*&L=0*\n\n# Should always be protected, but you know...\nDisallow: /*/Private/*\nDisallow: /*/Configuration/*\n\n# Disallow all files in /typo3temp/var/\nDisallow: /typo3temp/var/*\n\n# Disallow all files in /typo3/\nDisallow: /typo3/\n\n# Disallow all kind of sql files\nDisallow: *.sql\nDisallow: *.sql.gz\n\n# Sitemap files\nSitemap: https://www.link-ortho.com/sitemap.xml\n"
+}

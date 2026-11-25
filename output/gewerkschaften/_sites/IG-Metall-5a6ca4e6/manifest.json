@@ -1,0 +1,306 @@
+{
+  "status": "partial",
+  "provider": "gewerkschaften",
+  "date_from": "2026-05-25",
+  "pdf_download_policy": "company_in_link_metadata_or_filename",
+  "date_to": "2026-11-25",
+  "articles": [],
+  "visited": [
+    "https://www.igmetall.de/igmetall.rss",
+    "https://www.igmetall.de/presse.rss",
+    "https://www.igmetall.de/presse/pressemitteilungen",
+    "https://www.igmetall.de/tarif/tarifrunden",
+    "https://www.igmetall.de/politik-und-gesellschaft/gleichstellung-und-integration/tag-zur-beseitigung-von-gewalt-gegen-frauen",
+    "https://www.igmetall.de/politik-und-gesellschaft/winterhilfe-fuer-die-ukraine",
+    "https://www.igmetall.de/tarif/tarifrunden/tarifrunde-volkswagen-2026",
+    "https://www.igmetall.de/politik-und-gesellschaft/wirtschaftspolitik/industriepolitik/demonstration-enough-is-enough",
+    "https://www.igmetall.de/tarif/tarifrunden/metall-und-elektro/aktionen-zur-metall-tarifrunde",
+    "https://www.igmetall.de/tarif/tarifrunden/handwerk/tarifergebnis-elektrohandwerk-hessen-rheinland-pfalz-2026",
+    "https://www.igmetall.de/tarif/tarifrunden/handwerk/tarifergebnis-2026-metallhandwerk-berlin-brandenburg",
+    "https://www.igmetall.de/tarif/tarifrunden/metall-und-elektro/unsere-antworten-auf-die-arbeitgeber-narrative",
+    "https://www.igmetall.de/tarif/tarifrunden/metall-und-elektro/warum-24-stunden-streiks",
+    "https://www.igmetall.de/politik-und-gesellschaft/wirtschaftspolitik/nationaler-stahlgipfel-in-salzgitter",
+    "https://www.igmetall.de/politik-und-gesellschaft/gleichstellung-und-integration/aktiv-gegen-rechts/werdet-kreativ-und-setzt-ein-zeichen",
+    "https://www.igmetall.de/tarif/besser-mit-tarif/mit-tarif-fallen-die-geschenke-ueppiger-aus",
+    "https://www.igmetall.de/im-betrieb/gesundheit-und-arbeitsschutz/dgb-index-gute-arbeit-flexibilitaet",
+    "https://www.igmetall.de/im-betrieb/drohnen-ueberwachung-und-versetzung-bei-hark-recycling",
+    "https://www.igmetall.de/tarif/tarifrunden/eisen-und-stahl/stahl-tarifrunde-2026",
+    "https://www.igmetall.de/service/ratgeber/alle-antworten-zum-aufhebungsvertrag",
+    "https://www.igmetall.de/politik-und-gesellschaft/sozialpolitik/unfall-krankheit-pflege/pflege-bezahlbar-machen-aber-fair",
+    "https://www.igmetall.de/im-betrieb/gesundheit-und-arbeitsschutz/dgb-index-gute-arbeit",
+    "https://www.igmetall.de/jugend/auszubildende/fragen-und-antworten/streikrecht-fuer-azubis",
+    "https://www.igmetall.de/im-betrieb/podcast-maloche-und-malibu-s1",
+    "https://www.igmetall.de/presse/pressemitteilungen/2026/ig-metall-spitze-erwartet-von-arbeitgebern-mittwoch-deutliche-bewegung",
+    "https://www.igmetall.de/presse/pressemitteilungen/2026/metallelektro-ig-metall-startet-warnstreik-druckwelle",
+    "https://www.igmetall.de/presse/pressemitteilungen/2026/ig-metall-vorstand-beschliesst-24-stunden-warnstreiks-in-der-metall-und-elektroindustrie",
+    "https://www.igmetall.de/presse/pressemitteilungen/2026/warnstreik-welle-ueber-400000-beschaeftigte-fordern-von-arbeitgebern-bewegung-und-verbindlichkeit",
+    "https://www.igmetall.de/presse/pressemitteilungen/2026/krank-zur-arbeit-ig-metall-fordert-konsequenten-gesundheitsschutz",
+    "https://www.igmetall.de/presse/pressemitteilungen/2026/reaktion-auf-minus-angebot-ig-metall-startet-warnstreiks",
+    "https://www.igmetall.de/presse/pressemitteilungen/2026/zum-auftritt-von-audi-chef-doellner-in-den-usa",
+    "https://www.igmetall.de/presse/pressemitteilungen/2026/ig-metall-zu-deutsch-franzoesischem-kompromiss-zum-eu-autopaket",
+    "https://www.igmetall.de/presse/pressemitteilungen/2026/betriebsraete-fordern-zukunftsdialog-unter-fuehrung-des-wirtschaftsministeriums",
+    "https://www.igmetall.de/presse/pressemitteilungen/2026/mehr-geld-und-zukunft-in-der-me-industrie-ig-metall-fordert-arbeitgeber-zum-handeln-auf",
+    "https://www.igmetall.de/presse/pressemitteilungen/2026/pflege-echte-strukturreform-statt-stueckwerk",
+    "https://www.igmetall.de/presse/pressemitteilungen/2026/ig-metall-beschliesst-forderungspaket-5-prozent-mehr-geld-sichere-jobs-und-gewinnbeteiligung",
+    "https://www.igmetall.de/presse/pressemitteilungen/2026/rund-175000-beschaeftigte-demonstrieren-fuer-zukunft-statt-kahlschlag-in-der-autoindustrie",
+    "https://www.igmetall.de/presse/pressemitteilungen/2026/lage-der-industrie-hellt-sich-auf-beschaeftigte-im-unklaren",
+    "https://www.igmetall.de/presse/pressemitteilungen/2026/studie-zur-bahnindustrie-innovation-foerdern-gute-arbeit-staerken",
+    "https://www.igmetall.de/presse/pressemitteilungen/2026/tarifrunde-metall-und-elektroindustrie-beschaeftigte-erwarten-geld-und-sicherheit",
+    "https://www.igmetall.de/presse/pressemitteilungen/2026/vw-aufsichtsratssitzung-eskalation-verhindert--vorstand-muss-jetzt-seine-hausaufgaben-machen",
+    "https://www.igmetall.de/presse/pressemitteilungen/2026/keinen-angriff-auf-betriebsraete-und-ihre-rechte",
+    "https://www.igmetall.de/presse/pressemitteilungen/2026/ausbluten-lassen-der-auto-branche-ist-fatale-fehlentscheidung",
+    "https://www.igmetall.de/presse/pressemitteilungen/2026/bundesweiter-automobil-aktionstag-der-ig-metall",
+    "https://www.igmetall.de/tarif/tarifrunden/holz-und-kunststoff",
+    "https://www.igmetall.de/tarif/tarifrunden/leiharbeit",
+    "https://www.igmetall.de/tarif/tarifrunden/metall-und-elektro/tarifrunde-metall-und-elektro-2026",
+    "https://www.igmetall.de/tarif/tarifrunden/metall-und-elektro",
+    "https://www.igmetall.de/tarif/tariftabellen",
+    "http://www.igmetall.de/presse-bezirke"
+  ],
+  "rejected": [
+    {
+      "url": "https://www.igmetall.de/presse/pressemitteilungen",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.igmetall.de/tarif/tarifrunden",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.igmetall.de/politik-und-gesellschaft/gleichstellung-und-integration/tag-zur-beseitigung-von-gewalt-gegen-frauen",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.igmetall.de/politik-und-gesellschaft/winterhilfe-fuer-die-ukraine",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.igmetall.de/tarif/tarifrunden/tarifrunde-volkswagen-2026",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.igmetall.de/politik-und-gesellschaft/wirtschaftspolitik/industriepolitik/demonstration-enough-is-enough",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.igmetall.de/tarif/tarifrunden/metall-und-elektro/aktionen-zur-metall-tarifrunde",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.igmetall.de/tarif/tarifrunden/handwerk/tarifergebnis-elektrohandwerk-hessen-rheinland-pfalz-2026",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.igmetall.de/tarif/tarifrunden/handwerk/tarifergebnis-2026-metallhandwerk-berlin-brandenburg",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.igmetall.de/tarif/tarifrunden/metall-und-elektro/unsere-antworten-auf-die-arbeitgeber-narrative",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.igmetall.de/tarif/tarifrunden/metall-und-elektro/warum-24-stunden-streiks",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.igmetall.de/politik-und-gesellschaft/wirtschaftspolitik/nationaler-stahlgipfel-in-salzgitter",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.igmetall.de/politik-und-gesellschaft/gleichstellung-und-integration/aktiv-gegen-rechts/werdet-kreativ-und-setzt-ein-zeichen",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.igmetall.de/tarif/besser-mit-tarif/mit-tarif-fallen-die-geschenke-ueppiger-aus",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.igmetall.de/im-betrieb/gesundheit-und-arbeitsschutz/dgb-index-gute-arbeit-flexibilitaet",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.igmetall.de/im-betrieb/drohnen-ueberwachung-und-versetzung-bei-hark-recycling",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.igmetall.de/tarif/tarifrunden/eisen-und-stahl/stahl-tarifrunde-2026",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.igmetall.de/service/ratgeber/alle-antworten-zum-aufhebungsvertrag",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.igmetall.de/politik-und-gesellschaft/sozialpolitik/unfall-krankheit-pflege/pflege-bezahlbar-machen-aber-fair",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.igmetall.de/im-betrieb/gesundheit-und-arbeitsschutz/dgb-index-gute-arbeit",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.igmetall.de/jugend/auszubildende/fragen-und-antworten/streikrecht-fuer-azubis",
+      "reason": "outside_publication_window"
+    },
+    {
+      "url": "https://www.igmetall.de/im-betrieb/podcast-maloche-und-malibu-s1",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.igmetall.de/presse/pressemitteilungen/2026/ig-metall-spitze-erwartet-von-arbeitgebern-mittwoch-deutliche-bewegung",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.igmetall.de/presse/pressemitteilungen/2026/metallelektro-ig-metall-startet-warnstreik-druckwelle",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.igmetall.de/presse/pressemitteilungen/2026/ig-metall-vorstand-beschliesst-24-stunden-warnstreiks-in-der-metall-und-elektroindustrie",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.igmetall.de/presse/pressemitteilungen/2026/warnstreik-welle-ueber-400000-beschaeftigte-fordern-von-arbeitgebern-bewegung-und-verbindlichkeit",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.igmetall.de/presse/pressemitteilungen/2026/krank-zur-arbeit-ig-metall-fordert-konsequenten-gesundheitsschutz",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.igmetall.de/presse/pressemitteilungen/2026/reaktion-auf-minus-angebot-ig-metall-startet-warnstreiks",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.igmetall.de/presse/pressemitteilungen/2026/zum-auftritt-von-audi-chef-doellner-in-den-usa",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.igmetall.de/presse/pressemitteilungen/2026/ig-metall-zu-deutsch-franzoesischem-kompromiss-zum-eu-autopaket",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.igmetall.de/presse/pressemitteilungen/2026/betriebsraete-fordern-zukunftsdialog-unter-fuehrung-des-wirtschaftsministeriums",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.igmetall.de/presse/pressemitteilungen/2026/mehr-geld-und-zukunft-in-der-me-industrie-ig-metall-fordert-arbeitgeber-zum-handeln-auf",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.igmetall.de/presse/pressemitteilungen/2026/pflege-echte-strukturreform-statt-stueckwerk",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.igmetall.de/presse/pressemitteilungen/2026/ig-metall-beschliesst-forderungspaket-5-prozent-mehr-geld-sichere-jobs-und-gewinnbeteiligung",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.igmetall.de/presse/pressemitteilungen/2026/rund-175000-beschaeftigte-demonstrieren-fuer-zukunft-statt-kahlschlag-in-der-autoindustrie",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.igmetall.de/presse/pressemitteilungen/2026/lage-der-industrie-hellt-sich-auf-beschaeftigte-im-unklaren",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.igmetall.de/presse/pressemitteilungen/2026/studie-zur-bahnindustrie-innovation-foerdern-gute-arbeit-staerken",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.igmetall.de/presse/pressemitteilungen/2026/tarifrunde-metall-und-elektroindustrie-beschaeftigte-erwarten-geld-und-sicherheit",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.igmetall.de/presse/pressemitteilungen/2026/vw-aufsichtsratssitzung-eskalation-verhindert--vorstand-muss-jetzt-seine-hausaufgaben-machen",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.igmetall.de/presse/pressemitteilungen/2026/keinen-angriff-auf-betriebsraete-und-ihre-rechte",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.igmetall.de/presse/pressemitteilungen/2026/ausbluten-lassen-der-auto-branche-ist-fatale-fehlentscheidung",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.igmetall.de/presse/pressemitteilungen/2026/bundesweiter-automobil-aktionstag-der-ig-metall",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.igmetall.de/tarif/tarifrunden/holz-und-kunststoff",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.igmetall.de/tarif/tarifrunden/leiharbeit",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.igmetall.de/tarif/tarifrunden/metall-und-elektro/tarifrunde-metall-und-elektro-2026",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.igmetall.de/tarif/tarifrunden/metall-und-elektro",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.igmetall.de/tarif/tariftabellen",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "http://www.igmetall.de/presse-bezirke",
+      "reason": "excluded_page_type"
+    }
+  ],
+  "errors": [],
+  "truncated": true,
+  "searches": [],
+  "company_keys": [
+    "CEEZER Software",
+    "Ingentis Softwareentwicklung",
+    "Eurofiber Netz",
+    "MSG Systems",
+    "agido",
+    "Allgeier IT Services",
+    "MAC IT-Solutions",
+    "otris software AG",
+    "Rosenberger",
+    "Scheidt-Bachmann"
+  ],
+  "search_mode": "feeds_and_links",
+  "articles_examined": 39,
+  "page_coverage": {
+    "search_pages": 0,
+    "content_pages": 50,
+    "search_page_limit": 20,
+    "content_page_limit": 50,
+    "queued_remaining": 14,
+    "queue_limit_reached": false
+  },
+  "documents": [],
+  "requests_attempted": 55,
+  "gewerkschaft": {
+    "name": "IG Metall",
+    "branches": [
+      "Automobilindustrie",
+      "Elektroindustrie",
+      "Handwerk",
+      "IT & Telekommunikation",
+      "Maschinenbau",
+      "Metallindustrie"
+    ],
+    "urls": [
+      "https://www.igmetall.de"
+    ],
+    "news_urls": [
+      "https://www.igmetall.de/igmetall.rss",
+      "https://www.igmetall.de/presse.rss",
+      "https://www.igmetall.de/presse/pressemitteilungen",
+      "https://www.igmetall.de/tarif/tarifrunden"
+    ],
+    "url_prefixes": [],
+    "query_values": {},
+    "source_note": "Offizielle RSS-Feeds und öffentliche Rubriken; die durch robots.txt gesperrte interne Suche wird nicht verwendet.",
+    "source_name": "",
+    "site_search": false
+  }
+}

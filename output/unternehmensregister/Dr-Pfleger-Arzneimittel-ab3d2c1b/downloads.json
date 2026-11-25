@@ -1,0 +1,56 @@
+[
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=FvZhUPyAWAqrj5f4Kcb988tz1aTJZPYH7lQn--wINPwtRDWcWB9SwNbPZ6cc35oU68ZHPkJVBagwbBjMqD3hQLDUuczysbAnW-wcuzZvXvLPFqM7qyYgwBb1sQLIHJbVapOAz8PWbUDt33knp1qirHfxNH_hGspeD6b8UMbfglm2-eSqcnd1yCexLNdIBfq7v-QFN7pEtX_GINj3jrkTMjHcedmyXymfgatWRthM5UFoKBis",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Dr-Pfleger-Arzneimittel-ab3d2c1b\\finanzberichte\\publication-1\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Dr-Pfleger-Arzneimittel-ab3d2c1b\\finanzberichte\\publication-1\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Dr-Pfleger-Arzneimittel-ab3d2c1b\\finanzberichte\\publication-1\\publication.txt",
+    "index": 1,
+    "category": "finanzberichte",
+    "company": "Dr. Pfleger Arzneimittel GmbH, Bamberg",
+    "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+    "documents_path": "output\\unternehmensregister\\Dr-Pfleger-Arzneimittel-ab3d2c1b\\finanzberichte\\publication-1\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=b7T1KiBKNuKKb3EqDvMJqslscaQ8PUbJOYtcJlGlJ5feRm9yE7U8tDe679vn3qbLBxzikNOlmlWW2cFIiRujldlaZ2kVaMViXwqNorSQ8SnKqqltwAQJpS80f0a89K_z2H9IH0x1tw2TZKjc1_39fIMQRaiz7FYoP1DY7UH8xnL9EunIiCDNwH6EzsnNiVEpLzyRy-Xwp6pjFGJMvqoYZmfHQGAnDDVPfO8aUIxWzso86v1H",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Dr-Pfleger-Arzneimittel-ab3d2c1b\\finanzberichte\\publication-2\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Dr-Pfleger-Arzneimittel-ab3d2c1b\\finanzberichte\\publication-2\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Dr-Pfleger-Arzneimittel-ab3d2c1b\\finanzberichte\\publication-2\\publication.txt",
+    "index": 2,
+    "category": "finanzberichte",
+    "company": "Dr. Pfleger Arzneimittel GmbH, Bamberg",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+    "documents_path": "output\\unternehmensregister\\Dr-Pfleger-Arzneimittel-ab3d2c1b\\finanzberichte\\publication-2\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=ExT2Apw58GhnOS7OAVdRSltk0jMs6a5luC6MQzyEliZh6edTHXILGcEjEAVpCVnB8ZvqD-cUijLroyj8EwLWKVXq5Bsb1tHFpVgnOcNNwIwbX-AQpq47QuEo5rFDoybTMoEg8vWA7wuUn8TD5EmMSnq8P6w0BjlB1ZHlfrh1jwPMINRdmf_-Wp7MO2aA7YyP_-JD2NMHU46mWMPxE9eykcnsRnBl9u096XrmevpqhuISDe5M",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Dr-Pfleger-Arzneimittel-ab3d2c1b\\finanzberichte\\publication-3\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Dr-Pfleger-Arzneimittel-ab3d2c1b\\finanzberichte\\publication-3\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Dr-Pfleger-Arzneimittel-ab3d2c1b\\finanzberichte\\publication-3\\publication.txt",
+    "index": 3,
+    "category": "finanzberichte",
+    "company": "Dr. Pfleger Arzneimittel GmbH, Bamberg",
+    "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+    "documents_path": "output\\unternehmensregister\\Dr-Pfleger-Arzneimittel-ab3d2c1b\\finanzberichte\\publication-3\\documents.json"
+  }
+]

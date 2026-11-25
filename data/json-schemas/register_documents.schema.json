@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Datenvertrag v0.4: unternehmensregister/<firma>/<kategorie>/publication-N/documents.json",
+  "description": "Text und Tabellen der Dokumente einer Veröffentlichung. Die Datei ist eine Liste, meist mit einem Dokument. Kategorie und Nummer der Veröffentlichung stehen nicht in der Datei, sondern im Pfad (finanzberichte/publication-3 ist die Veröffentlichung 3 der Kategorie finanzberichte). Genutzt für die Jahresabschluss-Zahlen (E2e, E2f) und die Textsignale (E4).",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["format", "text", "tables"],
+    "properties": {
+      "title": { "type": ["string", "null"], "description": "Titel des Dokuments" },
+      "format": { "type": "string", "x-bekannte-werte": ["html"], "description": "Ausgangsformat des Dokuments, bisher nur html" },
+      "text": { "type": "string", "description": "Volltext des Dokuments" },
+      "tables": {
+        "type": "array",
+        "description": "Tabellen aus dem Dokument, zum Beispiel Bilanz oder Gewinn- und Verlustrechnung. Leer, wenn keine vorhanden sind",
+        "items": {
+          "type": "object",
+          "required": ["index", "rows"],
+          "properties": {
+            "index": { "type": "integer", "minimum": 1, "description": "Laufende Nummer der Tabelle im Dokument" },
+            "title": { "type": ["string", "null"], "description": "Überschrift der Tabelle, zum Beispiel Bilanz" },
+            "rows": { "type": "array", "description": "Zeilen der Tabelle, jede Zeile eine Liste von Zellentexten", "items": { "type": "array", "items": { "type": "string" } } }
+          }
+        }
+      }
+    }
+  }
+}

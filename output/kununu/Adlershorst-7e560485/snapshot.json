@@ -1,0 +1,235 @@
+{
+  "provider": "kununu",
+  "backend": "browser",
+  "status": "ok",
+  "query": "Adlershorst",
+  "profile": {
+    "url": "https://www.kununu.com/de/adlershorst-baugenossenschaft-eg1",
+    "name": "ADLERSHORST Baugenossenschaft eG",
+    "overall_score": 4.6,
+    "review_count": 13,
+    "recommendation_percent": 100,
+    "recommendation_period": "last_2_years",
+    "observed_at": "2026-11-25T17:17:47.217718+00:00"
+  },
+  "reviews": [
+    {
+      "id": "5735d8ed-9d61-4076-9f86-f15762efd7fa",
+      "url": "https://www.kununu.com/de/adlershorst-baugenossenschaft-eg1/bewertung/5735d8ed-9d61-4076-9f86-f15762efd7fa",
+      "title": "Toller Arbeitgeber in einer sicheren Branche!",
+      "content": "Überwiegend tolle Kollegen, spannende Aufgaben und sicherer Arbeitsplatz. Großartige Mitarbeiterevents. Gute Verkehrsanbindung mit Parkplatz, tolle Räumlichkeiten; Kaffee, Wasser, Obst for free.\n\nIch komme jeden Tag gern zur Arbeit!\n\nEs wird regelmäßig eine Mieterbefragung durchgeführt, in der immer gut abgeschnitten wird. Die \"Marke\" Adlershorst macht echt was her.\n\nSpontane Arztbesuche oder andere wichtige Termine können immer irgendwie untergebracht werden. In manchen Zeiten gibt es viel zu tun, die Überstunden können aber abgebummelt werden (und darauf wird auch geachtet).\n\nEs gibt eine Vielzahl von Seminaren und Weiterbildungsmöglichkeiten in allen erdenklichen Richtungen.\n\nGehalt kommt immer pünktlich und der Tarifvertrag der Wohnungswirtschaft sorgt für angemessene Bezahlung.\n\nEs wird vieles unternommen, um klimafreundlicher zu werden (sowohl im Wohnungsbestand als auch im Büro). Leider wird immer noch vieles ausgedruckt, was auch digital bearbeitet werden könnte.\n\nMit vielen versteht man sich gut, mit manchen nicht - wir sind eben alle nur Menschen. Der Zusammenhalt ist aber immer gut und im Endeffekt ziehen wir alle an einem Strang.\n\nEinige ältere Kollegen mit langer Betriebszugehörigkeit, die bis zur Rente bleiben.\n\nAbsolut einwandfrei; Lob bei guter Arbeit, konstruktive Kritik bei Fehlern - so muss es sein!\n\nModerne Ausstattungen, ergonomische Arbeitsplätze.\n\nIm Regelfall gut, vor allem seitdem es die Mitarbeiterapp gibt.\n\nViele Frauen in Führungspositionen; hier zählt nicht das Geschlecht, sondern die Leistung.\n\nHängt natürlich vom Aufgabengebiet ab, aber wenn man sich auf eine Stelle bewirbt, weiß man vermutlich was einen erwartet.",
+      "rating": 4.7,
+      "sections": {
+        "positive": "Überwiegend tolle Kollegen, spannende Aufgaben und sicherer Arbeitsplatz. Großartige Mitarbeiterevents. Gute Verkehrsanbindung mit Parkplatz, tolle Räumlichkeiten; Kaffee, Wasser, Obst for free.",
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Ich komme jeden Tag gern zur Arbeit!",
+        "image": "Es wird regelmäßig eine Mieterbefragung durchgeführt, in der immer gut abgeschnitten wird. Die \"Marke\" Adlershorst macht echt was her.",
+        "workLife": "Spontane Arztbesuche oder andere wichtige Termine können immer irgendwie untergebracht werden. In manchen Zeiten gibt es viel zu tun, die Überstunden können aber abgebummelt werden (und darauf wird auch geachtet).",
+        "career": "Es gibt eine Vielzahl von Seminaren und Weiterbildungsmöglichkeiten in allen erdenklichen Richtungen.",
+        "salary": "Gehalt kommt immer pünktlich und der Tarifvertrag der Wohnungswirtschaft sorgt für angemessene Bezahlung.",
+        "environment": "Es wird vieles unternommen, um klimafreundlicher zu werden (sowohl im Wohnungsbestand als auch im Büro). Leider wird immer noch vieles ausgedruckt, was auch digital bearbeitet werden könnte.",
+        "teamwork": "Mit vielen versteht man sich gut, mit manchen nicht - wir sind eben alle nur Menschen. Der Zusammenhalt ist aber immer gut und im Endeffekt ziehen wir alle an einem Strang.",
+        "oldColleagues": "Einige ältere Kollegen mit langer Betriebszugehörigkeit, die bis zur Rente bleiben.",
+        "leadership": "Absolut einwandfrei; Lob bei guter Arbeit, konstruktive Kritik bei Fehlern - so muss es sein!",
+        "workConditions": "Moderne Ausstattungen, ergonomische Arbeitsplätze.",
+        "communication": "Im Regelfall gut, vor allem seitdem es die Mitarbeiterapp gibt.",
+        "equality": "Viele Frauen in Führungspositionen; hier zählt nicht das Geschlecht, sondern die Leistung.",
+        "tasks": "Hängt natürlich vom Aufgabengebiet ab, aber wenn man sich auf eine Stelle bewirbt, weiß man vermutlich was einen erwartet."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 4.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 4.0,
+        "oldColleagues": 4.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 4.0,
+        "tasks": 5.0
+      },
+      "published_at": "2024-12-08T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "7be19e12-4349-437a-88bd-3a4dcaf8849c",
+      "url": "https://www.kununu.com/de/adlershorst-baugenossenschaft-eg1/bewertung/7be19e12-4349-437a-88bd-3a4dcaf8849c",
+      "title": "Arbeit mit Sinn",
+      "content": "",
+      "rating": 4.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-06-01T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "9e2b55f5-926f-4ee2-a9ec-129d910e7fda",
+      "url": "https://www.kununu.com/de/adlershorst-baugenossenschaft-eg1/bewertung/9e2b55f5-926f-4ee2-a9ec-129d910e7fda",
+      "title": "Super Arbeitgeber",
+      "content": "",
+      "rating": 4.6,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-03-27T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    }
+  ],
+  "review_limit": 15,
+  "review_period": {
+    "since": "2024-11-25T00:00:00+00:00",
+    "until": "2026-11-25T17:17:45.834259+00:00",
+    "date_field": "published_at",
+    "missing_dates": "excluded"
+  },
+  "factor_scores_aggregated": {
+    "atmosphere": {
+      "mean": 5.0,
+      "count": 1
+    },
+    "workLife": {
+      "mean": 5.0,
+      "count": 1
+    },
+    "communication": {
+      "mean": 4.0,
+      "count": 1
+    },
+    "workConditions": {
+      "mean": 5.0,
+      "count": 1
+    },
+    "leadership": {
+      "mean": 5.0,
+      "count": 1
+    },
+    "teamwork": {
+      "mean": 4.0,
+      "count": 1
+    },
+    "oldColleagues": {
+      "mean": 4.0,
+      "count": 1
+    },
+    "equality": {
+      "mean": 5.0,
+      "count": 1
+    },
+    "career": {
+      "mean": 5.0,
+      "count": 1
+    },
+    "salary": {
+      "mean": 5.0,
+      "count": 1
+    },
+    "image": {
+      "mean": 5.0,
+      "count": 1
+    },
+    "environment": {
+      "mean": 4.0,
+      "count": 1
+    },
+    "tasks": {
+      "mean": 5.0,
+      "count": 1
+    }
+  },
+  "coverage": "bounded_employee_review_sample_last_2_years_not_all_reviews",
+  "diagnostics": {
+    "pages": [
+      {
+        "page": "reviews",
+        "page_number": 1,
+        "load_more_clicks": 0,
+        "requested_url": "https://www.kununu.com/de/adlershorst-baugenossenschaft-eg1/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Adlershorst-7e560485\\browser\\reviews.html",
+        "browser_step": 132,
+        "final_url": "https://www.kununu.com/de/adlershorst-baugenossenschaft-eg1/kommentare",
+        "observed_at": "2026-11-25T17:17:46.972088+00:00",
+        "http_status": 200,
+        "factor_cards_expanded": 1,
+        "reviews_collected": 1
+      },
+      {
+        "page": "reviews",
+        "page_number": 2,
+        "load_more_clicks": 1,
+        "requested_url": "https://www.kununu.com/de/adlershorst-baugenossenschaft-eg1/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Adlershorst-7e560485\\browser\\reviews-2.html",
+        "browser_step": 133,
+        "final_url": "https://www.kununu.com/de/adlershorst-baugenossenschaft-eg1/kommentare",
+        "observed_at": "2026-11-25T17:17:47.817775+00:00",
+        "actions_complete": true,
+        "reviews_collected": 3
+      }
+    ]
+  },
+  "source_url": "https://www.kununu.com/de/adlershorst-baugenossenschaft-eg1",
+  "profile_source": "https://www.kununu.com/de/adlershorst-baugenossenschaft-eg1/kommentare",
+  "review_stop_reason": "end_of_available_reviews",
+  "factor_score_coverage": {
+    "reviews_with_scores": 1,
+    "reviews_without_scores": 2,
+    "reviews_with_all_known_scores": 1,
+    "status": "partial"
+  },
+  "request_limits": {
+    "max_browser_steps": 295,
+    "browser_steps": 133,
+    "zyte_requests": 0
+  },
+  "reason": null
+}

@@ -1,0 +1,9 @@
+{
+  "url": "https://careers-kyowa-kirin.icims.com/robots.txt",
+  "final_url": "https://careers-kyowa-kirin.icims.com/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/plain;charset=UTF-8",
+  "fetched_at": "2026-11-25T16:00:54.343382+00:00",
+  "text": "User-agent: *\nSitemap: https://careers-kyowa-kirin.icims.com/sitemap.xml\nDisallow: /jobs/*referral\nDisallow: /jobs/referral\nDisallow: /jobs/*login\nDisallow: /jobs/login\nDisallow: /jobs/*candidate\nDisallow: /jobs/candidate\nDisallow: /jobs/reminder\nDisallow: /connect\nDisallow: /connect/*interest\nDisallow: /connect/interest\nDisallow: /connect/*resume\nDisallow: /connect/resume\n"
+}

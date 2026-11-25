@@ -1,0 +1,9 @@
+{
+  "url": "https://karriere.msg.group/robots.txt",
+  "final_url": "https://karriere.msg.group/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/plain;charset=UTF-8",
+  "fetched_at": "2026-11-25T16:12:17.204444+00:00",
+  "text": "User-agent: *\nDisallow: /.magnolia\nDisallow: /.rest\nDisallow: /*~*\nDisallow: /*?\nAllow: /.rest/components/\n\n# AI-Suche, Nutzer-Abrufe, Ads-Pruefung: erlaubt (gleiche technische Ausschluesse wie *)\nUser-agent: OAI-SearchBot\nUser-agent: OAI-AdsBot\nUser-agent: ChatGPT-User\nUser-agent: Claude-SearchBot\nUser-agent: Claude-User\nUser-agent: PerplexityBot\nUser-agent: Perplexity-User\nDisallow: /.magnolia\nDisallow: /.rest\nDisallow: /*~*\nDisallow: /*?\n\n# Training-Crawler: gesperrt\nUser-agent: GPTBot\nUser-agent: ClaudeBot\nUser-agent: Google-Extended\nUser-agent: Applebot-Extended\nUser-agent: CCBot\nUser-agent: Meta-ExternalAgent\nDisallow: /\n\nUser-agent: sistrix\nDisallow:\n\n# Google-Suche: keine PDFs und Systempfade; REST-Listen fuers Rendern erlaubt\nUser-agent: Googlebot\nDisallow: /.magnolia\nDisallow: /.rest\nDisallow: /*~*\nDisallow: /*?\nDisallow: /*.pdf$\nAllow: /.rest/components/\n"
+}

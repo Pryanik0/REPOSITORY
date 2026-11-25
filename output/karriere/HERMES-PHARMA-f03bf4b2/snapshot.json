@@ -1,0 +1,761 @@
+{
+  "provider": "karriere",
+  "company": {
+    "key": "HERMES PHARMA",
+    "name": "HERMES PHARMA GmbH",
+    "location": "Pullach im Isartal",
+    "name_source": "company_name",
+    "urls": [
+      "https://www.hermes-pharma.com/"
+    ],
+    "kununu_url": "https://www.kununu.com/de/hermes-group",
+    "branches": [
+      "Pharma & Medizintechnik"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "82049",
+    "street": "Georg-Kalb-Straße 5",
+    "region": "Bayern",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:07:00.281148+00:00",
+  "status": "ok",
+  "jobs": [
+    {
+      "title": "AI Engineer (m/w/d)",
+      "url": "https://hermes-group-jobs.de/AI-Engineer-mwd-de-j1725.html",
+      "description": "Wer wir sind: Seit 1907 setzt sich die HERMES Group mit Leidenschaft für die Gesundheit der Menschen ein und steht für höchste Qualität in der Pharma- und Gesundheitsbranche. Als Muttergesellschaft der Unternehmensgruppe übernehmen wir als HERMES Arzneimittel Holding eine zentrale Rolle: Wir stellen den Einzelgesellschaften HERMES ARZNEIMITTEL, HERMES PHARMA und Bad Heilbrunner essenzielle Funktionen bereit und fördern den nachhaltigen Erfolg der Unternehmensgruppe. Du begeisterst dich für KI, Automatisierung und digitale Innovationen und möchtest zukunftsweisende Lösungen auf Basis modernster Microsoft-Technologien entwickeln? Dann werde Teil unseres Teams als AI Engineer (m/w/d) in Pullach bei München . Die Stelle ist unbefristet und in Vollzeit (37,5 Stunden/Woche) zu besetzen. Deine Aufgaben: Lösungsentwicklung: Entwicklung und Betrieb von KI-Agenten, Copilots und Automatisierungslösungen zur Unterstützung und Optimierung von Geschäftsprozessen. Lösungsdesign & Umsetzung: Umsetzung fachlicher Anforderungen in produktive Lösungen auf Basis der Microsoft AI & Automation Plattform. Integrations- und Workflowentwicklung: Konzeption und Umsetzung von Integrationen, Workflows und digitalen Services zur Vernetzung von Anwendungen und Prozessen. Qualitäts- und Betriebsverantwortung: Sicherstellung eines stabilen Betriebs sowie der Qualität und kontinuierlichen Weiterentwicklung produktiver Lösungen. Standardisierung: Aufbau wiederverwendbarer Komponenten, technischer Standards und Best Practices zur Förderung einer effizienten und nachhaltigen Lösungsentwicklung. Dein Profil: Ausbildung & Hintergrund: Du verfügst über ein abgeschlossenes Studium der Informatik, Wirtschaftsinformatik, des Software Engineerings oder über eine vergleichbare IT-technische Ausbildung. Berufserfahrung: Du hast praktische Erfahrung als Automation Engineer, Solution Engineer, Softwareentwickler oder in einer vergleichbaren technischen Rolle gesammelt. Microsoft-Kompetenz: Du verfügst über praktische Erfahrung mit der Microsoft Power Platform, insbesondere Power Automate und Power Apps. Erfahrungen mit Microsoft Copilot Studio sowie Microsoft Azure und KI-Plattformen wie Azure AI Foundry sind von Vorteil. Prozess- und Integrationsverständnis: Du hast Erfahrung in der Digitalisierung und Automatisierung von Geschäftsprozessen sowie in der Anbindung von APIs und Datenquellen. Generative AI & Copilots: Du hast bereits mit KI-Agenten, Copilots oder vergleichbaren KI-gestützten Lösungen gearbeitet. Persönliche Stärken: Du überzeugst durch analytisches Denkvermögen, Problemlösungskompetenz, Eigenverantwortung und Freude an der Zusammenarbeit im Team. Unsere Benefits auf einen Blick: 37,5-Stunden-Woche mit Gleitzeit 30 Tage Urlaub + Fenster-/Brückentageregelung Kurzer Freitag Subventionierte Kantine Flexible Homeoffice-Regelung Vermögenswirksame Leistungen + freiwillige arbeitgeberfinanzierte Altersvorsorge & Unfallversicherung Interessante Angebote zur Weiterbildung Flexible Benefit-Auswahl z. B. ÖPNV-Zuschuss, Unterstützung bei Kinderbetreuung, Urlaubszuschuss oder Business Bike Zuschuss Wir freuen uns auf Dich!",
+      "locations": [
+        "Pullach, Bayern, DE"
+      ],
+      "employment_type": "FULL_TIME",
+      "remote": "",
+      "employer": "HERMES Arzneimittel Holding GmbH",
+      "date_posted": "2026-10-23",
+      "valid_through": "2026-12-31",
+      "reference": null,
+      "extraction": "schema_org_jobposting",
+      "source_url": "https://hermes-group-jobs.de/AI-Engineer-mwd-de-j1725.html",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:07:05.554113+00:00",
+      "id": "e79ea8533d63356fcf56",
+      "company_key": "HERMES PHARMA"
+    },
+    {
+      "title": "Anlagenmechaniker SHK (m/w/d)",
+      "url": "https://hermes-group-jobs.de/Anlagenmechaniker-SHK-mwd-de-j1718.html",
+      "description": "Wer wir sind: HERMES PHARMA ist DER Experte für die Entwicklung und Herstellung von anwenderfreundlichen oralen Darreichungsformen . Als CDMO bieten wir maßgeschneiderte Services entlang der gesamten pharmazeutischen Wertschöpfungskette, von der Entwicklung neuer Produkte, über die Galenik bis zur Herstellung und Zulassung. Seit über 40 Jahren vertrauen führende Gesundheitsunternehmen auf der ganzen Welt auf HERMES PHARMA, um ihre Produktlinien zu erweitern und Marken zu stärken. Zur Verstärkung unseres Teams suchen wir zum nächstmöglichen Zeitpunkt einen Anlagenmechaniker SHK (m/w/d) am Standort Wolfratshausen bei München in Vollzeit (37,5 Stunden/Woche) . Deine Aufgaben: Anlagenbetrieb: Gewährleistung des sicheren und zuverlässigen Betriebs der technischen Gebäude- und Versorgungsanlagen am Standort. Anlagenbetreuung: Betreuung und Überwachung der Anlagen in den Bereichen Elektro, Lüftung, Kälte, Heizung, Sanitär und Versorgungstechnik. Gebäudeleittechnik: Bedienung und Pflege der Gebäudeleittechnik sowie der Mess-, Steuer- und Regelungstechnik (MSR). Instandhaltung: Durchführung von Wartungs-, Instandhaltungs- und Reparaturarbeiten an technischen Anlagen. Störungsbeseitigung: Analyse und Behebung von Störungen im Rahmen des Alarmierungs- und Bereitschaftssystems. Dein Profil: Ausbildung: Abgeschlossene Ausbildung als Anlagenmechaniker SHK, Elektroniker, Mechatroniker (m/w/d) oder eine ähnliche techische Ausbildung. Qualifikation: Weiterbildung zur Elektrofachkraft für festgelegte Tätigkeiten / zum Meister / Techniker wünschenswert, aber nicht erforderlich. Kenntnisse: Gutes Verständnis für gebäudetechnische Anlagen sowie Interesse an Elektro-, Heizungs-, Lüftungs-, Klima- und Kältetechnik. PC-Skills: Sicherer Umgang mit dem PC sowie Erfahrung mit relevanten Programmen und Anwendungen. Persönliche Stärken: Zuverlässigkeit, Teamfähigkeit, Kontaktfreude, Lernbereitschaft und selbstständige Arbeitsweise. Einsatzbereitschaft: Teilnahme am Rufbereitschaftsdienst nach entsprechender Einarbeitung. Unsere Benefits auf einen Blick: Eine unbefristete Festanstellung in Vollzeit 30 Tage Urlaub Eine attraktive Bezahlung Eine freiwillige arbeitgeberfinanzierte Altersvorsorge Eine Unfallversicherung Eine subventionierte Kantine Flexible Benefit-Auswahl z. B. ÖPNV-Zuschuss, Unterstützung bei Kinderbetreuung, Urlaubszuschuss oder Business Bike Zuschuss Wir freuen uns auf Dich!",
+      "locations": [
+        "Wolfratshausen, Bayern, DE"
+      ],
+      "employment_type": "FULL_TIME",
+      "remote": "",
+      "employer": "HERMES PHARMA GmbH",
+      "date_posted": "2026-09-29",
+      "valid_through": "2026-11-30",
+      "reference": null,
+      "extraction": "schema_org_jobposting",
+      "source_url": "https://hermes-group-jobs.de/Anlagenmechaniker-SHK-mwd-de-j1718.html",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:07:06.028806+00:00",
+      "id": "d3a2995320f7284e43ed",
+      "company_key": "HERMES PHARMA"
+    },
+    {
+      "title": "Data & Analytics Engineer (m/w/d)",
+      "url": "https://hermes-group-jobs.de/Data-Analytics-Engineer-mwd-de-j1702.html",
+      "description": "Wer wir sind: Seit 1907 setzt sich die HERMES Group mit Leidenschaft für die Gesundheit der Menschen ein und steht für höchste Qualität in der Pharma- und Gesundheitsbranche. Als Muttergesellschaft der Unternehmensgruppe übernehmen wir als HERMES Arzneimittel Holding eine zentrale Rolle: Wir stellen den Einzelgesellschaften HERMES ARZNEIMITTEL, HERMES PHARMA und Bad Heilbrunner essenzielle Funktionen bereit und fördern den nachhaltigen Erfolg der Unternehmensgruppe. Du verbindest technisches Know-how mit analytischem Denken und möchtest die Basis für datengetriebene Entscheidungen schaffen? Dann werde Teil unseres Teams als Data & Analytics Engineer (m/w/d) in Pullach bei München . Die Stelle ist unbefristet und in Vollzeit (37,5 Stunden/Woche) zu besetzen. Deine Aufgaben: Datenmodellierung: Du entwickelst, modellierst und optimierst Datenprodukte, Datenmodelle und semantische Schichten als Grundlage für moderne Analyse- und Reporting-Lösungen. Reporting und Business Intelligence: Du konzipierst und realisierst aussagekräftige Dashboards, Berichte und Self-Service-Lösungen, die unseren Fachbereichen datenbasierte Entscheidungen ermöglichen. Anforderungsmanagement: Du übersetzt fachliche Anforderungen in intelligente Datenmodelle, Kennzahlen, Business-Logiken und analytische Lösungen mit echtem Mehrwert für das Unternehmen. Datenqualität und Dokumentation: Du stellst eine hohe Datenqualität, Transparenz und Nachvollziehbarkeit sicher und entwickelst unsere Data-&-Analytics-Plattform kontinuierlich weiter. Datenanalyse und Prognosen: Du führst statistische Analysen durch und entwickelst datengetriebene Prognose- und Machine-Learning-Modelle zur Unterstützung fachlicher Entscheidungen. Dein Profil: Ausbildung: Du verfügst über eine IT-Ausbildung oder ein abgeschlossenes Studium der Informatik, Wirtschaftsinformatik, Data Science, Mathematik, Statistik oder eine vergleichbare Qualifikation mit IT-Schwerpunkt. Berufserfahrung: Du hast mehrjährige Erfahrung im Bereich Data & Analytics Engineering, Analytics Engineering, Business Intelligence oder Data Analytics gesammelt und bewegst dich sicher zwischen Fachbereich und Technologie. Datenmodellierung und SQL: Du besitzt sehr gute SQL-Kenntnisse und bringst fundierte Erfahrung in der Modellierung analytischer Datenstrukturen sowie im Umgang mit modernen Reporting-, BI- und Analytics-Plattformen mit. Datenplattformen und BI: Du kennst aktuelle Data-Warehouse-, Lakehouse- und Data-Platform-Konzepte und hast idealerweise Erfahrung mit Power BI, DAX oder vergleichbaren semantischen Modellierungsansätzen gesammelt. Analytische Methoden: Idealerweise verfügst du über Kenntnisse in Python, Statistik oder Advanced Analytics und bringst diese bei der Entwicklung datengetriebener Lösungen ein. Persönliche Stärken: Du überzeugst durch analytisches Denkvermögen, Eigeninitiative, Verantwortungsbewusstsein sowie eine strukturierte und lösungsorientierte Arbeitsweise. Sprachkenntnisse: Du verfügst über fließende Deutschkenntnisse und gute Englischkenntnisse in Wort und Schrift. Unsere Benefits auf einen Blick: 37,5-Stunden-Woche mit Gleitzeit 30 Tage Urlaub + Fenster-/Brückentageregelung Kurzer Freitag Subventionierte Kantine Flexible Homeoffice-Regelung Vermögenswirksame Leistungen + freiwillige arbeitgeberfinanzierte Altersvorsorge & Unfallversicherung Interessante Angebote zur Weiterbildung Flexible Benefit-Auswahl z. B. ÖPNV-Zuschuss, Unterstützung bei Kinderbetreuung, Urlaubszuschuss oder Business Bike Zuschuss Wir freuen uns auf Dich!",
+      "locations": [
+        "Pullach, Bayern, DE"
+      ],
+      "employment_type": "FULL_TIME",
+      "remote": "",
+      "employer": "HERMES Arzneimittel Holding GmbH",
+      "date_posted": "2026-10-08",
+      "valid_through": "2026-12-28",
+      "reference": null,
+      "extraction": "schema_org_jobposting",
+      "source_url": "https://hermes-group-jobs.de/Data-Analytics-Engineer-mwd-de-j1702.html",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:07:06.548177+00:00",
+      "id": "0f406e1ddc6e10ef174b",
+      "company_key": "HERMES PHARMA"
+    },
+    {
+      "title": "Elektriker (m/w/d)",
+      "url": "https://hermes-group-jobs.de/Elektriker-mwd-de-j1694.html",
+      "description": "Wer wir sind: HERMES PHARMA ist DER Experte für die Entwicklung und Herstellung von anwenderfreundlichen oralen Darreichungsformen . Als CDMO bieten wir maßgeschneiderte Services entlang der gesamten pharmazeutischen Wertschöpfungskette, von der Entwicklung neuer Produkte, über die Galenik bis zur Herstellung und Zulassung. Seit über 40 Jahren vertrauen führende Gesundheitsunternehmen auf der ganzen Welt auf HERMES PHARMA, um ihre Produktlinien zu erweitern und Marken zu stärken. Zur Verstärkung unseres Teams suchen wir zum nächstmöglichen Zeitpunkt einen Elektriker (m/w/d) am Standort Wolfratshausen in Vollzeit (37,5 Stunden/Woche) im Schichtbetrieb. Deine Aufgaben: Instandhaltung & Wartung: Durchführung von Inspektions-, Wartungs- und Reparaturarbeiten an unseren Produktionsanlagen, um einen reibungslosen Betrieb sicherzustellen. Fehlersuche & Störungsbehebung: Analyse und Behebung von Störungen an Maschinen und Anlagen sowie Ermittlung und Beseitigung der Fehlerursachen. Dokumentation: Sorgfältige Dokumentation der durchgeführten Wartungs-, Reparatur- und Instandhaltungsarbeiten. Umbau & Modernisierung: Durchführung von Umbau-, Erweiterungs- und Modernisierungsmaßnahmen an Maschinen und Anlagen. Anlagenbetrieb & Rüstung: Einrichtung, Einstellung und Umrüstung von Produktionsanlagen im laufenden Betrieb. Dein Profil: Ausbildung & Erfahrung: Abgeschlossene Ausbildung als Elektriker*in, Elektroniker*in oder eine vergleichbare Qualifikation. Idealerweise erste Berufserfahrung in der Instandhaltung von Produktionsanlagen. PC-Kenntnisse: Sicherer Umgang mit dem PC sowie Erfahrung mit relevanten Tools und Programmen. Arbeitsweise & Team: Selbstständige, verantwortungsbewusste und strukturierte Arbeitsweise gepaart mit ausgeprägter Teamfähigkeit. Flexibilität: Bereitschaft zur Arbeit im Schichtbetrieb. Technisches Verständnis: Handwerkliches Geschick sowie ein gutes technisches Verständnis. Sprachen: Sehr gute Deutschkenntnisse in Wort und Schrift. Englischkenntnisse sind von Vorteil. Unsere Benefits auf einen Blick: Eine unbefristete Festanstellung in Vollzeit 30 Tage Urlaub Eine attraktive Bezahlung Eine freiwillige arbeitgeberfinanzierte Altersvorsorge Eine Unfallversicherung Eine subventionierte Kantine Eine gute Work-Life Balance durch ein wöchentlich wechselndes Schichtsystem Flexible Benefit-Auswahl z. B. ÖPNV-Zuschuss, Unterstützung bei Kinderbetreuung, Urlaubszuschuss oder Business Bike Zuschuss Wir freuen uns auf Dich! #TeamHERMES #TeamHERMES",
+      "locations": [
+        "Wolfratshausen, Bayern, DE"
+      ],
+      "employment_type": "FULL_TIME",
+      "remote": "",
+      "employer": "HERMES PHARMA GmbH",
+      "date_posted": "2026-11-01",
+      "valid_through": "2026-12-01",
+      "reference": null,
+      "extraction": "schema_org_jobposting",
+      "source_url": "https://hermes-group-jobs.de/Elektriker-mwd-de-j1694.html",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:07:07.052721+00:00",
+      "id": "a9c3cc2bf7781d72f1d2",
+      "company_key": "HERMES PHARMA"
+    },
+    {
+      "title": "Elektroniker (m/w/d)",
+      "url": "https://hermes-group-jobs.de/Elektroniker-mwd-de-j1687.html",
+      "description": "Wer wir sind: HERMES PHARMA ist DER Experte für die Entwicklung und Herstellung von anwenderfreundlichen oralen Darreichungsformen . Als CDMO bieten wir maßgeschneiderte Services entlang der gesamten pharmazeutischen Wertschöpfungskette, von der Entwicklung neuer Produkte, über die Galenik bis zur Herstellung und Zulassung. Seit über 40 Jahren vertrauen führende Gesundheitsunternehmen auf der ganzen Welt auf HERMES PHARMA, um ihre Produktlinien zu erweitern und Marken zu stärken. Zur Verstärkung unseres Teams suchen wir zum nächstmöglichen Zeitpunkt einen Elektroniker (m/w/d) am Standort Wolfratshausen in Vollzeit (37,5 Stunden/Woche) im Schichtbetrieb. Deine Aufgaben: Instandhaltung & Wartung: Durchführung von Inspektions-, Wartungs- und Reparaturarbeiten an unseren Produktionsanlagen, um einen reibungslosen Betrieb sicherzustellen. Fehlersuche & Störungsbehebung: Analyse und Behebung von Störungen an Maschinen und Anlagen sowie Ermittlung und Beseitigung der Fehlerursachen. Dokumentation: Sorgfältige Dokumentation der durchgeführten Wartungs-, Reparatur- und Instandhaltungsarbeiten. Umbau & Modernisierung: Durchführung von Umbau-, Erweiterungs- und Modernisierungsmaßnahmen an Maschinen und Anlagen. Anlagenbetrieb & Rüstung: Einrichtung, Einstellung und Umrüstung von Produktionsanlagen im laufenden Betrieb. Dein Profil: Ausbildung & Erfahrung: Abgeschlossene Ausbildung als Elektriker*in, Elektroniker*in oder eine vergleichbare Qualifikation. Idealerweise erste Berufserfahrung in der Instandhaltung von Produktionsanlagen. PC-Kenntnisse: Sicherer Umgang mit dem PC sowie Erfahrung mit relevanten Tools und Programmen. Arbeitsweise & Team: Selbstständige, verantwortungsbewusste und strukturierte Arbeitsweise gepaart mit ausgeprägter Teamfähigkeit. Flexibilität: Bereitschaft zur Arbeit im Schichtbetrieb. Technisches Verständnis: Handwerkliches Geschick sowie ein gutes technisches Verständnis. Sprachen: Sehr gute Deutschkenntnisse in Wort und Schrift. Englischkenntnisse sind von Vorteil. Unsere Benefits auf einen Blick: Eine unbefristete Festanstellung in Vollzeit 30 Tage Urlaub Eine attraktive Bezahlung Eine freiwillige arbeitgeberfinanzierte Altersvorsorge Eine Unfallversicherung Eine subventionierte Kantine Eine gute Work-Life Balance durch ein wöchentlich wechselndes Schichtsystem Flexible Benefit-Auswahl z. B. ÖPNV-Zuschuss, Unterstützung bei Kinderbetreuung, Urlaubszuschuss oder Business Bike Zuschuss Wir freuen uns auf Dich! #TeamHERMES #TeamHERMES",
+      "locations": [
+        "Wolfratshausen, Bayern, DE"
+      ],
+      "employment_type": "FULL_TIME",
+      "remote": "",
+      "employer": "HERMES PHARMA GmbH",
+      "date_posted": "2026-11-01",
+      "valid_through": "2026-12-01",
+      "reference": null,
+      "extraction": "schema_org_jobposting",
+      "source_url": "https://hermes-group-jobs.de/Elektroniker-mwd-de-j1687.html",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:07:07.539528+00:00",
+      "id": "47eec382d4a1b1820d85",
+      "company_key": "HERMES PHARMA"
+    },
+    {
+      "title": "Haustechniker (m/w/d)",
+      "url": "https://hermes-group-jobs.de/Haustechniker-mwd-de-j1733.html",
+      "description": "Wer wir sind: Als Teil der HERMES Group und Tochtergesellschaft von Bad Heilbrunner Naturheilmittel GmbH & Co. KG stehen wir als Abtswinder Naturheilmittel GmbH & Co. KG seit 1982 für exzellente Naturprodukte, die das Wohlbefinden auf natürliche Art und Weise fördern. Unsere Produktpalette umfasst eine Vielzahl an Naturheilmitteln, darunter Arzneitees, Nahrungsergänzungsmittel und Superfoods. Als bedeutender Hersteller von Naturprodukten legen wir höchsten Wert auf Qualität, Expertise und Produktsicherheit. Du hast Spaß an Technik und arbeitest gerne mit modernen Maschinen? Dann werde Teil unseres Teams als Haustechniker (m/w/d). Die Stelle ist unbefristet und in Vollzeit (38,5 Stunden/Woche) an unserem Standort in Abtswind zu besetzen. Deine Aufgaben: Anlagenbetrieb: Überwachung, Inspektion und Instandhaltung sämtlicher gebäudetechnischer Anlagen in den Bereichen Heizung, Klima, Lüftung, Sanitär und Elektro. Störungsmanagement: Durchführung von Fehleranalysen, Behebung technischer Störungen sowie Einleitung erforderlicher Sofortmaßnahmen bei Ausfällen. Dienstleistersteuerung: Koordination, Einweisung und Leistungsüberwachung externer Wartungs-, Service- und Handwerksunternehmen. Betreiberpflichten: Sicherstellung der Einhaltung gesetzlicher Prüf- und Wartungsvorgaben sowie Durchführung regelmäßiger Begehungen zur Wahrnehmung der Verkehrssicherungspflicht. Projektarbeit: Unterstützung bei Umbau- und Renovierungsmaßnahmen sowie bei der Umsetzung von Nachhaltigkeits- und Energieeffizienzprojekten. Dein Profil: Qualifikation: Abgeschlossene Ausbildung als Anlagenmechaniker (m/w/d) oder eine vergleichbare technische Berufsausbildung. Erfahrung: Idealerweise mindestens drei Jahre Berufserfahrung im Bereich Gebäudetechnik oder Facility Management. Fachwissen: Gute Kenntnisse in den Bereichen HKLS (Heizung, Klima, Lüftung und Sanitär). Handwerkliches Geschick: Sicherer Umgang mit technischen Anlagen sowie ausgeprägtes praktisches Verständnis. Vielseitigkeit: Gewerkeübergreifendes technisches Verständnis und eine selbstständige, lösungsorientierte Arbeitsweise. Unsere Benefits auf einen Blick: Eine unbefristete Festanstellung in Vollzeit (38,5h / Woche) 30 Tage Urlaub sowie Brücken- und Ausgleichstage Eine faire Vergütung Vermögenswirksame Leistungen Direktversicherung als Altersvorsorge Eine Gruppenunfallversicherung Corporate Benefits Flexible Benefit-Auswahl z. B. ÖPNV-Zuschuss, Unterstützung bei Kinderbetreuung, Urlaubszuschuss oder Business Bike Zuschuss Wir freuen uns auf Dich! #TeamHERMES #TeamHERMES",
+      "locations": [
+        "Abtswind, Bayern, DE"
+      ],
+      "employment_type": "FULL_TIME",
+      "remote": "",
+      "employer": "Abtswinder Naturheilmittel GmbH & Co. KG",
+      "date_posted": "2026-11-25",
+      "valid_through": "2027-02-28",
+      "reference": null,
+      "extraction": "schema_org_jobposting",
+      "source_url": "https://hermes-group-jobs.de/Haustechniker-mwd-de-j1733.html",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:07:08.062365+00:00",
+      "id": "a174fd764a15a7c2f7e3",
+      "company_key": "HERMES PHARMA"
+    },
+    {
+      "title": "Head of IT Applications (m/w/d)",
+      "url": "https://hermes-group-jobs.de/Head-of-IT-Applications-mwd-de-j1728.html",
+      "description": "Wer wir sind: Seit 1907 setzt sich die HERMES Group mit Leidenschaft für die Gesundheit der Menschen ein und steht für höchste Qualität in der Pharma- und Gesundheitsbranche. Als Muttergesellschaft der Unternehmensgruppe übernehmen wir als HERMES Arzneimittel Holding eine zentrale Rolle: Wir stellen den Einzelgesellschaften HERMES ARZNEIMITTEL, HERMES PHARMA und Bad Heilbrunner essenzielle Funktionen bereit und fördern den nachhaltigen Erfolg der Unternehmensgruppe. Wir suchen zum nächstmöglichen Zeitpunkt eine erfahrene Führungspersönlichkeit als Head of IT Applications (m/w/d) in unbefristeter Vollzeitanstellung (37,5 Stunden/Woche) für unseren Standort in Pullach bei München.In dieser Schlüsselposition übernimmst Du die strategische Verantwortung für unsere Applikationslandschaft, führst die Abteilung IT Applications und treibst die Weiterentwicklung von Prozessen, Technologien und Organisation nachhaltig voran. Deine Aufgaben: Strategische Applikationssteuerung: Entwicklung und Umsetzung der Business-Applications-Strategie sowie Ausrichtung des Applikationsportfolios an den Unternehmenszielen und Geschäftsanforderungen. Führung und Organisationsentwicklung: Fachliche, disziplinarische und organisatorische Führung der Abteilung einschließlich der Weiterentwicklung von Führungskräften, Mitarbeitenden und Organisationsstrukturen. Steuerung von Betrieb und Performance: Sicherstellung eines stabilen, leistungsfähigen und wirtschaftlichen Applikationsbetriebs. Budget- und Ressourcenmanagement: Verantwortung für die Planung und Steuerung von Budgets, Kapazitäten und Ressourcen. Governance und Prozessmanagement: Sicherstellung von Compliance-, Sicherheits- und Qualitätsstandards sowie kontinuierliche Optimierung von Prozessen und Arbeitsweisen. Stakeholder- und Innovationsmanagement: Zusammenarbeit mit Fachbereichen und Partnern sowie Förderung von Innovationen und Transparenz über den Wertbeitrag der IT. Dein Profil: Qualifikation: Erfolgreich abgeschlossenes Studium der Informatik, Wirtschaftsinformatik oder einer vergleichbaren Fachrichtung sowie ein fundiertes Verständnis moderner IT-Landschaften und Unternehmensprozesse. Führungserfahrung: Fundierte Erfahrung in der Führung und Weiterentwicklung von Teams, Führungskräften oder Organisationseinheiten im IT-Umfeld. Anwendungs- und Strategieverständnis: Fundierte Kenntnisse im Management von Business Applications sowie Erfahrung in der strategischen Weiterentwicklung von Anwendungen, Prozessen und IT-Services. Steuerungs- und Stakeholderkompetenz: Erfahrung in der Steuerung komplexer Themenfelder, Budgets und Ressourcen sowie in der Zusammenarbeit mit Fachbereichen, Management, IT-Schnittstellen und externen Partnern. Persönlichkeit: Unternehmerisch denkende Führungspersönlichkeit mit ausgeprägter Kommunikationsstärke, hoher Entscheidungsfähigkeit sowie einer strukturierten und verantwortungsbewussten Arbeitsweise. Unsere Benefits auf einen Blick: 37,5-Stunden-Woche 30 Tage Urlaub + Fenster-/Brückentageregelung Kurzer Freitag Subventionierte Kantine Flexible Homeoffice-Regelung Vermögenswirksame Leistungen + freiwillige arbeitgeberfinanzierte Altersvorsorge & Unfallversicherung Interessante Angebote zur Weiterbildung Flexible Benefit-Auswahl z. B. ÖPNV-Zuschuss, Unterstützung bei Kinderbetreuung, Urlaubszuschuss oder Business Bike Zuschuss",
+      "locations": [
+        "Pullach, Bayern, DE"
+      ],
+      "employment_type": "FULL_TIME",
+      "remote": "",
+      "employer": "HERMES Arzneimittel Holding GmbH",
+      "date_posted": "2026-11-05",
+      "valid_through": "2027-01-31",
+      "reference": null,
+      "extraction": "schema_org_jobposting",
+      "source_url": "https://hermes-group-jobs.de/Head-of-IT-Applications-mwd-de-j1728.html",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:07:08.565368+00:00",
+      "id": "f4d94cc40c59d142424c",
+      "company_key": "HERMES PHARMA"
+    },
+    {
+      "title": "Maschinen- und Anlagenführer (m/w/d)",
+      "url": "https://hermes-group-jobs.de/Maschinen-und-Anlagenfuehrer-mwd-de-j1730.html",
+      "description": "Wer wir sind: HERMES PHARMA ist DER Experte für die Entwicklung und Herstellung von anwenderfreundlichen oralen Darreichungsformen . Als CDMO bieten wir maßgeschneiderte Services entlang der gesamten pharmazeutischen Wertschöpfungskette, von der Entwicklung neuer Produkte, über die Galenik bis zur Herstellung und Zulassung. Seit über 40 Jahren vertrauen führende Gesundheitsunternehmen auf der ganzen Welt auf HERMES PHARMA, um ihre Produktlinien zu erweitern und Marken zu stärken. Zur Verstärkung unseres Teams suchen wir zum nächstmöglichen Zeitpunkt einen Maschinen- und Anlagenführer (m/w/d) am Standort Wolfratshausen in Vollzeit (37,5 Std. / Woche) im Schichtbetrieb. Deine Aufgaben: Schichtbetrieb: Arbeiten im pharmazeutischen Hygienebereich im Zwei-Schicht-Betrieb. Produktionslinien: Rüsten, Bedienen und Überwachen moderner Produktionslinien im Team. Qualitätssicherung: Verantwortung für Produktqualität durch fortlaufende Prüfungen. Leistungsoptimierung: Sicherstellung der Linienleistung hinsichtlich Qualität und Ausbringung. Unterstützung: Unterstützung bei Bestückung, Reinigung und Störbeseitigungen. Dokumentation: Dokumentation der Herstellungsschritte und Kontrollen. Materialfluss: Austausch mit Lageristen für Materialbereitstellung und Abtransport. Dein Profil: Ausbildung & Berufserfahrung: Abgeschlossene Berufsausbildung, idealerweise in der Pharma-/Lebensmittelbranche, der verarbeitenden Industrie oder mehrjährige Berufserfahrung in einem vergleichbaren Tätigkeitsbereich. Technisches Verständnis & Kommunikationsstärke: Technisches Verständnis sowie Freude am Umgang mit Maschinen und Menschen. Strukturierte Arbeitsweise: Zielstrebige, selbstständige Arbeitsweise sowie ein hohes Hygienebewusstsein. Verantwortungsbewusstsein & Teamorientierung: Ausgeprägtes Verantwortungsbewusstsein sowie Freude an der Zusammenarbeit im Team. Deutschkenntnisse: Sehr gute Deutschkenntnisse in Wort und Schrift. Unsere Benefits auf einen Blick: Eine unbefristete Festanstellung in Vollzeit 30 Tage Urlaub sowie Brücken- und Ausgleichstage Eine attraktive Bezahlung Eine freiwillige arbeitgeberfinanzierte Altersvorsorge Eine Unfallversicherung Eine subventionierte Kantine Eine gute Work-Life Balance durch ein wöchentlich wechselndes Schichtsystem Flexible Benefit-Auswahl z. B. ÖPNV-Zuschuss, Unterstützung bei Kinderbetreuung, Urlaubszuschuss oder Business Bike Zuschuss",
+      "locations": [
+        "Wolfratshausen, Bayern, DE"
+      ],
+      "employment_type": "FULL_TIME",
+      "remote": "",
+      "employer": "HERMES PHARMA GmbH",
+      "date_posted": "2026-11-09",
+      "valid_through": "2026-12-31",
+      "reference": null,
+      "extraction": "schema_org_jobposting",
+      "source_url": "https://hermes-group-jobs.de/Maschinen-und-Anlagenfuehrer-mwd-de-j1730.html",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:07:09.035129+00:00",
+      "id": "b930b475b11fdda7194c",
+      "company_key": "HERMES PHARMA"
+    },
+    {
+      "title": "Mechatroniker / Industriemechaniker (m/w/d)",
+      "url": "https://hermes-group-jobs.de/Mechatroniker-Industriemechaniker-mwd-de-j1691.html",
+      "description": "Wer wir sind: HERMES PHARMA ist DER Experte für die Entwicklung und Herstellung von anwenderfreundlichen oralen Darreichungsformen . Als CDMO bieten wir maßgeschneiderte Services entlang der gesamten pharmazeutischen Wertschöpfungskette, von der Entwicklung neuer Produkte, über die Galenik bis zur Herstellung und Zulassung. Seit über 40 Jahren vertrauen führende Gesundheitsunternehmen auf der ganzen Welt auf HERMES PHARMA, um ihre Produktlinien zu erweitern und Marken zu stärken. Zur Verstärkung unseres Teams suchen wir zum nächstmöglichen Zeitpunkt einen Mechatroniker / Industriemechaniker (m/w/d) am Standort Wolfratshausen in Vollzeit (37,5 Stunden/Woche) im Schichtbetrieb. Deine Aufgaben: Wartung & Instandhaltung: Regelmäßige Wartung, Instandhaltung und Optimierung unserer Produktionsanlagen. Störungsanalyse: Analyse, Eingrenzung und nachhaltige Behebung technischer Störungen sowie Reparatur und Austausch von defekten Teilen. Formatumstellungen: Anpassung der Formate der Produktionsanlagen. Optimierung & Dokumentation: Prüfen, Dokumentieren und kontinuierliches Optimieren von Steuerungsfunktionen und automatisierten Abläufen. Dein Profil: Ausbildung: Abgeschlossene Ausbildung als Mechatroniker / Industriemechaniker (m/w/d) oder eine vergleichbare Qualifikation. Erfahrung: Idealerweise erste Erfahrungen in Automatisierungs- oder Steuerungstechnik, Instandhaltung oder im Umfeld von Verpackungs-, Abfüll- oder Sondermaschinen. Schichtbereitschaft: Bereitschaft zur Arbeit im 2-Schicht-System (Früh- und Spätschicht). Arbeitsweise: Selbstständige, zuverlässige und lösungsorientierte Arbeitsweise. Teamgeist: Technische Neugier, Lernbereitschaft und Freude an der Zusammenarbeit im Team. Unsere Benefits auf einen Blick: Eine unbefristete Festanstellung in Vollzeit (37,5h / Woche) 30 Tage Urlaub sowie Brücken- und Ausgleichstage Subventionierte Kantine Vermögenswirksame Leistungen Betriebliche Altersvorsorge Eine Unfallversicherung Interessante Angebote zur Weiterbildung Flexible Benefit-Auswahl z. B. ÖPNV-Zuschuss, Unterstützung bei Kinderbetreuung, Urlaubszuschuss oder Wellpass Eine gute Work-Life Balance durch ein wöchentlich wechselndes Schichtsystem Mitarbeiterrabatte über Corporate Benefits Business Bike Zuschuss",
+      "locations": [
+        "Wolfratshausen, Bayern, DE"
+      ],
+      "employment_type": "FULL_TIME",
+      "remote": "",
+      "employer": "HERMES PHARMA GmbH",
+      "date_posted": "2026-11-01",
+      "valid_through": "2026-12-01",
+      "reference": null,
+      "extraction": "schema_org_jobposting",
+      "source_url": "https://hermes-group-jobs.de/Mechatroniker-Industriemechaniker-mwd-de-j1691.html",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:07:09.531538+00:00",
+      "id": "32b8c702e0ae4416b4c9",
+      "company_key": "HERMES PHARMA"
+    },
+    {
+      "title": "Mechatroniker / Industriemechaniker (Produktionstechniker) (m/w/d)",
+      "url": "https://hermes-group-jobs.de/Mechatroniker-Industriemechaniker-Produktionstechniker-mwd-de-j1727.html",
+      "description": "Wer wir sind: Als Teil der HERMES Group und des Produktionsnetzwerks von HERMES PHARMA stehen wir als Abtswinder Naturheilmittel GmbH & Co. KG seit 1982 für die Herstellung hochwertiger Arzneitees und Naturprodukte. Dabei bringen wir langjährige Erfahrung und umfassendes Know-how in der Herstellung unserer Produkte ein. Qualität und Produktsicherheit stehen für uns dabei an erster Stelle. Du hast Spaß an Technik und arbeitest gerne mit modernen Maschinen? Dann werde Teil unseres Teams als Mechatroniker / Industriemechaniker (m/w/d). Die Stelle ist unbefristet und in Vollzeit (38,5 Stunden/Woche) an unserem Standort in Abtswind zu besetzen. Deine Aufgaben: Technik: Betrieb, Einstellung, Betreuung und Störungsbeseitigung der gesamten technischen Ausrüstung der Produktionsanlagen. Instandhaltung: Regelmäßige Wartung, Instandhaltung und Optimierung moderner, hochautomatisierter Abfüll- und Verpackungsanlagen. Rüstung: Durchführung von Rüst- und Einstellarbeiten an vollautomatischen Verpackungssystemen in den Bereichen Pharma, Kosmetik und Lebensmittel. Steuerung: Prüfung, Dokumentation und kontinuierliche Optimierung von Steuerungsfunktionen und automatisierten Abläufen. Optimierung: Kontinuierliche Verbesserung der Prozesse sowie Sicherstellung eines effizienten Maschinen- und Materialeinsatzes. Dein Profil: Ausbildung: Abgeschlossene Ausbildung als Mechatroniker (m/w/d) oder vergleichbare Qualifikation, wie zum Beispiel Industriemechaniker, Elektroniker für Automatisierungs- und Betriebstechnik oder Industrieelektriker. Erfahrung: Idealerweise erste Erfahrungen in der Lebensmittelbranche, in Automatisierungs- oder Steuerungstechnik, Instandhaltung oder im Umfeld von Verpackungs-, Abfüll- oder Sondermaschinen. Schichtbereitschaft: Bereitschaft zur Arbeit im 2-Schicht-System (Früh- und Spätschicht). Arbeitsweise: Selbstständige und zuverlässige Arbeitsweise sowie Freude an der Zusammenarbeit im Team. Unsere Benefits auf einen Blick: Eine unbefristete Festanstellung in Vollzeit (38,5h / Woche) 30 Tage Urlaub sowie Brücken- und Ausgleichstage Eine faire Vergütung Vermögenswirksame Leistungen Direktversicherung als Altersvorsorge Eine Gruppenunfallversicherung Corporate Benefits Flexible Benefit-Auswahl z. B. ÖPNV-Zuschuss, Unterstützung bei Kinderbetreuung, Urlaubszuschuss oder Business Bike Zuschuss Wir freuen uns auf Dich! #TeamHERMES #TeamHERMES",
+      "locations": [
+        "Abtswind, Bayern, DE"
+      ],
+      "employment_type": "FULL_TIME",
+      "remote": "",
+      "employer": "Abtswinder Naturheilmittel GmbH & Co. KG",
+      "date_posted": "2026-10-27",
+      "valid_through": "2027-01-31",
+      "reference": null,
+      "extraction": "schema_org_jobposting",
+      "source_url": "https://hermes-group-jobs.de/Mechatroniker-Industriemechaniker-Produktionstechniker-mwd-de-j1727.html",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:07:10.071540+00:00",
+      "id": "2d2f3e1c99021b35b0e5",
+      "company_key": "HERMES PHARMA"
+    },
+    {
+      "title": "Mitarbeiter Kantine & Hausservice (m/w/d)",
+      "url": "https://hermes-group-jobs.de/Mitarbeiter-Kantine-Hausservice-mwd-de-j1717.html",
+      "description": "Wer wir sind: Seit 1907 setzt sich die HERMES Group mit Leidenschaft für die Gesundheit der Menschen ein und steht für höchste Qualität in der Pharma- und Gesundheitsbranche. Als Teil der HERMES Group sind wir als Bad Heilbrunner seit über 50 Jahren Deutschlands Nr. 1 im Markt der Arzneitees und Experte für hochwertige Naturheilmittel. Unter der Marke Bad Heilbrunner sind wir im Lebensmitteleinzelhandel sowie in Drogeriemärkten vertreten und entwickeln kontinuierlich neue, perfekt abgestimmte Tees und Naturheilmittel für verschiedenste Bedürfnisse. Unser Standort in Bad Heilbrunn, umgeben von reinster Natur, ist der ideale Ort für gelebtes Heilpflanzenwissen. Wir suchen zum nächstmöglichen Zeitpunkt unbefristet und in Festanstellung einen Mitarbeiter Kantine & Hausservice (m/w/d) in Teilzeit (20 Stunden/Woche) - am Standort Bad Heilbrunn . Deine Aufgaben: Teamunterstützung in der Kantine: Du unterstützt und vertrittst unser Team in der Kantine und sorgst für einen reibungslosen Ablauf. Vorbereitung der Besprechungsräume: Du stellst sicher, dass unsere Besprechungsräume stets gepflegt, ordentlich und optimal vorbereitet sind. Pflanzenpflege: Du kümmerst dich um die Pflege unserer Pflanzen im Gebäude sowie auf dem Firmengelände. Reinigungsaufgaben: Du übernimmst anfallende Reinigungsarbeiten in Büros und Fluren zuverlässig und sorgfältig. Schnittstelle zum Reinigungsservice: Du bist die zentrale Kontaktperson für unseren externen Reinigungsservice. Dein Profil: Erfahrung im Servicebereich: Idealerweise bringst du Erfahrung aus der Kantine, Gastronomie, Hauswirtschaft oder Reinigung mit. Sorgfalt & Hygienebewusstsein: Du arbeitest gewissenhaft und achtest konsequent auf die Einhaltung aller Hygienevorschriften. Serviceorientierung & Kommunikation: Du überzeugst durch eine ausgeprägte Serviceorientierung und kommunizierst sicher und freundlich auf Deutsch. Unsere Benefits auf einen Blick: Kurzer Freitag sowie Brücken- und Ausgleichstage Urlaubsgeld Fahrgeldzuschuss Vermögenswirksame Leistungen Eine Unfallversicherung Interessante Angebote zur Weiterbildung Flexible Benefit-Auswahl z. B. ÖPNV-Zuschuss, Unterstützung bei Kinderbetreuung, Urlaubszuschuss oder Business Bike Zuschuss Mitarbeiterrabatte über Corporate Benefits Wir freuen uns auf Dich!",
+      "locations": [
+        "Bad Heilbrunn, Bayern, DE"
+      ],
+      "employment_type": "PART_TIME",
+      "remote": "",
+      "employer": "Bad Heilbrunner Naturheilmittel GmbH & Co. KG",
+      "date_posted": "2026-09-25",
+      "valid_through": "2026-11-30",
+      "reference": null,
+      "extraction": "schema_org_jobposting",
+      "source_url": "https://hermes-group-jobs.de/Mitarbeiter-Kantine-Hausservice-mwd-de-j1717.html",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:07:10.537073+00:00",
+      "id": "462392acb4e6c3205b93",
+      "company_key": "HERMES PHARMA"
+    },
+    {
+      "title": "Pharmawerker / Produktionsmitarbeiter (m/w/d)",
+      "url": "https://hermes-group-jobs.de/Pharmawerker-Produktionsmitarbeiter-mwd-de-j1699.html",
+      "description": "Wer wir sind: HERMES PHARMA ist DER Experte für die Entwicklung und Herstellung von anwenderfreundlichen oralen Darreichungsformen . Als CDMO bieten wir maßgeschneiderte Services entlang der gesamten pharmazeutischen Wertschöpfungskette, von der Entwicklung neuer Produkte, über die Galenik bis zur Herstellung und Zulassung. Seit über 40 Jahren vertrauen führende Gesundheitsunternehmen auf der ganzen Welt auf HERMES PHARMA, um ihre Produktlinien zu erweitern und Marken zu stärken. Zur Verstärkung unseres Teams suchen wir zum nächstmöglichen Zeitpunkt einen Pharmawerker / Produktionsmitarbeiter (m/w/d) am Standort Wolfratshausen in Vollzeit (37,5 Stunden/Woche) im Schichtbetrieb. Deine Aufgaben: Einwaage: Mitarbeit im Produktionsbereich der Einwaage und Unterstützung des täglichen Produktionsablaufs. Rohstoffhandling: Einwaage und ordnungsgemäße Überführung pulverförmiger Rohstoffe aus Sack- und Trommelware in die vorgesehenen Edelstahlbehälter. Qualitätsstandards: Arbeiten nach den geltenden Hygiene-, Qualitäts- und Herstellungsvorschriften für Arzneimittel und Nahrungsergänzungsmittel. Dokumentation: Sorgfältige Dokumentation der durchgeführten Arbeitsschritte nach den geltenden Vorgaben. Schichtbetrieb: Tätigkeit im pharmazeutischen Hygienebereich im Zwei-Schicht-Betrieb. Dein Profil: Erfahrung: Erste Erfahrung in der Produktion oder im Lebensmittelbereich, zum Beispiel als Bäcker, Metzger oder in einer vergleichbaren Tätigkeit, von Vorteil. Persönlichkeit: Du arbeitest gerne im Team, bist zuverlässig und gehst deine Aufgaben selbstständig und gewissenhaft an. Einsatzbereitschaft: Du packst gerne mit an und hast Freude an praktischen Tätigkeiten im Produktionsumfeld. Sprachkenntnisse: Du verfügst über gute Deutschkenntnisse in Wort und Schrift. Unsere Benefits auf einen Blick: Eine unbefristete Festanstellung in Vollzeit 30 Tage Urlaub sowie Brücken- und Ausgleichstage Eine attraktive Bezahlung Eine freiwillige arbeitgeberfinanzierte Altersvorsorge Eine Unfallversicherung Eine subventionierte Kantine Eine gute Work-Life Balance durch ein wöchentlich wechselndes Schichtsystem Flexible Benefit-Auswahl z. B. ÖPNV-Zuschuss, Unterstützung bei Kinderbetreuung, Urlaubszuschuss oder Business Bike Zuschuss Wir freuen uns auf Dich!",
+      "locations": [
+        "Wolfratshausen, Bayern, DE"
+      ],
+      "employment_type": "FULL_TIME",
+      "remote": "",
+      "employer": "HERMES PHARMA GmbH",
+      "date_posted": "2026-11-01",
+      "valid_through": "2026-12-01",
+      "reference": null,
+      "extraction": "schema_org_jobposting",
+      "source_url": "https://hermes-group-jobs.de/Pharmawerker-Produktionsmitarbeiter-mwd-de-j1699.html",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:07:11.053498+00:00",
+      "id": "c79b12660ce7d9c90e77",
+      "company_key": "HERMES PHARMA"
+    },
+    {
+      "title": "Produktionshelfer (m/w/d)",
+      "url": "https://hermes-group-jobs.de/Produktionshelfer-mwd-de-j1732.html",
+      "description": "HERMES PHARMA ist DER Experte für die Entwicklung und Herstellung von anwenderfreundlichen oralen Darreichungsformen. Als CDMO bieten wir maßgeschneiderte Services entlang der gesamten pharmazeutischen Wertschöpfungskette, von der Entwicklung neuer Produkte, über die Galenik bis zur Herstellung und Zulassung. Seit über 40 Jahren vertrauen führende Gesundheitsunternehmen auf der ganzen Welt auf HERMES PHARMA, um ihre Produktlinien zu erweitern und Marken zu stärken. Zur Verstärkung unseres Teams suchen wir zum nächstmöglichen Zeitpunkt einen Produktionshelfer (m/w/d) am Standort Wolfratshausen in Vollzeit (37,5 Stunden/Woche) im Schichtbetrieb. Deine Aufgaben: Schichtarbeit: Mitarbeit im pharmazeutischen Hygienebereich im wöchentlich wechselnden Schichtbetrieb. Maschinenbetrieb: Unterstützung des Maschinenführers beim Betrieb von Verpackungsmaschinen und -linien. Materialversorgung: Bestückung der Einzelmaschinen mit Produktionsmaterialien für einen reibungslosen Ablauf. Warenhandling: Abnahme der fertigen Waren am Ende der Linie und Verpackung auf Paletten. Reinigung: Regelmäßige Reinigung von Anlagen und Anlagenteilen. Qualitätssicherung: Sicherstellung einer konstant hohen Produktqualität bei allen Arbeitsschritten. Dein Profil: Berufserfahrung: Erfahrung im Produktionsbereich von Vorteil, jedoch keine Voraussetzung – Quereinsteiger willkommen (z. B. aus Handel, Lebensmittelbranche) Technisches Verständnis: Gutes technisches Grundverständnis erforderlich Arbeitsweise: Arbeiten im Takt der Linie problemlos möglich Selbstständigkeit & Zuverlässigkeit: Strukturierte, eigenständige Arbeitsweise mit höchster Zuverlässigkeit und Einhaltung hoher Hygienestandards Teamfähigkeit: Ausgeprägte Teamfähigkeit auch unter Belastung Sprachkenntnisse: Sehr gute Deutschkenntnisse in Wort und Schrift Unsere Benefits auf einen Blick: Eine unbefristete Festanstellung in Vollzeit 30 Tage Urlaub sowie Brücken- und Ausgleichstage Eine attraktive Bezahlung Eine freiwillige arbeitgeberfinanzierte Altersvorsorge Eine Unfallversicherung Eine subventionierte Kantine Eine gute Work-Life Balance durch ein wöchentlich wechselndes Schichtsystem Flexible Benefit-Auswahl z. B. ÖPNV-Zuschuss, Unterstützung bei Kinderbetreuung, Urlaubszuschuss oder Business Bike Zuschuss",
+      "locations": [
+        "Wolfratshausen, Bayern, DE"
+      ],
+      "employment_type": "FULL_TIME",
+      "remote": "",
+      "employer": "HERMES PHARMA GmbH",
+      "date_posted": "2026-11-09",
+      "valid_through": "2026-12-31",
+      "reference": null,
+      "extraction": "schema_org_jobposting",
+      "source_url": "https://hermes-group-jobs.de/Produktionshelfer-mwd-de-j1732.html",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:07:11.558659+00:00",
+      "id": "37b67f89d227ec6c9eec",
+      "company_key": "HERMES PHARMA"
+    },
+    {
+      "title": "Produktionsleiter (m/w/d)",
+      "url": "https://hermes-group-jobs.de/Produktionsleiter-mwd-de-j1720.html",
+      "description": "Wer wir sind: Als Teil der HERMES Group und des Produktionsnetzwerks von HERMES PHARMA stehen wir als Abtswinder Naturheilmittel GmbH & Co. KG seit 1982 für die Herstellung hochwertiger Arzneitees und Naturprodukte. Dabei bringen wir langjährige Erfahrung und umfassendes Know-how in der Herstellung unserer Produkte ein. Qualität und Produktsicherheit stehen für uns dabei an erster Stelle. Werde Teil unseres Teams am Standort Abtswind als Produktionsleiter (m/w/d). Wir bieten dir eine unbefristete Festanstellung in Vollzeit (38,5 Std./Woche) in einem motivierten Team, das sich auf deine Unterstützung freut. Deine Aufgaben: Anlagenbetrieb: Sicherstellung des störungsfreien Betriebs von Großserien-Abfüll- und Verpackungsanlagen im Hygieneumfeld. Versorgungssicherheit: Gewährleistung einer termingerechten Marktversorgung unter Berücksichtigung von Anlagen- und Kosteneffizienz. Ressourcensteuerung: Planung und Steuerung des Personal- und Materialeinsatzes zur optimalen Auslastung der Produktionskapazitäten. Qualitätsstandards: Einhaltung und Weiterentwicklung von Hygiene-, GMP- und Qualitätsanforderungen. Optimierung: Initiierung und Umsetzung von Maßnahmen zur kontinuierlichen Verbesserung von Prozessen, Qualität und Produktivität. Zusammenarbeit: Aktive Kooperation im Managementteam sowie enge Abstimmung mit den Bereichen Qualität, Technik und Logistik. Dein Profil: Qualifikation: Abgeschlossene Ausbildung oder Studium im Bereich Pharma- oder Lebensmitteltechnik, alternativ Weiterbildung zum Techniker (m/w/d) in einem relevanten Fachgebiet. Führungserfahrung: Mehrjährige Berufserfahrung als Produktionsleiter (m/w/d), idealerweise mindestens fünf Jahre in einer vergleichbaren Funktion. Branchenwissen: Fundierte Kenntnisse im Pharma- oder Lebensmittelumfeld sowie Erfahrung in regulierten Hygiene- und Produktionsbereichen. Technisches Verständnis: Betreibererfahrung von Großserien-Abfüll- und Verpackungsanlagen sowie grundlegende Kenntnisse der Steuerungs- und Prozesstechnik Persönlichkeit: Ausgeprägte Führungs- und Umsetzungskompetenz, Durchsetzungsstärke, Belastbarkeit sowie eine hohe Team- und Kommunikationsfähigkeit. Unsere Benefits auf einen Blick: Sicherheit und eine unbefristete Arbeitsstelle mit einer 38,5-Stunden-Woche Innovation mit moderner Technik und Produktionsanlagen Zukunftsperspektive und faire Vergütung mit Urlaubs- und Weihnachtsgeld, Mitarbeitervorteilsprogramm Zusatzleistungen wie Vermögenswirksame Leistungen, Direktversicherung als Altersvorsorge, eine Gruppenunfallversicherung, Corporate Benefits und Flexible Benefit-Auswahl z. B. ÖPNV-Zuschuss, Unterstützung bei Kinderbetreuung, Urlaubszuschuss oder Business Bike Zuschuss",
+      "locations": [
+        "Abtswind, Bayern, DE"
+      ],
+      "employment_type": "FULL_TIME",
+      "remote": "",
+      "employer": "Abtswinder Naturheilmittel GmbH & Co. KG",
+      "date_posted": "2026-10-01",
+      "valid_through": "2027-01-31",
+      "reference": null,
+      "extraction": "schema_org_jobposting",
+      "source_url": "https://hermes-group-jobs.de/Produktionsleiter-mwd-de-j1720.html",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:07:12.028904+00:00",
+      "id": "a3bb6ad48c43afb8ccee",
+      "company_key": "HERMES PHARMA"
+    },
+    {
+      "title": "Projektmanager Drug Regulatory Affairs (m/w/d)",
+      "url": "https://hermes-group-jobs.de/Projektmanager-Drug-Regulatory-Affairs-mwd-de-j1721.html",
+      "description": "Wer wir sind: HERMES PHARMA ist DER Experte für die Entwicklung und Herstellung von anwenderfreundlichen oralen Darreichungsformen. Als CDMO bieten wir maßgeschneiderte Services entlang der gesamten pharmazeutischen Wertschöpfungskette, von der Entwicklung neuer Produkte über die Galenik bis zur Herstellung und Zulassung. Seit über 40 Jahren vertrauen führende Gesundheitsunternehmen auf der ganzen Welt auf HERMES PHARMA, um ihre Produktlinien zu erweitern und Marken zu stärken. Für unseren Standort in Pullach bei München suchen wir zum nächstmöglichen Zeitpunkt einen Projektmanager Drug Regulatory Affairs (m/w/d) . Die Stelle ist befristet als Elternzeitvertretung und in Vollzeit (37,5 Std. / Woche) zu besetzen. Deine Aufgaben: Projektbetreuung: Betreuung und Koordination von Zulassungsprojekten für Arzneimittel. Dokumentation: Erstellung und Pflege der Zulassungsdokumentation mit Schwerpunkt auf Modul 3. Verfahrensmanagement: Eigenverantwortliche Planung, Steuerung und Realisierung von Zulassungsverfahren. Strategieentwicklung: Erarbeitung und Weiterentwicklung regulatorischer Strategien für Arzneimittelprojekte. Dein Profil: Studium: Erfolgreich abgeschlossenes pharmazeutisches oder naturwissenschaftliches Studium. Berufserfahrung: Fundierte Berufserfahrung im Bereich Regulatory Affairs, insbesondere in der Erstellung und Betreuung von Zulassungsdokumentationen sowie der Begleitung von Zulassungsverfahren für Arzneimittel. IT-Kenntnisse: Erfahrung im Umgang mit einer eCTD-Software sowie idealerweise erste praktische Berührungspunkte mit KI-Anwendungen. Persönlichkeit & Arbeitsweise: Sorgfältige, strukturierte und zuverlässige Arbeitsweise kombiniert mit analytischem Denkvermögen, Eigeninitiative und einer ausgeprägten Kommunikationsstärke. Sprachen: Sehr gute Deutschkenntnisse sowie sichere Kommunikation in englischer Sprache. Unsere Benefits auf einen Blick: 37,5-Stunden-Woche mit Gleitzeit 30 Tage Urlaub + Fenster-/Brückentageregelung Subventionierte Kantine Flexible Homeoffice-Regelung Vermögenswirksame Leistungen Freiwillige arbeitgeberfinanzierte Altersvorsorge & Unfallversicherung Interessante Angebote zur Weiterbildung Flexible Benefit-Auswahl Wir freuen uns auf Dich!",
+      "locations": [
+        "Pullach, Bayern, DE"
+      ],
+      "employment_type": "FULL_TIME",
+      "remote": "",
+      "employer": "HERMES PHARMA GmbH",
+      "date_posted": "2026-10-02",
+      "valid_through": "2027-01-31",
+      "reference": null,
+      "extraction": "schema_org_jobposting",
+      "source_url": "https://hermes-group-jobs.de/Projektmanager-Drug-Regulatory-Affairs-mwd-de-j1721.html",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:07:12.521771+00:00",
+      "id": "a2fb9ed16428baf71ab5",
+      "company_key": "HERMES PHARMA"
+    },
+    {
+      "title": "Standortleiter (m/w/d)",
+      "url": "https://hermes-group-jobs.de/Standortleiter-mwd-de-j1724.html",
+      "description": "Wer wir sind: Als Teil der HERMES Group und des Produktionsnetzwerks von HERMES PHARMA stehen wir als Abtswinder Naturheilmittel GmbH & Co. KG seit 1982 für die Herstellung hochwertiger Arzneitees und Naturprodukte. Dabei bringen wir langjährige Erfahrung und umfassendes Know-how in der Herstellung unserer Produkte ein. Qualität und Produktsicherheit stehen für uns dabei an erster Stelle. Werde Teil unseres Teams am StandortAbtswind als Standortleiter (m/w/d). Wir bieten dir eine unbefristete Festanstellung in Vollzeit (38,5 Std./Woche) in einem motivierten Team, das sich auf deine Unterstützung freut. Deine Aufgaben: Standortverantwortung: Ganzheitliche operative Steuerung des Produktionsstandorts mit Verantwortung für Produktion, Technik, Logistik und Qualität sowie für einen stabilen, leistungsfähigen und verlässlichen Standortbetrieb. Operative Exzellenz: Sicherstellung stabiler, effizienter und qualitativ hochwertiger Produktionsabläufe sowie kontinuierliche Verbesserung der Standortperformance anhand relevanter Kennzahlen wie OEE, OTIF und Quality Metrics. Dabei werden operative Entscheidungen klar getroffen, priorisiert und konsequent umgesetzt. Wirtschaftlichkeit & Compliance: Verantwortung für Budget, Investitionen und die wirtschaftliche Performance des Standorts bei gleichzeitiger Sicherstellung regulatorischer Anforderungen sowie einer hohen Audit- und Inspektionsfähigkeit. Kontinuierliche Weiterentwicklung: Gezielte Weiterentwicklung und Optimierung bestehender Prozesse und Strukturen, beispielsweise in den Bereichen Ausbau, Skalierung, Integration und Automatisierung, mit klarem Fokus auf die Anforderungen und die Leistungsfähigkeit des operativen Betriebs. Führung & Zusammenarbeit: Führung und Weiterentwicklung der Organisation mit hoher Präsenz am Shopfloor. Im Mittelpunkt stehen eine klare und verbindliche Führung, vertrauensvolle Zusammenarbeit auf Augenhöhe sowie die Befähigung von Mitarbeitenden und Führungskräften, Verantwortung zu übernehmen und Entscheidungen in ihrem jeweiligen Bereich zu treffen. Die eigene Vorbildfunktion und ein glaubwürdiges Vorleben vereinbarter Standards prägen dabei die Führungskultur. Enge Zusammenarbeit mit dem Leiter Operations und der Geschäftsführung der HERMES Pharma sowie den zentralen Group-Funktionen. Dein Profil: Branchenerfahrung: Mehrjährige Berufs- und Führungserfahrung in der pharmazeutischen Produktion oder der Lebensmittelindustrie oder einem vergleichbaren regulierten Produktionsumfeld, beispielsweise in der Medizinprodukte- oder Kosmetikindustrie. Kenntnisse im Bereich pflanzlicher Arzneimittel oder Arzneitees sind von Vorteil. Produktionskompetenz: Fundierte Erfahrung in der Steuerung komplexer Produktionsstandorte und ein ausgeprägtes Verständnis für operative, technische und qualitative Prozesse in einem automatisierten Produktionsumfeld. Ein sicherer Blick für stabile Abläufe und die Anforderungen des operativen Tagesgeschäfts ist dabei besonders wichtig. Operational Excellence: Ausgeprägtes Verständnis für kennzahlenbasierte Produktionssteuerung sowie praktische Erfahrung mit Shop-Floor-Management, Lean-Prinzipien oder Operational-Excellence-Ansätzen. Leadership & Entscheidungsstärke: Mehrjährige Führungserfahrung, idealerweise in größeren Organisationseinheiten, verbunden mit der Fähigkeit, auch in anspruchsvollen Situationen klare Entscheidungen zu treffen, Orientierung zu geben und Verantwortung zu übernehmen. Ein wertschätzendes Führungsverständnis auf Augenhöhe sowie die Fähigkeit, Mitarbeitende und Führungskräfte zu befähigen und weiterzuentwickeln, prägen das Profil. Umsetzungsorientierung: Ausgeprägte Ergebnis- und Umsetzungsorientierung, hohe Kommunikations- und Integrationsfähigkeit sowie eine strukturierte, belastbare und verbindliche Arbeitsweise. Unsere Benefits auf einen Blick: Sicherheit und eine unbefristete Arbeitsstelle mit einer 38,5-Stunden-Woche Innovation mit moderner Technik und Produktionsanlagen Zukunftsperspektive und faire Vergütung mit Urlaubs- und Weihnachtsgeld, Mitarbeitervorteilsprogramm Zusatzleistungen wie Vermögenswirksame Leistungen, Direktversicherung als Altersvorsorge, eine Gruppenunfallversicherung, Corporate Benefits und Flexible Benefit-Auswahl z. B. ÖPNV-Zuschuss, Unterstützung bei Kinderbetreuung, Urlaubszuschuss oder Business Bike Zuschuss",
+      "locations": [
+        "Abtswind, Bayern, DE"
+      ],
+      "employment_type": "FULL_TIME",
+      "remote": "",
+      "employer": "Abtswinder Naturheilmittel GmbH & Co. KG",
+      "date_posted": "2026-10-22",
+      "valid_through": "2027-01-31",
+      "reference": null,
+      "extraction": "schema_org_jobposting",
+      "source_url": "https://hermes-group-jobs.de/Standortleiter-mwd-de-j1724.html",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:07:13.031951+00:00",
+      "id": "d8dc6273cd7711b4bce3",
+      "company_key": "HERMES PHARMA"
+    },
+    {
+      "title": "Teamleiter Elektrik (m/w/d)",
+      "url": "https://hermes-group-jobs.de/Teamleiter-Elektrik-mwd-de-j1693.html",
+      "description": "Wer wir sind: HERMES PHARMA ist DER Experte für die Entwicklung und Herstellung von anwenderfreundlichen oralen Darreichungsformen . Als CDMO bieten wir maßgeschneiderte Services entlang der gesamten pharmazeutischen Wertschöpfungskette, von der Entwicklung neuer Produkte, über die Galenik bis zur Herstellung und Zulassung. Seit über 40 Jahren vertrauen führende Gesundheitsunternehmen auf der ganzen Welt auf HERMES PHARMA, um ihre Produktlinien zu erweitern und Marken zu stärken. Zur Verstärkung unseres Teams suchen wir zum nächstmöglichen Zeitpunkt einen Teamleiter Elektrik (m/w/d) am Standort Wolfratshausen in Vollzeit (37,5 Stunden/Woche) . Deine Aufgaben: Führung & Teamentwicklung: Fachliche und disziplinarische Führung des sechsköpfigen Elektrotechnik-Teams. Einsatzplanung, Einarbeitung und Weiterentwicklung der Mitarbeitenden sowie Durchführung von Mitarbeitergesprächen und Leistungsbeurteilungen. Anlagenverfügbarkeit & Instandhaltung: Sicherstellung der sicheren, zuverlässigen und GMP-konformen Verfügbarkeit aller elektrischen Anlagen und Systeme im Produktionsbereich. Planung und Koordination von Wartungen, Inspektionen und Reparaturen sowie Sicherstellung der Ersatzteilversorgung. Störungsanalyse & Optimierung: Analyse von Störungen an den Produktionsanlagen, Ermittlung der Ursachen sowie Umsetzung und Nachverfolgung geeigneter Verbesserungsmaßnahmen zur Steigerung der Anlagenverfügbarkeit. Compliance & Dokumentation: Sicherstellung der Einhaltung von Arbeitssicherheitsvorschriften als verantwortliche Elektrofachkraft, der GMP-Anforderungen sowie aller relevanten gesetzlichen Vorgaben. Erstellung, Pflege und Prüfung der erforderlichen GMP-Dokumentation, Bearbeitung von Änderungsverfahren und Abweichungen sowie Unterstützung bei Audits und Inspektionen. Projekte & Anlagenoptimierung: Mitwirkung und (Teil-)Projektleitung bei der Planung, Installation und Inbetriebnahme neuer Produktionsanlagen. Entwicklung und Umsetzung von Maßnahmen zur Optimierung der Produktionsanlagen sowie Weiterentwicklung der Automatisierung zur Steigerung von Effizienz und Anlagenverfügbarkeit. Dein Profil: Ausbildung & Erfahrung: Abgeschlossene Ausbildung im Bereich Elektrotechnik mit Weiterbildung zum Elektrotechnikermeister (m/w/d), Industriemeister Elektrotechnik (m/w/d) oder einer vergleichbaren Qualifikation. Mehrjährige Berufserfahrung in der Instandhaltung von Produktionsanlagen, idealerweise im GMP-regulierten Umfeld. Führungskompetenz: Erfahrung in der fachlichen und/oder disziplinarischen Führung von Mitarbeitenden sowie in der Organisation und Weiterentwicklung eines Teams. Projektmanagement: Erfahrung in der Planung und Umsetzung technischer Projekte, Investitionsmaßnahmen und Anlagenumbauten. Strukturierte Arbeitsweise sowie Fähigkeit, mehrere Aufgaben und Projekte gleichzeitig zu koordinieren. IT-Kenntnisse: Sicherer Umgang mit dem PC sowie Erfahrung mit Instandhaltungs-, Dokumentations- und ERP-Systemen. Arbeitsweise: Selbstständige und verantwortungsbewusste Arbeitsweise sowie ausgeprägte Problemlösungskompetenz, Durchsetzungsvermögen und Teamfähigkeit. Fachkompetenz: Fundierte Kenntnisse in Elektrotechnik, Instandhaltung und Fehleranalyse sowie ein gutes Verständnis für Arbeitssicherheits-, Qualitätsmanagement- und regulatorische Anforderungen. Sprachen: Sehr gute Deutschkenntnisse in Wort und Schrift sowie idealerweise gute Englischkenntnisse. Unsere Benefits auf einen Blick: Eine unbefristete Festanstellung in Vollzeit 30 Tage Urlaub Eine attraktive Bezahlung Eine freiwillige arbeitgeberfinanzierte Altersvorsorge Eine Unfallversicherung Eine subventionierte Kantine Eine gute Work-Life Balance Flexible Benefit-Auswahl z. B. ÖPNV-Zuschuss, Unterstützung bei Kinderbetreuung, Urlaubszuschuss oder Business Bike Zuschuss Wir freuen uns auf Dich! #TeamHERMES #TeamHERMES",
+      "locations": [
+        "Wolfratshausen, Bayern, DE"
+      ],
+      "employment_type": "FULL_TIME",
+      "remote": "",
+      "employer": "HERMES PHARMA GmbH",
+      "date_posted": "2026-11-01",
+      "valid_through": "2026-12-01",
+      "reference": null,
+      "extraction": "schema_org_jobposting",
+      "source_url": "https://hermes-group-jobs.de/Teamleiter-Elektrik-mwd-de-j1693.html",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:07:13.547242+00:00",
+      "id": "b39c0949dfed7081f900",
+      "company_key": "HERMES PHARMA"
+    },
+    {
+      "title": "Workday Specialist (m/w/d)",
+      "url": "https://hermes-group-jobs.de/Workday-Specialist-mwd-de-j1726.html",
+      "description": "Wer wir sind: Die HERMES Arzneimittel Holding ist eine Unternehmensgruppe unter dem Dach der Johannes Burges Familienstiftung und setzt sich, mit rund 1.000 Mitarbeitenden, aus den Firmen HERMES ARZNEIMITTEL, HERMES PHARMA und Bad Heilbrunner zusammen. Sie alle vereint ein hoher Qualitätsanspruch bei der Entwicklung, Zulassung, Fertigung und dem Vertrieb von Produkten im Pharma- und Gesundheitsmarkt. Seit 1907 steht dabei die Gesundheit der Menschen im Mittelpunkt unserer Arbeit. Wir suchen einen engagierten und erfahrenen Fachexperten (m/w/d) für unsere HR-Abteilung, der die Verantwortung für die Konfiguration, Weiterentwicklung und den Betrieb unseres Workday HR-Systems übernimmt. Als Workday Specialist (m/w/d) bist du die zentrale Ansprechperson für alle technischen und operativen Fragen rund um HCM und stellst die optimale Nutzung und Weiterentwicklung des Systems sicher. Deine Aufgaben: Konfiguration und Systemmanagement Anpassung und Optimierung von ausgewählten Workday-Modulen. Implementierung und Pflege von Geschäftsprozessen, Workflows und Systemkonfigurationen gemäß den Anforderungen der Fachabteilungen. Weiterentwicklung und Prozessoptimierung Analyse von Anforderungen aus der HR-Abteilung und anderen Fachbereichen. Planung und Umsetzung neuer Workday-Funktionalitäten und -Module. Entwicklung und Implementierung effizienter HR-Prozesse in Workday. Mitwirkung bei Rollouts und Systemerweiterungen. First Level Support Unterstützung der HR-Teams bei Systemfragen und Problemen. Fehlersuche, Analyse und Lösung in Zusammenarbeit mit dem IT-Support und externen Partnern. Erstellung und Pflege von Nutzerhandbüchern sowie Durchführung von Schulungen für Endnutzer. Systembetrieb und Schnittstellenmanagement Überwachung und Sicherstellung des reibungslosen Systembetriebs. Koordination von System-Updates, Tests und Release-Management. Zusammenarbeit mit internen IT-Abteilungen und externen Dienstleistern zur Pflege und Optimierung von Schnittstellen zu anderen Systemen (z. B. Payroll, Finanzsysteme). Berichtswesen und Monitoring Erstellung und Pflege von Berichten, Dashboards und Analysen in Workday. Überprüfung der Datenqualität und Sicherstellung der Datenintegrität. Dein Profil: Qualifikation: Abgeschlossenes Studium im Bereich Wirtschaftsinformatik, Betriebswirtschaftslehre, Personalmanagement oder eine vergleichbare Qualifikation. Berufserfahrung: Mehrjährige Erfahrung in der Konfiguration und Betreuung von Workday HR oder vergleichbaren HR-Systemen. Workday-Kenntnisse: Fundierte Kenntnisse in mindestens zwei der Workday-Module (z. B. Core Compensation, Time Tracking, Absence, Learning, Help, Recruiting). Prozess- und Systemkompetenz: Erfahrung in der Prozessgestaltung und -optimierung im HR-Bereich sowie technisches Verständnis und Fähigkeit zur Fehleranalyse in komplexen Systemen. Arbeitsweise: Hohe Serviceorientierung sowie ausgeprägte Kommunikations- und Problemlösungsfähigkeiten. Unsere Benefits auf einen Blick: 37,5-Stunden-Woche mit Gleitzeit 30 Tage Urlaub + Fenster-/Brückentageregelung Kurzer Freitag Subventionierte Kantine Flexible Homeoffice-Regelung Vermögenswirksame Leistungen Freiwillige arbeitgeberfinanzierte Altersvorsorge & Unfallversicherung Interessante Angebote zur Weiterbildung Flexible Benefit-Auswahl z. B. ÖPNV-Zuschuss, Unterstützung bei Kinderbetreuung, Urlaubszuschuss oder Business Bike Zuschuss Wir freuen uns auf Dich! #TeamHERMES            #TeamHERMES",
+      "locations": [
+        "Pullach, Bayern, DE"
+      ],
+      "employment_type": "FULL_TIME",
+      "remote": "",
+      "employer": "HERMES Arzneimittel Holding GmbH",
+      "date_posted": "2026-10-27",
+      "valid_through": "2027-01-31",
+      "reference": null,
+      "extraction": "schema_org_jobposting",
+      "source_url": "https://hermes-group-jobs.de/Workday-Specialist-mwd-de-j1726.html",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:07:14.040419+00:00",
+      "id": "27028e7ff78c1f1439f4",
+      "company_key": "HERMES PHARMA"
+    }
+  ],
+  "pages": [
+    {
+      "url": "https://www.hermes-pharma.com/",
+      "final_url": "https://www.hermes-pharma.com/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.hermes-pharma.com/jobs-careers/",
+      "final_url": "https://www.hermes-pharma.com/jobs-careers/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.hermes-pharma.com/de/jobs-karriere/",
+      "final_url": "https://www.hermes-pharma.com/de/jobs-karriere/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://hermes-group-jobs.de/stellenangebote.html",
+      "final_url": "https://hermes-group-jobs.de/stellenangebote.html",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://hermes-group-jobs.de/initiativ-bewerbung-deutschland-de-j55.html",
+      "final_url": "https://hermes-group-jobs.de/initiativ-bewerbung-deutschland-de-j55.html",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "http://hermes-group-jobs.de/initiativ-bewerbung-oesterreich-de-j986.html",
+      "final_url": "https://hermes-group-jobs.de/initiativ-bewerbung-oesterreich-de-j986.html",
+      "redirects": [
+        {
+          "source": "http://hermes-group-jobs.de/initiativ-bewerbung-oesterreich-de-j986.html",
+          "target": "https://hermes-group-jobs.de/initiativ-bewerbung-oesterreich-de-j986.html",
+          "status": 301
+        }
+      ],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://hermes-group-jobs.de/AI-Engineer-mwd-de-j1725.html",
+      "final_url": "https://hermes-group-jobs.de/AI-Engineer-mwd-de-j1725.html",
+      "redirects": [],
+      "jobs_found": 1,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://hermes-group-jobs.de/Anlagenmechaniker-SHK-mwd-de-j1718.html",
+      "final_url": "https://hermes-group-jobs.de/Anlagenmechaniker-SHK-mwd-de-j1718.html",
+      "redirects": [],
+      "jobs_found": 1,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://hermes-group-jobs.de/Data-Analytics-Engineer-mwd-de-j1702.html",
+      "final_url": "https://hermes-group-jobs.de/Data-Analytics-Engineer-mwd-de-j1702.html",
+      "redirects": [],
+      "jobs_found": 1,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://hermes-group-jobs.de/Elektriker-mwd-de-j1694.html",
+      "final_url": "https://hermes-group-jobs.de/Elektriker-mwd-de-j1694.html",
+      "redirects": [],
+      "jobs_found": 1,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://hermes-group-jobs.de/Elektroniker-mwd-de-j1687.html",
+      "final_url": "https://hermes-group-jobs.de/Elektroniker-mwd-de-j1687.html",
+      "redirects": [],
+      "jobs_found": 1,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://hermes-group-jobs.de/Haustechniker-mwd-de-j1733.html",
+      "final_url": "https://hermes-group-jobs.de/Haustechniker-mwd-de-j1733.html",
+      "redirects": [],
+      "jobs_found": 1,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://hermes-group-jobs.de/Head-of-IT-Applications-mwd-de-j1728.html",
+      "final_url": "https://hermes-group-jobs.de/Head-of-IT-Applications-mwd-de-j1728.html",
+      "redirects": [],
+      "jobs_found": 1,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://hermes-group-jobs.de/Maschinen-und-Anlagenfuehrer-mwd-de-j1730.html",
+      "final_url": "https://hermes-group-jobs.de/Maschinen-und-Anlagenfuehrer-mwd-de-j1730.html",
+      "redirects": [],
+      "jobs_found": 1,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://hermes-group-jobs.de/Mechatroniker-Industriemechaniker-mwd-de-j1691.html",
+      "final_url": "https://hermes-group-jobs.de/Mechatroniker-Industriemechaniker-mwd-de-j1691.html",
+      "redirects": [],
+      "jobs_found": 1,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://hermes-group-jobs.de/Mechatroniker-Industriemechaniker-Produktionstechniker-mwd-de-j1727.html",
+      "final_url": "https://hermes-group-jobs.de/Mechatroniker-Industriemechaniker-Produktionstechniker-mwd-de-j1727.html",
+      "redirects": [],
+      "jobs_found": 1,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://hermes-group-jobs.de/Mitarbeiter-Kantine-Hausservice-mwd-de-j1717.html",
+      "final_url": "https://hermes-group-jobs.de/Mitarbeiter-Kantine-Hausservice-mwd-de-j1717.html",
+      "redirects": [],
+      "jobs_found": 1,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://hermes-group-jobs.de/Pharmawerker-Produktionsmitarbeiter-mwd-de-j1699.html",
+      "final_url": "https://hermes-group-jobs.de/Pharmawerker-Produktionsmitarbeiter-mwd-de-j1699.html",
+      "redirects": [],
+      "jobs_found": 1,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://hermes-group-jobs.de/Produktionshelfer-mwd-de-j1732.html",
+      "final_url": "https://hermes-group-jobs.de/Produktionshelfer-mwd-de-j1732.html",
+      "redirects": [],
+      "jobs_found": 1,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://hermes-group-jobs.de/Produktionsleiter-mwd-de-j1720.html",
+      "final_url": "https://hermes-group-jobs.de/Produktionsleiter-mwd-de-j1720.html",
+      "redirects": [],
+      "jobs_found": 1,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://hermes-group-jobs.de/Projektmanager-Drug-Regulatory-Affairs-mwd-de-j1721.html",
+      "final_url": "https://hermes-group-jobs.de/Projektmanager-Drug-Regulatory-Affairs-mwd-de-j1721.html",
+      "redirects": [],
+      "jobs_found": 1,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://hermes-group-jobs.de/Standortleiter-mwd-de-j1724.html",
+      "final_url": "https://hermes-group-jobs.de/Standortleiter-mwd-de-j1724.html",
+      "redirects": [],
+      "jobs_found": 1,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://hermes-group-jobs.de/Teamleiter-Elektrik-mwd-de-j1693.html",
+      "final_url": "https://hermes-group-jobs.de/Teamleiter-Elektrik-mwd-de-j1693.html",
+      "redirects": [],
+      "jobs_found": 1,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://hermes-group-jobs.de/Workday-Specialist-mwd-de-j1726.html",
+      "final_url": "https://hermes-group-jobs.de/Workday-Specialist-mwd-de-j1726.html",
+      "redirects": [],
+      "jobs_found": 1,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://hermes-holding.group/en/careers/benefits",
+      "final_url": "https://hermes-holding.group/en/careers/benefits",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://hermes-holding.group/en/careers/faqs",
+      "final_url": "https://hermes-holding.group/en/careers/faqs",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://hermes-holding.group/karriere/benefits",
+      "final_url": "https://hermes-holding.group/karriere/benefits",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://hermes-holding.group/karriere/faqs",
+      "final_url": "https://hermes-holding.group/karriere/faqs",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://hermes-holding.group/karriere",
+      "final_url": "https://hermes-holding.group/karriere",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://hermes-group-jobs.de/jobalert.html",
+      "final_url": "https://hermes-group-jobs.de/jobalert.html",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://hermes-group-jobs.de/",
+      "final_url": "https://hermes-group-jobs.de/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://hermes-holding.group/en/careers",
+      "final_url": "https://hermes-holding.group/en/careers",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://hermes-holding.group/en/careers/young-talents",
+      "final_url": "https://hermes-holding.group/en/careers/young-talents",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://hermes-holding.group/en/careers/junior-professionals",
+      "final_url": "https://hermes-holding.group/en/careers/junior-professionals",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://hermes-holding.group/en/careers/professionals",
+      "final_url": "https://hermes-holding.group/en/careers/professionals",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://hermes-holding.group/karriere/young-talents",
+      "final_url": "https://hermes-holding.group/karriere/young-talents",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://hermes-holding.group/karriere/junior-professionals",
+      "final_url": "https://hermes-holding.group/karriere/junior-professionals",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://hermes-holding.group/karriere/professionals",
+      "final_url": "https://hermes-holding.group/karriere/professionals",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://hermes-holding.group/storys/bad-heilbrunner/karrierewege-in-der-hermes-group",
+      "final_url": "https://hermes-holding.group/storys/bad-heilbrunner/karrierewege-in-der-hermes-group",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    }
+  ],
+  "errors": [],
+  "excluded": [
+    {
+      "url": "https://hermes-group-jobs.de/initiativ-bewerbung-deutschland-de-j55.html",
+      "title": "HERMES JobAgent",
+      "reason": "general_application"
+    },
+    {
+      "url": "https://hermes-group-jobs.de/initiativ-bewerbung-oesterreich-de-j986.html",
+      "title": "Initiativbewerbung",
+      "reason": "general_application"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hermes-pharma.com/",
+      "linked_from": null,
+      "mechanism": "configured"
+    },
+    {
+      "url": "https://hermes-group-jobs.de/stellenangebote.html",
+      "linked_from": "https://www.hermes-pharma.com/jobs-careers/",
+      "mechanism": "employer_link"
+    },
+    {
+      "url": "https://hermes-holding.group/en/careers/benefits",
+      "linked_from": "https://www.hermes-pharma.com/jobs-careers/",
+      "mechanism": "employer_link"
+    },
+    {
+      "url": "https://hermes-group-jobs.de/initiativ-bewerbung-oesterreich-de-j986.html",
+      "linked_from": "http://hermes-group-jobs.de/initiativ-bewerbung-oesterreich-de-j986.html",
+      "mechanism": "http_redirect"
+    }
+  ],
+  "adapter_attempts": [],
+  "coverage": {
+    "scope": "configured_sites_and_linked_career_portals",
+    "complete": true,
+    "pending_pages": 0,
+    "page_limit_reached": false,
+    "job_limit_reached": false,
+    "request_limit_reached": false,
+    "pages_attempted": 39,
+    "pages_read": 39,
+    "dynamic_or_unparsed_pages": false,
+    "http": {
+      "requests_attempted": 45,
+      "allocated_requests": 340,
+      "cache_hits": 0
+    }
+  },
+  "pending_urls": [],
+  "jobs_before_keyword_filter": 18
+}

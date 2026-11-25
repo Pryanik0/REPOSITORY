@@ -1,0 +1,9 @@
+{
+  "url": "https://bmedx.com/robots.txt",
+  "final_url": "https://bmedx.com/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "fetched_at": "2026-11-25T16:37:36.538653+00:00",
+  "text": "User-agent: *\nDisallow: /wp-admin/\nAllow: /wp-admin/admin-ajax.php\n\nSitemap: https://bmedx.com/wp-sitemap.xml\n"
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=AB6ADvyBeIhye5vYL7tLLNUen_6jPvMKv6x5htwRxu4k8RSVNddpCcwULk6boH6yZSJJUBO5Yt4kEsvzn9b0G3otT91GS0z1h8rtEUAiE1vbI-VH4r_c50Z7aPr6eqLc_4IHBEqlgUTss5NkYW7HfS011gkp7_rrNX8cNHte8MFF_4cq65gIgFWlBtRUEB9SR9WDGMle86cbRdM-IvBziWRZzxK4tKT8RTcrp9pfL3GhmK3k",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\N-RNBERGER-Versicherungsgruppe-4237d53f\\finanzberichte\\publication-1\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\N-RNBERGER-Versicherungsgruppe-4237d53f\\finanzberichte\\publication-1\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\N-RNBERGER-Versicherungsgruppe-4237d53f\\finanzberichte\\publication-1\\publication.txt",
+    "index": 1,
+    "category": "finanzberichte",
+    "company": "NÜRNBERGER Beteiligungs-AG, Nürnberg",
+    "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+    "documents_path": "output\\unternehmensregister\\N-RNBERGER-Versicherungsgruppe-4237d53f\\finanzberichte\\publication-1\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=so336eMgxU-pnxHnhJgcE9AefP1L9qOoBuL0K7fOZzz_kNArhcEnviB92RT8RXOn21zstd7ZzE--RWOO7F3b6Z_FN-qnCFkxBHyojXIUTppa9rVBtV0vb8cgLbAg1OmwoD2YDQiPZDWFMNC7vQ9etzVLz4JdWdwFQgn21z0ASGmkOHaSCbBGwX2SElAGXJeqov9q8aYq4nJuNl_egIgk6tHWgybKHq4WABYRd62hzQF09vhU",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\N-RNBERGER-Versicherungsgruppe-4237d53f\\finanzberichte\\publication-2\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\N-RNBERGER-Versicherungsgruppe-4237d53f\\finanzberichte\\publication-2\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\N-RNBERGER-Versicherungsgruppe-4237d53f\\finanzberichte\\publication-2\\publication.txt",
+    "index": 2,
+    "category": "finanzberichte",
+    "company": "NÜRNBERGER Beteiligungs-AG, Nürnberg",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+    "documents_path": "output\\unternehmensregister\\N-RNBERGER-Versicherungsgruppe-4237d53f\\finanzberichte\\publication-2\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=-x0iii-wA_eKOMVqrJWdEkb8DiQZ6EUpUL61ZMDNZAXFRjUStGuoIXyrPeTVogueRd0MKh2BnWSHZ03IzkGT0kNv-arMt6q5hs74k7H5-zsrSZxuuz6vLQ7X52qlGai2WFhE0R8sz3GujLsPnqcTGVsdOLFCuBg1w-tgWqwcVX56Xsm8GVHAJybvHxCNUxHGBpuWZajkUYQ4R1iYfsXcv0wTDlfc9cqz4ugYCOX5f4JS-Zf-",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\N-RNBERGER-Versicherungsgruppe-4237d53f\\finanzberichte\\publication-25\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\N-RNBERGER-Versicherungsgruppe-4237d53f\\finanzberichte\\publication-25\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\N-RNBERGER-Versicherungsgruppe-4237d53f\\finanzberichte\\publication-25\\publication.txt",
+    "index": 25,
+    "category": "finanzberichte",
+    "company": "NÜRNBERGER Beteiligungs-AG, Nürnberg",
+    "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+    "documents_path": "output\\unternehmensregister\\N-RNBERGER-Versicherungsgruppe-4237d53f\\finanzberichte\\publication-25\\documents.json"
+  }
+]

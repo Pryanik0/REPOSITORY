@@ -1,0 +1,9 @@
+{
+  "url": "https://boards-api.greenhouse.io/robots.txt",
+  "final_url": "https://boards-api.greenhouse.io/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/plain",
+  "fetched_at": "2026-11-25T16:02:26.323677+00:00",
+  "text": "# See http://www.robotstxt.org/robotstxt.html for documentation on how to use the robots.txt file\n\nUser-agent: *\nDisallow: /embed/\n"
+}

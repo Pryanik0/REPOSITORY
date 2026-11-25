@@ -1,0 +1,108 @@
+{
+  "provider": "gewerkschaften",
+  "status": "partial",
+  "company": {
+    "key": "MAC IT-Solutions",
+    "name": "MAC IT-Solutions GmbH",
+    "location": "Flensburg",
+    "name_source": "company_name",
+    "urls": [
+      "https://www.mac-its.com/"
+    ],
+    "kununu_url": "https://www.kununu.com/de/mac-it-solutions1",
+    "branches": [
+      "IT & Telekommunikation"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "24941",
+    "street": "Lise-Meitner-Straße 14",
+    "region": "Schleswig-Holstein",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "relevance": "company_mention",
+  "date_from": "2026-05-25",
+  "date_to": "2026-11-25",
+  "search_terms": [
+    "MAC IT-Solutions",
+    "MAC IT-Solutions GmbH"
+  ],
+  "truncated": true,
+  "associations": [
+    {
+      "name": "IG Metall",
+      "status": "partial",
+      "manifest": "output\\gewerkschaften\\_sites\\IG-Metall-5a6ca4e6\\manifest.json",
+      "phase": "primary",
+      "fallback_reason": null,
+      "search_mode": "feeds_and_links",
+      "searches": []
+    },
+    {
+      "name": "ver.di",
+      "status": "partial",
+      "manifest": "output\\gewerkschaften\\_sites\\ver-di-51994702\\manifest.json",
+      "phase": "primary",
+      "fallback_reason": null,
+      "search_mode": "site_search",
+      "searches": [
+        {
+          "url": "https://www.verdi.de/suche?q=MAC+IT-Solutions",
+          "company_key": "MAC IT-Solutions",
+          "query": "MAC IT-Solutions",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=MAC+IT-Solutions+GmbH",
+          "company_key": "MAC IT-Solutions",
+          "query": "MAC IT-Solutions GmbH",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        }
+      ]
+    },
+    {
+      "name": "DGB",
+      "status": "partial",
+      "manifest": "output\\gewerkschaften\\_sites\\DGB-df3cffd4\\fallback\\manifest.json",
+      "phase": "fallback",
+      "fallback_reason": "no_primary_articles",
+      "search_mode": "site_search",
+      "searches": [
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=MAC+IT-Solutions",
+          "company_key": "MAC IT-Solutions",
+          "query": "MAC IT-Solutions",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=MAC+IT-Solutions+GmbH",
+          "company_key": "MAC IT-Solutions",
+          "query": "MAC IT-Solutions GmbH",
+          "mechanism": "get_form",
+          "status": "fetched"
+        }
+      ]
+    }
+  ],
+  "article_count": 0,
+  "articles": [],
+  "pdfs": {
+    "download_policy": "company_in_link_metadata_or_filename",
+    "downloaded_on_sources": 0,
+    "mentioning_company": 0,
+    "retained_as_articles": 0,
+    "index_path": null
+  },
+  "search_coverage": {
+    "fetched": 4,
+    "error": 0,
+    "not_attempted": 0,
+    "ignored_query": 0,
+    "sites_without_search": 1
+  },
+  "reason": "search_incomplete"
+}

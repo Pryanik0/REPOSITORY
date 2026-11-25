@@ -1,0 +1,827 @@
+SPIE comcross GmbH (vormals: comcross GmbH) — Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024
+SPIE comcross GmbH
+(vormals: comcross GmbH)
+
+Leonberg
+
+Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024
+
+Lagebericht für das Geschäftsjahr 2024
+
+I. Darstellung des Geschäftsverlaufes
+
+1. Entwicklung der Gesamtwirtschaft und Branche
+
+1.1 Ökonomische Rahmenbedingungen und weltwirtschaftliche Entwicklung
+
+Die Weltwirtschaft zeigte sich im Geschäftsjahr 2024 trotz anhaltender geopolitischer Spannungen und hoher Inflationsraten widerstandsfähig. Das globale BIP-Wachstum belief sich auf 3,2 %. 1 Während die USA positive Wachstumsimpulse verzeichneten, war im Euroraum eine Abschwächung zu beobachten. In den USA erfolgte das Lohnwachstum im Einklang mit Produktivitätssteigerungen, während im Euroraum ein Anstieg der Lohnstückkosten die Produktivitätsgewinne überstieg. 2
+
+Unterbrechungen in den Rohstofflieferketten, insbesondere im Ölsektor, sowie extreme Wetterereignisse beeinträchtigten maßgeblich die wirtschaftliche Entwicklung im Nahen Osten, in Zentralasien und in der Subsahara-Region. Gleichzeitig stimulierte eine hohe Nachfrage nach Halbleitern und Elektronik - bedingt durch signifikante Investitionen in künstliche Intelligenz in Südostasien - das globale Wirtschaftswachstum. Die Gesamtinflationsrate sank auf 5,7 %. 3 Während sich die Preise für Güter stabilisierten, blieben die Dienstleistungspreise unter Druck. 4
+
+Die Wirtschaft im Euroraum entwickelte sich leicht positiv, mit einem BIP-Wachstum von 0,8 %. Begünstigt wurde diese Entwicklung durch eine Lockerung der restriktiven Geldpolitik sowie rückläufige Rohstoffpreise. Die Inflation lag bei 2,4 %. 5
+
+Die deutsche Wirtschaft stagnierte und verzeichnet einen Rückgang des BIP um 0,2 % 6. Wesentliche Belastungsfaktoren waren eine anhaltend hohe Unsicherheit, strukturelle Herausforderungen sowie ein Rückgang der Exporte um 0,8 % 7. Insbesondere aufgrund der Preisentwicklung im Dienstleistungsbereich und bei Nahrungsmitteln ergab sich eine Inflationsrate von 2,2 % 8. 9 Die anhaltende gesamtwirtschaftliche Stagnation spiegelte sich auch auf dem Arbeitsmarkt wider. Die Erwerbstätigkeit nahm im Jahresdurchschnitt um 0,2 % zu, wobei diese Entwicklung primär auf Überhangeffekte aus 2023 zurückzuführen ist. Die Investitionstätigkeit der Unternehmen war rückläufig. Gründe hierfür sind eine rückläufige Industrieproduktion, hohe Zinsen sowie geopolitischer Unsicherheiten. 10 Im Vergleich zum Vorjahr waren Investitionen in den nicht staatlichen Sektor des Baugewerbes mit 4,3 % und des Maschinen-, Geräte und Fahrzeugbereichs mit 6,5 % rückläufig. Dagegen stiegen die Investitionen in den nicht staatlichen Sektor der sonstigen Anlagen um 4,5 %, wobei der Bereich Forschung & Entwicklung diese positive Entwicklung wesentlich beeinflusste. 11
+
+1.2 Entwicklung der Branche
+
+Die SPIE comcross GmbH, Leonberg (comcross), ist Teil der SPIE Telco Infrastructure GmbH, Düsseldorf (SPIE Telco) und ergänzt seit April 2024 das Portfolio der SPIE Germany Switzerland Austria GmbH, Düsseldorf (SPIE GSA), im Bereich Telekommunikationsinfrastruktur. Im Bereich Mobilfunk ist die comcross ein Turn-Key Lösungsanbieter und bietet ortsfeste und mobile Lösungen im Bereich Mobilfunk-Festnetz und Mastbau. Die Leistungen erstrecken sich vom Design und der Planung / Genehmigung bis hin zur Montage und Inbetriebnahme, sowohl im Bereich Neu- als auch Umbau, Modernisierung sowie auch Rückbau.
+
+Der Gesamtmarkt für Informations- und Telekommunikation zeigte sich in einem schwierigen, konjunkturellen Umfeld weiterhin robust. Die Branche konnte im Vergleich zum Vorjahr im Jahr 2024 ein 3,3 %-iges Wachstum auf 222,6 Mrd. EUR ausweisen. Damit entwickelte sich die Digitalwirtschaft deutlich besser als die Gesamtwirtschaft und zeigte sich stabil im Krisen-beeinflussten Umfeld. 12 Der Teilmarkt Informationstechnik weist einen Jahresumsatz von 149,7 Mrd. EUR aus und zeigte sich bei einem Jahresplus von 4,4 % stabil. Etwas zurückhaltender entwickelte sich der Telekommunikationsmarkt, der im Vergleich zum Vorjahr um 1,0 % auf 73,0 Mrd. EUR wuchs. 13 Der positive Trend spiegelt sich auch in der Zahl der Beschäftigten in der ITK-Branche wider. So arbeiteten 2024 knapp 1,34 Mio. Menschen in diesem Marktsegment, das waren 9.000 mehr als im Jahr zuvor. 14
+
+Nach dem der Digitalisierungsfortschritt 2023 stagnierte, wurde die deutsche Wirtschaft im Jahr 2024 deutlich digitaler. Trotz der anhaltenden Krisensituationen wie der geopolitischen Konflikte, hohen Energiepreise, gestörten Lieferketten, Inflation und genereller Unsicherheit steigerten deutsche Unternehmen ihre Digitalisierungsaktivitäten. Der Digitalisierungsindex stieg auf 113,6 Punkte, im Vergleich zum Vorjahr (108,1 Punkte). Branchen-Spitzenreiter bei der Digitalisierung waren die ITK-Branche (285,1 Indexpunkte) sowie Elektrotechnik, Maschinen- und Fahrzeugbau (160,4 Punkte, + 5,6 Punkte vs. 2023). Den stärksten Digitalisierungszuwachs verzeichneten unternehmensnahe Dienstleister (plus 6,5 Punkte) sowie die Branchengruppe Grundstoffe, Chemie und Pharma (+ 6,4 Punkte). 15 2024 war ein dynamisches Jahr für die Künstliche Intelligenz (KI). Die Nutzung künstlicher Intelligenz ist um 8 % gestiegen, so dass 2024 jedes fünfte Unternehmen KI nutzte, wobei vor allem große Unternehmer KI nutzten. 16
+
+Das Bundesministerium für Digitales und Verkehr (BMDV) stellte im Rahmen der Gigabitförderung 2.0 im Jahr 2024 2 Mrd. EUR für den flächendeckenden Glasfaserausbau bereit. 17 Im September 2024 lagen die Gesamtinvestitionen für den Glasfaser- und Mobilfunkausbau bei 13,2 Mrd. EUR. 18 Im ersten Halbjahr 2024 lag die Glasfaserausbauquote bei 43,2 % und zeigte somit ein Wachstum von 15 % innerhalb eines Jahres. 19 Auch der Ausbau des besonders leistungsfähigen 5G-Stand-Alone-Mobilfunks kam 2024 gut voran. Die Mobilfunknetzabdeckung lag im Oktober bei rund 93 %. 20
+
+Ausweislich der von der Bundesnetzagentur veröffentlichten „Teilnehmerentwicklung im Mobilfunk“ konnte im dritten Quartal 2024 ein weiterer Anstieg der Teilnehmer auf etwa 198 Millionen Mobilfunkanschlüsse verzeichnet werden, was eine Steigerung um rund 18 Millionen in Vergleich zum dritten Quartal im Vorjahr darstellt. 21
+
+Zusammenfassend stellen sich die von der comcross adressierten Märkte als attraktiv dar und weisen für die Zukunft ein großes Potenzial auf.
+
+2. Darstellung der Gesellschaft
+
+2.1 Aufstellung comcross GmbH
+
+Die comcross ist ein Generaldienstleister für die Errichtung von Netzinfrastrukturen in Mobil- und Festnetzen mit starkem Fokus auf die 5G-Technologie. Das Unternehmen ist ein wichtiger Partner der Telekommunikationsanbieter und deckt an neun Standorten in Deutschland sowie Präsenz in Kroatien die gesamte Wertschöpfungskette von Mobilfunklösungen ab. Durchschnittlich 338 Beschäftigte erwirtschafteten 2024 einen Umsatz von Mio. EUR 73,0.
+
+Durch ihr umfangreiches Leistungsspektrum und ihre Kompetenz hat comcross in der Telekommunikationsnetzoptimierung in den Bundesländern Baden-Württemberg, Hessen, Sachsen, Sachsen-Anhalt, Nordrhein-Westfalen und Bayern aus unserer Sicht eine bedeutende Position erworben.
+
+comcross plant, implementiert und optimiert leistungsfähige Kommunikationsinfrastrukturen in Funk- und Festnetzen. Das Leistungsspektrum umfasst Design, Planung, Genehmigung, Staging, Logistik, Montage, Inbetriebnahme und Integration. Dabei bietet comcross maßgeschneiderte Komponenten- sowie umfassende Gesamtlösungen für die Bereiche Telekommunikation, Verkehr und Energiewirtschaft an.
+
+Die alleinige Gesellschafterin der comcross ist die SPIE Telco Infrastructure GmbH, Leonberg, (SPIE Telco). Letztere ist im Handelsregister von Stuttgart unter der Nummer HRB 783567 eingetragen. Seit 2022 existiert zwischen der comcross und der Gesellschafterin ein Ergebnisabführungsvertrag.
+
+Die Gesellschafterin berät und überwacht die Geschäftsführung. Im Sinne einer langfristigen und werteorientierten Unternehmensführung werden die Leitlinien unternehmerischen Handelns festgelegt und verankert. Das Ziel beider ist die nachhaltige Steigerung des Unternehmenswertes der SPIE Telco und die Sicherstellung der gesellschaftlichen Akzeptanz für ihr unternehmerisches Handeln.
+
+2.2 Entwicklung der Gesellschaft
+
+a. Marktpositionierung
+
+Im deutschen Telekommunikationsmarkt positioniert sich comcross als bedeutender Partner für Netzbetreiber und Tower Companies beim Ausbau der digitalen Infrastruktur. Durch die Übernahme der Deutschen Funkbau GmbH im Jahr 2023 konnte comcross seine Kompetenzen im Bereich digitaler Infrastrukturen, insbesondere bei der Realisierung komplexer Campus-Netzwerke, weiter ausbauen. Mit der Integration in die SPIE TelCo Infrastructure GmbH stärkt comcross seine Marktposition und trägt gemeinsam mit Partnern bzw. Schwestergesellschaften wie DPE, Infratech und Schwan zum Ausbau leistungsfähiger Kommunikationsinfrastrukturen bei.
+
+b. Geschäftsentwicklung
+
+Die Geschäftsentwicklung der SPIE comcross GmbH konnte im Jahr 2024 nicht an das erfolgreiche Vorjahr anschließen. Maßgeblich hierfür war die stagnierende Nachfrage eines Hauptkunden, sowie rückläufige Abrufe von weiteren Kernkunden. Trotz der weiterhin stabilen Marktposition im Bereich der Mobilfunkinfrastruktur konnten die schwächeren Abrufvolumina nicht durch Neukundengeschäft kompensiert werden.
+
+Strategische Initiativen zur Diversifizierung des Kundenportfolios und zur Stärkung neuer Geschäftsfelder wurden im Berichtsjahr und folgend eingeleitet. Exemplarisch hervorzuheben sind dabei folgende Projekte:
+
+Im Jahr 2024 wurden die Rahmenverträge im Mobilfunk mit zwei Großkunden weiter segmentiert und verlängert. Die Segmentierung umfasst nun Verträge für den Mastbau, Dachneubau und Drittmarktnutzung vorhandener Standorte sowie für den Aufbau und Inbetriebnahme der aktiven Technik und des Umbaus vorhandener Standorte bzw. Neubau auf vorhandenen Masten Dritter. Diese Verträge ermöglichen den Start weiterer Folgeverträge bzw. Projekte.
+
+Unser Transmission-Bereich hat gemeinsam mit einem Kunden die Anbindung von Mobilfunksendeanlagen an ein Satelliten-Netzwerk adaptiert. Die Skalierbarkeit wird aktuell in einem Pilotprojekt mit einer Standortanzahl im höheren zweistelligen Bereich getestet.
+
+Für einen weiteren Kunden bauen wir im Osten Deutschlands ortsfeste Mobilfunkmaste zur Schließung der Funklöcher in überwiegend ländlichen Bereichen. Die Mastbautätigkeiten sollten aufgrund der Auflagen der Bundesnetzagentur an die Mobilfunknetzbetreiber im Rahmen aktuellen Verlängerung des Mobilfunkfrequenzen weiterhin von strategischer Bedeutung sein, da ab 2030 eine 99,5-prozentige Flächenversorgung mit mindestens 50 Mbit/s festgeschrieben ist.
+
+c. Vernetzung innerhalb des SPIE-Konzerns
+
+Vor dem Hintergrund des Erwerbs der ICG-Gruppe durch SPIE fanden und finden fortlaufende Integrationsprozesse, insbesondere in den Geschäftsbereich CNG (CityNetworks & Grids) statt.
+
+Als Unternehmen des SPIE-Konzerns kann comcross nun auf die gruppenweit angebotenen technologischen Kompetenzen und Erfahrungen zurückgreifen. Dies ermöglicht ihr, das gesamte Leistungsspektrum der Gruppe aus einer Hand anbieten und damit bestehende Kundenbeziehungen fortwährend erweitern zu können.
+
+3. Personalentwicklung
+
+Die Gesellschaft beschäftigte zum Stichtag 31. Dezember 2024 insgesamt 330 Mitarbeitende (Vorjahr: 319 Mitarbeitende).
+
+4. Struktur der Gesellschaft
+
+Die Gesellschaft hat folgende operative Einheiten:
+
+•
+
+Niederlassung Düsseldorf, Prinzenallee 11 40549 Düsseldorf
+
+•
+
+Niederlassung Leipzig, Im Mittelfeld 1, 04509 Krostitz
+
+•
+
+Niederlassung Leonberg, Hertichstraße 73/1, 71229 Leonberg
+
+•
+
+Niederlassung Nürnberg, Emmericher Str. 4, 90411 Nürnberg
+
+•
+
+Zentrallager Böblingen, Hanns-Klemm-Straße 24, 71034 Böblingen
+
+•
+
+Niederlassung Oberursel, In der Au 4, 61440 Oberursel (Taunus)
+
+•
+
+Niederlassung Quedlinburg, Wipertistr. 1a, 06484 Quedlinburg
+
+•
+
+Niederlassung Rosenheim, Gießereistr. 8, 83022 Rosenheim
+
+•
+
+Niederlassung Waldkraiburg, Gebrüder-Dickow-Straße 2 84478 Waldkraiburg
+
+II. Wirtschaftsbericht
+
+1. Finanzielle Leistungsindikatoren
+
+Die kontinuierliche Unternehmenssteuerung basiert im SPIE-Konzern maßgeblich auf folgenden finanziellen Leistungsindikatoren: Auftragseingang, Leistung, Ergebnis vor Steuern und Zinsen (EBIT) Working Capital und Liquiditätsentwicklung. Im Folgenden werden diese wesentlichen finanziellen Leistungsindikatoren näher ausgeführt sowie weitere inhaltliche Erläuterungen zur Vermögenslage gegeben.
+
+1.1 Auftragseingang
+
+Im Geschäftsjahr 2024 verzeichnete die comcross GmbH einen Auftragseingang von insgesamt Mio. EUR 83,0 (Vorjahr Mio. EUR 76,3). Dieser Anstieg im Vergleich zum Vorjahr ist vor allem auf Auftragsgewinne im Osten Deutschlands zurückzuführen. Das Auftragsvolumen unserer beiden Hauptkunden stieg leicht um 2 %.
+
+1.2 Leistung und Umsatz
+
+Die Leistung, bestehend aus Umsatzerlösen und Bestandsveränderungen (ohne sonstige betriebliche Erträge), sank von Mio. EUR 80,1 im Vorjahr auf Mio. EUR 68,9. Die Prognose für den abgeschlossenen Geschäftszeitraum basierte auf der Annahme einer moderaten Steigerung gegenüber dem Vorjahr. Tatsächlich blieb die Geschäftsentwicklung hinter den Erwartungen zurück, was im Wesentlichen auf einen spürbaren Nachfragerückgang im Mobilfunkbereich zurückzuführen ist. Marktbedingt zeigten sich sowohl Mobilfunkanbieter als auch Tower-Gesellschaften deutlich investitionszurückhaltend, was zu einem Rückgang an Projektvergaben und somit zu einem Mangel an Neugeschäft führte.
+
+Vor dem Hintergrund des Nachfragerückgangs blieb der vornehmlich im Inland generierte Umsatz von Mio. EUR 73,0 im Berichtsjahr gegenüber dem Vorjahr mit Mio. EUR 72,9 nahezu gleich. Die Geschäftsfelder entwickelten sich dabei leicht unterschiedlich. Während Civil Work und Richtfunk weitestgehend gleichblieben, konnte insb. der Mastbau ausgebaut werden, während sich der Tiefbau und die MGT-Aufstellung reduzierte.
+
+scroll
+
+	2024 TEUR	Vorjahr TEUR
+Civil Work	31.301	29.370
+Richtfunk	9.841	10.501
+Mastbau	6.097	3.511
+Festnetz	5.753	4.724
+Planung	5.634	5.660
+Mobilfunk Sonderprojekte	4.878	4.325
+Tiefbau	3.805	6.043
+MGT	1.942	4.890
+Wartung und Service	1.306	1.024
+MRT	1.290	1.011
+Consulting	937	615
+Sonstiges	234	1.215
+Gesamtergebnis	73.019	72.891
+
+1.3 Ergebnis vor Steuern und Zinsen (EBIT)
+
+Das Ergebnis vor Zinsen und Steuern belief sich im Jahr 2024 auf Mio. EUR -2,2 (Vorjahr: Mio. EUR 10,4). Damit verfehlte die Gesellschaft die für das Berichtsjahr prognostizierte Entwicklung. Die sonstigen betrieblichen Erträge stiegen von Mio. EUR 1,2 im Vorjahr auf Mio. EUR 1,5 im Jahr 2024.
+
+Der Rückgang der Leistung um Mio. EUR 11,3 konnte durch den ebenfalls verminderten Materialaufwand (um Mio. EUR 3,7) nicht kompensiert werden. Die Materialintensität stieg ggü. dem Vorjahr leicht um rund 3 % auf 53 %. Mit einem Anstieg der Mitarbeiterzahl stieg der Personalaufwand um Mio. EUR 2,2.
+
+Abschreibungen auf immaterielle Vermögensgegenstände und Sachanlagen betrugen im Jahr 2024 insgesamt TEUR 981 und lagen damit leicht über dem Vorjahreswert von TEUR 958. Es wurden zudem außerordentliche periodenfremde Abschreibungen auf Vorräte in Höhe von TEUR 1.417 realisiert.
+
+Die sonstigen betrieblichen Aufwendungen lagen mit einem Betrag von Mio. EUR 12 über dem Vorjahreswert von Mio. EUR 10,3. Ursächlich hierfür sind der Anstieg der Raumkosten durch eine neue Liegenschaft in Quedlinburg, der Anstieg der Inflation sowie die Umlage der SPIE TelCo Infrastructure GmbH.
+
+Das Finanzergebnis wurde durch Abschreibung von Finanzanlagen (Mio. EUR 1,0) und eines internen Darlehens (Mio. EUR 0,9) belastet.
+
+1.4 Vermögenslage
+
+Die Bilanzsumme erhöhte sich gegenüber dem Vorjahr um Mio. EUR 17,7 von Mio. EUR 34,2 auf Mio. EUR 51,8 im Berichtsjahr. Davon entfielen auf das Anlagevermögen Mio. EUR 4,7 (Vorjahr: Mio. EUR 5,2) und auf das Umlaufvermögen Mio. EUR 47,1(Vorjahr: Mio. EUR 28,9). Ausschlaggebend hierfür waren die aufgrund der Einstellung des Forderungsverkaufs stark gestiegenen Forderungen.
+
+Gründe für den niedrigeren Bestand der Vorräte liegen zum einen am Rückgang der Nachfrage, zum anderen in der verlustfreien Bewertung von Aufträgen.
+
+Das Working Capital, ermittelt als Saldo von Umlaufvermögen (ohne Guthaben bei Kreditinstituten und Kasse), kurzfristigen Rückstellungen und Verbindlichkeiten, betrug Mio. EUR 24,0 (Vorjahr: Mio. EUR 5,4). Das bereinigte Working Capital belief sich auf Mio. EUR 33,8 (Vorjahr: Mio. EUR 14,2).
+
+Zur Ermittlung des bereinigten Working Capital wurden die Forderung aus der Verlustübernahme durch die SPIE TelCo Infrastructure über Mio. EUR 5,8 (Vorjahr: Verbindlichkeit über Mio. EUR 8,9) und die Geldaufnahme im Cash-Pool der SPIE GSA von Mio. EUR 15,6 (Vorjahr: Mio. EUR 0) berücksichtigt.
+
+Abweichend von der für das Geschäftsjahr formulierten Prognose, die von einer leichten Verringerung ausgegangen war, ergab sich ein deutlicher Anstieg des bereinigten Working Capital. Ausschlaggebend hierfür waren im Wesentlichen die im Berichtsjahr gestiegenen Forderungen um Mio. EUR 26,9 bei gleichzeitiger Erhöhung der Verbindlichkeiten um Mio. EUR 17,8.
+
+Die Erhöhung der Bilanzsumme um Mio. EUR 17,7 bei gleichbleibendem Eigenkapital hat dazu geführt, dass sich die Eigenkapitalquote zum Bilanzstichtag auf 15,5 % (Vorjahr: 23,6 %) verringert hat. Die Rückstellungen sind mit Mio. EUR 2,7 auf Vorjahresniveau (Mio. EUR 2,7).
+
+Die Bilanzkennzahlen betreffend kann festgestellt werden, dass das Anlagevermögen unverändert zum Vorjahr vollständig durch Eigenkapital gedeckt und finanziert ist.
+
+1.5 Finanzlage
+
+Die Gesellschaft ist seit dem Geschäftsjahr 2024 in das Cashpooling der SPIE GSA eingebunden. Damit ist die Liquidität jederzeit gesichert. Das bestehende Bankdarlehen in Höhe von Mio. EUR 7,1 wurde durch Konzerndarlehen abgelöst und auf insgesamt Mio. EUR 21,1 aufgestockt. Aus dem Cashpooling ergeben sich Verbindlichkeiten in Höhe von Mio. EUR 15,6. Wie bereits angemerkt wurde ein bestehendes internes Darlehen über Mio. EUR 0,9 abgeschrieben. Die Liquidität, bestehend aus dem Kassenbestand und Guthaben bei Kreditinstituten, lag zum Bilanzstichtag 2024 mit Mio. EUR 0,5 um Mio. EUR 4,0 deutlich unter Vorjahresniveau (Mio. EUR 4,5). Diese Entwicklung resultierte vornehmlich aus der bereits erwähnten Einstellung des Forderungsverkaufs im Jahr 2024.
+
+1.6 Gesamtaussage zur wirtschaftlichen Entwicklung
+
+Vor dem Hintergrund der vorstehend beschriebenen Auftragslage, insbesondere im Bereich der mobilen Mobilfunklösungen, konnten die für das Geschäftsjahr 2024 prognostizierten Erwartungen nicht erreicht werden. Insgesamt wird die wirtschaftliche Entwicklung der Gesellschaft als optimierungswürdig beurteilt.
+
+2. Nichtfinanzielle Leistungsindikatoren
+
+2.1 Betriebszugehörigkeit
+
+Die Mitarbeitenden der comcross GmbH waren im Jahr 2024 durchschnittlich 3,2 Jahre beschäftigt. Für 2023 liegt keine Zahl vor. Die Fluktuation (Verhältnis der Austritte zum Personalanfangsbestand des Jahres) ist von 12,7 % im Vorjahr auf 17,6 % im Jahr 2024 gestiegen.
+
+2.2 Weiterbildung
+
+Neben den intern organisierten Weiterbildungsangeboten hat die comcross GmbH auch an externen Weiterbildungsangeboten teilgenommen, um die spezifischen Weiterbildungsbedarfe abzudecken. Wie zu erwarten, sind nach Beendigung der Corona-bedingten Restriktionen in den Vorjahren die Schulungsteilnahmen wieder angestiegen.
+
+Der Besuch von internen Weiterbildungsmaßnahmen lag im Jahr 2024 bei 408,3 Trainingstagen. Der Besuch von externen Seminaren lag 2024 bei 406,8 Trainingstagen. Für 2023 liegen keine Zahlen vor.
+
+Darüber hinaus wurden im Verlauf des Jahres 2024 interne Unterweisungen, Erste-Hilfe-Kurse, HSEQ-Kurzschulungen etc. konsequent auf- und umgesetzt und diverse verpflichtende E-Learning-Module für festgelegte Zielgruppen entwickelt und ins Leben gerufen.
+
+2.3 Ausbildung
+
+Zum Stichtag 31. Dezember 2024 beschäftigt die Gesellschaft 10 Auszubildende (Vorjahr: 7 Auszubildende) und erreicht damit einen Auszubildendenanteil von 3 % an der Gesamtbelegschaft (Vorjahr: 2,2 %).
+
+2.5 Arbeitssicherheit
+
+Übergeordnetes Ziel der comcross GmbH ist es, eine Arbeitsschutzkultur nachhaltig im Unternehmen - bei den Führungskräften und Mitarbeitenden - zu etablieren und zu verankern.
+
+Als Messgröße für die Arbeitssicherheit wird die Ereignishäufigkeitsrate (TRCFR = Total Recordable Cases Frequency Rate) herangezogen. Die Kennzahl errechnet sich aus der Summe der Ereignisse „Medical Treatments“ und „Lost Time Incidents“ bezogen auf eine Million Arbeitsstunden aller Mitarbeitenden - d.h. aller Mitarbeitenden der SPIE GSA-Gruppe und aller Mitarbeitenden, die im Zuge von Arbeitnehmerüberlassungen für die Gruppe tätig sind. Die Reduzierung der Ereignishäufigkeit hat einen positiven Einfluss auf die Kennzahl der SPIE GSA-Gruppe.
+
+Die Kennzahl der Gruppe hat sich für das Geschäftsjahr 2024 gegenüber dem Vorjahr signifikant verbessert und liegt bei 9,09 (Vorjahr: 10,53). Damit wurde die TRCFR im Vergleich zum Vorjahr um rund 13 % gesenkt. Insgesamt wurde die Ereignishäufigkeitsrate von Dezember 2014 bis Dezember 2024 um 59 % gesenkt. Die in den jeweiligen Zeiträumen der Berichterstattung in die Gruppe aufgenommenen Akquisitionen sind ab Zugehörigkeit zu SPIE in die Bildung der Kennzahl aufgenommen worden.
+
+Im Geschäftsjahr 2024 wurden zwölf „HSEQ für Führungskräfte“-Veranstaltungen mit 421 Teilnehmenden durchgeführt (HSEQ = Health, Safety, Environment, Quality). Um die HSEQ-Themen innerhalb des Unternehmens zu etablieren, lag der Fokus auf dem Trainieren der Führungskräfte. Diese sollen befähigt werden, HSE-relevante Maßnahmen zu entwickeln und in dem jeweiligen Verantwortungsbereich zu implementieren. Mit verschiedenen Veranstaltungen wurde das Know-how innerhalb der Organisation etabliert.
+
+Im Geschäftsjahr wurden zusätzlich zielgruppenorientierte Trainings angeboten und die Veranstaltungen um Praxisübungen, die in Kleingruppen durchgeführt wurden, ergänzt. Remoteveranstaltungen wurden im Rahmen der Qualifizierung und dem Erfahrungsaustausch von verantwortlichen Elektrofachkräften und befähigten Personen gemäß DGUV V3 zur Überprüfung ortsveränderlicher elektrischer Betriebsmittel durchgeführt. Grundlage war in allen Fällen ein großer Fundus an bebilderten Beispielen aus der Unternehmenspraxis.
+
+SPIE arbeitet kontinuierlich daran, die Arbeitssicherheit entlang des STOP-Prinzips (Substitution, technische, organisatorische und personenbezogene Maßnahmen) auszurichten.
+
+Im Bereich der neuen technischen Arbeitsmittel zur Verbesserung der Arbeitssicherheit werden neben Marktrecherchen auch Eigenentwicklungen mit Herstellern umgesetzt.
+
+Ein wichtiges Instrument zur Unterstützung aller Mitarbeitenden in der Fläche sowie der Führungskräfte sind die Hilfestellungen über eine arbeitstäglich zwölfstündig erreichbare Beratungshotline sowie einer Vielzahl von Remote- und Präsenzschulungen und Regelbesprechungen.
+
+III. Prognose, Chancen- und Risikobericht
+
+1. Erwartetes wirtschaftliches Umfeld
+
+1.1. Erwartete weltwirtschaftliche Entwicklung
+
+Für das Geschäftsjahr 2025 wird ein globales BIP-Wachstum von 3,3 % prognostiziert. Erwartete Leitzinssenkungen dürften die Investitionsbereitschaft der Unternehmen positiv beeinflussen. 22 Die weltweit rückläufige Inflation - prognostiziert mit 4,2 % 23 - wird voraussichtlich zur Stärkung der Realeinkommen privater Haushalte und damit zur Förderung des Konsums beitragen. 24 Gleichzeitig bestehen Risiken im Zusammenhang mit geopolitischen Spannungen sowie protektionistischen Maßnahmen großer Volkswirtschaften, die sich dämpfend auf das globale Wirtschaftswachstum auswirken könnten. 25
+
+Im Euroraum wird ein BIP-Wachstum von 1,3 % erwartet. Nach einem schwachen Vorjahr dürfte sich die Binnennachfrage aufgrund steigender Reallöhne, einer rückläufigen Inflationsrate und eines höheren verfügbaren Einkommens erholen. 26
+
+Die deutsche Wirtschaft wird voraussichtlich um 0,3 % wachsen. 27 Nach einer kurzzeitigen Erholung im Winterhalbjahr 2024/2025 wird eine konjunkturelle Abschwächung erwartet, bedingt durch protektionistische US-Handelspolitiken sowie eine rückläufige Konsumnachfrage. 28 Die Inflation dürfte sich auf 2,2 % 29 stabilisieren, wodurch sich positive Impulse für den Konsum ergeben. Gleichzeitig könnten angekündigte US-Zölle das Exportgeschäft belasten (-0,3 %) 30. Die vollständigen Auswirkungen dieser Maßnahmen werden sich jedoch voraussichtlich erst im Folgejahr zeigen. Dagegen wird erwartet, dass sinkende Zinsen die Investitionstätigkeit der Unternehmen begünstigen und damit einen positiven Beitrag zur wirtschaftlichen Entwicklung leisten. 31
+
+1.2. Erwartete Entwicklung der Branche
+
+Die BREKO Marktanalyse 2024 weist darauf hin, dass der eigenwirtschaftliche Glasfaserausbau trotz geopolitischer Unsicherheiten und hoher Inflation, wenn auch mit moderatem Tempo, weiter voranschreitet. Das Ziel, bis 2025 rund 50 % der Haushalte und Unternehmen mit Glasfaser zu versorgen, könnte erreicht werden. 32 Die Investitionen in die Telekommunikationsinfrastruktur durch die Netzbetreiber werden laut Bitkom um 3,5 %, auf 8 Mrd. EUR ansteigen. 33 Um den Plan der EU-Kommission zu erreichen, bis 2025 eine unterbrechungsfreie Abdeckung mit 5G in Städten und den wichtigsten Verkehrswegen sicherzustellen, wird der Netzausbau mit 5G auch 2025 weiter voran gehen. 34 Ende Oktober veröffentlichte die Bundesregierung gemeinsam mit den vier Netzbetreibern eine Absichtserklärung, Datenraten im Gigabit-Bereich entlang der Bahnstrecken zu ermöglichen („5G am Gleis“). Das Pilotprojekt auf der Strecke Berlin-Hamburg startet im Jahr 2025. 35 Der Branchenverband Bitkom prognostiziert für 2025 Investitionen von rund 2,2 Mrd. Euro in die mobile Netzinfrastruktur. Hinzu kommen dann noch die Ausgaben für Frequenzen, Gebäude und Bauarbeiten. 36
+
+Die Digitalbranche zeigt sich in einem unsicheren Marktumfeld sehr stabil. Der Digitalverband Bitkom erwartet für die Unternehmen der ITK-Branche im Jahr 2025 ein Umsatzwachstum von 4,6 % auf 233 Mrd. EUR. Für den Markt der Telekommunikation wird ein leichtes Wachstum um 1,8 % auf 74,3 Mrd. EUR vorhergesagt. 37 Im industriellen IoT-Markt wird im Jahr 2025 mit einem Plus von 12,4 % und somit einem Umsatzvolumen über 7,97 Mrd. € gerechnet. 38
+
+Zusammenfassend stellen sich die von der comcross GmbH adressierten Märkte, trotz eines wirtschaftlich schwierigen Marktumfelds, als attraktiv dar und weisen große Potenziale für ein künftiges Wachstum auf. Treibende Faktoren sind die zunehmende Digitalisierung und Vernetzung, der Durchbruch der KI in den Software-Anwendungen, das zunehmende Bedürfnis nach physischer und virtueller Sicherheit sowie die hohen Investitionen in Kommunikations- und Netzwerkinfrastrukturen in vielen Kundensegmenten.
+
+2. Finanzielle Leistungsindikatoren
+
+2.1 Auftragseingang
+
+Im Geschäftsjahr 2024 wurde ein Auftragseingang von Mio. EUR 83 erzielt. Für das Geschäftsjahr 2025 wird mit einem Auftragseingang auf Vorjahresniveau gerechnet.
+
+2.2 Leistung
+
+Für das Geschäftsjahr 2025 rechnet die Gesellschaft aufgrund der anhaltenden Herausforderungen im Mobilfunksegment mit einer Leistung auf Vorjahresniveau. Angesichts des aktuell noch immer konservativen Investitionsverhaltens seitens der Mobilfunknetzbetreiber und Tower-Gesellschaften ist kurzfristig nicht mit einer vollständigen Erholung der Nachfrage (Niveau 2023) zu rechnen. Der Markt ist weiterhin von Zurückhaltung bei der Vergabe neuer Projekte geprägt, was sich voraussichtlich dämpfend auf das Neugeschäft und die Umsatzentwicklung auswirken wird.
+
+Trotz dieser Rahmenbedingungen plant die Gesellschaft, ihre Marktposition durch Diversifikation der Leistungsschwerpunkte sowie eine stärkere Fokussierung auf zukunftsträchtige Infrastrukturprojekte - etwa im Bereich Festnetz, Glasfaserausbau oder private Campus-Netze - weiter zu stärken. Zudem wird erwartet, dass mittel- bis langfristig eine Belebung der Investitionstätigkeit im Zuge des Weiteren 5G-Rollouts eintritt, woraus sich neue Wachstumsimpulse ergeben könnten.
+
+2.3 Ergebnis vor Steuern und Zinsen (EBIT)
+
+Entgegen dem deutlichen Ergebnisrückgang vor Steuern und Zinsen (EBIT) im Geschäftsjahr 2024 im Vergleich zu 2023 erwartet die Gesellschaft für das kommende Wirtschaftsjahr eine positive Entwicklung, sodass wieder mit einem leicht positiven EBIT gerechnet wird. Diese Prognose basiert im Wesentlichen auf einer gefestigten Personalsituation, schrittweise optimierten Prozessabläufen sowie einer gezielten Fokussierung auf margenträchtige Kundenprojekte.
+
+2.4 Working Capital
+
+Ausgehend von einem bereinigten Working Capital zum Jahresabschluss 2024 in Höhe von Mio. EUR 33,8 wird für das Folgejahr eine leichte Reduzierung erwartet. Die erwartete Entwicklung ist im Wesentlichen auf eine Durchlaufzeitoptimierung bei den unfertigen Leistungen zurückzuführen.
+
+2.5 Liquiditäts-Entwicklung
+
+Zum Bilanzstichtag 2024 belief sich der Cash-Bestand auf Mio. EUR 0,5. Aufgrund der aktuell hohen Finanzierung aus Cash-Pool wird keine Veränderung des Cash-Bestandes erwartet.
+
+3. Nichtfinanzielle Leistungsindikatoren
+
+3.1 Betriebszugehörigkeit
+
+Die durchschnittliche Betriebszugehörigkeit betrug bei der comcross GmbH im Jahr 2024 3,2 Jahre. Es ist davon auszugehen, dass sich dieser Wert in den Folgejahren weiter verringern wird und neue Mitarbeitende, die in das Unternehmen eintreten werden, entsprechend einen Einfluss auf die Dauer der Unternehmenszugehörigkeit haben werden. Ebenso stehen die sog. geburtenstarken Jahrgänge in den kommenden 5 - 10 Jahren vor dem Eintritt in den Ruhestand. Dies wird somit insgesamt zu einer Verjüngung der Belegschaft und damit einhergehend zur Verringerung der Betriebszugehörigkeit führen.
+
+Die Gesamtfluktuation betrug im Berichtsjahr 17,6 % und ist im Vergleich zum Vorjahr 2023 angestiegen. Die gestiegene Fluktuation ist ein Fokusthema für die kommenden Jahre.
+
+Aufgrund des weiter zunehmendem Fachkräftemangel muss die Qualifizierung der Mitarbeitenden, verstärkt bei Eintritt in das Unternehmen, erfolgen. Auch Quereinsteigern sollen mit gezielten Einarbeitungsprogrammen befähigt werden.
+
+Trotz schnellem und effizientem Onboarding der Mitarbeitenden führt die Einstellung von geeigneten, aber auch zugleich branchenfremden Mitarbeitenden nicht immer zu einem dauerhaften Arbeitsverhältnis.
+
+3.2 Weiterbildung
+
+Für das Jahr 2025 werden steigende Weiterbildungskennzahlen erwartet. Durch die Personalbedarfe sowie die Einstellung von branchenfremdem Personal ergibt sich ein erhöhter Bedarf an entsprechenden Weiterbildungsangeboten. Ebenso wird die Stammbelegschaft weiter befähigt und ausgebildet. Für 2025 wird ein Schwerpunkt auf Schulungsangeboten im Bereich der Arbeitssicherheit, Cybersicherheit, Nachhaltigkeit, technischen Fortbildungen für Quereinsteiger sowie verpflichtender E-Learning-Module für festgelegte Zielgruppen liegen. Aber auch Methodik, Führung und persönliche Kompetenzen sind im Fokus. Es wird vermehrt die Möglichkeit von Weiterbildungsmaßnahmen im digitalen Format genutzt, bzw. werden Mischformen von Präsenz und digitalen Terminen gewählt, dies insbesondere mit Blick auf die Einsparung im Bereich Reise- und Energiekosten.
+
+3.3 Ausbildung
+
+Im Jahr 2024 konnte die Ausbildungsquote im Vergleich zum Vorjahr leicht gesteigert werden. Auch für das Jahr 2025 ist das Ziel die Auszubildendenzahl weiter signifikant zu steigern.
+
+Vor dem Hintergrund eines wachsenden Fachkräftemangels und in Wahrnehmung ihrer gesellschaftlichen Verantwortung setzt die comcross GmbH auf die betriebliche Ausbildung, die dazu dient, den eigenen Personalbedarf mit abzudecken. Es ist dabei Absicht des Unternehmens, dass neben dem Ziel, dass die Auszubildenden perspektivisch 10% der Gesamtbelegschaft stellen, darüber hinaus der Fokus noch stärker auf die geschäftsrelevanten Ausbildungsberufe gelegt wird. Ausgebildet wird aktuell primär in technischen und kaufmännischen Berufen in den eigenen Betriebsstätten.
+
+3.4 Arbeitssicherheit
+
+Fortlaufendes Ziel ist eine stetige Reduzierung der Ereignishäufigkeitsrate und damit der absoluten Anzahl der Ereignisse (MT und LTI). Um dieses Ziel zu erreichen, werden die bereits eingeführten Maßnahmen weitergeführt sowie weitere Maßnahmen und Arbeitsmittel implementiert, die das Bewusstsein erhöhen und damit eine Arbeitssicherheitskultur fördern.
+
+Als Ziel für die Senkung der Unfallhäufigkeit hat sich der Geschäftsleitungskreis auf eine Reduzierung der TRCFR individuell für jeden Geschäftsbereich festgelegt. Aus den individuellen Verbesserungen ergibt sich die Reduzierung der TRCFR für das gesamte Perimeter SPIE Germany Switzerland Austria.
+
+Im Jahr 2024 wurde gruppenweit ein Projekt zum sicheren Arbeiten in der Höhe durchgeführt. Im Rahmen dieses Projektes wurde das Arbeiten von Leitern aus grundsätzlich untersagt. Die Standardprozesse für Standardtätigkeiten in der Höhe wurden angepasst und Leiteralternativen ausgewählt und beschafft. Ein Arbeiten von Steh- und Anlegeleitern ist nur nach individueller Gefährdungsbeurteilung und Genehmigung durch die Führungskraft möglich. Der Tag der Arbeitssicherheit findet am bzw. um den internationalen Worker Memorial Day (jährlich am 28. April) statt.
+
+Um die Organisation bzgl. Arbeitssicherheit zu entwickeln, werden weiterhin Aktivitäten entlang der Prinzipien „Technische Maßnahmen und Einhaltung von Regeln“, „Managementsysteme und Führung“, „Umdenken und kultureller Wandel“ entfaltet. Ein besonderer Fokus liegt dabei darauf, gemeinsam mit den Mitarbeitenden vor Ort Lösungen für sicheres Arbeiten zu entwickeln.
+
+Besonderes Augenmerk liegt darauf, die Standardarbeitsprozesse auf die ausreichende Beschreibung von Arbeitssicherheitsaspekten zu analysieren und ggf. bedarfsgerecht zu ergänzen.
+
+4. Effiziente Organisation des Risikomanagements
+
+Die Risikopolitik der comcross GmbH ist eingebettet in die Risikopolitik der SPIE GSA Gruppe und darauf ausgerichtet, den Bestand der Gruppe und der Gesellschaft zu sichern sowie den Unternehmenswert kontinuierlich zu steigern.
+
+Für das Risikomanagement ist innerhalb der SPIE GSA Gruppe das Team Risikomanagement im Zentralbereich Governance mit folgenden wesentlichen Aufgaben verantwortlich:
+
+•
+
+Risikotransparenz (Erkennen - Dokumentieren - Steuern),
+
+•
+
+Standardisierung und Beschreibung von Prozessen,
+
+•
+
+Kontinuierliche Verbesserungsprozesse (KVP) und
+
+•
+
+Qualitätssicherung von Kundenaufträgen inkl. Projektaudits.
+
+Wesentlich für die Erreichung dieses Ziels ist die Steuerung der identifizierten Auftrags- und Absatzrisiken durch unternehmensinterne Standards und Freigabeprozesse. Die vereinheitlichten Freigabeprozesse und -grenzen werden in Abstimmung mit der Konzernführung kontinuierlich überprüft und nach Bedarf angepasst. Diese Anpassungen werden vom Team Risikomanagement durch Schulungen in allen Geschäftsbereichen und Tochtergesellschaften begleitet.
+
+Kunden- und Marktrisiken begegnen wir durch eine differenzierte Produkt- und Kundenstruktur sowie durch sorgfältige Kundenauswahl, kontinuierliche Überprüfungen der Bonität unserer Kunden und Lieferanten sowie durch effektives Debitoren- und Kreditorenmanagement einschließlich des Abschlusses einer Forderungsausfallversicherung für Risiken aus Insolvenz und Protected Default für ausgewählte Kunden.
+
+Die hohe Wettbewerbsintensität führt zu einem anhaltend hohen Margendruck, dem z.B. durch Realisierung von Synergieeffekten innerhalb der SPIE GSA Gruppe sowie eine konsequente Erweiterung der eigenen Wertschöpfungskette als Multitechnik-Anbieter begegnet wird.
+
+Risiken aus dem Ukraine-Krieg werden zum aktuellen Zeitpunkt nicht mehr gesehen. Sollten aus Kriegen Risiken entstehen, werden sie im Rahmen des Business Continuity Managements der SPIE GSA Gruppe analysiert, bewertet und bei Bedarf berücksichtigt.
+
+5. Chancen und Risiken der künftigen Entwicklung
+
+Die SPIE comcross GmbH sieht in der Stabilisierung und dem Ausbau der Geschäftsbeziehungen mit Bestandskunden eine wesentliche Chance für die zukünftige Entwicklung. Zudem eröffnen die steigenden Investitionen der Netzbetreiber in die Mobilfunkinfrastruktur neue Marktpotenziale, insbesondere im Bereich mobiler Lösungen wie Mobile Radio Trailer (MRT).
+
+Die flächendeckende Einführung von 5G-Technologie bietet weiteres Wachstumspotenzial, insbesondere für temporäre Netzlösungen. Durch die Optimierung interner Prozesse, eine effizientere Einkaufspolitik und gezielte Maßnahmen zur Kostensenkung kann die Wettbewerbsfähigkeit gestärkt werden. Darüber hinaus bleibt die Nachfrage nach temporären Mobilfunklösungen für Großveranstaltungen oder Netzengpässe ein stabiler Markt, in dem die comcross GmbH als erfahrener Partner positioniert ist.
+
+Der hohe Personalaufwand und der Fachkräftemangel stellen ein Risiko dar, das durch gezielte Personalbindung und optimierte Ressourcennutzung begegnet wird. Zudem können der zunehmende Wettbewerbsdruck sowie steigende Material- und Fremdleistungskosten die Profitabilität der Projektumsetzung zusätzlich belasten. Durch ein gezieltes strategisches Lieferantenmanagement wird versucht diese Effekte abzufedern, dennoch können sie sich spürbar auf die Ergebnislage auswirken. Der Verlust wichtiger Aufträge oder Großkunden bleibt ebenfalls ein Risiko, dem durch eine intensive Kundenbetreuung und regelmäßige Workshops zur frühzeitigen Optimierung der Zusammenarbeit entgegengewirkt wird. Schließlich könnten regulatorische oder technologische Veränderungen Anpassungen im Geschäftsmodell erfordern, weshalb eine kontinuierliche Marktbeobachtung und flexible Unternehmensstrategie essenziell bleiben.
+
+Die Gesellschaft ist seit dem Geschäftsjahr 2024 in das konzernweite Cash Pooling der SPIE GSA eingebunden. Dies ermöglicht eine zentrale Steuerung der Liquidität innerhalb des Konzerns. Durch die Teilnahme am Cash Pooling können sowohl Liquiditätsvorteile als auch Risiken im Hinblick auf eine konzerninterne finanzielle Abhängigkeit entstehen. Weiterhin ist für das Geschäftsjahr 2025 eine Verschmelzung der Gesellschaften Schwan GmbH und DPE Engineering GmbH auf die heutige Gesellschaft comcross GmbH vorgesehen. Der Vollzug der Verschmelzung ist zur Jahresmitte 2025 geplant. Bestandsgefährdende oder entwicklungsbeeinträchtigende Risiken werden für die comcross GmbH nicht gesehen.
+
+Leonberg, den 18. September 2025
+
+Vladimir Suznjevic, Geschäftsführer
+
+Daniela Theiner, Geschäftsführerin
+
+Alexander Fogel, Geschäftsführer
+
+1 Vgl. IMF (2025): World Economic Outlook, Update January 2025, S. 8.
+2 Vgl. IMF (2024): World Economic Outlook, Policy, Pivot, Rising Threats, S. 2.
+3 Vgl. IMF (2025): World Economic Outlook, Update January 2025, S.8.
+4 Vgl. IMF (2024): World Economic Outlook, Policy, Pivot, Rising Threats, S. xiv.
+5 Vgl. OECD (2024): Economic Outlook December 2024, S. 146 ff.
+6 Vgl. BMWK (2025): Ausgewählte Daten zur wirtschaftlichen Lage, S. 1.
+7 Vgl. BMWK (2025): Jahreswirtschaftsbericht 2025, S. 20 ff.
+8 Vgl. BMWK (2025): Ausgewählte Daten zur wirtschaftlichen Lage, S. 1.
+9 Vgl. DESTATIS (2025): Pressemitteilung: Inflationsrate im Jahr 2024 bei + 2,2 %, o.S.
+10 Vgl. Bundesagentur für Arbeit (2024): Blickpunkt Arbeitsmarkt, Dezember und Jahr 2024, S. 41.
+11 Vgl. DESTATIS (2025): Investitionen in Deutschland - eine Bestandsaufnahme, S. 14 ff.
+12 Vgl. Bitkom (2025): Lichtblick in der Rezession: Digitalbranche wächst um 4,6%, S. 1.
+13 Vgl. Bitkom (2024): ITK Marktzahlen, S. 1.
+14 Vgl. Bitkom (2024): Erwerbstätige in der ITK Branche, S. 1.
+15 Vgl. BMWK (2024): Digitalisierungsindex 2024 Kurzfassung, S. 1 ff.
+16 Vgl. DESTATIS (2024): Pressemitteilung - Jedes fünfte Unternehmen nutzt künstliche Intelligenz, o.S.
+17 Vgl. Brekoverband (2024a): Pressemeldung: Anpassung der Gigabitförderung führt zu schnellerem Glasfaserausbau, o.S.
+18 Vgl. Brekoverband (2024): Flächendeckende Glasfaserversorgung bis 2030 ohne klare politische Kurkorrektur nicht mehr erreichbar, o.S.
+19 Vgl. Brekoverband (2024b): BREKO Marktanalyse 2024, S. 11.
+20 Vgl. Bundesnetzagentur (2024): Monitoring Mobilfunk, S. 1.
+21 Vgl. Bundesnetzagentur (2024): Teilnehmerentwicklung im Mobilfunk, o.S.
+22 Vgl. OECD (2024): Economic Outlook December2024, S. 28.
+23 Vgl. IMF (2025): World Economic Outlook, Policy, Update January 2025, S. 8.
+24 Vgl OECD (2024): Economic Outlook December 2024, S. 28.
+25 Vgl. OECD (2024): Economic Outlook December 2024, S. 32 ff.
+26 Vgl. OECD (2024): Economic Outlook December 2024, S. 146 ff.
+27 Vgl. BMWK (2025): Jahreswirtschaftsbericht 2025, S. 21.
+28 Vgl. KfW-Research (2024): KfW-Konjunkturkompass November 2024, S. 1 ff.
+29 Vgl. BMWK (2025): Jahreswirtschaftsbericht 2025, S. 125.
+30 Vgl. BMWK (2025): Jahreswirtschaftsbericht 2025, S. 129.
+31 Vgl. KfW-Research (2024): KfW-Konjunkturkompass November 2024, S. 2.
+32 Vgl. Brekoverband (2024): BREKO Marktanalyse 2024, S. 4.
+33 Vgl. Bitkom (2025): Lichtblick in der Rezession: Digitalbranche wächst um 4,6 %, o.S.
+34 Vgl. EU-Kommission (2024): 5G - Gestaltung der digitalen Zukunft Europas, o.S.
+35 Vgl. BMDV (2024): Bund, DB und Mobilfunkanbieter wollen Hamburg-Berlin zur Innovationsstrecke für Mobilfunkausbau machen, o.S.
+36 Vgl. Bitkom (2025): Erstmals mehr als 40 Mrd. Euro Umsatz rund um Smartphones, o.S.
+37 Vgl. Bitkom (2025): Lichtblick in der Rezession: Digitalbranche wächst um 4,6 %, S. 1 ff.
+38 Vgl. Statista (2024): Industrielles IoT-Deutschland, o.S.
+
+Bilanz zum 31. Dezember 2024
+
+Aktiva
+
+scroll
+
+	31.12.2024 Euro	31.12.2023 Euro
+A. Anlagevermögen		
+I. Immaterielle Vermögensgegenstände		
+1. Entgeltlich erworbene Konzessionen, Gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten	115.784,00	513.233,00
+2. Geschäfts- oder Firmenwert	842.082,00	947.343,00
+	957.866,00	1.460.576,00
+II. Sachanlagen		
+1. technische Anlagen und Maschinen	322.159,00	397.710,00
+2. Andere Anlagen, Betriebs- und Geschäftsausstattung	2.129.146,00	2.235.748,25
+	2.451.305,00	2.633.458,25
+III. Finanzanlagen		
+1. Anteile an verbundenen Unternehmen	2,00	1.022.713,00
+2. Ausleihungen an verbundene Unternehmen	1.290.490,54	0,00
+3. sonstige Ausleihungen	0,00	51.994,40
+	1.290.492,54	1.074.707,40
+	4.699.663,54	5.168.741,65
+B. Umlaufvermögen		
+I. Vorräte		
+1. Roh-, Hilfs- und Betriebsstoffe	1.087.574,13	952.016,20
+2. Unfertige Leistungen	12.144.399,76	17.717.610,78
+3. Geleistete Anzahlungen	989.145,50	297.548,04
+	14.221.119,39	18.967.175,02
+II. Forderungen und sonstige Vermögensgegenstände		
+1. Forderungen aus Lieferungen und Leistungen	26.039.061,66	2.959.867,49
+2. Forderungen gegen verbundene Unternehmen	6.085.656,19	2.040.002,78
+3. Sonstige Vermögensgegenstände	243.844,55	433.807,06
+	32.368.562,40	5.433.677,33
+III. Kassenbestand und Guthaben bei Kreditinstituten	491.671,94	4.533.433,96
+	47.081.353,73	28.934.286,31
+C. Rechnungsabgrenzungsposten	43.064,22	47.481,42
+	51.824.081,49	34.150.509,38
+Passiva		
+	31.12.2024 Euro	31.12.2023 Euro
+A. Eigenkapital		
+I. Gezeichnetes Kapital	26.000,00	26.000,00
+II. Kapitalrücklage	6.538.139,28	6.538.139,28
+III. Gewinnvortrag	1.480.530,69	1.480.530,69
+	8.044.669,97	8.044.669,97
+B. Rückstellungen		
+1. Steuerrückstellungen	674.301,44	1.122.286,13
+2. sonstige Rückstellungen	1.980.756,16	1.624.889,95
+	2.655.057,60	2.747.176,08
+C. Verbindlichkeiten		
+1. Verbindlichkeiten gegenüber Kreditinstituten	0,00	7.127.310,00
+2. erhaltene Anzahlungen	0,00	70.200,00
+3. Verbindlichkeiten aus Lieferungen und Leistungen	1.545.664,66	4.538.429,88
+4. Verbindlichkeiten gegenüber verbundenen Unternehmen	38.420.523,96	10.038.595,66
+5. Sonstige Verbindlichkeiten	1.158.165,30	1.584.127,79
+davon aus Steuern: EUR 198.302,05 (Vorjahr EUR 196.716,03)		
+davon im Rahmen der sozialen Sicherheit: EUR 23.486,46 (Vorjahr EUR 17.890,10)		
+	41.124.353,92	23.358.663,33
+	51.824.081,49	34.150.509,38
+
+Gewinn- und Verlustrechnung für die Zeit vom 1. Januar bis 31. Dezember 2024
+
+scroll
+
+	2024 EUR	2023 EUR
+1. Umsatzerlöse	73.018.643,96	72.890.508,58
+2. Verminderung (Vorjahr: Erhöhung) des Bestands an unfertigen Leistungen	-4.156.104,14	7.223.685,15
+3. sonstige betriebliche Erträge	1.540.798,53	1.158.112,81
+4. Materialaufwand		
+a) Aufwendungen für Roh-, Hilfs- und Betriebsstoffe	6.928.285,77	6.637.871,96
+b) Aufwendungen für bezogene Leistungen	29.577.432,01	33.535.026,28
+5. Personalaufwand		
+a) Löhne und Gehälter	18.090.248,58	16.156.563,90
+b) soziale Abgaben und Aufwendungen für Altersversorgung und für Unterstützung	3.544.632,78	3.325.067,96
+davon für Altersversorgung: EUR 18.074,34 (Vorjahr: 19.984,86)		
+6. Abschreibungen		
+a) auf immaterielle Vermögensgegenstände des Anlagevermögens und Sachanlagen	980.714,52	958.102,93
+b) auf Vermögensgegenstände des Umlaufvermögens, soweit diese die in der Kapitalgesellschaft üblichen Abschreibungen überschreiten	1.417.106,88	0,00
+7. sonstige betriebliche Aufwendungen	12.034.559,13	10.268.410,68
+8. Erträge aus anderen Wertpapieren und Ausleihungen des Finanzanlagevermögens	1.588,03	1.514,40
+davon aus verbundenen Unternehmen EUR 0,00 (Vorjahr: EUR 0,00)		
+9. sonstige Zinsen und ähnliche Erträge	37.868,46	22.987,46
+davon aus verbundenen Unternehmen EUR 35.833,33 (Vorjahr: EUR 0,00)		
+davon aus der Abzinsung von Rückstellungen EUR 0,00 (Vorjahr: EUR 0,00)		
+10. Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufvermögens	1.895.298,99	0,00
+11. Zinsen und ähnliche Aufwendungen	1.557.132,02	1.581.191,95
+davon an verbundene Unternehmen EUR 873.060,05 (Vorjahr: EUR 0,00)		
+aus der Aufzinsung von Rückstellungen EUR 0,00 (Vorjahr: EUR 0,00)		
+12. Steuern vom Einkommen und vom Ertrag	165.376,43	0,02
+13. Ergebnis nach Steuern	-5.747.992,27	8.834.572,72
+14. Sonstige Steuern	36.754,89	21.242,31
+15. Aufgrund eines Ergebnisabführungsvertrages übernommener Verlust (Vorjahr: abgeführter Gewinn)	5.784.747,16	-8.813.330,41
+16. Jahresüberschuss	0,00	0,00
+
+Anhang für das Geschäftsjahr 2024
+
+Allgemeine Angaben
+
+Sitz der SPIE comcross GmbH (Comcross) ist Leonberg, das zuständige Registergericht ist das Amtsgericht Stuttgart. Die Handelsregisternummer lautet HRB 745799.
+
+Der Jahresabschluss der Comcross ist nach den Vorschriften des Handelsgesetzbuches für Kapitalgesellschaften und des GmbHG aufgestellt. Die Gesellschaft ist eine große Kapitalgesellschaft im Sinne des § 267 HGB.
+
+Die Gewinn- und Verlustrechnung ist nach dem Gesamtkostenverfahren gem. § 275 Abs. 2 HGB in Staffelform aufgestellt.
+
+In der Bilanz und Gewinn- und Verlustrechnung anzugebende „Davon“-Vermerke sind teilweise in den Anhang übernommen worden.
+
+Geschäftsjahr ist das Kalenderjahr.
+
+Alleinige Gesellschafterin der Comcross ist die SPIE TelCo Infrastructure GmbH (vormals: Infratech/comcross Holding GmbH) (kurz SPIE TelCo) mit Sitz in Leonberg.
+
+Die Gesellschaft ist steuerlich in den Organkreis der SPIE TelCo eingebunden.
+
+Erläuterungen zu den Bilanzierungs- und Bewertungsmethoden
+
+Die Bilanzierungs- und Bewertungsmethoden wurden unverändert zum Vorjahr angewandt mit folgender Ausnahme:
+
+Die comcross ist seit 18. April 2024 Teil der SPIE Germany Switzerland Austria Gruppe. Deshalb wurde die Bilanzierung an die Konzernsystematik angepasst. Der Ausweis der ausstehenden Rechnungen in Höhe von TEUR 110 (Vorjahr: TEUR 133) erfolgt nun unter den Verbindlichkeiten aus Lieferungen und Leistungen.
+
+Da das an eine Konzerngesellschaft ausgegebene Darlehen als langfristig einzustufen ist, wurde es in das Anlagevermögen umgegliedert (Vorjahr: Umlaufvermögen).
+
+Bei der Aufstellung der Bilanz und der Gewinn- und Verlustrechnung wurden folgende Bilanzierungs- und Bewertungsmethoden angewandt:
+
+Die Bewertung der entgeltlich von Dritten erworbenen Immateriellen Vermögensgegenstände und des Sachanlagevermögens erfolgt zu Anschaffungskosten unter Ansatz planmäßiger Abschreibungen über die jeweilige betriebsgewöhnliche Nutzungsdauer. Darüber hinaus beträgt die betriebsgewöhnliche Nutzungsdauer für Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten zwei bis 15 Jahre, für technische Anlagen und Maschinen drei bis 19 Jahre und für andere Anlagen, Betriebs- und Geschäftsausstattung ein bis 19 Jahre. Die Abschreibungen werden linear unter Beachtung der betriebsgewöhnlichen Nutzungsdauer vorgenommen. Der ausgewiesene Geschäfts- und Firmenwert wird planmäßig linear über 10 Jahre abgeschrieben, da dies jeweils dem erwarteten Geschäftszyklus in der Branche entspricht. Die Überprüfung auf Werthaltigkeit erfolgt jährlich. Die Überprüfung auf Werthaltigkeit erfolgt jährlich. Vermögensgegenstände, deren Anschaffungs- und Herstellungskosten unter EUR 800,00 (netto) liegen, werden im Jahr der Anschaffung sofort abgeschrieben. Außerplanmäßige Abschreibungen auf den niedrigeren beizulegenden Wert werden bei voraussichtlich dauernder Wertminderung vorgenommen.
+
+Die Finanzanlagen werden mit den Anschaffungskosten, gegebenenfalls nach Abzug von Abschreibungen mit dem niedrigeren beizulegenden Wert aufgrund voraussichtlich dauernder Wertminderung, angesetzt.
+
+Die Vorräte werden zu Anschaffungs- oder Herstellungskosten bzw. zu einem niedrigeren beizulegenden Wert angesetzt. Das strenge Niederstwertprinzip wurde beachtet. Die Bewertung der Roh-, Hilfs- und Betriebsstoffe erfolgt zu den durchschnittlichen Beschaffungspreisen. Es werden Gängigkeitsabwertungen vorgenommen. Die Herstellungskosten der unfertigen Leistungen umfassen Material-, Konstruktions- und Montagekosten und einen Zuschlag für Material- und Fertigungsgemeinkosten. Finanzierungskosten, die auf den Zeitraum der Herstellung entfallen, werden nicht einbezogen. Bestandsrisiken wurde ausreichend Rechnung getragen. Geleistete Anzahlungen auf Vorräte werden zum Nennwert angesetzt.
+
+Forderungen und sonstige Vermögensgegenstände werden zum Nennbetrag angesetzt. Einzelwertberichtigungen auf Forderungen werden entsprechend der Wahrscheinlichkeit des Ausfalls gebildet Pauschalwertberichtigungen wurden aufgrund der Erfahrungen aus Vorjahren nicht gebildet.
+
+Kassenbestand und Guthaben bei Kreditinstituten werden zum Nennwert am Bilanzstichtag angesetzt.
+
+Die aktiven Rechnungsabgrenzungsposten werden für vorab geleistete Zahlungen gebildet, sofern sie einen Aufwand für eine bestimmte Zeit nach dem Bilanzstichtag darstellen. Der Posten wird planmäßig aufgelöst.
+
+Das Eigenkapital ist zum Nennbetrag angesetzt.
+
+Die sonstigen Rückstellungen berücksichtigen alle erkennbaren Risiken und Verpflichtungen. Sie sind in Höhe des Erfüllungsbetrages angesetzt, der nach vernünftiger kaufmännischer Beurteilung notwendig ist. Langfristige Rückstellungen wurden abgezinst, wobei Effekte aus der Änderung des Diskontierungszinssatzes im Finanzergebnis ausgewiesen wurden. Die Abzinsung der langfristigen Rückstellungen erfolgt gemäß § 253 Abs. 2 HGB nach laufzeitadäquaten Abzinsungssätzen, die von der Deutschen Bundesbank bekannt gegeben worden sind.
+
+Die Verbindlichkeiten sind mit ihrem Erfüllungsbetrag angesetzt.
+
+Erläuterungen zur Bilanz
+
+(1) Anlagevermögen
+
+Die Entwicklung des Anlagevermögens (Anlagespiegel gemäß § 284 Abs. 3 HGB) ist in der Anlage zum Anhang dargestellt.
+
+(2) Vorräte
+
+In den Roh-, Hilfs- und Betriebsstoffen waren lagermäßig geführte Ersatzteile zum Bilanzstichtag enthalten.
+
+Die Unfertigen Leistungen beinhalteten ausschließlich unverrechnete Lieferungen und Leistungen aus Projekten.
+
+(3) Forderungen und sonstige Vermögensgegenstände
+
+Die Forderungen gegen verbundene Unternehmen resultierten aus Darlehen (TEUR 0; Vorjahr: TEUR 1.818), aus der Verlustübernahme der SPIE Telco in Höhe von TEUR 5.785 (Vorjahr: TEUR 0), aus Lieferungen und Leistungen in Höhe von TEUR 298 (Vorjahr TEUR 222) sowie aus Umsatzsteuer (TEUR 3; Vorjahr: TEUR 0). Insgesamt entfielen TEUR 5.785 (Vorjahr: TEUR 1.000) auf Forderungen gegen die alleinige Gesellschafterin SPIE Telco. Sämtliche Forderungen und sonstige Vermögensgegenstände haben eine Restlaufzeit von bis zu einem Jahr.
+
+(4) Latente Steuern
+
+Die Gesellschaft ist steuerlich in den Organkreis der SPIE TelCo Infrastructure GmbH, Leonberg, eingebunden. Die Bildung latenter Steuern erfolgt beim Organträger, der SPIE TelCo Infrastructure GmbH, Leonberg. Im Vorjahr wurde das Wahlrecht gem. § 274 HGB zur Aktivierung latenter Steuern nicht ausgeübt.
+
+(5) Rückstellungen
+
+Die sonstigen Rückstellungen enthielten
+
+scroll
+
+	31.12.2024 TEUR	Vorjahr TEUR
+Personalaufwendungen	1.480	1.281
+Jahresabschlusskosten	129	64
+Ausstehende Rechnungen	0	133
+Gewährleistungen	0	10
+Übrige sonstige Rückstellungen	372	137
+	1.981	1.625
+
+(6) Verbindlichkeiten
+
+Die Verbindlichkeiten teilen sich im Einzelnen wie folgt auf:
+
+scroll
+
+	Summe EUR	bis 1 Jahr EUR	über 1 Jahr EUR	davon über 1 bis 5 Jahre EUR	davon über 5 Jahre EUR
+Verbindlichkeiten gegenüber Kreditinstituten	0,00	0,00	0,00	0,00	0,00
+(Vorjahr)	(7.127.310,00)	(0,00)	(7.127.310,00)	(7.127.310,00)	(0,00)
+Erhaltene Anzahlungen	0,00	0,00	0,00	0,00	0,00
+(Vorjahr)	(70.200,00)	(70.200,00)	(0,00)	(0,00)	(0,00)
+Verbindlichkeiten aus Lieferungen und Leistungen	1.545.664,66	1.545.664,66	0,00	0,00	0,00
+(Vorjahr)	(4.538.429,88)	(4.538.429,88)	(0,00)	(0,00)	(0,00)
+Verbindlichkeiten gegenüber verbundenen Unternehmen	38.420.523,96	17.268.817,19	21.151.706,77	21.151.706,77	0,00
+(Vorjahr)	(10.038.595,66)	(10.038.595,66)	(0,00)	(0,00)	(0,00)
+Sonstige Verbindlichkeiten	1.158.165,30	229.419,74	928.745,56	928.745,56	(0,00)
+(Vorjahr)	(1.584.127,79)	(218.089,28)	(1.366.038,51)	(1.366.038,51)	0,00
+Gesamt	41.124.353,92	19.043.901,59	22.080.452,33	22.080.452,33	0,00
+(Vorjahr)	(23.358.663,33)	(14.865.314,82)	(8.493.348,51)	(8.493.348,51)	(0,00)
+
+Die Verbindlichkeiten gegenüber verbundenen Unternehmen bestanden aus dem Cash-Pooling (TEUR 15.594; Vorjahr: TEUR 0), aus Darlehen (TEUR 21.152; Vorjahr: TEUR 0), Ergebnisabführung (TEUR 0; Vorjahr: TEUR 8.813), aus Zinsen (TEUR 1.135; Vorjahr: TEUR 0), aus Umsatzsteuer (TEUR: 0; Vorjahr: 941) sowie aus Lieferungen und Leistungen (TEUR 540; Vorjahr: TEUR 285). Insgesamt entfielen TEUR 8.030 (Vorjahr: TEUR 9.754) auf Verbindlichkeiten gegenüber der SPIE Telco.
+
+Erläuterungen zur Gewinn- und Verlustrechnung
+
+(7) Umsatzerlöse
+
+Die Umsatzerlöse wurden im Berichtsjahr überwiegend im Inland erzielt (TEUR 72.858; Vorjahr: TEUR 72.762), zuzüglich der im Ausland realisierten Umsatzerlöse von TEUR 161 (Vorjahr: TEUR 129).
+
+Die Aufteilung nach Geschäftsfeldern stellte sich wie folgt dar:
+
+scroll
+
+	2024 TEUR	Vorjahr TEUR
+Civil Work	31.301	29.370
+Richtfunk	9.841	10.501
+Mastbau	6.097	3.511
+Festnetz	5.753	4.724
+Planung	5.634	5.660
+Mobilfunk Sonderprojekte	4.878	4.325
+Tiefbau	3.805	6.043
+MGT	1.942	4.890
+Wartung und Service	1.306	1.024
+MRT	1.290	1.011
+Consulting	937	615
+Sonstiges	234	1.215
+Gesamtergebnis	73.019	72.891
+
+(8) Sonstige betriebliche Erträge
+
+In den sonstigen betrieblichen Erträgen sind periodenfremde Erträge aus der Auflösung von Rückstellungen in Höhe von TEUR 202 (Vorjahr: TEUR 47) enthalten.
+
+(9) Abschreibungen auf Vermögensgegenstände des Umlaufvermögens, soweit diese die in der Kapitalgesellschaft üblichen Abschreibungen überschreiten.
+
+Die Abschreibungen enthalten das übliche Maß überschreitende sowie periodenfremde Wertberichtigungen der Vorräte in Höhe von TEUR 1.417.
+
+(10) Sonstige betriebliche Aufwendungen
+
+Wesentliche Positionen der sonstigen betrieblichen Aufwendungen waren Umlagen seitens der Spie TelCo in Höhe von Mio. EUR 3,4 (Vorjahr: Mio. EUR 2,1) sowie Miet-, Pacht- und Leasingaufwendungen von Mio. EUR 3,3 (Vorjahr: Mio. EUR 2,7).
+
+(11) Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufvermögens
+
+Aufgrund der aktuellen wirtschaftlichen Situation der Tochtergesellschaft comcross croatia d.o.o wurde die Finanzanlage in Höhe von TEUR 1.003, sowie das bestehende Darlehen der Gesellschaft um TEUR 873 abgeschrieben.
+
+(12) Steuern vom Einkommen und Ertrag
+
+Die Position enthält ausschließlich periodenfremde Erträge (TEUR 165: Vorjahr: TEUR 0).
+
+Sonstige Angaben
+
+(13) Mitarbeiter
+
+Im Geschäftsjahr 2024 zählte die Belegschaft durchschnittlich 338 (Vorjahr: 290) Arbeitnehmer.
+
+scroll
+
+	2024	Vorjahr
+Angestellte	256	219
+Gewerbliche Arbeitnehmer	71	64
+Zwischensumme	327	283
+Auszubildende und Praktikanten	11	7
+Gesamtsumme	338	290
+
+(14) Anteilsbesitz
+
+scroll
+
+Anteilsbesitzliste	Anteil am Kapital	Eigenkapital TEUR	Ergebnis TEUR	Abschluss Geschäftsjahr
+comcross croatia d.o.o., Osijek, Kroatien	100	-952	-1.098	2024
+comcross d.o.o. Novi Sad, Serbien	100	12	-5	2023
+
+(15) Geschäftsführer
+
+Herr Vladimir Suznjevic, Geschäftsführer Vertrieb der Comcross GmbH
+
+Frau Daniela Theiner, Geschäftsführerin Personal der Comcross GmbH
+
+Herr Alexander Fogel, Geschäftsführer Technik der Comcross GmbH (seit 01.01.2025)
+
+Herr Markus Wiedenmayer, Geschäftsführer Technik der Comcross GmbH (bis 09.08.2024)
+
+(16) Gesamtbezüge des Geschäftsführungsorgans
+
+Bezüglich der Bezüge der Geschäftsführung wird von § 286 Abs. 4 HGB Gebrauch gemacht.
+
+(17) Sonstige finanziellen Verpflichtungen
+
+Die sonstigen finanziellen Verpflichtungen beliefen sich auf TEUR 1.817 (Vorjahr: TEUR 2.054) aus Operating Leasingvereinbarungen für Fahrzeuge und TEUR 4.079 (Vorjahr: TEUR 5.344) aus Mietverpflichtungen.
+
+(18) Haftungsverhältnisse
+
+Die comcross ist aufgrund der faktischen Konzernstruktur zur wirtschaftlichen Unterstützung der comcross croatia d.o.o., einem verbundenen Unternehmen der comcross, verpflichtet. Daraus ergibt sich insbesondere mit Blick auf die Fremdfinanzierung der Tochtergesellschaft ein Haftungsverhältnis. Diese beläuft sich zum Bilanzstichtag auf TEUR 1.307.
+
+Für die angeführten, zu Nominalwerten angesetzten Eventualschulden, wurden keine Rückstellungen gebildet, da die zugrunde liegenden Verbindlichkeiten voraussichtlich erfüllt werden können und daher mit einer Inanspruchnahme oder Belastung der Gesellschaft nicht zu rechnen ist.
+
+(18) Gesamthonorar des Abschlussprüfers
+
+Das vom Abschlussprüfer PricewaterhouseCoopers GmbH Wirtschaftsprüfungsgesellschaft für das Geschäftsjahr berechnete Gesamthonorar betrug TEUR 64 (Vorjahr: TEUR 32, WP Mittelstand AG Wirtschaftsprüfungsgesellschaft), welches wie im Vorjahr ausschließlich auf Abschlussprüfungsleistungen entfiel.
+
+(19) Weitere Angaben
+
+Eine Pflicht zur Aufstellung eines Konzernabschlusses und eines Konzernlageberichts für den Teilkonzern der Comcross nach § 290 HGB besteht nicht, da die Comcross und ihre Tochterunternehmen in den Konzernabschluss der SPIE SA, Cergy/Frankreich, einbezogen werden und kein Antrag von Minderheitsgesellschaftern zur Aufstellung eines Konzernabschlusses und eines Konzernlageberichts nach § 291 Abs. 3 Satz 1 Nr. 2 HGB vorliegt. Voraussetzung hierfür ist, dass der Konzernabschluss und der Konzernlagebericht der SPIE SA, Cergy/Frankreich, geprüft und in deutscher oder englischer Sprache offengelegt werden.
+
+Das Mutterunternehmen der Gesellschaft, das für den kleinsten und größten Kreis von Unternehmen den Konzernabschluss aufstellt, ist die SPIE SA, Cergy/Frankreich. Der Konzernabschluss wird beim Unternehmensregister veröffentlicht.
+
+Der Verlust nach Steuern wird aufgrund eines mit der SPIE TelCo Infrastructure GmbH bestehenden Ergebnisabführungsvertrages in Höhe von TEUR 5.785 von dieser übernommen.
+
+(20) Nachtragsberichterstattung
+
+Mit Verschmelzungsverträgen vom 27.03.2025 und Eintragung am 02.07.2025 sowie wirtschaftlicher Rückwirkung zum 01.01.2025 wurden die Schwan GmbH und die DPE Engineering GmbH auf die SPIE comcross GmbH verschmolzen.
+
+Leonberg, den 18. September 2025
+
+Comcross GmbH, Leonberg
+
+Vladimir Suznjevic, Geschäftsführer
+
+Daniela Theiner, Geschäftsführerin
+
+Alexander Fogel, Geschäftsführer
+
+Entwicklung des Anlagevermögens vom 1. Januar bis 31. Dezember 2024
+
+scroll
+
+	Anschaffungs- und Herstellungskosten	Anschaffungs- und Herstellungskosten	Anschaffungs- und Herstellungskosten	Anschaffungs- und Herstellungskosten
+	01.01.2024 EUR	Zugänge EUR	Abgänge EUR	31.12.2024 EUR
+I. Immaterielle Vermögensgegenstände				
+1. Entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten	636.024,31	29.655,00	436.555,18	229.124,13
+2. Geschäfts- oder Firmenwert	1.052.604,03	0,00	0,00	1.052.604,03
+	1.688.628,34	29.655,00	436.555,18	1.281.728,16
+II. Sachanlagen				
+1. technische Anlagen und Maschinen	531.020,44	6.998,00	15.997,64	522.020,80
+2. Andere Anlagen, Betriebs- und Geschäftsausstattung	4.883.554,66	640.399,29	609.233,56	4.914.720,39
+	5.414.575,10	647.397,29	625.231,20	5.436.741,19
+III. Finanzanlagen				
+1. Anteile an verbundenen Unternehmen	1.022.713,00	0,00	0,00	1.022.713,00
+2. Ausleihungen an verbundene Unternehmen	0,00	2.163.078,53	0,00	2.163.078,53
+3. sonstige Ausleihungen	51.994,40	472,28	52.466,68	0,00
+	1.074.707,40	2.163.550,81	52.466,68	3.185.791,53
+	8.177.910,84	2.840.603,10	1.114.253,06	9.904.260,88
+
+scroll
+
+	kumulierte Abschreibungen	kumulierte Abschreibungen	kumulierte Abschreibungen	kumulierte Abschreibungen	Restbuchwerte	Restbuchwerte
+	01.01.2024 EUR	Zugänge EUR	Abgänge EUR	31.12.2024 EUR	31.12.2024 EUR	31.12.2023 EUR
+I. Immaterielle Vermögensgegenstände						
+1. Entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten	122.791,31	56.235,00	65.686,18	113.340,13	115.784,00	513.233,00
+2. Geschäfts- oder Firmenwert	105.261,03	105.261,00	0,00	210.522,03	842.082,00	947.343,00
+	228.052,34	161.496,00	65.686,18	323.862,16	957.866,00	1.460.576,00
+II. Sachanlagen						
+1. technische Anlagen und Maschinen	133.310,44	76.147,00	9.595,64	199.861,80	322.159,00	397.710,00
+2. Andere Anlagen, Betriebs- und Geschäftsausstattung	2.647.806,41	743.071,52	605.303,54	2.785.574,39	2.129.146,00	2.235.748,25
+	2.781.116,85	819.218,52	614.899,18	2.985.436,19	2.451.305,00	2.633.458,25
+III. Finanzanlagen						
+1. Anteile an verbundenen Unternehmen	0,00	1.022.711,00	0,00	1.022.711,00	2,00	1.022.713,00
+2. Ausleihungen an verbundene Unternehmen	0,00	872.587,99	0,00	872.587,99	1.290.490,54	0,00
+3. sonstige Ausleihungen	0,00	0,00	0,00	0,00	0,00	51.994,40
+	0,00	1.895.298,99	0,00	1.895.298,99	1.290.492,54	1.074.707,40
+	3.009.169,19	2.876.013,51	680.585,36	5.204.597,34	4.699.663,54	5.168.741,65
+
+BESTÄTIGUNGSVERMERK DES UNABHÄNGIGEN ABSCHLUSSPRÜFERS
+
+An die SPIE comcross GmbH (vormals: comcross GmbH), Leonberg
+
+Prüfungsurteile
+
+Wir haben den Jahresabschluss der SPIE comcross GmbH (vormals: comcross GmbH), Leonberg, - bestehend aus der Bilanz zum 31. Dezember 2024 und der Gewinn- und Verlustrechnung für das Geschäftsjahr vom 1. Januar bis zum 31. Dezember 2024 sowie dem Anhang, einschließlich der Darstellung der Bilanzierungs- und Bewertungsmethoden - geprüft. Darüber hinaus haben wir den Lagebericht der SPIE comcross GmbH (vormals: comcross GmbH) für das Geschäftsjahr vom 1. Januar bis zum 31. Dezember 2024 geprüft.
+
+Nach unserer Beurteilung aufgrund der bei der Prüfung gewonnenen Erkenntnisse
+
+•
+
+entspricht der beigefügte Jahresabschluss in allen wesentlichen Belangen den deutschen handelsrechtlichen Vorschriften und vermittelt unter Beachtung der deutschen Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens- und Finanzlage der Gesellschaft zum 31. Dezember 2024 sowie ihrer Ertragslage für das Geschäftsjahr vom 1. Januar bis zum 31. Dezember 2024 und
+
+•
+
+vermittelt der beigefügte Lagebericht insgesamt ein zutreffendes Bild von der Lage der Gesellschaft. In allen wesentlichen Belangen steht dieser Lagebericht in Einklang mit dem Jahresabschluss, entspricht den deutschen gesetzlichen Vorschriften und stellt die Chancen und Risiken der zukünftigen Entwicklung zutreffend dar.
+
+Gemäß § 322 Abs. 3 Satz 1 HGB erklären wir, dass unsere Prüfung zu keinen Einwendungen gegen die Ordnungsmäßigkeit des Jahresabschlusses und des Lageberichts geführt hat.
+
+Grundlage für die Prüfungsurteile
+
+Wir haben unsere Prüfung des Jahresabschlusses und des Lageberichts in Übereinstimmung mit § 317 HGB unter Beachtung der vom Institut der Wirtschaftsprüfer (IDW) festgestellten deutschen Grundsätze ordnungsmäßiger Abschlussprüfung durchgeführt. Unsere Verantwortung nach diesen Vorschriften und Grundsätzen ist im Abschnitt „Verantwortung des Abschlussprüfers für die Prüfung des Jahresabschlusses und des Lageberichts“ unseres Bestätigungsvermerks weitergehend beschrieben. Wir sind von dem Unternehmen unabhängig in Übereinstimmung mit den deutschen handelsrechtlichen und berufsrechtlichen Vorschriften und haben unsere sonstigen deutschen Berufspflichten in Übereinstimmung mit diesen Anforderungen erfüllt. Wir sind der Auffassung, dass die von uns erlangten Prüfungsnachweise ausreichend und geeignet sind, um als Grundlage für unsere Prüfungsurteile zum Jahresabschluss und zum Lagebericht zu dienen.
+
+Hinweis auf einen sonstigen Sachverhalt - Vergleichsangaben
+
+Der Jahresabschluss der Gesellschaft für das Geschäftsjahr vom 1. Januar bis zum 31. Dezember 2023 und somit die Vergleichsangaben zum 31. Dezember 2023 und für das Geschäftsjahr vom 1. Januar bis zum 31. Dezember 2023 sind nicht geprüft.
+
+Verantwortung der gesetzlichen Vertreter für den Jahresabschluss und den Lagebericht
+
+Die gesetzlichen Vertreter sind verantwortlich für die Aufstellung des Jahresabschlusses, der den deutschen handelsrechtlichen Vorschriften in allen wesentlichen Belangen entspricht, und dafür, dass der Jahresabschluss unter Beachtung der deutschen Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage der Gesellschaft vermittelt. Ferner sind die gesetzlichen Vertreter verantwortlich für die internen Kontrollen, die sie in Übereinstimmung mit den deutschen Grundsätzen ordnungsmäßiger Buchführung als notwendig bestimmt haben, um die Aufstellung eines Jahresabschlusses zu ermöglichen, der frei von wesentlichen falschen Darstellungen aufgrund von dolosen Handlungen (d.h. Manipulationen der Rechnungslegung und Vermögensschädigungen) oder Irrtümern ist.
+
+Bei der Aufstellung des Jahresabschlusses sind die gesetzlichen Vertreter dafür verantwortlich, die Fähigkeit der Gesellschaft zur Fortführung der Unternehmenstätigkeit zu beurteilen. Des Weiteren haben sie die Verantwortung, Sachverhalte in Zusammenhang mit der Fortführung der Unternehmenstätigkeit, sofern einschlägig, anzugeben. Darüber hinaus sind sie dafür verantwortlich, auf der Grundlage des Rechnungslegungsgrundsatzes der Fortführung der Unternehmenstätigkeit zu bilanzieren, sofern dem nicht tatsächliche oder rechtliche Gegebenheiten entgegenstehen.
+
+Außerdem sind die gesetzlichen Vertreter verantwortlich für die Aufstellung des Lageberichts, der insgesamt ein zutreffendes Bild von der Lage der Gesellschaft vermittelt sowie in allen wesentlichen Belangen mit dem Jahresabschluss in Einklang steht, den deutschen gesetzlichen Vorschriften entspricht und die Chancen und Risiken der zukünftigen Entwicklung zutreffend darstellt. Ferner sind die gesetzlichen Vertreter verantwortlich für die Vorkehrungen und Maßnahmen (Systeme), die sie als notwendig erachtet haben, um die Aufstellung eines Lageberichts in Übereinstimmung mit den anzuwendenden deutschen gesetzlichen Vorschriften zu ermöglichen, und um ausreichende geeignete Nachweise für die Aussagen im Lagebericht erbringen zu können.
+
+Verantwortung des Abschlussprüfers für die Prüfung des Jahresabschlusses und des Lageberichts
+
+Unsere Zielsetzung ist, hinreichende Sicherheit darüber zu erlangen, ob der Jahresabschluss als Ganzes frei von wesentlichen falschen Darstellungen aufgrund von dolosen Handlungen oder Irrtümern ist, und ob der Lagebericht insgesamt ein zutreffendes Bild von der Lage der Gesellschaft vermittelt sowie in allen wesentlichen Belangen mit dem Jahresabschluss sowie mit den bei der Prüfung gewonnenen Erkenntnissen in Einklang steht, den deutschen gesetzlichen Vorschriften entspricht und die Chancen und Risiken der zukünftigen Entwicklung zutreffend darstellt, sowie einen Bestätigungsvermerk zu erteilen, der unsere Prüfungsurteile zum Jahresabschluss und zum Lagebericht beinhaltet.
+
+Hinreichende Sicherheit ist ein hohes Maß an Sicherheit, aber keine Garantie dafür, dass eine in Übereinstimmung mit § 317 HGB unter Beachtung der vom Institut der Wirtschaftsprüfer (IDW) festgestellten deutschen Grundsätze ordnungsmäßiger Abschlussprüfung durchgeführte Prüfung eine wesentliche falsche Darstellung stets aufdeckt. Falsche Darstellungen können aus dolosen Handlungen oder Irrtümern resultieren und werden als wesentlich angesehen, wenn vernünftigerweise erwartet werden könnte, dass sie einzeln oder insgesamt die auf der Grundlage dieses Jahresabschlusses und Lageberichts getroffenen wirtschaftlichen Entscheidungen von Adressaten beeinflussen.
+
+Während der Prüfung üben wir pflichtgemäßes Ermessen aus und bewahren eine kritische Grundhaltung. Darüber hinaus
+
+•
+
+identifizieren und beurteilen wir die Risiken wesentlicher falscher Darstellungen im Jahresabschluss und im Lagebericht aufgrund von dolosen Handlungen oder Irrtümern, planen und führen Prüfungshandlungen als Reaktion auf diese Risiken durch sowie erlangen Prüfungsnachweise, die ausreichend und geeignet sind, um als Grundlage für unsere Prüfungsurteile zu dienen. Das Risiko, dass eine aus dolosen Handlungen resultierende wesentliche falsche Darstellung nicht aufgedeckt wird, ist höher als das Risiko, dass eine aus Irrtümern resultierende wesentliche falsche Darstellung nicht aufgedeckt wird, da dolose Handlungen kollusives Zusammenwirken, Fälschungen, beabsichtigte Unvollständigkeiten, irreführende Darstellungen bzw. das Außerkraftsetzen interner Kontrollen beinhalten können.
+
+•
+
+erlangen wir ein Verständnis von den für die Prüfung des Jahresabschlusses relevanten internen Kontrollen und den für die Prüfung des Lageberichts relevanten Vorkehrungen und Maßnahmen, um Prüfungshandlungen zu planen, die unter den Umständen angemessen sind, jedoch nicht mit dem Ziel, ein Prüfungsurteil zur Wirksamkeit der internen Kontrollen der Gesellschaft bzw. dieser Vorkehrungen und Maßnahmen abzugeben.
+
+•
+
+beurteilen wir die Angemessenheit der von den gesetzlichen Vertretern angewandten Rechnungslegungsmethoden sowie die Vertretbarkeit der von den gesetzlichen Vertretern dargestellten geschätzten Werte und damit zusammenhängenden Angaben.
+
+•
+
+ziehen wir Schlussfolgerungen über die Angemessenheit des von den gesetzlichen Vertretern angewandten Rechnungslegungsgrundsatzes der Fortführung der Unternehmenstätigkeit sowie, auf der Grundlage der erlangten Prüfungsnachweise, ob eine wesentliche Unsicherheit im Zusammenhang mit Ereignissen oder Gegebenheiten besteht, die bedeutsame Zweifel an der Fähigkeit der Gesellschaft zur Fortführung der Unternehmenstätigkeit aufwerfen können. Falls wir zu dem Schluss kommen, dass eine wesentliche Unsicherheit besteht, sind wir verpflichtet, im Bestätigungsvermerk auf die dazugehörigen Angaben im Jahresabschluss und im Lagebericht aufmerksam zu machen oder, falls diese Angaben unangemessen sind, unser jeweiliges Prüfungsurteil zu modifizieren. Wir ziehen unsere Schlussfolgerungen auf der Grundlage der bis zum Datum unseres Bestätigungsvermerks erlangten Prüfungsnachweise. Zukünftige Ereignisse oder Gegebenheiten können jedoch dazu führen, dass die Gesellschaft ihre Unternehmenstätigkeit nicht mehr fortführen kann.
+
+•
+
+beurteilen wir Darstellung, Aufbau und Inhalt des Jahresabschlusses insgesamt einschließlich der Angaben sowie ob der Jahresabschluss die zugrunde liegenden Geschäftsvorfälle und Ereignisse so darstellt, dass der Jahresabschluss unter Beachtung der deutschen Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage der Gesellschaft vermittelt.
+
+•
+
+beurteilen wir den Einklang des Lageberichts mit dem Jahresabschluss, seine Gesetzesentsprechung und das von ihm vermittelte Bild von der Lage der Gesellschaft.
+
+•
+
+führen wir Prüfungshandlungen zu den von den gesetzlichen Vertretern dargestellten zukunftsorientierten Angaben im Lagebericht durch. Auf Basis ausreichender geeigneter Prüfungsnachweise vollziehen wir dabei insbesondere die den zukunftsorientierten Angaben von den gesetzlichen Vertretern zugrunde gelegten bedeutsamen Annahmen nach und beurteilen die sachgerechte Ableitung der zukunftsorientierten Angaben aus diesen Annahmen. Ein eigenständiges Prüfungsurteil zu den zukunftsorientierten Angaben sowie zu den zugrunde liegenden Annahmen geben wir nicht ab. Es besteht ein erhebliches unvermeidbares Risiko, dass künftige Ereignisse wesentlich von den zukunftsorientierten Angaben abweichen.
+
+Wir erörtern mit den für die Überwachung Verantwortlichen unter anderem den geplanten Umfang und die Zeitplanung der Prüfung sowie bedeutsame Prüfungsfeststellungen, einschließlich etwaiger bedeutsamer Mängel in internen Kontrollen, die wir während unserer Prüfung feststellen.
+
+Düsseldorf, den 18. September 2025
+
+PricewaterhouseCoopers GmbH
+Wirtschaftsprüfungsgesellschaft
+
+Matthias Barnert, Wirtschaftsprüfer
+
+ppa. Dennis Heering, Wirtschaftsprüfer
+
+Der Jahresabschluss zum 31.12.2024 wurde am 03.11.2025 festgestellt.

@@ -1,0 +1,56 @@
+[
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=VQVw6BZ5MGLM8-rattvIcbu0xN3s2VxuJGxpPCszb3zmbWxkp-Kpycs44vy1Gxn7nFEBsTCCJ-fZvpQG39m2hwPxkAQoFNmgzlECInnsENqQ7zqLLANim-hr67hkVCb797jTzuPOLo4d-8IX-nhTwfusgLThgpOD7ARs5WKwMBMtIe-QZx3xweo3eTvDtqYTK1OGiFAWhZAQKpVMdH7z0pNRVSKvMJXcwCmudjMq_MC31Uf3",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\FINVIA-Family-Office-GmbH-8726f618\\finanzberichte\\publication-1\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\FINVIA-Family-Office-GmbH-8726f618\\finanzberichte\\publication-1\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\FINVIA-Family-Office-GmbH-8726f618\\finanzberichte\\publication-1\\publication.txt",
+    "index": 1,
+    "category": "finanzberichte",
+    "company": "FINVIA Family Office GmbH, Frankfurt am Main",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+    "documents_path": "output\\unternehmensregister\\FINVIA-Family-Office-GmbH-8726f618\\finanzberichte\\publication-1\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=-qz0fK4i0R_s6tEgUS3zA4Jhpl-jeKNGMh8kU-EoeuOgPkKqn3W8X5EfahUlvia29GU4tYjxPjNjuUctQ2Xt4gscDr4fQL_prwoMuEpGa_rKVkKvqpETWeLPfh6M5rVkHCZobixq2t8lKBC9RPCweiOFhqjS2C4v0TRBeFjqDQmUYqS6uJAj72GqqrX1RA3McXP3VZLelZ4r5soPmzYCxM7viage653J-YsmvpKQ1cfOXibV",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\FINVIA-Family-Office-GmbH-8726f618\\finanzberichte\\publication-2\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\FINVIA-Family-Office-GmbH-8726f618\\finanzberichte\\publication-2\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\FINVIA-Family-Office-GmbH-8726f618\\finanzberichte\\publication-2\\publication.txt",
+    "index": 2,
+    "category": "finanzberichte",
+    "company": "FINVIA Family Office GmbH, Frankfurt am Main",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+    "documents_path": "output\\unternehmensregister\\FINVIA-Family-Office-GmbH-8726f618\\finanzberichte\\publication-2\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=QDJq3ZnDBokZhWsPBaJg8jFA0qCCKJHKM2mUaO8oBHxHbXYK2HwX-zego9f6YRUFBD9PrhzOLoNhKw0iPuWTGBa0ODVRii0zzldkIe4DSKu1bozuJAt7yjbm1NIuaS0RqI5cqFHnUEBITtG3Jea4Vem8PHERMyvp4gcfq9YqnSHDjCiT8HyhPfkU2EHJBkBXxNzJpjN3K19MA_VJnQqGxwsKVSDzKuH04HUQHlYuPS4J44Jv",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\FINVIA-Family-Office-GmbH-8726f618\\finanzberichte\\publication-3\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\FINVIA-Family-Office-GmbH-8726f618\\finanzberichte\\publication-3\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\FINVIA-Family-Office-GmbH-8726f618\\finanzberichte\\publication-3\\publication.txt",
+    "index": 3,
+    "category": "finanzberichte",
+    "company": "FINVIA Family Office GmbH, Frankfurt am Main",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+    "documents_path": "output\\unternehmensregister\\FINVIA-Family-Office-GmbH-8726f618\\finanzberichte\\publication-3\\documents.json"
+  }
+]

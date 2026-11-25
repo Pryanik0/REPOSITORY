@@ -1,0 +1,255 @@
+{
+  "provider": "kununu",
+  "backend": "browser",
+  "status": "ok",
+  "query": "Kreisverwaltung des Westerwaldkreises",
+  "profile": {
+    "url": "https://www.kununu.com/de/kreisverwaltung-des-westerwaldkreises",
+    "name": "Kreisverwaltung des Westerwaldkreises",
+    "overall_score": 3.4,
+    "review_count": 8,
+    "recommendation_percent": 75,
+    "recommendation_period": "last_2_years",
+    "observed_at": "2026-11-25T17:17:25.103401+00:00"
+  },
+  "reviews": [
+    {
+      "id": "2f24e2cb-e2f3-4b53-9f81-79cc575c3f20",
+      "url": "https://www.kununu.com/de/kreisverwaltung-des-westerwaldkreises/bewertung/2f24e2cb-e2f3-4b53-9f81-79cc575c3f20",
+      "title": "Träge in der Digitalisierung sich der Probleme aber bewusst",
+      "content": "Wenig Führung, ist auch schwierig wenn die Leitung in der Sachbearbeitung selbst noch gebunden ist",
+      "rating": 3.9,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "leadership": "Wenig Führung, ist auch schwierig wenn die Leitung in der Sachbearbeitung selbst noch gebunden ist"
+      },
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 5.0,
+        "communication": 3.0,
+        "workConditions": 4.0,
+        "leadership": 4.0,
+        "teamwork": 3.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": null,
+        "salary": 3.0,
+        "image": null,
+        "environment": 3.0,
+        "tasks": 4.0
+      },
+      "published_at": "2025-05-26T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "ffac6a55-e137-4106-9802-f535daed570c",
+      "url": "https://www.kununu.com/de/kreisverwaltung-des-westerwaldkreises/bewertung/ffac6a55-e137-4106-9802-f535daed570c",
+      "title": "Die Klischees über die Verwaltung treffen leider zu. Alles etwas altbacken",
+      "content": "Stimmung und Umgangsformen durchwachsen.\n\nEs ist Verwaltung ohne Kundenbetreuung. Stress gibt es hier nicht\n\nWenn man kein Beamter ist, gibt es keine Karriere.\n\nGehalt kann mit der freien Wirtschaftnicht mithalten, keine Zusatzleistungen. Jahresbonus gibt es, aber überschaubar.\n\nDarauf wird schon Wert gelegt\n\nDas ist in unserem Referat ok\n\nDa kein Stress und kein Leistungsdruck, gibt es keinen Grund sich über Ältere zu beschweren.\n\nFührung gibt es hier nur, wenn man die Führungdazu zwingt.\n\nDie Ausrüstung und das Umfeld sind halt etwas altbacken.\n\nHohlschuld. Beamte sind nie schuld. Einarbeitung neuer Kollegen nicht vorhanden\n\nHält sich in Grenzen\n\nHält sich in Grenzen. Manchmal ja.",
+      "rating": 3.5,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Stimmung und Umgangsformen durchwachsen.",
+        "workLife": "Es ist Verwaltung ohne Kundenbetreuung. Stress gibt es hier nicht",
+        "career": "Wenn man kein Beamter ist, gibt es keine Karriere.",
+        "salary": "Gehalt kann mit der freien Wirtschaftnicht mithalten, keine Zusatzleistungen. Jahresbonus gibt es, aber überschaubar.",
+        "environment": "Darauf wird schon Wert gelegt",
+        "teamwork": "Das ist in unserem Referat ok",
+        "oldColleagues": "Da kein Stress und kein Leistungsdruck, gibt es keinen Grund sich über Ältere zu beschweren.",
+        "leadership": "Führung gibt es hier nur, wenn man die Führungdazu zwingt.",
+        "workConditions": "Die Ausrüstung und das Umfeld sind halt etwas altbacken.",
+        "communication": "Hohlschuld. Beamte sind nie schuld. Einarbeitung neuer Kollegen nicht vorhanden",
+        "equality": "Hält sich in Grenzen",
+        "tasks": "Hält sich in Grenzen. Manchmal ja."
+      },
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 5.0,
+        "communication": 3.0,
+        "workConditions": 3.0,
+        "leadership": 3.0,
+        "teamwork": 4.0,
+        "oldColleagues": 5.0,
+        "equality": 3.0,
+        "career": 3.0,
+        "salary": 3.0,
+        "image": 3.0,
+        "environment": 5.0,
+        "tasks": 3.0
+      },
+      "published_at": "2025-05-21T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "fddbdbe8-713b-4b9c-acef-c09d6eb8f4f4",
+      "url": "https://www.kununu.com/de/kreisverwaltung-des-westerwaldkreises/bewertung/fddbdbe8-713b-4b9c-acef-c09d6eb8f4f4",
+      "title": "Verwaltung",
+      "content": "",
+      "rating": 3.4,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 4.0,
+        "communication": 3.0,
+        "workConditions": 4.0,
+        "leadership": 3.0,
+        "teamwork": null,
+        "oldColleagues": 4.0,
+        "equality": 5.0,
+        "career": null,
+        "salary": 4.0,
+        "image": 2.0,
+        "environment": 3.0,
+        "tasks": 2.0
+      },
+      "published_at": "2026-11-19T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "077748f2-c565-4ca7-abd3-849423b6643c",
+      "url": "https://www.kununu.com/de/kreisverwaltung-des-westerwaldkreises/bewertung/077748f2-c565-4ca7-abd3-849423b6643c",
+      "title": "Froh, hier zu arbeiten",
+      "content": "",
+      "rating": 4.4,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 4.0,
+        "communication": 4.0,
+        "workConditions": 3.0,
+        "leadership": 4.0,
+        "teamwork": 4.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 3.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-11-21T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    }
+  ],
+  "review_limit": 15,
+  "review_period": {
+    "since": "2024-11-25T00:00:00+00:00",
+    "until": "2026-11-25T17:17:23.386718+00:00",
+    "date_field": "published_at",
+    "missing_dates": "excluded"
+  },
+  "factor_scores_aggregated": {
+    "atmosphere": {
+      "mean": 3.75,
+      "count": 4
+    },
+    "workLife": {
+      "mean": 4.5,
+      "count": 4
+    },
+    "communication": {
+      "mean": 3.25,
+      "count": 4
+    },
+    "workConditions": {
+      "mean": 3.5,
+      "count": 4
+    },
+    "leadership": {
+      "mean": 3.5,
+      "count": 4
+    },
+    "teamwork": {
+      "mean": 3.67,
+      "count": 3
+    },
+    "oldColleagues": {
+      "mean": 4.75,
+      "count": 4
+    },
+    "equality": {
+      "mean": 4.5,
+      "count": 4
+    },
+    "career": {
+      "mean": 4.0,
+      "count": 2
+    },
+    "salary": {
+      "mean": 3.75,
+      "count": 4
+    },
+    "image": {
+      "mean": 3.33,
+      "count": 3
+    },
+    "environment": {
+      "mean": 3.5,
+      "count": 4
+    },
+    "tasks": {
+      "mean": 3.5,
+      "count": 4
+    }
+  },
+  "coverage": "bounded_employee_review_sample_last_2_years_not_all_reviews",
+  "diagnostics": {
+    "pages": [
+      {
+        "page": "reviews",
+        "page_number": 1,
+        "load_more_clicks": 0,
+        "requested_url": "https://www.kununu.com/de/kreisverwaltung-des-westerwaldkreises/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Kreisverwaltung-des-Westerwaldkreises-ed6bb608\\browser\\reviews.html",
+        "browser_step": 119,
+        "final_url": "https://www.kununu.com/de/kreisverwaltung-des-westerwaldkreises/kommentare",
+        "observed_at": "2026-11-25T17:17:24.611059+00:00",
+        "http_status": 200,
+        "factor_cards_expanded": 3,
+        "reviews_collected": 4
+      }
+    ]
+  },
+  "source_url": "https://www.kununu.com/de/kreisverwaltung-des-westerwaldkreises",
+  "profile_source": "https://www.kununu.com/de/kreisverwaltung-des-westerwaldkreises/kommentare",
+  "review_stop_reason": "end_of_available_reviews",
+  "factor_score_coverage": {
+    "reviews_with_scores": 4,
+    "reviews_without_scores": 0,
+    "reviews_with_all_known_scores": 2,
+    "status": "partial"
+  },
+  "request_limits": {
+    "max_browser_steps": 295,
+    "browser_steps": 119,
+    "zyte_requests": 0
+  },
+  "reason": null
+}

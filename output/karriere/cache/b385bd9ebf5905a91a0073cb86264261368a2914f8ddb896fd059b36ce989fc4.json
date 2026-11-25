@@ -1,0 +1,9 @@
+{
+  "url": "https://career5.successfactors.eu/robots.txt",
+  "final_url": "https://career5.successfactors.eu/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/plain",
+  "fetched_at": "2026-11-25T16:09:50.358445+00:00",
+  "text": "User-agent: *\nDisallow: /\nDisallow: /*company\nAllow: /login"
+}

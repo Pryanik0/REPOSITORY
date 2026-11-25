@@ -1,0 +1,9 @@
+{
+  "url": "https://sinnwell.ag/robots.txt",
+  "final_url": "https://sinnwell.ag/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/plain; charset=UTF-8",
+  "fetched_at": "2026-11-25T16:32:32.556318+00:00",
+  "text": "user-agent:*\ndisallow:/contao/\ndisallow:/_contao/\n\nsitemap:https://sinnwell.ag/sitemap.xml"
+}

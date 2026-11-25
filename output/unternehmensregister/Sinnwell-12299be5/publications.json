@@ -1,0 +1,171 @@
+{
+  "company": {
+    "key": "Sinnwell",
+    "name": "Sinnwell",
+    "location": "München",
+    "name_source": "company_name",
+    "urls": [
+      "https://www.sinnwell.ag/de"
+    ],
+    "kununu_url": null,
+    "branches": [
+      "Unternehmens- & Personalberatung"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "80992",
+    "street": "Dessauer strasse 6",
+    "region": "Bayern",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:56:11.230116+00:00",
+  "searches": [
+    {
+      "accounting_only": true,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=Sinnwell&companyLocation=M%C3%BCnchen&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ACCOUNTING&drilldownFilter=22&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": false
+    },
+    {
+      "accounting_only": false,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=Sinnwell&companyLocation=M%C3%BCnchen&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ALL_AREAS&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": false
+    }
+  ],
+  "excluded_company_matches": [
+    {
+      "company": "audius SE, Weinstadt",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-06-22",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=6PV835-fuX2bdytxYhTJeFu-EeaCwVLqjylfIEJcOyJs4Ts2_97i-o-MutkqPDGoQcTjK6R8c0rqcbItLWWGkhoRRvd4_6jFQXbcEGse85sroHizeYEvSb_pz8h3K8RrRHjM6Ezh_g-Xiw8BLXOtCJnPxOLGQjhtSRcd6W2pJgmP_rpQU4F8lU6t18E07GRGmqw48G4icwNq6Por01gVL5i8xfMquIqImfQwcZSkqFbBFeBO",
+      "metadata": "audius SE, Weinstadt Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 22.06.2026 Sprache: Deutsch Befreite Unternehmen anzeigen ILK INTERNET GmbH Rechnerkommunikation im Internet, Karlsruhe audius IT-Service GmbH, Weinstadt Elektro Mahlberg GmbH, Bornheim audius GmbH, Freilassing audius GmbH, Ludwigsburg INBW Infrastruktur und Netzwerk Baden-Württemberg GmbH, Karlsruhe Sinnwell GmbH, München audius GmbH, Stuttgart",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "audius SE, Weinstadt",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-02-20",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=4Vgg-XWc-173FMwrUHOyfZHkHTN6AeVYTaXLcSph5d2I5No6aLcVh4NhCxIJgJtiC9jDhz-HW4b8sHdBb27xQjAnMtOlkQYNi5mAb-auIBpBnXickCwyw-bl0ne9HEK_IQyPCRLp7QPRMmmK0iUy47cFgFIDJX1dfp8bbTF-Iv384J5FVgui9ez7n9Xk-5ktQlKcEVujMsrP0hVOAUHr-UTCpKPbh6iEWWoPZi_h6Wp38BSp",
+      "metadata": "audius SE, Weinstadt Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 20.02.2026 Sprache: Deutsch Befreite Unternehmen anzeigen ILK INTERNET GmbH Rechnerkommunikation im Internet, Karlsruhe audius IT-Service GmbH, Weinstadt Elektro Mahlberg GmbH, Bornheim audius GmbH, Freilassing audius GmbH, Ludwigsburg INBW Infrastruktur und Netzwerk Baden-Württemberg GmbH, Karlsruhe Sinnwell Engineering GmbH, München Sinnwell GmbH, München audius GmbH, Stuttgart",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "audius SE, Weinstadt",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-03-17",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=ETSNUnjAjLfVlyVxJUGrDj0SHF8ndzwiwYaFHo9Y4IQlMoDV4tR78Zm9xwNgl1JCbKRiBL5ue4pixH9XomrQyvn6b2tCmeUvWnsKw3UcNOzjVVkYagxg0ewVd2MM8gR6HQiUHC17xPAvr9GlVvnC1Vzyu8-fDt3zW4n4YdHisKIqYvw4t_4FjPKiA6IWs4KOx4QNR9oreC6nJn2A71abzeVpw5XTxk6Su3qx5ackaLwofUJ3",
+      "metadata": "audius SE, Weinstadt Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 17.03.2025 Sprache: Deutsch Befreite Unternehmen anzeigen audius IT-Service GmbH, Weinstadt Elektro Mahlberg GmbH, Bornheim audius GmbH, Freilassing audius GmbH, Ludwigsburg Sinnwell Engineering GmbH, München Sinnwell GmbH, München audius GmbH, Stuttgart",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "audius SE, Weinstadt",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-06-22",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=q84idW9rvusIe61xkbJSn39zH4RiOjLh-fWGtWy2s0qFE3g7lWQcL08InBvVhJF_t_J6vG8KydfwJ1IvKm8XKo2Jqe1stAE9lUs8SzaqX0v_jQIdK8w07dFGrIg46KRfROYtaPUJSytWmogB821Gkf3dW6gbANmzW4sjxjmKLbT4fL22DVtXcAQiHWAkiYAnxlxLjnNiT3wz5EAtFOC1KA3ckNHX2gPmVnkTyjtL5HQlJb60",
+      "metadata": "audius SE, Weinstadt Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 22.06.2026 Sprache: Deutsch Befreite Unternehmen anzeigen ILK INTERNET GmbH Rechnerkommunikation im Internet, Karlsruhe audius IT-Service GmbH, Weinstadt Elektro Mahlberg GmbH, Bornheim audius GmbH, Freilassing audius GmbH, Ludwigsburg INBW Infrastruktur und Netzwerk Baden-Württemberg GmbH, Karlsruhe Sinnwell GmbH, München audius GmbH, Stuttgart",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "audius SE, Weinstadt",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-02-20",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=BpjFaZ3CqxRuu1yy9lbyvqhcx_GB36agp0snG5jplo2mcslai3GC11Esm-npVp1SZMNwhiy5TqllGY7DYtBfoIzFtDY7NJuK_eZfbQfvNG1I5bHZH4fnEAlmNb2z4LfgaGvaMb72sD9A57YLao-TaXhRcXBgS2_FsdYEZGKB6gdgB0PsSgGDXeZCdYIdF0wjbDQRKIE8ziWRKsQdQfOqasXeXIFAUje2LInfuA8X9LcHwBTe",
+      "metadata": "audius SE, Weinstadt Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 20.02.2026 Sprache: Deutsch Befreite Unternehmen anzeigen ILK INTERNET GmbH Rechnerkommunikation im Internet, Karlsruhe audius IT-Service GmbH, Weinstadt Elektro Mahlberg GmbH, Bornheim audius GmbH, Freilassing audius GmbH, Ludwigsburg INBW Infrastruktur und Netzwerk Baden-Württemberg GmbH, Karlsruhe Sinnwell Engineering GmbH, München Sinnwell GmbH, München audius GmbH, Stuttgart",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "audius SE, Weinstadt",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-03-17",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=HFQL_EFuL7qGibt03JTH8NrVNnTGprd1QmQwXAUn1Dr5lGS-T5WEPp8WOLRM4OQSADxKEzT0ia4I5sTULFOoEcx2VDx1ZjxSGSmZ59dgo0O2YL7b0C9zsnOCsiKQlPjhnD6_3PzMM91tJjkUHrwuq_jinYrYQejMYcD2cxkvxBdXA_z2ux0brvcKJeCZATFTL_rgfFwoGHHMJOVg-Fp8fGTFkuulG2ZbnqUEzk-S4m5Q0-U-",
+      "metadata": "audius SE, Weinstadt Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 17.03.2025 Sprache: Deutsch Befreite Unternehmen anzeigen audius IT-Service GmbH, Weinstadt Elektro Mahlberg GmbH, Bornheim audius GmbH, Freilassing audius GmbH, Ludwigsburg Sinnwell Engineering GmbH, München Sinnwell GmbH, München audius GmbH, Stuttgart",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    }
+  ],
+  "date_from": "2024-01-01",
+  "date_to": "2026-11-25",
+  "excluded_dates": [],
+  "max_publications": 30,
+  "truncated": false,
+  "coverage": {
+    "search_complete": true,
+    "more_pages": false,
+    "publication_limit_reached": false,
+    "downloads_selected": 3,
+    "downloads_succeeded": 3,
+    "download_limit_reached": true,
+    "downloads_complete": false,
+    "text_complete": true
+  },
+  "publications": [
+    {
+      "company": "Sinnwell GmbH, München",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-07-31",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=4vdsFKdIqgH9oo2PGOByE8OxsrNFXJSWuZjFH5Qz3gXTR0LyOS7sDOHYs7p_mAubk_-4JL_X_Nc_-hLS4L-zGgw-42vbKcpBI2qkiPpKFO8T4qDhbz4sOCBuewjS3xwat90h_TBqimq-szWM7w2WSf1QOCosEh2GQbRS9wTJF0B7Km8XtxO4Fh90sV_JSlleRWZ_OVNKTOuBENOYAPErJhsbHctqwmbUwWsMn9x1DuFZk_rV",
+      "metadata": "Sinnwell GmbH, München Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 audius SE, Weinstadt Datum: 31.07.2026 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "bekanntmachungen",
+      "index": 1
+    },
+    {
+      "company": "Sinnwell GmbH, München",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-02-27",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=QuQfrUYhR84FKjs4JCJu6Vtkq0RQgj0iKIC1rxibztuliTe9xVRRGxeIz3OrlOjJeGiDe0EN32KR0FnLAUL9T8kZ1V6YVzcqfYI0Nl0yFFrhUc9dflWZ-to8j8F4lAJcpoRvSPaJ3ObXn4E0w2FHB9cazreRJXSFXNzS-5u7sgtyjWN8mYmsBvoCFnu7UQYa9n7x7i2o41STbH089HkZcpnTuZURXHDC-cU8df7QMkeYLNsU",
+      "metadata": "Sinnwell GmbH, München Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 audius SE, Weinstadt Datum: 27.02.2026 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "bekanntmachungen",
+      "index": 2
+    },
+    {
+      "company": "Sinnwell GmbH, München",
+      "title": "Registerbekanntmachung nach dem Umwandlungsgesetz",
+      "publication_date": "2025-08-02",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=cV1rS0_CPAeb6MDodm5ZFWUnVHiApKg5ZMdB2gRXLrx_rl2ktaS9mV7Vitj0MTnWj6GFJ4A9l6D51g3NiB72ijBaf08b8wzHHC72MPAHmnt3zrOoZPHbOfHGkqRFl-SGtkm6P3pxpk7i1ru5PskSCDJeJtQ7-kPlwl6z5MgUm_aHawvod0nU4E058-Q3vGdVxYg32EbNw0B8wrXlLI9vySgSC07Tc8ezcKRB0-kDdqxxlISQ",
+      "metadata": "Sinnwell GmbH, München Registerbekanntmachungen Registerbekanntmachung nach dem Umwandlungsgesetz Datum: 02.08.2025 Sprache: Deutsch",
+      "source_area": "Registerbekanntmachungen",
+      "category": "bekanntmachungen",
+      "index": 3
+    },
+    {
+      "company": "Sinnwell GmbH, München",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-03-18",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=bRv5p8UR5YFKLqeq1wPtWoEhSKW1RbPAmJE2DOCt3JLDDrKj_YqjOgAn9RpNTPtsEcI5DmNtgvF7u_YA9JckGA-QB-jSmaIW_FtpppCKu4o74xy94ZbamrvS-sY2I4zT2sZ2KL35V0vZtWXfMbQekO58fY6hoU5MuW_O9PcJ-RUf8YiKXCCPygPXDFY4UGo-QSCGM7iw1CeDJafHg0J2AYpUdPrdWT2d-aCzAPFHOwE-sdjq",
+      "metadata": "Sinnwell GmbH, München Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 audius SE, Weinstadt Datum: 18.03.2025 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "bekanntmachungen",
+      "index": 4
+    },
+    {
+      "company": "Sinnwell GmbH, München",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2024-09-24",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=0Thm_D0n4bTG-Y3AT21JaHDHwVkxtPrpAQ2e6l-PIq7ckaOk3ubMGtfIwOOTsSF4NRkTi3ebSo-rrWFr-OS3pFK96u9_cGprcC3DDE2FK81tCh9ZaC5Bjl4WRugs65k-e4hL3BBnI1xJHsgh8yEaQ7_kHRXCKigCr8g8Lf8OBtVu_1Zps-D_0yfr7BQ-K-6-_Y5DMpgK0Y1TD6yFsxIOlLEiM_554hNmND9aJop-uJ2pXsqo",
+      "metadata": "Sinnwell GmbH, München Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 audius SE, Weinstadt Datum: 24.09.2024 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "bekanntmachungen",
+      "index": 5
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "provider": "gewerkschaften",
+  "status": "partial",
+  "company": {
+    "key": "Diakonie Düsseldorf",
+    "name": "Diakonie Düsseldorf Gemeindedienst der evangelischen Kirchengemeinden e.V.",
+    "location": "Düsseldorf",
+    "name_source": "company_name",
+    "urls": [
+      "https://www.diakonie-duesseldorf.de/"
+    ],
+    "kununu_url": "https://www.kununu.com/de/diakonie-duesseldorf",
+    "branches": [
+      "Gesundheit & Sozialwesen"
+    ],
+    "search_terms": [
+      "Diakonie Düsseldorf e.V."
+    ],
+    "career_urls": [],
+    "postal_code": "40233",
+    "street": "Platz der Diakonie 1",
+    "region": "Nordrhein-Westfalen",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "relevance": "company_mention",
+  "date_from": "2026-05-25",
+  "date_to": "2026-11-25",
+  "search_terms": [
+    "Diakonie Düsseldorf",
+    "Diakonie Düsseldorf Gemeindedienst der evangelischen Kirchengemeinden e.V.",
+    "Diakonie Düsseldorf e.V."
+  ],
+  "truncated": true,
+  "associations": [
+    {
+      "name": "DGB",
+      "status": "partial",
+      "manifest": "output\\gewerkschaften\\_sites\\DGB-df3cffd4\\fallback\\manifest.json",
+      "phase": "fallback",
+      "fallback_reason": "no_matching_primary_source",
+      "search_mode": "site_search",
+      "searches": [
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Diakonie+D%C3%BCsseldorf",
+          "company_key": "Diakonie Düsseldorf",
+          "query": "Diakonie Düsseldorf",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Diakonie+D%C3%BCsseldorf+Gemeindedienst+der+evangelischen+Kirchengemeinden+e.V.",
+          "company_key": "Diakonie Düsseldorf",
+          "query": "Diakonie Düsseldorf Gemeindedienst der evangelischen Kirchengemeinden e.V.",
+          "mechanism": "get_form",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Diakonie+D%C3%BCsseldorf+e.V.",
+          "company_key": "Diakonie Düsseldorf",
+          "query": "Diakonie Düsseldorf e.V.",
+          "mechanism": "get_form",
+          "status": "fetched"
+        }
+      ]
+    },
+    {
+      "name": "ver.di",
+      "status": "partial",
+      "manifest": "output\\gewerkschaften\\_sites\\ver-di-51994702\\fallback\\manifest.json",
+      "phase": "fallback",
+      "fallback_reason": "no_matching_primary_source",
+      "search_mode": "site_search",
+      "searches": [
+        {
+          "url": "https://www.verdi.de/suche?q=Diakonie+D%C3%BCsseldorf",
+          "company_key": "Diakonie Düsseldorf",
+          "query": "Diakonie Düsseldorf",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Diakonie+D%C3%BCsseldorf+Gemeindedienst+der+evangelischen+Kirchengemeinden+e.V.",
+          "company_key": "Diakonie Düsseldorf",
+          "query": "Diakonie Düsseldorf Gemeindedienst der evangelischen Kirchengemeinden e.V.",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        },
+        {
+          "url": "https://www.verdi.de/suche?q=Diakonie+D%C3%BCsseldorf+e.V.",
+          "company_key": "Diakonie Düsseldorf",
+          "query": "Diakonie Düsseldorf e.V.",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        }
+      ]
+    }
+  ],
+  "article_count": 0,
+  "articles": [],
+  "pdfs": {
+    "download_policy": "company_in_link_metadata_or_filename",
+    "downloaded_on_sources": 0,
+    "mentioning_company": 0,
+    "retained_as_articles": 0,
+    "index_path": null
+  },
+  "search_coverage": {
+    "fetched": 6,
+    "error": 0,
+    "not_attempted": 0,
+    "ignored_query": 0,
+    "sites_without_search": 0
+  },
+  "reason": "search_incomplete"
+}

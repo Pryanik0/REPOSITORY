@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Datenvertrag v0.4 (Entwurf): befunde/<firma>/befunde.json",
+  "description": "ENTWURF OHNE BEISPIELDATEN, hängt an A3c und E4c. Befunde der KI-Auswertung des Praktikanten je Firma und Signal (Aufgabe E4b). Dieses Format gibt es im Repository noch nicht, es ist unser Vorschlag. Die KI liest die Texte aus register, gewerkschaft, implisense und bei Bedarf kununu. Hinweis: Die Nutzungsbedingungen von Kununu verbieten die Eingabe der Texte in KI-Modelle, die Verantwortung dafür liegt beim Auftraggeber. Wir prüfen, ob das Zitat wörtlich im Volltext steht (E4j), und setzen den Befund anhand der Regeltabelle in eine Stufe um (E4k). Für diese Quelle gibt es noch keinen Silver-Ladeteil.",
+  "type": "object",
+  "required": ["findings"],
+  "properties": {
+    "findings": {
+      "type": "array",
+      "description": "Befunde zu dieser Firma",
+      "items": {
+        "type": "object",
+        "required": ["signal_id", "finding", "source_ref", "model", "prompt_version", "created_at"],
+        "if": { "properties": { "finding": { "const": "yes" } }, "required": ["finding"] },
+        "then": { "required": ["quote"], "properties": { "quote": { "type": "string", "minLength": 1 } } },
+        "properties": {
+          "signal_id": { "type": "string", "x-anzeige": "Signal-Kennung", "minLength": 1, "description": "Kennung des Signals aus der Signalliste (E4a)" },
+          "finding": { "type": "string", "x-bekannte-werte": ["yes", "no", "unclear"], "description": "Ergebnis: yes (Signal liegt vor), no (liegt nicht vor), unclear (nicht entscheidbar). Bei yes ist quote Pflicht" },
+          "quote": { "type": ["string", "null"], "description": "Wörtliches Zitat aus dem Text, das den Befund belegt" },
+          "location": { "type": ["string", "null"], "description": "Fundstelle im Text, zum Beispiel Abschnitt oder Seite" },
+          "values": {
+            "type": "array",
+            "description": "Optional (Ergänzung 2026-11-18). Zahlen, die die KI aus dem Text oder den Tabellen eines Dokuments gelesen hat, für die Signale S5.1 bis S5.3 (Umsatz und EBIT je Geschäftsjahr). Die KI liest nur ab und nennt die Fundstelle, die Prozentrechnung und die Stufe berechnen wir. Bei Zahlen ist finding yes. Findet die KI keine, ist finding unclear und values leer oder fehlt",
+            "items": {
+              "type": "object",
+              "required": ["metric", "period_end", "value", "unit", "quote"],
+              "properties": {
+                "metric": { "type": "string", "x-bekannte-werte": ["revenue", "ebit"], "description": "Welche Kennzahl: revenue (Umsatzerlöse) oder ebit (operatives Ergebnis vor Zinsen und Steuern). Offene Liste, die Definition von ebit ist mit dem Auftraggeber noch zu klären" },
+                "period_end": { "type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$", "description": "Stichtag des Geschäftsjahres, zum Beispiel 2024-12-31" },
+                "value": { "type": "number", "description": "Wert in der Einheit unit. Ein Verlust ist negativ" },
+                "unit": { "type": "string", "x-bekannte-werte": ["EUR", "TEUR"], "description": "Einheit, wie im Bericht angegeben. Offene Liste" },
+                "quote": { "type": "string", "minLength": 1, "description": "Wörtlich die Tabellenzeile oder Textstelle, aus der die Zahl stammt, zum Beispiel Umsatzerlöse | 4.100.000,00 | 5.000.000,00" },
+                "derivation": { "type": ["string", "null"], "description": "Nur wenn die Zahl nicht direkt dasteht, sondern gerechnet wurde (zum Beispiel EBIT aus Jahresüberschuss, Steuern und Zinsen): welche Zeilen und wie" }
+              }
+            }
+          },
+          "source_ref": { "type": "string", "x-anzeige": "Quelle:Kennung", "minLength": 1, "description": "Verweis auf den ausgewerteten Text: Quelle, Doppelpunkt und die Kennung. Register: category-index (zum Beispiel finanzberichte-1). Gewerkschaft: id des Artikels. Kununu: id der Bewertung. Implisense hat im Original keine Kennung, hier ist eine feste Kennung aus Datum, Titel und Adresse zu bilden (offen)" },
+          "model": { "type": "string", "description": "Verwendetes Modell" },
+          "prompt_version": { "type": "string", "description": "Version des Prompts" },
+          "input_fingerprint": { "type": ["string", "null"], "x-anzeige": "SHA-256", "description": "Fingerabdruck (SHA-256) des an das Modell gegebenen Textes" },
+          "created_at": { "type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}T[0-9]{2}:[0-9]{2}:[0-9]{2}(\\.[0-9]+)?(Z|[+-][0-9]{2}:[0-9]{2})$", "description": "Zeitpunkt der Auswertung" }
+        }
+      }
+    }
+  }
+}

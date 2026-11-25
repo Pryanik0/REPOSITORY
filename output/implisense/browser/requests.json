@@ -1,0 +1,14 @@
+[
+  {
+    "method": "POST",
+    "host": "app.implisense.com",
+    "path": "/api/lists/c9e4dedf-afcb-4e10-957f-0afa22e94eb8/news",
+    "blocked": false
+  },
+  {
+    "method": "GET",
+    "host": "app.implisense.com",
+    "path": "/api/lists/c9e4dedf-afcb-4e10-957f-0afa22e94eb8/news",
+    "blocked": false
+  }
+]

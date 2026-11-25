@@ -1,0 +1,709 @@
+{
+  "provider": "kununu",
+  "backend": "browser",
+  "status": "ok",
+  "query": "elderbrook solutions GmbH",
+  "profile": {
+    "url": "https://www.kununu.com/de/elderbrook-solutions1",
+    "name": "Elderbrook Solutions GmbH",
+    "overall_score": 4.3,
+    "review_count": 16,
+    "recommendation_percent": 88,
+    "recommendation_period": "last_2_years",
+    "observed_at": "2026-11-25T17:13:36.561266+00:00"
+  },
+  "reviews": [
+    {
+      "id": "6325b485-6a28-4546-a009-151f2330d5a6",
+      "url": "https://www.kununu.com/de/elderbrook-solutions1/bewertung/6325b485-6a28-4546-a009-151f2330d5a6",
+      "title": "Ein modernes Arbeitsumfeld mit viel Eigenverantwortung",
+      "content": "Die große Flexibilität, das Vertrauen in die Mitarbeitenden und die Möglichkeit, eigenverantwortlich zu arbeiten und Dinge aktiv mitzugestalten. Besonders schätze ich die abwechslungsreichen Aufgaben, das wertschätzende Miteinander und die Offenheit für neue Ideen. Auch die sehr guten Rahmenbedingungen und die vielfältigen Benefits tragen zu einem positiven Arbeitsumfeld bei.\n\nnichts\n\nDie bereichsübergreifende Kommunikation und der regelmäßige Austausch könnten insbesondere im Remote-Arbeitsumfeld noch weiter gestärkt werden.\n\nAngenehme Arbeitsatmosphäre mit einem überwiegend offenen und respektvollen Umgang miteinander. Die Zusammenarbeit ist kollegial und von gegenseitiger Unterstützung geprägt.\n\nelderbrook genießt ein positives Image und überzeugt durch Professionalität, Innovationskraft und eine zukunftsorientierte Ausrichtung. Die Identifikation mit dem Unternehmen ist hoch.\n\nDie hohe Flexibilität ermöglicht eine ausgezeichnete Work-Life-Balance. Die vollständige Remote-Arbeit bietet viele Freiheiten, birgt aber auch die Gefahr, dass die Grenzen zwischen Beruf und Privatleben verschwimmen. Hier ist jeder selbst gefordert, bewusst auf eine gute Balance zu achten.\n\nAufgrund der überschaubaren Unternehmensgröße sind klassische Karrierewege und Entwicklungsperspektiven nicht immer klar vorgezeichnet. Gleichzeitig bieten sich vielfältige Möglichkeiten, Verantwortung zu übernehmen, sich fachlich und persönlich weiterzuentwickeln und die eigene Rolle aktiv mitzugestalten.\n\nDie Gehälter bewegen sich auf einem angemessenen Niveau. Besonders positiv hervorzuheben ist das überdurchschnittliche und vielfältige Angebot an Zusatzleistungen, das einen echten Mehrwert für die Mitarbeitenden bietet.\n\nUmwelt- und Sozialbewusstsein haben einen hohen Stellenwert bei elderbrook. Das Engagement zeigt sich unter anderem in der EcoVadis-Bewertung, der Teilnahme an der KlimaWIN-Initiative sowie der Unterstützung von „Mein Regenwald“. Nachhaltigkeit und gesellschaftliche Verantwortung werden aktiv aufgegriffen und kontinuierlich weiterentwickelt.\n\nEin gutes und kollegiales Miteinander, geprägt von gegenseitiger Unterstützung und Hilfsbereitschaft. Besonders schön ist, dass man sich auch über die räumliche Distanz hinweg aufeinander verlassen kann.\n\nDie Erfahrung und das Wissen älterer Mitarbeitender werden geschätzt. Die Zusammenarbeit zwischen den Generationen ist von gegenseitigem Respekt und Wertschätzung geprägt. Alter spielt bei der Übernahme von Verantwortung und der persönlichen Weiterentwicklung keine einschränkende Rolle.\n\nDas Vorgesetztenverhalten ist insgesamt positiv geprägt. Der Umgang ist respektvoll und wertschätzend, und es wird viel Raum für eigenverantwortliches Arbeiten gelassen. In einzelnen Situationen wären eine noch klarere Kommunikation und transparentere Entscheidungen wünschenswert.\n\nDie Arbeitsbedingungen sind sehr gut. Flexible Arbeitszeiten, die Möglichkeit zum vollständig mobilen Arbeiten und ein hohes Maß an Eigenverantwortung ermöglichen eine individuelle Gestaltung des Arbeitsalltags. Die technischen Voraussetzungen sind gut und unterstützen eine effiziente Zusammenarbeit auch über räumliche Distanzen hinweg.\n\nDie Kommunikation ist grundsätzlich gut, allerdings führt die vollständige Remote-Arbeit dazu, dass der informelle Austausch häufig zu kurz kommt. Informationen werden nicht immer ausreichend bereichsübergreifend geteilt, sodass an manchen Stellen mehr Transparenz und Abstimmung hilfreich wären.\n\nGleichberechtigung wird im Unternehmen gelebt. Unabhängig von Geschlecht, Alter oder persönlichem Hintergrund stehen allen Mitarbeitenden die gleichen Chancen und Möglichkeiten offen. Ein respektvoller und wertschätzender Umgang ist selbstverständlich.\n\nDie Aufgaben sind vielseitig, abwechslungsreich und anspruchsvoll. Es gibt viel Gestaltungsspielraum, die Möglichkeit, eigene Ideen einzubringen und Themen eigenverantwortlich voranzutreiben. Auch die persönliche und fachliche Weiterentwicklung kommt dabei nicht zu kurz.",
+      "rating": 4.6,
+      "sections": {
+        "positive": "Die große Flexibilität, das Vertrauen in die Mitarbeitenden und die Möglichkeit, eigenverantwortlich zu arbeiten und Dinge aktiv mitzugestalten. Besonders schätze ich die abwechslungsreichen Aufgaben, das wertschätzende Miteinander und die Offenheit für neue Ideen. Auch die sehr guten Rahmenbedingungen und die vielfältigen Benefits tragen zu einem positiven Arbeitsumfeld bei.",
+        "negative": "nichts",
+        "suggestion": "Die bereichsübergreifende Kommunikation und der regelmäßige Austausch könnten insbesondere im Remote-Arbeitsumfeld noch weiter gestärkt werden."
+      },
+      "factor_comments": {
+        "atmosphere": "Angenehme Arbeitsatmosphäre mit einem überwiegend offenen und respektvollen Umgang miteinander. Die Zusammenarbeit ist kollegial und von gegenseitiger Unterstützung geprägt.",
+        "image": "elderbrook genießt ein positives Image und überzeugt durch Professionalität, Innovationskraft und eine zukunftsorientierte Ausrichtung. Die Identifikation mit dem Unternehmen ist hoch.",
+        "workLife": "Die hohe Flexibilität ermöglicht eine ausgezeichnete Work-Life-Balance. Die vollständige Remote-Arbeit bietet viele Freiheiten, birgt aber auch die Gefahr, dass die Grenzen zwischen Beruf und Privatleben verschwimmen. Hier ist jeder selbst gefordert, bewusst auf eine gute Balance zu achten.",
+        "career": "Aufgrund der überschaubaren Unternehmensgröße sind klassische Karrierewege und Entwicklungsperspektiven nicht immer klar vorgezeichnet. Gleichzeitig bieten sich vielfältige Möglichkeiten, Verantwortung zu übernehmen, sich fachlich und persönlich weiterzuentwickeln und die eigene Rolle aktiv mitzugestalten.",
+        "salary": "Die Gehälter bewegen sich auf einem angemessenen Niveau. Besonders positiv hervorzuheben ist das überdurchschnittliche und vielfältige Angebot an Zusatzleistungen, das einen echten Mehrwert für die Mitarbeitenden bietet.",
+        "environment": "Umwelt- und Sozialbewusstsein haben einen hohen Stellenwert bei elderbrook. Das Engagement zeigt sich unter anderem in der EcoVadis-Bewertung, der Teilnahme an der KlimaWIN-Initiative sowie der Unterstützung von „Mein Regenwald“. Nachhaltigkeit und gesellschaftliche Verantwortung werden aktiv aufgegriffen und kontinuierlich weiterentwickelt.",
+        "teamwork": "Ein gutes und kollegiales Miteinander, geprägt von gegenseitiger Unterstützung und Hilfsbereitschaft. Besonders schön ist, dass man sich auch über die räumliche Distanz hinweg aufeinander verlassen kann.",
+        "oldColleagues": "Die Erfahrung und das Wissen älterer Mitarbeitender werden geschätzt. Die Zusammenarbeit zwischen den Generationen ist von gegenseitigem Respekt und Wertschätzung geprägt. Alter spielt bei der Übernahme von Verantwortung und der persönlichen Weiterentwicklung keine einschränkende Rolle.",
+        "leadership": "Das Vorgesetztenverhalten ist insgesamt positiv geprägt. Der Umgang ist respektvoll und wertschätzend, und es wird viel Raum für eigenverantwortliches Arbeiten gelassen. In einzelnen Situationen wären eine noch klarere Kommunikation und transparentere Entscheidungen wünschenswert.",
+        "workConditions": "Die Arbeitsbedingungen sind sehr gut. Flexible Arbeitszeiten, die Möglichkeit zum vollständig mobilen Arbeiten und ein hohes Maß an Eigenverantwortung ermöglichen eine individuelle Gestaltung des Arbeitsalltags. Die technischen Voraussetzungen sind gut und unterstützen eine effiziente Zusammenarbeit auch über räumliche Distanzen hinweg.",
+        "communication": "Die Kommunikation ist grundsätzlich gut, allerdings führt die vollständige Remote-Arbeit dazu, dass der informelle Austausch häufig zu kurz kommt. Informationen werden nicht immer ausreichend bereichsübergreifend geteilt, sodass an manchen Stellen mehr Transparenz und Abstimmung hilfreich wären.",
+        "equality": "Gleichberechtigung wird im Unternehmen gelebt. Unabhängig von Geschlecht, Alter oder persönlichem Hintergrund stehen allen Mitarbeitenden die gleichen Chancen und Möglichkeiten offen. Ein respektvoller und wertschätzender Umgang ist selbstverständlich.",
+        "tasks": "Die Aufgaben sind vielseitig, abwechslungsreich und anspruchsvoll. Es gibt viel Gestaltungsspielraum, die Möglichkeit, eigene Ideen einzubringen und Themen eigenverantwortlich voranzutreiben. Auch die persönliche und fachliche Weiterentwicklung kommt dabei nicht zu kurz."
+      },
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 5.0,
+        "communication": 4.0,
+        "workConditions": 5.0,
+        "leadership": 4.0,
+        "teamwork": 4.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 4.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-10-20T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "8bca1e83-7608-46f5-a883-aea7e8546a7c",
+      "url": "https://www.kununu.com/de/elderbrook-solutions1/bewertung/8bca1e83-7608-46f5-a883-aea7e8546a7c",
+      "title": "Top Arbeitsklima und wertschätzender Umgang",
+      "content": "Offene Unternehmens-Kultur, Nahbarkeit und grandiose Arbeitsverhältnisse",
+      "rating": 4.9,
+      "sections": {
+        "positive": "Offene Unternehmens-Kultur, Nahbarkeit und grandiose Arbeitsverhältnisse",
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 4.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-09-23T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "ba655344-44b4-4f98-b8ce-7ccc08f57859",
+      "url": "https://www.kununu.com/de/elderbrook-solutions1/bewertung/ba655344-44b4-4f98-b8ce-7ccc08f57859",
+      "title": "Rundum ein toller Arbeitgeber - für ein kleines Unternehmen erstaunlich professionell. Mitarbeiter ist das größte Asset",
+      "content": "Junges, modernes, offenes Unternehmen. Gute Ideen, offene Fehlerkultur als Lernmöglichkeit. Großes soziales Engagement der Mitarbeiter. Ermutigt und befähigt auch Quereinsteiger und Newcomer. Fördert eine internationale, multikulturelle Mitarbeiterschaft\n\nnichts!!\n\nsehr angenehm, kollegial, wertschätzend und zielorientiert\n\nIch arbeite total gerne bei elderbrook und identifiziere mich mit dem Unternehmen!\n\nflexible Arbeitszeiten ermöglichen ein gutes Zusammenspiel zwischen Beruf, Familie und Freizeit\n\nfür ein relativ kleines Unternehmen sowohl Karrieremöglichkeiten in Experten- als auch Führungsrollen. Wird über externe Schulungen/Kurse gefördert und begleitet!\n\nmehr Unternehmens-Benefits wirst du in anderen Firmen kaum mehr finden!\n\nsehr ausgeprägt! Mitarbeiter im Environmental, Social, and Governance (ESG) Board immer erwünscht!\n\nauch intensive, diverse Diskussionen sind erlaubt und führen zu qualitativ wertvollen und gemeinsam getragenen Ergebnissen\n\nabsolute Wertschätzung von älteren Mitarbeitern!!\n\ngroßes Bemühen um das Wohl jedes Teammitgliedes\n\noptimale Büroausstattung (Homeoffice!)\n\nklare Kommunikation, z.B. in regelmäßig stattfindenden, firmenweiten Internetformaten (Landingpage/f2f Meetings/Unternehmensupdates...)\n\nalle Mitarbeiter finden gleiche Bedingungen vor, Aufstiegschancen sind für alle gleich. Schönes Patenschaftsmodell!\n\ndie Firma ist ständig in Bewegung und es fallen stets neue und interessante Aufgaben an",
+      "rating": 4.9,
+      "sections": {
+        "positive": "Junges, modernes, offenes Unternehmen. Gute Ideen, offene Fehlerkultur als Lernmöglichkeit. Großes soziales Engagement der Mitarbeiter. Ermutigt und befähigt auch Quereinsteiger und Newcomer. Fördert eine internationale, multikulturelle Mitarbeiterschaft",
+        "negative": "nichts!!",
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "sehr angenehm, kollegial, wertschätzend und zielorientiert",
+        "image": "Ich arbeite total gerne bei elderbrook und identifiziere mich mit dem Unternehmen!",
+        "workLife": "flexible Arbeitszeiten ermöglichen ein gutes Zusammenspiel zwischen Beruf, Familie und Freizeit",
+        "career": "für ein relativ kleines Unternehmen sowohl Karrieremöglichkeiten in Experten- als auch Führungsrollen. Wird über externe Schulungen/Kurse gefördert und begleitet!",
+        "salary": "mehr Unternehmens-Benefits wirst du in anderen Firmen kaum mehr finden!",
+        "environment": "sehr ausgeprägt! Mitarbeiter im Environmental, Social, and Governance (ESG) Board immer erwünscht!",
+        "teamwork": "auch intensive, diverse Diskussionen sind erlaubt und führen zu qualitativ wertvollen und gemeinsam getragenen Ergebnissen",
+        "oldColleagues": "absolute Wertschätzung von älteren Mitarbeitern!!",
+        "leadership": "großes Bemühen um das Wohl jedes Teammitgliedes",
+        "workConditions": "optimale Büroausstattung (Homeoffice!)",
+        "communication": "klare Kommunikation, z.B. in regelmäßig stattfindenden, firmenweiten Internetformaten (Landingpage/f2f Meetings/Unternehmensupdates...)",
+        "equality": "alle Mitarbeiter finden gleiche Bedingungen vor, Aufstiegschancen sind für alle gleich. Schönes Patenschaftsmodell!",
+        "tasks": "die Firma ist ständig in Bewegung und es fallen stets neue und interessante Aufgaben an"
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 4.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-09-22T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "152a71c2-5e0f-4cfb-af86-a12470724c9d",
+      "url": "https://www.kununu.com/de/elderbrook-solutions1/bewertung/152a71c2-5e0f-4cfb-af86-a12470724c9d",
+      "title": "Mal so mal so.",
+      "content": "Ganz okay unter Kollegen.\n\nSehr gut.\n\nMan gibt sich Umweltbewusst. Fuhrpark, vor allem der der Geschäftsführung gibt jedoch ein extrem gegenteiliges Bild ab. Hier wäre es wünschenswert mit gutem Beispiel voranzugehen.\n\nJe nach Kollegen gut, aber teilweise auch von Misstrauen geprägt. Sehr starkes Silo denken.\n\nViele unerfahrene Führungskräft, wirken überfordert. Auch Quote stimmt nicht. Viele Heads auf wenige tatsächliche Angestellte.\n\nNicht zumutbar, vieles bekommt man nur irgendwie mit.",
+      "rating": 2.5,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Ganz okay unter Kollegen.",
+        "workLife": "Sehr gut.",
+        "environment": "Man gibt sich Umweltbewusst. Fuhrpark, vor allem der der Geschäftsführung gibt jedoch ein extrem gegenteiliges Bild ab. Hier wäre es wünschenswert mit gutem Beispiel voranzugehen.",
+        "teamwork": "Je nach Kollegen gut, aber teilweise auch von Misstrauen geprägt. Sehr starkes Silo denken.",
+        "leadership": "Viele unerfahrene Führungskräft, wirken überfordert. Auch Quote stimmt nicht. Viele Heads auf wenige tatsächliche Angestellte.",
+        "communication": "Nicht zumutbar, vieles bekommt man nur irgendwie mit."
+      },
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 4.0,
+        "communication": 1.0,
+        "workConditions": 4.0,
+        "leadership": 1.0,
+        "teamwork": 2.0,
+        "oldColleagues": 4.0,
+        "equality": 3.0,
+        "career": 1.0,
+        "salary": 2.0,
+        "image": 2.0,
+        "environment": 1.0,
+        "tasks": 4.0
+      },
+      "published_at": "2026-09-11T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "3df1d3d5-06f8-4117-ac69-b9b0633e307e",
+      "url": "https://www.kununu.com/de/elderbrook-solutions1/bewertung/3df1d3d5-06f8-4117-ac69-b9b0633e307e",
+      "title": "I am grateful to be able to work for elderbrook solutions",
+      "content": "In my opinion, there is a culture of mutual respect throughout the company\n\nI am largely free to organise my own working hours. If I have personal commitments, I am allowed to adjust my work commitments accordingly, and there is a great deal of understanding in this regard.\n\nPersonal development is supported by a good range of further training opportunities. Whether it’s one-to-one training or standardised online courses, there is a wide range of options available.\n\nIn my opinion, Elderbrook is very socially committed and organises regular charity events.\n\nThere is a particularly strong sense of team spirit within the departments.\n\nA very supportive and collegial atmosphere. In my opinion, at elderbrook everyone is respected for who they are.\n\nI have a brilliant and exemplary manager. I feel supported and valued.\n\nCommunication is always respectful and supportive.\n\nHere, all staff members have the same opportunities and rights.\n\nAs my time with the company continues, I am being entrusted with more areas of responsibility and given greater trust. That gives me great pleasure.",
+      "rating": 4.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "In my opinion, there is a culture of mutual respect throughout the company",
+        "workLife": "I am largely free to organise my own working hours. If I have personal commitments, I am allowed to adjust my work commitments accordingly, and there is a great deal of understanding in this regard.",
+        "career": "Personal development is supported by a good range of further training opportunities. Whether it’s one-to-one training or standardised online courses, there is a wide range of options available.",
+        "environment": "In my opinion, Elderbrook is very socially committed and organises regular charity events.",
+        "teamwork": "There is a particularly strong sense of team spirit within the departments.",
+        "oldColleagues": "A very supportive and collegial atmosphere. In my opinion, at elderbrook everyone is respected for who they are.",
+        "leadership": "I have a brilliant and exemplary manager. I feel supported and valued.",
+        "communication": "Communication is always respectful and supportive.",
+        "equality": "Here, all staff members have the same opportunities and rights.",
+        "tasks": "As my time with the company continues, I am being entrusted with more areas of responsibility and given greater trust. That gives me great pleasure."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 4.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 4.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-08-01T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "dd8a089d-b9da-4e60-bec5-86fb98155b05",
+      "url": "https://www.kununu.com/de/elderbrook-solutions1/bewertung/dd8a089d-b9da-4e60-bec5-86fb98155b05",
+      "title": "Weak leadership and a lack of professionalism",
+      "content": "nothing, really nothing!!\n\nIn my view, the company's greatest weaknesses are poor leadership, unclear communication, and a lack of professional structures. Decisions often seemed difficult to fathom, and in my experience, professional expertise and leadership qualities were not given sufficient consideration when filling management positions.\n\nIn my experience, the company suffered from poor management decisions and unclear priorities, which negatively affected day-to-day work.\nI found the working atmosphere to be tense and lacking in appreciation. From my perspective, there was a lack of trust, openness, and respectful interaction.\nThe work atmosphere was not very motivating. I often had the impression that problems were simply accepted rather than resolved constructively.\n\nA heavy workload and last-minute changes in priorities made achieving a balanced work-life balance difficult.\n\nOverall, team cohesion was rather weak. In my view, cross departmental collaboration was limited, and mutual support could not be taken for granted.\n\nIn my experience, the managers lacked both the necessary technical knowledge and the essential leadership and communication skills. Decisions often appeared unclear or difficult to comprehend, which made daily work more difficult.\nI had the impression that the executives were not sufficiently qualified for their positions, neither in terms of professional expertise nor leadership skills. In my view, this led to inefficient decisions and an unprofessional work atmosphere.\n\nIn my view, the working conditions did not meet expectations. Workflows were often organized inefficiently, and there was a lack of clear structures and processes.\n\nIn my view, internal communication was inadequate. Decisions were often not communicated transparently, and information arrived late or was incomplete.\n\nThe tasks did not meet my expectations and offered few opportunities to further develop my professional skills.",
+      "rating": 1.2,
+      "sections": {
+        "positive": "nothing, really nothing!!",
+        "negative": "In my view, the company's greatest weaknesses are poor leadership, unclear communication, and a lack of professional structures. Decisions often seemed difficult to fathom, and in my experience, professional expertise and leadership qualities were not given sufficient consideration when filling management positions.",
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "In my experience, the company suffered from poor management decisions and unclear priorities, which negatively affected day-to-day work.\nI found the working atmosphere to be tense and lacking in appreciation. From my perspective, there was a lack of trust, openness, and respectful interaction.\nThe work atmosphere was not very motivating. I often had the impression that problems were simply accepted rather than resolved constructively.",
+        "workLife": "A heavy workload and last-minute changes in priorities made achieving a balanced work-life balance difficult.",
+        "teamwork": "Overall, team cohesion was rather weak. In my view, cross departmental collaboration was limited, and mutual support could not be taken for granted.",
+        "leadership": "In my experience, the managers lacked both the necessary technical knowledge and the essential leadership and communication skills. Decisions often appeared unclear or difficult to comprehend, which made daily work more difficult.\nI had the impression that the executives were not sufficiently qualified for their positions, neither in terms of professional expertise nor leadership skills. In my view, this led to inefficient decisions and an unprofessional work atmosphere.",
+        "workConditions": "In my view, the working conditions did not meet expectations. Workflows were often organized inefficiently, and there was a lack of clear structures and processes.",
+        "communication": "In my view, internal communication was inadequate. Decisions were often not communicated transparently, and information arrived late or was incomplete.",
+        "tasks": "The tasks did not meet my expectations and offered few opportunities to further develop my professional skills."
+      },
+      "factor_scores": {
+        "atmosphere": 1.0,
+        "workLife": 1.0,
+        "communication": 1.0,
+        "workConditions": 1.0,
+        "leadership": 1.0,
+        "teamwork": 1.0,
+        "oldColleagues": 1.0,
+        "equality": 1.0,
+        "career": 3.0,
+        "salary": 1.0,
+        "image": 1.0,
+        "environment": 1.0,
+        "tasks": 1.0
+      },
+      "published_at": "2026-07-26T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "75e376e3-3416-4d27-af6d-0d3fbadae027",
+      "url": "https://www.kununu.com/de/elderbrook-solutions1/bewertung/75e376e3-3416-4d27-af6d-0d3fbadae027",
+      "title": "Toller Arbeitgeber mit wertschätzendem Umgang",
+      "content": "Es wird Wert auf die Mitarbeiter gelegt und jeder findet seinen Platz.",
+      "rating": 5.0,
+      "sections": {
+        "positive": "Es wird Wert auf die Mitarbeiter gelegt und jeder findet seinen Platz.",
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-02-12T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "3ed60deb-8b99-4e7a-9356-2beef3b733e6",
+      "url": "https://www.kununu.com/de/elderbrook-solutions1/bewertung/3ed60deb-8b99-4e7a-9356-2beef3b733e6",
+      "title": "Innovatives, wachsendes, Unternehmen, wo gegenseitige Wertschätzung gelebt wird.",
+      "content": "Offen, hilfsbereit, wertschätzend\n\nIndiv. gestaltbar.\n\nStark ausgeprägt\n\nSehr freundlicher und hilfbereiter Umgang untereinander.\n\nOffene Ohren und gewillt, zuzuhören.\n\nKurze und flache Hierachiewege, offene Ohren aller Führungskräfte",
+      "rating": 4.7,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Offen, hilfsbereit, wertschätzend",
+        "workLife": "Indiv. gestaltbar.",
+        "environment": "Stark ausgeprägt",
+        "teamwork": "Sehr freundlicher und hilfbereiter Umgang untereinander.",
+        "leadership": "Offene Ohren und gewillt, zuzuhören.",
+        "communication": "Kurze und flache Hierachiewege, offene Ohren aller Führungskräfte"
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 4.0,
+        "workConditions": 4.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 4.0,
+        "environment": 5.0,
+        "tasks": 4.0
+      },
+      "published_at": "2025-10-28T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "02f3b2da-7079-483f-a34c-2d4eaf6476f2",
+      "url": "https://www.kununu.com/de/elderbrook-solutions1/bewertung/02f3b2da-7079-483f-a34c-2d4eaf6476f2",
+      "title": "Einfach nur WOW!",
+      "content": "Soziale Verantwortung, Möglichkeit sich einzubringen, das tolle Miteinander, Vielfältigkeit der Aufgaben, Angebot auch wechseln zu dürfen, sehr viele Angebote für den Mitarbeiter selbst (egal ob Dienstrad, Dienstwagen, betriebliche AV, betriebliche KV und vieles mehr). Ich kann gar nicht alles aufzählen, was es alles für Mitarbeitende gibt.\nIch fühle mich angekommen in der elderbrook Familie und bin stolz und dankbar ein Teil sein zu dürfen.\n\nNichts, es gibt nur Positives zu berichten!\n\nAbsolut gar nichts.\n\nIch habe noch nie ein so soziales Unternehmen erleben dürfen, danke vielmals.",
+      "rating": 4.9,
+      "sections": {
+        "positive": "Soziale Verantwortung, Möglichkeit sich einzubringen, das tolle Miteinander, Vielfältigkeit der Aufgaben, Angebot auch wechseln zu dürfen, sehr viele Angebote für den Mitarbeiter selbst (egal ob Dienstrad, Dienstwagen, betriebliche AV, betriebliche KV und vieles mehr). Ich kann gar nicht alles aufzählen, was es alles für Mitarbeitende gibt.\nIch fühle mich angekommen in der elderbrook Familie und bin stolz und dankbar ein Teil sein zu dürfen.",
+        "negative": "Nichts, es gibt nur Positives zu berichten!",
+        "suggestion": "Absolut gar nichts."
+      },
+      "factor_comments": {
+        "environment": "Ich habe noch nie ein so soziales Unternehmen erleben dürfen, danke vielmals."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 4.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-10-20T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "20e1bf94-17d6-424c-b3b5-8c3ed143a579",
+      "url": "https://www.kununu.com/de/elderbrook-solutions1/bewertung/20e1bf94-17d6-424c-b3b5-8c3ed143a579",
+      "title": "Toller und sozial engagierter Arbeitgeber",
+      "content": "Konstruktives und professionelles Miteinander.\n\nSehr professionell und anerkannt.\n\nHome-Office und flexible Arbeitszeiten sind für mich ein absoluter Benefit.\n\nRegelmäßige Weiterbildungsmöglichkeiten werden begrüßt.\n\nEs gibt vermutlich immer Luft nach oben. Aber hier wird gute Leistung definitiv anerkannt.\n\nSehr engagierter Arbeitgeber, der seinen Mitarbeitenden auch in schweren Zeiten zur Seite steht.\n\nJeder darf hier sein, wie er ist und wird wertgeschätzt.\n\nFlache Hierarchien und ein sehr guter Austausch.\n\nKonstruktiver Austausch, Wissenstransfer und Stringenz.\n\nHier bekommt man alles, was man benötigt, um gut arbeiten zu können.\n\nOffen, transparent und auf Augenhöhe.\n\nSehr vielschichtig und abwechslungsreich.",
+      "rating": 4.9,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Konstruktives und professionelles Miteinander.",
+        "image": "Sehr professionell und anerkannt.",
+        "workLife": "Home-Office und flexible Arbeitszeiten sind für mich ein absoluter Benefit.",
+        "career": "Regelmäßige Weiterbildungsmöglichkeiten werden begrüßt.",
+        "salary": "Es gibt vermutlich immer Luft nach oben. Aber hier wird gute Leistung definitiv anerkannt.",
+        "environment": "Sehr engagierter Arbeitgeber, der seinen Mitarbeitenden auch in schweren Zeiten zur Seite steht.",
+        "teamwork": "Jeder darf hier sein, wie er ist und wird wertgeschätzt.",
+        "oldColleagues": "Flache Hierarchien und ein sehr guter Austausch.",
+        "leadership": "Konstruktiver Austausch, Wissenstransfer und Stringenz.",
+        "workConditions": "Hier bekommt man alles, was man benötigt, um gut arbeiten zu können.",
+        "communication": "Offen, transparent und auf Augenhöhe.",
+        "tasks": "Sehr vielschichtig und abwechslungsreich."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 4.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-07-31T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "803d38d8-1be9-46c0-b879-579ae55f5154",
+      "url": "https://www.kununu.com/de/elderbrook-solutions1/bewertung/803d38d8-1be9-46c0-b879-579ae55f5154",
+      "title": "Tolle Firma, wo man sich weiterentwickeln kann und die viel bietet",
+      "content": "Sehr gute Atmosphäre, die FK haben Vertrauen in ihre MA, geben Feedback und Lob\n\nelderbrook ist in der Region nicht bekannt, hat aber ein sehr gutes Image bei denen, die die Firma kennen. Es wird gelebt, was gesagt wird.\n\nSehr hohe Work-Life-Balance, durch überwiegend Home-Office. Man kann Pausen selber legen und so private Termine auch tagsüber wahrnehmen. Nur 4 Sterne, da die \"Gefahr\" besteht, am freien Tag auch mal zu arbeiten. (Dies ist natürlich Arbeitszeit.)\n\nEs gibt sehr viele Weiterbildungsmöglichkeiten, angefangen von einem Sprachlernprogramm, Online-Weiterbildungen (Führungs-/Selbst-Kommunikations- und Businesskompetenz) und fachspezifische Angebote.\n\nsehr gut!\n\nEin Team beschäftigt sich aktiv mit Nachhaltigkeit und bringt dieses Thema immer wieder in Firmen-Meetings ein.\n\nIn meiner Abteilung ist der Zusammenhalt sehr gut, in der kompletten Firma gut.\n\nEs werden gerne auch ältere Kolleginnen und Kollegen eingestellt. Sie leisten einen wertvollen Beitrag im Team.\n\nIch erlebe meine Vorgesetzten sehr wertschätzend, offen, transparent und hilfsbereit.\n\nStand der Technik und Büroausstattung top! Durch Home-Office weniger persönlicher Kontakt zu den Kolleginnen und Kollegen.\n\nSehr gute, offene Kommunikation in meiner Abteilung. Auch die Geschäftsführung informiert sehr gut über Ziele, Veränderungen etc.\n\nAbsolut!\n\nMan kann sein Aufgabengebiet mitgestalten, eigene Ideen und Vorschläge einbringen. Es gibt die Möglichkeit sich weiterzuentwickeln und neue Aufgaben zu übernehmen.",
+      "rating": 4.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Sehr gute Atmosphäre, die FK haben Vertrauen in ihre MA, geben Feedback und Lob",
+        "image": "elderbrook ist in der Region nicht bekannt, hat aber ein sehr gutes Image bei denen, die die Firma kennen. Es wird gelebt, was gesagt wird.",
+        "workLife": "Sehr hohe Work-Life-Balance, durch überwiegend Home-Office. Man kann Pausen selber legen und so private Termine auch tagsüber wahrnehmen. Nur 4 Sterne, da die \"Gefahr\" besteht, am freien Tag auch mal zu arbeiten. (Dies ist natürlich Arbeitszeit.)",
+        "career": "Es gibt sehr viele Weiterbildungsmöglichkeiten, angefangen von einem Sprachlernprogramm, Online-Weiterbildungen (Führungs-/Selbst-Kommunikations- und Businesskompetenz) und fachspezifische Angebote.",
+        "salary": "sehr gut!",
+        "environment": "Ein Team beschäftigt sich aktiv mit Nachhaltigkeit und bringt dieses Thema immer wieder in Firmen-Meetings ein.",
+        "teamwork": "In meiner Abteilung ist der Zusammenhalt sehr gut, in der kompletten Firma gut.",
+        "oldColleagues": "Es werden gerne auch ältere Kolleginnen und Kollegen eingestellt. Sie leisten einen wertvollen Beitrag im Team.",
+        "leadership": "Ich erlebe meine Vorgesetzten sehr wertschätzend, offen, transparent und hilfsbereit.",
+        "workConditions": "Stand der Technik und Büroausstattung top! Durch Home-Office weniger persönlicher Kontakt zu den Kolleginnen und Kollegen.",
+        "communication": "Sehr gute, offene Kommunikation in meiner Abteilung. Auch die Geschäftsführung informiert sehr gut über Ziele, Veränderungen etc.",
+        "equality": "Absolut!",
+        "tasks": "Man kann sein Aufgabengebiet mitgestalten, eigene Ideen und Vorschläge einbringen. Es gibt die Möglichkeit sich weiterzuentwickeln und neue Aufgaben zu übernehmen."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 4.0,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": 5.0,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-05-13T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "7d6fdbdf-c860-44cd-a7de-dbeb33c9e1b3",
+      "url": "https://www.kununu.com/de/elderbrook-solutions1/bewertung/7d6fdbdf-c860-44cd-a7de-dbeb33c9e1b3",
+      "title": "Vertrauensvoller Arbeitgeber mit guter Bezahlung und starker Förderung",
+      "content": "Besonders positiv finde ich, dass persönliche Begegnungen gefördert werden – regelmäßige Face-to-Face-Meetings stärken den Zusammenhalt und die Unternehmenskultur, auch bei viel Remote-Arbeit.\nEbenso gefällt mir das Mentoring-Programm für neue Kollegen.\n\nDie Atmosphäre ist insgesamt sehr vertrauensvoll und angenehm.\n\nDas Unternehmen genießt intern wie extern ein sehr gutes Image – zu Recht, wie ich finde.\n\nDie Work-Life-Balance ist insgesamt sehr gut – auch dank flexibler Arbeitszeiten und der Möglichkeit zu Remote Work. Der Workload kann phasenweise etwas hoch sein, ist aber in der Regel gut zu bewältigen.\n\nEs gibt hervorragende Weiterbildungsmöglichkeiten. Zusätzlich gibt es eine eigene online academy. Auch Karriereentwicklung in Teilzeit wird aktiv gefördert – mit kreativen Lösungen, die besonders für ein kleineres Unternehmen bemerkenswert sind.\n\nDie Bezahlung ist sehr gut, die Sozialleistungen ebenfalls – und sie werden laufend weiter ausgebaut.\n\nDas Umwelt- und Sozialbewusstsein ist außergewöhnlich ausgeprägt. Ein engagiertes Projektteam kümmert sich gezielt um Nachhaltigkeit, und der Arbeitgeber wurde mehrfach vom Land Baden-Württemberg für sein soziales Engagement und als sozialer Arbeitgeber ausgezeichnet.\n\nDer Zusammenhalt im Team ist positiv\n\nÄltere Kolleginnen und Kollegen sind ein wertvoller Teil unseres bunt gemischten Teams.\n\nIch persönlich erlebe exzellente Führung, auch wenn das nicht überall gleich stark ausgeprägt ist.\n\nDie Arbeitsbedingungen sind insgesamt sehr gut – modern, flexibel und gut organisiert.\n\nDie Kommunikation funktioniert gut, auch wenn es immer noch Luft nach oben gibt.\n\nGleichberechtigung wird bei uns aktiv gelebt – top!\n\nIch finde meine Aufgaben sehr spannend – wer Eigeninitiative zeigt, kann sich hier fachlich richtig entfalten.",
+      "rating": 4.8,
+      "sections": {
+        "positive": "Besonders positiv finde ich, dass persönliche Begegnungen gefördert werden – regelmäßige Face-to-Face-Meetings stärken den Zusammenhalt und die Unternehmenskultur, auch bei viel Remote-Arbeit.\nEbenso gefällt mir das Mentoring-Programm für neue Kollegen.",
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Die Atmosphäre ist insgesamt sehr vertrauensvoll und angenehm.",
+        "image": "Das Unternehmen genießt intern wie extern ein sehr gutes Image – zu Recht, wie ich finde.",
+        "workLife": "Die Work-Life-Balance ist insgesamt sehr gut – auch dank flexibler Arbeitszeiten und der Möglichkeit zu Remote Work. Der Workload kann phasenweise etwas hoch sein, ist aber in der Regel gut zu bewältigen.",
+        "career": "Es gibt hervorragende Weiterbildungsmöglichkeiten. Zusätzlich gibt es eine eigene online academy. Auch Karriereentwicklung in Teilzeit wird aktiv gefördert – mit kreativen Lösungen, die besonders für ein kleineres Unternehmen bemerkenswert sind.",
+        "salary": "Die Bezahlung ist sehr gut, die Sozialleistungen ebenfalls – und sie werden laufend weiter ausgebaut.",
+        "environment": "Das Umwelt- und Sozialbewusstsein ist außergewöhnlich ausgeprägt. Ein engagiertes Projektteam kümmert sich gezielt um Nachhaltigkeit, und der Arbeitgeber wurde mehrfach vom Land Baden-Württemberg für sein soziales Engagement und als sozialer Arbeitgeber ausgezeichnet.",
+        "teamwork": "Der Zusammenhalt im Team ist positiv",
+        "oldColleagues": "Ältere Kolleginnen und Kollegen sind ein wertvoller Teil unseres bunt gemischten Teams.",
+        "leadership": "Ich persönlich erlebe exzellente Führung, auch wenn das nicht überall gleich stark ausgeprägt ist.",
+        "workConditions": "Die Arbeitsbedingungen sind insgesamt sehr gut – modern, flexibel und gut organisiert.",
+        "communication": "Die Kommunikation funktioniert gut, auch wenn es immer noch Luft nach oben gibt.",
+        "equality": "Gleichberechtigung wird bei uns aktiv gelebt – top!",
+        "tasks": "Ich finde meine Aufgaben sehr spannend – wer Eigeninitiative zeigt, kann sich hier fachlich richtig entfalten."
+      },
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-05-12T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "0db93096-f93a-4bdc-9a43-bb0e61accc62",
+      "url": "https://www.kununu.com/de/elderbrook-solutions1/bewertung/0db93096-f93a-4bdc-9a43-bb0e61accc62",
+      "title": "sehr soziales, verantwortungsbewußtes Unternehmen, tolle Zusammenarbeit mit Kollegen und Vorgesetzten",
+      "content": "",
+      "rating": 4.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-09-21T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "5bee8542-d6ca-45f8-b639-97ee463c4efd",
+      "url": "https://www.kununu.com/de/elderbrook-solutions1/bewertung/5bee8542-d6ca-45f8-b639-97ee463c4efd",
+      "title": "Soweit in Ordnung",
+      "content": "",
+      "rating": 3.0,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-08-10T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "7415d461-facc-4213-8bda-b5d3b40bf71b",
+      "url": "https://www.kununu.com/de/elderbrook-solutions1/bewertung/7415d461-facc-4213-8bda-b5d3b40bf71b",
+      "title": "Tolle Atmosphäre, klasse Events und echte Flexibilität - ein Arbeitgeber, der Vertrauen schenkt und Engagement belohnt",
+      "content": "",
+      "rating": 5.0,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-05-04T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    }
+  ],
+  "review_limit": 15,
+  "review_period": {
+    "since": "2024-11-25T00:00:00+00:00",
+    "until": "2026-11-25T17:13:34.632420+00:00",
+    "date_field": "published_at",
+    "missing_dates": "excluded"
+  },
+  "factor_scores_aggregated": {
+    "atmosphere": {
+      "mean": 4.36,
+      "count": 11
+    },
+    "workLife": {
+      "mean": 4.45,
+      "count": 11
+    },
+    "communication": {
+      "mean": 3.8,
+      "count": 10
+    },
+    "workConditions": {
+      "mean": 4.4,
+      "count": 10
+    },
+    "leadership": {
+      "mean": 4.1,
+      "count": 10
+    },
+    "teamwork": {
+      "mean": 4.2,
+      "count": 10
+    },
+    "oldColleagues": {
+      "mean": 4.5,
+      "count": 10
+    },
+    "equality": {
+      "mean": 4.4,
+      "count": 10
+    },
+    "career": {
+      "mean": 4.1,
+      "count": 10
+    },
+    "salary": {
+      "mean": 4.1,
+      "count": 10
+    },
+    "image": {
+      "mean": 4.27,
+      "count": 11
+    },
+    "environment": {
+      "mean": 4.2,
+      "count": 10
+    },
+    "tasks": {
+      "mean": 4.4,
+      "count": 10
+    }
+  },
+  "coverage": "bounded_employee_review_sample_last_2_years_not_all_reviews",
+  "diagnostics": {
+    "pages": [
+      {
+        "page": "reviews",
+        "page_number": 1,
+        "load_more_clicks": 0,
+        "requested_url": "https://www.kununu.com/de/elderbrook-solutions1/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\elderbrook-solutions-9b3a7ad0\\browser\\reviews.html",
+        "browser_step": 3,
+        "final_url": "https://www.kununu.com/de/elderbrook-solutions1/kommentare",
+        "observed_at": "2026-11-25T17:13:36.180947+00:00",
+        "http_status": 200,
+        "factor_cards_expanded": 4,
+        "reviews_collected": 10
+      },
+      {
+        "page": "reviews",
+        "page_number": 2,
+        "load_more_clicks": 1,
+        "requested_url": "https://www.kununu.com/de/elderbrook-solutions1/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\elderbrook-solutions-9b3a7ad0\\browser\\reviews-2.html",
+        "browser_step": 4,
+        "final_url": "https://www.kununu.com/de/elderbrook-solutions1/kommentare",
+        "observed_at": "2026-11-25T17:13:37.365885+00:00",
+        "actions_complete": true,
+        "reviews_collected": 15
+      }
+    ]
+  },
+  "source_url": "https://www.kununu.com/de/elderbrook-solutions1",
+  "profile_source": "https://www.kununu.com/de/elderbrook-solutions1/kommentare",
+  "review_stop_reason": "sample_limit_reached",
+  "factor_score_coverage": {
+    "reviews_with_scores": 11,
+    "reviews_without_scores": 4,
+    "reviews_with_all_known_scores": 10,
+    "status": "partial"
+  },
+  "request_limits": {
+    "max_browser_steps": 295,
+    "browser_steps": 4,
+    "zyte_requests": 0
+  },
+  "reason": null
+}

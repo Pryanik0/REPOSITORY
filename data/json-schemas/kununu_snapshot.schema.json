@@ -1,0 +1,101 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Datenvertrag v0.4: kununu/<firma>/snapshot.json",
+  "description": "Arbeitgeberprofil und Einzelbewertungen einer Firma, so wie der Kununu-Scraper sie schreibt. Genutzt für die Teilnoten (E2a), den Verlauf (E2b) und die Stichwortsuche in den Texten (E2c). Hat die Datei den Status ok oder partial, werden Profil und Bewertungen gelesen und geprüft. Bei jedem anderen Status (zum Beispiel error oder skipped) wird nur status und reason gelesen, der Rest der Datei wird nicht geprüft.",
+  "type": "object",
+  "required": ["status"],
+  "properties": {
+    "status": {
+      "type": "string",
+      "x-bekannte-werte": ["ok", "partial", "error", "skipped"],
+      "description": "ok: alles gelesen. partial: nur ein Teil, zum Beispiel weil der Scraper abgebrochen hat. error: Abruf gescheitert. skipped: nicht versucht, zum Beispiel ohne Kununu-Adresse. Bei ok und partial werden die Felder darunter gelesen, bei jedem anderen Wort nicht"
+    },
+    "reason": {
+      "type": ["string", "null"],
+      "x-bekannte-werte": ["repeated_review_page", "unusable_profile", "zyte_api_error", "blocked", "missing_kununu_url", "unexpected_redirect", "http_error"],
+      "description": "Grund oder Hinweis als Kennwort in Kleinbuchstaben mit Unterstrich. Offene Liste, neue Kennwörter sind erlaubt"
+    }
+  },
+  "if": { "properties": { "status": { "enum": ["ok", "partial"] } }, "required": ["status"] },
+  "then": {
+    "required": ["profile", "reviews", "review_period", "coverage"],
+    "properties": {
+      "profile": {
+        "type": ["object", "null"],
+        "description": "Kennzahlen des Profils zum Zeitpunkt des Abrufs, null wenn kein Profil gelesen werden konnte",
+        "required": ["url", "name", "overall_score", "review_count", "recommendation_percent", "recommendation_period", "observed_at"],
+        "properties": {
+          "url": { "type": "string", "x-anzeige": "URL", "description": "Adresse des Arbeitgeberprofils" },
+          "name": { "type": "string", "description": "Firmenname laut Profil" },
+          "overall_score": { "type": "number", "minimum": 1, "maximum": 5, "description": "Gesamtnote des Profils, Skala 1 bis 5" },
+          "review_count": { "type": "integer", "minimum": 0, "description": "Anzahl Bewertungen laut Profil (nicht die Zahl der gelieferten Bewertungen)" },
+          "recommendation_percent": { "type": ["integer", "null"], "minimum": 0, "maximum": 100, "description": "Weiterempfehlung in Prozent, null wenn Kununu keinen Wert nennt" },
+          "recommendation_period": { "type": ["string", "null"], "x-bekannte-werte": ["last_2_years"], "description": "Zeitraum der Weiterempfehlung" },
+          "observed_at": { "type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}T[0-9]{2}:[0-9]{2}:[0-9]{2}(\\.[0-9]+)?(Z|[+-][0-9]{2}:[0-9]{2})$", "description": "Zeitpunkt des Abrufs des Profils" }
+        }
+      },
+      "reviews": {
+        "type": "array",
+        "description": "Gelieferte Einzelbewertungen, nur Mitarbeiterbewertungen der letzten zwei Jahre, höchstens die Stichprobe des Scrapers (derzeit 15). Leer, wenn keine geliefert werden",
+        "items": {
+          "type": "object",
+          "required": ["id", "published_at", "rating", "recommended", "review_type", "factor_scores", "sections"],
+          "properties": {
+            "id": { "type": "string", "x-anzeige": "Kennung", "minLength": 1, "description": "Bewertungs-ID von Kununu (derzeit eine UUID), beliebiger nicht leerer Text, eindeutig in der Datei. Dient als Schlüssel" },
+            "url": { "type": ["string", "null"], "x-anzeige": "URL", "description": "Adresse der Bewertung" },
+            "title": { "type": ["string", "null"], "description": "Überschrift der Bewertung" },
+            "published_at": { "type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}(T[0-9]{2}:[0-9]{2}:[0-9]{2}(\\.[0-9]+)?(Z|[+-][0-9]{2}:[0-9]{2}))?$", "description": "Veröffentlichungsdatum als Datum oder mit Uhrzeit und Zeitzone" },
+            "rating": { "type": "number", "minimum": 1, "maximum": 5, "description": "Gesamtnote der Bewertung, Skala 1 bis 5" },
+            "recommended": { "type": "boolean", "description": "Ob die Person den Arbeitgeber weiterempfiehlt" },
+            "review_type": { "type": "string", "x-bekannte-werte": ["employee"], "description": "Art der Bewertung. Bisher kommt nur employee vor. Offene Liste, andere Werte sind erlaubt, bei Auswertungen auf employee filtern" },
+            "factor_scores": {
+              "type": "object",
+              "description": "Teilnoten, Skala 1 bis 5. Die 13 bekannten Schlüssel stehen unten, nicht jede Bewertung enthält alle. Weitere Schlüssel sind erlaubt und werden unverändert gespeichert. Die Bedeutung der Schlüssel ist eine eigene Zuordnung und bei Kununu nicht nachgeprüft",
+              "properties": {
+                "atmosphere": { "type": ["number", "null"], "minimum": 1, "maximum": 5, "description": "Arbeitsatmosphäre" },
+                "workLife": { "type": ["number", "null"], "minimum": 1, "maximum": 5, "description": "Work-Life-Balance" },
+                "communication": { "type": ["number", "null"], "minimum": 1, "maximum": 5, "description": "Kommunikation" },
+                "workConditions": { "type": ["number", "null"], "minimum": 1, "maximum": 5, "description": "Arbeitsbedingungen" },
+                "leadership": { "type": ["number", "null"], "minimum": 1, "maximum": 5, "description": "Vorgesetztenverhalten" },
+                "teamwork": { "type": ["number", "null"], "minimum": 1, "maximum": 5, "description": "Kollegenzusammenhalt" },
+                "oldColleagues": { "type": ["number", "null"], "minimum": 1, "maximum": 5, "description": "Umgang mit älteren Kollegen" },
+                "equality": { "type": ["number", "null"], "minimum": 1, "maximum": 5, "description": "Gleichberechtigung" },
+                "career": { "type": ["number", "null"], "minimum": 1, "maximum": 5, "description": "Karriere und Weiterbildung" },
+                "salary": { "type": ["number", "null"], "minimum": 1, "maximum": 5, "description": "Gehalt und Sozialleistungen" },
+                "image": { "type": ["number", "null"], "minimum": 1, "maximum": 5, "description": "Image" },
+                "environment": { "type": ["number", "null"], "minimum": 1, "maximum": 5, "description": "Umwelt- und Sozialbewusstsein" },
+                "tasks": { "type": ["number", "null"], "minimum": 1, "maximum": 5, "description": "Interessante Aufgaben" }
+              }
+            },
+            "sections": {
+              "type": "object",
+              "description": "Freitexte der Bewertung je Abschnitt. Bekannt sind diese drei Schlüssel, weitere sind erlaubt. Ein Abschnitt fehlt, wenn die Person dazu nichts geschrieben hat",
+              "properties": {
+                "positive": { "type": ["string", "null"], "description": "Gut am Arbeitgeber" },
+                "negative": { "type": ["string", "null"], "description": "Schlecht am Arbeitgeber" },
+                "suggestion": { "type": ["string", "null"], "description": "Verbesserungsvorschläge" }
+              }
+            },
+            "content": { "type": ["string", "null"], "description": "Gesamttext der Bewertung (alle Abschnitte zusammen). Wird mit gespeichert" },
+            "factor_comments": { "type": ["object", "null"], "description": "Kommentare zu einzelnen Teilnoten, Schlüssel wie bei factor_scores. Wird mit gespeichert" },
+            "has_text": { "type": "boolean", "description": "Ob die Bewertung Freitext enthält" }
+          }
+        }
+      },
+      "review_period": {
+        "type": ["object", "null"],
+        "description": "Zeitraum, aus dem die Bewertungen stammen",
+        "required": ["since", "until"],
+        "properties": {
+          "since": { "type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}T[0-9]{2}:[0-9]{2}:[0-9]{2}(\\.[0-9]+)?(Z|[+-][0-9]{2}:[0-9]{2})$", "description": "Beginn des Zeitraums" },
+          "until": { "type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}T[0-9]{2}:[0-9]{2}:[0-9]{2}(\\.[0-9]+)?(Z|[+-][0-9]{2}:[0-9]{2})$", "description": "Ende des Zeitraums" }
+        }
+      },
+      "coverage": {
+        "type": "string", "x-bekannte-werte": ["bounded_employee_review_sample_last_2_years_not_all_reviews", "company_profile_only"],
+        "description": "Art der Stichprobe. Offene Liste, andere Werte sind erlaubt. bounded_employee_review_sample_last_2_years_not_all_reviews: begrenzte Auswahl von Mitarbeiterbewertungen der letzten zwei Jahre, nicht alle. company_profile_only: nur das Profil, ohne Bewertungen"
+      }
+    }
+  },
+  "else": { "required": ["reason"] }
+}

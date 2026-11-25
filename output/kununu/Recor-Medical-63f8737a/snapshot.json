@@ -1,0 +1,31 @@
+{
+  "provider": "kununu",
+  "backend": "browser",
+  "status": "skipped",
+  "query": "Recor Medical Europe GmbH",
+  "profile": null,
+  "reviews": [],
+  "review_limit": 15,
+  "review_period": {
+    "since": "2024-11-25T00:00:00+00:00",
+    "until": "2026-11-25T17:13:48.270242+00:00",
+    "date_field": "published_at",
+    "missing_dates": "excluded"
+  },
+  "factor_scores_aggregated": {},
+  "coverage": "company_profile_only",
+  "diagnostics": {
+    "pages": []
+  },
+  "reason": "missing_kununu_url",
+  "factor_score_coverage": {
+    "reviews_with_scores": 0,
+    "reviews_without_scores": 0,
+    "status": "no_reviews"
+  },
+  "request_limits": {
+    "max_browser_steps": 295,
+    "browser_steps": 9,
+    "zyte_requests": 0
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "company": {
+    "key": "otris software AG",
+    "name": "otris software AG",
+    "location": "Dortmund",
+    "name_source": "company_name",
+    "urls": [
+      "https://www.otris.de"
+    ],
+    "kununu_url": null,
+    "branches": [
+      "IT & Telekommunikation"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "44137",
+    "street": "Königswall 21",
+    "region": "Nordrhein-Westfalen",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:53:36.098898+00:00",
+  "searches": [
+    {
+      "accounting_only": true,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=otris+software+AG&companyLocation=Dortmund&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ACCOUNTING&drilldownFilter=22&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": false
+    },
+    {
+      "accounting_only": false,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=otris+software+AG&companyLocation=Dortmund&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ALL_AREAS&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": false
+    }
+  ],
+  "excluded_company_matches": [],
+  "date_from": "2024-01-01",
+  "date_to": "2026-11-25",
+  "excluded_dates": [],
+  "max_publications": 30,
+  "truncated": false,
+  "coverage": {
+    "search_complete": true,
+    "more_pages": false,
+    "publication_limit_reached": false,
+    "downloads_selected": 3,
+    "downloads_succeeded": 3,
+    "download_limit_reached": false,
+    "downloads_complete": true,
+    "text_complete": true
+  },
+  "publications": [
+    {
+      "company": "otris software AG, Dortmund",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-06-18",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=9MlvBI0jYyJAdtKB4QiT4KxBTxM8BFokRWu7-qit7XT5A5HsmsZ-35E9cqJ5cV9MjVSlW8Azl2fEAiVbjPMCWIjh9ibxCtnczYyBSQ0pXu3QDg2uiKcH-65oxsgKtYToGVFpM_Ls6I5e03V0tWwqW3HEBlWugKKFZLwTygZJ83h7TXhwKHbojnd_cvcZhIM0si2sOvG8NLetPsLyLazuwS4SVBFz9oeYqSkwA2wshhU5W8yP",
+      "metadata": "otris software AG, Dortmund Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 18.06.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 1
+    },
+    {
+      "company": "otris software AG, Dortmund",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-07-21",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=izP9GgGZqJNHaP9Bb5fSirXIDmPHcyImL0MbC5fpB7_Y01eom3iRtrz66S0jDsycJk4nsPVORETOrOlde6Wd79AJXs2-n1j7fjEsqvUnEg0ATJbOjRX0NoQg0q3nSEm0anvOe2AgO2Evd1QGPzUx-hJyATGLyZwruGN-wTh3kZmuFlFy9FW4Zw0fsbCtblbFrJwxCMMuOuy-EZahg_pCnsOebdy-_Rvde1_yuSZ6AENtPBi8",
+      "metadata": "otris software AG, Dortmund Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 21.07.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 2
+    },
+    {
+      "company": "otris software AG, Dortmund",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2024-06-24",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=12h9nOTsvn0TKwHsc7Ue20wq3c95XI0-qdpFzBAgzHtKi6DZBT62appAoE_pgoZ6FdjMX3G94Z6S5WSnDDYFKFCdxx9rRRM_ij1-O1wN11aRcB_haOY7zoq1Fda-Fa83fKlkqLbEsKMmXy6IcJu0Pl2IdE5nE_0D_DzK2WwU6X4mcZpr5C1omPmhov0hehIGbatSeYBzNjhAufqdSpZfDwlg7rpnG35AxW6LAXqbmgCXMCT8",
+      "metadata": "otris software AG, Dortmund Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 24.06.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 3
+    }
+  ]
+}

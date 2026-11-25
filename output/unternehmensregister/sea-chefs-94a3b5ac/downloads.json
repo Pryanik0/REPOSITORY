@@ -1,0 +1,56 @@
+[
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=C2Ouf2e98HYd7lA3MDhHQ65eqsxKcNvlaqrh9FelBEhfSjrjj9W63EGrbJRQY3xbPLMaQUUYwZEwvglPnUpOW3adyiTgkrp9afm0c3LMURpVKsqapFyiVs7nT4iGxY6r7sv6QYYKlmfLX2BaRTB3bXddMdX_SIcQCs0PJcVwbarL791LHqQ1uaftY5sKD4s0FWK2aclKZrPonJRtzRcnQhW5K5dDnxGJNU5_bKsqOk9Yk44",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\sea-chefs-94a3b5ac\\finanzberichte\\publication-1\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\sea-chefs-94a3b5ac\\finanzberichte\\publication-1\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\sea-chefs-94a3b5ac\\finanzberichte\\publication-1\\publication.txt",
+    "index": 1,
+    "category": "finanzberichte",
+    "company": "sea chefs Cruise Services GmbH, Hamburg",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+    "documents_path": "output\\unternehmensregister\\sea-chefs-94a3b5ac\\finanzberichte\\publication-1\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=19UNQ-DcZ_zCU53QLOykvlS2V-M7GwhrbZuIHUQoFANck2k0DFTAaU46LVdL1VsoZIkAb1ZzLM51GaOH_zOeIjSTOA0tMbVd03HjXm2GBaPXOE95VbCB3SE04wQpSf0zURP0yxLE9j8MaEi__2Eww8WXXmzFEeUGR4EkF4vyPCquwXuGOKaiGbD5bnQqCI7NvOE7sP5pu6KMGtzIFOmwWdC-83fzOQHG7ph_UI5npOGP_sI",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\sea-chefs-94a3b5ac\\finanzberichte\\publication-2\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\sea-chefs-94a3b5ac\\finanzberichte\\publication-2\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\sea-chefs-94a3b5ac\\finanzberichte\\publication-2\\publication.txt",
+    "index": 2,
+    "category": "finanzberichte",
+    "company": "sea chefs Cruise Services GmbH, Hamburg",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+    "documents_path": "output\\unternehmensregister\\sea-chefs-94a3b5ac\\finanzberichte\\publication-2\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=LAGPVUq-rmhJyTTiPfyh2RogVD-2p4Up4DCh2eqKk6qE4XmYchUpsRQMTloAP1Xhtqmqj29jhYVpCwoCsddLNPfNcP1PK84Su5exYaqS-J82LisXGFV4tSPtfeyIKNjPLFM027AUwnP4DFAfp65cZfyfjFnQjAkaKel4szXIsFYOpBkt8QfAkEkP9hQxx5vpeem9Pr_z9LNPNMPA8PijpnIYlh-ONEDuxiiDB51ORelKQxA",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\sea-chefs-94a3b5ac\\finanzberichte\\publication-3\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\sea-chefs-94a3b5ac\\finanzberichte\\publication-3\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\sea-chefs-94a3b5ac\\finanzberichte\\publication-3\\publication.txt",
+    "index": 3,
+    "category": "finanzberichte",
+    "company": "sea chefs Cruise Services GmbH, Hamburg",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+    "documents_path": "output\\unternehmensregister\\sea-chefs-94a3b5ac\\finanzberichte\\publication-3\\documents.json"
+  }
+]

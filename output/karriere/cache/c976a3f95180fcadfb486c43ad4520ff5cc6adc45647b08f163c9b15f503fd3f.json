@@ -1,0 +1,9 @@
+{
+  "url": "https://kyowakirininternational.com/robots.txt",
+  "final_url": "https://kyowakirininternational.com/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "fetched_at": "2026-11-25T16:00:48.114993+00:00",
+  "text": "# START YOAST BLOCK\n# ---------------------------\nUser-agent: *\nDisallow:\n\nSitemap: https://kyowakirininternational.com/sitemap_index.xml\nSitemap: https://kyowakirininternational.com/fr-fr/sitemap_index.xml\nSitemap: https://kyowakirininternational.com/noba-en/sitemap_index.xml\nSitemap: https://kyowakirininternational.com/es-es/sitemap_index.xml\nSitemap: https://kyowakirininternational.com/nl-nl/sitemap_index.xml\nSitemap: https://kyowakirininternational.com/dach-de/sitemap_index.xml\nSitemap: https://kyowakirininternational.com/it-it/sitemap_index.xml\nSitemap: https://kyowakirininternational.com/belux-nl/sitemap_index.xml\nSitemap: https://kyowakirininternational.com/belux-fr/sitemap_index.xml\nSitemap: https://kyowakirininternational.com/gcc-en/sitemap_index.xml\nSitemap: https://kyowakirininternational.com/pt-pt/sitemap_index.xml\n# ---------------------------\n# END YOAST BLOCK"
+}

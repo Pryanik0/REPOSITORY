@@ -1,0 +1,38 @@
+[
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=pcrmZQP1ZpkU8glJBRIb86OGrrV2HGRhWPs2q5gMkfAu1saImyYCsp203dRA1l-lDMuhsky_SH8yKrAUMioxYgz7D5HdgAymklDyn3pa7kpH1JMdUxejpoJl7ugfWF7lAnEGSUem4AGf0BZHWorjEiV1vRYo6gfylikgaByV2szKG7AKpP4ddM2AuYbJ4cF2ZR3rcJxV7QF8JAQYut1Gau-mfbLnm1qZCPSGZv7ItgeWClj1",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Daiichi-Sankyo-Europe-fd95d50e\\bekanntmachungen\\publication-2\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Daiichi-Sankyo-Europe-fd95d50e\\bekanntmachungen\\publication-2\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Daiichi-Sankyo-Europe-fd95d50e\\bekanntmachungen\\publication-2\\publication.txt",
+    "index": 2,
+    "category": "bekanntmachungen",
+    "company": "Daiichi Sankyo Europe GmbH, München",
+    "title": "Aufsichtsrat",
+    "documents_path": "output\\unternehmensregister\\Daiichi-Sankyo-Europe-fd95d50e\\bekanntmachungen\\publication-2\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=094Nld4u5HCYNb4k_GIAIPk3tV-FJvtQrL4ELo2H8LJcFjRQ955cy_ZR-JSMejIkOYeqc3xkYR3tQ1WI5YplbVblUJEBktZwx8EG9Rn8UQMzqsIxmPnJdEwz26DcD4RSndYg1th5h4MuzCxEH3Rv5f8fhgy5XaZojFj8z4i2TOGshZGlLdz0UK6uRRWQtU3f6KtTynDWLDfkFwmylYeKUdFiSawjomCruIm-Dhkn1_igeX3j",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Daiichi-Sankyo-Europe-fd95d50e\\bekanntmachungen\\publication-3\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Daiichi-Sankyo-Europe-fd95d50e\\bekanntmachungen\\publication-3\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Daiichi-Sankyo-Europe-fd95d50e\\bekanntmachungen\\publication-3\\publication.txt",
+    "index": 3,
+    "category": "bekanntmachungen",
+    "company": "Daiichi Sankyo Europe GmbH, München",
+    "title": "Registerbekanntmachung nach dem Umwandlungsgesetz",
+    "documents_path": "output\\unternehmensregister\\Daiichi-Sankyo-Europe-fd95d50e\\bekanntmachungen\\publication-3\\documents.json"
+  }
+]

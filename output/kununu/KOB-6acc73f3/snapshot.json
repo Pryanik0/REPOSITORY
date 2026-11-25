@@ -1,0 +1,454 @@
+{
+  "provider": "kununu",
+  "backend": "browser",
+  "status": "ok",
+  "query": "KOB GmbH",
+  "profile": {
+    "url": "https://www.kununu.com/de/kob",
+    "name": "KOB",
+    "overall_score": 3.7,
+    "review_count": 31,
+    "recommendation_percent": 70,
+    "recommendation_period": "last_2_years",
+    "observed_at": "2026-11-25T17:15:07.700041+00:00"
+  },
+  "reviews": [
+    {
+      "id": "1cc8291b-a89a-460d-a3cc-48928dd3f2f9",
+      "url": "https://www.kununu.com/de/kob/bewertung/1cc8291b-a89a-460d-a3cc-48928dd3f2f9",
+      "title": "KOB Werte",
+      "content": "Bleibt seit 1.5 Jahren stabil",
+      "rating": 4.5,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Bleibt seit 1.5 Jahren stabil"
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 4.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 4.0,
+        "salary": 3.0,
+        "image": 4.0,
+        "environment": 5.0,
+        "tasks": 4.0
+      },
+      "published_at": "2026-07-07T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "03129ae7-5dad-4314-85b5-3cfee534d4db",
+      "url": "https://www.kununu.com/de/kob/bewertung/03129ae7-5dad-4314-85b5-3cfee534d4db",
+      "title": "TOP Arbeitgeber der Region",
+      "content": "Mobiles Arbeiten, Top Kantine,\n\nUngünstige Lage für Pendler ab 25 km Entfernung\n\nBessere Betriebliche Altersvorsorge\n\nGutes Betriebsklima\n\nSicherer Arbeitgeber\n\nWird maximal gefördert\n\nMinimale Betriebliche Altersvorsorge\n\nWird maximal umgesetzt\n\nWerden geschätzt\n\nSehr loyal\n\nSehr human\n\nRegelmäßig und umfassend",
+      "rating": 4.8,
+      "sections": {
+        "positive": "Mobiles Arbeiten, Top Kantine,",
+        "negative": "Ungünstige Lage für Pendler ab 25 km Entfernung",
+        "suggestion": "Bessere Betriebliche Altersvorsorge"
+      },
+      "factor_comments": {
+        "atmosphere": "Gutes Betriebsklima",
+        "image": "Sicherer Arbeitgeber",
+        "career": "Wird maximal gefördert",
+        "salary": "Minimale Betriebliche Altersvorsorge",
+        "environment": "Wird maximal umgesetzt",
+        "oldColleagues": "Werden geschätzt",
+        "leadership": "Sehr loyal",
+        "workConditions": "Sehr human",
+        "communication": "Regelmäßig und umfassend"
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 4.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 4.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-08-21T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "b2b5e8e7-0c94-4588-ba4c-45d1aa482731",
+      "url": "https://www.kununu.com/de/kob/bewertung/b2b5e8e7-0c94-4588-ba4c-45d1aa482731",
+      "title": "NEIN DANKE",
+      "content": "Teamleiter, Arbeitskollegen ansonsten nichts..\n\nFast alles\n\nBitte macht vorher min. 1 Woche Probearbeiten!\n\nDas einzige positive der Teamleiter, oben drüber hat niemand Fachwissen und sind immer schlecht gelaunt",
+      "rating": 1.5,
+      "sections": {
+        "positive": "Teamleiter, Arbeitskollegen ansonsten nichts..",
+        "negative": "Fast alles",
+        "suggestion": "Bitte macht vorher min. 1 Woche Probearbeiten!"
+      },
+      "factor_comments": {
+        "leadership": "Das einzige positive der Teamleiter, oben drüber hat niemand Fachwissen und sind immer schlecht gelaunt"
+      },
+      "factor_scores": {
+        "atmosphere": 1.0,
+        "workLife": 1.0,
+        "communication": 2.0,
+        "workConditions": 1.0,
+        "leadership": 1.0,
+        "teamwork": 3.0,
+        "oldColleagues": 2.0,
+        "equality": 1.0,
+        "career": 1.0,
+        "salary": 1.0,
+        "image": 3.0,
+        "environment": 2.0,
+        "tasks": 1.0
+      },
+      "published_at": "2025-02-24T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "6aa95a01-263f-4b4b-9c13-6a2ddc5f8ff7",
+      "url": "https://www.kununu.com/de/kob/bewertung/6aa95a01-263f-4b4b-9c13-6a2ddc5f8ff7",
+      "title": "Kob Bewertung",
+      "content": "",
+      "rating": 2.6,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-11-04T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "da977bc6-5827-49e7-b8ec-c4bde5fe6d12",
+      "url": "https://www.kununu.com/de/kob/bewertung/da977bc6-5827-49e7-b8ec-c4bde5fe6d12",
+      "title": "Xbfjfjx",
+      "content": "",
+      "rating": 3.0,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-01-20T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "c80e95ad-081b-4945-a7be-b13f9a2d2fcb",
+      "url": "https://www.kununu.com/de/kob/bewertung/c80e95ad-081b-4945-a7be-b13f9a2d2fcb",
+      "title": "Toller Mitarbeiter orientierter Arbeitgeber",
+      "content": "",
+      "rating": 4.0,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-12-15T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "ea59dc55-95db-46d5-b463-33103bc8735f",
+      "url": "https://www.kununu.com/de/kob/bewertung/ea59dc55-95db-46d5-b463-33103bc8735f",
+      "title": "Zufriedenheit",
+      "content": "",
+      "rating": 4.2,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-09-28T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "8f2165f8-c6cf-4352-8474-816250d66241",
+      "url": "https://www.kununu.com/de/kob/bewertung/8f2165f8-c6cf-4352-8474-816250d66241",
+      "title": "Guter Arbeitgeber",
+      "content": "",
+      "rating": 3.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-06-24T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "04083b46-a388-41e7-87e3-779a4c955f78",
+      "url": "https://www.kununu.com/de/kob/bewertung/04083b46-a388-41e7-87e3-779a4c955f78",
+      "title": "Cochem 56812 Ravenestr.62",
+      "content": "",
+      "rating": 5.0,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-06-12T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    }
+  ],
+  "review_limit": 15,
+  "review_period": {
+    "since": "2024-11-25T00:00:00+00:00",
+    "until": "2026-11-25T17:15:05.621435+00:00",
+    "date_field": "published_at",
+    "missing_dates": "excluded"
+  },
+  "factor_scores_aggregated": {
+    "atmosphere": {
+      "mean": 3.67,
+      "count": 3
+    },
+    "workLife": {
+      "mean": 3.33,
+      "count": 3
+    },
+    "communication": {
+      "mean": 4.0,
+      "count": 3
+    },
+    "workConditions": {
+      "mean": 3.33,
+      "count": 3
+    },
+    "leadership": {
+      "mean": 3.67,
+      "count": 3
+    },
+    "teamwork": {
+      "mean": 4.33,
+      "count": 3
+    },
+    "oldColleagues": {
+      "mean": 4.0,
+      "count": 3
+    },
+    "equality": {
+      "mean": 3.67,
+      "count": 3
+    },
+    "career": {
+      "mean": 3.33,
+      "count": 3
+    },
+    "salary": {
+      "mean": 2.67,
+      "count": 3
+    },
+    "image": {
+      "mean": 4.0,
+      "count": 3
+    },
+    "environment": {
+      "mean": 4.0,
+      "count": 3
+    },
+    "tasks": {
+      "mean": 3.33,
+      "count": 3
+    }
+  },
+  "coverage": "bounded_employee_review_sample_last_2_years_not_all_reviews",
+  "diagnostics": {
+    "pages": [
+      {
+        "page": "reviews",
+        "page_number": 1,
+        "load_more_clicks": 0,
+        "requested_url": "https://www.kununu.com/de/kob/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\KOB-6acc73f3\\browser\\reviews.html",
+        "browser_step": 49,
+        "final_url": "https://www.kununu.com/de/kob/kommentare",
+        "observed_at": "2026-11-25T17:15:07.285891+00:00",
+        "http_status": 200,
+        "factor_cards_expanded": 5,
+        "reviews_collected": 3
+      },
+      {
+        "page": "reviews",
+        "page_number": 2,
+        "load_more_clicks": 1,
+        "requested_url": "https://www.kununu.com/de/kob/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\KOB-6acc73f3\\browser\\reviews-2.html",
+        "browser_step": 50,
+        "final_url": "https://www.kununu.com/de/kob/kommentare",
+        "observed_at": "2026-11-25T17:15:08.726773+00:00",
+        "actions_complete": true,
+        "factor_cards_expanded": 2,
+        "reviews_collected": 5
+      },
+      {
+        "page": "reviews",
+        "page_number": 3,
+        "load_more_clicks": 2,
+        "requested_url": "https://www.kununu.com/de/kob/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\KOB-6acc73f3\\browser\\reviews-3.html",
+        "browser_step": 51,
+        "final_url": "https://www.kununu.com/de/kob/kommentare",
+        "observed_at": "2026-11-25T17:15:10.292967+00:00",
+        "actions_complete": true,
+        "reviews_collected": 9
+      },
+      {
+        "page": "reviews",
+        "page_number": 4,
+        "load_more_clicks": 3,
+        "requested_url": "https://www.kununu.com/de/kob/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\KOB-6acc73f3\\browser\\reviews-4.html",
+        "browser_step": 52,
+        "final_url": "https://www.kununu.com/de/kob/kommentare",
+        "observed_at": "2026-11-25T17:15:11.840474+00:00",
+        "actions_complete": true,
+        "reviews_collected": 9
+      }
+    ]
+  },
+  "source_url": "https://www.kununu.com/de/kob",
+  "profile_source": "https://www.kununu.com/de/kob/kommentare",
+  "review_stop_reason": "end_of_available_reviews",
+  "factor_score_coverage": {
+    "reviews_with_scores": 3,
+    "reviews_without_scores": 6,
+    "reviews_with_all_known_scores": 3,
+    "status": "partial"
+  },
+  "request_limits": {
+    "max_browser_steps": 295,
+    "browser_steps": 52,
+    "zyte_requests": 0
+  },
+  "reason": null
+}

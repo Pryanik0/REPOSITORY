@@ -1,0 +1,74 @@
+[
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=pG_1myv2FOy6cu954MxOedLbITUNLfrca3OZGEj_6meoArxoKnQ43fn8WACtnMR2AXZ4ama9UzV5FrTFRr6iUrLB9w32aN9IK-2A5GxDnkp6lHJXHPP7HCght4jEWLZ7VoSXDz8ZUWist6ZUknlLAKepGseU5c_rBEjwP5xQjHp3OpUdZ7DH27JlL_NwyVYXoUlmoUlPVDx8hIniKN2qjCN8H16M47M-xuVmzs4pG6DN3Wgv",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\tink-68efe261\\finanzberichte\\publication-1\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\tink-68efe261\\finanzberichte\\publication-1\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\tink-68efe261\\finanzberichte\\publication-1\\publication.txt",
+    "index": 1,
+    "category": "finanzberichte",
+    "company": "tink GmbH, Berlin",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+    "documents_path": "output\\unternehmensregister\\tink-68efe261\\finanzberichte\\publication-1\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=DhkZ6IPHuFPGP1YEh6Kv8fJPNtzXN0_xmf_cmAjaxDdUNIL7MrmeEPCPWfwfErFvbR8WmY3X4AEN8Ux8DJAYcEHn0KsU_w6B5NC26iD7HANUtnxwE5qSB3_xG7Qh_tx_ltKEeco5F_3ssBJ0Xulbf4K-jBKbFpLrbIBDeojVBOGXBrsm3jHHUwMkYL8X_fLw-KT3vUoZp_p9ZCTDlpsDd8FcyzNiB5AzUwV4tyLi7CN6tRcX",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\tink-68efe261\\finanzberichte\\publication-2\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\tink-68efe261\\finanzberichte\\publication-2\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\tink-68efe261\\finanzberichte\\publication-2\\publication.txt",
+    "index": 2,
+    "category": "finanzberichte",
+    "company": "tink GmbH, Berlin",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+    "documents_path": "output\\unternehmensregister\\tink-68efe261\\finanzberichte\\publication-2\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=fVvDIyAYlLmdDZjM6V86TVz1nxjXSMur6DjuqqtK33B5Zdz9EoUmDSfX7JCvrdIYqaEianXah1YeOHSHIVrTYLhOugh6eWzAw34QPIsnHemlmh07kKYdsNQ_O42iH4g57OnGsqfrxFJFOLkLbvw0JTP7pFhrbBhQ3Zpt5n2lQwWd9LxRbkuKbVnzoKPYMzuDFrSGCaIbxwkpQ2U8zSheTVWaLmaWVrhBB1-s9AO29rjhnVBc",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\tink-68efe261\\finanzberichte\\publication-4\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\tink-68efe261\\finanzberichte\\publication-4\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\tink-68efe261\\finanzberichte\\publication-4\\publication.txt",
+    "index": 4,
+    "category": "finanzberichte",
+    "company": "tink GmbH, Berlin",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+    "documents_path": "output\\unternehmensregister\\tink-68efe261\\finanzberichte\\publication-4\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=HgLRl9PLhsJChm4FoDwxqotLDmeQ0lsI8AAI6-r0cQzy-PbsnX8wETcMBl6SA2YFRFj6qztWSlcWJKgyL3RS84hFTJ8vOvZ_vHk9KsVT_E3_46_Fe-yVFs9dSPliVcOCNlsV3wEEnXY3QFyp0jHfeInx1Buk-LBBP-eHrCwylXJt9i7kQoDADFGazk-lC4KVruDQe-fNqGgOKq4vcP13gTiu2nEdVUu_zfJ_-ldiMGN09_P3",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\tink-68efe261\\bekanntmachungen\\publication-3\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\tink-68efe261\\bekanntmachungen\\publication-3\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\tink-68efe261\\bekanntmachungen\\publication-3\\publication.txt",
+    "index": 3,
+    "category": "bekanntmachungen",
+    "company": "tink GmbH, Berlin",
+    "title": "Registerbekanntmachung nach dem Umwandlungsgesetz",
+    "documents_path": "output\\unternehmensregister\\tink-68efe261\\bekanntmachungen\\publication-3\\documents.json"
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "url": "https://www.adlershorst.de/robots.txt",
+  "final_url": "https://www.adlershorst.de/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "fetched_at": "2026-11-25T16:33:03.043099+00:00",
+  "text": "User-agent: *\r\nDisallow: /typo3/\r\nDisallow: /typo3_src/\r\nAllow: /typo3conf/ext/\r\nAllow: /typo3temp/\r\nAllow: /typo3/sysext/frontend/Resources/Public/*\r\nAllow: /typo3conf/ext/nc_provider_main/Resources/Public/*\r\n\r\nUser-agent: Googlebot\r\nAllow: .js\r\nAllow: .css\r\nSitemap: https://www.adlershorst.de/sitemap.xml\r\n"
+}

@@ -1,0 +1,474 @@
+[
+  {
+    "id": "DEK5PPIWFY44",
+    "name": "mediCAD Hectec GmbH",
+    "zip": "84032",
+    "city": "Altdorf",
+    "active": true,
+    "score": 0.95
+  },
+  {
+    "id": "DE2U714I7727",
+    "name": "elderbrook solutions GmbH",
+    "zip": "88400",
+    "city": "Biberach an der Riß",
+    "active": true,
+    "score": 0.88
+  },
+  {
+    "id": "DE1JSYE60O11",
+    "name": "Kyowa Kirin GmbH",
+    "zip": "40549",
+    "city": "Düsseldorf",
+    "active": true,
+    "score": 0.88
+  },
+  {
+    "id": "DEFZW4E84K32",
+    "name": "Recor Medical Europe GmbH",
+    "zip": "60327",
+    "city": "Frankfurt am Main",
+    "active": true,
+    "score": 0.88
+  },
+  {
+    "id": "DE39NU4THL70",
+    "name": "Daiichi Sankyo Europe GmbH",
+    "zip": "81379",
+    "city": "München",
+    "active": true,
+    "score": 0.95
+  },
+  {
+    "id": "DEDUH1VE1N94",
+    "name": "WindStar Medical GmbH",
+    "zip": "60318",
+    "city": "Frankfurt am Main",
+    "active": true,
+    "score": 0.88
+  },
+  {
+    "id": "DEZTZZSY8S88",
+    "name": "CU pharmaceuticals GmbH",
+    "zip": "44799",
+    "city": "Bochum",
+    "active": true,
+    "score": 0.35
+  },
+  {
+    "id": "DE9H9V0VUN31",
+    "name": "HERMES PHARMA GmbH",
+    "zip": "82049",
+    "city": "Pullach i.Isartal",
+    "active": true,
+    "score": 0.95
+  },
+  {
+    "id": "DEXRHOUU7Y92",
+    "name": "WALDEMAR LINK GmbH & Co. KG",
+    "zip": "22339",
+    "city": "Hamburg",
+    "active": true,
+    "score": 0.88
+  },
+  {
+    "id": "DEI8RAULY827",
+    "name": "Kulzer GmbH",
+    "zip": "63450",
+    "city": "Hanau",
+    "active": true,
+    "score": 0.84
+  },
+  {
+    "id": "DEYH1LG39S18",
+    "name": "Novaled GmbH",
+    "zip": "01099",
+    "city": "Dresden",
+    "active": true,
+    "score": 0.95
+  },
+  {
+    "id": "DEWR7M4IQ459",
+    "name": "Maria Clementine Martin Klosterfrau Vertriebsgesellschaft mbH",
+    "zip": "50670",
+    "city": "Köln",
+    "active": true,
+    "score": 0.88
+  },
+  {
+    "id": "DEEHG00YM912",
+    "name": "Dr. Pfleger Arzneimittel GmbH",
+    "zip": "96052",
+    "city": "Bamberg",
+    "active": true,
+    "score": 0.95
+  },
+  {
+    "id": "DE7W8WNTCY19",
+    "name": "Resuscitec GmbH",
+    "zip": "79108",
+    "city": "Freiburg im Breisgau",
+    "active": true,
+    "score": 0.95
+  },
+  {
+    "id": "DEBVJTW7UP36",
+    "name": "Medicon eG. Chirurgiemechaniker-Genossenschaft",
+    "zip": "78532",
+    "city": "Tuttlingen",
+    "active": true,
+    "score": 0.88
+  },
+  {
+    "id": "DENV0KR1LD43",
+    "name": "XION GmbH",
+    "zip": "13127",
+    "city": "Berlin",
+    "active": true,
+    "score": 0.95
+  },
+  {
+    "id": "DEHLMH41UD84",
+    "name": "Charité Research Organisation GmbH",
+    "zip": "10117",
+    "city": "Berlin",
+    "active": true,
+    "score": 0.88
+  },
+  {
+    "id": "DE89V83C6X75",
+    "name": "Finzelberg GmbH & Co. KG",
+    "zip": "56626",
+    "city": "Andernach",
+    "active": true,
+    "score": 0.88
+  },
+  {
+    "id": "DEM6J5H5XY72",
+    "name": "KOB GmbH",
+    "zip": "67752",
+    "city": "Wolfstein",
+    "active": true,
+    "score": 0.95
+  },
+  {
+    "id": "DEF87A93VF06",
+    "name": "CEEZER Software GmbH",
+    "zip": "10178",
+    "city": "Berlin",
+    "active": true,
+    "score": 0.88
+  },
+  {
+    "id": "DEBHB9R8L842",
+    "name": "INGENTIS Softwareentwicklung GmbH",
+    "zip": "90475",
+    "city": "Nürnberg",
+    "active": true,
+    "score": 0.95
+  },
+  {
+    "id": "DEBG1HZK5L49",
+    "name": "Eurofiber Netz GmbH",
+    "zip": "10829",
+    "city": "Berlin",
+    "active": true,
+    "score": 0.88
+  },
+  {
+    "id": "DE63SO0NKH14",
+    "name": "Deutsche Pfandbriefbank AG",
+    "zip": "85748",
+    "city": "Garching",
+    "active": true,
+    "score": 0.95
+  },
+  {
+    "id": "DE39YN81Q032",
+    "name": "Hamburg Commercial Bank AG",
+    "zip": "20095",
+    "city": "Hamburg",
+    "active": true,
+    "score": 0.88
+  },
+  {
+    "id": "DE4N1Q7RML74",
+    "name": "MBS Speditionsgesellschaft mbH",
+    "zip": "51149",
+    "city": "Köln",
+    "active": true,
+    "score": 0.88
+  },
+  {
+    "id": "DE6CB05E4B95",
+    "name": "msg systems AG",
+    "zip": "85737",
+    "city": "Ismaning",
+    "active": true,
+    "score": 0.88
+  },
+  {
+    "id": "DEUE5LR2NR91",
+    "name": "agido GmbH",
+    "zip": "44263",
+    "city": "Dortmund",
+    "active": true,
+    "score": 0.88
+  },
+  {
+    "id": "DECZPDA0PC26",
+    "name": "NÜRNBERGER Beteiligungs-AG",
+    "zip": "90334",
+    "city": "Nürnberg",
+    "active": true,
+    "score": 0.88
+  },
+  {
+    "id": "DED5Z2HQEH08",
+    "name": "Avendis GmbH",
+    "zip": "68219",
+    "city": "Mannheim",
+    "active": true,
+    "score": 0.88
+  },
+  {
+    "id": "DEQQX5B4YO34",
+    "name": "MAC IT-Solutions GmbH",
+    "zip": "24941",
+    "city": "Flensburg",
+    "active": true,
+    "score": 0.95
+  },
+  {
+    "id": "DEBU01YL8O45",
+    "name": "SGL Carbon SE",
+    "zip": "65201",
+    "city": "Wiesbaden",
+    "active": true,
+    "score": 0.95
+  },
+  {
+    "id": "DEQZHAMYC367",
+    "name": "Taylor Wessing Partnerschaftsgesellschaft von Rechtsanwälten und Steuerberatern mbB",
+    "zip": "80331",
+    "city": "München",
+    "active": true,
+    "score": 0.82
+  },
+  {
+    "id": "DECGZGK53K94",
+    "name": "DIAKONIA-ambulanter Pflegedienst der Evangelischen Kirchengemeinde Viersen gGmbH",
+    "zip": "41747",
+    "city": "Viersen",
+    "active": true,
+    "score": 0.41
+  },
+  {
+    "id": "DE69R0KF7N60",
+    "name": "Stadtwerke Köln GmbH",
+    "zip": "50823",
+    "city": "Köln",
+    "active": true,
+    "score": 0.46
+  },
+  {
+    "id": "DE2D72SIF340",
+    "name": "Hermes Germany GmbH",
+    "zip": "22419",
+    "city": "Hamburg",
+    "active": true,
+    "score": 0.88
+  },
+  {
+    "id": "DEUQZBWVCN23",
+    "name": "otris software AG",
+    "zip": "44137",
+    "city": "Dortmund",
+    "active": true,
+    "score": 0.88
+  },
+  {
+    "id": "DETHRU6F4E04",
+    "name": "Deutsche Rückversicherung AG",
+    "zip": "40549",
+    "city": "Düsseldorf",
+    "active": true,
+    "score": 0.95
+  },
+  {
+    "id": "DE1WRWW58A61",
+    "name": "Sparkasse Fulda",
+    "zip": "36037",
+    "city": "Fulda",
+    "active": true,
+    "score": 0.43
+  },
+  {
+    "id": "DEBKHD49VU34",
+    "name": "SPIE comcross GmbH",
+    "zip": "71229",
+    "city": "Leonberg",
+    "active": true,
+    "score": 0.95
+  },
+  {
+    "id": "DEWSZ5SP4A00",
+    "name": "Westerwaldbahn des Kreises Altenkirchen GmbH",
+    "zip": "57520",
+    "city": "Steinebach",
+    "active": true,
+    "score": 0.38
+  },
+  {
+    "id": "DE1U74447O89",
+    "name": "Rosenberger Hochfrequenztechnik GmbH",
+    "zip": "83413",
+    "city": "Fridolfing",
+    "active": true,
+    "score": 0.88
+  },
+  {
+    "id": "DENALVPG0815",
+    "name": "OVB MEDIA GmbH",
+    "zip": "83022",
+    "city": "Rosenheim",
+    "active": true,
+    "score": 0.86
+  },
+  {
+    "id": "DEZG60997X08",
+    "name": "Sinnwell GmbH",
+    "zip": "80992",
+    "city": "München",
+    "active": true,
+    "score": 0.95
+  },
+  {
+    "id": "DE42MKKTAE25",
+    "name": "Cybertrading GmbH",
+    "zip": "39179",
+    "city": "Barleben",
+    "active": true,
+    "score": 0.95
+  },
+  {
+    "id": "DEEF528OR746",
+    "name": "Berg Energie GmbH",
+    "zip": "67551",
+    "city": "Worms",
+    "active": true,
+    "score": 0.8
+  },
+  {
+    "id": "DEOHLYW0P485",
+    "name": "ADLERSHORST Immobilien GmbH",
+    "zip": "22848",
+    "city": "Norderstedt",
+    "active": true,
+    "score": 0.84
+  },
+  {
+    "id": "DE94RGAH1W42",
+    "name": "Scheidt & Bachmann GmbH",
+    "zip": "41238",
+    "city": "Mönchengladbach",
+    "active": true,
+    "score": 0.79
+  },
+  {
+    "id": "DECFSMUHJN44",
+    "name": "SCHOELLERSHAMMER GmbH",
+    "zip": "52355",
+    "city": "Düren",
+    "active": true,
+    "score": 0.95
+  },
+  {
+    "id": "DERR3BVUU176",
+    "name": "Hasse UG (haftungsbeschränkt) & Co. KG",
+    "zip": "31707",
+    "city": "Heeßen",
+    "active": true,
+    "score": 0.8
+  },
+  {
+    "id": "DEAVF1NQLD31",
+    "name": "tink GmbH",
+    "zip": "10178",
+    "city": "Berlin",
+    "active": true,
+    "score": 0.95
+  },
+  {
+    "id": "DE79DNF2QV00",
+    "name": "REISSWOLF International GmbH",
+    "zip": "21509",
+    "city": "Glinde",
+    "active": true,
+    "score": 0.95
+  },
+  {
+    "id": "DEXJOWXXDE43",
+    "name": "Buss Port Services GmbH",
+    "zip": "20457",
+    "city": "Hamburg",
+    "active": true,
+    "score": 0.95
+  },
+  {
+    "id": "DETZFRPFFW72",
+    "name": "sea chefs Cruise Services GmbH",
+    "zip": "20095",
+    "city": "Hamburg",
+    "active": true,
+    "score": 0.42
+  },
+  {
+    "id": "DEECHCVZVM75",
+    "name": "FINVIA Family Office GmbH",
+    "zip": "60323",
+    "city": "Frankfurt am Main",
+    "active": true,
+    "score": 0.95
+  },
+  {
+    "id": "DETQU1CS6S32",
+    "name": "we love pr GmbH",
+    "zip": "80805",
+    "city": "München",
+    "active": true,
+    "score": 0.95
+  },
+  {
+    "id": "DEFO6USMZS43",
+    "name": "constellr GmbH",
+    "zip": "79100",
+    "city": "Freiburg im Breisgau",
+    "active": true,
+    "score": 0.86
+  },
+  {
+    "id": "DEKVKFZIBC29",
+    "name": "simpleclub GmbH",
+    "zip": "82031",
+    "city": "Grünwald",
+    "active": true,
+    "score": 0.8
+  },
+  {
+    "id": "DEXAU5NNSY46",
+    "name": "BioMed X AG",
+    "zip": "69120",
+    "city": "Heidelberg",
+    "active": true,
+    "score": 0.95
+  },
+  {
+    "id": "DEKO4VJ1RJ10",
+    "name": "Gerresheimer Bünde GmbH",
+    "zip": "32257",
+    "city": "Bünde",
+    "active": true,
+    "score": 0.88
+  }
+]

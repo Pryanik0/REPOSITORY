@@ -1,0 +1,9 @@
+{
+  "url": "https://simpleclub.com/robots.txt",
+  "final_url": "https://simpleclub.com/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "fetched_at": "2026-11-25T16:37:34.021472+00:00",
+  "text": "Sitemap: https://simpleclub.com/sitemap.xml\nSitemap: https://api.simpleclub.com/v2/seo/sitemaps/video.xml\nDisallow: /*?variant=\n\nSitemap: https://simpleclub.com/sitemap.xml"
+}

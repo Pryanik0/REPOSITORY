@@ -1,0 +1,469 @@
+MAC IT-Solutions GmbH — Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024
+MAC IT-Solutions GmbH
+
+Flensburg
+
+Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024
+
+Lagebericht
+
+1. Grundlage des Unternehmens
+
+1.1 Geschäftsmodell des Unternehmens
+
+Die MAC IT-Solutions GmbH (nachfolgend MAC) gehört zu den in Deutschland führenden Anbietern von ERP-Systemen für den E-Commerce und Omnichannel-Handel. Die MAC ist Teil der collana IT-Gruppe.
+
+Die Anforderungen der Kunden bzw. des Marktes decken wir über zwei Standardprodukte ab:
+
+MAILplus
+
+•
+
+Diese Lösung basiert auf der IBM Plattform System i und wird nur noch bei bestehenden Kunden betreut.
+
+•
+
+Eine Weiterentwicklung des Standardproduktes findet im Kundenauftrag statt.
+
+DiVA
+
+•
+
+DiVA basiert auf der ERP-Plattform Microsoft Dynamics Business 365 Business Central (nachfolgend "BC") und ergänzt diese um die branchenspezifischen Funktionalitäten.
+
+•
+
+DiVA ist die Plattform für die aktuellen Neukundenprojekte wie auch die zukünftigen Projekte in der Branche der E-Commerce und Omnichannel-Händler und wird im Rahmen der Projekte auf die jeweiligen Kundenbedürfnisse angepasst.
+
+•
+
+Nach der Einführung der Projekte werden die Kunden und Lösungen im Bestand betreut sowie weitere Kundenanpassungen umgesetzt.
+
+Ergänzt wird DiVA um
+
+•
+
+den Betrieb dieser Lösungen in der Azure Cloud von Microsoft durch den Bereich Managed Services,
+
+•
+
+die Aufbereitung und Visualisierung der Daten mit verschiedenen Azure-Services,
+
+•
+
+die Anbindung an verschiedene Payment Service Provider durch collana pay, einen von der Schwestergesellschaft collana hive GmbH zur Verfügung gestellten Service,
+
+•
+
+den Einsatz verschiedener Apps aus dem Angebot von Microsoft365 sowie
+
+•
+
+die Kassenlösung DiVA POS.
+
+1.2 Forschung und Entwicklung
+
+Forschung und (Weiter-)Entwicklung von DiVA sowie der unterstützenden Services sind eine der wesentlichen Herausforderungen unseres Geschäftsmodells.
+
+1.2.1. DiVA
+
+Durch einen erheblichen Technologiesprung der Microsoft-ERP-Plattform von DiVA, von MS Dynamics NAV zu MS Dynamics 365 BC, waren auch im GJ 2024 weitere Investitionen in die Transition von DiVA erforderlich:
+
+•
+
+Eigene Leistungen: 2.390 Personentage (PT)
+
+•
+
+Leistungen Dritter: keine
+
+Es erfolgte keine Aktivierung der obigen Leistungen.
+
+1.2.2. DiVA POS Neben der laufenden, funktionalen Ergänzung von DiVA POS wurde die Entwicklung einer neuen Softwaregeneration unter Verwendung modernster Technologien begonnen. Die Entwicklung des entsprechenden Prototyps ist Ende Q3 2024 abgeschlossen worden und für die Markteinführung ist bereits ein erster Kunde gewonnen worden. Die Projekteinführung ist für Q1 2025 geplant. Die Investitionen in diese neue Version von DiVA POS beliefen sich im vergangenen Geschäftsjahr auf:
+
+•
+
+Eigene Leistungen: 1.493 PT
+
+•
+
+Leistungen Dritter: keine
+
+Es erfolgte keine Aktivierung der obigen Leistungen.
+
+1.2.3. Daten & BI
+
+Die Zusammenführung heterogener Daten aus unterschiedlichen Quellen, die Definition sinnvoller KPIs sowie deren Visualisierung ist zentraler Bestandteil der Entwicklung unserer Kunden. Der Aufbau dieses Bereiches wurde 2021 begonnen und auch 2024 fortgesetzt. Zum Jahreswechsel besteht der Bereich aus sieben Mitarbeitenden, die verschiedene Kundenprojekte erfolgreich umgesetzt haben. Der Ausblick auf 2025 stimmt uns optimistisch.
+
+2. Wirtschaftsbericht
+
+2.1 Gesamtwirtschaftliche Rahmenbedingungen (Branche)
+
+Die Stimmung im E-Commerce in Deutschland bleibt angespannt. Jedoch hat sich, laut Bundesverband E-Commerce und Versandhandel Deutschland e.V. (bevh), der deutliche Nachfragerückgang der Jahre 2022 und 2023 im B2C-Onlinehandel in eine Stabilisierung über Vorjahresniveau gewendet. So konnten die Vorjahresumsätze im Bruttoumsatz mit Waren um 10,1% auf 94 Mrd. Euro wachsen. Dies führt bei einem Teil der Händler dazu, ihre Prozesse weiter zu automatisieren bzw. zu optimieren. Von dem damit einhergehenden Austausch der ERP-Systeme werden wir in den kommenden Jahren profitieren.
+
+Dennoch sind die erheblichen geopolitischen Unsicherheiten und die u.a. damit einhergehende Zurückhaltung im Käuferverhalten im abgelaufenen Geschäftsjahr weiterhin durch Unsicherheiten geprägt.
+
+2.2 Geschäftsverlauf und Lage
+
+Der Umsatz hat sich im Vergleich zum Vorjahr positiv entwickelt und ist von T€ 15.248 um 10,2% auf T€ 16.799 gestiegen. Geprägt war das Geschäftsjahr von fünf Projekten mit einem Umsatzvolumen 2024 von T€ 4.400 sowie einer Vielzahl wesentlicher Changes im Bestandskundenbereich. Die Anzahl der Mitarbeitenden hat sich von 119 Mitarbeitenden zum 31.12.2023 auf 122 Mitarbeitende zum 31.12.2024 erhöht.
+
+2.2.1. Ertragslage
+
+Die Ertragslage der Gesellschaft hat sich, trotz der erheblichen Investitionen in die Entwicklung der Produkte / Services sowie die zeitweise zurückhaltende Nachfrage unserer Kunden, mit einem EBITDA von T€ 1.834 positiv entwickelt. Das Niveau des Vorjahres (EBITDA T€ 1.326) wurde um 38,3% gesteigert. Durch diese positive Entwicklung im abgelaufenen Geschäftsjahr, konnte das für 2024 geplante EBITDA von T€ 1.805 erreicht werden. Bei einer Aktivierung der 2024 erfolgten Leistungen in Forschung & Entwicklung wäre das Plan-EBITDA deutlich überschritten worden und zeigt somit die Leistungsfähigkeit der Gesellschaft.
+
+Da die Entwicklung der ergänzenden Geschäftsfelder, DiVA POS und Daten & BI, naturgemäß das aktuelle Ergebnis belastet - und diese Geschäftsfelder derzeit nur einen geringen Umsatzbeitrag leisten, ist die aktuelle Entwicklung als positiv und erfolgreich einzuschätzen.
+
+Die Umsatzverteilung ist wesentlich durch die Geschäftsbereiche
+
+•
+
+DiVA mit einem Umsatzanteil von 77,72%
+
+•
+
+Managed Services mit einem Umsatzanteil von 16,52% sowie
+
+•
+
+MAILplus mit einem Umsatzanteil von 5,76% geprägt.
+
+Die sonstigen betrieblichen Aufwendungen von T€ 2.808 liegen auf dem Niveau des Vorjahres (2023 in Höhe von T€ 2.886).
+
+2.2.2. Finanzlage
+
+Die Eigenkapitalquote beträgt 6,9%. Die Bilanzsumme ist von T€ 3.268 um T€ 328 auf T€ 3.596 gestiegen. Neben den um T€ 166 gestiegenen liquiden Mitteln und dem Aufbau der offenen Forderungen um T€ 161 ist die Bilanz geprägt durch den Gewinnabführungsvertrag mit der collana IT GmbH.
+
+Die weiteren, im Jahr 2024 getätigten Investitionen in die Produkte und Services wurden bereits im Rahmen des Geschäftsmodells dargelegt.
+
+Der Cashflow aus laufender Geschäftstätigkeit hat sich gegenüber dem Vorjahr verbessert und beträgt T€ 550 (Vorjahr./. T€ 296).
+
+2.2.3. Vermögenslage
+
+Die Bilanzsumme ist um T€ 328 auf T€ 3.596 gestiegen. Folgende Veränderungen sind hervorzuheben:
+
+Das Anlagevermögen beträgt zum Abschlussstichtag T€ 689 und macht 19,1 % der Bilanzsumme aus. Der Rückgang um T€ 58 gegenüber dem Vorjahr resultiert aus den Zugängen mit T€ 249 sowie den Abschreibungen mit T€ 307. Die Zugänge entfallen in voller Höhe auf Sachanlagen.
+
+Das Eigenkapital ist im Vergleich zum Vorjahr um T€ 148 auf T€ 248 gesunken und beträgt 6,9 % der Bilanzsumme. Der Rückgang resultiert aus dem Jahresfehlbetrags in Höhe von T€ 148. Der restliche Bilanzgewinn wird aufgrund der Ausschüttungssperre gem. § 268 Abs. 8 HGB nicht an den Organträger, die collana IT GmbH, abgeführt.
+
+2.3 Gesamtaussage
+
+Die Entwicklung der MAC ist weiterhin nachhaltig positiv. Erhebliche Investitionen in Produkte und Services, die naturgemäß zu Lasten des Ergebnisses wie auch des Cash Flows gehen, sichern den zukünftigen Erfolg wie auch die Marktposition des Unternehmens ab.
+
+3. Zweigniederlassungsbericht
+
+Das Unternehmen verfügt neben dem Hauptsitz in Flensburg unverändert über eine Niederlassung in Hamburg. In der Niederlassung Hamburg sind zum Stichtag 31.12.2024 20 Mitarbeitende beschäftigt.
+
+4. Prognose-, Chancen- und Risikobericht
+
+4.1 Prognose
+
+Das sich in 2024 positiv entwickelnde Marktumfeld in Zusammenhang mit den technologischen Innovationen der MAC wird die gute Positionierung der MAC im Markt für ERP-Lösungen im E-Commerce und Onlinehandel weiter festigen.
+
+Unter dieser Annahme wird für das Geschäftsjahr 2025 eine weitere spürbare Steigerung des Umsatzes sowie auch des EBITDA erwartet. Dieses geht einher mit der Erwartung einer weiterhin und nachhaltig positiven Entwicklung der Vermögens- Finanz- und Ertragslage.
+
+Zudem wird im Rahmen des weiteren Aufbaus der collana IT-Gruppe die Fokussierung der MAC auf ihr Kerngeschäft fortschreiten.
+
+4.2 Chancen
+
+Die Konzentration der Gesellschaft auf die Entwicklung, Einführung und Betreuung von ERP-Systemen für komplexe Anforderungen anspruchsvoller Kunden aus dem E-Commerce, ergänzt durch die verschiedenen Angebote der Schwestergesellschaften, wird das Angebot der MAC aus Kundensicht weiter komplettieren und zu weiterer Wertschöpfung der Kunden führen.
+
+4.3 Risiken
+
+Das Geschäftsmodell der MAC ist weiterhin stark abhängig von dem Halten der bestehenden Mitarbeitenden wie auch dem Gewinn von weiteren Mitarbeitenden. Der Fachkräftemangel in unserer Branche wird eine stetige Anpassung der Vergütung erfordern, da wir mit zahlreichen Unternehmen um diese Fachkräfte konkurrieren. Es sind erhebliche Anstrengungen und Investitionen erforderlich, um die Attraktivität der MAC zu steigern. Hier wird die Zugehörigkeit zur collana IT-Familie unterstützend wirken.
+
+Aufgrund der aktuellen Entwicklung, der stabilen Kundenbasis mit einem sehr hohen Lock-in-Effekt, dem wieder aufhellenden Markumfeld sowie unseren Möglichkeiten der Zusammenarbeit innerhalb der collana IT-Gruppe, halten wir die Risken für beherrschbar und keinesfalls bestandsgefährdend.
+
+Flensburg, den 20. Februar 2025
+
+gez. Nicole Wehner
+
+gez. Aida Dia
+
+gez. Dirk Petersen
+
+gez. Jörn Fischer
+
+Bilanz
+
+Aktiva
+
+scroll
+
+	31.12.2024 EUR	31.12.2023 EUR
+A. Anlagevermögen	689.133,07	747.510,88
+I. Immaterielle Vermögensgegenstände	179.420,29	367.374,29
+1. Selbst geschaffene gewerbliche Schutzrechte und ähnliche Rechte und Werte	148.243,46	296.485,46
+2. Geschäfts- oder Firmenwert	2,00	2,00
+II. Sachanlagen	509.712,78	380.136,59
+1. andere Anlagen, Betriebs- und Geschäftsausstattung	509.712,78	380.136,59
+B. Umlaufvermögen	2.292.842,88	2.166.573,30
+I. Vorräte	7.713,75	37.527,50
+II. Forderungen und sonstige Vermögensgegenstände	1.752.780,34	1.763.366,72
+III. Kassenbestand, Bundesbankguthaben, Guthaben bei Kreditinstituten und Schecks	532.348,79	365.679,08
+C. Rechnungsabgrenzungsposten	613.652,80	354.299,39
+Summe Aktiva	3.595.628,75	3.268.383,57
+Passiva		
+	31.12.2024 EUR	31.12.2023 EUR
+A. Eigenkapital	248.243,46	396.485,46
+I. gezeichnetes Kapital	100.000,00	100.000,00
+II. Kapitalrücklage	0,00	0,00
+III. Bilanzgewinn	148.243,46	296.485,46
+B. Rückstellungen	319.971,21	374.839,27
+C. Verbindlichkeiten	2.913.270,48	2.488.537,58
+davon mit einer Restlaufzeit bis zu einem Jahr	2.299.381,57	1.730.204,23
+davon mit einer Restlaufzeit von mehr als einem Jahr	613.888,91	758.333,35
+1. Verbindlichkeiten gegenüber Kreditinstituten	815.698,01	955.112,93
+davon mit einer Restlaufzeit bis zu einem Jahr	201.809,10	196.779,58
+davon mit einer Restlaufzeit von mehr als einem Jahr	613.888,91	758.333,35
+2. Verbindlichkeiten gegenüber Gesellschaftern	1.220.794,71	564.090,80
+davon mit einer Restlaufzeit bis zu einem Jahr	1.220.794,71	564.090,80
+3. Verbindlichkeiten gegenüber verbundenen Unternehmen	45.035,01	32.529,14
+davon mit einer Restlaufzeit bis zu einem Jahr	45.035,01	32.529,14
+davon aus Steuern	231.720,59	304.695,21
+davon im Rahmen der sozialen Sicherheit	14.140,72	12.616,01
+D. Rechnungsabgrenzungsposten	114.143,60	8.521,26
+Summe Passiva	3.595.628,75	3.268.383,57
+
+Gewinn- und Verlustrechnung
+
+scroll
+
+	1.1.2024 - 31.12.2024 EUR	1.1.2023 - 31.12.2023 EUR
+1. Rohergebnis	13.652.465,53	12.708.894,64
+2. Personalaufwand	9.030.302,97	8.271.695,54
+a) Löhne und Gehälter	7.609.863,30	6.946.903,48
+b) soziale Abgaben und Aufwendungen für Altersversorgung und für Unterstützung	1.420.439,67	1.324.792,06
+davon Aufwendungen für Altersversorgung	19.043,51	18.088,27
+3. Abschreibungen	307.338,06	344.629,28
+a) auf immaterielle Vermögensgegenstände des Anlagevermögens und Sachanlagen	307.338,06	344.629,28
+4. sonstige betriebliche Aufwendungen	2.808.213,79	2.886.197,43
+5. sonstige Zinsen und ähnliche Erträge	2.036,36	2.108,99
+6. Zinsen und ähnliche Aufwendungen	19.995,04	21.316,09
+7. Steuern vom Einkommen und vom Ertrag	534,93	359,20
+8. sonstige Steuern	2.558,80	36.977,44
+9. Verlust- bzw. Gewinnabführung (Tochter)	-1.633.800,30	-1.658.181,15
+Jahresfehlbetrag	148.242,00	508.352,50
+
+Anhang
+
+1. Allgemeine Angaben
+
+Die MAC IT-Solutions GmbH hat ihren Sitz in Flensburg und ist beim Amtsgericht Flensburg unter der Nummer HRB 9075 eingetragen.
+
+Der Jahresabschluss zum 31. Dezember 2024 der MAC IT-Solutions GmbH, Flensburg, wurde nach den für Kapitalgesellschaften geltenden Vorschriften des Handelsgesetzbuches (§§ 264 ff. HGB) in der Fassung des BilRUG sowie des GmbH-Gesetzes aufgestellt.
+
+Für die Gewinn- und Verlustrechnung wurde das Gesamtkostenverfahren gewählt.
+
+Die Gesellschaft ist im Geschäftsjahr 2024 nach den Größenmerkmalen gemäß § 267 HGB als eine mittelgroße Kapitalgesellschaft zu qualifizieren und gemäß § 316 Abs. 1 HGB prüfungspflichtig.
+
+Von den Erleichterungen nach § 288 HGB wurde in vollem Umfang Gebrauch gemacht.
+
+2. Bilanzierungs- und Bewertungsmethoden
+
+Die immateriellen Vermögensgegenstände und die Sachanlagen sind zu Anschaffungskosten vermindert um planmäßige Abschreibungen angesetzt. Dabei werden entgeltlich erworbene EDV-Programme über eine betriebsgewöhnliche Nutzungsdauer von drei Jahren abgeschrieben. Die abnutzbaren, beweglichen Anlagegegenstände wurden linear über die betriebsgewöhnliche Nutzungsdauer abgeschrieben. Außerplanmäßige Abschreibungen aufgrund steuerrechtlicher Vorschriften wurden im Geschäftsjahr nicht vorgenommen.
+
+Der unter den immateriellen Vermögensgegenständen ausgewiesene Geschäfts- oder Firmenwert wurde über eine Nutzungsdauer von 15 Jahren planmäßig abgeschrieben.
+
+Die gewöhnliche Nutzungsdauer basierte auf einer Einschätzung der zeitlichen Ertragsrückflüsse auf Basis der identifizierten Komponenten des Geschäfts- und Firmenwerts.
+
+Anschaffungs- oder Herstellungskosten von abnutzbaren beweglichen Wirtschaftsgütern des Anlagevermögens, die einer selbständigen Nutzung fähig sind, werden im Wirtschaftsjahr der Anschaffung, Herstellung oder Einlage in voller Höhe als Betriebsausgaben erfasst, wenn die Anschaffungs- oder Herstellungskosten, vermindert um einen darin enthaltenen Vorsteuerbetrag, für das einzelne Wirtschaftsgut EUR 800,00 nicht übersteigen.
+
+Die Vorräte werden grundsätzlich zu Anschaffung- bzw. Herstellungskosten unter Beachtung des Niederstwertprinzips bewertet und umfassen alle direkt dem Herstellungsprozess zurechenbaren Kosten sowie notwendige Teile der produktionsbezogenen Gemeinkosten.
+
+Die Forderungen und sonstigen Vermögensgegenstände sind grundsätzlich zu Nominalwerten unter Beachtung des Niederstwertprinzips angesetzt. Erkennbare Risiken werden durch Einzelwertberichtigungen berücksichtigt. Dem allgemeinen Kreditrisiko wird durch Bildung einer Pauschalwertberichtigung Rechnung getragen.
+
+Die Rechnungsabgrenzungsposten betreffen Ausgaben bzw. Einnahmen vor dem Abschlussstichtag, soweit sie Aufwand bzw. Ertrag für eine bestimmte Zeit nach diesem Tag darstellen.
+
+Die Rückstellungen beinhalten alle erkennbaren Risiken und ungewissen Verpflichtungen. Sie sind nach vernünftiger kaufmännischer Beurteilung mit ihrem notwendigen Erfüllungsbetrag angesetzt.
+
+Die Verbindlichkeiten sind mit ihrem Erfüllungsbetrag angesetzt.
+
+3. Erläuterungen zur Bilanz
+
+Im Jahr 2020 sind Entwicklungskosten für die Entwicklung der Software Standardentwicklung DiVABC in Höhe von EUR 741.201,46 angefallen. Der Betrag wurde gemäß § 248 Abs. 2 HGB als selbst geschaffener immaterieller Vermögensgegenstand des Anlagevermögens aktiviert. Ab Januar 2021 wird die Software über eine betriebsgewöhnliche Nutzungsdauer von fünf Jahren abgeschrieben.
+
+Die Forderungen gegen Gesellschafter betreffen in voller Höhe sonstige Forderungen.
+
+Die Forderungen gegen verbundene Unternehmen setzen sich in voller Höhe aus Forderungen aus Lieferungen und Leistungen zusammen.
+
+Der Bilanzgewinn entwickelte sich wie folgt:
+
+scroll
+
+	EUR
+Bilanzgewinn 31. Dezember 2023	296.485,46
+Jahresüberschuss 2024	1.485.558,30
+Ergebnisabführung 2024	-1.633.800,30
+Bilanzgewinn 31. Dezember 2024	148.243,46
+- davon Gewinnvortrag EUR 296.485,46	
+
+Der Gesamtbetrag, der gemäß § 268 Abs. 8 HGB der Ausschüttungssperre unterliegt, beträgt TEUR 148. Der Betrag entfällt in voller Höhe auf selbst geschaffene immaterielle Vermögensgegenstände des Anlagevermögens.
+
+Die Verbindlichkeiten gegenüber Kreditinstituten haben in Höhe von EUR 36.111,15 eine Restlaufzeit von mehr als fünf Jahren (VJ: TEUR 181). Die Verbindlichkeiten gegenüber Kreditinstituten sind durch einen Globalzessionsvertrag besichert.
+
+Die Verbindlichkeiten gegenüber Gesellschaftern betreffen in voller Höhe sonstige Verbindlichkeiten.
+
+Die Verbindlichkeiten gegenüber verbundenen Unternehmen betreffen in voller Höhe Verbindlichkeiten aus Lieferungen und Leistungen.
+
+Haftungsverhältnisse aus nicht bilanzierten Verbindlichkeiten gemäß § 251 HGB
+
+Die MAC IT-Solutions GmbH ist - gesamtschuldnerisch mit weiteren Gesellschaftern - als Garant in den Kreditvertrag zwischen der Muttergesellschaft collana IT GmbH (Kreditnehmer) und der RV AIP S.C.S. SIVAV-SIF (Kreditgeber) eingebunden. Die mögliche Leistungspflicht der MAC IT-Solutions GmbH ist insofern beschränkt, als dass eine Zahlung auf die Garantie nicht dazu führen darf, dass die Gesellschaft in Verletzung von §§ 30, 31 GmbHG nicht mehr über genügend Vermögen verfügen würde, um sein Stammkapital zu erhalten oder eine bestehende Unterdeckung vertieft würde. Hierfür wurden zur Besicherung des genannten Kredits die Bankkonten und Versicherungen der Gesellschaft zu Gunsten des Kreditgebers verpfändet. Es besteht außerdem eine Raumsicherungsübereignung des beweglichen Anlagevermögens sowie der Vorräte.
+
+Zum Abschlussstichtag besteht der Kredit in Höhe von MEUR 29,5. Mit einer Inanspruchnahme aus den Haftungsverhältnissen ist aufgrund der positiven Perspektive der Gesellschaft nicht zu rechnen.
+
+Sonstige finanzielle Verpflichtungen
+
+Die sonstigen finanziellen Verpflichtungen aus Leasing-, Miet- und Wartungsverträgen betragen zum Abschlussstichtag EUR 1.603.387,00. Diese setzen sich wie folgt zusammen:
+
+scroll
+
+Verträge mit bestimmter Laufzeit	EUR
+fällig 2025 und 2026	589.655,00
+fällig 2026 und 2027	1.013.732,00
+	1.603.387,00
+Verträge mit unbestimmter Laufzeit	
+fällig 2025 und 2026	1.188,00
+
+Aus Wirtschaftlichkeitsgründen wurde dem Leasing der Vorzug vor einer Investition in das Anlagevermögen gegeben. Die Miet- und Leasinggeschäfte dienen der mittelfristigen Verbesserung der Liquiditätssituation und der Verbesserung der Eigenkapitalquote. Risiken bzw. Nachteile resultieren aus der unkündbaren Grundmietzeit der Leasingverträge und höheren Refinanzierungskosten.
+
+4. Sonstige Angaben
+
+Die durchschnittliche Zahl der Arbeitnehmer - einschließlich Aushilfen, jedoch ohne Geschäftsführer und Auszubildende - betrug im Geschäftsjahr 130.
+
+Unterjährig wurde ein Mitarbeiter mit einem Minijobvertrag beschäftigt. Die Anzahl der Auszubildenden betrug zum Ende des Geschäftsjahres 4.
+
+Geschäftsführer der Gesellschaft im Geschäftsjahr 2024 waren:
+
+- Frau Nicole Wehner, Köln, mit der Befugnis Rechtsgeschäfte als Vertreter Dritter abzuschließen,
+
+- Frau Aida Dia, Hamburg, mit der Befugnis Rechtsgeschäfte als Vertreter Dritter abzuschließen,
+
+- Herr Jörn Fischer, Flensburg, mit der Befugnis Rechtsgeschäfte als Vertreter Dritter abzuschließen,
+
+- Herr Dirk Petersen, Handewitt, mit der Befugnis Rechtsgeschäfte als Vertreter Dritter abzuschließen.
+
+Die von der Gesellschaft an die Geschäftsführer gewährten Gesamtbezüge (Brutto) des Geschäftsjahres betragen insgesamt EUR 450.000,00.
+
+Konzernzugehörigkeit
+
+Die MAC IT-Solutions GmbH wurde in den Konzernabschluss der collana IT Holding GmbH einbezogen.
+
+Die collana IT Holding GmbH stellt den Konzernabschluss für den kleinsten Konzernkreis auf.
+
+Flensburg, den 20. Februar 2025
+
+gez. Nicole Wehner
+
+gez. Aida Dia
+
+gez. Jörn Fischer
+
+gez. Dirk Petersen
+
+Anlagenspiegel
+
+scroll
+
+	Anschaffungskosten	Anschaffungskosten	Anschaffungskosten	Anschaffungskosten
+	Stand 01.01.2024 EUR	Zugang EUR	Abgang EUR	Stand 31.12.2024 EUR
+I. Immaterielle Vermögensgegenstände				
+1. Selbst geschaffene gewerbliche Schutzrechte und ähnliche Rechte und Werte	1.609.476,46	0,00	0,00	1.609.476,46
+2. Geschäfts- oder Firmenwert	908.407,72	0,00	0,00	908.407,72
+übrige Bilanzpositionen	3.041.707,63	0,00	0,00	3.041.707,63
+	5.559.591,81	0,00	0,00	5.559.591,81
+II. Sachanlagen				
+1. Andere Anlagen, Betriebs- und Geschäftsausstattung	1.788.826,42	249.006,25	42.979,57	1.994.853,10
+	1.788.826,42	249.006,25	42.979,57	1.994.853,10
+	7.348.418,23	249.006,25	42.979,57	7.554.444,91
+
+scroll
+
+	Abschreibungen	Abschreibungen	Abschreibungen	Abschreibungen
+	Stand 01.01.2024 EUR	Zugang EUR	Abgang EUR	Stand 31.12.2024 EUR
+I. Immaterielle Vermögensgegenstände				
+1. Selbst geschaffene gewerbliche Schutzrechte und ähnliche Rechte und Werte	1.312.991,00	148.242,00	0,00	1.461.233,00
+2. Geschäfts- oder Firmenwert	908.406,72	0,00	0,00	908.406,72
+übrige Bilanzpositionen	2.970.819,80	39.712,00	0,00	3.010.531,80
+	5.192.217,52	187.954,00	0,00	5.380.171,52
+II. Sachanlagen				
+1. Andere Anlagen, Betriebs- und Geschäftsausstattung	1.408.689,83	119.384,06	42.933,57	1.485.140,32
+	1.408.689,83	119.384,06	42.933,57	1.485.140,32
+	6.600.907,35	307.338,06	42.933,57	6.865.311,84
+
+scroll
+
+	Nettowerte	Nettowerte
+	Buchwert 31.12.2024 EUR	Buchwert 31.12.2023 EUR
+I. Immaterielle Vermögensgegenstände		
+1. Selbst geschaffene gewerbliche Schutzrechte und ähnliche Rechte und Werte	148.243,46	296.485,46
+2. Geschäfts- oder Firmenwert	1,00	1,00
+übrige Bilanzpositionen	31.175,83	70.887,83
+	179.420,29	367.374,29
+II. Sachanlagen		
+1. Andere Anlagen, Betriebs- und Geschäftsausstattung	509.712,78	380.136,59
+	509.712,78	380.136,59
+	689.133,07	747.510,88
+
+Der Jahresabschluss wurde wegen der Inanspruchnahme von Erleichterungen nur teilweise offengelegt. Der nachstehende Bestätigungsvermerk bezieht sich auf den vollständigen Jahresabschluss.
+
+BESTÄTIGUNGSVERMERK DES UNABHÄNGIGEN ABSCHLUSSPRÜFERS
+
+Empfänger
+
+An die MAC IT-Solutions GmbH, Flensburg:
+
+Grundlage für das Prüfungsurteil
+
+Wir haben den Jahresabschluss der MAC IT-Solutions GmbH - bestehend aus der Bilanz zum 31. Dezember 2024 und der Gewinn- und Verlustrechnung für das Geschäftsjahr vom 1. Januar 2024 bis zum 31. Dezember 2024 sowie dem Anhang, einschließlich der Darstellung der Bilanzierungs- und Bewertungsmethoden - geprüft. Darüber hinaus haben wir den Lagebericht der MAC IT-Solutions GmbH für das Geschäftsjahr vom 1. Januar 2024 bis zum 31. Dezember 2024 geprüft. Nach unserer Beurteilung aufgrund der bei der Prüfung gewonnenen Erkenntnisse
+
+• entspricht der beigefügte Jahresabschluss in allen wesentlichen Belangen den deutschen, für Kapitalgesellschaften geltenden handelsrechtlichen Vorschriften und vermittelt unter Beachtung der deutschen Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens- und Finanzlage der Gesellschaft zum 31. Dezember 2024 sowie ihrer Ertragslage für das Geschäftsjahr vom 1. Januar 2024 bis zum 31. Dezember 2024 und
+
+• vermittelt der beigefügte Lagebericht insgesamt ein zutreffendes Bild von der Lage der Gesellschaft. In allen wesentlichen Belangen steht dieser Lagebericht in Einklang mit dem Jahresabschluss, entspricht den deutschen gesetzlichen Vorschriften und stellt die Chancen und Risiken der zukünftigen Entwicklung zutreffend dar. Gemäß § 322 Abs. 3 Satz 1 HGB erklären wir, dass unsere Prüfung zu keinen Einwendungen gegen die Ordnungsmäßigkeit des Jahresabschlusses und des Lageberichts geführt hat.
+
+2. Grundlagen für die Prüfungsurteile
+
+Wir haben unsere Prüfung des Jahresabschlusses und des Lageberichts in Übereinstimmung mit § 317 HGB unter Beachtung der vom Institut der Wirtschaftsprüfer (IDW) festgestellten deutschen Grundsätze ordnungsmäßiger Abschlussprüfung durchgeführt. Unsere Verantwortung nach diesen Vorschriften und Grundsätzen ist im Abschnitt "Verantwortung des Abschlussprüfers für die Prüfung des Jahresabschlusses und des Lageberichts" unseres Bestätigungsvermerks weitergehend beschrieben. Wir sind von dem Unternehmen unabhängig in Übereinstimmung mit den deutschen handelsrechtlichen und berufsrechtlichen Vorschriften und haben unsere sonstigen deutschen Berufspflichten in Übereinstimmung mit diesen Anforderungen erfüllt. Wir sind der Auffassung, dass die von uns erlangten Prüfungsnachweise ausreichend und geeignet sind, um als Grundlage für unsere Prüfungsurteile zum Jahresabschluss und zum Lagebericht zu dienen.
+
+Verantwortung der gesetzlichen Vertreter/des Aufsichtsgremiums für Abschluss/Lagebericht
+
+Die gesetzlichen Vertreter sind verantwortlich für die Aufstellung des Jahresabschlusses, der den deutschen, für Kapitalgesellschaften geltenden handelsrechtlichen Vorschriften in allen wesentlichen Belangen entspricht, und dafür, dass der Jahresabschluss unter Beachtung der deutschen Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage der Gesellschaft vermittelt. Ferner sind die gesetzlichen Vertreter verantwortlich für die internen Kontrollen, die sie in Übereinstimmung mit den deutschen Grundsätzen ordnungsmäßiger Buchführung als notwendig bestimmt haben, um die Aufstellung eines Jahresabschlusses zu ermöglichen, der frei von wesentlichen falschen Darstellungen aufgrund von dolosen Handlungen (d.h. Manipulationen der Rechnungslegung und Vermögensschädigungen) oder Irrtümern ist. Bei der Aufstellung des Jahresabschlusses sind die gesetzlichen Vertreter dafür verantwortlich, die Fähigkeit der Gesellschaft zur Fortführung der Unternehmenstätigkeit zu beurteilen. Des Weiteren haben sie die Verantwortung, Sachverhalte in Zusammenhang mit der Fortführung der Unternehmenstätigkeit, sofern einschlägig, anzugeben. Darüber hinaus sind sie dafür verantwortlich, auf der Grundlage des Rechnungslegungsgrundsatzes der Fortführung der Unternehmenstätigkeit zu bilanzieren, sofern dem nicht tatsächliche oder rechtliche Gegebenheiten entgegenstehen. Außerdem sind die gesetzlichen Vertreter verantwortlich für die Aufstellung des Lageberichts, der insgesamt ein zutreffendes Bild von der Lage der Gesellschaft vermittelt sowie in allen wesentlichen Belangen mit dem Jahresabschluss in Einklang steht, den deutschen gesetzlichen Vorschriften entspricht und die Chancen und Risiken der zukünftigen Entwicklung zutreffend darstellt. Ferner sind die gesetzlichen Vertreter verantwortlich für die Vorkehrungen und Maßnahmen (Systeme), die sie als notwendig erachtet haben, um die Aufstellung eines Lageberichts in Übereinstimmung mit den anzuwendenden deutschen gesetzlichen Vorschriften zu ermöglichen, und um ausreichende geeignete Nachweise für die Aussagen im Lagebericht erbringen zu können.
+
+Verantwortung des Abschlussprüfers für die Prüfung des Abschlusses/Lagebericht
+
+Unsere Zielsetzung ist, hinreichende Sicherheit darüber zu erlangen, ob der Jahresabschluss als Ganzes frei von wesentlichen falschen Darstellungen aufgrund von dolosen Handlungen oder Irrtümern ist, und ob der Lagebericht insgesamt ein zutreffendes Bild von der Lage der Gesellschaft vermittelt sowie in allen wesentlichen Belangen mit dem Jahresabschluss sowie mit den bei der Prüfung gewonnenen Erkenntnissen in Einklang steht, den deutschen gesetzlichen Vorschriften entspricht und die Chancen und Risiken der zukünftigen Entwicklung zutreffend darstellt, sowie einen Bestätigungsvermerk zu erteilen, der unsere Prüfungsurteile zum Jahresabschluss und zum Lagebericht beinhaltet. Hinreichende Sicherheit ist ein hohes Maß an Sicherheit, aber keine Garantie dafür, dass eine in Übereinstimmung mit § 317 HGB unter Beachtung der vom Institut der Wirtschaftsprüfer (IDW) festgestellten deutschen Grundsätze ordnungsmäßiger Abschlussprüfung durchgeführte Prüfung eine wesentliche falsche Darstellung stets aufdeckt. Falsche Darstellungen können aus dolosen Handlungen oder Irrtümern resultieren und werden als wesentlich angesehen, wenn vernünftigerweise erwartet werden könnte, dass sie einzeln oder insgesamt die auf der Grundlage dieses Jahresabschlusses und Lageberichts getroffenen wirtschaftlichen Entscheidungen von Adressaten beeinflussen. Während der Prüfung üben wir pflichtgemäßes Ermessen aus und bewahren eine kritische Grundhaltung. Darüber hinaus
+
+• identifizieren und beurteilen wir die Risiken wesentlicher falscher Darstellungen im Jahresabschluss und im Lagebericht aufgrund von dolosen Handlungen oder Irrtümern, planen und führen Prüfungshandlungen als Reaktion auf diese Risiken durch sowie erlangen Prüfungsnachweise, die ausreichend und geeignet sind, um als Grundlage für unsere Prüfungsurteile zu dienen. Das Risiko, dass eine aus dolosen Handlungen resultierende wesentliche falsche Darstellung nicht aufgedeckt wird, ist höher als das Risiko, dass eine aus Irrtümern resultierende wesentliche falsche Darstellung nicht aufgedeckt wird, da dolose Handlungen kollusives Zusammenwirken, Fälschungen, beabsichtigte Unvollständigkeiten, irreführende Darstellungen bzw. das Außerkraftsetzen interner Kontrollen beinhalten können.
+
+• erlangen wir ein Verständnis von den für die Prüfung des Jahresabschlusses relevanten internen Kontrollen und den für die Prüfung des Lageberichts relevanten Vorkehrungen und Maßnahmen, um Prüfungshandlungen zu planen, die unter den Umständen angemessen sind, jedoch nicht mit dem Ziel, ein Prüfungsurteil zur Wirksamkeit der internen Kontrollen der Gesellschaft bzw. dieser Vorkehrungen und Maßnahmen abzugeben.
+
+• beurteilen wir die Angemessenheit der von den gesetzlichen Vertretern angewandten Rechnungslegungsmethoden sowie die Vertretbarkeit der von den gesetzlichen Vertretern dargestellten geschätzten Werte und damit zusammenhängenden Angaben.
+
+• ziehen wir Schlussfolgerungen über die Angemessenheit des von den gesetzlichen Vertretern angewandten Rechnungslegungsgrundsatzes der Fortführung der Unternehmenstätigkeit sowie, auf der Grundlage der erlangten Prüfungsnachweise, ob eine wesentliche Unsicherheit im Zusammenhang mit Ereignissen oder Gegebenheiten besteht, die bedeutsame Zweifel an der Fähigkeit der Gesellschaft zur Fortführung der Unternehmenstätigkeit aufwerfen können. Falls wir zu dem Schluss kommen, dass eine wesentliche Unsicherheit besteht, sind wir verpflichtet, im Bestätigungsvermerk auf die dazugehörigen Angaben im Jahresabschluss und im Lagebericht aufmerksam zu machen oder, falls diese Angaben unangemessen sind, unser jeweiliges Prüfungsurteil zu modifizieren. Wir ziehen unsere Schlussfolgerungen auf der Grundlage der bis zum Datum unseres Bestätigungsvermerks erlangten Prüfungsnachweise. Zukünftige Ereignisse oder Gegebenheiten können jedoch dazu führen, dass die Gesellschaft ihre Unternehmenstätigkeit nicht mehr fortführen kann.
+
+• beurteilen wir Darstellung, Aufbau und Inhalt des Jahresabschlusses insgesamt einschließlich der Angaben sowie ob der Jahresabschluss die zugrunde liegenden Geschäftsvorfälle und Ereignisse so darstellt, dass der Jahresabschluss unter Beachtung der deutschen Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage der Gesellschaft vermittelt.
+
+• beurteilen wir den Einklang des Lageberichts mit dem Jahresabschluss, seine Gesetzesentsprechung und das von ihm vermittelte Bild von der Lage des Unternehmens.
+
+• führen wir Prüfungshandlungen zu den von den gesetzlichen Vertretern dargestellten zukunftsorientierten Angaben im Lagebericht durch. Auf Basis ausreichender geeigneter Prüfungsnachweise vollziehen wir dabei insbesondere die den zukunftsorientierten Angaben von den gesetzlichen Vertretern zugrunde gelegten bedeutsamen Annahmen nach und beurteilen die sachgerechte Ableitung der zukunftsorientierten Angaben aus diesen Annahmen. Ein eigenständiges Prüfungsurteil zu den zukunftsorientierten Angaben sowie zu den zugrunde liegenden Annahmen geben wir nicht ab. Es besteht ein erhebliches unvermeidbares Risiko, dass künftige Ereignisse wesentlich von den zukunftsorientierten Angaben abweichen.
+
+Wir erörtern mit den für die Überwachung Verantwortlichen unter anderem den geplanten Umfang und die Zeitplanung der Prüfung sowie bedeutsame Prüfungsfeststellungen, einschließlich etwaiger bedeutsamer Mängel in internen Kontrollen, die wir während unserer Prüfung feststellen.
+
+Verantwortlicher Wirtschaftsprüfer
+
+gez. Helmut Ermer, Wirtschaftsprüfer
+
+gez. Hannes Nebelung, Wirtschaftsprüfer
+
+Ort der Niederlassung des Abschlussprüfers
+
+Flensburg
+
+Datum
+
+5. März 2025
+
+Name Wirtschaftsprüfungsgesellschaft(-en)
+
+EEP GmbH Wirtschaftsprüfungsgesellschaft
+
+Die Feststellung bzw. Billigung des Jahresabschlusses erfolgte am 26.6.2025.

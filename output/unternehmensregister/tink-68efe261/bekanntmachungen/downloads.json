@@ -1,0 +1,20 @@
+[
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=HgLRl9PLhsJChm4FoDwxqotLDmeQ0lsI8AAI6-r0cQzy-PbsnX8wETcMBl6SA2YFRFj6qztWSlcWJKgyL3RS84hFTJ8vOvZ_vHk9KsVT_E3_46_Fe-yVFs9dSPliVcOCNlsV3wEEnXY3QFyp0jHfeInx1Buk-LBBP-eHrCwylXJt9i7kQoDADFGazk-lC4KVruDQe-fNqGgOKq4vcP13gTiu2nEdVUu_zfJ_-ldiMGN09_P3",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\tink-68efe261\\bekanntmachungen\\publication-3\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\tink-68efe261\\bekanntmachungen\\publication-3\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\tink-68efe261\\bekanntmachungen\\publication-3\\publication.txt",
+    "index": 3,
+    "category": "bekanntmachungen",
+    "company": "tink GmbH, Berlin",
+    "title": "Registerbekanntmachung nach dem Umwandlungsgesetz",
+    "documents_path": "output\\unternehmensregister\\tink-68efe261\\bekanntmachungen\\publication-3\\documents.json"
+  }
+]

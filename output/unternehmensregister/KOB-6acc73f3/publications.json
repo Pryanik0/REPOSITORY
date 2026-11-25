@@ -1,0 +1,424 @@
+{
+  "company": {
+    "key": "KOB",
+    "name": "KOB GmbH",
+    "location": "Wolfstein",
+    "name_source": "company_name",
+    "urls": [
+      "https://www.kob.de/"
+    ],
+    "kununu_url": "https://www.kununu.com/de/kob",
+    "branches": [
+      "Pharma & Medizintechnik"
+    ],
+    "search_terms": [
+      "Karl Otto Braun"
+    ],
+    "career_urls": [],
+    "postal_code": "67752",
+    "street": "Lauterstraße 50",
+    "region": "Rheinland-Pfalz",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:46:24.453425+00:00",
+  "searches": [
+    {
+      "accounting_only": true,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=KOB+GmbH&companyLocation=Wolfstein&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ACCOUNTING&drilldownFilter=22&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": false
+    },
+    {
+      "accounting_only": false,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=KOB+GmbH&companyLocation=Wolfstein&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ALL_AREAS&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": false
+    }
+  ],
+  "excluded_company_matches": [
+    {
+      "company": "PAUL HARTMANN AG, Heidenheim an der Brenz",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-08-18",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=ylEd-IbHi_g5OqZ7n3JmzNN7mHrqItpS7zAADCIOTLwqvi4ggjPsQ0_QyL6iFTMWGdKuQKqKSRUyGJRYSwYR-v3UON3tLWRfaF0FB6qRT2nrnk4Q0mlIQS75fb8CkkSok7jxwqjrCkVbcBWmaomJqK9VOyVUFdULHRsMn2E1lZmubl2gL7rEdxEpASgC3v9FHGUjsTC4-KDCTIWHpmdzDFTeZKtTHtsmtip52fybp5AzTpul",
+      "metadata": "PAUL HARTMANN AG, Heidenheim an der Brenz Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 18.08.2026 Sprache: Deutsch Befreite Unternehmen anzeigen HARTMANN Beteiligungen GmbH, Heidenheim an der Brenz NOGE Gesellschaft für Medizinprodukte und -dienstleistungen mbH, Heidenheim an der Brenz KOB Medical Devices (Deutschland) GmbH, Wolfstein BALATA GmbH, Heidenheim an der Brenz Bode Chemie GmbH, Hamburg CMC Consumer Medical Care GmbH, Sontheim an der Brenz web care LBJ GmbH, Hamburg Kneipp Werbe-Agentur u. Vertriebs-GmbH, Würzburg Kneipp GmbH, Würzburg CMC Beteiligungen GmbH, Sontheim an der Brenz CMC Technologies GmbH & Co. KG, Sontheim an der Brenz HARTMANN Venture GmbH, Grünwald Paul Hartmann AG & Co. Logistikzentrum Süd oHG, Heidenheim an der Brenz BRAWO SYSTEMS GmbH, Kaiserslautern KOB GmbH, Wolfstein",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "PAUL HARTMANN AG, Heidenheim an der Brenz",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-10-28",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=yJs4WT5r2YbOs83b-k3RhlYkOFAXnPWC4ol4joI8xxikmj10olNFcsojWGksNMa6N8djTxnQ3aqjpuoz7rNMPMdEdGdJYdlwLqNwhjCAC-bEhIj1YKurofWYlHxJaJhpg09Y75WCoQN1gLaGhvlUW1d6mwSuMccCuwqhwtD6HNFUm4Ng4Wl7VP3BHnTkGPHPWHmxZz9NBr1a9eLrN3MvBiDS6pIgyWw75HA40HenghDFTWNj",
+      "metadata": "PAUL HARTMANN AG, Heidenheim an der Brenz Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 28.10.2025 Sprache: Deutsch Befreite Unternehmen anzeigen HARTMANN Beteiligungen GmbH, Heidenheim an der Brenz NOGE Gesellschaft für Medizinprodukte und -dienstleistungen mbH, Heidenheim an der Brenz KOB Medical Devices (Deutschland) GmbH, Wolfstein BALATA GmbH, Heidenheim an der Brenz Bode Chemie GmbH, Hamburg CMC Consumer Medical Care GmbH, Sontheim an der Brenz web care LBJ GmbH, Hamburg Kneipp Werbe-Agentur u. Vertriebs-GmbH, Würzburg Kneipp GmbH, Würzburg CMC Beteiligungen GmbH, Sontheim an der Brenz CMC Technologies GmbH & Co. KG, Sontheim an der Brenz HARTMANN Venture GmbH, Grünwald Paul Hartmann AG & Co. Logistikzentrum Süd oHG, Heidenheim an der Brenz BRAWO SYSTEMS GmbH, Kaiserslautern KOB GmbH, Wolfstein",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "PAUL HARTMANN AG, Heidenheim an der Brenz",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2025-04-22",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=3mt_9timQWbqH2Y1vkCCdB38Ru4F5fTyIPI9c3a7zjwAKhbDy3JgpU0y5qsatkbLu_4mSBNaKQn3pMCzNhYTOY_r629ygk_aOhkP7G8DOUm0ydkUTM47KjIxLcjFX6coONnQC4Fz4u7LodJeRNyYJv00chUO3wZKJ8MXW0hIoLsh-LPFgvm-EVHqfOXqTFqPd_GdeMunANs7BF797zNbfzFaWyjhxGbHA_gbA5jx_PR09x-T",
+      "metadata": "PAUL HARTMANN AG, Heidenheim an der Brenz Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Ergänzung der Veröffentlichung vom 08.08.2023 Datum: 22.04.2025 Sprache: Deutsch Befreite Unternehmen anzeigen HARTMANN Beteiligungen GmbH, Heidenheim an der Brenz KOB Medical Devices (Deutschland) GmbH, Wolfstein Bode Chemie GmbH, Hamburg CMC Consumer Medical Care GmbH, Sontheim an der Brenz web care LBJ GmbH, Hamburg Kneipp Werbe-Agentur u. Vertriebs-GmbH, Würzburg Kneipp GmbH, Würzburg CMC Technologies GmbH & Co. KG, Sontheim an der Brenz HARTMANN Venture GmbH, Grünwald Paul Hartmann AG & Co. Logistikzentrum Süd oHG, Heidenheim an der Brenz BRAWO SYSTEMS GmbH, Kaiserslautern KOB GmbH, Wolfstein",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "PAUL HARTMANN AG, Heidenheim an der Brenz",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2024-11-07",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=sLqPY-YWTxVh5LTsBZDczZDdc-PLZQClVvIH_eQy9ipy1cxQ7FPVb41Knh8-VE-6iWqb6uHmNkE6f93w1r26QGRJhGvODViiWzi6XNyJHiQ_yIgpqBm82i3zPdECwDc8rJY89DFb_vejT1wUU4lotf_roDD4Zt8P1vURg0DyPRwFs2u8f6ZeIF1f5C0ppJ4inw_mJnhDm9ofbUu0T05sv1W8P4IuKolHKvk8i-unrn-6zd0z",
+      "metadata": "PAUL HARTMANN AG, Heidenheim an der Brenz Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 07.11.2024 Sprache: Deutsch Befreite Unternehmen anzeigen HARTMANN Beteiligungen GmbH, Heidenheim an der Brenz NOGE Gesellschaft für Medizinprodukte und -dienstleistungen mbH, Heidenheim an der Brenz KOB Medical Devices (Deutschland) GmbH, Wolfstein BALATA GmbH, Heidenheim an der Brenz Bode Chemie GmbH, Hamburg CMC Consumer Medical Care GmbH, Sontheim an der Brenz web care LBJ GmbH, Hamburg Kneipp Werbe-Agentur u. Vertriebs-GmbH, Würzburg Kneipp GmbH, Würzburg CMC Beteiligungen GmbH, Sontheim an der Brenz CMC Technologies GmbH & Co. KG, Sontheim an der Brenz HARTMANN Venture GmbH, Grünwald Paul Hartmann AG & Co. Logistikzentrum Süd oHG, Heidenheim an der Brenz BRAWO SYSTEMS GmbH, Kaiserslautern KOB GmbH, Wolfstein",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "KOB Medical Devices (Deutschland) GmbH, Wolfstein",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2026 bis zum 31.12.2026",
+      "publication_date": "2026-11-20",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=Gug2yGiAhIqLaARWQ07VOyBSAag_ZyrSdkI5U7_QrH0i9H8LliGUH_xuWGwLNP09aXG6uDcqCDa9MUDLzsIBwmAbCKtbNr3Ksp70cXWuEi8E5ulXX_Q7I4MCoNrWM7umBYu1_lJtik3mWRDi3jPuqwh840HsSM9EsBTxH9_i8qFSC-QPFj4pBuhG1vjkPRDnwi-KzeEUExW8dA-FdFOYOisuHUiNe2t3O8g6noXoaja4VqNd",
+      "metadata": "KOB Medical Devices (Deutschland) GmbH, Wolfstein Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2026 bis zum 31.12.2026 PAUL HARTMANN AG, Heidenheim an der Brenz Datum: 20.11.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "PAUL HARTMANN AG, Heidenheim an der Brenz",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-08-18",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=0XU_12jICqDMV_608WdityT-sFBWo6tI_IhK9q8AFrXY0xlA673opZm2fJYTKsMmFMNo7GlRHgqtlvW2q37DqF6OkaBYyhsOxa6mmXN-ENR9GPvO4EfIdFBTN2vcGqEwUU7y_NQRMl7DL5BeqT7B29iJ9icqBTkfht1KU8pn9gmxH-ei4OnfFufyTrKF7OZisk7WOVKpUCUiGI0yG9NtBXeAlDLJRIM4UhgPKzU9N5F4dFhM",
+      "metadata": "PAUL HARTMANN AG, Heidenheim an der Brenz Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 18.08.2026 Sprache: Deutsch Befreite Unternehmen anzeigen HARTMANN Beteiligungen GmbH, Heidenheim an der Brenz NOGE Gesellschaft für Medizinprodukte und -dienstleistungen mbH, Heidenheim an der Brenz KOB Medical Devices (Deutschland) GmbH, Wolfstein BALATA GmbH, Heidenheim an der Brenz Bode Chemie GmbH, Hamburg CMC Consumer Medical Care GmbH, Sontheim an der Brenz web care LBJ GmbH, Hamburg Kneipp Werbe-Agentur u. Vertriebs-GmbH, Würzburg Kneipp GmbH, Würzburg CMC Beteiligungen GmbH, Sontheim an der Brenz CMC Technologies GmbH & Co. KG, Sontheim an der Brenz HARTMANN Venture GmbH, Grünwald Paul Hartmann AG & Co. Logistikzentrum Süd oHG, Heidenheim an der Brenz BRAWO SYSTEMS GmbH, Kaiserslautern KOB GmbH, Wolfstein",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "KOB Medical Devices (Deutschland) GmbH, Wolfstein",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-05-12",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=X8a2lkAsQaQewEo58uIU_dHsZfcBrTiK4tokse2Gc7yCidsBpYWyFX4yZnH_SIlkr_z2dWH50ZmebE_btJThKR8eOZz0h06GpDCLmm-FqlP44ofh1nYks0FpzW_xSyOSY5pB3b1gvxMzr_8frcL-cvz_XEKu5ztVYtONKIutLLREI7y9oWrbXA05Rs3dkTLJ3mx0LW84BD20EQOgeYGzOo7-sMxkK4rbr0xInxjRSvkoDl6s",
+      "metadata": "KOB Medical Devices (Deutschland) GmbH, Wolfstein Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Berichtigung der Veröffentlichung vom 18.12.2025 PAUL HARTMANN AG, Heidenheim an der Brenz Datum: 12.05.2026 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "KOB Medical Devices (Deutschland) GmbH, Wolfstein",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2025-12-18",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=wxWzC_2_d_Flxh1o-JIkg1L7W1Rw9Te6_xblHGP_CXxQdqOn7Fkj0XbY03dRf7pXeaW10KuQ4NPXeh0eGeK0fvUgGmmcJsHyMC4biRUtYGZlTxvcWf2UegBfWNYSJ5_0ONmZekiMDTmxZTDmpEKLj0EPyvTG5tpKScQsWZeFDvjYjh2JnWhQlN430SX7e_Ezg07rYaK91RBDfZx_SbZgu0Bhjvj-Fd8jTIFsBeNX8C7yReql",
+      "metadata": "KOB Medical Devices (Deutschland) GmbH, Wolfstein Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Berichtigt am 12.05.2026 PAUL HARTMANN AG, Heidenheim an der Brenz Datum: 18.12.2025 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "PAUL HARTMANN AG, Heidenheim an der Brenz",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-10-28",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=pFQb-Tl3IComgPcs1Y89tWVDXeEq_PLG25hi-gcQewFttcLdHCTsSiY0hVawrfZp6AlVQPN58Ab_WNJmWsHiQS7TyIjSvLB3ON7vs9pr1T9JK1JN6RpBPPkeGPaUNx0399sr3uSriZIojpMVGVBMO3A5SVi2WxHPvU8tARUHPP_slZ5k12XDgGzcYPJGvljdQoNNCwJlD4a53ZcT5sP1LWe6-QxFsXTKWQkSz5ucMburLrNZ",
+      "metadata": "PAUL HARTMANN AG, Heidenheim an der Brenz Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 28.10.2025 Sprache: Deutsch Befreite Unternehmen anzeigen HARTMANN Beteiligungen GmbH, Heidenheim an der Brenz NOGE Gesellschaft für Medizinprodukte und -dienstleistungen mbH, Heidenheim an der Brenz KOB Medical Devices (Deutschland) GmbH, Wolfstein BALATA GmbH, Heidenheim an der Brenz Bode Chemie GmbH, Hamburg CMC Consumer Medical Care GmbH, Sontheim an der Brenz web care LBJ GmbH, Hamburg Kneipp Werbe-Agentur u. Vertriebs-GmbH, Würzburg Kneipp GmbH, Würzburg CMC Beteiligungen GmbH, Sontheim an der Brenz CMC Technologies GmbH & Co. KG, Sontheim an der Brenz HARTMANN Venture GmbH, Grünwald Paul Hartmann AG & Co. Logistikzentrum Süd oHG, Heidenheim an der Brenz BRAWO SYSTEMS GmbH, Kaiserslautern KOB GmbH, Wolfstein",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "KOB Medical Devices (Deutschland) GmbH, Wolfstein",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-06-24",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=I-iyYdno90ii63rUmPrQUBYksn1UIArWHwlm0chAUEbIUTTlvZ4-MXNIWkQJwdIGM_a2RlIHN9Jb9ribwpbQP6AhAe1AJ5WVTdYEbSwaJVNZ3r1EoDYZweslGk9Bbd5HtAfOyMVn_KdAmEkSZlZKtsbb_TfH0Ip1Q7FQNS1RxNr5VLvqnW33X-rNJVpL1tqD4RB-NVJ5irjCAWdzSmxM4-ngxsFqL8waJp1ny4zk5h70gQt8",
+      "metadata": "KOB Medical Devices (Deutschland) GmbH, Wolfstein Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Berichtigung der Veröffentlichung vom 18.11.2024 PAUL HARTMANN AG, Heidenheim an der Brenz Datum: 24.06.2025 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "KOB Medical Devices (Deutschland) GmbH, Wolfstein",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-06-23",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=6rl-K91334u2dfrNnb4shJByR3rlmVbKVxFPCR-Fp2HU9iJBXKcavkwrOiOUqAFTkoIOqrVkMJ9GHMEzr9s4V5rE6Th70rJGJN3R_k4w8ATJIw0DGkc3KR08Ufqd8DoBpTzDkkxyoVkoPLNLxqbp5psEHiNMw8QVh0jV8lZXbTbs3PI2Ek09vtiwz_9qvY6HcWf-MvI00Yypj4Iy_6QNlpRXSKhW7hZzrEa0Od8j7_GuvFYx",
+      "metadata": "KOB Medical Devices (Deutschland) GmbH, Wolfstein Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Berichtigung der Veröffentlichung vom 12.01.2024 PAUL HARTMANN AG, Heidenheim an der Brenz Datum: 23.06.2025 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "PAUL HARTMANN AG, Heidenheim an der Brenz",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2025-04-22",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=YnB6D9ZXfHxwGWd3T_DMwzm0nlpqyXgvYpd_MOmPVYKwStDKWuADaq_c0TQKQZKv-h90dFsQlT88Y7qeVUJVYnpxctJ3-CDjfdmVVrGkufj5J_baNVGWQJ2xfAUcIWvTV0QC5GZPCsgLoDnR8GQbazI8iwyhomXyjcv3P4SQC5SgQm73Hz4apN0UMbvCCT3FD521uiXhdn5V3WMy44I72rs6IQt1miOSplUCOwf3xHCPlWpR",
+      "metadata": "PAUL HARTMANN AG, Heidenheim an der Brenz Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Ergänzung der Veröffentlichung vom 08.08.2023 Datum: 22.04.2025 Sprache: Deutsch Befreite Unternehmen anzeigen HARTMANN Beteiligungen GmbH, Heidenheim an der Brenz KOB Medical Devices (Deutschland) GmbH, Wolfstein Bode Chemie GmbH, Hamburg CMC Consumer Medical Care GmbH, Sontheim an der Brenz web care LBJ GmbH, Hamburg Kneipp Werbe-Agentur u. Vertriebs-GmbH, Würzburg Kneipp GmbH, Würzburg CMC Technologies GmbH & Co. KG, Sontheim an der Brenz HARTMANN Venture GmbH, Grünwald Paul Hartmann AG & Co. Logistikzentrum Süd oHG, Heidenheim an der Brenz BRAWO SYSTEMS GmbH, Kaiserslautern KOB GmbH, Wolfstein",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "KOB Medical Devices (Deutschland) GmbH, Wolfstein",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2024-11-18",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=zaMUd9sE79q7kZ4IN4YfQ2h4FDYonCY61CaBt_LyML19CYfVup-fBk15yd8BCmq_bv7TKOIm-Dus1W_n44cHKUr42-twDBuNfxwAjZo6THwoDoeP9eZPKA6MnEr6vE9nULUXgKNHgAF90gGiUbcRHMZJDEHSe7gSTyjD4Tqpb82f9YTP7Cu6SvAg_vjJd7U1XTya8crdy22f1Gvfy6ivTshuYbLXXN07sNGccHn-nktkE1Gg",
+      "metadata": "KOB Medical Devices (Deutschland) GmbH, Wolfstein Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Berichtigt am 24.06.2025 PAUL HARTMANN AG, Heidenheim an der Brenz Datum: 18.11.2024 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "PAUL HARTMANN AG, Heidenheim an der Brenz",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2024-11-07",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=JjNprbC6qWRxSWwQfqgjQC7XU0503f_vozdqJMHwlrKlWOLY9HqBB-L3AJWqnzXiiJBQtjz6MLLHD9nr72jHBU-_nok2H-f9-SxcabGums3n3BEOwpgzAbmHQ8mvqifp4HvhswOGgnqKjs8e10ODcJKlbUBBlpe_DWnuJzz7N45bvt7dH0WIbhWTnxbYq4oZvKrdKb_13aT1yfFs3v8WuHCaGQ4yEpjWbuvDDBXAvae-RQ68",
+      "metadata": "PAUL HARTMANN AG, Heidenheim an der Brenz Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 07.11.2024 Sprache: Deutsch Befreite Unternehmen anzeigen HARTMANN Beteiligungen GmbH, Heidenheim an der Brenz NOGE Gesellschaft für Medizinprodukte und -dienstleistungen mbH, Heidenheim an der Brenz KOB Medical Devices (Deutschland) GmbH, Wolfstein BALATA GmbH, Heidenheim an der Brenz Bode Chemie GmbH, Hamburg CMC Consumer Medical Care GmbH, Sontheim an der Brenz web care LBJ GmbH, Hamburg Kneipp Werbe-Agentur u. Vertriebs-GmbH, Würzburg Kneipp GmbH, Würzburg CMC Beteiligungen GmbH, Sontheim an der Brenz CMC Technologies GmbH & Co. KG, Sontheim an der Brenz HARTMANN Venture GmbH, Grünwald Paul Hartmann AG & Co. Logistikzentrum Süd oHG, Heidenheim an der Brenz BRAWO SYSTEMS GmbH, Kaiserslautern KOB GmbH, Wolfstein",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "KOB Medical Devices (Deutschland) GmbH, Wolfstein",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2024-01-12",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=wjEqPFcQvcRtEtarkItkDrxa-QL_jaot2AoBEcldEAf7u2QGzUSQ7-XWKMd9zbSFPvEQsO_hgc8NeemvDchm_gY_wnJwhao5m-iS0BjwaDHaFB7BfXwB3VrVPjcmN0EvSUOgq_wOgcQaty6sY2ToUeDh-MSkNpB3IsyXmApU00HO2SkObumx19ZgFpQCCpIPsCxmzTddd8jqLR0I8FEuSDY3bD6EBAT4m9DkWYCyWw1BE4_i",
+      "metadata": "KOB Medical Devices (Deutschland) GmbH, Wolfstein Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Berichtigt am 23.06.2025 PAUL HARTMANN AG, Heidenheim an der Brenz Datum: 12.01.2024 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "PAUL HARTMANN AG, Heidenheim an der Brenz",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-08-18",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=NP8f632STkp7ri1wDtB3WYro-TU7csdoIuJ_6YOknclRpc7738pLbW73DyFN0AE1Mt7L_aahTcjUTJXjW4hMvEOWynlls7xNwkCAZ0vYr2gx7Oor4JKLfnCgs3tObJIRrn5WVa6B30OYIy3xy1LYWc5abE7kbgiimBjP7WuZjfWjUSAXGivFIYitr8WpPHla17llxNzURX5it_Xe-KvQ-e862n7yG5gxaFl1neyi2G0pHWgn",
+      "metadata": "PAUL HARTMANN AG, Heidenheim an der Brenz Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 18.08.2026 Sprache: Deutsch Befreite Unternehmen anzeigen HARTMANN Beteiligungen GmbH, Heidenheim an der Brenz NOGE Gesellschaft für Medizinprodukte und -dienstleistungen mbH, Heidenheim an der Brenz KOB Medical Devices (Deutschland) GmbH, Wolfstein BALATA GmbH, Heidenheim an der Brenz Bode Chemie GmbH, Hamburg CMC Consumer Medical Care GmbH, Sontheim an der Brenz web care LBJ GmbH, Hamburg Kneipp Werbe-Agentur u. Vertriebs-GmbH, Würzburg Kneipp GmbH, Würzburg CMC Beteiligungen GmbH, Sontheim an der Brenz CMC Technologies GmbH & Co. KG, Sontheim an der Brenz HARTMANN Venture GmbH, Grünwald Paul Hartmann AG & Co. Logistikzentrum Süd oHG, Heidenheim an der Brenz BRAWO SYSTEMS GmbH, Kaiserslautern KOB GmbH, Wolfstein",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "PAUL HARTMANN AG, Heidenheim an der Brenz",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-10-28",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=sip8yJGrM56vzQzhpyT8CEko0ZVoVgZ80ARRIvuqe8Qb2PA1NhPZY5WAL5EybO1GghwLYXf6MewcUY44puwXaqtMQFiQzWL5zNm_16z4rnTLWirlwR6ACmHpRuwCEYjZWgkN56fFccN2QvwYI5xDr9qUc_1Zp7MELMCN8PY3abbsWydTrS-ZM76PU5oDhPEMUMK3qlQBt_ywpI_XJaIl4ifI4KP_YmP5fi9nFxUZLgN89Lrp",
+      "metadata": "PAUL HARTMANN AG, Heidenheim an der Brenz Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 28.10.2025 Sprache: Deutsch Befreite Unternehmen anzeigen HARTMANN Beteiligungen GmbH, Heidenheim an der Brenz NOGE Gesellschaft für Medizinprodukte und -dienstleistungen mbH, Heidenheim an der Brenz KOB Medical Devices (Deutschland) GmbH, Wolfstein BALATA GmbH, Heidenheim an der Brenz Bode Chemie GmbH, Hamburg CMC Consumer Medical Care GmbH, Sontheim an der Brenz web care LBJ GmbH, Hamburg Kneipp Werbe-Agentur u. Vertriebs-GmbH, Würzburg Kneipp GmbH, Würzburg CMC Beteiligungen GmbH, Sontheim an der Brenz CMC Technologies GmbH & Co. KG, Sontheim an der Brenz HARTMANN Venture GmbH, Grünwald Paul Hartmann AG & Co. Logistikzentrum Süd oHG, Heidenheim an der Brenz BRAWO SYSTEMS GmbH, Kaiserslautern KOB GmbH, Wolfstein",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "PAUL HARTMANN AG, Heidenheim an der Brenz",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2025-04-22",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=UxKstyYiCI91KVXSesvcvQk4_GxHS_DSslJgmf4BPuuMynYmC7ZuALdhbtF1_-klFk_52aXU0-hhhlg4MGirQAzOhYrIynmKR6tx_xFtBPyd7lhYOMKO4yIUiYBpQwRM9Vq9HPJa2Gk6SqnHyjD_YskDuOwgrFDYvAjzkWdkw6rpjtsDBly9zhQqR8ImJR9FrTeOfAjiFzkETdugF5rqi7oU-yKIwl-Ce-2oJennAtYyL-GN",
+      "metadata": "PAUL HARTMANN AG, Heidenheim an der Brenz Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Ergänzung der Veröffentlichung vom 08.08.2023 Datum: 22.04.2025 Sprache: Deutsch Befreite Unternehmen anzeigen HARTMANN Beteiligungen GmbH, Heidenheim an der Brenz KOB Medical Devices (Deutschland) GmbH, Wolfstein Bode Chemie GmbH, Hamburg CMC Consumer Medical Care GmbH, Sontheim an der Brenz web care LBJ GmbH, Hamburg Kneipp Werbe-Agentur u. Vertriebs-GmbH, Würzburg Kneipp GmbH, Würzburg CMC Technologies GmbH & Co. KG, Sontheim an der Brenz HARTMANN Venture GmbH, Grünwald Paul Hartmann AG & Co. Logistikzentrum Süd oHG, Heidenheim an der Brenz BRAWO SYSTEMS GmbH, Kaiserslautern KOB GmbH, Wolfstein",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "PAUL HARTMANN AG, Heidenheim an der Brenz",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2024-11-07",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=RzOMkB6OwygPpxrzgV0qSHeMeOUvfRrzK6LOigINhqZpKEA_L-t2mVha99NHhvEy5REFBd0_HNI9cRMwGj5l-YgHDbupUNzMj8vsNP9CYE_qlEyrS7-_tfwBNx0pcWYhvQJaE5yMEzLpOs9HK8VGbewkaVrH7MPO0VW3XGj3t-OyVNe5G-lhnjVgxH1L8QfnfJkSBq89tv5En9qHpmkPZSsayuRP0HwTNkEz00i8nEU9nno3",
+      "metadata": "PAUL HARTMANN AG, Heidenheim an der Brenz Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 07.11.2024 Sprache: Deutsch Befreite Unternehmen anzeigen HARTMANN Beteiligungen GmbH, Heidenheim an der Brenz NOGE Gesellschaft für Medizinprodukte und -dienstleistungen mbH, Heidenheim an der Brenz KOB Medical Devices (Deutschland) GmbH, Wolfstein BALATA GmbH, Heidenheim an der Brenz Bode Chemie GmbH, Hamburg CMC Consumer Medical Care GmbH, Sontheim an der Brenz web care LBJ GmbH, Hamburg Kneipp Werbe-Agentur u. Vertriebs-GmbH, Würzburg Kneipp GmbH, Würzburg CMC Beteiligungen GmbH, Sontheim an der Brenz CMC Technologies GmbH & Co. KG, Sontheim an der Brenz HARTMANN Venture GmbH, Grünwald Paul Hartmann AG & Co. Logistikzentrum Süd oHG, Heidenheim an der Brenz BRAWO SYSTEMS GmbH, Kaiserslautern KOB GmbH, Wolfstein",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "KOB Medical Devices (Deutschland) GmbH, Wolfstein",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2026 bis zum 31.12.2026",
+      "publication_date": "2026-11-20",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=-2OXaP71-W8u6tOaVAUrXeb9AxiuXJv1yqEFLWRqNm8BrQ3tmyLX66-uHom_lfiEcDSJcJBArTYh8ZdNB_C3h0TWATDr9QSiTcymHLYPvInuF8CQ0C7AIkLE-yaYjVZ0Lxb5VrO4HeVZDW1bFl_o08xCQYClN_VV4RGxGA3DAHMxdtS26DyxQNmvEaOWzrnzlZuPxjZ1PZOsYs-TgBrzOj7rhR87gmEBtixH4i8i6LK6dflm",
+      "metadata": "KOB Medical Devices (Deutschland) GmbH, Wolfstein Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2026 bis zum 31.12.2026 PAUL HARTMANN AG, Heidenheim an der Brenz Datum: 20.11.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "PAUL HARTMANN AG, Heidenheim an der Brenz",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-08-18",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=Pq6gixbQkKX9nkN9VvYNG808v1vuHaqWuG4FAWemrv-g8Uc8qWLsurGXMm7K_uyxsESgmzIb7cD_vznSoUbCEihg3QC4o6m4ut82jSAjUo2aOOqyxDk08Gi6s7_QMJHxrNxBhjlp_g26LSEKaqyjwn5uLQEje3f827h9bV4IkMLCb6C5NOdnYXnvvr6hcAe958I9n1VdoE3ObKzA9eB00GQVVPqrWVyGjcLLCxdUwQjTE2ew",
+      "metadata": "PAUL HARTMANN AG, Heidenheim an der Brenz Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 18.08.2026 Sprache: Deutsch Befreite Unternehmen anzeigen HARTMANN Beteiligungen GmbH, Heidenheim an der Brenz NOGE Gesellschaft für Medizinprodukte und -dienstleistungen mbH, Heidenheim an der Brenz KOB Medical Devices (Deutschland) GmbH, Wolfstein BALATA GmbH, Heidenheim an der Brenz Bode Chemie GmbH, Hamburg CMC Consumer Medical Care GmbH, Sontheim an der Brenz web care LBJ GmbH, Hamburg Kneipp Werbe-Agentur u. Vertriebs-GmbH, Würzburg Kneipp GmbH, Würzburg CMC Beteiligungen GmbH, Sontheim an der Brenz CMC Technologies GmbH & Co. KG, Sontheim an der Brenz HARTMANN Venture GmbH, Grünwald Paul Hartmann AG & Co. Logistikzentrum Süd oHG, Heidenheim an der Brenz BRAWO SYSTEMS GmbH, Kaiserslautern KOB GmbH, Wolfstein",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "KOB Medical Devices (Deutschland) GmbH, Wolfstein",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-05-12",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=8YAjprCkEIUxVukVvnCR-wLk-CJi8gO2ECYM6r5ztx-tREtWL-lRuBewWpsmaB4MaZrmiBT_2Ac6WK6nvZN-Rk65NWTcZ7brUeSja24zhGj3NwvE16A3hl0NkX8uvaZE14P7mNTQGePhhONfW8WRCxV-p6vFTwThaYHZdLvdJIryOyDH-1pnExIq2emSz9KcQZEJdaiYT5UBAI7MC7pRO2EuoDJffa5Zj7z74vwz28uGnFEU",
+      "metadata": "KOB Medical Devices (Deutschland) GmbH, Wolfstein Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Berichtigung der Veröffentlichung vom 18.12.2025 PAUL HARTMANN AG, Heidenheim an der Brenz Datum: 12.05.2026 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "KOB Medical Devices (Deutschland) GmbH, Wolfstein",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2025-12-18",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=U9BKPY0ZZZuW49SShqK1nE_8AHptNtAX2F_7wSAv5tyqsokrW-ur_ls2rbzk39j7rRyp1S-2Knxe2nlx69zwaH68EP4bzjGaboe8feYlKWps9yqAS7hEGA-K9n3ka65vQmgJposyrga898_t2hNsx60fiFVJt7Ji8NMSTSfg4jGQDtkgCx2itbv3XHTiGs3OSWWyy7KPHO-bMrtoQP5w-Omn2oWOFpdR4oFkSWmamE4ffe0j",
+      "metadata": "KOB Medical Devices (Deutschland) GmbH, Wolfstein Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Berichtigt am 12.05.2026 PAUL HARTMANN AG, Heidenheim an der Brenz Datum: 18.12.2025 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "PAUL HARTMANN AG, Heidenheim an der Brenz",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-10-28",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=cY4UMQU7DDIM1bSGGoKwGvTDPy-5XJdOr1LYUNwEWezGltJdwrs9-TEInpQ575wkYVA5BtMjHay3Sxt4tYQm8O6owNx7r74jccdBt2CxOO9bQyMZoQGOXZds1xv920bfYpgwTO5fopU2-GLLaNK2beikwPEQ8l7a3zaYPNcbqYCfXYOeMSH1pF1zRelqIkpuEqYemcDnLcDlropk_zeT7GUARA_S0VvxzjICbaJGVYdjVryp",
+      "metadata": "PAUL HARTMANN AG, Heidenheim an der Brenz Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 28.10.2025 Sprache: Deutsch Befreite Unternehmen anzeigen HARTMANN Beteiligungen GmbH, Heidenheim an der Brenz NOGE Gesellschaft für Medizinprodukte und -dienstleistungen mbH, Heidenheim an der Brenz KOB Medical Devices (Deutschland) GmbH, Wolfstein BALATA GmbH, Heidenheim an der Brenz Bode Chemie GmbH, Hamburg CMC Consumer Medical Care GmbH, Sontheim an der Brenz web care LBJ GmbH, Hamburg Kneipp Werbe-Agentur u. Vertriebs-GmbH, Würzburg Kneipp GmbH, Würzburg CMC Beteiligungen GmbH, Sontheim an der Brenz CMC Technologies GmbH & Co. KG, Sontheim an der Brenz HARTMANN Venture GmbH, Grünwald Paul Hartmann AG & Co. Logistikzentrum Süd oHG, Heidenheim an der Brenz BRAWO SYSTEMS GmbH, Kaiserslautern KOB GmbH, Wolfstein",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "KOB Medical Devices (Deutschland) GmbH, Wolfstein",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-06-24",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=y40xSakLwn8eF0Dm4NAlTmouWA0Oiwfec7pwoIEpOth5tIQ99ACHTm8L9hJAUXOgWyEG7Tjglv466UBmPaEx9ThvQU5Qky1yeWQiQxWC1i01bFffKvo6Tye7nA8ykMxgZ8bn9VPrGHLxaj7IkDTaLAHvSG5S8-mXrFkuPaVMff6Q5vA4Kqv3xg1knbuGKZp0ZrbAcmYw5J7MIXHtsPoXdu1dqW6uRa5LbC7cWiS942gXHnF9",
+      "metadata": "KOB Medical Devices (Deutschland) GmbH, Wolfstein Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Berichtigung der Veröffentlichung vom 18.11.2024 PAUL HARTMANN AG, Heidenheim an der Brenz Datum: 24.06.2025 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "KOB Medical Devices (Deutschland) GmbH, Wolfstein",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-06-23",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=wbHt3byfkk-cTZ_F3Gmd5_JO5YLt2BZJC01ID-ARkRb8QUxpQafrW0n6QdTvndZuMaXp1Z72wnUxP2G568d-M_WYq3C-_7ZQYU2UMFLQAqeGH7dQzSI_Sf4XN9MKz68alvF1-j31xPdyL1ORSNh0lKYWVU0SSwLbIN-yRrWNehRumuscy7xeJPEggpi2SxHxILWiwGVsgcS0N8llPH9alYg8ME1N1t6CZE4ZzoZeOh7hcWSr",
+      "metadata": "KOB Medical Devices (Deutschland) GmbH, Wolfstein Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Berichtigung der Veröffentlichung vom 12.01.2024 PAUL HARTMANN AG, Heidenheim an der Brenz Datum: 23.06.2025 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "PAUL HARTMANN AG, Heidenheim an der Brenz",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2025-04-22",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=lVRsmhNLCZ65Un15XslFPzxwB-QozbJAnRosYYsTwTQ6_oXPkqtu49au03_k5eOZV63taNj4-vb4W5t8AcjOHt28bW4djmeYTy-eRi0QI87D9-Bqu1P6Cf93fb_qXwf7KkWd3PqdFVQwWSXZ2B3tnXSapxDEKXsafFDWIJBhiAHK3EGQXc3II4-xTfQEAzzkxCLEcNZtDTQNsIeCqrjvePIO204rLB5lZKhj35q9kxqD2gZV",
+      "metadata": "PAUL HARTMANN AG, Heidenheim an der Brenz Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Ergänzung der Veröffentlichung vom 08.08.2023 Datum: 22.04.2025 Sprache: Deutsch Befreite Unternehmen anzeigen HARTMANN Beteiligungen GmbH, Heidenheim an der Brenz KOB Medical Devices (Deutschland) GmbH, Wolfstein Bode Chemie GmbH, Hamburg CMC Consumer Medical Care GmbH, Sontheim an der Brenz web care LBJ GmbH, Hamburg Kneipp Werbe-Agentur u. Vertriebs-GmbH, Würzburg Kneipp GmbH, Würzburg CMC Technologies GmbH & Co. KG, Sontheim an der Brenz HARTMANN Venture GmbH, Grünwald Paul Hartmann AG & Co. Logistikzentrum Süd oHG, Heidenheim an der Brenz BRAWO SYSTEMS GmbH, Kaiserslautern KOB GmbH, Wolfstein",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "KOB Medical Devices (Deutschland) GmbH, Wolfstein",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2024-11-18",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=GStaK6CVAlNo4rt2MpN4Emi10eOcRHFBZrySq4ASOi3wsgzAsqOm0CBjP5-KQSKjQIejnWmcet-OvgP5LOfFz3XFknzVMbDJiccI2rwxs4nby1AkWTL_896ZTl_ZugTbjFeK40F9hl_1zhIaD-R296oy3731hkDtr6Qjte3zZ84xlU2z44N51jgTaWakppk4z0Sf0sSPkuLGjHhZaP2JQybaJ6I8fRiIPrpFmYe-DKWDyDMN",
+      "metadata": "KOB Medical Devices (Deutschland) GmbH, Wolfstein Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Berichtigt am 24.06.2025 PAUL HARTMANN AG, Heidenheim an der Brenz Datum: 18.11.2024 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "PAUL HARTMANN AG, Heidenheim an der Brenz",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2024-11-07",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=OcMBje-_BobfI-U-4XZQ4rI1ccxgNx443vKv5-0tB1P6qBTOGNvy3MLfnjUhmehd_pcVs2GzZG4u4SiR0kIregPcJspv9nWXdsSp09XoEZuf2DZ6LfGSmUQHhKUAubGZvw8Gvz5b7PPDtgvkfTovLqSNJ2oDaIkXLq0kudagyq2XrXkFkrrbonq3Q5M4FLEeoDQIA4QqyLaKnHqcwF4m46Z3fIVhdidaSrod9YvxpLbdlTGe",
+      "metadata": "PAUL HARTMANN AG, Heidenheim an der Brenz Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 07.11.2024 Sprache: Deutsch Befreite Unternehmen anzeigen HARTMANN Beteiligungen GmbH, Heidenheim an der Brenz NOGE Gesellschaft für Medizinprodukte und -dienstleistungen mbH, Heidenheim an der Brenz KOB Medical Devices (Deutschland) GmbH, Wolfstein BALATA GmbH, Heidenheim an der Brenz Bode Chemie GmbH, Hamburg CMC Consumer Medical Care GmbH, Sontheim an der Brenz web care LBJ GmbH, Hamburg Kneipp Werbe-Agentur u. Vertriebs-GmbH, Würzburg Kneipp GmbH, Würzburg CMC Beteiligungen GmbH, Sontheim an der Brenz CMC Technologies GmbH & Co. KG, Sontheim an der Brenz HARTMANN Venture GmbH, Grünwald Paul Hartmann AG & Co. Logistikzentrum Süd oHG, Heidenheim an der Brenz BRAWO SYSTEMS GmbH, Kaiserslautern KOB GmbH, Wolfstein",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "KOB Medical Devices (Deutschland) GmbH, Wolfstein",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2024-01-12",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=eXT1DeHvEFFEhc_aBhL585Vovyjb1zWl4GahlGaSd2aau2l0z7cKvy8DauYx1ASp98ES5aM_97jAVt402TsHJlCxlT82vqnijuI2e7naQY-fafaFnOCaxTgRve2Gnvv5FepoC-ydvBlEtKBJc9W2gIV9WqxoLYQZoPdxU7mQ8sup-VSSIvhJ2amd070jGN-7mOhkQecCol6Ta_PYZGehtFRv7ZVH6HmulIasFYcE8HAcwePC",
+      "metadata": "KOB Medical Devices (Deutschland) GmbH, Wolfstein Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Berichtigt am 23.06.2025 PAUL HARTMANN AG, Heidenheim an der Brenz Datum: 12.01.2024 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    }
+  ],
+  "date_from": "2024-01-01",
+  "date_to": "2026-11-25",
+  "excluded_dates": [],
+  "max_publications": 30,
+  "truncated": false,
+  "coverage": {
+    "search_complete": true,
+    "more_pages": false,
+    "publication_limit_reached": false,
+    "downloads_selected": 3,
+    "downloads_succeeded": 3,
+    "download_limit_reached": true,
+    "downloads_complete": false,
+    "text_complete": true
+  },
+  "publications": [
+    {
+      "company": "KOB GmbH, Wolfstein",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2026 bis zum 31.12.2026",
+      "publication_date": "2026-11-20",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=E0ND2Le_cJxM38jM0OFaEQ747v0Nw8YEDMMPsCXrplfjWpclzI4so-2iIDDgw6H0YCELfKgpPQV2QPm6TNbMo--j8ls7rh73YbeF_s4Es1qrwew_jPdpzbP3zvCEg75QqkFkfJmytsTXLuibrO0HTLdhLD9NL0_CFrVpfEGAh2cY0Zkoy5dcnhhn0Euq7QEqE_2XsCd1k0jFmGoXHX6c8v30yLGKQl7EQ7BF8aRoG646TecP",
+      "metadata": "KOB GmbH, Wolfstein Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2026 bis zum 31.12.2026 PAUL HARTMANN AG, Heidenheim an der Brenz Datum: 20.11.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "bekanntmachungen",
+      "index": 1
+    },
+    {
+      "company": "KOB GmbH, Wolfstein",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-10-05",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=7r6U6gj_BwwbB0OkoNvkgjD7JwcKAz4456NHgiGlqxShO1-ABUMZZRfNVOKXlCZMDmBHphWF6JgExJlqzL-LTQSMgYGtJlqFnZx0g-TmqwfMAZ45Nn5hZelqTd1shEed-QAmou3BxBtj9Dd-p5xf_FiJ3zCYWPvq3T67PvCP67RZHcu5tPj7CQCKPBFMtvC6yh9WirmcaTpRL6nmB1jIbkW2owKOyVWmAOHDh5CdwiIh3a0i",
+      "metadata": "KOB GmbH, Wolfstein Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Berichtigung der Veröffentlichung vom 18.12.2025 PAUL HARTMANN AG, Heidenheim an der Brenz Datum: 05.10.2026 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "bekanntmachungen",
+      "index": 2
+    },
+    {
+      "company": "KOB GmbH, Wolfstein",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2025-12-18",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=lmPn7A_ruoeVLKsSV_ItIzPsEv77SzR2Z7IusA_yUe9Ve0ohGuiJof0wpmYH6svlSv7C0mzmsfPzaorjWf3Aclzeql0VlbUP2NnMFP7OP446J0-_Z5PBbnarxPG-GGvVklZFrSPRZxJslStWzxnBSLHKTdYUIsVSYJyHEah23ssJLwDa3KrXEEXXJUZMJDodMgxSgXW-pGletBfQKkco13luxNczifoJt8Qwp2Zp41937bXh",
+      "metadata": "KOB GmbH, Wolfstein Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Berichtigt am 05.10.2026 PAUL HARTMANN AG, Heidenheim an der Brenz Datum: 18.12.2025 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "bekanntmachungen",
+      "index": 3
+    },
+    {
+      "company": "KOB GmbH, Wolfstein",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-10-22",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=nlVg4MzrBSlydrBTn71nIHgzngLsl_eRC2P9SSmtV9pTm7QbUPpIRbc0xAxqYgdrp1A9RfQ_oDExI4CBp7X-Pi11TBxtilZ0nZCsh9zla3iHf2F3C-7D7FaBOxvmvQ2hyDivUXzxJx2XoyLljwxz9_K_F_bAC2OuvA56bkAASiTIOsK-7pgk-EDwjMb0PQIMDnn1y1DKtkyVyQd-vN6LHiuXKTIh6fBJeJaIQDK50njMMod7",
+      "metadata": "KOB GmbH, Wolfstein Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Berichtigung der Veröffentlichung vom 18.11.2024 PAUL HARTMANN AG, Heidenheim an der Brenz Datum: 22.10.2025 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "bekanntmachungen",
+      "index": 4
+    },
+    {
+      "company": "KOB GmbH, Wolfstein",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2024-11-18",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=QpFHDAF211c_WrVdhziGnv6rFfQKwTwe_QdFkCMy-Z1bvf4XhgMzaXES2jkGEZsNg7CWxQDQsk_2vl6o6yBeeOVxcTmasLf1pn79MhKw9hBos9zKA9DZ4Ip4shQXPr8M3t0wRwQAEBrkCx1gbtpoa40vGXcbtZ-XzZUJU6FQxjHk3t60kixyjItUiZdgi7yO7sTpjBzIsbCYVttFlJnWTK91AdbmepFp5hzk67xhb5iWpdFJ",
+      "metadata": "KOB GmbH, Wolfstein Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Berichtigt am 22.10.2025 PAUL HARTMANN AG, Heidenheim an der Brenz Datum: 18.11.2024 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "bekanntmachungen",
+      "index": 5
+    },
+    {
+      "company": "KOB GmbH, Wolfstein",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2024-01-12",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=jQhBCGOxdKQ9jNOXpbljszRI1ByP2gHUVs8H-of6uZp0D6dX8gzMoXTbx5QK7ZVLgMO5N8dzhg1985VyfacHASPB3bBa0mQPIQrrABzhPGGAxpAxhED4rq5Vz4mAXNPLOYZjidTyiuD1XPdgqqs9MIWJCJV3g7uXpSA3mEDVIlSyul0ZQ1lLaHfV0PpqTyYw_hiAXBVAhXa2nIqc-nu2xyNWs695M-PQZ1WrOsFQN5CGCBJO",
+      "metadata": "KOB GmbH, Wolfstein Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 PAUL HARTMANN AG, Heidenheim an der Brenz Datum: 12.01.2024 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "bekanntmachungen",
+      "index": 6
+    }
+  ]
+}

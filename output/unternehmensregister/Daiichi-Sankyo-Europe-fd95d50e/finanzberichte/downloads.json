@@ -1,0 +1,56 @@
+[
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=sIV32CE5eJhX6R1o_yuA1miMhp5lO8blv2qyXaxCCPyVbFh-niqqxdMezdXOAv6KKIhS_NWJWBoGvQVgfNfUvAD1HPr6i-jHH2c1OXikFzawrpsoG9lQoZAKMkk67tZlmQA96SBjGojy8b8Jwy9RZ6XDBDaIJcrZW0N4xop9SuWRxOzLRQ15uSjcQOJDBvbocNCIrjAhZl6bLaKDc9g6mujSGftVGPGOZ2Itlfvld7ATgKzp",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Daiichi-Sankyo-Europe-fd95d50e\\finanzberichte\\publication-1\\document-1.xhtml",
+        "original_name": "Daiichi_Sankyo_Group-2026-03-31-1-de.xhtml"
+      }
+    ],
+    "warnings": [],
+    "viewer_url": "https://www.ureg.esef-viewer.de/esef/de/start?0&token=ad1ce53e-742f-4093-a873-f1bb71330fba",
+    "text_path": "output\\unternehmensregister\\Daiichi-Sankyo-Europe-fd95d50e\\finanzberichte\\publication-1\\publication.txt",
+    "index": 1,
+    "category": "finanzberichte",
+    "company": "Daiichi Sankyo Europe GmbH, München",
+    "title": "Ertragsteuerinformationsbericht (pCBCR) zum Geschäftsjahr vom 01.04.2025 bis zum 31.03.2026",
+    "documents_path": "output\\unternehmensregister\\Daiichi-Sankyo-Europe-fd95d50e\\finanzberichte\\publication-1\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=yksogetz4KwP-X0tUh5gDfPNZlm0z8fpIlmEsjrnZzm4mzvGGvZhAsU3fGQQ3FwclM7mUdsYYAitdhjxgrMRWTIs_E9AhBpAkA170La7qLpkUh89F_T3R5eHOtbaPrMllxaAn5HL3Uq1HkUbv2rWE4cK-OkXTICSb5quiVc3PnCexiIA23MYJ5jAlLCqdJFvfG38-pqZMZwIiZMxRxdVGaOY--B9TuvjYmP8KT_sCZOfTHo2",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Daiichi-Sankyo-Europe-fd95d50e\\finanzberichte\\publication-4\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Daiichi-Sankyo-Europe-fd95d50e\\finanzberichte\\publication-4\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Daiichi-Sankyo-Europe-fd95d50e\\finanzberichte\\publication-4\\publication.txt",
+    "index": 4,
+    "category": "finanzberichte",
+    "company": "Daiichi Sankyo Europe GmbH, München",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.04.2024 bis zum 31.03.2025",
+    "documents_path": "output\\unternehmensregister\\Daiichi-Sankyo-Europe-fd95d50e\\finanzberichte\\publication-4\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=HNRViZHgvcdA8iHmEsTlVuHBDhoAlY7cRyuMj73QaTZb24wP5bxoGS3_GMltgmAkiDlJSX2jzEpT7bZ9oS3oEcxiR9YuI4vWrLfLrei9Dw4O7QSvnRgcR6OxVLkv3QA5vNoBAliQ8TR_TyT5XSUU9AABf9hc9D5oVzJNDypnhH_LkwbLo_vtgjyAWK5oLnSz5710XhpMJuw6uGz_IE8O6FbGQMOUxtNYpiaZ8yIuid1Ihbxc",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Daiichi-Sankyo-Europe-fd95d50e\\finanzberichte\\publication-5\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Daiichi-Sankyo-Europe-fd95d50e\\finanzberichte\\publication-5\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Daiichi-Sankyo-Europe-fd95d50e\\finanzberichte\\publication-5\\publication.txt",
+    "index": 5,
+    "category": "finanzberichte",
+    "company": "Daiichi Sankyo Europe GmbH, München",
+    "title": "Konzernabschluss zum Geschäftsjahr vom 01.04.2024 bis zum 31.03.2025",
+    "documents_path": "output\\unternehmensregister\\Daiichi-Sankyo-Europe-fd95d50e\\finanzberichte\\publication-5\\documents.json"
+  }
+]

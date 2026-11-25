@@ -1,0 +1,103 @@
+{
+  "provider": "karriere",
+  "company": {
+    "key": "simpleclub",
+    "name": "simpleclub",
+    "location": "München",
+    "name_source": "company_name",
+    "urls": [
+      "https://simpleclub.com"
+    ],
+    "kununu_url": null,
+    "branches": [
+      "Bildung & Wissenschaft"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "80336",
+    "street": "Bavariastrasse 25",
+    "region": "Bayern",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:37:33.946085+00:00",
+  "status": "partial",
+  "jobs": [],
+  "pages": [
+    {
+      "url": "https://simpleclub.com/",
+      "final_url": "https://simpleclub.com/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://simpleclub.com/careers",
+      "final_url": "https://simpleclub.com/careers",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://simpleclub.pinpointhq.com/en/jobs/78056",
+      "final_url": "https://simpleclub.pinpointhq.com/",
+      "redirects": [
+        {
+          "source": "https://simpleclub.pinpointhq.com/en/jobs/78056",
+          "target": "https://simpleclub.pinpointhq.com/",
+          "status": 302
+        }
+      ],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    }
+  ],
+  "errors": [
+    {
+      "url": "https://simpleclub.pinpointhq.com/",
+      "reason": "no_extractable_job_data",
+      "error": "Keine auslesbaren Stellen oder belegte Leermeldung; manuelle Prüfung erforderlich."
+    }
+  ],
+  "excluded": [],
+  "sources": [
+    {
+      "url": "https://simpleclub.com/",
+      "linked_from": null,
+      "mechanism": "configured"
+    },
+    {
+      "url": "https://simpleclub.pinpointhq.com/en/jobs/78056",
+      "linked_from": "https://simpleclub.com/careers",
+      "mechanism": "employer_link"
+    },
+    {
+      "url": "https://simpleclub.pinpointhq.com/",
+      "linked_from": "https://simpleclub.pinpointhq.com/en/jobs/78056",
+      "mechanism": "http_redirect"
+    }
+  ],
+  "adapter_attempts": [],
+  "coverage": {
+    "scope": "configured_sites_and_linked_career_portals",
+    "complete": false,
+    "pending_pages": 0,
+    "page_limit_reached": false,
+    "job_limit_reached": false,
+    "request_limit_reached": false,
+    "pages_attempted": 3,
+    "pages_read": 3,
+    "dynamic_or_unparsed_pages": true,
+    "http": {
+      "requests_attempted": 6,
+      "allocated_requests": 5238,
+      "cache_hits": 0
+    }
+  },
+  "pending_urls": [],
+  "jobs_before_keyword_filter": 0,
+  "reason": "search_incomplete"
+}

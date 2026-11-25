@@ -1,0 +1,4247 @@
+{
+  "provider": "karriere",
+  "started_at": "2026-11-25T15:59:42.678149+00:00",
+  "companies": {
+    "mediCAD": {
+      "status": "ok",
+      "reason": null,
+      "count": 4,
+      "path": "output\\karriere\\mediCAD-241a81f7\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": true,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 8,
+        "pages_read": 8,
+        "dynamic_or_unparsed_pages": false,
+        "http": {
+          "requests_attempted": 9,
+          "allocated_requests": 310,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.medicad.eu/",
+          "linked_from": null,
+          "mechanism": "configured"
+        }
+      ]
+    },
+    "elderbrook solutions": {
+      "status": "no_results",
+      "reason": "explicit_no_open_jobs",
+      "count": 0,
+      "path": "output\\karriere\\elderbrook-solutions-9b3a7ad0\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": true,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 5,
+        "pages_read": 5,
+        "dynamic_or_unparsed_pages": false,
+        "http": {
+          "requests_attempted": 8,
+          "allocated_requests": 315,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://elderbrook.de/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://elderbrook.de/career/",
+          "linked_from": "https://elderbrook.de/career",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://elderbrook-solutions-gmbh.jobs.personio.de/",
+          "linked_from": "https://elderbrook.de/open-positions/",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://elderbrook-solutions-gmbh.jobs.personio.de/xml",
+          "linked_from": "https://elderbrook-solutions-gmbh.jobs.personio.de/",
+          "mechanism": "public_job_feed",
+          "adapter": "personio"
+        }
+      ]
+    },
+    "Kyowa Kirin International": {
+      "status": "partial",
+      "reason": null,
+      "count": 46,
+      "path": "output\\karriere\\Kyowa-Kirin-International-5b71de53\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": false,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 123,
+        "pages_read": 122,
+        "dynamic_or_unparsed_pages": true,
+        "http": {
+          "requests_attempted": 193,
+          "allocated_requests": 320,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://kyowakirininternational.com/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://www.kyowakirin.co.jp/careers/recruit/index.html",
+          "linked_from": "https://kyowakirininternational.com/people-careers/",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://www.kkna.kyowakirin.com/careers",
+          "linked_from": "https://kyowakirininternational.com/people-careers/",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://www.kyowakirin.com/kr/career/index.html",
+          "linked_from": "https://kyowakirininternational.com/people-careers/",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://careers.kyowakirininternational.com/index.html",
+          "linked_from": "https://kyowakirininternational.com/people-careers/",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://www.kkna.kyowakirin.com/job-seekers/",
+          "linked_from": "https://www.kkna.kyowakirin.com/careers",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers-kyowa-kirin.icims.com/jobs/intro?hashed=-625973199",
+          "linked_from": "https://careers.kyowakirininternational.com/index.html",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://careers-kyowa-kirin.icims.com/jsDisabledError.jsp",
+          "linked_from": "https://careers-kyowa-kirin.icims.com/jobs/intro?hashed=-625973199",
+          "mechanism": "meta_refresh"
+        },
+        {
+          "url": "https://careers-kyowa-kirin.icims.com/jsDisabledError.jsp",
+          "linked_from": "https://careers-kyowa-kirin.icims.com/jobs/search?ss=1&hashed=-625973199",
+          "mechanism": "meta_refresh"
+        },
+        {
+          "url": "https://careers-kyowa-kirin.icims.com/jsDisabledError.jsp",
+          "linked_from": "https://careers-kyowa-kirin.icims.com/jobs/3405/marketing-business-support---maternity-cover/job",
+          "mechanism": "meta_refresh"
+        },
+        {
+          "url": "https://careers-kyowa-kirin.icims.com/jsDisabledError.jsp",
+          "linked_from": "https://careers-kyowa-kirin.icims.com/jobs/3370/value-%26-access-%26-government-affairs-lead/job",
+          "mechanism": "meta_refresh"
+        },
+        {
+          "url": "https://careers-kyowa-kirin.icims.com/jsDisabledError.jsp",
+          "linked_from": "https://careers-kyowa-kirin.icims.com/jobs/3304/hr-operations-specialist-dach-%286-month-ftc%29/job",
+          "mechanism": "meta_refresh"
+        },
+        {
+          "url": "https://careers-kyowa-kirin.icims.com/jsDisabledError.jsp",
+          "linked_from": "https://careers-kyowa-kirin.icims.com/jobs/3303/regulatory-affairs-good-promotional-practices-manager/job",
+          "mechanism": "meta_refresh"
+        },
+        {
+          "url": "https://careers-kyowa-kirin.icims.com/jsDisabledError.jsp",
+          "linked_from": "https://careers-kyowa-kirin.icims.com/jobs/3298/associate-director%2c-emea-regional-medical-governance/job",
+          "mechanism": "meta_refresh"
+        },
+        {
+          "url": "https://careers-kyowa-kirin.icims.com/jsDisabledError.jsp",
+          "linked_from": "https://careers-kyowa-kirin.icims.com/jobs/3295/director%2c-manufacturing-project-and-product-management/job",
+          "mechanism": "meta_refresh"
+        },
+        {
+          "url": "https://careers-kyowa-kirin.icims.com/jsDisabledError.jsp",
+          "linked_from": "https://careers-kyowa-kirin.icims.com/jobs/3264/tax-manager%2c-emea/job",
+          "mechanism": "meta_refresh"
+        },
+        {
+          "url": "https://careers-kyowa-kirin.icims.com/jsDisabledError.jsp",
+          "linked_from": "https://careers-kyowa-kirin.icims.com/jobs/3263/finance-intern/job",
+          "mechanism": "meta_refresh"
+        },
+        {
+          "url": "https://careers-kyowa-kirin.icims.com/jsDisabledError.jsp",
+          "linked_from": "https://careers-kyowa-kirin.icims.com/jobs/3230/it-security-engineer/job",
+          "mechanism": "meta_refresh"
+        },
+        {
+          "url": "https://careers-kyowa-kirin.icims.com/jsDisabledError.jsp",
+          "linked_from": "https://careers-kyowa-kirin.icims.com/jobs/3218/cluster-marketing-lead/job",
+          "mechanism": "meta_refresh"
+        },
+        {
+          "url": "https://careers-kyowa-kirin.icims.com/jsDisabledError.jsp",
+          "linked_from": "https://careers-kyowa-kirin.icims.com/jobs/3212/value-%26-access-associate-director-iberia/job",
+          "mechanism": "meta_refresh"
+        },
+        {
+          "url": "https://careers-kyowa-kirin.icims.com/jsDisabledError.jsp",
+          "linked_from": "https://careers-kyowa-kirin.icims.com/jobs/3202/scientific--relation-manager-oncology---north-of-italy/job",
+          "mechanism": "meta_refresh"
+        },
+        {
+          "url": "https://careers-kyowa-kirin.icims.com/jsDisabledError.jsp",
+          "linked_from": "https://careers-kyowa-kirin.icims.com/jobs/3197/scientific-relations-manager/job",
+          "mechanism": "meta_refresh"
+        },
+        {
+          "url": "https://careers-kyowa-kirin.icims.com/jobs/3405/marketing-business-support---maternity-cover/login",
+          "linked_from": "https://careers-kyowa-kirin.icims.com/jobs/3405/marketing-business-support---maternity-cover/job?mode=apply&apply=yes&hashed=-1834442173",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers-kyowa-kirin.icims.com/jsDisabledError.jsp",
+          "linked_from": "https://careers-kyowa-kirin.icims.com/jobs/3405/marketing-business-support---maternity-cover/login",
+          "mechanism": "meta_refresh"
+        },
+        {
+          "url": "https://careers-kyowa-kirin.icims.com/jobs/3370/value-%26-access-%26-government-affairs-lead/login",
+          "linked_from": "https://careers-kyowa-kirin.icims.com/jobs/3370/value-%26-access-%26-government-affairs-lead/job?mode=apply&apply=yes&hashed=-1834442173",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers-kyowa-kirin.icims.com/jsDisabledError.jsp",
+          "linked_from": "https://careers-kyowa-kirin.icims.com/jobs/3370/value-%26-access-%26-government-affairs-lead/login",
+          "mechanism": "meta_refresh"
+        },
+        {
+          "url": "https://careers-kyowa-kirin.icims.com/jobs/3304/hr-operations-specialist-dach-%286-month-ftc%29/login",
+          "linked_from": "https://careers-kyowa-kirin.icims.com/jobs/3304/hr-operations-specialist-dach-%286-month-ftc%29/job?mode=apply&apply=yes&hashed=-1834442173",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers-kyowa-kirin.icims.com/jsDisabledError.jsp",
+          "linked_from": "https://careers-kyowa-kirin.icims.com/jobs/3304/hr-operations-specialist-dach-%286-month-ftc%29/login",
+          "mechanism": "meta_refresh"
+        },
+        {
+          "url": "https://careers-kyowa-kirin.icims.com/jobs/3303/regulatory-affairs-good-promotional-practices-manager/login",
+          "linked_from": "https://careers-kyowa-kirin.icims.com/jobs/3303/regulatory-affairs-good-promotional-practices-manager/job?mode=apply&apply=yes&hashed=-1834442173",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers-kyowa-kirin.icims.com/jsDisabledError.jsp",
+          "linked_from": "https://careers-kyowa-kirin.icims.com/jobs/3303/regulatory-affairs-good-promotional-practices-manager/login",
+          "mechanism": "meta_refresh"
+        },
+        {
+          "url": "https://careers-kyowa-kirin.icims.com/jobs/3298/associate-director%2c-emea-regional-medical-governance/login",
+          "linked_from": "https://careers-kyowa-kirin.icims.com/jobs/3298/associate-director%2c-emea-regional-medical-governance/job?mode=apply&apply=yes&hashed=-1834442173",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers-kyowa-kirin.icims.com/jsDisabledError.jsp",
+          "linked_from": "https://careers-kyowa-kirin.icims.com/jobs/3298/associate-director%2c-emea-regional-medical-governance/login",
+          "mechanism": "meta_refresh"
+        },
+        {
+          "url": "https://careers-kyowa-kirin.icims.com/jobs/3295/director%2c-manufacturing-project-and-product-management/login",
+          "linked_from": "https://careers-kyowa-kirin.icims.com/jobs/3295/director%2c-manufacturing-project-and-product-management/job?mode=apply&apply=yes&hashed=-1834442173",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers-kyowa-kirin.icims.com/jsDisabledError.jsp",
+          "linked_from": "https://careers-kyowa-kirin.icims.com/jobs/3295/director%2c-manufacturing-project-and-product-management/login",
+          "mechanism": "meta_refresh"
+        },
+        {
+          "url": "https://careers-kyowa-kirin.icims.com/jobs/3264/tax-manager%2c-emea/login",
+          "linked_from": "https://careers-kyowa-kirin.icims.com/jobs/3264/tax-manager%2c-emea/job?mode=apply&apply=yes&hashed=-1834442173",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers-kyowa-kirin.icims.com/jsDisabledError.jsp",
+          "linked_from": "https://careers-kyowa-kirin.icims.com/jobs/3264/tax-manager%2c-emea/login",
+          "mechanism": "meta_refresh"
+        },
+        {
+          "url": "https://careers-kyowa-kirin.icims.com/jobs/3263/finance-intern/login",
+          "linked_from": "https://careers-kyowa-kirin.icims.com/jobs/3263/finance-intern/job?mode=apply&apply=yes&hashed=-1834442173",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers-kyowa-kirin.icims.com/jsDisabledError.jsp",
+          "linked_from": "https://careers-kyowa-kirin.icims.com/jobs/3263/finance-intern/login",
+          "mechanism": "meta_refresh"
+        },
+        {
+          "url": "https://careers-kyowa-kirin.icims.com/jobs/3230/it-security-engineer/login",
+          "linked_from": "https://careers-kyowa-kirin.icims.com/jobs/3230/it-security-engineer/job?mode=apply&apply=yes&hashed=-1834442173",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers-kyowa-kirin.icims.com/jsDisabledError.jsp",
+          "linked_from": "https://careers-kyowa-kirin.icims.com/jobs/3230/it-security-engineer/login",
+          "mechanism": "meta_refresh"
+        },
+        {
+          "url": "https://careers-kyowa-kirin.icims.com/jobs/3218/cluster-marketing-lead/login",
+          "linked_from": "https://careers-kyowa-kirin.icims.com/jobs/3218/cluster-marketing-lead/job?mode=apply&apply=yes&hashed=-1834442173",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers-kyowa-kirin.icims.com/jsDisabledError.jsp",
+          "linked_from": "https://careers-kyowa-kirin.icims.com/jobs/3218/cluster-marketing-lead/login",
+          "mechanism": "meta_refresh"
+        },
+        {
+          "url": "https://careers-kyowa-kirin.icims.com/jobs/3212/value-%26-access-associate-director-iberia/login",
+          "linked_from": "https://careers-kyowa-kirin.icims.com/jobs/3212/value-%26-access-associate-director-iberia/job?mode=apply&apply=yes&hashed=-1834442173",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers-kyowa-kirin.icims.com/jsDisabledError.jsp",
+          "linked_from": "https://careers-kyowa-kirin.icims.com/jobs/3212/value-%26-access-associate-director-iberia/login",
+          "mechanism": "meta_refresh"
+        },
+        {
+          "url": "https://careers-kyowa-kirin.icims.com/jobs/3202/scientific--relation-manager-oncology---north-of-italy/login",
+          "linked_from": "https://careers-kyowa-kirin.icims.com/jobs/3202/scientific--relation-manager-oncology---north-of-italy/job?mode=apply&apply=yes&hashed=-1834442173",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers-kyowa-kirin.icims.com/jsDisabledError.jsp",
+          "linked_from": "https://careers-kyowa-kirin.icims.com/jobs/3202/scientific--relation-manager-oncology---north-of-italy/login",
+          "mechanism": "meta_refresh"
+        },
+        {
+          "url": "https://careers-kyowa-kirin.icims.com/jobs/3197/scientific-relations-manager/login",
+          "linked_from": "https://careers-kyowa-kirin.icims.com/jobs/3197/scientific-relations-manager/job?mode=apply&apply=yes&hashed=-1834442173",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers-kyowa-kirin.icims.com/jsDisabledError.jsp",
+          "linked_from": "https://careers-kyowa-kirin.icims.com/jobs/3197/scientific-relations-manager/login",
+          "mechanism": "meta_refresh"
+        },
+        {
+          "url": "https://www.kyowakirin.co.jp/careers/recruit/index.html",
+          "linked_from": "https://www.kyowakirin.co.jp/careers/recruit/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.kyowakirin.co.jp/careers/recruit/handicapped/index.html",
+          "linked_from": "https://www.kyowakirin.co.jp/careers/recruit/handicapped/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.kyowakirin.co.jp/careers/recruit/ambition/index.html",
+          "linked_from": "https://www.kyowakirin.co.jp/careers/recruit/ambition/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.kyowakirin.co.jp/careers/recruit/company/index.html",
+          "linked_from": "https://www.kyowakirin.co.jp/careers/recruit/company/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.kyowakirin.co.jp/careers/recruit/interview/index.html",
+          "linked_from": "https://www.kyowakirin.co.jp/careers/recruit/interview/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.kyowakirin.co.jp/careers/recruit/personality/index.html",
+          "linked_from": "https://www.kyowakirin.co.jp/careers/recruit/personality/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.kyowakirin.co.jp/careers/recruit/work/index.html",
+          "linked_from": "https://www.kyowakirin.co.jp/careers/recruit/work/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.kyowakirin.co.jp/careers/recruit/project/index.html",
+          "linked_from": "https://www.kyowakirin.co.jp/careers/recruit/project/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.kyowakirin.co.jp/careers/recruit/office/index.html",
+          "linked_from": "https://www.kyowakirin.co.jp/careers/recruit/office/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.kyowakirin.co.jp/careers/recruit/interviewmovie/index.html",
+          "linked_from": "https://www.kyowakirin.co.jp/careers/recruit/interviewmovie/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.kyowakirin.co.jp/careers/recruit/training/index.html",
+          "linked_from": "https://www.kyowakirin.co.jp/careers/recruit/training/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.kyowakirin.co.jp/careers/recruit/welfare/index.html",
+          "linked_from": "https://www.kyowakirin.co.jp/careers/recruit/welfare/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.kyowakirin.co.jp/careers/recruit/guideline/index.html",
+          "linked_from": "https://www.kyowakirin.co.jp/careers/recruit/guideline/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.kyowakirin.co.jp/careers/recruit/faq/index.html",
+          "linked_from": "https://www.kyowakirin.co.jp/careers/recruit/faq/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://hrmos.co/pages/kyowakirin/jobs",
+          "linked_from": "https://www.kyowakirin.co.jp/careers/recruit/faq/index.html",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://www.kyowakirin.co.jp/careers/recruit/interview/people01/index.html",
+          "linked_from": "https://www.kyowakirin.co.jp/careers/recruit/interview/people01/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.kyowakirin.co.jp/careers/recruit/interview/people08/index.html",
+          "linked_from": "https://www.kyowakirin.co.jp/careers/recruit/interview/people08/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.kyowakirin.co.jp/careers/recruit/interview/people16/index.html",
+          "linked_from": "https://www.kyowakirin.co.jp/careers/recruit/interview/people16/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.kyowakirin.co.jp/careers/recruit/interview/people18/index.html",
+          "linked_from": "https://www.kyowakirin.co.jp/careers/recruit/interview/people18/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://job-boards.greenhouse.io/kyowakirinusa90/jobs/6069021003",
+          "linked_from": "https://www.kkna.kyowakirin.com/job-seekers/current-openings/",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://www.kkna.kyowakirin.com/careers/",
+          "linked_from": "https://kkna.kyowakirin.com/careers/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.kkna.kyowakirin.com/job-seekers/",
+          "linked_from": "https://www.kkna.kyowakirin.com/careers/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers-kyowa-kirin.icims.com/jobs/intro?hashed=-625973199",
+          "linked_from": "https://careers-kyowa-kirin.icims.com/jobs?hashed=-625973199",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.kyowakirin.co.jp/careers/recruit/interview/people19/index.html",
+          "linked_from": "https://www.kyowakirin.co.jp/careers/recruit/interview/people19/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.kyowakirin.co.jp/careers/recruit/interview/people02/index.html",
+          "linked_from": "https://www.kyowakirin.co.jp/careers/recruit/interview/people02/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.kyowakirin.co.jp/careers/recruit/interview/people03/index.html",
+          "linked_from": "https://www.kyowakirin.co.jp/careers/recruit/interview/people03/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.kyowakirin.co.jp/careers/recruit/interview/people04/index.html",
+          "linked_from": "https://www.kyowakirin.co.jp/careers/recruit/interview/people04/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.kyowakirin.co.jp/careers/recruit/interview/people05/index.html",
+          "linked_from": "https://www.kyowakirin.co.jp/careers/recruit/interview/people05/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.kyowakirin.co.jp/careers/recruit/interview/people21/index.html",
+          "linked_from": "https://www.kyowakirin.co.jp/careers/recruit/interview/people21/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.kyowakirin.co.jp/careers/recruit/interview/people22/index.html",
+          "linked_from": "https://www.kyowakirin.co.jp/careers/recruit/interview/people22/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.kyowakirin.co.jp/careers/recruit/interview/people07/index.html",
+          "linked_from": "https://www.kyowakirin.co.jp/careers/recruit/interview/people07/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.kyowakirin.co.jp/careers/recruit/interview/people27/index.html",
+          "linked_from": "https://www.kyowakirin.co.jp/careers/recruit/interview/people27/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.kyowakirin.co.jp/careers/recruit/interview/people29/index.html",
+          "linked_from": "https://www.kyowakirin.co.jp/careers/recruit/interview/people29/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.kyowakirin.co.jp/careers/recruit/interview/people20/index.html",
+          "linked_from": "https://www.kyowakirin.co.jp/careers/recruit/interview/people20/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.kyowakirin.co.jp/careers/recruit/interview/people24/index.html",
+          "linked_from": "https://www.kyowakirin.co.jp/careers/recruit/interview/people24/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.kyowakirin.co.jp/careers/recruit/interview/people25/index.html",
+          "linked_from": "https://www.kyowakirin.co.jp/careers/recruit/interview/people25/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.kyowakirin.co.jp/careers/recruit/interview/people26/index.html",
+          "linked_from": "https://www.kyowakirin.co.jp/careers/recruit/interview/people26/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.kyowakirin.co.jp/careers/recruit/interview/people09/index.html",
+          "linked_from": "https://www.kyowakirin.co.jp/careers/recruit/interview/people09/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.kyowakirin.co.jp/careers/recruit/interview/people10/index.html",
+          "linked_from": "https://www.kyowakirin.co.jp/careers/recruit/interview/people10/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.kyowakirin.co.jp/careers/recruit/interview/people11/index.html",
+          "linked_from": "https://www.kyowakirin.co.jp/careers/recruit/interview/people11/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.kyowakirin.co.jp/careers/recruit/interview/people12/index.html",
+          "linked_from": "https://www.kyowakirin.co.jp/careers/recruit/interview/people12/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.kyowakirin.co.jp/careers/recruit/interview/people14/index.html",
+          "linked_from": "https://www.kyowakirin.co.jp/careers/recruit/interview/people14/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.kyowakirin.co.jp/careers/recruit/interview/people15/index.html",
+          "linked_from": "https://www.kyowakirin.co.jp/careers/recruit/interview/people15/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.kyowakirin.co.jp/careers/recruit/interview/people17/index.html",
+          "linked_from": "https://www.kyowakirin.co.jp/careers/recruit/interview/people17/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.kyowakirin.co.jp/careers/recruit/project/project01/index.html",
+          "linked_from": "https://www.kyowakirin.co.jp/careers/recruit/project/project01/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.kyowakirin.co.jp/careers/recruit/project/project02/index.html",
+          "linked_from": "https://www.kyowakirin.co.jp/careers/recruit/project/project02/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.kyowakirin.co.jp/careers/recruit/project/project03/index.html",
+          "linked_from": "https://www.kyowakirin.co.jp/careers/recruit/project/project03/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://boards-api.greenhouse.io/v1/boards/kyowakirinusa90/jobs?content=true",
+          "linked_from": "https://job-boards.greenhouse.io/kyowakirinusa90",
+          "mechanism": "public_job_feed",
+          "adapter": "greenhouse"
+        },
+        {
+          "url": "https://www.kyowakirin.co.jp/careers/recruit/interview/people28/index.html",
+          "linked_from": "https://www.kyowakirin.co.jp/careers/recruit/interview/people28/",
+          "mechanism": "http_redirect"
+        }
+      ]
+    },
+    "Recor Medical": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "count": 0,
+      "path": "output\\karriere\\Recor-Medical-63f8737a\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": false,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 3,
+        "pages_read": 2,
+        "dynamic_or_unparsed_pages": false,
+        "http": {
+          "requests_attempted": 6,
+          "allocated_requests": 322,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.recormedical.com/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://vhr-otsuka.wd1.myworkdayjobs.com/en-US/RecorExternal",
+          "linked_from": "https://www.recormedical.com/careers/",
+          "mechanism": "employer_link"
+        }
+      ]
+    },
+    "Daiichi Sankyo Europe": {
+      "status": "ok",
+      "reason": null,
+      "count": 66,
+      "path": "output\\karriere\\Daiichi-Sankyo-Europe-fd95d50e\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": true,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 128,
+        "pages_read": 128,
+        "dynamic_or_unparsed_pages": false,
+        "sitemap_locations": [
+          "Munich",
+          "Pfaffenhofen an der Ilm"
+        ],
+        "http": {
+          "requests_attempted": 256,
+          "allocated_requests": 328,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://careers.daiichisankyo.com/sitemap.xml",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://www.daiichi-sankyo.eu/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Munich-Werkstudentin-Pricing-&-Reimbursement-(mwx)-81379/2563-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Munich-Werkstudentin-Pricing-&-Reimbursement-%28mwx%29-81379/61276044/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Project-Engineer-ElectricalAutomation-Engineering-(mwd)-85276/2574-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Project-Engineer-ElectricalAutomation-Engineering-%28mwd%29-85276/61614544/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Project-Engineer-ElectricalAutomation-Engineering-(mwd)-85276/2574-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Project-Engineer-ElectricalAutomation-Engineering-%28mwd%29-85276/61614444/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Operations-Engineer-(mwd)-Manufacturing-Solids-85276/2576-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Operations-Engineer-%28mwd%29-Manufacturing-Solids-85276/61321844/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Operations-Engineer-(mwd)-Manufacturing-Solids-85276/2576-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Operations-Engineer-%28mwd%29-Manufacturing-Solids-85276/61321944/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Munich-Legal-Counsel-(mfd)-81379/2577-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Munich-Legal-Counsel-%28mfd%29-81379/61326144/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Coordinator-(mwd)-Plant-Services-85276/2584-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Coordinator-%28mwd%29-Plant-Services-85276/61361944/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Coordinator-(mwd)-Plant-Services-85276/2584-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Coordinator-%28mwd%29-Plant-Services-85276/61362044/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Head-of-New-Technology-Formulation-(mwd)-Design-Process-Development-85276/1562-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Head-of-New-Technology-Formulation-%28mwd%29-Design-Process-Development-85276/56883344/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Betriebsingenieur-Versorgungstechnik-(mwd)-85276/2591-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Betriebsingenieur-Versorgungstechnik-%28mwd%29-85276/61413344/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Munich-Associate-Director-GCP-Audits,-Audits-&-Compliance-81379/2593-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Munich-Associate-Director-GCP-Audits%2C-Audits-&-Compliance-81379/61712344/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Munich-Senior-Manager,-GCP-Audits-&-Compliance-81379/2593-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Munich-Senior-Manager%2C-GCP-Audits-&-Compliance-81379/61712444/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Munich-Legal-Counsel-(mwd)-81379/2577-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Munich-Legal-Counsel-%28mwd%29-81379/61326244/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Environment,-Health-&-Safety-(EHS)-Senior-Expert-(mwd)-Waste-&-Water-Management-85276/2583-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Environment%2C-Health-&-Safety-%28EHS%29-Senior-Expert-%28mwd%29-Waste-&-Water-Management-85276/61361044/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Environment,-Health-&-Safety-(EHS)-Senior-Expert-(mwd)-Waste-&-Water-Management-85276/2583-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Environment%2C-Health-&-Safety-%28EHS%29-Senior-Expert-%28mwd%29-Waste-&-Water-Management-85276/61360944/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Head-of-New-Technology-Formulation-(mwd)-DesignProcess-Development-85276/1562-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Head-of-New-Technology-Formulation-%28mwd%29-DesignProcess-Development-85276/56883244/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Betriebsingenieur-Versorgungstechnik-(mwd)-85276/2591-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Betriebsingenieur-Versorgungstechnik-%28mwd%29-85276/61413244/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Munich-Sustainability-Manager-(mwd)-81379/2562-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Munich-Sustainability-Manager-%28mwd%29-81379/61250044/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Munich-Werkstudentin-Pricing-&-Reimbursement-(mwx)-81379/2563-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Munich-Werkstudentin-Pricing-&-Reimbursement-%28mwx%29-81379/61276144/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Munich-Sustainability-Manager-(mwd)-81379/2562-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Munich-Sustainability-Manager-%28mwd%29-81379/61249944/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Electrical-&-Automation-Engineer-(mwd)-85276/2621-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Electrical-&-Automation-Engineer-%28mwd%29-85276/61611544/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Expert-Manufacturing-Support-Fill-&-Finish-F5-(mwd)-85276/2624-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Expert-Manufacturing-Support-Fill-&-Finish-F5-%28mwd%29-85276/61579144/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Munich-PV-Lead-Germany-(mfd)-81379/2627-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Munich-PV-Lead-Germany-%28mfd%29-81379/61608444/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Munich-Senior-Biostatistician-(mfd)-81379/2622-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Munich-Senior-Biostatistician-%28mfd%29-81379/61578444/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Calibration-Specialist-(mwd)-85276/2612-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Calibration-Specialist-%28mwd%29-85276/61525144/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Calibration-Specialist-(mwd)-85276/2612-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Calibration-Specialist-%28mwd%29-85276/61525244/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Munich-Legal-Counsel-AI-&-Technology-70002143-81379/2650-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Munich-Legal-Counsel-AI-&-Technology-70002143-81379/61795444/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Munich-IT-Infrastructure-Architect-(mfd)-81379/2191-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Munich-IT-Infrastructure-Architect-%28mfd%29-81379/59781244/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Teamlead-(mwd)-GMP-Production-Bioconjugation-BioDS-85276/1965-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Teamlead-%28mwd%29-GMP-Production-Bioconjugation-BioDS-85276/58524544/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Teamlead-(mwd)-GMP-Production-Bioconjugation-BioDS-85276/1965-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Teamlead-%28mwd%29-GMP-Production-Bioconjugation-BioDS-85276/58524444/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Team-Lead-CAPEX-Procurement-(mfd)-85276/2478-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Team-Lead-CAPEX-Procurement-%28mfd%29-85276/61101044/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Team-Lead-CAPEX-Procurement-(mfd)-85276/2478-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Team-Lead-CAPEX-Procurement-%28mfd%29-85276/61101144/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Munich-Senior-Director-(mfd),-Early-Clinical-Development-(GCL)-81379/2473-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Munich-Senior-Director-%28mfd%29%2C-Early-Clinical-Development-%28GCL%29-81379/61098944/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Expert-(mwd)-Manufacturing-Support-in-der-Herstellung-fester-Arzneimittel-85276/2485-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Expert-%28mwd%29-Manufacturing-Support-in-der-Herstellung-fester-Arzneimittel-85276/61133144/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Munich-Business-Architect-Finance-(mfd)-81379/2488-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Munich-Business-Architect-Finance-%28mfd%29-81379/61211544/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Munich-Business-Architect-Finance-(mwd)-81379/2488-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Munich-Business-Architect-Finance-%28mwd%29-81379/61211444/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Expert-(mwd)-Production-Coordination-&-Projects-85276/2490-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Expert-%28mwd%29-Production-Coordination-&-Projects-85276/61212444/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Expert-(mwd)-Production-Coordination-&-Projects-85276/2490-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Expert-%28mwd%29-Production-Coordination-&-Projects-85276/61212544/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Pharmazie-Praktikum-im-Bereich-Pharma-Packaging-85276/1466-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Pharmazie-Praktikum-im-Bereich-Pharma-Packaging-85276/55657444/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Pharmazie-Praktikum-im-Bereich-Pharma-Packaging-85276/1466-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Pharmazie-Praktikum-im-Bereich-Pharma-Packaging-85276/55657544/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Group-Lead-Quality-Control-Lab-Group-Chromatography-Systems-Biologics-(mfd)-85276/2496-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Group-Lead-Quality-Control-Lab-Group-Chromatography-Systems-Biologics-%28mfd%29-85276/61244944/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Teamleiter-(mwd)-Laborgruppe-Chromatographische-Systeme-85276/2496-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Teamleiter-%28mwd%29-Laborgruppe-Chromatographische-Systeme-85276/61245044/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Experte-(mwd)-Laborgruppe-Bioanalytik-Qualitätskontrolle-85276/2497-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Experte-%28mwd%29-Laborgruppe-Bioanalytik-Qualit%C3%A4tskontrolle-85276/61245444/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Biologics-Project-Expert-(mfd)-Quality-Control-85276/2497-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Biologics-Project-Expert-%28mfd%29-Quality-Control-85276/61245344/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Trainee-(mwd)-in-der-pharmazeutischen-Verpackung-befristet-auf-2-Jahre-85276/2500-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Trainee-%28mwd%29-in-der-pharmazeutischen-Verpackung-befristet-auf-2-Jahre-85276/61292644/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Pharmazeut-(mwd)-als-Senior-Manager-Production-Coordination-&-Projects-(mwd)-85276/1996-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Pharmazeut-%28mwd%29-als-Senior-Manager-Production-Coordination-&-Projects-%28mwd%29-85276/58713144/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Manager-(mwd)-Formulation-Technology-Biologics-85276/1999-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Manager-%28mwd%29-Formulation-Technology-Biologics-85276/58737644/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Manager-(mwd)-Formulation-Technology-Biologics-85276/1999-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Manager-%28mwd%29-Formulation-Technology-Biologics-85276/58737744/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Biological-Laboratory-Technician-Chemical-Laboratory-Technician-(mwd)-85276/1947-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Biological-Laboratory-Technician-Chemical-Laboratory-Technician-%28mwd%29-85276/58465144/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Munich-Director-Global-Oncology-Medical-Affairs-Clinical-Operations-(mfd)-81379/2450-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Munich-Director-Global-Oncology-Medical-Affairs-Clinical-Operations-%28mfd%29-81379/60986644/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Biological-Laboratory-Technician-Chemical-Laboratory-Technician-(mwd)-85276/1947-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Biological-Laboratory-Technician-Chemical-Laboratory-Technician-%28mwd%29-85276/58465044/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Munich-Head-of-Value-and-Evidence-(mwd)-81379/2463-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Munich-Head-of-Value-and-Evidence-%28mwd%29-81379/61051244/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Munich-Director-Government-Affairs-Germany-(mwd)-81379/2466-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Munich-Director-Government-Affairs-Germany-%28mwd%29-81379/61062344/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Manager-Manufacturing-Support-mAb-BioDS-(mwd)-85276/2472-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Manager-Manufacturing-Support-mAb-BioDS-%28mwd%29-85276/61098544/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Manager-Manufacturing-Support-mAb-BioDS-(mwd)-85276/2472-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Manager-Manufacturing-Support-mAb-BioDS-%28mwd%29-85276/61098644/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Administrator-Quality-Operations-(mwd)-Bereich-Packaging-85276/2476-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Administrator-Quality-Operations-%28mwd%29-Bereich-Packaging-85276/61123544/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Administrator-Quality-Operations-(mwd)-Bereich-Packaging-85276/2476-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Administrator-Quality-Operations-%28mwd%29-Bereich-Packaging-85276/61123444/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Trainee-(mwd)-in-der-pharmazeutischen-Verpackung-befristet-auf-2-Jahre-85276/2500-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Trainee-%28mwd%29-in-der-pharmazeutischen-Verpackung-befristet-auf-2-Jahre-85276/61292544/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Pharmazeut-(mwd)-als-Senior-Manager-Production-Coordination-&-Projects-(mwd)-85276/1996-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Pharmazeut-%28mwd%29-als-Senior-Manager-Production-Coordination-&-Projects-%28mwd%29-85276/58713244/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Munich-Lead-Buyer-(mfd)-IT-Category-81379/2479-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Munich-Lead-Buyer-%28mfd%29-IT-Category-81379/61101544/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Munich-Lead-Buyer-(mfd)-IT-Category-81379/2479-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Munich-Lead-Buyer-%28mfd%29-IT-Category-81379/61101644/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Expert-(mwd)-Manufacturing-Support-in-der-Herstellung-fester-Arzneimittel-85276/2485-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Expert-%28mwd%29-Manufacturing-Support-in-der-Herstellung-fester-Arzneimittel-85276/61133244/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Munich-Director-Global-Oncology-Medical-Affairs-Clinical-Operations-(mfd)-81379/2450-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Munich-Director-Global-Oncology-Medical-Affairs-Clinical-Operations-%28mfd%29-81379/60986544/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Munich-Head-of-Value-and-Evidence-(mwd)-81379/2463-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Munich-Head-of-Value-and-Evidence-%28mwd%29-81379/61051144/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Munich-Director-Government-Affairs-Germany-(mwd)-81379/2466-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Munich-Director-Government-Affairs-Germany-%28mwd%29-81379/61062444/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Munich-Executive-Director,-Early-Specialty-Medicine-Global-Clinical-Lead-(mfd)-81379/2607-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Munich-Executive-Director%2C-Early-Specialty-Medicine-Global-Clinical-Lead-%28mfd%29-81379/61603444/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Munich-Executive-Director,-Early-Specialty-Medicine-Global-Clinical-Lead-(mfd)-81379/2607-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Munich-Executive-Director%2C-Early-Specialty-Medicine-Global-Clinical-Lead-%28mfd%29-81379/61603544/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Electronic-Technician-(mwd)-85276/2618-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Electronic-Technician-%28mwd%29-85276/61574344/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Electronic-Technician-(mwd)-85276/2618-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Electronic-Technician-%28mwd%29-85276/61574444/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Laboratory-Technician-(mfd)-Lab-Group-LCGC-85276/2619-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Laboratory-Technician-%28mfd%29-Lab-Group-LCGC-85276/61571744/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Laborant-(mwd)-Lab-Group-LCGC-85276/2619-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Laborant-%28mwd%29-Lab-Group-LCGC-85276/61571844/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Electrical-&-Automation-Engineer-(mwd)-85276/2621-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Electrical-&-Automation-Engineer-%28mwd%29-85276/61611644/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Expert-Manufacturing-Support-Fill-&-Finish-F5-(mwd)-85276/2624-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Expert-Manufacturing-Support-Fill-&-Finish-F5-%28mwd%29-85276/61579044/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Graduate-Master-Data-&-Application-Support-Specialist-(mwd)-befristet-auf-2-Jahre-85276/2628-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Graduate-Master-Data-&-Application-Support-Specialist-%28mwd%29-befristet-auf-2-Jahre-85276/61609544/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Graduate-Master-Data-&-Application-Support-Specialist-(mwd)-befristet-auf-2-Jahre-85276/2628-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Graduate-Master-Data-&-Application-Support-Specialist-%28mwd%29-befristet-auf-2-Jahre-85276/61609644/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Pharmazie-Praktikum-in-der-pharmazeutischen-Formulierungsentwicklung-&-Cinical-Trial-Supply-(mwd)-85276/2121-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Pharmazie-Praktikum-in-der-pharmazeutischen-Formulierungsentwicklung-&-Cinical-Trial-Supply-%28mwd%29-85276/59431244/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Pharmazie-Praktikum-in-der-pharmazeutischen-Formulierungsentwicklung-&-Cinical-Trial-Supply-(mwd)-85276/2121-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Pharmazie-Praktikum-in-der-pharmazeutischen-Formulierungsentwicklung-&-Cinical-Trial-Supply-%28mwd%29-85276/59431344/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Betriebsingenieur-mit-Fokus-Inbetriebnahme-(mwd)-85276/668-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Betriebsingenieur-mit-Fokus-Inbetriebnahme-%28mwd%29-85276/51112244/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Betriebsingenieur-mit-Fokus-Inbetriebnahme-(mwd)-85276/668-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Betriebsingenieur-mit-Fokus-Inbetriebnahme-%28mwd%29-85276/55622544/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Teamleiter-(mwd)-für-die-Tablettierung-85276/2275-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Teamleiter-%28mwd%29-f%C3%BCr-die-Tablettierung-85276/60316944/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Teamleiter-(mwd)-für-die-Tablettierung-85276/2275-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Teamleiter-%28mwd%29-f%C3%BCr-die-Tablettierung-85276/60316844/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Teamlead-(mwd)-USP-für-die-Herstellung-monoklonaler-Antikörper-85276/2278-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Teamlead-%28mwd%29-USP-f%C3%BCr-die-Herstellung-monoklonaler-Antik%C3%B6rper-85276/60318044/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Munich-Manager,-Audits-&-Compliance-(GCP)-81379/2283-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Munich-Manager%2C-Audits-&-Compliance-%28GCP%29-81379/60625344/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Qualification-Engineer-(60000802)-60000802-85276/2293-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Qualification-Engineer-%2860000802%29-60000802-85276/60419444/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Operations-Engineer-Antikörperherstellung-und-Biokonjugation-(mwd)-85276/1787-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Operations-Engineer-Antik%C3%B6rperherstellung-und-Biokonjugation-%28mwd%29-85276/57780044/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Lüftungsexperte-(mwd)-HVAC-85276/681-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-L%C3%BCftungsexperte-%28mwd%29-HVAC-85276/51111944/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Projektingenieur-TGA-(mwd)-Schwerpunkt-Lüftung-(HVAC)-85276/681-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Projektingenieur-TGA-%28mwd%29-Schwerpunkt-L%C3%BCftung-%28HVAC%29-85276/55127944/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Teamlead-(mwd)-Fill-&-Finish-F5-85276/1217-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Teamlead-%28mwd%29-Fill-&-Finish-F5-85276/53971044/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Teamlead-(mwd)-Fill-&-Finish-F5-85276/1217-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Teamlead-%28mwd%29-Fill-&-Finish-F5-85276/53971144/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Munich-Legal-Counsel-AI-&-Technology-(mfd)-81379/2650-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Munich-Legal-Counsel-AI-&-Technology-%28mfd%29-81379/61795344/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Trainee-Engineering-(mwd)-1-85276/2138-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Trainee-Engineering-%28mwd%29-1-85276/61118744/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Trainee-Engineering-(mwd)-1-85276/2138-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Trainee-Engineering-%28mwd%29-1-85276/61118644/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Business-Transformation-&-Excellence-Manager-(mfx)-85276/2656-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Business-Transformation-&-Excellence-Manager-%28mfx%29-85276/61831344/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Business-Transformation-&-Excellence-Manager-(mfx)-85276/2656-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Business-Transformation-&-Excellence-Manager-%28mfx%29-85276/61831444/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Expert-(mwd)-Quality-Control-Systems-SAP-(befristet-auf-2-Jahre)-85276/2150-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Expert-%28mwd%29-Quality-Control-Systems-SAP-%28befristet-auf-2-Jahre%29-85276/59442944/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Expert-(mwd)-Quality-Control-Systems-SAP-(befristet-auf-2-Jahre)-85276/2150-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Expert-%28mwd%29-Quality-Control-Systems-SAP-%28befristet-auf-2-Jahre%29-85276/59443044/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Expert-(mwd)-Building-Commissioning-and-Maintenance-70001954-85276/2154-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Expert-%28mwd%29-Building-Commissioning-and-Maintenance-70001954-85276/59467844/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Expert-(mwd)-Building-Commissioning-and-Maintenance-85276/2154-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Expert-%28mwd%29-Building-Commissioning-and-Maintenance-85276/59467744/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Munich-IT-Infrastructure-Architect-60000613-81379/2191-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Munich-IT-Infrastructure-Architect-60000613-81379/59781344/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Senior-Specialist-(mwd)-Packaging-Material-Management-85276/2277-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Senior-Specialist-%28mwd%29-Packaging-Material-Management-85276/60317344/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Senior-Specialist-(mwd)-Packaging-Material-Management-85276/2277-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Senior-Specialist-%28mwd%29-Packaging-Material-Management-85276/60317444/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Teamlead-(mwd)-USP-für-die-Herstellung-monoklonaler-Antikörper-85276/2278-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Teamlead-%28mwd%29-USP-f%C3%BCr-die-Herstellung-monoklonaler-Antik%C3%B6rper-85276/60317944/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Munich-Manager-Audits-&-Compliance-(GCP)-81379/2283-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Munich-Manager-Audits-&-Compliance-%28GCP%29-81379/60625244/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Expert-Formulation-Technology-Research-Laboratories-(mwd)-85276/2292-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Expert-Formulation-Technology-Research-Laboratories-%28mwd%29-85276/60546944/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Expert-Formulation-Technology-Research-Laboratories-(mwd)-85276/2292-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Expert-Formulation-Technology-Research-Laboratories-%28mwd%29-85276/60547044/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Qualification-Engineer-(mwd)-85276/2293-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Qualification-Engineer-%28mwd%29-85276/60419344/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Operations-Engineer-Antikörperherstellung-und-Biokonjugation-(mwd)-85276/1787-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Operations-Engineer-Antik%C3%B6rperherstellung-und-Biokonjugation-%28mwd%29-85276/57779944/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Munich-Head-of-Qualified-Person-(mwd)-Regional-Quality-81379/1290-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Munich-Head-of-Qualified-Person-%28mwd%29-Regional-Quality-81379/54536244/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Munich-Head-of-Qualified-Person-(mwd)-Regional-Quality-81379/1290-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Munich-Head-of-Qualified-Person-%28mwd%29-Regional-Quality-81379/54536344/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Munich-Digital-Transformation-Lead-(Corporate-Platforms-&-Global-Business-Systems)-(mfd)-81379/1406-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Munich-Digital-Transformation-Lead-%28Corporate-Platforms-&-Global-Business-Systems%29-%28mfd%29-81379/55314444/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Munich-Team-Assistant-&-Project-Coordinator-(mfd)-EUCAN-Oncology-81379/2449-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Munich-Team-Assistant-&-Project-Coordinator-%28mfd%29-EUCAN-Oncology-81379/60946644/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Munich-Team-Assistant-&-Project-Coordinator-(mfd)-EUCAN-Oncology-81379/2449-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Munich-Team-Assistant-&-Project-Coordinator-%28mfd%29-EUCAN-Oncology-81379/60946744/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Industriemechaniker-(mwd)-85276/2455-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Industriemechaniker-%28mwd%29-85276/60988644/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Industriemechaniker-(mwd)-85276/2455-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Industriemechaniker-%28mwd%29-85276/60988744/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Munich-Director,-Global-Strategic-Workforce-Planning-&-Analytics-(mfd)-81379/2339-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Munich-Director%2C-Global-Strategic-Workforce-Planning-&-Analytics-%28mfd%29-81379/60643744/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Expert-(mwd)-Quality-Control-Systems-SAP-85276/2387-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Expert-%28mwd%29-Quality-Control-Systems-SAP-85276/60807044/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Bioprocess-Technician-(mwd)-Bioconjugation-BioDS-85276/2393-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Bioprocess-Technician-%28mwd%29-Bioconjugation-BioDS-85276/60832344/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Munich-Manager,-Talent-&-Workforce-Analytics,-Global-Strategic-Workforce-Planning-(mfd)-81379/2344-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Munich-Manager%2C-Talent-&-Workforce-Analytics%2C-Global-Strategic-Workforce-Planning-%28mfd%29-81379/60683344/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Munich-Director,-Global-Strategic-Workforce-Planning-&-Analytics-(mfd)-81379/2339-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Munich-Director%2C-Global-Strategic-Workforce-Planning-&-Analytics-%28mfd%29-81379/60643844/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Munich-Manager,-Talent-&-Workforce-Analytics,-Global-Strategic-Workforce-Planning-(mfd)-81379/2344-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Munich-Manager%2C-Talent-&-Workforce-Analytics%2C-Global-Strategic-Workforce-Planning-%28mfd%29-81379/60683244/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Expert-(mwd)-Quality-Control-Systems-SAP-85276/2387-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Expert-%28mwd%29-Quality-Control-Systems-SAP-85276/60806944/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Teamlead-Clinical-Packaging-Technology-&-Processes-85276/2390-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Teamlead-Clinical-Packaging-Technology-&-Processes-85276/60895744/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Teamlead-Clinical-Packaging-Technology-&-Processes-85276/2390-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Teamlead-Clinical-Packaging-Technology-&-Processes-85276/60895844/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Munich-Director,-Talent-Strategy-Partner-(mfd)-81379/2367-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Munich-Director%2C-Talent-Strategy-Partner-%28mfd%29-81379/60760244/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Bioprocess-Technician-(mwd)-Bioconjugation-BioDS-85276/2393-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Pfaffenhofen-an-der-Ilm-Bioprocess-Technician-%28mwd%29-Bioconjugation-BioDS-85276/60832244/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Munich-Working-Student,-Global-Oncology-Real-World-Evidence-Operational-Excellence-(mfd)-81379/2657-en_US/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Munich-Working-Student%2C-Global-Oncology-Real-World-Evidence-Operational-Excellence-%28mfd%29-81379/61838344/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.daiichisankyo.com/job/Munich-Working-Student,-Global-Oncology-Real-World-Evidence-Operational-Excellence-(mfd)-81379/2657-de_DE/",
+          "linked_from": "https://careers.daiichisankyo.com/job/Munich-Working-Student%2C-Global-Oncology-Real-World-Evidence-Operational-Excellence-%28mfd%29-81379/61838444/",
+          "mechanism": "http_redirect"
+        }
+      ]
+    },
+    "WINDSTAR MEDICAL": {
+      "status": "partial",
+      "reason": null,
+      "count": 22,
+      "path": "output\\karriere\\WINDSTAR-MEDICAL-988bcbbe\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": false,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 41,
+        "pages_read": 8,
+        "dynamic_or_unparsed_pages": false,
+        "http": {
+          "requests_attempted": 82,
+          "allocated_requests": 329,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.merz-lifecare.com/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://merz-lifecare.softgarden.io/job/2901331/-praktikant-m-w-d-brand-management-acute-care-2901331",
+          "linked_from": "https://www.merz-lifecare.com/",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://merz-lifecare.softgarden.io/de/widgets/jobs?config=eyJzaG93Sm9iTGlzdCI6eyJhdWRpZW5jZSI6dHJ1ZSwiam9iY2F0ZWdvcnkiOnRydWUsIlByb2plY3RHZW9Mb2NhdGlvbkNpdHkiOnRydWUsInNob3dEYXRlSW5Gcm9udGVuZCI6dHJ1ZX0sInNob3dGaWx0ZXIiOnsiYXVkaWVuY2UiOnRydWUsImpvYmNhdGVnb3J5Ijp0cnVlLCJQcm9qZWN0R2VvTG9jYXRpb25DaXR5Ijp0cnVlfSwicHJlZmlsbEZpbHRlciI6eyJhdWRpZW5jZSI6IiIsImpvYmNhdGVnb3J5IjoiIiwiUHJvamVjdEdlb0xvY2F0aW9uQ2l0eSI6IiIsIlByb2plY3RHZW9Mb2NhdGlvbkNpdHlSYWRpdXMiOiIyNSJ9LCJudW1iZXJPZkpvYnMiOjEwfQ%3D%3D",
+          "linked_from": "https://merz-lifecare.softgarden.io/widgets/jobs?config=eyJzaG93Sm9iTGlzdCI6eyJhdWRpZW5jZSI6dHJ1ZSwiam9iY2F0ZWdvcnkiOnRydWUsIlByb2plY3RHZW9Mb2NhdGlvbkNpdHkiOnRydWUsInNob3dEYXRlSW5Gcm9udGVuZCI6dHJ1ZX0sInNob3dGaWx0ZXIiOnsiYXVkaWVuY2UiOnRydWUsImpvYmNhdGVnb3J5Ijp0cnVlLCJQcm9qZWN0R2VvTG9jYXRpb25DaXR5Ijp0cnVlfSwicHJlZmlsbEZpbHRlciI6eyJhdWRpZW5jZSI6IiIsImpvYmNhdGVnb3J5IjoiIiwiUHJvamVjdEdlb0xvY2F0aW9uQ2l0eSI6IiIsIlByb2plY3RHZW9Mb2NhdGlvbkNpdHlSYWRpdXMiOiIyNSJ9LCJudW1iZXJPZkpvYnMiOjEwfQ%3D%3D",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://merz-lifecare.softgarden.io/job/2901331/-praktikant-m-w-d-brand-management-acute-care-2901331?l=de",
+          "linked_from": "https://merz-lifecare.softgarden.io/job/2901331/-praktikant-m-w-d-brand-management-acute-care-2901331",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://merz-lifecare.softgarden.io/job/2896067/-expert-m-w-d-marketing-acute-care-2896067?l=de",
+          "linked_from": "https://merz-lifecare.softgarden.io/job/2896067/-expert-m-w-d-marketing-acute-care-2896067",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://merz-lifecare.softgarden.io/job/2890104/-senior-manager-m-w-d-otc-2890104?l=de",
+          "linked_from": "https://merz-lifecare.softgarden.io/job/2890104/-senior-manager-m-w-d-otc-2890104",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://merz-lifecare.softgarden.io/job/2890099/-team-lead-m-w-d-regulatory-affairs-2890099?l=de",
+          "linked_from": "https://merz-lifecare.softgarden.io/job/2890099/-team-lead-m-w-d-regulatory-affairs-2890099",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://merz-lifecare.softgarden.io/job/2888102/-brand-manager-m-w-d-wellbeing-bath-2888102?l=de",
+          "linked_from": "https://merz-lifecare.softgarden.io/job/2888102/-brand-manager-m-w-d-wellbeing-bath-2888102",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://merz-lifecare.softgarden.io/job/2883538/-werkstudent-m-w-d-quality-control-2883538?l=de",
+          "linked_from": "https://merz-lifecare.softgarden.io/job/2883538/-werkstudent-m-w-d-quality-control-2883538",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://merz-lifecare.softgarden.io/job/2882772/-praktikant-m-w-d-marketing-product-management-health-2882772?l=de",
+          "linked_from": "https://merz-lifecare.softgarden.io/job/2882772/-praktikant-m-w-d-marketing-product-management-health-2882772",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://merz-lifecare.softgarden.io/job/2860248/-expert-m-w-d-logistik-logistiksysteme-2860248?l=de",
+          "linked_from": "https://merz-lifecare.softgarden.io/job/2860248/-expert-m-w-d-logistik-logistiksysteme-2860248",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://merz-lifecare.softgarden.io/job/2857743/-sachbearbeiter-m-w-d-sales-operations-2857743?l=de",
+          "linked_from": "https://merz-lifecare.softgarden.io/job/2857743/-sachbearbeiter-m-w-d-sales-operations-2857743",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://merz-lifecare.softgarden.io/job/2853552/-manager-m-w-d-product-innovation-2853552?l=de",
+          "linked_from": "https://merz-lifecare.softgarden.io/job/2853552/-manager-m-w-d-product-innovation-2853552",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://merz-lifecare.softgarden.io/job/2834822/-brand-manager-m-w-d-preventive-care-2834822?l=de",
+          "linked_from": "https://merz-lifecare.softgarden.io/job/2834822/-brand-manager-m-w-d-preventive-care-2834822",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://merz-lifecare.softgarden.io/job/2802220/-praktikant-m-w-d-marketing-product-management-healthy-lifestyle-2802220?l=de",
+          "linked_from": "https://merz-lifecare.softgarden.io/job/2802220/-praktikant-m-w-d-marketing-product-management-healthy-lifestyle-2802220",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://merz-lifecare.softgarden.io/job/2795281/-werkstudent-brand-communications-m-w-d-ab-februar-2795281?l=de",
+          "linked_from": "https://merz-lifecare.softgarden.io/job/2795281/-werkstudent-brand-communications-m-w-d-ab-februar-2795281",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://merz-lifecare.softgarden.io/job/2793422/-praktikant-m-w-d-international-sales-marketing-2793422?l=de",
+          "linked_from": "https://merz-lifecare.softgarden.io/job/2793422/-praktikant-m-w-d-international-sales-marketing-2793422",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://merz-lifecare.softgarden.io/job/2786279/-praktikant-m-w-d-online-marketing-2786279?l=de",
+          "linked_from": "https://merz-lifecare.softgarden.io/job/2786279/-praktikant-m-w-d-online-marketing-2786279",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://merz-lifecare.softgarden.io/job/2778099/-category-manager-m-w-d-2778099?l=de",
+          "linked_from": "https://merz-lifecare.softgarden.io/job/2778099/-category-manager-m-w-d-2778099",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://merz-lifecare.softgarden.io/job/2775178/-accountant-m-w-d-50-pensum-2775178?l=de",
+          "linked_from": "https://merz-lifecare.softgarden.io/job/2775178/-accountant-m-w-d-50-pensum-2775178",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://merz-lifecare.softgarden.io/job/2758991/-expert-m-w-d-formulation-r-d-befristet-auf-12-monate-2758991?l=de",
+          "linked_from": "https://merz-lifecare.softgarden.io/job/2758991/-expert-m-w-d-formulation-r-d-befristet-auf-12-monate-2758991",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://merz-lifecare.softgarden.io/job/2758957/-manager-m-w-d-quality-regulatory-in-teilzeit-20-stunden-2758957?l=de",
+          "linked_from": "https://merz-lifecare.softgarden.io/job/2758957/-manager-m-w-d-quality-regulatory-in-teilzeit-20-stunden-2758957",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://merz-lifecare.softgarden.io/job/2724159/-werkstudent-m-w-d-master-data-management-2724159?l=de",
+          "linked_from": "https://merz-lifecare.softgarden.io/job/2724159/-werkstudent-m-w-d-master-data-management-2724159",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://merz-lifecare.softgarden.io/job/2713108/-junior-manager-m-w-d-regulatory-affairs-befristet-fur-24-monate-2713108?l=de",
+          "linked_from": "https://merz-lifecare.softgarden.io/job/2713108/-junior-manager-m-w-d-regulatory-affairs-befristet-fur-24-monate-2713108",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://merz-lifecare.softgarden.io/job/2708201/-praktikant-m-w-d-marketing-product-management-health-wellbeing-ab-sofort-2708201?l=de",
+          "linked_from": "https://merz-lifecare.softgarden.io/job/2708201/-praktikant-m-w-d-marketing-product-management-health-wellbeing-ab-sofort-2708201",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://merz-lifecare.softgarden.io/job/2702248/-expert-m-w-d-masterdata-transformation-2702248?l=de",
+          "linked_from": "https://merz-lifecare.softgarden.io/job/2702248/-expert-m-w-d-masterdata-transformation-2702248",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://merz-lifecare.softgarden.io/job/2700825/-praktikant-m-w-d-pharmazie-naturwissenschaften-life-sciences-mai-2027-2700825?l=de",
+          "linked_from": "https://merz-lifecare.softgarden.io/job/2700825/-praktikant-m-w-d-pharmazie-naturwissenschaften-life-sciences-mai-2027-2700825",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://merz-lifecare.softgarden.io/job/2695208/-brand-development-director-m-w-d-international-2695208?l=de",
+          "linked_from": "https://merz-lifecare.softgarden.io/job/2695208/-brand-development-director-m-w-d-international-2695208",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://merz-lifecare.softgarden.io/job/2692919/-brand-development-brand-manager-m-w-d-international-marketing-merz-spezial-2692919?l=de",
+          "linked_from": "https://merz-lifecare.softgarden.io/job/2692919/-brand-development-brand-manager-m-w-d-international-marketing-merz-spezial-2692919",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://merz-lifecare.softgarden.io/job/2692903/-brand-development-senior-brand-manager-m-w-d-international-marketing-merz-spezial-80-2692903?l=de",
+          "linked_from": "https://merz-lifecare.softgarden.io/job/2692903/-brand-development-senior-brand-manager-m-w-d-international-marketing-merz-spezial-80-2692903",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://merz-lifecare.softgarden.io/job/2692882/-brand-development-senior-brand-manager-m-f-d-international-marketing-tetesept-2692882?l=de",
+          "linked_from": "https://merz-lifecare.softgarden.io/job/2692882/-brand-development-senior-brand-manager-m-f-d-international-marketing-tetesept-2692882",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://merz-lifecare.softgarden.io/job/2692837/-brand-development-senior-brand-manager-m-w-d-strategic-projects-2692837?l=de",
+          "linked_from": "https://merz-lifecare.softgarden.io/job/2692837/-brand-development-senior-brand-manager-m-w-d-strategic-projects-2692837",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://merz-lifecare.softgarden.io/job/2692798/-expert-m-w-d-analytics-lims-2692798?l=de",
+          "linked_from": "https://merz-lifecare.softgarden.io/job/2692798/-expert-m-w-d-analytics-lims-2692798",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://career.merz-lifecare.com/",
+          "linked_from": "https://merz-lifecare.softgarden.io/job/64604123/SAP-S-4HANA-Change-Communication-Manager-m-w-d-befristet-bis-31.12.2028?jobDbPVId=272363508&l=de",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=64604123",
+          "linked_from": "https://merz-lifecare.softgarden.io/job/64604123/SAP-S-4HANA-Change-Communication-Manager-m-w-d-befristet-bis-31.12.2028?jobDbPVId=272363508&l=de",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://mlh.jobs.personio.com/job/2901331",
+          "linked_from": "https://www.merz-lifecare.com/so-arbeiten-wir",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://mlh.jobs.personio.com/xml",
+          "linked_from": "https://mlh.jobs.personio.com/job/2901331",
+          "mechanism": "public_job_feed",
+          "adapter": "personio"
+        },
+        {
+          "url": "https://merz-lifecare.softgarden.io/apply-choice?jobDbId=64604123&jobDbId=64604123",
+          "linked_from": "https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=64604123",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://merz-lifecare.softgarden.io/apply-choice?jobDbId=64604123&jobDbId=64604123&l=de",
+          "linked_from": "https://merz-lifecare.softgarden.io/apply-choice?jobDbId=64604123&jobDbId=64604123",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://career.merz-consumer-care.de/application/?jobId=64604123",
+          "linked_from": "https://merz-lifecare.softgarden.io/apply-choice?jobDbId=64604123&jobDbId=64604123&l=de",
+          "mechanism": "http_redirect"
+        }
+      ]
+    },
+    "Centrient Pharmaceuticals": {
+      "status": "ok",
+      "reason": null,
+      "count": 19,
+      "path": "output\\karriere\\Centrient-Pharmaceuticals-82eaef83\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": true,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 39,
+        "pages_read": 39,
+        "dynamic_or_unparsed_pages": false,
+        "http": {
+          "requests_attempted": 41,
+          "allocated_requests": 334,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://centrient.com/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://centrient.com/join-us",
+          "linked_from": "https://centrient.com/careers",
+          "mechanism": "http_redirect"
+        }
+      ]
+    },
+    "HERMES PHARMA": {
+      "status": "ok",
+      "reason": null,
+      "count": 18,
+      "path": "output\\karriere\\HERMES-PHARMA-f03bf4b2\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": true,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 39,
+        "pages_read": 39,
+        "dynamic_or_unparsed_pages": false,
+        "http": {
+          "requests_attempted": 45,
+          "allocated_requests": 340,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.hermes-pharma.com/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://hermes-group-jobs.de/stellenangebote.html",
+          "linked_from": "https://www.hermes-pharma.com/jobs-careers/",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://hermes-holding.group/en/careers/benefits",
+          "linked_from": "https://www.hermes-pharma.com/jobs-careers/",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://hermes-group-jobs.de/initiativ-bewerbung-oesterreich-de-j986.html",
+          "linked_from": "http://hermes-group-jobs.de/initiativ-bewerbung-oesterreich-de-j986.html",
+          "mechanism": "http_redirect"
+        }
+      ]
+    },
+    "LINK": {
+      "status": "partial",
+      "reason": null,
+      "count": 22,
+      "path": "output\\karriere\\LINK-e26ef190\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": false,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 9,
+        "pages_read": 9,
+        "dynamic_or_unparsed_pages": true,
+        "http": {
+          "requests_attempted": 14,
+          "allocated_requests": 346,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.link-ortho.com/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://karriere.link-ortho.com/",
+          "linked_from": "https://www.link-ortho.com/de/karriere",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://waldemar-link-gmbh-co-kg.jobs.personio.de/job/2877445",
+          "linked_from": "https://karriere.link-ortho.com/",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://waldemar-link-gmbh-co-kg.jobs.personio.de/xml",
+          "linked_from": "https://waldemar-link-gmbh-co-kg.jobs.personio.de/job/2877445",
+          "mechanism": "public_job_feed",
+          "adapter": "personio"
+        },
+        {
+          "url": "https://vacucast.jobs.personio.com/",
+          "linked_from": "https://www.link-ortho.com/de/karriere/vacucast-jobs",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://vacucast.jobs.personio.com/xml",
+          "linked_from": "https://vacucast.jobs.personio.com/",
+          "mechanism": "public_job_feed",
+          "adapter": "personio"
+        }
+      ]
+    },
+    "Kulzer": {
+      "status": "partial",
+      "reason": null,
+      "count": 6,
+      "path": "output\\karriere\\Kulzer-eab975bf\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": false,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 14,
+        "pages_read": 13,
+        "dynamic_or_unparsed_pages": false,
+        "http": {
+          "requests_attempted": 24,
+          "allocated_requests": 352,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.kulzer.de/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://kulzer.de/de/de/startseite/startseite.html",
+          "linked_from": "https://www.kulzer.de/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://recruitingapp-5114.de.umantis.com/Jobs/All",
+          "linked_from": "https://kulzer.de/de/de/unternehmen/karriere/startseite.html",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://www.arrkeurope.com/de/jobs-karriere/aktuelle-stellenangebote/",
+          "linked_from": "https://kulzer.de/de/de/unternehmen/karriere/startseite.html",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://kulzer.de/de/de/startseite/startseite.html",
+          "linked_from": "https://kulzer.de/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.arrk.com/",
+          "linked_from": "https://www.arrkeurope.com/robots.txt",
+          "mechanism": "robots_redirect"
+        },
+        {
+          "url": "https://kulzer.de/de/de/karriere/startseite_2.aspx",
+          "linked_from": "http://kulzer.de/de/de/karriere/startseite_2.aspx",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://kulzer.de/de/de/karriere/karriere.html",
+          "linked_from": "https://kulzer.de/de/de/karriere/startseite_2.aspx",
+          "mechanism": "http_redirect"
+        }
+      ]
+    },
+    "Novaled": {
+      "status": "error",
+      "reason": "search_incomplete",
+      "count": 0,
+      "path": "output\\karriere\\Novaled-cfec40d3\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": false,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 1,
+        "pages_read": 0,
+        "dynamic_or_unparsed_pages": false,
+        "http": {
+          "requests_attempted": 2,
+          "allocated_requests": 359,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.novaled.com/",
+          "linked_from": null,
+          "mechanism": "configured"
+        }
+      ]
+    },
+    "Klosterfrau Healthcare": {
+      "status": "partial",
+      "reason": null,
+      "count": 17,
+      "path": "output\\karriere\\Klosterfrau-Healthcare-1f9eafae\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": false,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 84,
+        "pages_read": 81,
+        "dynamic_or_unparsed_pages": true,
+        "http": {
+          "requests_attempted": 90,
+          "allocated_requests": 366,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.klosterfrau.com/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://klosterfrau-jobs.com/",
+          "linked_from": "https://www.klosterfrau.com/",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://www.karrieretag-familienunternehmen.de/",
+          "linked_from": "https://www.klosterfrau.com/news-presse/karrieretag-familienunternehmen",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "http://www.karrieretag-familienunternehmen.de/bewerben/",
+          "linked_from": "https://www.karrieretag-familienunternehmen.de/bewerben",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "http://www.karrieretag-familienunternehmen.de/?openSignupModal=1",
+          "linked_from": "http://www.karrieretag-familienunternehmen.de/bewerben/",
+          "mechanism": "http_redirect"
+        }
+      ]
+    },
+    "Dr. Pfleger Arzneimittel": {
+      "status": "partial",
+      "reason": null,
+      "count": 3,
+      "path": "output\\karriere\\Dr-Pfleger-Arzneimittel-ab3d2c1b\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": false,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 32,
+        "pages_read": 32,
+        "dynamic_or_unparsed_pages": true,
+        "http": {
+          "requests_attempted": 36,
+          "allocated_requests": 372,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://dr-pfleger.de/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://myjobboard.de/dr-pfleger/Jobs",
+          "linked_from": "https://dr-pfleger.de/karriere/stellenangebote/",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://dr-pfleger.de/karriere/stellenangebote/",
+          "linked_from": "https://dr-pfleger.de/stellenangebote",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://dr-pfleger.de/unternehmen/dr-pfleger-arzneimittel-heute/wie-wir-arbeiten/",
+          "linked_from": "https://dr-pfleger.de/karriere/arbeiten-bei-dr-pfleger/wie-wir-arbeiten.html",
+          "mechanism": "http_redirect"
+        }
+      ]
+    },
+    "Resuscitec": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "count": 0,
+      "path": "output\\karriere\\Resuscitec-6d490c85\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": false,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 3,
+        "pages_read": 3,
+        "dynamic_or_unparsed_pages": true,
+        "http": {
+          "requests_attempted": 5,
+          "allocated_requests": 380,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://resuscitec.de/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://jobapplication.hrworks.de/en?companyId=oca38b3",
+          "linked_from": "https://resuscitec.de/company/",
+          "mechanism": "employer_link"
+        }
+      ]
+    },
+    "Medicon": {
+      "status": "ok",
+      "reason": null,
+      "count": 7,
+      "path": "output\\karriere\\Medicon-c17557a5\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": true,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 10,
+        "pages_read": 10,
+        "dynamic_or_unparsed_pages": false,
+        "http": {
+          "requests_attempted": 12,
+          "allocated_requests": 388,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://medicon.de/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://k60852.coveto.de/public/jobs/",
+          "linked_from": "https://medicon.de/karriere-bei-medicon/",
+          "mechanism": "employer_link"
+        }
+      ]
+    },
+    "XION": {
+      "status": "ok",
+      "reason": null,
+      "count": 6,
+      "path": "output\\karriere\\XION-8033f08d\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": true,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 12,
+        "pages_read": 12,
+        "dynamic_or_unparsed_pages": false,
+        "http": {
+          "requests_attempted": 15,
+          "allocated_requests": 396,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.xion-medical.com/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://www.xion-medical.com/en/",
+          "linked_from": "https://www.xion-medical.com/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://karriere.xion-medical.com/de",
+          "linked_from": "https://www.xion-medical.com/en/",
+          "mechanism": "employer_link"
+        }
+      ]
+    },
+    "Charite Research Organisation": {
+      "status": "ok",
+      "reason": null,
+      "count": 6,
+      "path": "output\\karriere\\Charite-Research-Organisation-6f20409c\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": true,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 15,
+        "pages_read": 15,
+        "dynamic_or_unparsed_pages": false,
+        "http": {
+          "requests_attempted": 18,
+          "allocated_requests": 405,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.charite-research.org/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://karriere.charite-research.org/",
+          "linked_from": "https://www.charite-research.org/",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://karriere.charite-research.org/en",
+          "linked_from": "https://karriere.charite-research.org/",
+          "mechanism": "http_redirect"
+        }
+      ]
+    },
+    "Finzelberg": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "count": 0,
+      "path": "output\\karriere\\Finzelberg-3604eecd\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": false,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 20,
+        "pages_read": 20,
+        "dynamic_or_unparsed_pages": true,
+        "http": {
+          "requests_attempted": 24,
+          "allocated_requests": 415,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://finzelberg.com/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://finzelberg.com/karriere/",
+          "linked_from": "https://finzelberg.com/karriere",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://finzelberg.com/karriere/ihr-einstieg/absolventen/",
+          "linked_from": "https://finzelberg.com/karriere/absolventen/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://finzelberg.com/karriere/ihr-einstieg/berufserfahrene/",
+          "linked_from": "https://finzelberg.com/karriere/berufserfahrene/",
+          "mechanism": "http_redirect"
+        }
+      ]
+    },
+    "KOB": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "count": 0,
+      "path": "output\\karriere\\KOB-6acc73f3\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": false,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 10,
+        "pages_read": 8,
+        "dynamic_or_unparsed_pages": false,
+        "http": {
+          "requests_attempted": 13,
+          "allocated_requests": 424,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.kob.de/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://www.kob.de/de",
+          "linked_from": "https://www.kob.de/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://careers.hartmann.info/KOB/go/KOB-Jobs/4585101/",
+          "linked_from": "https://www.kob.de/de/karriere/kob-ausbildungsbetrieb",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://career5.successfactors.eu/career?company=paulhartma&site=&lang=en_US&requestParams=&navBarLevel=MY_PROFILE&_s.crb=GYKi7U%2FVBBo7uGvZUaDSPVEduNG%2BzusV1yZSc9X9Zs4%3D",
+          "linked_from": "https://careers.hartmann.info/",
+          "mechanism": "employer_link"
+        }
+      ]
+    },
+    "CEEZER Software": {
+      "status": "ok",
+      "reason": null,
+      "count": 2,
+      "path": "output\\karriere\\CEEZER-Software-83ce8337\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": true,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 3,
+        "pages_read": 3,
+        "dynamic_or_unparsed_pages": false,
+        "http": {
+          "requests_attempted": 4,
+          "allocated_requests": 434,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.ceezer.earth/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://api.ashbyhq.com/posting-api/job-board/ceezer",
+          "linked_from": "https://www.ceezer.earth/careers",
+          "mechanism": "embedded_job_feed"
+        },
+        {
+          "url": "https://api.ashbyhq.com/posting-api/job-board/ceezer",
+          "linked_from": "https://api.ashbyhq.com/posting-api/job-board/ceezer",
+          "mechanism": "public_job_feed",
+          "adapter": "ashby"
+        }
+      ]
+    },
+    "Ingentis Softwareentwicklung": {
+      "status": "partial",
+      "reason": null,
+      "count": 10,
+      "path": "output\\karriere\\Ingentis-Softwareentwicklung-1bf884a2\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": false,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 26,
+        "pages_read": 16,
+        "dynamic_or_unparsed_pages": true,
+        "http": {
+          "requests_attempted": 29,
+          "allocated_requests": 445,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.ingentis.com/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://ingentis.onlyfy.jobs/",
+          "linked_from": "https://www.ingentis.com/en/about-us/career/",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://ingentis.onlyfy.jobs/en",
+          "linked_from": "https://ingentis.onlyfy.jobs/",
+          "mechanism": "http_redirect"
+        }
+      ]
+    },
+    "Eurofiber Netz": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "count": 0,
+      "path": "output\\karriere\\Eurofiber-Netz-ca101010\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": false,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 2,
+        "pages_read": 2,
+        "dynamic_or_unparsed_pages": true,
+        "http": {
+          "requests_attempted": 7,
+          "allocated_requests": 456,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.eurofiber.de/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://www.mih-net.com/robots.txt",
+          "linked_from": "https://www.eurofiber.de/robots.txt",
+          "mechanism": "robots_redirect"
+        },
+        {
+          "url": "https://www.mih-net.com/",
+          "linked_from": "https://www.eurofiber.de/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.mih-holding.com/karriere/",
+          "linked_from": "https://www.mih-net.com/",
+          "mechanism": "employer_link"
+        }
+      ]
+    },
+    "Deutsche Pfandbriefbank": {
+      "status": "ok",
+      "reason": null,
+      "count": 17,
+      "path": "output\\karriere\\Deutsche-Pfandbriefbank-e7f3d2c4\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": true,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 54,
+        "pages_read": 54,
+        "dynamic_or_unparsed_pages": false,
+        "http": {
+          "requests_attempted": 56,
+          "allocated_requests": 469,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.pfandbriefbank.com/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://jobs-pfandbriefbank.com/stellenangebote.html?reset_search=1",
+          "linked_from": "https://www.pfandbriefbank.com/",
+          "mechanism": "employer_link"
+        }
+      ]
+    },
+    "Hamburg Commercial Bank": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "count": 0,
+      "path": "output\\karriere\\Hamburg-Commercial-Bank-bed70406\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": false,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 1,
+        "pages_read": 1,
+        "dynamic_or_unparsed_pages": true,
+        "http": {
+          "requests_attempted": 2,
+          "allocated_requests": 480,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.hcob-bank.com/",
+          "linked_from": null,
+          "mechanism": "configured"
+        }
+      ]
+    },
+    "MBS Logistics": {
+      "status": "partial",
+      "reason": null,
+      "count": 18,
+      "path": "output\\karriere\\MBS-Logistics-0396b8f9\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": false,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 32,
+        "pages_read": 31,
+        "dynamic_or_unparsed_pages": false,
+        "http": {
+          "requests_attempted": 35,
+          "allocated_requests": 494,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.mbslogistics.com/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://mbs-logistics.jobs.personio.de/?language=de",
+          "linked_from": "https://www.mbslogistics.com/karriere/offene-stellen/",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://mbs-logistics.jobs.personio.de/xml",
+          "linked_from": "https://mbs-logistics.jobs.personio.de/?language=de",
+          "mechanism": "public_job_feed",
+          "adapter": "personio"
+        }
+      ]
+    },
+    "MSG Systems": {
+      "status": "partial",
+      "reason": null,
+      "count": 12,
+      "path": "output\\karriere\\MSG-Systems-5bc73aa0\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": false,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 148,
+        "pages_read": 144,
+        "dynamic_or_unparsed_pages": true,
+        "http": {
+          "requests_attempted": 184,
+          "allocated_requests": 507,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.msg.group/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://www.msg.group/de",
+          "linked_from": "https://www.msg.group/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.msg.group/de/",
+          "linked_from": "https://www.msg.group/de",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://karriere.msg.group/stellensuche",
+          "linked_from": "https://www.msg.group/de/",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://jobs.msg.group/de/jobs/4/form",
+          "linked_from": "https://www.msg.group/de/karriere/aktuelle-stellenangebote/",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://msg-industry-advisors-ag.jobs.personio.de/",
+          "linked_from": "https://www.msg.group/de/karriere/einstiegsmoeglichkeiten/branchen/life-sciences-chemicals/",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://msg-industry-advisors-ag.jobs.personio.de/xml",
+          "linked_from": "https://msg-industry-advisors-ag.jobs.personio.de/",
+          "mechanism": "public_job_feed",
+          "adapter": "personio"
+        },
+        {
+          "url": "https://www.msg.group/de/karriere/offene-stellen",
+          "linked_from": "https://karriere.msg.group/stellensuche",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.msg.group/de/karriere/offene-stellen/",
+          "linked_from": "https://www.msg.group/de/karriere/offene-stellen",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.msg.group/de/karriere/aktuelle-stellenangebote/",
+          "linked_from": "https://www.msg.group/de/karriere/offene-stellen/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.msg.group/de/karriere/",
+          "linked_from": "https://www.msg.group/de/karriere",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.msg.group/de/karriere/bewerbungsprozess/",
+          "linked_from": "https://www.msg.group/de/karriere/bewerbungsprozess",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.msg.group/de/karriere/einstiegsmoeglichkeiten/branchen/",
+          "linked_from": "https://www.msg.group/de/karriere/einstiegsmoeglichkeiten/branchen",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.msg.group/de/karriere/blog/so-war-der-msg-gesundheitstag",
+          "linked_from": "https://karriere.msg.group/blogbeitrag/so-war-der-msg-gesundheitstag",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.msg.group/de/karriere/blog/so-war-der-msg-gesundheitstag/",
+          "linked_from": "https://www.msg.group/de/karriere/blog/so-war-der-msg-gesundheitstag",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.msg.group/de/karriere/",
+          "linked_from": "https://www.msg.group/de/karriere/einstiegsmoeglichkeiten/branchen/consumer-products/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.msg.group/de/karriere/talentprogramme/msgtalents/",
+          "linked_from": "https://www.msg.group/de/karriere/talentprogramme/msgtalents",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.msg.group/en/career/application-process/",
+          "linked_from": "https://www.msg.group/en/career/application-process",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.msg.group/en/career/perspectives/industries/",
+          "linked_from": "https://www.msg.group/en/career/perspectives/industries",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.msg.group/en/career/working-at-msg/continuing-education/",
+          "linked_from": "https://www.msg.group/en/career/working-at-msg/continuing-education",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.msg.group/en/career/perspectives/industries/automotive/",
+          "linked_from": "https://www.msg.group/en/career/perspectives/industries/automotive",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.msg.group/en/career/perspectives/industries/banking/",
+          "linked_from": "https://www.msg.group/en/career/perspectives/industries/banking",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.msg.group/en/career/perspectives/industries/insurance/",
+          "linked_from": "https://www.msg.group/en/career/perspectives/industries/insurance",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.msg.group/en/career/perspectives/industries/life-science-and-chemicals/",
+          "linked_from": "https://www.msg.group/en/career/perspectives/industries/life-science-and-chemicals",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.msg.group/en/career/perspectives/industries/life-sciences-and-chemicals/",
+          "linked_from": "https://www.msg.group/en/career/perspectives/industries/life-science-and-chemicals/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.msg.group/en/career/perspectives/industries/travel-logistics/",
+          "linked_from": "https://www.msg.group/en/career/perspectives/industries/travel-logistics",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.msg.group/en/career/perspectives/industries/public-sector/",
+          "linked_from": "https://www.msg.group/en/career/perspectives/industries/public-sector",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.msg.group/en/career/perspectives/industries/telecommunications/",
+          "linked_from": "https://www.msg.group/en/career/perspectives/industries/telecommunications",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.msg.group/en/career/working-at-msg/diversity/",
+          "linked_from": "https://www.msg.group/en/career/working-at-msg/diversity",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.msg.group/en/career/working-at-msg/culture-and-values/",
+          "linked_from": "https://www.msg.group/en/career/working-at-msg/culture-and-values",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.msg.group/en/career/perspectives/topics/corporate-it/",
+          "linked_from": "https://www.msg.group/en/career/perspectives/topics/corporate-it",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.msg.group/en/career/perspectives/industries/healthcare/",
+          "linked_from": "https://www.msg.group/en/career/perspectives/industries/healthcare",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.msg.group/en/career/perspectives/industries/consumer-products/",
+          "linked_from": "https://www.msg.group/en/career/perspectives/industries/consumer-products",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.msg.group/en/career/perspectives/topics/test-and-quality-management/",
+          "linked_from": "https://www.msg.group/en/career/perspectives/topics/test-and-quality-management",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.msg.group/en/career/perspectives/topics/research/",
+          "linked_from": "https://www.msg.group/en/career/perspectives/topics/research",
+          "mechanism": "http_redirect"
+        }
+      ]
+    },
+    "agido": {
+      "status": "no_results",
+      "reason": "explicit_no_open_jobs",
+      "count": 0,
+      "path": "output\\karriere\\agido-4225e284\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": true,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 2,
+        "pages_read": 2,
+        "dynamic_or_unparsed_pages": false,
+        "http": {
+          "requests_attempted": 5,
+          "allocated_requests": 517,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.agido.com/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://careers.agido.com/jobs",
+          "linked_from": "https://www.agido.com/",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://careers.agido.com/jobs/",
+          "linked_from": "https://careers.agido.com/jobs",
+          "mechanism": "http_redirect"
+        }
+      ]
+    },
+    "NÜRNBERGER Versicherungsgruppe": {
+      "status": "ok",
+      "reason": null,
+      "count": 6,
+      "path": "output\\karriere\\N-RNBERGER-Versicherungsgruppe-4237d53f\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": true,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 36,
+        "pages_read": 36,
+        "dynamic_or_unparsed_pages": false,
+        "http": {
+          "requests_attempted": 41,
+          "allocated_requests": 533,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.nuernberger.com/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://www.nuernberger.com/karriere/stellenangebote/",
+          "linked_from": "https://www.nuernberger.com/karriere/stellenangebote/ausbildung-versicherung-10081/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.nuernberger.com/karriere/stellenangebote/",
+          "linked_from": "https://www.nuernberger.com/karriere/stellenangebote/ausbildung-fachinformatik-anwendungsentwicklung-10079/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.nuernberger.com/karriere/stellenangebote/",
+          "linked_from": "https://www.nuernberger.com/karriere/stellenangebote/ausbildung-fachinformatik-systemintegration-10080/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.nuernberger.com/karriere/stellenangebote/",
+          "linked_from": "https://www.nuernberger.com/jobfinder/",
+          "mechanism": "http_redirect"
+        }
+      ]
+    },
+    "Allgeier IT Services": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "count": 0,
+      "path": "output\\karriere\\Allgeier-IT-Services-6be16c45\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": false,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 3,
+        "pages_read": 3,
+        "dynamic_or_unparsed_pages": true,
+        "http": {
+          "requests_attempted": 7,
+          "allocated_requests": 549,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.avendis.com/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://avendis.com/",
+          "linked_from": "https://www.avendis.com/",
+          "mechanism": "http_redirect"
+        }
+      ]
+    },
+    "MAC IT-Solutions": {
+      "status": "partial",
+      "reason": null,
+      "count": 22,
+      "path": "output\\karriere\\MAC-IT-Solutions-fcb73411\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": false,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 90,
+        "pages_read": 86,
+        "dynamic_or_unparsed_pages": false,
+        "http": {
+          "requests_attempted": 116,
+          "allocated_requests": 567,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.mac-its.com/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://karriere.mac-its.com/",
+          "linked_from": "https://www.mac-its.com/",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://macits.jobs.personio.com/",
+          "linked_from": "https://karriere.mac-its.com/",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://macits.jobs.personio.com/xml",
+          "linked_from": "https://macits.jobs.personio.com/",
+          "mechanism": "public_job_feed",
+          "adapter": "personio"
+        },
+        {
+          "url": "https://www.mac-its.com/e-commerce-loesungen/",
+          "linked_from": "https://karriere.mac-its.com/unsere-produkte-services",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://karriere.mac-its.com/karriere-blog/unser-buero-in-hamburg",
+          "linked_from": "https://karriere.mac-its.com/karriere-blog-data/unser-buero-in-hamburg",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://mac-its.jobs.personio.de/job/315378?language=de&display=de",
+          "linked_from": "https://karriere.mac-its.com/karriere-blog/unser-buero-in-hamburg",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://mac-its.jobs.personio.de/xml",
+          "linked_from": "https://mac-its.jobs.personio.de/job/315378?language=de&display=de",
+          "mechanism": "public_job_feed",
+          "adapter": "personio"
+        },
+        {
+          "url": "https://www.collana.com/collana-als-arbeitgeber/",
+          "linked_from": "https://karriere.mac-its.com/karriere-blog/unsere-schwesterunternehmen-in-der-collana-gruppe",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://karriere.mac-its.com/karriere-blog/arbeiten-in-der-softwareentwicklung-support-beratung",
+          "linked_from": "https://karriere.mac-its.com/karriere-blog-data/arbeiten-in-der-softwareentwicklung-support-beratung",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://karriere.mac-its.com/karriere-blog/die-mac-auf-einen-blick-struktur-organisation",
+          "linked_from": "https://karriere.mac-its.com/karriere-blog-data/die-mac-auf-einen-blick-struktur-organisation",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://karriere.mac-its.com/karriere-blog/bugs-change-requests-gut-geschaetzte-detektiv-arbeit",
+          "linked_from": "https://karriere.mac-its.com/karriere-blog-data/bugs-change-requests-gut-geschaetzte-detektiv-arbeit",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://karriere.mac-its.com/karriere-blog/arbeiten-in-der-softwareentwicklung-neukundenprojekte",
+          "linked_from": "https://karriere.mac-its.com/karriere-blog-data/arbeiten-in-der-softwareentwicklung-neukundenprojekte",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://karriere.mac-its.com/karriere-blog/jobsmac-sales-manager-in-der-it-branche",
+          "linked_from": "https://karriere.mac-its.com/karriere-blog-data/jobsmac-sales-manager-in-der-it-branche",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://collana.jobs.personio.de/",
+          "linked_from": "https://www.collana.com/collana-als-arbeitgeber/",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://b4dynamics.jobs.personio.com/",
+          "linked_from": "https://www.collana.com/collana-als-arbeitgeber/",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://collanaapps.jobs.personio.com/",
+          "linked_from": "https://www.collana.com/collana-als-arbeitgeber/",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://www.develappers.de/de/jobs/offers",
+          "linked_from": "https://www.collana.com/collana-als-arbeitgeber/",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://www.visiondata.de/karriere/",
+          "linked_from": "https://www.collana.com/collana-als-arbeitgeber/",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://karriere.mac-its.com/karriere-blog/it-ausbildung-mit-zukunft-bei-der-mac",
+          "linked_from": "https://karriere.mac-its.com/karriere-blog-data/it-ausbildung-mit-zukunft-bei-der-mac",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://karriere.mac-its.com/karriere-blog/eine-neue-form-des-neukundenprojektes",
+          "linked_from": "https://karriere.mac-its.com/karriere-blog-data/eine-neue-form-des-neukundenprojektes",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://karriere.mac-its.com/karriere-blog/jobsmac-als-agile-coaches-im-it-unternehmen",
+          "linked_from": "https://karriere.mac-its.com/karriere-blog-data/jobsmac-als-agile-coaches-im-it-unternehmen",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://karriere.mac-its.com/karriere-blog/jobsmac-arbeiten-in-der-qualitaetssicherung",
+          "linked_from": "https://karriere.mac-its.com/karriere-blog-data/jobsmac-arbeiten-in-der-qualitaetssicherung",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://karriere.mac-its.com/karriere-blog/arbeiten-in-der-softwareentwicklung-teil-1",
+          "linked_from": "https://karriere.mac-its.com/karriere-blog-data/arbeiten-in-der-softwareentwicklung-teil-1",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://karriere.mac-its.com/karriere-blog/arbeiten-in-der-softwareentwicklung-server-oder-cloud",
+          "linked_from": "https://karriere.mac-its.com/karriere-blog-data/arbeiten-in-der-softwareentwicklung-server-oder-cloud",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://karriere.mac-its.com/karriere-blog/die-perfekten-ergaenzungen-fuer-ein-erp-system",
+          "linked_from": "https://karriere.mac-its.com/karriere-blog-data/die-perfekten-ergaenzungen-fuer-ein-erp-system",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://karriere.mac-its.com/karriere-blog/jobsmac-was-macht-eigentlich-ein-business-consultant",
+          "linked_from": "https://karriere.mac-its.com/karriere-blog-data/jobsmac-was-macht-eigentlich-ein-business-consultant",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://karriere.mac-its.com/karriere-blog/arbeiten-in-der-softwareentwicklung-kasse-versand",
+          "linked_from": "https://karriere.mac-its.com/karriere-blog-data/arbeiten-in-der-softwareentwicklung-kasse-versand",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://collana.jobs.personio.de/xml",
+          "linked_from": "https://collana.jobs.personio.de/",
+          "mechanism": "public_job_feed",
+          "adapter": "personio"
+        },
+        {
+          "url": "https://b4dynamics.jobs.personio.com/xml",
+          "linked_from": "https://b4dynamics.jobs.personio.com/",
+          "mechanism": "public_job_feed",
+          "adapter": "personio"
+        },
+        {
+          "url": "https://collanaapps.jobs.personio.com/xml",
+          "linked_from": "https://collanaapps.jobs.personio.com/",
+          "mechanism": "public_job_feed",
+          "adapter": "personio"
+        }
+      ]
+    },
+    "SGL Carbon": {
+      "status": "ok",
+      "reason": null,
+      "count": 63,
+      "path": "output\\karriere\\SGL-Carbon-cd155304\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": true,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 130,
+        "pages_read": 130,
+        "dynamic_or_unparsed_pages": false,
+        "http": {
+          "requests_attempted": 134,
+          "allocated_requests": 583,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.sglcarbon.com/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://jobs.sglcarbon.com/go/Alle-Stellen/4707801/",
+          "linked_from": "https://www.sglcarbon.com/",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://www.sglcarbon.com/unternehmen/karriere/warum-sgl/",
+          "linked_from": "https://www.sglcarbon.com/unternehmen/karriere/sgl-als-arbeitgeber/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.sglcarbon.com/en/company/careers/",
+          "linked_from": "https://www.sglcarbon.com/en/company/careers/sgl-carbon-as-an-employer/",
+          "mechanism": "http_redirect"
+        }
+      ]
+    },
+    "Taylor Wessing": {
+      "status": "error",
+      "reason": "search_incomplete",
+      "count": 0,
+      "path": "output\\karriere\\Taylor-Wessing-b5cb2cce\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": false,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 1,
+        "pages_read": 0,
+        "dynamic_or_unparsed_pages": false,
+        "http": {
+          "requests_attempted": 1,
+          "allocated_requests": 599,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.taylorwessing.com/",
+          "linked_from": null,
+          "mechanism": "configured"
+        }
+      ]
+    },
+    "Diakonie Düsseldorf": {
+      "status": "partial",
+      "reason": null,
+      "count": 84,
+      "path": "output\\karriere\\Diakonie-D-sseldorf-2b7acdf6\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": false,
+        "pending_pages": 251,
+        "page_limit_reached": true,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 150,
+        "pages_read": 148,
+        "dynamic_or_unparsed_pages": false,
+        "http": {
+          "requests_attempted": 153,
+          "allocated_requests": 621,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.diakonie-duesseldorf.de/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://recruitingapp-5151.de.umantis.com/Vacancies/Choose/InitiativeApplication/1",
+          "linked_from": "https://www.diakonie-duesseldorf.de/karriere/freie-stellen",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://www.diakonie-duesseldorf.de/karriere/unsere-benefits",
+          "linked_from": "https://www.diakonie-duesseldorf.de/karriere/wir-als-arbeitgeber",
+          "mechanism": "http_redirect"
+        }
+      ]
+    },
+    "Stadt Köln": {
+      "status": "partial",
+      "reason": null,
+      "count": 41,
+      "path": "output\\karriere\\Stadt-K-ln-fe0037e7\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": false,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 144,
+        "pages_read": 87,
+        "dynamic_or_unparsed_pages": false,
+        "http": {
+          "requests_attempted": 101,
+          "allocated_requests": 639,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.stadt-koeln.de/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=7758&lang=de_de&readid=rs_ganzeseite&url=https%3A%2F%2Fwww.stadt-koeln.de%2Fpolitik-und-verwaltung%2Fausbildung-karriere-bei-der-stadt%2Fstellenangebote%2Ferziehung-kinderpflege%3Frs%3D1%26nocache%3D1",
+          "linked_from": "https://www.stadt-koeln.de/politik-und-verwaltung/ausbildung-karriere-bei-der-stadt/stellenangebote/erziehung-kinderpflege",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://karriere.stadt-koeln.de/job/stadtweit-Erzieherinnen-%28mwd%29-f%C3%BCr-die-st%C3%A4dtischen-Kindertageseinrichtungen/1258161401/?feedId=436933",
+          "linked_from": "https://www.stadt-koeln.de/politik-und-verwaltung/ausbildung-karriere-bei-der-stadt/stellenangebote/erziehung-kinderpflege",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://secure-web.cisco.com/19mmdMNSRqXsPLgolW8sSPhJzUg3-n1sSZGHZLj_Arg5uThGyDAcd6yrIaxenEvo0H1qT6YWSGxzUCIN5rPYjTdneLqPfEGNnU05QMrkGMwOWdGC9AyDUk0tZzlnqAmWBpvAZ7IZI_EV-ls9Swnx2vE1oZ0Aq8-ki8GVJ26UeuuAF2iI2BW-2PveVJfTNkiB4UQ0CWmk3tNGzTsmoHH0mlF3gXBLasrGIAX4zEQnJqeLaC4ha32Wiu8kZeNNIV9feoGJRrcx2RzlJ16WLyyd4j_KzDQ508Eyx3AVDh0jqm_O6C7NhU6gnxGfCH_PdKvd4e4m_gB1G074aPYZvTAwPNQ/https%3A%2F%2Fwww.stadt-koeln.de%2Fpolitik-und-verwaltung%2Fjobs%2Fstellenangebote%2Findex.html",
+          "linked_from": "https://karriere.stadt-koeln.de/job/stadtweit-Erzieherinnen-%28mwd%29-f%C3%BCr-die-st%C3%A4dtischen-Kindertageseinrichtungen/1258161401/?feedId=436933",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://www.stadt-koeln.de/politik-und-verwaltung/ausbildung-karriere-bei-der-stadt/stellenangebote/kommunaler-ordnungsdienst-verkehrsdienst",
+          "linked_from": "https://www.stadt-koeln.de/politik-und-verwaltung/ausbildung-karriere-bei-der-stadt/stellenangebote/ordnungs-verkehrsdienst",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.kliniken-koeln.de/Karriere_Freiwilliges_Soziales_Jahr_FSJ.htm",
+          "linked_from": "https://www.stadt-koeln.de/politik-und-verwaltung/ausbildung-karriere-bei-der-stadt/der-bundesfreiwilligendienst-fuer-meine-stadt",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://www.stadt-koeln.de/politik-und-verwaltung/ausbildung-karriere-bei-der-stadt/wir-als-arbeitgeberin",
+          "linked_from": "https://www.stadt-koeln.de/politik-und-verwaltung/ausbildung-karriere-bei-der-stadt/ueber-uns",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://cms-internet.verwaltung.stadtkoeln.de/politik-und-verwaltung/ausbildung-karriere-bei-der-stadt/ausbildung/bewerbungsverfahren",
+          "linked_from": "https://karriere.stadt-koeln.de/job/stadtweit-Duales-Studium-Bachelor-of-Laws-%28in-Teilzeit%29-Kommunaler-Verwaltungsdienst-%28mwd%29/1435661233/?feedId=436933",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://career5.successfactors.eu/careers?company=kdndachverP2",
+          "linked_from": "https://www.stadt-koeln.de/politik-und-verwaltung/ausbildung-karriere-bei-der-stadt/ausbildung/bewerbungsverfahren",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://www.kaenguru-online.de/tag/jobmesse-paedagogik",
+          "linked_from": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/paeng-die-jobmesse-fuer-paedagogische-berufe-2",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://www.stadt-koeln.de/politik-und-verwaltung/jobs/stellenangebote/",
+          "linked_from": "https://www.stadt-koeln.de/politik-und-verwaltung/ausbildung-karriere-bei-der-stadt/stellenausschreibungen",
+          "mechanism": "http_redirect"
+        }
+      ]
+    },
+    "Hermes Deutschland": {
+      "status": "error",
+      "reason": "search_incomplete",
+      "count": 0,
+      "path": "output\\karriere\\Hermes-Deutschland-ee3a1575\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": false,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 1,
+        "pages_read": 0,
+        "dynamic_or_unparsed_pages": false,
+        "http": {
+          "requests_attempted": 2,
+          "allocated_requests": 660,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.myhermes.de/",
+          "linked_from": null,
+          "mechanism": "configured"
+        }
+      ]
+    },
+    "otris software AG": {
+      "status": "error",
+      "reason": "search_incomplete",
+      "count": 0,
+      "path": "output\\karriere\\otris-software-AG-5310ef0f\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": false,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 1,
+        "pages_read": 0,
+        "dynamic_or_unparsed_pages": false,
+        "http": {
+          "requests_attempted": 3,
+          "allocated_requests": 688,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.otris.de/",
+          "linked_from": null,
+          "mechanism": "configured"
+        }
+      ]
+    },
+    "Deutsche Rück": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "count": 0,
+      "path": "output\\karriere\\Deutsche-R-ck-d5b4f190\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": false,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 19,
+        "pages_read": 19,
+        "dynamic_or_unparsed_pages": true,
+        "http": {
+          "requests_attempted": 27,
+          "allocated_requests": 718,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.deutscherueck.de/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://karriere.deutscherueck.de/r/z12332wv3senh3m/Manager+Informationssicherheit+%26+ISMS+++Mensch*+im+qualitativen+Risikomanagement/40549/D%C3%BCsseldorf",
+          "linked_from": "https://www.deutscherueck.de/karriere/stellenanzeige?sid=1537",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://karriere.deutscherueck.de/karriere/?origin=rss",
+          "linked_from": "https://karriere.deutscherueck.de/r/z12332wv3senh3m/Manager+Informationssicherheit+%26+ISMS+++Mensch*+im+qualitativen+Risikomanagement/40549/D%C3%BCsseldorf",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://karriere.deutscherueck.de/karriere/?origin=rss",
+          "linked_from": "https://karriere.deutscherueck.de/r/z01jnd44r9ucbb9/Senior+Expert+Haftpflicht+und++Spartensteuerung+Mensch*/40549/D%C3%BCsseldorf",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://karriere.deutscherueck.de/karriere/?origin=rss",
+          "linked_from": "https://karriere.deutscherueck.de/r/z10sjdb2d8ja8il/Senior+Payroll+Specialist+Mensch*+Verg%C3%BCtung+und+Personalcontrolling/40549/D%C3%BCsseldorf",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://karriere.deutscherueck.de/karriere/?origin=rss",
+          "linked_from": "https://karriere.deutscherueck.de/r/z10ceyyft2xxvsk/Senior-Referent+Sach-Spartenmanagement+Mensch*+Schwerpunkt+Grundsatzfragen/40549/D%C3%BCsseldorf",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://karriere.deutscherueck.de/karriere/?origin=rss",
+          "linked_from": "https://karriere.deutscherueck.de/r/z122j02857c7bwi/Senior-Referent+Sach-Spartenmanagement+Mensch*+Schwerpunkt+Industrie-+und+Gro%C3%9Frisikogesch%C3%A4ft/40549/D%C3%BCsseldorf",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://karriere.deutscherueck.de/karriere/?origin=rss",
+          "linked_from": "https://karriere.deutscherueck.de/r/z014c49in62jt0t/Referendar+Mensch*+f%C3%BCr+die+Anwalts-+oder+Wahlstation/40549/D%C3%BCsseldorf",
+          "mechanism": "http_redirect"
+        }
+      ]
+    },
+    "Sparkasse Vest": {
+      "status": "partial",
+      "reason": null,
+      "count": 5,
+      "path": "output\\karriere\\Sparkasse-Vest-7b1d9cca\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": false,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 36,
+        "pages_read": 33,
+        "dynamic_or_unparsed_pages": false,
+        "http": {
+          "requests_attempted": 55,
+          "allocated_requests": 749,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://sparkasse-re.de/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://www.sparkasse-re.de/",
+          "linked_from": "https://sparkasse-re.de/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.sparkasse-re.de/de/home.html",
+          "linked_from": "https://www.sparkasse-re.de/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://connect.guidecom.de/jobportal/vestrecklinghausen/viewAusschreibungen.html",
+          "linked_from": "https://www.sparkasse-re.de/de/home/ihre-sparkasse/karriere/weiterleitung-guidecom.html?n=true&stref=imagetextbox",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.sparkasse-re.de/de/home/ihre-sparkasse/karriere/berufseinsteiger-und-absolventen.html?lightbox=%2Fde%2Fhome%2Fihre-sparkasse%2Fkarriere%2Fberufseinsteiger-und-absolventen%2Flightboxes%2Fberater-fuer-privatkunden%3Fn%3Dtrue",
+          "linked_from": "https://www.sparkasse-re.de/content/myif/sk-vest-recklinghausen/work/filiale/de/home/ihre-sparkasse/karriere/berufseinsteiger-und-absolventen.html?lightbox=%2Fde%2Fhome%2Fihre-sparkasse%2Fkarriere%2Fberufseinsteiger-und-absolventen%2Flightboxes%2Fberater-fuer-privatkunden%3Fn%3Dtrue",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.sparkasse-re.de/de/home/ihre-sparkasse/karriere/berufseinsteiger-und-absolventen.html?lightbox=%2Fde%2Fhome%2Fihre-sparkasse%2Fkarriere%2Fberufseinsteiger-und-absolventen%2Flightboxes%2Fprivate-banking%3Fn%3Dtrue",
+          "linked_from": "https://www.sparkasse-re.de/content/myif/sk-vest-recklinghausen/work/filiale/de/home/ihre-sparkasse/karriere/berufseinsteiger-und-absolventen.html?lightbox=%2Fde%2Fhome%2Fihre-sparkasse%2Fkarriere%2Fberufseinsteiger-und-absolventen%2Flightboxes%2Fprivate-banking%3Fn%3Dtrue",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.sparkasse-re.de/de/home/ihre-sparkasse/karriere/berufseinsteiger-und-absolventen.html?lightbox=%2Fde%2Fhome%2Fihre-sparkasse%2Fkarriere%2Fberufseinsteiger-und-absolventen%2Flightboxes%2Ffirmenkundengeschaeft%3Fn%3Dtrue",
+          "linked_from": "https://www.sparkasse-re.de/content/myif/sk-vest-recklinghausen/work/filiale/de/home/ihre-sparkasse/karriere/berufseinsteiger-und-absolventen.html?lightbox=%2Fde%2Fhome%2Fihre-sparkasse%2Fkarriere%2Fberufseinsteiger-und-absolventen%2Flightboxes%2Ffirmenkundengeschaeft%3Fn%3Dtrue",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.sparkasse-re.de/de/home/ihre-sparkasse/karriere/berufseinsteiger-und-absolventen.html?lightbox=%2Fde%2Fhome%2Fihre-sparkasse%2Fkarriere%2Fberufseinsteiger-und-absolventen%2Flightboxes%2Fauslandsgeschaeft%3Fn%3Dtrue",
+          "linked_from": "https://www.sparkasse-re.de/content/myif/sk-vest-recklinghausen/work/filiale/de/home/ihre-sparkasse/karriere/berufseinsteiger-und-absolventen.html?lightbox=%2Fde%2Fhome%2Fihre-sparkasse%2Fkarriere%2Fberufseinsteiger-und-absolventen%2Flightboxes%2Fauslandsgeschaeft%3Fn%3Dtrue",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.sparkasse-re.de/de/home/ihre-sparkasse/karriere/berufserfahrene-fuehrungskraefte.html?lightbox=%2Fde%2Fhome%2Fihre-sparkasse%2Fkarriere%2Fberufserfahrene-fuehrungskraefte%2Flightboxes%2Fberater-private-banking%3Fn%3Dtrue",
+          "linked_from": "https://www.sparkasse-re.de/content/myif/sk-vest-recklinghausen/work/filiale/de/home/ihre-sparkasse/karriere/berufserfahrene-fuehrungskraefte.html?lightbox=%2Fde%2Fhome%2Fihre-sparkasse%2Fkarriere%2Fberufserfahrene-fuehrungskraefte%2Flightboxes%2Fberater-private-banking%3Fn%3Dtrue",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.sparkasse-re.de/de/home/ihre-sparkasse/karriere/berufserfahrene-fuehrungskraefte.html?lightbox=%2Fde%2Fhome%2Fihre-sparkasse%2Fkarriere%2Fberufserfahrene-fuehrungskraefte%2Flightboxes%2Fberater-firmenkundengeschaeft%3Fn%3Dtrue",
+          "linked_from": "https://www.sparkasse-re.de/content/myif/sk-vest-recklinghausen/work/filiale/de/home/ihre-sparkasse/karriere/berufserfahrene-fuehrungskraefte.html?lightbox=%2Fde%2Fhome%2Fihre-sparkasse%2Fkarriere%2Fberufserfahrene-fuehrungskraefte%2Flightboxes%2Fberater-firmenkundengeschaeft%3Fn%3Dtrue",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.sparkasse-re.de/de/home/ihre-sparkasse/karriere/berufserfahrene-fuehrungskraefte.html?lightbox=%2Fde%2Fhome%2Fihre-sparkasse%2Fkarriere%2Fberufserfahrene-fuehrungskraefte%2Flightboxes%2Fkreditanalyst%3Fn%3Dtrue",
+          "linked_from": "https://www.sparkasse-re.de/content/myif/sk-vest-recklinghausen/work/filiale/de/home/ihre-sparkasse/karriere/berufserfahrene-fuehrungskraefte.html?lightbox=%2Fde%2Fhome%2Fihre-sparkasse%2Fkarriere%2Fberufserfahrene-fuehrungskraefte%2Flightboxes%2Fkreditanalyst%3Fn%3Dtrue",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.sparkasse-re.de/de/home/ihre-sparkasse/karriere/berufserfahrene-fuehrungskraefte.html?lightbox=%2Fde%2Fhome%2Fihre-sparkasse%2Fkarriere%2Fberufserfahrene-fuehrungskraefte%2Flightboxes%2Fbetreuer-auslandsgeschaeft%3Fn%3Dtrue",
+          "linked_from": "https://www.sparkasse-re.de/content/myif/sk-vest-recklinghausen/work/filiale/de/home/ihre-sparkasse/karriere/berufserfahrene-fuehrungskraefte.html?lightbox=%2Fde%2Fhome%2Fihre-sparkasse%2Fkarriere%2Fberufserfahrene-fuehrungskraefte%2Flightboxes%2Fbetreuer-auslandsgeschaeft%3Fn%3Dtrue",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.sparkasse-re.de/de/home/ihre-sparkasse/karriere/berufserfahrene-fuehrungskraefte.html?lightbox=%2Fde%2Fhome%2Fihre-sparkasse%2Fkarriere%2Fberufserfahrene-fuehrungskraefte%2Flightboxes%2Fgeschaeftsstellenleiter%3Fn%3Dtrue",
+          "linked_from": "https://www.sparkasse-re.de/content/myif/sk-vest-recklinghausen/work/filiale/de/home/ihre-sparkasse/karriere/berufserfahrene-fuehrungskraefte.html?lightbox=%2Fde%2Fhome%2Fihre-sparkasse%2Fkarriere%2Fberufserfahrene-fuehrungskraefte%2Flightboxes%2Fgeschaeftsstellenleiter%3Fn%3Dtrue",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://connect.guidecom.de/jobportal/vestrecklinghausen/viewAusschreibungen.html",
+          "linked_from": "https://www.sparkasse-re.de/de/home/ihre-sparkasse/karriere/weiterleitung-guidecom.html?n=true&stref=opener",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://connect.guidecom.de/jobportal/vestrecklinghausen/viewAusschreibungen.html",
+          "linked_from": "https://www.sparkasse-re.de/de/home/ihre-sparkasse/karriere/weiterleitung-guidecom.html?n=true&stref=primarybutton",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.sparkasse-re.de/de/home/ihre-sparkasse/karriere/berufseinsteiger-und-absolventen.html?lightbox=%2Fde%2Fhome%2Fihre-sparkasse%2Fkarriere%2Fberufseinsteiger-und-absolventen%2Flightboxes%2Fquereinstieg%3Fn%3Dtrue%26stref%3Dimagebox",
+          "linked_from": "https://www.sparkasse-re.de/content/myif/sk-vest-recklinghausen/work/filiale/de/home/ihre-sparkasse/karriere/berufseinsteiger-und-absolventen.html?lightbox=%2Fde%2Fhome%2Fihre-sparkasse%2Fkarriere%2Fberufseinsteiger-und-absolventen%2Flightboxes%2Fquereinstieg%3Fn%3Dtrue%26stref%3Dimagebox",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.sparkasse-re.de/de/home/ihre-sparkasse/karriere/berufseinsteiger-und-absolventen.html?lightbox=%2Fde%2Fhome%2Fihre-sparkasse%2Fkarriere%2Fberufseinsteiger-und-absolventen%2Flightboxes%2Fwerkstudent%3Fn%3Dtrue%26stref%3Diconbox",
+          "linked_from": "https://www.sparkasse-re.de/content/myif/sk-vest-recklinghausen/work/filiale/de/home/ihre-sparkasse/karriere/berufseinsteiger-und-absolventen.html?lightbox=%2Fde%2Fhome%2Fihre-sparkasse%2Fkarriere%2Fberufseinsteiger-und-absolventen%2Flightboxes%2Fwerkstudent%3Fn%3Dtrue%26stref%3Diconbox",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.sparkasse-re.de/de/home/ihre-sparkasse/karriere/berufseinsteiger-und-absolventen.html?lightbox=%2Fde%2Fhome%2Fihre-sparkasse%2Fkarriere%2Fberufseinsteiger-und-absolventen%2Flightboxes%2Fihr-weg-zur-sparkasse%3Fn%3Dtrue%26stref%3Diconbox",
+          "linked_from": "https://www.sparkasse-re.de/content/myif/sk-vest-recklinghausen/work/filiale/de/home/ihre-sparkasse/karriere/berufseinsteiger-und-absolventen.html?lightbox=%2Fde%2Fhome%2Fihre-sparkasse%2Fkarriere%2Fberufseinsteiger-und-absolventen%2Flightboxes%2Fihr-weg-zur-sparkasse%3Fn%3Dtrue%26stref%3Diconbox",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.sparkasse-re.de/de/home/ihre-sparkasse/karriere/berufserfahrene-fuehrungskraefte.html?lightbox=%2Fde%2Fhome%2Fihre-sparkasse%2Fkarriere%2Fberufserfahrene-fuehrungskraefte%2Flightboxes%2Fquereinstieg%3Fn%3Dtrue%26stref%3Dimagebox",
+          "linked_from": "https://www.sparkasse-re.de/content/myif/sk-vest-recklinghausen/work/filiale/de/home/ihre-sparkasse/karriere/berufserfahrene-fuehrungskraefte.html?lightbox=%2Fde%2Fhome%2Fihre-sparkasse%2Fkarriere%2Fberufserfahrene-fuehrungskraefte%2Flightboxes%2Fquereinstieg%3Fn%3Dtrue%26stref%3Dimagebox",
+          "mechanism": "http_redirect"
+        }
+      ]
+    },
+    "Comcross": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "count": 0,
+      "path": "output\\karriere\\Comcross-ebb4ce09\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": false,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 29,
+        "pages_read": 29,
+        "dynamic_or_unparsed_pages": true,
+        "http": {
+          "requests_attempted": 30,
+          "allocated_requests": 782,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.comcross.de/de",
+          "linked_from": null,
+          "mechanism": "configured"
+        }
+      ]
+    },
+    "Kreisverwaltung des Westerwaldkreises": {
+      "status": "partial",
+      "reason": null,
+      "count": 5,
+      "path": "output\\karriere\\Kreisverwaltung-des-Westerwaldkreises-ed6bb608\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": false,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 16,
+        "pages_read": 12,
+        "dynamic_or_unparsed_pages": false,
+        "http": {
+          "requests_attempted": 18,
+          "allocated_requests": 820,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.westerwaldkreis.de/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://www.mein-check-in.de/westerwaldkreis",
+          "linked_from": "https://www.westerwaldkreis.de/",
+          "mechanism": "employer_link"
+        }
+      ]
+    },
+    "Rosenberger": {
+      "status": "partial",
+      "reason": null,
+      "count": 74,
+      "path": "output\\karriere\\Rosenberger-72f8c9db\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": false,
+        "pending_pages": 131,
+        "page_limit_reached": true,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 150,
+        "pages_read": 123,
+        "dynamic_or_unparsed_pages": true,
+        "http": {
+          "requests_attempted": 154,
+          "allocated_requests": 862,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.rosenberger.com/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://rosenberger-hochfrequenztechnik-gmbh---co--kg-hr-rec-8f48ce7cfa.cfapps.eu20.hana.ondemand.com/app/index.html?ReqId=5355",
+          "linked_from": "https://www.rosenberger.com/career/jobs/detail/einrichter-fuer-cnc-drehmaschinen-in-radeberg/",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://webtools.rosenberger.com/jobs/sapsf/job_print.php?jobid=5355",
+          "linked_from": "https://www.rosenberger.com/career/jobs/detail/einrichter-fuer-cnc-drehmaschinen-in-radeberg/",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://www.rosenberger.com/career/sap-job/404-this-job-does-not-exist-anymore/",
+          "linked_from": "https://www.rosenberger.com/career/jobs/detail/",
+          "mechanism": "http_redirect"
+        }
+      ]
+    },
+    "OVB MEDIA": {
+      "status": "partial",
+      "reason": null,
+      "count": 14,
+      "path": "output\\karriere\\OVB-MEDIA-9ed67fc1\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": false,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 26,
+        "pages_read": 19,
+        "dynamic_or_unparsed_pages": false,
+        "http": {
+          "requests_attempted": 83,
+          "allocated_requests": 901,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.ovbmedia.de/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://karriere.ovbmedia.de/",
+          "linked_from": "https://www.ovbmedia.de/",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://karriere.ovbmedia.de/jobs/redakteur-mwd-am-standort-rosenheim-2894910/",
+          "linked_from": "https://karriere.ovbmedia.de/jobs/redakteur-mwd-am-standort-rosenheim-2894910",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://karriere.ovbmedia.de/jobs/sales-manager-mwd-in-m%c3%bchldorf-2876704/",
+          "linked_from": "https://karriere.ovbmedia.de/jobs/sales-manager-mwd-in-m%c3%bchldorf-2876704",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://karriere.ovbmedia.de/jobs/medienberaterwmd-rundfunkmarketing-2807432/",
+          "linked_from": "https://karriere.ovbmedia.de/jobs/medienberaterwmd-rundfunkmarketing-2807432",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://karriere.ovbmedia.de/jobs/grafikdesigner-mediengestalter-mwd-2654898/",
+          "linked_from": "https://karriere.ovbmedia.de/jobs/grafikdesigner-mediengestalter-mwd-2654898",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://karriere.ovbmedia.de/jobs/online-volont%c3%a4r-mwd-f%c3%bcr-den-newsdesk-2529455/",
+          "linked_from": "https://karriere.ovbmedia.de/jobs/online-volont%c3%a4r-mwd-f%c3%bcr-den-newsdesk-2529455",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://karriere.ovbmedia.de/jobs/medienberater-mwd-rundfunkmarketing-im-chiemgau-2369631/",
+          "linked_from": "https://karriere.ovbmedia.de/jobs/medienberater-mwd-rundfunkmarketing-im-chiemgau-2369631",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://karriere.ovbmedia.de/jobs/lokal-reporter-crossmedial-mwd-2299610/",
+          "linked_from": "https://karriere.ovbmedia.de/jobs/lokal-reporter-crossmedial-mwd-2299610",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://karriere.ovbmedia.de/jobs/crossmedialer-volont%c3%a4r-mwd-2197059/",
+          "linked_from": "https://karriere.ovbmedia.de/jobs/crossmedialer-volont%c3%a4r-mwd-2197059",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://karriere.ovbmedia.de/jobs/mitarbeiter-mwd-mechanik-und-lager-2112454/",
+          "linked_from": "https://karriere.ovbmedia.de/jobs/mitarbeiter-mwd-mechanik-und-lager-2112454",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://karriere.ovbmedia.de/jobs/aushilfskraft-lager-mwd-%e2%80%93-flexible-unterst%c3%bctzung-gesucht-1476388/",
+          "linked_from": "https://karriere.ovbmedia.de/jobs/aushilfskraft-lager-mwd-%e2%80%93-flexible-unterst%c3%bctzung-gesucht-1476388",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://karriere.ovbmedia.de/jobs/elektroniker-mwd-auf-minijob-basis-%e2%80%93-unterst%c3%bctzung-im-lagerbereich-gesucht-1408451/",
+          "linked_from": "https://karriere.ovbmedia.de/jobs/elektroniker-mwd-auf-minijob-basis-%e2%80%93-unterst%c3%bctzung-im-lagerbereich-gesucht-1408451",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://karriere.ovbmedia.de/jobs/mitarbeiter-mwd-im-lager-1401664/",
+          "linked_from": "https://karriere.ovbmedia.de/jobs/mitarbeiter-mwd-im-lager-1401664",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://karriere.ovbmedia.de/jobs/praktikant-mwd-online-redaktion-928161/",
+          "linked_from": "https://karriere.ovbmedia.de/jobs/praktikant-mwd-online-redaktion-928161",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://karriere.ovbmedia.de/jobs/praktikant-mwd-in-der-redaktion-928134/",
+          "linked_from": "https://karriere.ovbmedia.de/jobs/praktikant-mwd-in-der-redaktion-928134",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://karriere.ovbmedia.de/",
+          "linked_from": "http://karriere.ovbmedia.de/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://karriere.ovbmedia.de/?filter%5Bdepartment%5D%5B0%5D=M%C3%BChldorfer+Wochenblatt+-+Blickpunkt+Verlags+GmbH+%26+Co.+KG",
+          "linked_from": "https://karriere.ovbmedia.de/?filter%5Bdepartment%5D%5B%5D=M%C3%BChldorfer+Wochenblatt+-+Blickpunkt+Verlags+GmbH+%26+Co.+KG",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://karriere.ovbmedia.de/?filter%5Bdepartment%5D%5B0%5D=OVB+MEDIA+GmbH",
+          "linked_from": "https://karriere.ovbmedia.de/?filter%5Bdepartment%5D%5B%5D=OVB+MEDIA+GmbH",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://karriere.ovbmedia.de/?filter%5Bdepartment%5D%5B0%5D=Marketing+-+OVB+MEDIA+GmbH",
+          "linked_from": "https://karriere.ovbmedia.de/?filter%5Bdepartment%5D%5B%5D=Marketing+-+OVB+MEDIA+GmbH",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://karriere.ovbmedia.de/?filter%5Bdepartment%5D%5B0%5D=Redaktion+-+OVB24+GmbH",
+          "linked_from": "https://karriere.ovbmedia.de/?filter%5Bdepartment%5D%5B%5D=Redaktion+-+OVB24+GmbH",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://karriere.ovbmedia.de/?filter%5Bdepartment%5D%5B0%5D=Verkauf+-+Funkhaus+Rosenheim+GmbH+%26+Co.+KG",
+          "linked_from": "https://karriere.ovbmedia.de/?filter%5Bdepartment%5D%5B%5D=Verkauf+-+Funkhaus+Rosenheim+GmbH+%26+Co.+KG",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://karriere.ovbmedia.de/?filter%5Bdepartment%5D%5B0%5D=Redaktion+-+OVB+GmbH+%26+Co.+KG",
+          "linked_from": "https://karriere.ovbmedia.de/?filter%5Bdepartment%5D%5B%5D=Redaktion+-+OVB+GmbH+%26+Co.+KG",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://karriere.ovbmedia.de/?filter%5Bdepartment%5D%5B0%5D=Lager+-+Prospekt+Express+GmbH",
+          "linked_from": "https://karriere.ovbmedia.de/?filter%5Bdepartment%5D%5B%5D=Lager+-+Prospekt+Express+GmbH",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.ovbmedia.de/karriere",
+          "linked_from": "http://www.ovbmedia.de/karriere",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://karriere.ovbmedia.de/",
+          "linked_from": "https://www.ovbmedia.de/karriere",
+          "mechanism": "http_redirect"
+        }
+      ]
+    },
+    "Sinnwell": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "count": 0,
+      "path": "output\\karriere\\Sinnwell-12299be5\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": false,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 7,
+        "pages_read": 4,
+        "dynamic_or_unparsed_pages": true,
+        "http": {
+          "requests_attempted": 17,
+          "allocated_requests": 950,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.sinnwell.ag/de",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "http://sinnwell.ag/de",
+          "linked_from": "https://www.sinnwell.ag/de",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://sinnwell.ag/de",
+          "linked_from": "http://sinnwell.ag/de",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://sinnwell.ag/de/",
+          "linked_from": "https://sinnwell.ag/de",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://sinnwell.starhunter.software/job-portal/overview",
+          "linked_from": "https://sinnwell.ag/de/stellenengebote",
+          "mechanism": "employer_link"
+        }
+      ]
+    },
+    "Cybertrading GmbH": {
+      "status": "partial",
+      "reason": null,
+      "count": 3,
+      "path": "output\\karriere\\Cybertrading-GmbH-9ea8cb12\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": false,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 14,
+        "pages_read": 14,
+        "dynamic_or_unparsed_pages": true,
+        "http": {
+          "requests_attempted": 17,
+          "allocated_requests": 1008,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://cybertrading.de/de/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://jobs.cybertrading.de/de",
+          "linked_from": "https://cybertrading.de/de/",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://cybertrading.de/de/team/",
+          "linked_from": "https://cybertrading.de/de/jobs/unser-team",
+          "mechanism": "http_redirect"
+        }
+      ]
+    },
+    "Berg-Energie": {
+      "status": "ok",
+      "reason": null,
+      "count": 3,
+      "path": "output\\karriere\\Berg-Energie-5a43e776\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": true,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 6,
+        "pages_read": 6,
+        "dynamic_or_unparsed_pages": false,
+        "http": {
+          "requests_attempted": 10,
+          "allocated_requests": 1074,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.berg-energie.de/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://berg-energie.de/",
+          "linked_from": "https://www.berg-energie.de/",
+          "mechanism": "http_redirect"
+        }
+      ]
+    },
+    "Adlershorst": {
+      "status": "ok",
+      "reason": null,
+      "count": 2,
+      "path": "output\\karriere\\Adlershorst-7e560485\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": true,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 5,
+        "pages_read": 5,
+        "dynamic_or_unparsed_pages": false,
+        "http": {
+          "requests_attempted": 7,
+          "allocated_requests": 1150,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.adlershorst.de/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://adlershorst.factorialhr.de/embed/jobs",
+          "linked_from": "https://www.adlershorst.de/adlershorst/das-ist-adlershorst/arbeiten-bei-adlershorst/",
+          "mechanism": "employer_link"
+        }
+      ]
+    },
+    "Scheidt-Bachmann": {
+      "status": "partial",
+      "reason": null,
+      "count": 8,
+      "path": "output\\karriere\\Scheidt-Bachmann-64c73604\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": false,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 103,
+        "pages_read": 99,
+        "dynamic_or_unparsed_pages": true,
+        "http": {
+          "requests_attempted": 126,
+          "allocated_requests": 1238,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.scheidt-bachmann.de/de/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://scheidtbachmann.concludis.de/prj/shw/c7c3e78e3c9d26cc1158a8735d548eaa_0/10356/Information_Security_Officer_m_w_d.htm?b=0&lang=de_DE",
+          "linked_from": "https://www.scheidt-bachmann.de/de/",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://jobs.scheidt-bachmann.de/bewerber/landingpage.php?prj=75P10356&oid=&qid=0&b=10&ie=1&lang=de_DE",
+          "linked_from": "https://scheidtbachmann.concludis.de/prj/shw/c7c3e78e3c9d26cc1158a8735d548eaa_0/10356/Information_Security_Officer_m_w_d.htm?b=0&lang=de_DE",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://www.scheidt-bachmann.de/de/karriere/working-culture",
+          "linked_from": "https://www.scheidt-bachmann.de/de/karriere",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.scheidt-bachmann.de/karriere",
+          "linked_from": "http://www.scheidt-bachmann.de/karriere",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.scheidt-bachmann.de/en/career",
+          "linked_from": "https://www.scheidt-bachmann.de/karriere",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.scheidt-bachmann.de/en/career/working-culture",
+          "linked_from": "https://www.scheidt-bachmann.de/en/career",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.scheidt-bachmann.de/karriere/arbeiten-bei-scheidt-bachmann/",
+          "linked_from": "http://www.scheidt-bachmann.de/karriere/arbeiten-bei-scheidt-bachmann/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.scheidt-bachmann.de/en/career/employer-scheidt-bachmann/working-at-sb/working-at-scheidt-bachmann",
+          "linked_from": "https://www.scheidt-bachmann.de/karriere/arbeiten-bei-scheidt-bachmann/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://jobs.scheidt-bachmann.de/bewerber/bewerben.php?prj=10356&b=10&oid=&quelle=0&ie=1&gpid=75P10356&lang=de_DE",
+          "linked_from": "https://jobs.scheidt-bachmann.de/bewerber/landingpage.php?prj=75P10356&oid=&qid=0&b=10&ie=1&lang=de_DE",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://scheidt-bachmann.pitchyou.de/go/75P10356?b=10&oid=&quelle=0&ie=1&lang=de_DE",
+          "linked_from": "https://jobs.scheidt-bachmann.de/bewerber/landingpage.php?prj=75P10356&oid=&qid=0&b=10&ie=1&lang=de_DE&bw=P",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://jobs.scheidt-bachmann.de/bewerber/bewerben.php?prj=10267&b=11&oid=&quelle=0&ie=1&gpid=75P10267&lang=de_DE",
+          "linked_from": "https://jobs.scheidt-bachmann.de/bewerber/landingpage.php?prj=75P10267&oid=&qid=0&b=11&ie=1&lang=de_DE",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://scheidt-bachmann.pitchyou.de/go/75P10267?b=11&oid=&quelle=0&ie=1&lang=de_DE",
+          "linked_from": "https://jobs.scheidt-bachmann.de/bewerber/landingpage.php?prj=75P10267&oid=&qid=0&b=11&ie=1&lang=de_DE&bw=P",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://scheidt-bachmann.pitchyou.de/go/75P9360?b=11&oid=1&quelle=7168&ie=1&lang=de_DE",
+          "linked_from": "https://jobs.scheidt-bachmann.de/bewerber/landingpage.php?prj=75P9360&oid=1&qid=7168&b=0&ie=1&bw=P&lang=de_DE",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.scheidt-bachmann.de/de/unternehmen/diversity/womens-network",
+          "linked_from": "https://www.scheidt-bachmann.de/de/karriere/womens-network",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://jobs.scheidt-bachmann.de/bewerber/bewerben.php?prj=10033&b=8&oid=&quelle=0&ie=1&gpid=75P10033&lang=de_DE",
+          "linked_from": "https://jobs.scheidt-bachmann.de/bewerber/landingpage.php?prj=75P10033&oid=&qid=0&b=8&ie=1&lang=de_DE",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://scheidt-bachmann.pitchyou.de/go/75P10033?b=8&oid=&quelle=0&ie=1&lang=de_DE",
+          "linked_from": "https://jobs.scheidt-bachmann.de/bewerber/landingpage.php?prj=75P10033&oid=&qid=0&b=8&ie=1&lang=de_DE&bw=P",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://jobs.scheidt-bachmann.de/bewerber/bewerben.php?prj=9775&b=8&oid=&quelle=0&ie=1&gpid=75P9775&lang=de_DE",
+          "linked_from": "https://jobs.scheidt-bachmann.de/bewerber/landingpage.php?prj=75P9775&oid=&qid=0&b=8&ie=1&lang=de_DE",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://scheidt-bachmann.pitchyou.de/go/75P9775?b=8&oid=&quelle=0&ie=1&lang=de_DE",
+          "linked_from": "https://jobs.scheidt-bachmann.de/bewerber/landingpage.php?prj=75P9775&oid=&qid=0&b=8&ie=1&lang=de_DE&bw=P",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.scheidt-bachmann.de/es/career/working-culture",
+          "linked_from": "https://www.scheidt-bachmann.de/es/career",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.scheidt-bachmann.de/sv/career/working-culture",
+          "linked_from": "https://www.scheidt-bachmann.de/sv/career",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.scheidt-bachmann.de/fi/career/working-culture",
+          "linked_from": "https://www.scheidt-bachmann.de/fi/career",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.scheidt-bachmann.de/en/company/diversity/womens-network",
+          "linked_from": "https://www.scheidt-bachmann.de/en/career/benefits/womens-network",
+          "mechanism": "http_redirect"
+        }
+      ]
+    },
+    "Schoellershammer": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "count": 0,
+      "path": "output\\karriere\\Schoellershammer-c87237d3\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": false,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 2,
+        "pages_read": 2,
+        "dynamic_or_unparsed_pages": true,
+        "http": {
+          "requests_attempted": 3,
+          "allocated_requests": 1331,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.schoellershammer.de/",
+          "linked_from": null,
+          "mechanism": "configured"
+        }
+      ]
+    },
+    "Hasse": {
+      "status": "ok",
+      "reason": null,
+      "count": 7,
+      "path": "output\\karriere\\Hasse-b9232a41\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": true,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 11,
+        "pages_read": 11,
+        "dynamic_or_unparsed_pages": false,
+        "http": {
+          "requests_attempted": 16,
+          "allocated_requests": 1451,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.hasse.info/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://hasse.info/",
+          "linked_from": "https://www.hasse.info/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://job.hasse.info/",
+          "linked_from": "https://hasse.info/",
+          "mechanism": "employer_link"
+        }
+      ]
+    },
+    "tink": {
+      "status": "ok",
+      "reason": null,
+      "count": 10,
+      "path": "output\\karriere\\tink-68efe261\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": true,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 3,
+        "pages_read": 3,
+        "dynamic_or_unparsed_pages": false,
+        "http": {
+          "requests_attempted": 8,
+          "allocated_requests": 1595,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://tink.de/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://www.tink.de:443/",
+          "linked_from": "https://tink.de/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://tink-gmbh.jobs.personio.de/",
+          "linked_from": "https://www.tink.de:443/l/career",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://tink-gmbh.jobs.personio.de/xml",
+          "linked_from": "https://tink-gmbh.jobs.personio.de/",
+          "mechanism": "public_job_feed",
+          "adapter": "personio"
+        }
+      ]
+    },
+    "REISSWOLF Bayern GmbH": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "count": 0,
+      "path": "output\\karriere\\REISSWOLF-Bayern-GmbH-3af42708\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": false,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 18,
+        "pages_read": 17,
+        "dynamic_or_unparsed_pages": false,
+        "http": {
+          "requests_attempted": 20,
+          "allocated_requests": 1771,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.reisswolf.com/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://karriere.reisswolf.com/",
+          "linked_from": "https://www.reisswolf.com/",
+          "mechanism": "employer_link"
+        }
+      ]
+    },
+    "Buss Port Services GmbH": {
+      "status": "partial",
+      "reason": null,
+      "count": 3,
+      "path": "output\\karriere\\Buss-Port-Services-GmbH-fd674510\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": false,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 7,
+        "pages_read": 6,
+        "dynamic_or_unparsed_pages": false,
+        "http": {
+          "requests_attempted": 8,
+          "allocated_requests": 1990,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.buss-ports.de/",
+          "linked_from": null,
+          "mechanism": "configured"
+        }
+      ]
+    },
+    "sea chefs": {
+      "status": "partial",
+      "reason": null,
+      "count": 68,
+      "path": "output\\karriere\\sea-chefs-94a3b5ac\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": false,
+        "pending_pages": 71,
+        "page_limit_reached": true,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 150,
+        "pages_read": 150,
+        "dynamic_or_unparsed_pages": false,
+        "http": {
+          "requests_attempted": 155,
+          "allocated_requests": 2274,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.seachefs.com/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://www.seachefs.com/job/detail/chef-de-rang-w-m-d-luxuskreuzfahrt",
+          "linked_from": "https://seachefs.com/job/detail/chef-de-rang-w-m-d-luxuskreuzfahrt",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.seachefs.com/job/detail/chef-de-rang-w-m-d-luxuskreuzfahrt--bqkk54aq",
+          "linked_from": "https://www.seachefs.com/job/detail/chef-de-rang-w-m-d-luxuskreuzfahrt",
+          "mechanism": "http_redirect"
+        }
+      ]
+    },
+    "FINVIA Family Office GmbH": {
+      "status": "ok",
+      "reason": null,
+      "count": 2,
+      "path": "output\\karriere\\FINVIA-Family-Office-GmbH-8726f618\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": true,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 3,
+        "pages_read": 3,
+        "dynamic_or_unparsed_pages": false,
+        "http": {
+          "requests_attempted": 5,
+          "allocated_requests": 2627,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.finvia.fo/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://finvia.jobs.personio.de/",
+          "linked_from": "https://www.finvia.fo/ueber-finvia/karriere",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://finvia.jobs.personio.de/xml",
+          "linked_from": "https://finvia.jobs.personio.de/",
+          "mechanism": "public_job_feed",
+          "adapter": "personio"
+        }
+      ]
+    },
+    "welovepr": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "count": 0,
+      "path": "output\\karriere\\welovepr-004f42ca\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": false,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 2,
+        "pages_read": 2,
+        "dynamic_or_unparsed_pages": true,
+        "http": {
+          "requests_attempted": 3,
+          "allocated_requests": 3151,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://welovepr.de/",
+          "linked_from": null,
+          "mechanism": "configured"
+        }
+      ]
+    },
+    "constellr": {
+      "status": "ok",
+      "reason": null,
+      "count": 31,
+      "path": "output\\karriere\\constellr-4aa40ef0\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": true,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 34,
+        "pages_read": 34,
+        "dynamic_or_unparsed_pages": false,
+        "http": {
+          "requests_attempted": 39,
+          "allocated_requests": 3938,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://constellr.com/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://www.constellr.com/",
+          "linked_from": "https://constellr.com/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://job-boards.eu.greenhouse.io/constellrgmbh",
+          "linked_from": "https://www.constellr.com/",
+          "mechanism": "employer_link"
+        }
+      ]
+    },
+    "simpleclub": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "count": 0,
+      "path": "output\\karriere\\simpleclub-ad0918ec\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": false,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 3,
+        "pages_read": 3,
+        "dynamic_or_unparsed_pages": true,
+        "http": {
+          "requests_attempted": 6,
+          "allocated_requests": 5238,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://simpleclub.com/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://simpleclub.pinpointhq.com/en/jobs/78056",
+          "linked_from": "https://simpleclub.com/careers",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://simpleclub.pinpointhq.com/",
+          "linked_from": "https://simpleclub.pinpointhq.com/en/jobs/78056",
+          "mechanism": "http_redirect"
+        }
+      ]
+    },
+    "bmedx": {
+      "status": "partial",
+      "reason": "search_incomplete",
+      "count": 0,
+      "path": "output\\karriere\\bmedx-45119e49\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": false,
+        "pending_pages": 0,
+        "page_limit_reached": false,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 10,
+        "pages_read": 10,
+        "dynamic_or_unparsed_pages": true,
+        "http": {
+          "requests_attempted": 13,
+          "allocated_requests": 7855,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://bmedx.com/",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://career.bmedx.com/",
+          "linked_from": "https://bmedx.com/",
+          "mechanism": "employer_link"
+        },
+        {
+          "url": "https://career.bmedx.com/login",
+          "linked_from": "https://career.bmedx.com/",
+          "mechanism": "http_redirect"
+        }
+      ]
+    },
+    "Gerresheimer Bünde GmbH": {
+      "status": "partial",
+      "reason": null,
+      "count": 6,
+      "path": "output\\karriere\\Gerresheimer-B-nde-GmbH-89219cce\\snapshot.json",
+      "coverage": {
+        "scope": "configured_sites_and_linked_career_portals",
+        "complete": false,
+        "pending_pages": 246,
+        "page_limit_reached": true,
+        "job_limit_reached": false,
+        "request_limit_reached": false,
+        "pages_attempted": 150,
+        "pages_read": 150,
+        "dynamic_or_unparsed_pages": false,
+        "http": {
+          "requests_attempted": 153,
+          "allocated_requests": 15697,
+          "cache_hits": 0
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.gerresheimer.com/home",
+          "linked_from": null,
+          "mechanism": "configured"
+        },
+        {
+          "url": "https://www.gerresheimer.com/",
+          "linked_from": "https://www.gerresheimer.com/home",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://www.gerresheimer.com/en",
+          "linked_from": "https://www.gerresheimer.com/",
+          "mechanism": "http_redirect"
+        },
+        {
+          "url": "https://jobs.smartrecruiters.com/Gerresheimer/744000046831650-ausbildung-zum-kunststoff-und-kautschuktechnologen-m-w-d-start-01-09-2025?oga=true",
+          "linked_from": "https://www.gerresheimer.com/en/careers/jobs/job-details/4c66758c-3c37-4943-84f1-4d9686487968?cHash=bf213a220d47fa94f42cf7230ecd48dd",
+          "mechanism": "employer_link"
+        }
+      ]
+    }
+  },
+  "http": {
+    "requests_attempted": 2746,
+    "max_requests": 18290,
+    "cache_hits": 0,
+    "allocation": "remaining_budget_per_remaining_company"
+  }
+}

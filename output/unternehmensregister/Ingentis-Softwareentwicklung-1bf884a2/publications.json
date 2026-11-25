@@ -1,0 +1,241 @@
+{
+  "company": {
+    "key": "Ingentis Softwareentwicklung",
+    "name": "Ingentis Softwareentwicklung GmbH",
+    "location": "Nürnberg",
+    "name_source": "company_name",
+    "urls": [
+      "https://www.ingentis.com/"
+    ],
+    "kununu_url": "https://www.kununu.com/de/ingentis-group",
+    "branches": [
+      "IT & Telekommunikation"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "90475",
+    "street": "Raudtener Straße 7",
+    "region": "Bayern",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:47:25.067553+00:00",
+  "searches": [
+    {
+      "accounting_only": true,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=Ingentis+Softwareentwicklung+GmbH&companyLocation=N%C3%BCrnberg&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ACCOUNTING&drilldownFilter=22&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": false
+    },
+    {
+      "accounting_only": false,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=Ingentis+Softwareentwicklung+GmbH&companyLocation=N%C3%BCrnberg&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ALL_AREAS&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": false
+    }
+  ],
+  "excluded_company_matches": [
+    {
+      "company": "Ingentis Holding GmbH, Nürnberg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-08-13",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=-xwQW9t0K-bs99akj3OSn2TkpTRG8qyrSbqdhBoa4_zMmeZ-HAwkE-hJ19Zog9v9FkVwNf_yS_tVgiWK6rHRKf-D4zCdYpNIiFd7T_NRp8yGqnWHChnHnKbkB_sQD9QBFSC8WK1hyYWj5Jf7PdaRwF36REJsU_uvm1D7x07gkd_Dpop8mJvb6qng-Cr5tWOsCnveNR7-otCV63joZvIC2dXdeIgDh1sZJ5Qn894gnbuaQ671",
+      "metadata": "Ingentis Holding GmbH, Nürnberg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 13.08.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Ingentis Holding GmbH, Nürnberg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-10-31",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=3sjbiB80b7fPYHbga-mz7BflEZV0VHI8bp-MtYQ50j6k_ydNhmC1uJ09ef8gGgnxgJtkFww34nvL-M1RKvmPmc419sqDSyVdOA24J7uC3_SH-EpRPGju52EQk0WiTkluJcLq1Q15mwIVcfJkSAJVHByrXYnAy0rQIVgVQjWb-vNzHMFSBcTfwiq3RCVG4qC4OJbGVQt6HbhOkeCDqPFwYrY_G-tQzxDB8G9gnZYxjBX8CgDx",
+      "metadata": "Ingentis Holding GmbH, Nürnberg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Berichtigung der Veröffentlichung vom 31.03.2025 Datum: 31.10.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Ingentis Holding GmbH, Nürnberg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-10-30",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=1YBHGx5rxX8qMune-OvEBbhPFneCCx5EGSdylu8R-fgoeHSNzZoed2qFym0cLwuHgrhqSmPjJA4QBus6lrLmpoQtJSPGWPXov454io8ilQOTnszpHyjgR4SC2Ci2iVg6badGdpaED2YeBzaBZKpyldGxNTDBs3Z47diVKwLaRRRg8pv-gPjHbQb1GQ2kYfQFejOJUtJjjr5X5NkVfgRDi8jOmuIY06-36sgJfBo55zuHIjBV",
+      "metadata": "Ingentis Holding GmbH, Nürnberg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 30.10.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Ingentis Holding GmbH, Nürnberg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-03-31",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=I2rvGwmFm148vckH9gmL2oqtRCU9TpJKUFcbjVqsgIS67acOMvA_WwTiuH-Keq0CjB7XNNtPWvNFA9qlZ9q62jYRwaabsGEO4T4I0RLxDEfGlFejj1dPjQLeU3IAootQhAsREN9jZ2gIqY4JQakj5lN3cwYrr_Bva3GsLtvQiMhry8TEH13dRCQk_22A6y79zdqnOr2455n3WbgRGzm3RmWBTI8ws48nhYm6foanizIBTRZW",
+      "metadata": "Ingentis Holding GmbH, Nürnberg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Berichtigt am 31.10.2025 Datum: 31.03.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Ingentis TopCo GmbH, Nürnberg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-08-13",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=7CpQD1_2ztyKeurQauiDs91cUIstQecZNpbdJYptPKgmXiaUD3BmIcBTnch5qTCrj6fj4vl5_CdD6iOpYSyYELw5TQ8erZNkgMpkhtd_yNlXOR6QDmsVxq2tUiFmG8kmScj5DseOs-EwDRcCwLb-alWhD6ICOJqYk2UrwqgQfb99n3fispIeqz2UrdrvH67s8Rta6iBl2qa7sOwxL7rVUXL4LxfHpQClwg_Zk3PF9pF-4gr0",
+      "metadata": "Ingentis TopCo GmbH, Nürnberg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 13.08.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Ingentis TopCo GmbH, Nürnberg (vormals: München)",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-01-06",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=SSNageiNZqahNDPPmxGcpKoD9rO1CCt16Bdv9JLAFnHeg0ckLQQW_miq7IKE4IuYNNFfF1ut7RjMhD7wSWvH34AGgNqpcJwQ9DmMUMJiQCy8Ep2ej6CyIdHLF5Bamt9lpY_7ecniYQeDgdkWttWPiP7fhDtmnKOxOKTNMXQ7SuQMEkxwKyzsNKOf_5PAusDqxkbMOFAZvLSD1-Xk1a8V_FOMoypXoC934BRsvNHoIwnqz3RY",
+      "metadata": "Ingentis TopCo GmbH, Nürnberg (vormals: München) Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 06.01.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Ingentis Holding GmbH, Nürnberg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-08-13",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=4trlcijI1uLSsLsrA4Ht0y3t4yeNtE-ioPQDI2S-z0CWUDljDpP6hU7eAZoG4rxSeIrEtjZK9zdZW4l0Ju0tgKKIKXNktizxTXJYmTzogxbwK7SIdoJWLad0ahnu7g5Nr_e1zkQ9jizinqfba1wfovkz8ddpWelhAtBymHVBZBijImNwcz2sZ0KyrWWwCNa5TNlNPPfpZEWdg6pY2mTpq0KepeTTPE2GU2-aQsnYaSRxw_Fa",
+      "metadata": "Ingentis Holding GmbH, Nürnberg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 13.08.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Ingentis Holding GmbH, Nürnberg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-10-31",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=UweehY_KS_HpOrXp430jlBUTwCoJRvY1JwPbdF77qRduMlngMZB-OdVgAC6b_-xogKxZpf6bhOGKiu2GVBzEzQ01wKLwbfMnHGzsV9DEK7Txl-JN0SOfJEDR9B0FdT1Wu1vXePECidxyUdUgG5jeVc8S4_2r74yjvu7sg0IgDk-sfkVd7MKBb3DZi8MVmpGPLoavjK9mR510VJvCO3E6MtU__t1aA_qj_4El6j2ikmMLvDJ2",
+      "metadata": "Ingentis Holding GmbH, Nürnberg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Berichtigung der Veröffentlichung vom 31.03.2025 Datum: 31.10.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Ingentis Holding GmbH, Nürnberg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-10-30",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=oPRn_cc-oJ43a3fLc_7tWBWlJbBxOMWTma_6QQOzOkaeIkGHoaZYgUTs-6Cr8RZroAIkmiTC-9VgY_72DHh0Vr_8bhn_Xos_k6074wK9thAkCBFi2rVPh7GnoJl3FSFusmZb0-DLt1HKvst2V--N_fhqj4xv9iY4iTBpiA5Kt2MQO-D1vJNEC2YmstHgivpG9LzUo5bFnkHYUioCJN7pZprWoDkiFbD5Uox30ENj0QlsLBkH",
+      "metadata": "Ingentis Holding GmbH, Nürnberg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 30.10.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Ingentis Holding GmbH, Nürnberg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-03-31",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=-C3wVBofKoo-db-p8JD9uDBJOToCD7gt-PjrYSSEKQtD0Lgowmze5M7NFSKBqXVXaJhi_Nw7q53p5E86UeKIMLYKMbTu4xo_zg5fw2RHzyabTx-vcBtyw3TVqtNYdPzCWSrPdnThrRyPj1bdrJEagfUYRWuy9hyOEgFgZLbUHjOJ3TyOHLb866PIg7bl4xPFB5iEbVpXOvxC9j-i-t7eIdGERb92PAu2o1P7Bi3ZvzYTn3zf",
+      "metadata": "Ingentis Holding GmbH, Nürnberg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Berichtigt am 31.10.2025 Datum: 31.03.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Ingentis TopCo GmbH, Nürnberg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-08-13",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=61NDLEGuZWiwDhymoziSa-mPM7ptNXV4HQ0D_QHMQEBpBsolokYwmv_wnlyJ_wBsmqn8CkOidkUOMxg9mS0y6TPH1nachFS_PDnhq-cLRrDv9C0YiP0jvWvUqJwjm27htdft6dRdQ-r6fMw9OMCTbCBmcJFnUZvrxB7BnSFfUVp6IWrv1oCTwOhs-JJvBbs_DYl8Mgl_OR99CsGhAHSi2n_4yeN1Ct_zHzzKB5FIJkZ4zp2z",
+      "metadata": "Ingentis TopCo GmbH, Nürnberg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 13.08.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Ingentis TopCo GmbH, Nürnberg",
+      "title": "Registerbekanntmachung nach dem Umwandlungsgesetz",
+      "publication_date": "2026-08-08",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=UiJ8lkuzZj71Hbphi0_0yKQvXYc24W5Vp6JCHArCmZuBT1RzY7vypEB-ealcCl7Wy1JtTFfC263Fn_1i6pV7FYPO1IrVshHxZqrOvEfpRSa9hYcc53cA48n5psEqrRaMePQWweZceq5U8B0jXdkJR6CXKZiUfenMzxEeTAz-29ss0Db0Sb_y0pIPwLgbFX-wfIKS8tQtlEtQirxlgdIeuKKtGeCDDdUpIlFbtLl2DoCgrnbF",
+      "metadata": "Ingentis TopCo GmbH, Nürnberg Registerbekanntmachungen Registerbekanntmachung nach dem Umwandlungsgesetz Datum: 08.08.2026 Sprache: Deutsch",
+      "source_area": "Registerbekanntmachungen",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Ingentis TopCo GmbH, Nürnberg (vormals: München)",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-01-06",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=t5BmY5g6nD_JlImurjBw3Uj5FekzaFDGNJVqKrzTqNt3qX7KovkG2s-c1PjN3-5jsKtRiqH1-L48ObHGvqYWukYM6C2JpnDQg4od1KPJ6zpX2hzH1n_InEn5pBCIIbVMUNHc-zxg_3DhSMdTeQdgNSUOFnpiZgvYa175sip82IkibuY8UK1AphuTlJanuCMO9h34X1oVVuDD-4xfXPn1VLjdWEnZ_j2817Jr_9PtOc9MG1MU",
+      "metadata": "Ingentis TopCo GmbH, Nürnberg (vormals: München) Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 06.01.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    }
+  ],
+  "date_from": "2024-01-01",
+  "date_to": "2026-11-25",
+  "excluded_dates": [],
+  "max_publications": 30,
+  "truncated": false,
+  "coverage": {
+    "search_complete": true,
+    "more_pages": false,
+    "publication_limit_reached": false,
+    "downloads_selected": 4,
+    "downloads_succeeded": 4,
+    "download_limit_reached": true,
+    "downloads_complete": false,
+    "text_complete": true
+  },
+  "publications": [
+    {
+      "company": "INGENTIS Softwareentwicklung GmbH, Nürnberg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-06-24",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=PFoMKj0E4xIbr3hHwjF1zO7sVEji8c5llAIwG_9s-YdmsjCVCyVB4_4CPsODjB3S67pGw2fT6wcOcCllsJMHv_ruKKxOTGjy21hWCc3oa07VyNIqBcKGmGBRVhHfu75Z0REJbonCI2AxnYWPC0S7zG1So2NegCa32jilEg1Ibv5TCYi-30-0uXGq37vRcQr4RkhHzN-woLPfvFzJMwi9gNjCo9xVW6Plv3yGpo_Y_i-GPAIk",
+      "metadata": "INGENTIS Softwareentwicklung GmbH, Nürnberg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 24.06.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 1
+    },
+    {
+      "company": "INGENTIS Softwareentwicklung GmbH, Nürnberg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-11-04",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=OhobKQqsE7Nzd5Z37jDu_Whwn-TMIVbEQ4pS_k-G-GvuaDgeKQEYzWMWKOA1tHTCB2LOswy7-mJ16yfozmqYZ5L8YYSaLxxlmo3aYi0k-SHo3zeSGPjjIFbbWF2dfquLin9Ohxc8-iIo-VfJjF30deJ0_aclaYthVc8khHls0BzaaIfH_ujS-JGOLGY4ZZaMsTKkeRm6WWf0cKRsfsyM5X5B73p5c9edlxAUczVoOh7wBHYC",
+      "metadata": "INGENTIS Softwareentwicklung GmbH, Nürnberg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 04.11.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 2
+    },
+    {
+      "company": "INGENTIS Softwareentwicklung GmbH, Nürnberg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-10-21",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=VW4yVozJT-7Lz1XvSlBNT7ZjvdQB5uqyVDgw2kTR0Pa_zWbvpeEiexV6cowbRC31voxZUpAhKLWQNzk3WWbjG1BS0SsgW3FdNajz10UDhu7lqvd4lopHbnujYAdKrgOnjWXRweJ7VScwEAaaVkPOpFku1JW9s2EElV-Rowf-QjBoNpchslqGrbUXb6sidal_QTG0uo7pZobEMDs3XvmLFcch4tUsvr4g5BRazWyGiPNEveHg",
+      "metadata": "INGENTIS Softwareentwicklung GmbH, Nürnberg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Berichtigung der Veröffentlichung vom 03.04.2025 Datum: 21.10.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 3
+    },
+    {
+      "company": "INGENTIS Softwareentwicklung GmbH, Nürnberg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-04-03",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=nt0eywa4dAzsvha3jXtzLlPrWLb6S1GpZrmwRa1xdB25WW95PrJ4wO7lr7cFC1aivGiowJPQe2-65PpvY2X9D4RI__aTmMaIJ-pAdK75n8x7XzAFOr27gnPRor_USt5OrOD7ZQ8hZqjFyIQrHB1oyiaj33DcYQnkQu0E_fu-ujs9L-gh_w2JXfzShe7QcrYtL5FqRdcmrUpMwGE6nWmlPdoDGkwyF9_D4dl-9H1gi80XUQCM",
+      "metadata": "INGENTIS Softwareentwicklung GmbH, Nürnberg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Berichtigt am 21.10.2025 Datum: 03.04.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 4
+    },
+    {
+      "company": "INGENTIS Softwareentwicklung GmbH, Nürnberg",
+      "title": "Registerbekanntmachung nach dem Umwandlungsgesetz",
+      "publication_date": "2024-05-01",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=ZNsLRRPodYgVYO-z3UTM1B2AcfY84VCH1VSz9pvxDgMkTig1HiqHQE53gd12JYY9dUfbVJgWA4Z_thB6JC2oP2faOiJfHC40GKxpQIVTfH62xDCs1HuhcAuqjeJRTCy2GW5_2odG7ifuA3PncLoEHR_2v6R3qN0q26h-YwDPME0t6Wry-nf7Dd79w_1IeWvc_HDnRjYozcVt-UhMILukrfQOBLgtJJvooikz_S5iA9Y3I_eb",
+      "metadata": "INGENTIS Softwareentwicklung GmbH, Nürnberg Registerbekanntmachungen Registerbekanntmachung nach dem Umwandlungsgesetz Datum: 01.05.2024 Sprache: Deutsch",
+      "source_area": "Registerbekanntmachungen",
+      "category": "bekanntmachungen",
+      "index": 5
+    }
+  ]
+}

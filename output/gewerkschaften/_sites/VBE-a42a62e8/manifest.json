@@ -1,0 +1,288 @@
+{
+  "status": "partial",
+  "provider": "gewerkschaften",
+  "date_from": "2026-05-25",
+  "pdf_download_policy": "company_in_link_metadata_or_filename",
+  "date_to": "2026-11-25",
+  "articles": [],
+  "visited": [
+    "https://www.vbe.de/",
+    "https://www.vbe.de/suche",
+    "https://www.vbe.de/der-vbe",
+    "https://www.vbe.de/der-vbe/bundesverband",
+    "https://www.vbe.de/der-vbe/bundesverband/unser-leitbild",
+    "https://www.vbe.de/der-vbe/bundesverband/50-jahre-vbe",
+    "https://www.vbe.de/der-vbe/kontakt-und-anfahrt",
+    "https://www.vbe.de/positionen",
+    "https://www.vbe.de/positionen/bildungsfinanzierung",
+    "https://www.vbe.de/positionen/bildungsgerechtigkeit",
+    "https://www.vbe.de/positionen/digitalisierung",
+    "https://www.vbe.de/positionen/fruehkindliche-bildung",
+    "https://www.vbe.de/positionen/ganztag",
+    "https://www.vbe.de/positionen/gesundheit-zufriedenheit",
+    "https://www.vbe.de/positionen/gewalt-gegen-lehrkraefte",
+    "https://www.vbe.de/positionen/inklusion",
+    "https://www.vbe.de/positionen/integration",
+    "https://www.vbe.de/positionen/lehrkraeftebildung/-mangel",
+    "https://www.vbe.de/positionen/schulbau",
+    "https://www.vbe.de/themen",
+    "https://www.vbe.de/service/meinungsumfragen",
+    "https://www.vbe.de/service/expertise-lehrkraeftebedarf-angebot-bis-2035",
+    "https://www.vbe.de/service/expertise-lehrkraeftebedarf-angebot-bis-2030",
+    "https://www.vbe.de/service/lehren-aus-zwei-jahren-schule-unter-coronabedingungen",
+    "https://www.vbe.de/service/broschuere-nachwuchsfoerderung-und-paritaet-im-fokus",
+    "https://www.vbe.de/service/broschuere-schule-und-religioes-begruendeter-extremismus",
+    "https://www.vbe.de/service/bildung-und-demokratie-25-empfehlungen",
+    "https://www.vbe.de/service/broschuere-gewalt-gegen-lehrkraefte",
+    "https://www.vbe.de/service/leitlinien-schulbauten",
+    "https://www.vbe.de/vbe-info",
+    "https://www.vbe.de/service/expertise-ese-kinder",
+    "https://www.vbe.de/service/potsdamer-lehrerstudie",
+    "https://www.vbe.de/service/gusy-gutachten",
+    "https://www.vbe.de/blog/rss.xml",
+    "https://www.vbe.de/veranstaltungen-vbe/rss.xml",
+    "https://www.vbe.de/pressedienste/rss.xml",
+    "https://www.vbe.de/presse/pressedienste/pressedienste-2026/lesen-beginnt-beim-vorlesen-und-endet-nicht-beim-buch",
+    "https://www.vbe.de/presse/pressedienste/pressedienste-2026/qualitaetsstandards-sichern-finanzierung-verlaesslich-regeln",
+    "https://www.vbe.de/presse/pressedienste/pressedienste-2026/demokratiebildung-braucht-rueckhalt-fuer-lehrkraefte",
+    "https://www.vbe.de/presse/pressedienste/pressedienste-2026/arbeitsbelastung-sichtbar-machen-und-fuer-echte-entlastung-sorgen",
+    "https://www.vbe.de/presse/pressedienste/pressedienste-2026/kita-fachkraefte-studie-zeigt-was-nur-vergleich-sichtbar-macht",
+    "https://www.vbe.de/presse/pressedienste/pressedienste-2026/buendnis-fordert-aus-dem-papier-in-die-praxis-schulbau-voranbringen",
+    "https://www.vbe.de/presse/pressedienste/pressedienste-2026/buendnis-fordert-licht-an-fuer-sichere-kita-und-schulwege-im-herbst-und-winter",
+    "https://www.vbe.de/presse/pressedienste/pressedienste-2026/vbe-zum-vorlesemonitor-2026-der-trend-stimmt-der-auftrag-bleibt",
+    "https://www.vbe.de/themen/bildungsfinanzierung",
+    "https://www.vbe.de/themen/sonstiges",
+    "https://www.vbe.de/themen/digitalisierung",
+    "https://www.vbe.de/themen/fruehkindliche-bildung",
+    "https://www.vbe.de/themen/ganztag",
+    "https://www.vbe.de/themen/gesundheit-zufriedenheit",
+    "https://www.vbe.de/themen/gewalt-gegen-lehrkraefte"
+  ],
+  "rejected": [
+    {
+      "url": "https://www.vbe.de/",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.vbe.de/suche",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.vbe.de/der-vbe",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.vbe.de/der-vbe/bundesverband",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.vbe.de/der-vbe/bundesverband/unser-leitbild",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.vbe.de/der-vbe/bundesverband/50-jahre-vbe",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.vbe.de/der-vbe/kontakt-und-anfahrt",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.vbe.de/positionen",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.vbe.de/positionen/bildungsfinanzierung",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.vbe.de/positionen/bildungsgerechtigkeit",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.vbe.de/positionen/digitalisierung",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.vbe.de/positionen/fruehkindliche-bildung",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.vbe.de/positionen/ganztag",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.vbe.de/positionen/gesundheit-zufriedenheit",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.vbe.de/positionen/gewalt-gegen-lehrkraefte",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.vbe.de/positionen/inklusion",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.vbe.de/positionen/integration",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.vbe.de/positionen/lehrkraeftebildung/-mangel",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.vbe.de/positionen/schulbau",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.vbe.de/themen",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.vbe.de/service/meinungsumfragen",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.vbe.de/service/expertise-lehrkraeftebedarf-angebot-bis-2035",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.vbe.de/service/expertise-lehrkraeftebedarf-angebot-bis-2030",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.vbe.de/service/lehren-aus-zwei-jahren-schule-unter-coronabedingungen",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.vbe.de/service/broschuere-nachwuchsfoerderung-und-paritaet-im-fokus",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.vbe.de/service/broschuere-schule-und-religioes-begruendeter-extremismus",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.vbe.de/service/bildung-und-demokratie-25-empfehlungen",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.vbe.de/service/broschuere-gewalt-gegen-lehrkraefte",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.vbe.de/service/leitlinien-schulbauten",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.vbe.de/vbe-info",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.vbe.de/service/expertise-ese-kinder",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.vbe.de/service/potsdamer-lehrerstudie",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.vbe.de/service/gusy-gutachten",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.vbe.de/presse/pressedienste/pressedienste-2026/lesen-beginnt-beim-vorlesen-und-endet-nicht-beim-buch",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.vbe.de/presse/pressedienste/pressedienste-2026/qualitaetsstandards-sichern-finanzierung-verlaesslich-regeln",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.vbe.de/presse/pressedienste/pressedienste-2026/demokratiebildung-braucht-rueckhalt-fuer-lehrkraefte",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.vbe.de/presse/pressedienste/pressedienste-2026/arbeitsbelastung-sichtbar-machen-und-fuer-echte-entlastung-sorgen",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.vbe.de/presse/pressedienste/pressedienste-2026/kita-fachkraefte-studie-zeigt-was-nur-vergleich-sichtbar-macht",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.vbe.de/presse/pressedienste/pressedienste-2026/buendnis-fordert-aus-dem-papier-in-die-praxis-schulbau-voranbringen",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.vbe.de/presse/pressedienste/pressedienste-2026/buendnis-fordert-licht-an-fuer-sichere-kita-und-schulwege-im-herbst-und-winter",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.vbe.de/presse/pressedienste/pressedienste-2026/vbe-zum-vorlesemonitor-2026-der-trend-stimmt-der-auftrag-bleibt",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.vbe.de/themen/bildungsfinanzierung",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.vbe.de/themen/sonstiges",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.vbe.de/themen/digitalisierung",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.vbe.de/themen/fruehkindliche-bildung",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.vbe.de/themen/ganztag",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.vbe.de/themen/gesundheit-zufriedenheit",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.vbe.de/themen/gewalt-gegen-lehrkraefte",
+      "reason": "no_company_mention"
+    }
+  ],
+  "errors": [],
+  "truncated": true,
+  "searches": [],
+  "company_keys": [
+    "simpleclub"
+  ],
+  "search_mode": "link_discovery",
+  "articles_examined": 15,
+  "page_coverage": {
+    "search_pages": 1,
+    "content_pages": 50,
+    "search_page_limit": 15,
+    "content_page_limit": 50,
+    "queued_remaining": 215,
+    "queue_limit_reached": false
+  },
+  "documents": [],
+  "requests_attempted": 52,
+  "gewerkschaft": {
+    "name": "VBE",
+    "branches": [
+      "Bildung & Wissenschaft"
+    ],
+    "urls": [
+      "https://www.vbe.de/"
+    ],
+    "news_urls": [],
+    "url_prefixes": [],
+    "query_values": {},
+    "source_note": "",
+    "source_name": "",
+    "site_search": true
+  }
+}

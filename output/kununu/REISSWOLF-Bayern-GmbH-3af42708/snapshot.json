@@ -1,0 +1,464 @@
+{
+  "provider": "kununu",
+  "backend": "browser",
+  "status": "partial",
+  "query": "REISSWOLF Bayern GmbH",
+  "profile": {
+    "url": "https://www.kununu.com/de/reisswolf",
+    "name": "REISSWOLF",
+    "overall_score": 3.7,
+    "review_count": 83,
+    "recommendation_percent": 67,
+    "recommendation_period": "last_2_years",
+    "observed_at": "2026-11-25T17:18:49.531721+00:00"
+  },
+  "reviews": [
+    {
+      "id": "985af7ac-acd0-4777-a9de-b61edf7b10af",
+      "url": "https://www.kununu.com/de/reisswolf/bewertung/985af7ac-acd0-4777-a9de-b61edf7b10af",
+      "title": "aussen hui innen pfiu",
+      "content": "nichts mehr\n\nso ziemlich alles, da die kleinen wie immer klein gehalten werden, ohne denen geht nichts.\nweigert sich einen Betriebsrat zu gründen\n\nNeue Vorgesetzte in der Produktion\n\nunterste schublade\n\nnach aussen gut, die die wirklich arbeiten bekommen nichts\n\nman kann spontan mal frei nehmen, aber schlechte Arbeitszeiten\n\nnur wenn du dich mit vorgesetzten verstehst\n\nMindestlohn, stellen sich an mit Sonderzahlungen\n\nnach aussen hin wirkt sie sauber. Trennt keinen Müll zb. Bananenschale im Plastik\n\ndas ist das einzige was einigermaßen zutrifft\n\nganz ok\n\nnicht professionell und überheblich\n\nalte Geräte, verlangen aber hohe Qualität\n\nnicht vorhanden\n\nFrauen stehen ganz unten und werden für viel Arbeit am wenigsten bezahlt\n\naber mit stress verbunden",
+      "rating": 1.4,
+      "sections": {
+        "positive": "nichts mehr",
+        "negative": "so ziemlich alles, da die kleinen wie immer klein gehalten werden, ohne denen geht nichts.\nweigert sich einen Betriebsrat zu gründen",
+        "suggestion": "Neue Vorgesetzte in der Produktion"
+      },
+      "factor_comments": {
+        "atmosphere": "unterste schublade",
+        "image": "nach aussen gut, die die wirklich arbeiten bekommen nichts",
+        "workLife": "man kann spontan mal frei nehmen, aber schlechte Arbeitszeiten",
+        "career": "nur wenn du dich mit vorgesetzten verstehst",
+        "salary": "Mindestlohn, stellen sich an mit Sonderzahlungen",
+        "environment": "nach aussen hin wirkt sie sauber. Trennt keinen Müll zb. Bananenschale im Plastik",
+        "teamwork": "das ist das einzige was einigermaßen zutrifft",
+        "oldColleagues": "ganz ok",
+        "leadership": "nicht professionell und überheblich",
+        "workConditions": "alte Geräte, verlangen aber hohe Qualität",
+        "communication": "nicht vorhanden",
+        "equality": "Frauen stehen ganz unten und werden für viel Arbeit am wenigsten bezahlt",
+        "tasks": "aber mit stress verbunden"
+      },
+      "factor_scores": {
+        "atmosphere": 1.0,
+        "workLife": 2.0,
+        "communication": 1.0,
+        "workConditions": 1.0,
+        "leadership": 1.0,
+        "teamwork": 3.0,
+        "oldColleagues": 2.0,
+        "equality": 1.0,
+        "career": 1.0,
+        "salary": 1.0,
+        "image": 1.0,
+        "environment": 1.0,
+        "tasks": 2.0
+      },
+      "published_at": "2026-06-30T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "54d8e387-26bb-437b-a73c-1d73ad740fa0",
+      "url": "https://www.kununu.com/de/reisswolf/bewertung/54d8e387-26bb-437b-a73c-1d73ad740fa0",
+      "title": "Viel versprochen nicht so viel eingehalten",
+      "content": "Austausch der leitenden Angestellten. CEO und Dispo Leitung\n\nImmer sehr angespannt\n\nRelativ geregelte Arbeitszeiten\n\nKein Sozialbewusstsein. Es werden die eigenen Regeln beim umweltschonenden Arbeiten gebrochen\n\nnur die einzelnen Abteilungen nicht das ganze\n\nkeine Probleme\n\nNur negative Kritik nie positiv\n\nEnges und sehr kleines Büro\n\nNicht vorhanden\n\nSehr männerlastig\n\nNur Ablage und einfachste Aufgaben",
+      "rating": 1.9,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": "Austausch der leitenden Angestellten. CEO und Dispo Leitung"
+      },
+      "factor_comments": {
+        "atmosphere": "Immer sehr angespannt",
+        "workLife": "Relativ geregelte Arbeitszeiten",
+        "environment": "Kein Sozialbewusstsein. Es werden die eigenen Regeln beim umweltschonenden Arbeiten gebrochen",
+        "teamwork": "nur die einzelnen Abteilungen nicht das ganze",
+        "oldColleagues": "keine Probleme",
+        "leadership": "Nur negative Kritik nie positiv",
+        "workConditions": "Enges und sehr kleines Büro",
+        "communication": "Nicht vorhanden",
+        "equality": "Sehr männerlastig",
+        "tasks": "Nur Ablage und einfachste Aufgaben"
+      },
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 3.0,
+        "communication": 1.0,
+        "workConditions": 1.0,
+        "leadership": 1.0,
+        "teamwork": 2.0,
+        "oldColleagues": 3.0,
+        "equality": 3.0,
+        "career": 1.0,
+        "salary": 2.0,
+        "image": 3.0,
+        "environment": 1.0,
+        "tasks": 1.0
+      },
+      "published_at": "2025-11-05T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "73d6e696-aba8-4375-823c-7effc2797bbb",
+      "url": "https://www.kununu.com/de/reisswolf/bewertung/73d6e696-aba8-4375-823c-7effc2797bbb",
+      "title": "Sehr bedenkliche Veränderungen - war mal ein guter Arbeitgeber",
+      "content": "Viele haben ihren Hund mit dabei\nImage und Blick auf Nachhaltigkeit (E-Mobilität)\n\nStändig Änderungen\nDer eine weiß nicht was der andere tut\nEs wird viel ohne Gegenleistung abverlangt\nImmer mehr Benefits wie Weihnachtsfeier werden gestrichen und man will jetzt andere Events machen wo der Mitarbeiter selber zahlen darf\nHomeoffice wird weniger und Kontrolle\nDann braucht man sich auch nicht wundern über so eine geringe Teilnahme und viele Kündigungen\n\nGute Mitarbeiter anerkennen und wertschätzen\n\nViele Überstunden wenig Anerkennung\n\nLeider wurde die interne Academy geschlossen\n\nBranchenüblich nichts besonderes\n\nAlte Möbel und Hardware\n\nSocial Intranet wurde abgeschafft. Man erfährt vieles nur über Flurfunk.",
+      "rating": 2.8,
+      "sections": {
+        "positive": "Viele haben ihren Hund mit dabei\nImage und Blick auf Nachhaltigkeit (E-Mobilität)",
+        "negative": "Ständig Änderungen\nDer eine weiß nicht was der andere tut\nEs wird viel ohne Gegenleistung abverlangt\nImmer mehr Benefits wie Weihnachtsfeier werden gestrichen und man will jetzt andere Events machen wo der Mitarbeiter selber zahlen darf\nHomeoffice wird weniger und Kontrolle\nDann braucht man sich auch nicht wundern über so eine geringe Teilnahme und viele Kündigungen",
+        "suggestion": "Gute Mitarbeiter anerkennen und wertschätzen"
+      },
+      "factor_comments": {
+        "workLife": "Viele Überstunden wenig Anerkennung",
+        "career": "Leider wurde die interne Academy geschlossen",
+        "salary": "Branchenüblich nichts besonderes",
+        "workConditions": "Alte Möbel und Hardware",
+        "communication": "Social Intranet wurde abgeschafft. Man erfährt vieles nur über Flurfunk."
+      },
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 2.0,
+        "communication": 2.0,
+        "workConditions": 2.0,
+        "leadership": 3.0,
+        "teamwork": 4.0,
+        "oldColleagues": 3.0,
+        "equality": 3.0,
+        "career": 1.0,
+        "salary": 2.0,
+        "image": 5.0,
+        "environment": 4.0,
+        "tasks": 3.0
+      },
+      "published_at": "2025-03-07T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "6b6a6fad-32c8-4f14-ad3f-20fde9cedbce",
+      "url": "https://www.kununu.com/de/reisswolf/bewertung/6b6a6fad-32c8-4f14-ad3f-20fde9cedbce",
+      "title": "Ein faires und modernes, sich im Wandel befindliches Unternehmen",
+      "content": "Nachhaltigkeitsbewusstsein / Fairer Umgang / Gleichberechtigung\n\nintern noch besser kommunizieren\n\nangenehm und kollegial\n\nflexibel\n\nhier wird seit einigen Jahren viel getan\n\npasst!\n\noffen und kollegial\n\ninterne Kommunikation könnte verbessert werden",
+      "rating": 4.3,
+      "sections": {
+        "positive": "Nachhaltigkeitsbewusstsein / Fairer Umgang / Gleichberechtigung",
+        "negative": null,
+        "suggestion": "intern noch besser kommunizieren"
+      },
+      "factor_comments": {
+        "atmosphere": "angenehm und kollegial",
+        "workLife": "flexibel",
+        "environment": "hier wird seit einigen Jahren viel getan",
+        "teamwork": "passt!",
+        "leadership": "offen und kollegial",
+        "communication": "interne Kommunikation könnte verbessert werden"
+      },
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 4.0,
+        "communication": 3.0,
+        "workConditions": 4.0,
+        "leadership": 4.0,
+        "teamwork": 4.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 4.0,
+        "salary": 4.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-03-04T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "6ea0cdfe-4428-4239-8894-8645631ce9c2",
+      "url": "https://www.kununu.com/de/reisswolf/bewertung/6ea0cdfe-4428-4239-8894-8645631ce9c2",
+      "title": "Ein Unternehmen mit angenehmen Betriebsklima und nette Kollegen das noch Luft nach oben hat",
+      "content": "Ergonomische Tische / Stühle sollten in einigen Bereichen eingeführt werden.\nArbeitsmittel sollten regelmäßig erneuert werden.\nWeniger Veränderungen an den Benefits, damit die Mitarbeiter damit besser planen können.\n\nAngenehmes Betriebsklima, auch außerhalb der eigenen Abteilung. \"Jeder kennt jeden\"-Mentalität. Leider ist es durch viele Veränderungen in den letzten Jahren sehr unruhig geworden und das merkt man an der Stimmung.\n\nDie Firma hat im Raum Hamburg einen guten Ruf und ist den meisten Menschen bekannt.\n\nPositiv: Urlaub kann, in Absprache, jederzeit genommen werden. Kernarbeitszeiten und Gleitzeit sorgen für flexible Arbeitszeiten.\nNegativ: Terminkalender sind bei allen Kollegen sehr voll, dadurch ist die private Planung manchmal trotz Gleitzeit schwierig. Leider übergreifend nur 28 Tage Urlaub.\n\nAufstiegsmöglichkeiten sind in den meisten Bereichen gegeben und werden auch gerne mal neu geschaffen. Für Weiterbildung wird mit internen wie auch externen Schulungsangeboten gesorgt.\n\nGehalt liegt in einigen Abteilungen leider unter dem Branchendurchschnitt.\nAn den Benefits wird häufig viel verändert und Gehaltserhöhungen muss man hinterherlaufen.\n\nREISSWOLF achtet stark darauf die eigene Nachhaltigkeit kontinuierlich zu verbessern.\n\nDer Zusammenhalt zwischen den Kollegen macht am meisten Spaß!\n\nFehler werden häufig persönlich genommen und es wird mit dem Finger auf einen gezeigt. Das betrifft aber zum Glück nicht alle Führungsebenen.\n\nNeue, moderne Büroräume mit Klimaanlage.\nDie Möbel sind leider veraltet und Tische / Stühle überhaupt nicht ergonomisch. Hier hat sich leider in der letzten Jahren garnichts getan.\nNeue Arbeitsgeräte, wie Notebooks, bekommt man nur wenn das alte Gerät kaputt ist. Manche ältere Kollegen arbeiten dadurch mit 10 Jahre alten Notebooks und Kollegen die neu anfangen bekommen teilweise das neuste Gerät.\n\nRegelmäßige Meetings in den Abteilungen, wie auch Übergreifend, informieren einen über den aktuellen Stand.\nPortale wie ein Intranet wurden wieder abgeschafft und es werden immer wieder neue Kommunikationswege aufgebaut - konstants gibt es leider wenig.\n\nImmer wieder neue Projekte, es wird nie langweilig!",
+      "rating": 3.4,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": "Ergonomische Tische / Stühle sollten in einigen Bereichen eingeführt werden.\nArbeitsmittel sollten regelmäßig erneuert werden.\nWeniger Veränderungen an den Benefits, damit die Mitarbeiter damit besser planen können."
+      },
+      "factor_comments": {
+        "atmosphere": "Angenehmes Betriebsklima, auch außerhalb der eigenen Abteilung. \"Jeder kennt jeden\"-Mentalität. Leider ist es durch viele Veränderungen in den letzten Jahren sehr unruhig geworden und das merkt man an der Stimmung.",
+        "image": "Die Firma hat im Raum Hamburg einen guten Ruf und ist den meisten Menschen bekannt.",
+        "workLife": "Positiv: Urlaub kann, in Absprache, jederzeit genommen werden. Kernarbeitszeiten und Gleitzeit sorgen für flexible Arbeitszeiten.\nNegativ: Terminkalender sind bei allen Kollegen sehr voll, dadurch ist die private Planung manchmal trotz Gleitzeit schwierig. Leider übergreifend nur 28 Tage Urlaub.",
+        "career": "Aufstiegsmöglichkeiten sind in den meisten Bereichen gegeben und werden auch gerne mal neu geschaffen. Für Weiterbildung wird mit internen wie auch externen Schulungsangeboten gesorgt.",
+        "salary": "Gehalt liegt in einigen Abteilungen leider unter dem Branchendurchschnitt.\nAn den Benefits wird häufig viel verändert und Gehaltserhöhungen muss man hinterherlaufen.",
+        "environment": "REISSWOLF achtet stark darauf die eigene Nachhaltigkeit kontinuierlich zu verbessern.",
+        "teamwork": "Der Zusammenhalt zwischen den Kollegen macht am meisten Spaß!",
+        "leadership": "Fehler werden häufig persönlich genommen und es wird mit dem Finger auf einen gezeigt. Das betrifft aber zum Glück nicht alle Führungsebenen.",
+        "workConditions": "Neue, moderne Büroräume mit Klimaanlage.\nDie Möbel sind leider veraltet und Tische / Stühle überhaupt nicht ergonomisch. Hier hat sich leider in der letzten Jahren garnichts getan.\nNeue Arbeitsgeräte, wie Notebooks, bekommt man nur wenn das alte Gerät kaputt ist. Manche ältere Kollegen arbeiten dadurch mit 10 Jahre alten Notebooks und Kollegen die neu anfangen bekommen teilweise das neuste Gerät.",
+        "communication": "Regelmäßige Meetings in den Abteilungen, wie auch Übergreifend, informieren einen über den aktuellen Stand.\nPortale wie ein Intranet wurden wieder abgeschafft und es werden immer wieder neue Kommunikationswege aufgebaut - konstants gibt es leider wenig.",
+        "tasks": "Immer wieder neue Projekte, es wird nie langweilig!"
+      },
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 2.0,
+        "communication": 3.0,
+        "workConditions": 2.0,
+        "leadership": 2.0,
+        "teamwork": 5.0,
+        "oldColleagues": 4.0,
+        "equality": 4.0,
+        "career": 4.0,
+        "salary": 2.0,
+        "image": 4.0,
+        "environment": 5.0,
+        "tasks": 4.0
+      },
+      "published_at": "2025-02-18T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "ecda1b0c-0232-475d-a8fa-0860b92cac20",
+      "url": "https://www.kununu.com/de/reisswolf/bewertung/ecda1b0c-0232-475d-a8fa-0860b92cac20",
+      "title": "Wenig zukunftsorientiert.",
+      "content": "Veränderungswille!\n\nIn meinem Bereich eher entspannt, aber dafür ziemlich chaotisch. In anderen Abteilungen viel Druck durch die vielen Hierarchieebenen.\n\nNoch vorhanden, aber meiner Einschätzung nach stark nachlassend.\n\nNur 28 Urlaubstage, dafür stets Zeitausgleich.\n\nMan versucht.\n\nIch fühle mich unterbezahlt. Benefits stark ausbaufähig.\n\nDas ist stark abhängig von den jeweiligen Personen. Es gibt schon viel Flurfunk, aber grundsätzlich schon nette Leute da.\n\nIch finde es ist schon deutlicher Fokus auf Fehler, Problemchen werden groß gemacht. Leider Fokus auf Beibehaltung des aktuellen\nZustand. Teilweise bestimmend, wenig Wirkungsbereich.\n\nInformationsfluss im Unternehmen ist stark verbesserungswürdig.",
+      "rating": 2.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": "Veränderungswille!"
+      },
+      "factor_comments": {
+        "atmosphere": "In meinem Bereich eher entspannt, aber dafür ziemlich chaotisch. In anderen Abteilungen viel Druck durch die vielen Hierarchieebenen.",
+        "image": "Noch vorhanden, aber meiner Einschätzung nach stark nachlassend.",
+        "workLife": "Nur 28 Urlaubstage, dafür stets Zeitausgleich.",
+        "career": "Man versucht.",
+        "salary": "Ich fühle mich unterbezahlt. Benefits stark ausbaufähig.",
+        "teamwork": "Das ist stark abhängig von den jeweiligen Personen. Es gibt schon viel Flurfunk, aber grundsätzlich schon nette Leute da.",
+        "leadership": "Ich finde es ist schon deutlicher Fokus auf Fehler, Problemchen werden groß gemacht. Leider Fokus auf Beibehaltung des aktuellen\nZustand. Teilweise bestimmend, wenig Wirkungsbereich.",
+        "communication": "Informationsfluss im Unternehmen ist stark verbesserungswürdig."
+      },
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 3.0,
+        "communication": 2.0,
+        "workConditions": 3.0,
+        "leadership": 2.0,
+        "teamwork": 3.0,
+        "oldColleagues": 4.0,
+        "equality": 3.0,
+        "career": 3.0,
+        "salary": 3.0,
+        "image": 2.0,
+        "environment": 3.0,
+        "tasks": 3.0
+      },
+      "published_at": "2025-02-06T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "ba69a252-de67-436a-b56b-2524b6756c4b",
+      "url": "https://www.kununu.com/de/reisswolf/bewertung/ba69a252-de67-436a-b56b-2524b6756c4b",
+      "title": "Top Arbeitgeber!",
+      "content": "Jeder Mitarbeiter darf seinen Hund mitbringen.\n\nDie Kollegen sind wirklich sehr nett und jeder hilft jedem\n\nEinfach REISSWOLF :-)\n\nSpontan Urlaub oder Überstunden können jederzeit genommen werden.\nAuch ein Schichtwechsel wenn man wichtige Termine hat wird von der Teamleitung immer versucht möglich zu machen\n\nOffene stellen werden priorisiert intern ausgeschrieben. Hier sind aus der Produktion schon einige Mitarbeiter aufgestiegen. Es liegt halt an jedem selbst!\n\nFür die Art von Arbeit ist das Gehalt angemessen. Hier wird durch leistungsbezogen Bonuszahlungen und Benefits versucht ein Mehrwert für die Mitarbeiter zu erzielen.\n\nMann könnte für das wickeln der Paletten weniger Folie nutzen.\n\nWie bereits unter dem Punkt \"Arbeitsatmosphäre\" beschrieben, ist der Zusammenhalt sehr gut. Nicht selbstverständlich bei so einem großen Team\n\nEinfach nur TOP! Hatte noch nie solche Vorgesetzte! Kommunikation immer auf Augenhöhe! Nicht selbstverständlich!\n\nEs wird immer darauf geachtet, dass mit den modernsten Geräten gearbeitet wird. Darüber hinaus ist man sehr daran interesseiert, dass die Arbeitsplätze ergonomisch sind.\n\nWelche Firma kann schon behaupten, dass die Kommunikation einwandfrei ist ;-) Muss aber sagen, dass ich bei meinen vorherigen Arbeitgebern nicht so eine gute Kommunikation erlebt habe.\n\nIm Bereich der Produktion kann die Arbeit auch mal sehr eintönig sein.",
+      "rating": 4.6,
+      "sections": {
+        "positive": "Jeder Mitarbeiter darf seinen Hund mitbringen.",
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Die Kollegen sind wirklich sehr nett und jeder hilft jedem",
+        "image": "Einfach REISSWOLF :-)",
+        "workLife": "Spontan Urlaub oder Überstunden können jederzeit genommen werden.\nAuch ein Schichtwechsel wenn man wichtige Termine hat wird von der Teamleitung immer versucht möglich zu machen",
+        "career": "Offene stellen werden priorisiert intern ausgeschrieben. Hier sind aus der Produktion schon einige Mitarbeiter aufgestiegen. Es liegt halt an jedem selbst!",
+        "salary": "Für die Art von Arbeit ist das Gehalt angemessen. Hier wird durch leistungsbezogen Bonuszahlungen und Benefits versucht ein Mehrwert für die Mitarbeiter zu erzielen.",
+        "environment": "Mann könnte für das wickeln der Paletten weniger Folie nutzen.",
+        "teamwork": "Wie bereits unter dem Punkt \"Arbeitsatmosphäre\" beschrieben, ist der Zusammenhalt sehr gut. Nicht selbstverständlich bei so einem großen Team",
+        "leadership": "Einfach nur TOP! Hatte noch nie solche Vorgesetzte! Kommunikation immer auf Augenhöhe! Nicht selbstverständlich!",
+        "workConditions": "Es wird immer darauf geachtet, dass mit den modernsten Geräten gearbeitet wird. Darüber hinaus ist man sehr daran interesseiert, dass die Arbeitsplätze ergonomisch sind.",
+        "communication": "Welche Firma kann schon behaupten, dass die Kommunikation einwandfrei ist ;-) Muss aber sagen, dass ich bei meinen vorherigen Arbeitgebern nicht so eine gute Kommunikation erlebt habe.",
+        "tasks": "Im Bereich der Produktion kann die Arbeit auch mal sehr eintönig sein."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 4.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 4.0,
+        "image": 5.0,
+        "environment": 4.0,
+        "tasks": 3.0
+      },
+      "published_at": "2025-01-16T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    }
+  ],
+  "review_limit": 15,
+  "review_period": {
+    "since": "2024-11-25T00:00:00+00:00",
+    "until": "2026-11-25T17:18:47.266126+00:00",
+    "date_field": "published_at",
+    "missing_dates": "excluded"
+  },
+  "factor_scores_aggregated": {
+    "atmosphere": {
+      "mean": 3.14,
+      "count": 7
+    },
+    "workLife": {
+      "mean": 3.0,
+      "count": 7
+    },
+    "communication": {
+      "mean": 2.29,
+      "count": 7
+    },
+    "workConditions": {
+      "mean": 2.57,
+      "count": 7
+    },
+    "leadership": {
+      "mean": 2.57,
+      "count": 7
+    },
+    "teamwork": {
+      "mean": 3.71,
+      "count": 7
+    },
+    "oldColleagues": {
+      "mean": 3.71,
+      "count": 7
+    },
+    "equality": {
+      "mean": 3.43,
+      "count": 7
+    },
+    "career": {
+      "mean": 2.71,
+      "count": 7
+    },
+    "salary": {
+      "mean": 2.57,
+      "count": 7
+    },
+    "image": {
+      "mean": 3.57,
+      "count": 7
+    },
+    "environment": {
+      "mean": 3.29,
+      "count": 7
+    },
+    "tasks": {
+      "mean": 3.0,
+      "count": 7
+    }
+  },
+  "coverage": "bounded_employee_review_sample_last_2_years_not_all_reviews",
+  "diagnostics": {
+    "pages": [
+      {
+        "page": "reviews",
+        "page_number": 1,
+        "load_more_clicks": 0,
+        "requested_url": "https://www.kununu.com/de/reisswolf/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\REISSWOLF-Bayern-GmbH-3af42708\\browser\\reviews.html",
+        "browser_step": 143,
+        "final_url": "https://www.kununu.com/de/reisswolf/kommentare",
+        "observed_at": "2026-11-25T17:18:48.900964+00:00",
+        "http_status": 200,
+        "factor_cards_expanded": 4,
+        "reviews_collected": 7
+      },
+      {
+        "page": "reviews",
+        "page_number": 2,
+        "load_more_clicks": 1,
+        "requested_url": "https://www.kununu.com/de/reisswolf/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\REISSWOLF-Bayern-GmbH-3af42708\\browser\\reviews-2.html",
+        "browser_step": 144,
+        "final_url": "https://www.kununu.com/de/reisswolf/kommentare",
+        "observed_at": "2026-11-25T17:18:50.823911+00:00",
+        "actions_complete": true,
+        "factor_cards_expanded": 3,
+        "reviews_collected": 7
+      },
+      {
+        "page": "reviews",
+        "page_number": 3,
+        "load_more_clicks": 2,
+        "requested_url": "https://www.kununu.com/de/reisswolf/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\REISSWOLF-Bayern-GmbH-3af42708\\browser\\reviews-3.html",
+        "browser_step": 145,
+        "final_url": "https://www.kununu.com/de/reisswolf/kommentare",
+        "observed_at": "2026-11-25T17:18:52.683052+00:00",
+        "actions_complete": true,
+        "reviews_collected": 7
+      },
+      {
+        "page": "reviews",
+        "page_number": 4,
+        "load_more_clicks": 3,
+        "requested_url": "https://www.kununu.com/de/reisswolf/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\REISSWOLF-Bayern-GmbH-3af42708\\browser\\reviews-4.html",
+        "browser_step": 146,
+        "final_url": "https://www.kununu.com/de/reisswolf/kommentare",
+        "observed_at": "2026-11-25T17:18:54.941030+00:00",
+        "actions_complete": true,
+        "reviews_collected": 7
+      },
+      {
+        "page": "reviews",
+        "page_number": 5,
+        "load_more_clicks": 4,
+        "requested_url": "https://www.kununu.com/de/reisswolf/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\REISSWOLF-Bayern-GmbH-3af42708\\browser\\reviews-5.html",
+        "browser_step": 147,
+        "final_url": "https://www.kununu.com/de/reisswolf/kommentare",
+        "observed_at": "2026-11-25T17:18:57.553816+00:00",
+        "actions_complete": true,
+        "reviews_collected": 7,
+        "status": "error",
+        "reason": "review_page_limit_reached",
+        "error": "Maximal fünf Bewertungsabrufe je Firma erreicht; Stichprobe unvollständig."
+      }
+    ]
+  },
+  "source_url": "https://www.kununu.com/de/reisswolf",
+  "profile_source": "https://www.kununu.com/de/reisswolf/kommentare",
+  "review_stop_reason": "review_page_limit_reached",
+  "reason": "review_page_limit_reached",
+  "error": "reviews: Maximal fünf Bewertungsabrufe je Firma erreicht; Stichprobe unvollständig.",
+  "factor_score_coverage": {
+    "reviews_with_scores": 7,
+    "reviews_without_scores": 0,
+    "reviews_with_all_known_scores": 7,
+    "status": "complete"
+  },
+  "request_limits": {
+    "max_browser_steps": 295,
+    "browser_steps": 147,
+    "zyte_requests": 0
+  }
+}

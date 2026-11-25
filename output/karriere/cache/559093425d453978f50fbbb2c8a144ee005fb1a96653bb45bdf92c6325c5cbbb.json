@@ -1,0 +1,9 @@
+{
+  "url": "https://mlh.jobs.personio.com/robots.txt",
+  "final_url": "https://mlh.jobs.personio.com/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "fetched_at": "2026-11-25T16:06:36.242050+00:00",
+  "text": "User-agent: *\nAllow: /\n"
+}

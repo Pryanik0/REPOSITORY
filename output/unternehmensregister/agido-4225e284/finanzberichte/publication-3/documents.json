@@ -1,0 +1,504 @@
+[
+  {
+    "name": "agido GmbH — Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+    "original_name": "publication.html",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+    "company": "agido GmbH",
+    "format": "html",
+    "text": "agido GmbH\n\nDortmund\n\nJahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022\n\nBILANZ\n\nAKTIVA\n\nscroll\n\n\tGesamt Geschäftsjahr EUR\tGesamt Vorjahr EUR\nA. Anlagevermögen\t218.135,00\t167.707,00\nI. Immaterielle Vermögensgegenstände\t7.597,00\t502,00\nII. Sachanlagen\t210.538,00\t167.205,00\nB. Umlaufvermögen\t3.850.113,98\t2.558.542,06\nI. Forderungen und sonstige Vermögensgegenstände\t2.615.264,09\t712.184,00\nII. Guthaben bei Kreditinstituten\t1.234.849,89\t1.846.358,06\nC. Rechnungsabgrenzungsposten\t5.125,00\t855,04\nSumme Aktiva\t4.073.373,98\t2.727.104,10\n\nPASSIVA\n\nscroll\n\n\tGesamt Geschäftsjahr EUR\tGesamt Vorjahr EUR\nA. Eigenkapital\t2.858.383,84\t2.022.610,21\nI. Gezeichnetes Kapital\t50.000,00\t50.000,00\nII. Gewinnvortrag\t2.018.304,72\t1.050.611,60\nIII. Jahresüberschuss\t790.079,12\t921.998,61\nB. Rückstellungen\t682.532,61\t276.978,00\nC. Verbindlichkeiten\t532.457,53\t427.515,89\nSumme Passiva\t4.073.373,98\t2.727.104,10\n\nANHANG\n\nAllgemeine Angaben zum Jahresabschluss\n\nAngaben zur Identifikation der Gesellschaft laut Registergericht\n\nFirmenname laut Registergericht: agido GmbH\n\nFirmensitz laut Registergericht: Dortmund\n\nRegistereintrag: Handelsregister\n\nRegistergericht: Amtsgericht Dortmund\n\nRegister-Nr.: HRB 20179\n\nAngaben zu Bilanzierungs- und Bewertungsmethoden\n\nBilanzierungs- und Bewertungsgrundsätze\n\nErworbene immaterielle Anlagewerte wurden zu Anschaffungskosten angesetzt und, sofern sie der Abnutzung unterlagen, um planmäßige Abschreibungen vermindert.\n\nDas Sachanlagevermögen wurde zu Anschaffungs- bzw. Herstellungskosten angesetzt und, soweit abnutzbar, um planmäßige Abschreibungen vermindert.\n\nDie planmäßigen Abschreibungen wurden nach der voraussichtlichen Nutzungsdauer der Vermögensgegenstände vorgenommen.\n\nForderungen, sonstige Vermögensgegenstände und Wertpapiere wurden unter Berücksichtigung aller erkennbaren Risiken bewertet.\n\nDie sonstigen Rückstellungen wurden für alle weiteren ungewissen Verbindlichkeiten gebildet. Dabei wurden alle erkennbaren Risiken und ungewisse Verpflichtungen berücksichtigt und auf Erfahrungswerte zurückgegriffen.\n\nVerbindlichkeiten wurden zum Erfüllungsbetrag angesetzt.\n\nAngaben zur Bilanz\n\nAngabe zu Restlaufzeitvermerken bei Verbindlichkeiten\n\nDer Betrag der Verbindlichkeiten mit einer Restlaufzeit bis zu einem Jahr beträgt 532.457,53 Euro (Vorjahr: 427.515,89 Euro).\n\nAngaben zu Verbindlichkeiten gegenüber Gesellschaftern\n\nDer Betrag der Verbindlichkeiten gegenüber Gesellschaftern beläuft sich auf 275.064,53 Euro (Vorjahr: 260.724,67 Euro).\n\nDer Betrag der Verbindlichkeiten aus Lieferungen und Leistungen gegenüber Gesellschaftern beläuft sich auf EUR 109.870,83 (Vorjahr: 121.994,00 EUR).\n\nSonstige Angaben\n\nDurchschnittliche Zahl der während des Geschäftsjahrs beschäftigten Arbeitnehmer\n\nDie durchschnittliche Zahl der während des Geschäftsjahres im Unternehmen beschäftigten Arbeitnehmer betrug 44.\n\nDortmund, den 25. April 2024\n\ngez. Thomas Louis\n\nDie Feststellung bzw. Billigung des Jahresabschlusses erfolgte am: 28. Dezember 2023",
+    "tables": [
+      {
+        "index": 1,
+        "title": "BILANZ",
+        "rows": [
+          [
+            "",
+            "Gesamt Geschäftsjahr EUR",
+            "Gesamt Vorjahr EUR"
+          ],
+          [
+            "A. Anlagevermögen",
+            "218.135,00",
+            "167.707,00"
+          ],
+          [
+            "I. Immaterielle Vermögensgegenstände",
+            "7.597,00",
+            "502,00"
+          ],
+          [
+            "II. Sachanlagen",
+            "210.538,00",
+            "167.205,00"
+          ],
+          [
+            "B. Umlaufvermögen",
+            "3.850.113,98",
+            "2.558.542,06"
+          ],
+          [
+            "I. Forderungen und sonstige Vermögensgegenstände",
+            "2.615.264,09",
+            "712.184,00"
+          ],
+          [
+            "II. Guthaben bei Kreditinstituten",
+            "1.234.849,89",
+            "1.846.358,06"
+          ],
+          [
+            "C. Rechnungsabgrenzungsposten",
+            "5.125,00",
+            "855,04"
+          ],
+          [
+            "Summe Aktiva",
+            "4.073.373,98",
+            "2.727.104,10"
+          ]
+        ],
+        "cells": [
+          [
+            {
+              "text": "",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": true
+            },
+            {
+              "text": "Gesamt Geschäftsjahr EUR",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": true
+            },
+            {
+              "text": "Gesamt Vorjahr EUR",
+              "column": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": true
+            }
+          ],
+          [
+            {
+              "text": "A. Anlagevermögen",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "218.135,00",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "167.707,00",
+              "column": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ],
+          [
+            {
+              "text": "I. Immaterielle Vermögensgegenstände",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "7.597,00",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "502,00",
+              "column": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ],
+          [
+            {
+              "text": "II. Sachanlagen",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "210.538,00",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "167.205,00",
+              "column": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ],
+          [
+            {
+              "text": "B. Umlaufvermögen",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "3.850.113,98",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "2.558.542,06",
+              "column": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ],
+          [
+            {
+              "text": "I. Forderungen und sonstige Vermögensgegenstände",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "2.615.264,09",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "712.184,00",
+              "column": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ],
+          [
+            {
+              "text": "II. Guthaben bei Kreditinstituten",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "1.234.849,89",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "1.846.358,06",
+              "column": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ],
+          [
+            {
+              "text": "C. Rechnungsabgrenzungsposten",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "5.125,00",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "855,04",
+              "column": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ],
+          [
+            {
+              "text": "Summe Aktiva",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "4.073.373,98",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "2.727.104,10",
+              "column": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ]
+        ]
+      },
+      {
+        "index": 2,
+        "title": "BILANZ",
+        "rows": [
+          [
+            "",
+            "Gesamt Geschäftsjahr EUR",
+            "Gesamt Vorjahr EUR"
+          ],
+          [
+            "A. Eigenkapital",
+            "2.858.383,84",
+            "2.022.610,21"
+          ],
+          [
+            "I. Gezeichnetes Kapital",
+            "50.000,00",
+            "50.000,00"
+          ],
+          [
+            "II. Gewinnvortrag",
+            "2.018.304,72",
+            "1.050.611,60"
+          ],
+          [
+            "III. Jahresüberschuss",
+            "790.079,12",
+            "921.998,61"
+          ],
+          [
+            "B. Rückstellungen",
+            "682.532,61",
+            "276.978,00"
+          ],
+          [
+            "C. Verbindlichkeiten",
+            "532.457,53",
+            "427.515,89"
+          ],
+          [
+            "Summe Passiva",
+            "4.073.373,98",
+            "2.727.104,10"
+          ]
+        ],
+        "cells": [
+          [
+            {
+              "text": "",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": true
+            },
+            {
+              "text": "Gesamt Geschäftsjahr EUR",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": true
+            },
+            {
+              "text": "Gesamt Vorjahr EUR",
+              "column": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": true
+            }
+          ],
+          [
+            {
+              "text": "A. Eigenkapital",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "2.858.383,84",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "2.022.610,21",
+              "column": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ],
+          [
+            {
+              "text": "I. Gezeichnetes Kapital",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "50.000,00",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "50.000,00",
+              "column": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ],
+          [
+            {
+              "text": "II. Gewinnvortrag",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "2.018.304,72",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "1.050.611,60",
+              "column": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ],
+          [
+            {
+              "text": "III. Jahresüberschuss",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "790.079,12",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "921.998,61",
+              "column": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ],
+          [
+            {
+              "text": "B. Rückstellungen",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "682.532,61",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "276.978,00",
+              "column": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ],
+          [
+            {
+              "text": "C. Verbindlichkeiten",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "532.457,53",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "427.515,89",
+              "column": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ],
+          [
+            {
+              "text": "Summe Passiva",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "4.073.373,98",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "2.727.104,10",
+              "column": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ]
+        ]
+      }
+    ]
+  }
+]

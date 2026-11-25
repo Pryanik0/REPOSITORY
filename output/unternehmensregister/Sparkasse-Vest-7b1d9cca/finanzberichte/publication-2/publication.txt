@@ -1,0 +1,113 @@
+S-Finanzdienste der Sparkasse Vest Recklinghausen GmbH — Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025
+S-Finanzdienste der Sparkasse Vest Recklinghausen GmbH
+
+Recklinghausen
+
+Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025
+
+Bilanz
+
+scroll
+
+Aktiva	Aktiva	Aktiva
+	31.12.2025 EUR	31.12.2024 EUR
+A. Anlagevermögen	1.883,00	22.427,00
+I. Sachanlagen	1.883,00	22.427,00
+B. Umlaufvermögen	2.401.030,48	1.442.712,90
+I. Forderungen und sonstige Vermögensgegenstände	562.279,43	334.930,26
+II. Kassenbestand, Bundesbankguthaben, Guthaben bei Kreditinstituten und Schecks	1.838.751,05	1.107.782,64
+C. Rechnungsabgrenzungsposten	3.791,30	134,25
+Aktiva	2.406.704,78	1.465.274,15
+
+scroll
+
+Passiva	Passiva	Passiva
+	31.12.2025 EUR	31.12.2024 EUR
+A. Eigenkapital	1.611.257,67	1.028.626,99
+I. Gezeichnetes Kapital	51.129,19	51.129,19
+II. Gewinnrücklagen	129.497,80	129.302,80
+III. Jahresüberschuss	1.430.630,68	848.195,00
+B. Rückstellungen	506.687,05	192.156,00
+C. Verbindlichkeiten	288.760,06	244.491,16
+Passiva	2.406.704,78	1.465.274,15
+
+Anhang
+
+I. Allgemeine Angaben/ Grundlagen
+
+Die S-Finanzdienste der Sparkasse Vest Recklinghausen GmbH, Recklinghausen, ist im Handels- register B des Amtsgerichts Recklinghausen unter der Nummer HRB 3971 eingetragen.
+
+Die Gesellschaft ist eine kleine Kapitalgesellschaft im Sinne des § 267 Abs. 1 HGB.
+
+Der Jahresabschluss wurde nach den Vorschriften des Handelsgesetzbuches unter Berücksichtigung rechtsformspezifischer Vorschriften des GmbHG aufgestellt.
+
+II. Angaben zu Bilanzierungs- und Bewertungsmethoden
+
+Sachanlagen sind mit den Anschaffungskosten, vermindert um planmäßige nutzungsbedingte Abschreibungen bewertet. Die Anschaffungskosten umfassen auch Nebenkosten und nachträgliche Anschaffungskosten. Anschaffungspreisminderungen werden abgesetzt. Planmäßige Abschreibungen werden nach der linearen Methode vorgenommen. Die Abschreibung geringwertiger Wirtschaftsgüter wird aus Wesentlich- und Wirtschaftlichkeitsgründen unter Berücksichtigung steuerlich zulässiger Vereinfachungsvorschriften vorgenommen. Abgänge werden zu Anschaffungskosten, gemindert um die aufgelaufenen Abschreibungen zum Zeitpunkt ihres Ausscheidens, ausgebucht.
+
+Der Ansatz von Forderungen und sonstigen Vermögensgegenständen erfolgt zu Nennwerten. Abwertungen waren nicht erforderlich.
+
+Die flüssigen Mittel sind zu Nennwerten bilanziert.
+
+Unter dem aktiven Rechnungsabgrenzungsposten sind im Voraus gezahlte Ausgaben abgegrenzt, die Aufwand für eine bestimmte Zeit nach dem Bilanzstichtag darstellen.
+
+Latente Steuern ergeben sich aus temporären Differenzen zwischen Bilanzposten aus handelsrechtlicher und steuerrechtlicher Betrachtungsweise gemäß § 274 HGB. Ein aktiver Steuerüberhang resultiert aus dem Unterschiedsbetrag zwischen der handels- und steuerrechtlichen Abzinsung langfristiger Rückstellungen. Für die sich ergebende Steuerentlastung wird auf das Aktivierungswahlrecht verzichtet, es erfolgt kein Ausweis unter aktive latente Steuern.
+
+Bei der Bildung der Rückstellungen wurde den erkennbaren Risiken und ungewissen Verpflichtungen angemessen Rechnung getragen. Sie sind mit dem Erfüllungsbetrag bewertet und nach vernünftiger kaufmännischer Beurteilung bemessen.
+
+Langfristige Rückstellungen mit einer Restlaufzeit von mehr als einem Jahr werden mit dem ihrer Restlaufzeit entsprechenden durchschnittlichen Marktzinssatz der vergangenen sieben Geschäftsjahre abgezinst, der gemäß Rückstellungsabzinsungsverordnung von der Deutschen Bundesbank ermittelt und veröffentlicht wird.
+
+Verbindlichkeiten sind mit ihrem Erfüllungsbetrag passiviert.
+
+III. Erläuterungen zu einzelnen Posten der Bilanz und der Gewinn- und Verlustrechnung
+
+Die Guthaben bei Kreditinstituten stellen im Berichtsjahr wie im Vorjahr jeweils in voller Höhe Forderungen gegen verbundene Unternehmen dar. Es bestehen Verbindlichkeiten gegenüber verbundenen Unternehmen, die in Höhe von 22.812,89 € (Vorjahr 6.605,00 €) in den Verbindlichkeiten aus Lieferungen und Leistungen enthalten sind. Die vorgenannten Guthaben und Verbindlichkeiten bestehen gegenüber der Gesellschafterin Sparkasse Vest Recklinghausen.
+
+Die sonstigen Rückstellungen wurden im Wesentlichen gebildet für:
+
+scroll
+
+Stornoausfallprovisionen
+Urlaubsansprüche der Arbeitnehmer
+
+Die Rückstellung für Stornoausfallprovisionen berücksichtigt mögliche Provisionsrückzahlungsverpflichtungen für die vorzeitige Stornierung von Versicherungsverträgen. Nach Einschätzung der Geschäftsführung beläuft sich das Risiko der vorzeitigen Vertragsauflösung für Versicherungsverträge für etwa dreiviertel der mit „Stornorisiken“ behafteten Umsatzerlöse unverändert zum Vorjahr auf rund 4 %. Aufgrund der vertraglichen Grundlagen sind bei der Bemessung der Rückstellung für diesen Teil die mit „Stornorisiken“ behafteten Umsatzerlöse der letzten fünf Jahre einzubeziehen. Bei der Berechnung wird berücksichtigt, dass das Risiko der vorzeitigen Vertragsauflösung innerhalb von fünf Jahren linear abnimmt. Die Veränderung der Rückstellung im Geschäftsjahr 2025 ist mit 4 T€ auf die Minderung des nominalen Rückstellungsbetrages und mit einem Zinsertrag von 1,5 T€ aus der Abzinsung zurückzuführen. Für einviertel der mit „Stornorisiken“ behafteten Umsatzerlöse beläuft sich das Risiko der vorzeitigen Vertragsauflösung für Versicherungsverträge lediglich auf rund 2 %. Aufgrund der vertraglichen Grundlagen liegt die Laufzeit der Verträge im Durchschnitt bei bis zu einem Jahr, weshalb für diesen Teil der Rückstellung keine Abzinsung erfolgt. Zum Bilanzstichtag beläuft sich der Rückstellungsbetrag des nicht abgezinsten Teils auf 11 T€.
+
+Alle Forderungen und Verbindlichkeiten haben wie im Vorjahr Restlaufzeiten bis zu einem Jahr.
+
+Sämtliche Verbindlichkeiten sind unbesichert.
+
+IV. Sonstige Angaben
+
+Geschäftsführer
+
+Geschäftsführer der Gesellschaft waren im Geschäftsjahr 2025:
+
+Hans-Peter Schmidt
+(Geschäftsführer der S-Finanzdienste der Sparkasse Vest Recklinghausen GmbH)
+Jürgen Hövener
+(Leiter der Unternehmensplanung und Vertriebssteuerung der Sparkasse Vest Recklinghausen)
+
+Arbeitnehmer
+
+Während des Geschäftsjahres 2025 waren im Durchschnitt 18 Arbeitnehmer beschäftigt.
+
+V. Ergebnisverwendung
+
+Die Geschäftsführung der Gesellschaft schlägt vor, den Jahresüberschuss 2025 von 1.430.630,68 € wie folgt zu verwenden:
+
+scroll
+
+Ausschüttung	1.430.000,00 €
+Einstellung in Gewinnrücklagen	630,68 €
+
+S-Finanzdienste der Sparkasse Vest Recklinghausen GmbH, Recklinghausen
+
+Recklinghausen, den 19. Mai 2026
+
+sonstige Berichtsbestandteile
+
+gez. Hans-Peter Schmidt
+gez. Jürgen Hövener
+
+Angaben zur Feststellung:
+Der Jahresabschluss wurde am 16.06.2026 festgestellt.

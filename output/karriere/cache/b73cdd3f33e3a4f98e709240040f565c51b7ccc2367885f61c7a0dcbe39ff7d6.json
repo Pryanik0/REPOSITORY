@@ -1,0 +1,9 @@
+{
+  "url": "https://scheidtbachmann.concludis.de/robots.txt",
+  "final_url": "https://scheidtbachmann.concludis.de/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/plain",
+  "fetched_at": "2026-11-25T16:33:06.578101+00:00",
+  "text": "User-agent: *\nDisallow: /customer/\nDisallow: /includes/\nDisallow: /admin/\nDisallow: /berater/\nDisallow: /cj/\nDisallow: /config/\nDisallow: /images/\nDisallow: /med/\nDisallow: /storage/\nDisallow: /interne/\nDisallow: /prj/intranet/\nDisallow: /bewerber/blatt\nDisallow: /bewerber/if_blatt\nDisallow: /bewerber/if_bogen\nDisallow: /bewerber/job2"
+}

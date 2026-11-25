@@ -1,0 +1,732 @@
+[
+  {
+    "name": "agido GmbH — Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+    "original_name": "publication.html",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+    "company": "agido GmbH",
+    "format": "html",
+    "text": "agido GmbH\n\nDortmund\n\nJahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023\n\nBilanz\n\nscroll\n\nAktiva\tAktiva\tAktiva\n\t31.12.2023 EUR\t31.12.2022 EUR\nA. Anlagevermögen\t281.710,00\t212.368,00\nI. Immaterielle Vermögensgegenstände\t5.164,00\t7.597,00\nII. Sachanlagen\t276.546,00\t204.771,00\nB. Umlaufvermögen\t4.488.587,06\t3.681.795,85\nI. Vorräte\t299.689,75\t\nII. Forderungen und sonstige Vermögensgegenstände\t2.591.265,57\t2.446.945,96\nIII. Kassenbestand, Bundesbankguthaben, Guthaben bei Kreditinstituten und Schecks\t1.597.631,74\t1.234.849,89\nC. Rechnungsabgrenzungsposten\t7.609,18\t5.125,00\nAktiva\t4.777.906,24\t3.899.288,85\n\nscroll\n\nPassiva\tPassiva\tPassiva\n\t31.12.2023 EUR\t31.12.2022 EUR\nA. Eigenkapital\t3.913.669,90\t2.886.587,50\nI. Gezeichnetes Kapital\t50.000,00\t50.000,00\nII. Gewinnvortrag\t2.836.587,50\t2.018.304,72\nIII. Jahresüberschuss\t1.027.082,40\t818.282,78\nB. Rückstellungen\t419.370,68\t677.959,33\nC. Verbindlichkeiten\t444.865,66\t334.742,02\nSumme Passiva\t4.777.906,24\t3.899.288,85\n\nAnhang für das Geschäftsjahr 2023\n\nAllgemeine Angaben zum Jahresabschluss\n\nDer Jahresabschluss wurde nach den Vorschriften der §§ 242 ff. HGB unter der Beachtung der ergänzenden Bestimmungen für kleine Kapitalgesellschaften aufgestellt.\n\nAngaben zur Identifikation der Gesellschaft laut Registergericht\n\nscroll\n\nFirmenname laut Registergericht:\tagido GmbH\nFirmensitz laut Registergericht:\tDortmund\nRegistereintrag:\tHandelsregister\nRegistergericht:\tAmtsgericht Dortmund\nRegister-Nr.:\tHR B 20179\n\nAngaben zu Bilanzierungs- und Bewertungsmethoden\n\nBilanzierungs- und Bewertungsgrundsätze\n\nErworbene immaterielle Anlagewerte wurden zu Anschaffungskosten angesetzt und, sofern sie der Abnutzung unterlagen, um planmäßige Abschreibungen vermindert.\n\nDas Sachanlagevermögen wurde zu Anschaffungs- bzw. Herstellungskosten angesetzt und, soweit abnutzbar, um planmäßige Abschreibungen vermindert.\n\nDie planmäßigen Abschreibungen wurden nach der voraussichtlichen Nutzungsdauer der Vermögensgegenstände vorgenommen.\n\nDie Vorräte wurden zu Anschaffungs- bzw. Herstellungskosten angesetzt. Sofern die Tageswerte am Bilanzstichtag niedriger waren, wurden diese angesetzt.\n\nForderungen, sonstige Vermögensgegenstände und Wertpapiere wurden unter Berücksichtigung aller erkennbaren Risiken bewertet.\n\nDie Steuerrückstellungen beinhalten die das Geschäftsjahr betreffenden, noch nicht veranlagten Steuern.\n\nDie sonstigen Rückstellungen wurden für alle weiteren ungewissen Verbindlichkeiten gebildet. Dabei wurden alle erkennbaren Risiken und ungewisse Verpflichtungen berücksichtigt und auf Erfahrungswerte zurückgegriffen.\n\nVerbindlichkeiten wurden zum Erfüllungsbetrag angesetzt.\n\nAngaben zur Bilanz\n\nAngabe zu Restlaufzeitvermerken bei Verbindlichkeiten\n\nDer Betrag der Verbindlichkeiten mit einer Restlaufzeit bis zu einem Jahr beträgt 444.865,66 Euro (Vorjahr: 334.742,02 Euro).\n\nAngaben zu Verbindlichkeiten gegenüber Gesellschaftern\n\nDer Betrag der Verbindlichkeiten gegenüber Gesellschaftern beläuft sich auf 288.806,03 Euro (Vorjahr: 274.964,53 Euro).\n\nSonstige Angaben\n\nDurchschnittliche Zahl der während des Geschäftsjahrs beschäftigten Arbeitnehmer\n\nDie durchschnittliche Zahl der während des Geschäftsjahres im Unternehmen beschäftigten Arbeitnehmer betrug 46.\n\nUnterschrift der Geschäftsführung\n\nscroll\n\nDortmund, 11. April 2025\t\tgez. Thomas Louis\nOrt, Datum\t\t\n\nsonstige Berichtsbestandteile\n\nAngaben zur Feststellung:\nDer Jahresabschluss wurde am 11.04.2025 festgestellt.",
+    "tables": [
+      {
+        "index": 1,
+        "title": "Bilanz",
+        "rows": [
+          [
+            "Aktiva",
+            "Aktiva",
+            "Aktiva"
+          ],
+          [
+            "",
+            "31.12.2023 EUR",
+            "31.12.2022 EUR"
+          ],
+          [
+            "A. Anlagevermögen",
+            "281.710,00",
+            "212.368,00"
+          ],
+          [
+            "I. Immaterielle Vermögensgegenstände",
+            "5.164,00",
+            "7.597,00"
+          ],
+          [
+            "II. Sachanlagen",
+            "276.546,00",
+            "204.771,00"
+          ],
+          [
+            "B. Umlaufvermögen",
+            "4.488.587,06",
+            "3.681.795,85"
+          ],
+          [
+            "I. Vorräte",
+            "299.689,75",
+            ""
+          ],
+          [
+            "II. Forderungen und sonstige Vermögensgegenstände",
+            "2.591.265,57",
+            "2.446.945,96"
+          ],
+          [
+            "III. Kassenbestand, Bundesbankguthaben, Guthaben bei Kreditinstituten und Schecks",
+            "1.597.631,74",
+            "1.234.849,89"
+          ],
+          [
+            "C. Rechnungsabgrenzungsposten",
+            "7.609,18",
+            "5.125,00"
+          ],
+          [
+            "Aktiva",
+            "4.777.906,24",
+            "3.899.288,85"
+          ]
+        ],
+        "cells": [
+          [
+            {
+              "text": "Aktiva",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 3,
+              "header": true
+            }
+          ],
+          [
+            {
+              "text": "",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": true
+            },
+            {
+              "text": "31.12.2023 EUR",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": true
+            },
+            {
+              "text": "31.12.2022 EUR",
+              "column": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": true
+            }
+          ],
+          [
+            {
+              "text": "A. Anlagevermögen",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "281.710,00",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "212.368,00",
+              "column": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ],
+          [
+            {
+              "text": "I. Immaterielle Vermögensgegenstände",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "5.164,00",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "7.597,00",
+              "column": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ],
+          [
+            {
+              "text": "II. Sachanlagen",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "276.546,00",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "204.771,00",
+              "column": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ],
+          [
+            {
+              "text": "B. Umlaufvermögen",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "4.488.587,06",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "3.681.795,85",
+              "column": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ],
+          [
+            {
+              "text": "I. Vorräte",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "299.689,75",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "",
+              "column": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ],
+          [
+            {
+              "text": "II. Forderungen und sonstige Vermögensgegenstände",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "2.591.265,57",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "2.446.945,96",
+              "column": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ],
+          [
+            {
+              "text": "III. Kassenbestand, Bundesbankguthaben, Guthaben bei Kreditinstituten und Schecks",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "1.597.631,74",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "1.234.849,89",
+              "column": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ],
+          [
+            {
+              "text": "C. Rechnungsabgrenzungsposten",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "7.609,18",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "5.125,00",
+              "column": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ],
+          [
+            {
+              "text": "Aktiva",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "4.777.906,24",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "3.899.288,85",
+              "column": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ]
+        ]
+      },
+      {
+        "index": 2,
+        "title": "Aktiva",
+        "rows": [
+          [
+            "Passiva",
+            "Passiva",
+            "Passiva"
+          ],
+          [
+            "",
+            "31.12.2023 EUR",
+            "31.12.2022 EUR"
+          ],
+          [
+            "A. Eigenkapital",
+            "3.913.669,90",
+            "2.886.587,50"
+          ],
+          [
+            "I. Gezeichnetes Kapital",
+            "50.000,00",
+            "50.000,00"
+          ],
+          [
+            "II. Gewinnvortrag",
+            "2.836.587,50",
+            "2.018.304,72"
+          ],
+          [
+            "III. Jahresüberschuss",
+            "1.027.082,40",
+            "818.282,78"
+          ],
+          [
+            "B. Rückstellungen",
+            "419.370,68",
+            "677.959,33"
+          ],
+          [
+            "C. Verbindlichkeiten",
+            "444.865,66",
+            "334.742,02"
+          ],
+          [
+            "Summe Passiva",
+            "4.777.906,24",
+            "3.899.288,85"
+          ]
+        ],
+        "cells": [
+          [
+            {
+              "text": "Passiva",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 3,
+              "header": true
+            }
+          ],
+          [
+            {
+              "text": "",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": true
+            },
+            {
+              "text": "31.12.2023 EUR",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": true
+            },
+            {
+              "text": "31.12.2022 EUR",
+              "column": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": true
+            }
+          ],
+          [
+            {
+              "text": "A. Eigenkapital",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "3.913.669,90",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "2.886.587,50",
+              "column": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ],
+          [
+            {
+              "text": "I. Gezeichnetes Kapital",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "50.000,00",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "50.000,00",
+              "column": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ],
+          [
+            {
+              "text": "II. Gewinnvortrag",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "2.836.587,50",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "2.018.304,72",
+              "column": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ],
+          [
+            {
+              "text": "III. Jahresüberschuss",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "1.027.082,40",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "818.282,78",
+              "column": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ],
+          [
+            {
+              "text": "B. Rückstellungen",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "419.370,68",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "677.959,33",
+              "column": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ],
+          [
+            {
+              "text": "C. Verbindlichkeiten",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "444.865,66",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "334.742,02",
+              "column": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ],
+          [
+            {
+              "text": "Summe Passiva",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "4.777.906,24",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "3.899.288,85",
+              "column": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ]
+        ]
+      },
+      {
+        "index": 3,
+        "title": "Anhang für das Geschäftsjahr 2023",
+        "rows": [
+          [
+            "Firmenname laut Registergericht:",
+            "agido GmbH"
+          ],
+          [
+            "Firmensitz laut Registergericht:",
+            "Dortmund"
+          ],
+          [
+            "Registereintrag:",
+            "Handelsregister"
+          ],
+          [
+            "Registergericht:",
+            "Amtsgericht Dortmund"
+          ],
+          [
+            "Register-Nr.:",
+            "HR B 20179"
+          ]
+        ],
+        "cells": [
+          [
+            {
+              "text": "Firmenname laut Registergericht:",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "agido GmbH",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ],
+          [
+            {
+              "text": "Firmensitz laut Registergericht:",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "Dortmund",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ],
+          [
+            {
+              "text": "Registereintrag:",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "Handelsregister",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ],
+          [
+            {
+              "text": "Registergericht:",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "Amtsgericht Dortmund",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ],
+          [
+            {
+              "text": "Register-Nr.:",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "HR B 20179",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ]
+        ]
+      },
+      {
+        "index": 4,
+        "title": "Anhang für das Geschäftsjahr 2023",
+        "rows": [
+          [
+            "Dortmund, 11. April 2025",
+            "",
+            "gez. Thomas Louis"
+          ],
+          [
+            "Ort, Datum",
+            "",
+            ""
+          ]
+        ],
+        "cells": [
+          [
+            {
+              "text": "Dortmund, 11. April 2025",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "gez. Thomas Louis",
+              "column": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ],
+          [
+            {
+              "text": "Ort, Datum",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "",
+              "column": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ]
+        ]
+      }
+    ]
+  }
+]

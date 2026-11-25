@@ -1,0 +1,446 @@
+{
+  "company": {
+    "key": "Hamburg Commercial Bank",
+    "name": "Hamburg Commercial Bank AG",
+    "location": "Hamburg",
+    "name_source": "company_name",
+    "urls": [
+      "https://www.hcob-bank.com/"
+    ],
+    "kununu_url": "https://www.kununu.com/de/hamburgcommercialbank",
+    "branches": [
+      "Banken"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "20095",
+    "street": "Gerhart-Hauptmann-Platz 50",
+    "region": "Hamburg",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:48:16.853307+00:00",
+  "searches": [
+    {
+      "accounting_only": true,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=Hamburg+Commercial+Bank+AG&companyLocation=Hamburg&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ACCOUNTING&drilldownFilter=22&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": true
+    },
+    {
+      "accounting_only": false,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=Hamburg+Commercial+Bank+AG&companyLocation=Hamburg&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ALL_AREAS&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": true
+    }
+  ],
+  "excluded_company_matches": [
+    {
+      "company": "Hamburg Access Technologies HAT GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-05-12",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=FS0BfwaiqR5FiLEfRAABI1UpH-ptcSGNsLBQO05NEErNv-75ePeckoxdXwcF90ndXnhYqGhww_sUxbvQBqQ53yDEeZ7oLtDRu6_1J7pblA_4WkTZY8BYqPfvIc7g6SaTCEhvPHZtsYe9AF3pekFnUeCHDTARml7b6SzPf-FwKhPzwyk4XVzChz8U_uvUkwVBHky-_mKCETbdYBp9VgJLS6BIITCJrWCnWViRWP0Omjh19uml",
+      "metadata": "Hamburg Access Technologies HAT GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 12.05.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Hamburg Access Technologies HAT GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-02-19",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=lHcf_SY-G1OqXpTBMYN0Az-YfC_YqlgnUaZkk1zGniPyFriAXrCLHbtgEhevQe55rcE8ntGToDCuGRsYWlMYbmLFMzZSmP0UVD8tq69i2PuyeskS-uNAYgIQ3ebHenOmz0XtGqG6AFIyqkoWHWPA10qjtqtRNm6R_Y0rTZgquJpGKDm254o7KZUNs0ueJFLtEjuWXqU1n-gDxSk4boETUlqEJbAf6z92UlbvbRpmRRmiYVlo",
+      "metadata": "Hamburg Access Technologies HAT GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 19.02.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Hamburg Access Technologies HAT GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-07-02",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=PFmOb4KhVSdmYcuKSyP8lAPn1G7y_dIRuBzuvguMzznOB5M284gT4bgmv5FDcRVKstCayW3jGIvDO0eo3EnMCrdAjnc_F_WEEQrd2U_yQ0Acqq62R8ZfeVhJy5mmony-7_iNmtRvffTnT31U3C2_N65mss5dA4nlhSVbUXnio9UetGny_HUpfbtnSFBtRW-qOif-PD2w2o9CVCkyI6RPT1pswUcbfh_8n9XiAGoCKDVa-699",
+      "metadata": "Hamburg Access Technologies HAT GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 02.07.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Hamburg Analytics EDS GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2024-09-18",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=zZdVI99hPGDuG3dV7SqszGO-ItmDkQyHAeSUchUlVr0rjrG2CxfkBArcICdl33z48szs_Y2EzyGI6wuB9PmCcTTZMtzZwoWOTs-dCR15t3nCDCp6sWaEerArP2tCSq_3SdM3Z5m8AGyNtrO-1u-gFtRsF5CRXXNNvNdp2ZQLCnKuVCSkmWN7-nDHtSsk--jaiOAKngHadY6swsqSVxX9ufXiZKAZ9IGrb8ss3mFLzaYHfj3O",
+      "metadata": "Hamburg Analytics EDS GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 18.09.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Hamburg Asset Management HAM Kapitalverwaltungsgesellschaft mbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-01-19",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=yd0iBcz3AQDM2-lSltdeoQJYvSQZ2HEBxXi_4jOJ4k_3w3-Y4CgFAFjBlgShmpAD1-A_cdFVtbm4AVJmJG4y2bbqDx5TF9Uhi8QupzBEIA9LD8YqvYj7tUwvj58XEnBBsw5CAS-2hcAqDaaSkERHgmyMZpNHrrFYcygGOfjiy_e_h4re71NawNGxDWHPIi-HLyLz04TQNHu9v6ZGbwTn2yEH9x2PD3B5RONteAK01VvF5-XD",
+      "metadata": "Hamburg Asset Management HAM Kapitalverwaltungsgesellschaft mbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 19.01.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Hamburg Asset Management HAM Kapitalverwaltungsgesellschaft mbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2024-07-12",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=wkokIjhEGFV9c_MH4VMvWaGhi7iKIkLekisaa6j7YHH5ltPA3muraCQgsXBr8mxrk7KsHmTePPE9Xu_91q-AxYkTnhH46TzRtbHdCL02mnpCRT17LkaRApmaGMwlxCvKF9vhEuu8-ppC23CdXPyNYYt_HZurQQLTt37gyCpmvW79wdvf1eC7mbTXCb6LpNfgTXYQrfsWvCIuQ1RUKTxjpkSgWWLf4DgqrtTt7-dwoaQBFa0h",
+      "metadata": "Hamburg Asset Management HAM Kapitalverwaltungsgesellschaft mbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 12.07.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    }
+  ],
+  "date_from": "2024-01-01",
+  "date_to": "2026-11-25",
+  "excluded_dates": [],
+  "max_publications": 30,
+  "truncated": true,
+  "coverage": {
+    "search_complete": false,
+    "more_pages": true,
+    "publication_limit_reached": true,
+    "downloads_selected": 4,
+    "downloads_succeeded": 4,
+    "download_limit_reached": true,
+    "downloads_complete": false,
+    "text_complete": true
+  },
+  "publications": [
+    {
+      "company": "Hamburg Commercial Bank AG, Hamburg",
+      "title": "bis zu EUR 5.000.000,00 Variabel verzinsliche Inhaberschuldverschreibungen von 2023 (2029) Serie 2757",
+      "publication_date": "2026-11-24",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=SKh9lkSE1kou4PZSOoVNhiX03HFDDC6cC0pYwnGVn-NEulX6jOaAONoEjgFTqqbTTzt2Qf56YAoexWeGCPU5srbrg4f79tUnzaiPZTnonHfS8CF3Bv29WhW9xoXb1TxMuiQG6eqo79790mChuCm-3fZUWaUPvBg9BxF-mKXHvK_sydp3NDT7O7p5h8mdKMJtPBKH1rrOQCdUXNzS1AyvvHuO9emRV5yBdJLpDcEU5U1900w",
+      "metadata": "Hamburg Commercial Bank AG, Hamburg Kapitalmarktinformationen Bundesanzeiger bis zu EUR 5.000.000,00 Variabel verzinsliche Inhaberschuldverschreibungen von 2023 (2029) Serie 2757 Datum: 24.11.2026 Sprache: Deutsch",
+      "source_area": "Kapitalmarktinformationen Bundesanzeiger",
+      "category": "bekanntmachungen",
+      "index": 1
+    },
+    {
+      "company": "Hamburg Commercial Bank AG, Hamburg",
+      "title": "Nachr.MTN IHS v.1999(2039) Serie 119",
+      "publication_date": "2026-11-23",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=Osy5i6ZqPetStFAayZDvlO8n9w42btxe9E-wzSiWN107Z3fH_ENGq_scIEqv2ASZKiizLPBDsYTp2Nmh_c9soH-vq4_O67r2LB58AwDSNnaH2R3d98n3xM86r2rLrTJqwATWm9SxbOmiaYma2R-o81kOFjRXJmBeBeVoymwtlIeOqc8Abee7-DB5mQPc_G2qT-FjyNPoPoPBS4d0C_hheT92w6xmwyA4ScS2Rq089GTyghE",
+      "metadata": "Hamburg Commercial Bank AG, Hamburg Kapitalmarktinformationen Bundesanzeiger Nachr.MTN IHS v.1999(2039) Serie 119 Datum: 23.11.2026 Sprache: Deutsch",
+      "source_area": "Kapitalmarktinformationen Bundesanzeiger",
+      "category": "bekanntmachungen",
+      "index": 2
+    },
+    {
+      "company": "Hamburg Commercial Bank AG, Hamburg",
+      "title": "Issue of USD 25.000.000,00 Landesbank Schleswig-Holstein Nachr.DL-FLR-Notes.v.01(31)",
+      "publication_date": "2026-11-20",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=ElX3kGrxLsufXzKceNi9NjxHgo1iEWfDrUMPjmGUmAz8MfK2i5UFD_L60GPpIqWSdszv5p-rZWSaLsvbT48wrPu4wDZ97CGhIkk_j0SP-JTRSLcOE1T7rNFHnnpWIDoSmUw8Q5ESyTW9oJyGU0YNjqVHHqI-oDPMbRQ4Q3uW7X8S61QqgT1CuiDCggxRlMzFL4bIT-2qkW_MATlL7MKRlJpgbcy7ywYX-FqZwkp2GhobmEs",
+      "metadata": "Hamburg Commercial Bank AG, Hamburg Kapitalmarktinformationen Bundesanzeiger Issue of USD 25.000.000,00 Landesbank Schleswig-Holstein Nachr.DL-FLR-Notes.v.01(31) Datum: 20.11.2026 Sprache: Deutsch",
+      "source_area": "Kapitalmarktinformationen Bundesanzeiger",
+      "category": "bekanntmachungen",
+      "index": 3
+    },
+    {
+      "company": "Hamburg Commercial Bank AG, Hamburg",
+      "title": "Issue of EUR 50.000.000,00 Hamburgische Landesbank Nachr. FLR-MTN v.2000(2030)",
+      "publication_date": "2026-11-10",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=sbopxG7kxOpiUDQjQoZNJWyJlVT29XnMg3Q7IrAt2JvlvxtBsMd4pB2kXQhsPK00FRHnXDQ6fX3YJLjz6PIH-cGC5w9wXkrMX9IMpcR1BFU2V35WIxa-h_2q05WHS4zXY5P-cBNpttuoLPS_EKpi2iK6qSglzxDJ8u0XpmIw2rF23aAlwYHodhD5tj5WcE5_ys-MzwO6MX1R_ri4fQ5AdoxLf3449iv43orhouZOuMT4M4U",
+      "metadata": "Hamburg Commercial Bank AG, Hamburg Kapitalmarktinformationen Bundesanzeiger Issue of EUR 50.000.000,00 Hamburgische Landesbank Nachr. FLR-MTN v.2000(2030) Datum: 10.11.2026 Sprache: Deutsch",
+      "source_area": "Kapitalmarktinformationen Bundesanzeiger",
+      "category": "bekanntmachungen",
+      "index": 4
+    },
+    {
+      "company": "Hamburg Commercial Bank AG, Hamburg",
+      "title": "Issue of EUR 16.000.000,00 Hamburgische Landesbank Nachr. FLR-MTN v.2001(2031)",
+      "publication_date": "2026-11-06",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=w6F9JmD2pHORsq4F4KZg_aJ-RVOuxx9FTAsIN4AH2JLLQ561W62txAgJ43uT2VRgVGZJOhMRJeNygTxBOT6yGRpceUeRCkMC4KFc-lHtBo8JlRcGM6o1LQ4ZTdwxxWCtjGYXVC7Z7Z0ampYRqSVKda6jUEHJh-7Ge1ftCualLiyOel17NzZW7YjV4OrE3QpS9xqdl6Qaf5bdbEk6-gLOqLWxKyquphaO2aeAutBB7ouNzeM",
+      "metadata": "Hamburg Commercial Bank AG, Hamburg Kapitalmarktinformationen Bundesanzeiger Issue of EUR 16.000.000,00 Hamburgische Landesbank Nachr. FLR-MTN v.2001(2031) Datum: 06.11.2026 Sprache: Deutsch",
+      "source_area": "Kapitalmarktinformationen Bundesanzeiger",
+      "category": "bekanntmachungen",
+      "index": 5
+    },
+    {
+      "company": "Hamburg Commercial Bank AG, Hamburg",
+      "title": "bis zu EUR 250.000.000,00 Variabel verzinsliche Schiffspfandbriefe von 2024 (2028) Serie 2772",
+      "publication_date": "2026-11-03",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=Fvr-IlPqw4BYiBPhGGCadme433KLcv3Iy0Vn15VvP2OT9r_swcayAxgGq7e75VvnNqb4nlY0rs8Pf1gMMabACBv287II7acY-JPAyjnxrdFee97tda6tl5gOlDntcggyMMZGB9hqpobPFJAOf-vqUFB43kjs3V68KAgmYJAcFxMhfXtv-FxfbQ9Ls8gPAbYfz2TSizbFcIvv-UKc_DUiHVhHrWYhlgUBNaEpfSe2dOA7t9c",
+      "metadata": "Hamburg Commercial Bank AG, Hamburg Kapitalmarktinformationen Bundesanzeiger bis zu EUR 250.000.000,00 Variabel verzinsliche Schiffspfandbriefe von 2024 (2028) Serie 2772 Datum: 03.11.2026 Sprache: Deutsch",
+      "source_area": "Kapitalmarktinformationen Bundesanzeiger",
+      "category": "bekanntmachungen",
+      "index": 6
+    },
+    {
+      "company": "Hamburg Commercial Bank AG, Hamburg",
+      "title": "Issue of USD 40.000.000,00",
+      "publication_date": "2026-11-03",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=XmXDzGioNtxv9KD6cd_jmDNd9nQ4Sq0xNQY31xqKNYQTdqEbpJFIbhauOLkOFbf7verl1DH2Z1HZbFi01PHNcggYJ1uSbn0XVadBLMuUCnsJ50Bv4Xc-_LShdM43h02jOlBJYhw-FlIOUcY6vOYREf3eRz0B5ca9qs0dX-rdi0xg3D7FrQPS9oMHELUWb0m3lYQyWOiHK7Zv17fGpqZhOFv4hEaCAZ0fAePWTuIvQ834CrE",
+      "metadata": "Hamburg Commercial Bank AG, Hamburg Kapitalmarktinformationen Bundesanzeiger Issue of USD 40.000.000,00 Datum: 03.11.2026 Sprache: Deutsch",
+      "source_area": "Kapitalmarktinformationen Bundesanzeiger",
+      "category": "bekanntmachungen",
+      "index": 7
+    },
+    {
+      "company": "Hamburg Commercial Bank AG, Hamburg",
+      "title": "Issue of EUR 80.000.000,00 Hamburgische Landesbank FLR-MTN v.2000(2040)",
+      "publication_date": "2026-11-02",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=CaWAQxJJwLQaVI3laYonE5NJxzsZo9wCLIBQSnsMjpRWtaqeyr0hZ-EvvYfbOsr6iVqvHWtB6_tw-WLY2NALDYhE6F2euZ_E4ulWRIdCX9MjQKvy37RieC-nKdEUeMJmbA8KDSC5Cwkc9xKqwl0o25uB7nMeVlszeVcqBf1supPIgEQQ0hOkDESLh-b089CM_ROD00tS7LgdJKre_U_1F4HaenEDGhhJA2BZVGroYVmfll8",
+      "metadata": "Hamburg Commercial Bank AG, Hamburg Kapitalmarktinformationen Bundesanzeiger Issue of EUR 80.000.000,00 Hamburgische Landesbank FLR-MTN v.2000(2040) Datum: 02.11.2026 Sprache: Deutsch",
+      "source_area": "Kapitalmarktinformationen Bundesanzeiger",
+      "category": "bekanntmachungen",
+      "index": 8
+    },
+    {
+      "company": "Hamburg Commercial Bank AG, Hamburg",
+      "title": "Issue of EUR 50.000.000,00 Hamburgische Landesbank FLR-MTN v.2000(2030)",
+      "publication_date": "2026-11-02",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=zqUUHzs1F-P_1DDcfmIBAf40TWBb1V-0UCPsRk638soG3K923Ojd36M0x3pSL0tQZdDwyQp_bzaUuEojROdNVq_wOKEGm8XWJl2YeSK8Wvg9W4tSxJhpL5euL_3j7X7icXFx0BCTEHKSlfMFarRT4a7y9qJ2-FTzfw0ZZmZfMou_qXYS_9wxDSZNNLyqSzY_YP1j0zI7TY8oUClmx5Kgxh6WK7n09pz5rfLmgsrn7JWDoi0",
+      "metadata": "Hamburg Commercial Bank AG, Hamburg Kapitalmarktinformationen Bundesanzeiger Issue of EUR 50.000.000,00 Hamburgische Landesbank FLR-MTN v.2000(2030) Datum: 02.11.2026 Sprache: Deutsch",
+      "source_area": "Kapitalmarktinformationen Bundesanzeiger",
+      "category": "bekanntmachungen",
+      "index": 9
+    },
+    {
+      "company": "Hamburg Commercial Bank AG, Hamburg",
+      "title": "Issue of EUR 50.000.000,00 Hamburgische Landesbank FLR-MTN v.2000(2030)",
+      "publication_date": "2026-10-27",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=Z1mNK0gZZqVs729qsyacmYwOdh9aqTDbFD3MPm6xbo00ixuqPG8liddWRwLNSsn8JQMNlvOuURp2AZYLCHYByu0aWNmVYxo-SeGPWX0s5jJwRphjB6fE784ah2JzONXrM1QGfD6ASL--4T-bwRZfVQi8ZFA8sraPc2d86MuEKWR_QkmkviVTa7ISFMs7UAsoLFChcIOTN_I5qMhcSv_YcXDEoyLR_4CYlnknUxJmYr2uO64",
+      "metadata": "Hamburg Commercial Bank AG, Hamburg Kapitalmarktinformationen Bundesanzeiger Issue of EUR 50.000.000,00 Hamburgische Landesbank FLR-MTN v.2000(2030) Datum: 27.10.2026 Sprache: Deutsch",
+      "source_area": "Kapitalmarktinformationen Bundesanzeiger",
+      "category": "bekanntmachungen",
+      "index": 10
+    },
+    {
+      "company": "Hamburg Commercial Bank AG, Hamburg",
+      "title": "Issue of EUR 70.000.000,00 Hamburgische Landesbank FLR-MTN v.2000(2030)",
+      "publication_date": "2026-10-27",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=3EPLy4VgX1XhbkzE413TKcDs9a_wW3JGXZOIthAMTl-W_EBLvJeaaEBmkpvoj39awADu0BDh3GVU0H5ozN9rZ-Fcms53rVGNdqcCehye4evsza4e_CcXlMuCd-itaIr0WAjgmFAcT4Uk3zdzY5V_woyF0Bw11NyKE23ttG4-f16HO9cTY6YuYZbzX8N0eIqlNpXIzVFD6s7TNZTdCS5-AfqHVM91IJ-lnRO0lLCaYIDPT_s",
+      "metadata": "Hamburg Commercial Bank AG, Hamburg Kapitalmarktinformationen Bundesanzeiger Issue of EUR 70.000.000,00 Hamburgische Landesbank FLR-MTN v.2000(2030) Datum: 27.10.2026 Sprache: Deutsch",
+      "source_area": "Kapitalmarktinformationen Bundesanzeiger",
+      "category": "bekanntmachungen",
+      "index": 11
+    },
+    {
+      "company": "Hamburg Commercial Bank AG, Hamburg",
+      "title": "bis zu EUR 7.300.000,00 Variabel verzinsliche Inhaberschuldverschreibungen von 2025 (2030) Serie 2779",
+      "publication_date": "2026-10-27",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=5TM2p2tPkB8QVGWctsZQM5Jy4WVab3EVZKs8SzwKry2UTez9HFfPUU_EMe3uIvjTeVeIS7_Nyjq3nhLmfBWzUpGQhDPxF8kbS5UGgb9XneZCJUo_BlsyE-0LWBVTZOnqe-HhXBrUuOa01pPdAjhgunz9-_rzlnQjRC7H9-JFbh21iipu2VLGuJ0phkEzgCDy96rUv7IdogJqZljYOu4FzkWBsz6eVvbTjhc-aE8-FIwe974",
+      "metadata": "Hamburg Commercial Bank AG, Hamburg Kapitalmarktinformationen Bundesanzeiger bis zu EUR 7.300.000,00 Variabel verzinsliche Inhaberschuldverschreibungen von 2025 (2030) Serie 2779 Datum: 27.10.2026 Sprache: Deutsch",
+      "source_area": "Kapitalmarktinformationen Bundesanzeiger",
+      "category": "bekanntmachungen",
+      "index": 12
+    },
+    {
+      "company": "Hamburg Commercial Bank AG, Hamburg",
+      "title": "Issue of EUR 92.000.000,00 Hamburgische Landesbank FLR-MTN v.2001(2041)",
+      "publication_date": "2026-10-23",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=rvD_fNJR8AcwiXJUas80D2OjwyO8WzR7qxO_yoKopzA4MUTW39ANA8tASIAqxcxozc8nXcid28oRwGfuTi6oMLJ-Veq8VoJCT2oOXTnj3ggRRJbwqDMZ8FleuFcmXK-bcn7T-e5bFYNCQrfRGkbrDsTKgA1JAKomq_5P1Do1KUveMSH1IJDjWQ6FaZf6utzmmGXv5ZQTRM5c3wNMXe1xr-bA18Fy3BSC-e3B8L8-VfKbQmU",
+      "metadata": "Hamburg Commercial Bank AG, Hamburg Kapitalmarktinformationen Bundesanzeiger Issue of EUR 92.000.000,00 Hamburgische Landesbank FLR-MTN v.2001(2041) Datum: 23.10.2026 Sprache: Deutsch",
+      "source_area": "Kapitalmarktinformationen Bundesanzeiger",
+      "category": "bekanntmachungen",
+      "index": 13
+    },
+    {
+      "company": "Hamburg Commercial Bank AG, Hamburg",
+      "title": "Issue of USD 22.730.000,00 Landesbank Schleswig-Holstein DL-Nachr.MTN IHS v.2001(2040)",
+      "publication_date": "2026-10-23",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=-LLAbhtilCStGdN6Chu70-buTy7x_JJcd3bhEzU7IYcWJ596myARE2PB3mDoYy6Nvr45ciV4LZwUtCmU9y1hU4RByicuTu5n6atEEqwH0pNUdLDzOiRuhAUwkfW7PnjSUNMg4TQq_BZ2V4vaIH0cdTChGWzoq-wFS4qErcUbML2YJWhHFIXGVLh8CJo_JtbJujprA1WszQoKDajas05JEAKfDP0tmWbk3u-nGpRMJ9mbKk8",
+      "metadata": "Hamburg Commercial Bank AG, Hamburg Kapitalmarktinformationen Bundesanzeiger Issue of USD 22.730.000,00 Landesbank Schleswig-Holstein DL-Nachr.MTN IHS v.2001(2040) Datum: 23.10.2026 Sprache: Deutsch",
+      "source_area": "Kapitalmarktinformationen Bundesanzeiger",
+      "category": "bekanntmachungen",
+      "index": 14
+    },
+    {
+      "company": "Hamburg Commercial Bank AG, Hamburg",
+      "title": "Issue of EUR 20.000.000,00 Hamburgische Landesbank Sub.FLR-EMTN Nts.v.2001(2031)",
+      "publication_date": "2026-10-19",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=ETYEOxJdUnZtlTK88b_hCIAUvTJ1yxLriRo8trFZnFLxBTOa_5bEA2P-ind1UuRiBomdllII3016LNBrOIXWQBE3ucro6_JV9WsF77BIHgIJvmEOojBcsQsLcpPklpq0-ciwjujRiamgCWBrVhk5yHu0gg0pN1y0X9dxdzmps76J-x9TnPGPSxoE_9Z71RmcJsYL5xDOARlyjLfBEoUiUY1B6M6LxVwl2Qvi0L3Nsebwc6w",
+      "metadata": "Hamburg Commercial Bank AG, Hamburg Kapitalmarktinformationen Bundesanzeiger Issue of EUR 20.000.000,00 Hamburgische Landesbank Sub.FLR-EMTN Nts.v.2001(2031) Datum: 19.10.2026 Sprache: Deutsch",
+      "source_area": "Kapitalmarktinformationen Bundesanzeiger",
+      "category": "bekanntmachungen",
+      "index": 15
+    },
+    {
+      "company": "Hamburg Commercial Bank AG, Hamburg",
+      "title": "bis zu EUR 25.000.000,00 Variabel verzinsliche Schiffspfandbriefe von 2024 (2027) Serie 2768",
+      "publication_date": "2026-10-19",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=no0vkSNb4AMVzcuD3uTj0q68oZcqtUB9ZPdpJ0HX-hT4qMNa2cfDBN4KhvxKuTfs8aZBvN1RcvvKwLRDf9OrqyF9euMpEFm95qfMD_rlvA-Z2AqjItZmftsK6ZzEZVfb8fqPO9zHMwAm6475dFgSGDzY6Z6l7huqqUmREy6t3cL-L1DSPem4t5joLMTIWv3EU4vFxNpIwa3BAhEP1grPyQInAbPvKtmmDJUhhqkaJ8z-M50",
+      "metadata": "Hamburg Commercial Bank AG, Hamburg Kapitalmarktinformationen Bundesanzeiger bis zu EUR 25.000.000,00 Variabel verzinsliche Schiffspfandbriefe von 2024 (2027) Serie 2768 Datum: 19.10.2026 Sprache: Deutsch",
+      "source_area": "Kapitalmarktinformationen Bundesanzeiger",
+      "category": "bekanntmachungen",
+      "index": 16
+    },
+    {
+      "company": "Hamburg Commercial Bank AG, Hamburg",
+      "title": "bis zu EUR 812.000,00 Nordic Horizon® MarktZins Cap 13/2014 Anleihe Fest-auf-variabel verzinsliche Inhaberschuldverschreibungen von 2014 (2029) Serie 2216",
+      "publication_date": "2026-10-16",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=KllpFbWn7PrbAofuwqIyOZItGMPcFQFw0TjNmwPbAqwjgyVQznysoBWxZVc56TiiPwvjDLS4aGIvoBCCTmdZ-4EI8W7MhpoQSuCj1cbJnCQ14zuLe3LjJG-llv91fwqpzqMxz4cKNzO6Hj-9ukIsIrPQLXN909dg4xNzM4Dy85BfAf2vxNqzptY--IoWHF3pDGLyVjpyZRiDPSRCo0mgk2yYAUnn5yXJX9y1QOwGfSjgV1I",
+      "metadata": "Hamburg Commercial Bank AG, Hamburg Kapitalmarktinformationen Bundesanzeiger bis zu EUR 812.000,00 Nordic Horizon® MarktZins Cap 13/2014 Anleihe Fest-auf-variabel verzinsliche Inhaberschuldverschreibungen von 2014 (2029) Serie 2216 Datum: 16.10.2026 Sprache: Deutsch",
+      "source_area": "Kapitalmarktinformationen Bundesanzeiger",
+      "category": "bekanntmachungen",
+      "index": 17
+    },
+    {
+      "company": "Hamburg Commercial Bank AG, Hamburg",
+      "title": "bis zu EUR 300.000.000,00 Variabel verzinsliche Inhaberschuldverschreibungen von 2025 (2027) Serie 2777",
+      "publication_date": "2026-10-02",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=qszD5PLVP5uv5cMuRLoFBgKhBxrVYPO6Pu_ydPhv-KFIRJm8wZHUjb2B6v6LsVdXBKTFN0br-280RIezgktOUxkI7PLeFkc9X326q6dxD8DMNq7OB5sE41oBMXW0mJqbwNKC7E469Gg9IvrhH8tmdXIlryh9uVisBKRZeN7kUzBbmOG7CBkSsI2AxEfQ5ke1adj9HULJ5rDYSteXFXBF05TEiIDuZGoRdnqERUHYc-7bV38",
+      "metadata": "Hamburg Commercial Bank AG, Hamburg Kapitalmarktinformationen Bundesanzeiger bis zu EUR 300.000.000,00 Variabel verzinsliche Inhaberschuldverschreibungen von 2025 (2027) Serie 2777 Datum: 02.10.2026 Sprache: Deutsch",
+      "source_area": "Kapitalmarktinformationen Bundesanzeiger",
+      "category": "bekanntmachungen",
+      "index": 18
+    },
+    {
+      "company": "Hamburg Commercial Bank AG, Hamburg",
+      "title": "Issue of USD 18.400.000,00 Landesbank Schleswig-Holstein DL-Nachr.MTN IHS v.2000(2030)",
+      "publication_date": "2026-09-30",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=fTvtFxJX46-jlUxpJYHS_GlH8K-L7KnIR6of2U9yLhYskAZhQufsWCFQTRtQ4j16arNtnqy58ANQkq1V-4KU3j6QEdxhdwPzt0Cp53lS-w3ZvzUcccKwQ5kpEb0JLXftkAgJjfueU1Owb_gF_GclX_VM6M4q2WDOnUDnY3vVYv7t6ov-qPVPIdCzE2OjWRugEQxiMjvNxmHV_rnkv1_MzHEy4JroYleJkgKItH1PwkOsfQ4",
+      "metadata": "Hamburg Commercial Bank AG, Hamburg Kapitalmarktinformationen Bundesanzeiger Issue of USD 18.400.000,00 Landesbank Schleswig-Holstein DL-Nachr.MTN IHS v.2000(2030) Datum: 30.09.2026 Sprache: Deutsch",
+      "source_area": "Kapitalmarktinformationen Bundesanzeiger",
+      "category": "bekanntmachungen",
+      "index": 19
+    },
+    {
+      "company": "Hamburg Commercial Bank AG, Hamburg",
+      "title": "Issue of USD 143.000.000,00 Landesbank Schleswig-Holstein DL-Nachr.MTN S.191 v.01(2031)",
+      "publication_date": "2026-09-21",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=ofMuy08lOsqSaEUgysuyYUUlboIR0uUUXrNkavp0-qjeF3hzdTOSyhG8omcLZKc-3dup01bgolVuWvVWrxT99KUfk_cURC6I8SfXqSc31Mfeyjo2zDDmdvRVmtgmH-xko8JK0A8u3-Qz-OfNp8SKr18dasqDR4eSlRtMMJ7HAnmVxtGEE3n2eORklPrCFPqSXb2uRjRiUGF_I7wdPfLcoUykadbWUpNJvitWq6mN5jwHePE",
+      "metadata": "Hamburg Commercial Bank AG, Hamburg Kapitalmarktinformationen Bundesanzeiger Issue of USD 143.000.000,00 Landesbank Schleswig-Holstein DL-Nachr.MTN S.191 v.01(2031) Datum: 21.09.2026 Sprache: Deutsch",
+      "source_area": "Kapitalmarktinformationen Bundesanzeiger",
+      "category": "bekanntmachungen",
+      "index": 20
+    },
+    {
+      "company": "Hamburg Commercial Bank AG, Hamburg",
+      "title": "Issue of EUR 5.000.000,00 Hamburgische Landesbank FLR-MTN v.2001(2030)",
+      "publication_date": "2026-09-01",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=0d0spTDHXfmj4MRw3eg4KP6J9fv6jVxUFdkVthCgcrce2SXSMI9n98m2DVCU03Lrutb5TpulZ7jrTYr585Qv_UZQzopQIzkEtgtg4lc8ZPy1h4ER3g9HmnCgtkmkC2q5iSDwWF3ZlV6Q1hCIiuE3mbMZ4ndCEzCwZfIbroQssCgza2hD4N9vCOWJOQ1rezRs58mIJjHV1e9d-ui6pNn1n-1yrK69zSbZ-bYndDdEs1cwMW4",
+      "metadata": "Hamburg Commercial Bank AG, Hamburg Kapitalmarktinformationen Bundesanzeiger Issue of EUR 5.000.000,00 Hamburgische Landesbank FLR-MTN v.2001(2030) Datum: 01.09.2026 Sprache: Deutsch",
+      "source_area": "Kapitalmarktinformationen Bundesanzeiger",
+      "category": "bekanntmachungen",
+      "index": 21
+    },
+    {
+      "company": "Hamburg Commercial Bank AG, Hamburg",
+      "title": "bis zu EUR 15.000.000,00 Variabel verzinsliche Inhaberschuldverschreibungen von 2025 (2032) Serie 2776",
+      "publication_date": "2026-08-28",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=4kfqFfZqyfJyRXyWYZGj_h-rIy8yfBJXjw5-pew17DNaoiHqwFLI2-xKm20AZhTI7TBlDynzqFby_agtJkrv-g0P9y4zoC7BTiLs04ovVHAqzh_RyJ-Iox9AlQXQIILZE4EEKxPxIhCi93DfuXpfxUXzZ6ZJqfvQ1T7lmNY-6rjyTCMLZv3xplPzXy0DT__ED2R7uDySNl6XZdW1JqKDdJ8xiZ8ZnWgl3S78ZlbXqaenATE",
+      "metadata": "Hamburg Commercial Bank AG, Hamburg Kapitalmarktinformationen Bundesanzeiger bis zu EUR 15.000.000,00 Variabel verzinsliche Inhaberschuldverschreibungen von 2025 (2032) Serie 2776 Datum: 28.08.2026 Sprache: Deutsch",
+      "source_area": "Kapitalmarktinformationen Bundesanzeiger",
+      "category": "bekanntmachungen",
+      "index": 22
+    },
+    {
+      "company": "Hamburg Commercial Bank AG, Hamburg",
+      "title": "Issue of EUR 50.000.000,00 Hamburgische Landesbank FLR-MTN v.2000(2030)",
+      "publication_date": "2026-08-28",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=3Vc9d6LezYjp_kBGUOgHj6m7XdtBdUwwCTqroaRSjKYcZlQJN-3jldL5qrp-ls5kgvfx_NK6Mgx4la_lsnvEXyAkjm980P0g459YvcErp9gX4E7_g8ywvEbbg3cgZrDgkFkMXo-A6srj2n0rYUifNX8z31ocz3bcBiPcdy5-x_LXGr8jj_8I1dokmQ1Q0tpHPkct047Y-TN9lR1BjSdbHoqYkpkS7IcMcggPtykBWC_2boo",
+      "metadata": "Hamburg Commercial Bank AG, Hamburg Kapitalmarktinformationen Bundesanzeiger Issue of EUR 50.000.000,00 Hamburgische Landesbank FLR-MTN v.2000(2030) Datum: 28.08.2026 Sprache: Deutsch",
+      "source_area": "Kapitalmarktinformationen Bundesanzeiger",
+      "category": "bekanntmachungen",
+      "index": 23
+    },
+    {
+      "company": "Hamburg Commercial Bank AG, Hamburg",
+      "title": "Issue of EUR 74.000.000,00 Landesbank Schleswig-Holstein Nachr.MTN IHS v.1999(2039)",
+      "publication_date": "2026-08-26",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=6Ye4n5VTi4PcNvO_AXv3W-jHyrbkK0zuVJImOyuqwcT4j3_wJSIEnywIVe3P88hvdRgx-ZG5wr6PId2n5iJWEaXEjE3ggH8T3qABBggCwecT-TrdVjCm7Cm-13WU61CS1E6UpLQZNzF2ZH_lRi6ETRXeySxX669qqoaZuKJwMQY1nBNy78azpcaRvqeb_3i1qRIi53XJdXO4XllLjvHyvR7NSb-w5tDbH71H2jGGyiiX0Vo",
+      "metadata": "Hamburg Commercial Bank AG, Hamburg Kapitalmarktinformationen Bundesanzeiger Issue of EUR 74.000.000,00 Landesbank Schleswig-Holstein Nachr.MTN IHS v.1999(2039) Datum: 26.08.2026 Sprache: Deutsch",
+      "source_area": "Kapitalmarktinformationen Bundesanzeiger",
+      "category": "bekanntmachungen",
+      "index": 24
+    },
+    {
+      "company": "Hamburg Commercial Bank AG, Hamburg",
+      "title": "Halbjahresfinanzbericht nach WpHG für den Zeitraum vom 01.01.2026 bis zum 30.06.2026",
+      "publication_date": "2026-08-20",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=JCcrmZh7u_kH_5Ajg9LtP5S_2uuHlkGr7sJ07mPbTcjzAkUT7UN5yvegri9jtYgj9W0mYjUDkERTqPa3kbEYC27XWzYQ3NheGdMOhbCljRxM5eA9DvRd2OD9Rssw5Sp8ASzfImniwSQmAsbMWoGzviUcxjSlSiW9YQd0Rqv3nG6KzBoVxg2mGWoOPXfX8BwwveysFaE6uXeRaEuLblvzMdJqDGJurQbVJ9-RdANVfZ87N7w",
+      "metadata": "Hamburg Commercial Bank AG, Hamburg Rechnungslegung / Finanzberichte https://www.hcob-bank.com/investor-relations/veroeffentlichungen/ Halbjahresfinanzbericht nach WpHG für den Zeitraum vom 01.01.2026 bis zum 30.06.2026 Datum: 20.08.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte https://www.hcob-bank.com/investor-relations/veroeffentlichungen/",
+      "category": "finanzberichte",
+      "index": 25
+    },
+    {
+      "company": "Hamburg Commercial Bank AG, Hamburg",
+      "title": "Issue of USD 25.000.000,00 Landesbank Schleswig-Holstein Nachr.DL-FLR-Notes.v.01(31)",
+      "publication_date": "2026-08-20",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=KpvDH4I01ktCRjFhs2Ixi-coC2ujl7uIyladNybFuRZrPq6Pee7-1e-Tw82OQg_pMrbyMXQIVaSmpCOcE1CuV6pOoKoT1fQQL41NZiXmOK50l2jXqxUp8OKOwyxvPCyDcc5sKg_e3Y6DvB_SzYLfK20YCA0UNSIppX03vEADl3u_Wbu-nIKjrOleyWrvIAn9zoFEMynHOuspq1jdDEEOgx73mIOPezQ4WLoFALYfazH8KK8",
+      "metadata": "Hamburg Commercial Bank AG, Hamburg Kapitalmarktinformationen Bundesanzeiger Issue of USD 25.000.000,00 Landesbank Schleswig-Holstein Nachr.DL-FLR-Notes.v.01(31) Datum: 20.08.2026 Sprache: Deutsch",
+      "source_area": "Kapitalmarktinformationen Bundesanzeiger",
+      "category": "bekanntmachungen",
+      "index": 26
+    },
+    {
+      "company": "Hamburg Commercial Bank AG, Hamburg",
+      "title": "Hinweis auf Halbjahresfinanzbericht vom 01.01.2026 bis zum 30.06.2026",
+      "publication_date": "2026-08-10",
+      "language": "Englisch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=EcwojARGZ8QHGjivKjx9l63POmuTcRv3gn2Y4PdiQZeA5hE0cnhaT0zZqF31QRquPMZj0PP0TkT3Sr2Roe4Q2iL0ABbF-dgDuZ0J6S2kXTn0IRMaTVQDjn3t09CUDD0V_Cz81-YE31iqGxvB1ZfVoHzJLpaJLvBk-uHMDZPrcVGZWdex4QGkbMwvyCMpzntrqwzf_1Hmt2wFpLq841EZ0Ei-ANDizdtCLRmpG0e5pfXn9IQ",
+      "metadata": "Hamburg Commercial Bank AG, Hamburg Rechnungslegung / Finanzberichte EQS Group GmbH, veröffentlicht über Bloomberg, Infront und Reuters Hinweis auf Halbjahresfinanzbericht vom 01.01.2026 bis zum 30.06.2026 Datum: 10.08.2026 Sprache: Englisch",
+      "source_area": "Rechnungslegung / Finanzberichte EQS Group GmbH, veröffentlicht über Bloomberg, Infront und Reuters",
+      "category": "bekanntmachungen",
+      "index": 27
+    },
+    {
+      "company": "Hamburg Commercial Bank AG, Hamburg",
+      "title": "Hinweis auf Halbjahresfinanzbericht vom 01.01.2026 bis zum 30.06.2026",
+      "publication_date": "2026-08-10",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=dbXyLbDlJqsMuSrkt-C-DP2a93gJANleVy-xQqEZcsgWSbuPnyN0syo6dhfNWmXlppjS0Vh2F1LMkEoFc830GlDI3vPY8YSfDlZ5F9EcNGtxwh2sVOwb_gMxT2rtaoIyiiAfvSKDuxyBDLyb_ccWgJLxNpTOntpKbtJ1xtxlWSwUrovRV6vQLSmv0Jhl7LQujtyGVp_ccagGG9gf-RsU7NQ9TCUwqnWsfG0MvsEE8n9DCa8",
+      "metadata": "Hamburg Commercial Bank AG, Hamburg Rechnungslegung / Finanzberichte EQS Group GmbH, veröffentlicht über Bloomberg, Infront und Reuters Hinweis auf Halbjahresfinanzbericht vom 01.01.2026 bis zum 30.06.2026 Datum: 10.08.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte EQS Group GmbH, veröffentlicht über Bloomberg, Infront und Reuters",
+      "category": "bekanntmachungen",
+      "index": 28
+    },
+    {
+      "company": "Hamburg Commercial Bank AG, Hamburg",
+      "title": "Issue of EUR 16.000.000,00 Hamburgische Landesbank Nachr. FLR-MTN v.2001(2031)",
+      "publication_date": "2026-08-05",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=e7hdVLJyK7ooaQNx0gdiuERPP7IEE-z0mQknbGBeiUtxLxCpvVwNej18sPFxFgoGkqi58p5ThsB5bw2z8rZRsdUs2hFcNdMKP7a9N_xM_M5TianB53JGQ3UGvQ3OuB_uzDfylM87mU65TPBRp9-wNIaXNVpT7RgMIlDcUmzbmvgEPDtf7htjO5Yt82C1KmxSeHGMIfXy9lD5zvqCjWaSwYZv5S1bZgQjb9Z_NwdDqrv5Ezg",
+      "metadata": "Hamburg Commercial Bank AG, Hamburg Kapitalmarktinformationen Bundesanzeiger Issue of EUR 16.000.000,00 Hamburgische Landesbank Nachr. FLR-MTN v.2001(2031) Datum: 05.08.2026 Sprache: Deutsch",
+      "source_area": "Kapitalmarktinformationen Bundesanzeiger",
+      "category": "bekanntmachungen",
+      "index": 29
+    },
+    {
+      "company": "Hamburg Commercial Bank AG, Hamburg",
+      "title": "Issue of USD 30.000.000,00",
+      "publication_date": "2026-08-04",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=3LexOCuIyezCmZrzEAvotu6_vNHk15Dc-oBjEyyHkB8mzuL1ce1S0Q_lHwawHMP933MKqFQrwfdcRksq0Sk3nYNdKhYWz22gfiiN8-cY3KRTXPYTGR6G1uqNs2fu__LqTXoW906HJbZvSzTpXgixPkIXAaDRvadQb5eox2gVu6PJ827z7WcK2Zx6AWjb1Uk54-th6GGuci2uK8FBfSuaT808cbz8qsa2rLMufyaZmPcXptQ",
+      "metadata": "Hamburg Commercial Bank AG, Hamburg Kapitalmarktinformationen Bundesanzeiger Issue of USD 30.000.000,00 Datum: 04.08.2026 Sprache: Deutsch",
+      "source_area": "Kapitalmarktinformationen Bundesanzeiger",
+      "category": "bekanntmachungen",
+      "index": 30
+    }
+  ]
+}

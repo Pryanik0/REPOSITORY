@@ -1,0 +1,146 @@
+{
+  "provider": "karriere",
+  "company": {
+    "key": "Sinnwell",
+    "name": "Sinnwell",
+    "location": "München",
+    "name_source": "company_name",
+    "urls": [
+      "https://www.sinnwell.ag/de"
+    ],
+    "kununu_url": null,
+    "branches": [
+      "Unternehmens- & Personalberatung"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "80992",
+    "street": "Dessauer strasse 6",
+    "region": "Bayern",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:32:29.028416+00:00",
+  "status": "partial",
+  "jobs": [],
+  "pages": [
+    {
+      "url": "https://www.sinnwell.ag/de",
+      "final_url": "https://sinnwell.ag/de/",
+      "redirects": [
+        {
+          "source": "https://www.sinnwell.ag/de",
+          "target": "http://sinnwell.ag/de",
+          "status": 301
+        },
+        {
+          "source": "http://sinnwell.ag/de",
+          "target": "https://sinnwell.ag/de",
+          "status": 301
+        },
+        {
+          "source": "https://sinnwell.ag/de",
+          "target": "https://sinnwell.ag/de/",
+          "status": 301
+        }
+      ],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://sinnwell.ag/de/stellenengebote",
+      "final_url": "https://sinnwell.ag/de/stellenengebote",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://sinnwell.ag/de/news/karriere-mit-sinnwell",
+      "final_url": "https://sinnwell.ag/de/news/karriere-mit-sinnwell",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://sinnwell.starhunter.software/job-portal/overview",
+      "final_url": "https://sinnwell.starhunter.software/job-portal/overview",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    }
+  ],
+  "errors": [
+    {
+      "url": "https://sinnwell.ag/de/stellenengebote.html",
+      "reason": "fetch_failed",
+      "error": "HTTP 404: https://sinnwell.ag/de/stellenengebote.html"
+    },
+    {
+      "url": "https://sinnwell.starhunter.software/job-portal/overview",
+      "reason": "no_extractable_jobs_or_career_links",
+      "error": "Keine auslesbaren Stellen; JavaScript oder manuelle Prüfung erforderlich."
+    },
+    {
+      "url": "https://sinnwell.ag/de/de/stellenengebote",
+      "reason": "fetch_failed",
+      "error": "HTTP 404: https://sinnwell.ag/de/de/stellenengebote"
+    },
+    {
+      "url": "https://sinnwell.ag/de/news/de/news/karriere-mit-sinnwell",
+      "reason": "fetch_failed",
+      "error": "HTTP 404: https://sinnwell.ag/de/news/de/news/karriere-mit-sinnwell"
+    }
+  ],
+  "excluded": [],
+  "sources": [
+    {
+      "url": "https://www.sinnwell.ag/de",
+      "linked_from": null,
+      "mechanism": "configured"
+    },
+    {
+      "url": "http://sinnwell.ag/de",
+      "linked_from": "https://www.sinnwell.ag/de",
+      "mechanism": "http_redirect"
+    },
+    {
+      "url": "https://sinnwell.ag/de",
+      "linked_from": "http://sinnwell.ag/de",
+      "mechanism": "http_redirect"
+    },
+    {
+      "url": "https://sinnwell.ag/de/",
+      "linked_from": "https://sinnwell.ag/de",
+      "mechanism": "http_redirect"
+    },
+    {
+      "url": "https://sinnwell.starhunter.software/job-portal/overview",
+      "linked_from": "https://sinnwell.ag/de/stellenengebote",
+      "mechanism": "employer_link"
+    }
+  ],
+  "adapter_attempts": [],
+  "coverage": {
+    "scope": "configured_sites_and_linked_career_portals",
+    "complete": false,
+    "pending_pages": 0,
+    "page_limit_reached": false,
+    "job_limit_reached": false,
+    "request_limit_reached": false,
+    "pages_attempted": 7,
+    "pages_read": 4,
+    "dynamic_or_unparsed_pages": true,
+    "http": {
+      "requests_attempted": 17,
+      "allocated_requests": 950,
+      "cache_hits": 0
+    }
+  },
+  "pending_urls": [],
+  "jobs_before_keyword_filter": 0,
+  "reason": "search_incomplete"
+}

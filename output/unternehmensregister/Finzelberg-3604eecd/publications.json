@@ -1,0 +1,129 @@
+{
+  "company": {
+    "key": "Finzelberg",
+    "name": "Finzelberg GmbH & Co. KG",
+    "location": "Andernach",
+    "name_source": "company_name",
+    "urls": [
+      "https://finzelberg.com/"
+    ],
+    "kununu_url": "https://www.kununu.com/de/finzelberg1",
+    "branches": [
+      "Pharma & Medizintechnik"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "56626",
+    "street": "Koblenzer Straße 48–56",
+    "region": "Rheinland-Pfalz",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:45:51.931546+00:00",
+  "searches": [
+    {
+      "accounting_only": true,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=Finzelberg+GmbH+%26+Co.+KG&companyLocation=Andernach&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ACCOUNTING&drilldownFilter=22&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": false
+    },
+    {
+      "accounting_only": false,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=Finzelberg+GmbH+%26+Co.+KG&companyLocation=Andernach&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ALL_AREAS&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": false
+    }
+  ],
+  "excluded_company_matches": [
+    {
+      "company": "MB-Holding GmbH & Co. KG, Vestenbergsgreuth",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-02-04",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=v8PGBzNmK18JESAFtw04_7g8a07FqLPCHk_e713xlKGwuMWlqx1v5ARE63hVi0cb0Ukn4LB0WPkT6TuLHT-tH1-RBETIK95ZwrCnVpXDa8GeMnsXXs4xcu1-zhfQ24D5aE7N39RvMX3_drWv8NeNegGyxjf6rrxIdb3GKVW6WI3jhxpbKvEj-j11BsoNq5pPY-zBWcgQebF_V3cIwcTrJDogOF1Ng1eBjp-hOGvQ7mC2WJMn",
+      "metadata": "MB-Holding GmbH & Co. KG, Vestenbergsgreuth Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 04.02.2026 Sprache: Deutsch Befreite Unternehmen anzeigen Finzelberg GmbH & Co. KG, Andernach MB-Holding GmbH & Co. KG, Vestenbergsgreuth Martin Bauer GmbH & Co. KG, Vestenbergsgreuth PhytoLab GmbH & Co. KG, Vestenbergsgreuth",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "MB-Holding GmbH & Co. KG, Vestenbergsgreuth",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-01-31",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=VehywxHZpNATIu2f6oP-jw8KD8la-eIzvvO_pLT8lr4zq6l_S-C1bl8u8MinLMv2V1dy4mly285FLiykboWZVetuKtLxogHI5A2pkAqcxzSm9jIhQUIPNdmbbEAxXULZX8bzQwbsCtJEd_hGiS3x8Q91U6lye0P5L_8u2jExsj1qWgU1FUDyYSFcXa_wu9h55kk5Pt18DCq0RyZhYtLfdYvwSVWViouAAZK4GjGNd_3XlfhU",
+      "metadata": "MB-Holding GmbH & Co. KG, Vestenbergsgreuth Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 31.01.2025 Sprache: Deutsch Befreite Unternehmen anzeigen Finzelberg GmbH & Co. KG, Andernach MB-Holding GmbH & Co. KG, Vestenbergsgreuth Martin Bauer GmbH & Co. KG, Vestenbergsgreuth PhytoLab GmbH & Co. KG, Vestenbergsgreuth Abtswinder Naturheilmittel GmbH & Co KG, Abtswind",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "MB-Holding GmbH & Co. KG, Vestenbergsgreuth",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-02-04",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=IQZFbhGi1k_7u7oH3SeimsrP0j8rEGVdHuVO1byQtbjTzpKEjjR0PAtAmGb8ED-xPNTgcG6yuUHUUzL04szlWAZqZk_f7iDJVAts0Fz3Nz_NOaqBElYxD5HggQhMihkWFoOssfVsoaGFPOC8aCTIUnWIcnp8T3YPWs8jDWyhbVKL81E1Z59ibhofvWl7P3ES9KXd7u_yUrwkuXPor61k6Gg53x-iAw3Ylqo5kf0bTtJJ8JX2",
+      "metadata": "MB-Holding GmbH & Co. KG, Vestenbergsgreuth Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 04.02.2026 Sprache: Deutsch Befreite Unternehmen anzeigen Finzelberg GmbH & Co. KG, Andernach MB-Holding GmbH & Co. KG, Vestenbergsgreuth Martin Bauer GmbH & Co. KG, Vestenbergsgreuth PhytoLab GmbH & Co. KG, Vestenbergsgreuth",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "MB-Holding GmbH & Co. KG, Vestenbergsgreuth",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-01-31",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=wLS__PT5BfZxOmRCrsSMQfGo6RxM8dI_ESYhXfkoIalXX1n7-rUsgM05ZxFR798U3BHlPrDkx05iJuQTLDOfnXkUW9vY_Dbvg9snM15YhEefnJnZs3xlmV7i7EB2oGB9lQJZi5dcQ5cTed6hUKcZhsTietDz5hLbWTWq5azkQ17xAlmLmVGQ61Tr94ttyyK01PPfE9e3xpImvU3Tieif1mkoPHge5AfwbdUke3gYTbRUC5X-",
+      "metadata": "MB-Holding GmbH & Co. KG, Vestenbergsgreuth Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 31.01.2025 Sprache: Deutsch Befreite Unternehmen anzeigen Finzelberg GmbH & Co. KG, Andernach MB-Holding GmbH & Co. KG, Vestenbergsgreuth Martin Bauer GmbH & Co. KG, Vestenbergsgreuth PhytoLab GmbH & Co. KG, Vestenbergsgreuth Abtswinder Naturheilmittel GmbH & Co KG, Abtswind",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    }
+  ],
+  "date_from": "2024-01-01",
+  "date_to": "2026-11-25",
+  "excluded_dates": [],
+  "max_publications": 30,
+  "truncated": false,
+  "coverage": {
+    "search_complete": true,
+    "more_pages": false,
+    "publication_limit_reached": false,
+    "downloads_selected": 3,
+    "downloads_succeeded": 3,
+    "download_limit_reached": false,
+    "downloads_complete": true,
+    "text_complete": true
+  },
+  "publications": [
+    {
+      "company": "Finzelberg GmbH & Co. KG, Andernach",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-01-30",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=L2Xshcvx4vrscc-8IdDqv3tzKtzp40NEey6_iHRRtWBDrbIBL4_7rY5na_7AmnHqasy-3h3M4f62uTVcgkwYL_YqJ_hXRPMuzjR8IfsL-doC2kfsxcVN-Wo23IPCmwKnLCCcAqw-jvg0vF4X4Vg5XYH94M-SIkjs7zyKh5y63eZtOKQjnp9xCf7dOF5IgOISMn-9AKBrz3onoVnvJyuQsdFvAED-pxuKUC7yJi9cheyQ6-UM",
+      "metadata": "Finzelberg GmbH & Co. KG, Andernach Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 MB-Holding GmbH & Co. KG, Vestenbergsgreuth Datum: 30.01.2026 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "bekanntmachungen",
+      "index": 1
+    },
+    {
+      "company": "Finzelberg GmbH & Co. KG, Andernach",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-01-09",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=DFRmbpb0QEqHOu_uyuQMEuI6LWCAY_kG7ikzFe8ehO7Ig41e7ML6qG89_XKVgAOPvZPGp39umgKwbct6iYJU7k58tG-xXKjN7QtimYUe5Mo9dc3nIkV143eiqsmxlFBRk6mTm-Z-G485XbyNel_6HA1KBMXLdi27fsH0wEfjclUdrGDxx6EETsw_e4-bjhVMWlQkNoLhgeprRtjxNy_s7lc4ppcUIDcDDINxBRiQG5LWj2AT",
+      "metadata": "Finzelberg GmbH & Co. KG, Andernach Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 MB-Holding GmbH & Co. KG, Vestenbergsgreuth Datum: 09.01.2025 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "bekanntmachungen",
+      "index": 2
+    },
+    {
+      "company": "Finzelberg GmbH & Co. KG, Andernach",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-01-08",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=XOwypAaKTSYp5Bpq3qrWUu_XkIjZRMITnMNsSu5WhOuPKL_doC_EH_xhovwFDZisxhGo3d_CM36wFBj_pdurfYmkm6gisuopBueGHeSKvTQcRF58lVehr12LrPwZ8XFwcYKNF03Xf2gHfPZKbcUiBEzsKPmDOHMsNK-Ju-8Ug8r3czPYCp8p7vIJ7tAr8EAdNv9DxNtiUN5lB3Y0jxXEgu8oC19zuF8m96w2smif6s7JzrVT",
+      "metadata": "Finzelberg GmbH & Co. KG, Andernach Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 MB-Holding GmbH & Co. KG, Vestenbergsgreuth Datum: 08.01.2024 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "bekanntmachungen",
+      "index": 3
+    }
+  ]
+}

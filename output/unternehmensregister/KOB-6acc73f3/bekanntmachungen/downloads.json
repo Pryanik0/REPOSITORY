@@ -1,0 +1,56 @@
+[
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=E0ND2Le_cJxM38jM0OFaEQ747v0Nw8YEDMMPsCXrplfjWpclzI4so-2iIDDgw6H0YCELfKgpPQV2QPm6TNbMo--j8ls7rh73YbeF_s4Es1qrwew_jPdpzbP3zvCEg75QqkFkfJmytsTXLuibrO0HTLdhLD9NL0_CFrVpfEGAh2cY0Zkoy5dcnhhn0Euq7QEqE_2XsCd1k0jFmGoXHX6c8v30yLGKQl7EQ7BF8aRoG646TecP",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\KOB-6acc73f3\\bekanntmachungen\\publication-1\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\KOB-6acc73f3\\bekanntmachungen\\publication-1\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\KOB-6acc73f3\\bekanntmachungen\\publication-1\\publication.txt",
+    "index": 1,
+    "category": "bekanntmachungen",
+    "company": "KOB GmbH, Wolfstein",
+    "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2026 bis zum 31.12.2026",
+    "documents_path": "output\\unternehmensregister\\KOB-6acc73f3\\bekanntmachungen\\publication-1\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=7r6U6gj_BwwbB0OkoNvkgjD7JwcKAz4456NHgiGlqxShO1-ABUMZZRfNVOKXlCZMDmBHphWF6JgExJlqzL-LTQSMgYGtJlqFnZx0g-TmqwfMAZ45Nn5hZelqTd1shEed-QAmou3BxBtj9Dd-p5xf_FiJ3zCYWPvq3T67PvCP67RZHcu5tPj7CQCKPBFMtvC6yh9WirmcaTpRL6nmB1jIbkW2owKOyVWmAOHDh5CdwiIh3a0i",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\KOB-6acc73f3\\bekanntmachungen\\publication-2\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\KOB-6acc73f3\\bekanntmachungen\\publication-2\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\KOB-6acc73f3\\bekanntmachungen\\publication-2\\publication.txt",
+    "index": 2,
+    "category": "bekanntmachungen",
+    "company": "KOB GmbH, Wolfstein",
+    "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+    "documents_path": "output\\unternehmensregister\\KOB-6acc73f3\\bekanntmachungen\\publication-2\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=lmPn7A_ruoeVLKsSV_ItIzPsEv77SzR2Z7IusA_yUe9Ve0ohGuiJof0wpmYH6svlSv7C0mzmsfPzaorjWf3Aclzeql0VlbUP2NnMFP7OP446J0-_Z5PBbnarxPG-GGvVklZFrSPRZxJslStWzxnBSLHKTdYUIsVSYJyHEah23ssJLwDa3KrXEEXXJUZMJDodMgxSgXW-pGletBfQKkco13luxNczifoJt8Qwp2Zp41937bXh",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\KOB-6acc73f3\\bekanntmachungen\\publication-3\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\KOB-6acc73f3\\bekanntmachungen\\publication-3\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\KOB-6acc73f3\\bekanntmachungen\\publication-3\\publication.txt",
+    "index": 3,
+    "category": "bekanntmachungen",
+    "company": "KOB GmbH, Wolfstein",
+    "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+    "documents_path": "output\\unternehmensregister\\KOB-6acc73f3\\bekanntmachungen\\publication-3\\documents.json"
+  }
+]

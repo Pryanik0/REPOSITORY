@@ -1,0 +1,444 @@
+{
+  "provider": "kununu",
+  "backend": "browser",
+  "status": "partial",
+  "query": "Maria Clementine Martin Klosterfrau Vertriebsgesellschaft mbH",
+  "profile": {
+    "url": "https://www.kununu.com/de/mcm-klosterfrau-vertriebs-gmbh",
+    "name": "MCM Klosterfrau Vertriebs GmbH",
+    "overall_score": 3.8,
+    "review_count": 105,
+    "recommendation_percent": 74,
+    "recommendation_period": "last_2_years",
+    "observed_at": "2026-11-25T17:14:27.434138+00:00"
+  },
+  "reviews": [
+    {
+      "id": "5bc9046d-86ea-4f47-aff0-9050d7d4a50e",
+      "url": "https://www.kununu.com/de/mcm-klosterfrau-vertriebs-gmbh/bewertung/5bc9046d-86ea-4f47-aff0-9050d7d4a50e",
+      "title": "Arbeitgeber mit Tradition und Zusammenhalt",
+      "content": "Starker Zusammenhalt unter den Kolleg*innen und WIR-Gefühl, sehr respektvoller Umgang, große Flexibilität der Arbeitszeiten und Urlaubsplanung, Kommunikation auf Augenhöhe, man ist stolz ein Teil der Klosterfrau zu sein.\n\nEs gibt ab einem bestimmten Alter zusätzliche Urlaubstage",
+      "rating": 4.8,
+      "sections": {
+        "positive": "Starker Zusammenhalt unter den Kolleg*innen und WIR-Gefühl, sehr respektvoller Umgang, große Flexibilität der Arbeitszeiten und Urlaubsplanung, Kommunikation auf Augenhöhe, man ist stolz ein Teil der Klosterfrau zu sein.",
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "oldColleagues": "Es gibt ab einem bestimmten Alter zusätzliche Urlaubstage"
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 4.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 4.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-07-23T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "74f82785-4374-4dd5-85aa-78a4d9298fa4",
+      "url": "https://www.kununu.com/de/mcm-klosterfrau-vertriebs-gmbh/bewertung/74f82785-4374-4dd5-85aa-78a4d9298fa4",
+      "title": "Von Umstrukturierung zur Unsicherheit",
+      "content": "Seit einem Jahr befindet sich das Unternehmen in einer Phase der Umstrukturierung, die sich deutlich auf die Arbeitsabläufe auswirkt. Insbesondere ist eine Zunahme an Abstimmungsrunden und Meetings festzustellen, was in vielen Fällen zu verlängerten Entscheidungswegen führt. Prozesse sind dadurch teilweise weniger effizient als zuvor.\nAuffällig ist zudem, dass Entscheidungen, die bereits abgestimmt und in entsprechenden Gremien präsentiert wurden, im Nachgang vereinzelt wieder hinterfragt oder durch einzelne Entscheidungsträger angepasst werden. Dies führt stellenweise zu Unsicherheit in der Umsetzung sowie zu zusätzlichem Abstimmungsaufwand.\nInsgesamt ist die Organisation derzeit stark von internen Abstimmungen geprägt, was die Geschwindigkeit von Projekten beeinflusst.",
+      "rating": 2.3,
+      "sections": {
+        "positive": null,
+        "negative": "Seit einem Jahr befindet sich das Unternehmen in einer Phase der Umstrukturierung, die sich deutlich auf die Arbeitsabläufe auswirkt. Insbesondere ist eine Zunahme an Abstimmungsrunden und Meetings festzustellen, was in vielen Fällen zu verlängerten Entscheidungswegen führt. Prozesse sind dadurch teilweise weniger effizient als zuvor.\nAuffällig ist zudem, dass Entscheidungen, die bereits abgestimmt und in entsprechenden Gremien präsentiert wurden, im Nachgang vereinzelt wieder hinterfragt oder durch einzelne Entscheidungsträger angepasst werden. Dies führt stellenweise zu Unsicherheit in der Umsetzung sowie zu zusätzlichem Abstimmungsaufwand.\nInsgesamt ist die Organisation derzeit stark von internen Abstimmungen geprägt, was die Geschwindigkeit von Projekten beeinflusst.",
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 1.0,
+        "workLife": 2.0,
+        "communication": 2.0,
+        "workConditions": 4.0,
+        "leadership": 1.0,
+        "teamwork": 4.0,
+        "oldColleagues": 3.0,
+        "equality": 1.0,
+        "career": 1.0,
+        "salary": 3.0,
+        "image": 3.0,
+        "environment": 3.0,
+        "tasks": 2.0
+      },
+      "published_at": "2026-04-02T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "a15c4855-c08a-4aa6-8b9e-be2340399793",
+      "url": "https://www.kununu.com/de/mcm-klosterfrau-vertriebs-gmbh/bewertung/a15c4855-c08a-4aa6-8b9e-be2340399793",
+      "title": "Was mal gesagt werden muss",
+      "content": "Kommunikation\n\nKommunikation\n\nKollegen helfen immer wenn es möglich\n\nInteressiert sich nur bedingt für Mitarbeiter. Nehmen es mal mit!\n\nMan wird meistens vor vollendete Tatsachen gestellt",
+      "rating": 2.7,
+      "sections": {
+        "positive": null,
+        "negative": "Kommunikation",
+        "suggestion": "Kommunikation"
+      },
+      "factor_comments": {
+        "teamwork": "Kollegen helfen immer wenn es möglich",
+        "leadership": "Interessiert sich nur bedingt für Mitarbeiter. Nehmen es mal mit!",
+        "communication": "Man wird meistens vor vollendete Tatsachen gestellt"
+      },
+      "factor_scores": {
+        "atmosphere": 1.0,
+        "workLife": 3.0,
+        "communication": 1.0,
+        "workConditions": 3.0,
+        "leadership": 1.0,
+        "teamwork": 4.0,
+        "oldColleagues": 4.0,
+        "equality": 4.0,
+        "career": 2.0,
+        "salary": 4.0,
+        "image": 3.0,
+        "environment": null,
+        "tasks": 2.0
+      },
+      "published_at": "2026-03-03T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "538ffb37-3eba-4063-8231-0b39b2f49438",
+      "url": "https://www.kununu.com/de/mcm-klosterfrau-vertriebs-gmbh/bewertung/538ffb37-3eba-4063-8231-0b39b2f49438",
+      "title": "Gefangen in der Tradition",
+      "content": "-Pflegt seine erhaltenswerten Traditionen\n-Ringt um Stammbelegschaft\n\n-Hängt zu sehr in der langen, glorreichen Firmentradition.\n-Sicherheit geht vor Unternehmerrisiko\n\n-Mehr Risikobereitschaft, insbesondere bei der Erschließung neuer Absatzmärkte.\n-Arbeit an der Erneuerung des veralteten Produktportfolios\n-Bessere Nutzung des know hows und der Erfahrungen der eigenen Mitarbeiter gegenüber externer Berater\n\nZu meiner Zeit gab es strenge Hierarchien und die Atmosphäre war sehr traditionell und teilweise nicht zeitgemäß.\n\nFirmenimage war \"old fashioned\" , zu sehr in der Tradition verhaftet. Veränderungen nur schwer zu vermitteln und kaum durchzusetzen.\n\nIm Großen und Ganzen umgesetzt. Die jüngeren Kollegen betrachten diesen Aspekt sicherlich als unzureichend berücksichtigt.\n\nFirmeninterne Qualifizierungen auf gutem Niveau und mit großer Akzeptanz unter den Beteiligten.\n\nLag im Branchendurchschnitt.\n\nUmsetzung gegeben. Reserven vorhanden\n\nKollegenzusammenhalt auch zwischen den Generationen war vorbildlich. Teilweise konnten nur über Netzwerke richtige Entscheidungen durchgesetzt werden.\n\nWar verbesserungswürdig.\n\nZum Teil inkompetente Vorgesetzte, die wie Monarchen ihre Abteilungen führen.\n\nDurchschnittliche Arbeitsbedingungen. Pausenversorgung sehr gut und erschwinglich. Firmenevents durchdacht und gut organisiert.\n\nKommunikation der Führung war unzureichend. Belegschaft wurden bei Veränderungsprozessen nicht mitgenommen. Zu viel externe Beratung eingefordert, deren Vorschläge wenn richtig nicht umgesetzt wurden oder an der Firmenwirklichkeit vorbeigingen.\n\nWar zu meiner Zeit umgesetzt.\n\nJe nach Aufgabenbereich doch recht interessante und fordernde Aufgaben",
+      "rating": 3.1,
+      "sections": {
+        "positive": "-Pflegt seine erhaltenswerten Traditionen\n-Ringt um Stammbelegschaft",
+        "negative": "-Hängt zu sehr in der langen, glorreichen Firmentradition.\n-Sicherheit geht vor Unternehmerrisiko",
+        "suggestion": "-Mehr Risikobereitschaft, insbesondere bei der Erschließung neuer Absatzmärkte.\n-Arbeit an der Erneuerung des veralteten Produktportfolios\n-Bessere Nutzung des know hows und der Erfahrungen der eigenen Mitarbeiter gegenüber externer Berater"
+      },
+      "factor_comments": {
+        "atmosphere": "Zu meiner Zeit gab es strenge Hierarchien und die Atmosphäre war sehr traditionell und teilweise nicht zeitgemäß.",
+        "image": "Firmenimage war \"old fashioned\" , zu sehr in der Tradition verhaftet. Veränderungen nur schwer zu vermitteln und kaum durchzusetzen.",
+        "workLife": "Im Großen und Ganzen umgesetzt. Die jüngeren Kollegen betrachten diesen Aspekt sicherlich als unzureichend berücksichtigt.",
+        "career": "Firmeninterne Qualifizierungen auf gutem Niveau und mit großer Akzeptanz unter den Beteiligten.",
+        "salary": "Lag im Branchendurchschnitt.",
+        "environment": "Umsetzung gegeben. Reserven vorhanden",
+        "teamwork": "Kollegenzusammenhalt auch zwischen den Generationen war vorbildlich. Teilweise konnten nur über Netzwerke richtige Entscheidungen durchgesetzt werden.",
+        "oldColleagues": "War verbesserungswürdig.",
+        "leadership": "Zum Teil inkompetente Vorgesetzte, die wie Monarchen ihre Abteilungen führen.",
+        "workConditions": "Durchschnittliche Arbeitsbedingungen. Pausenversorgung sehr gut und erschwinglich. Firmenevents durchdacht und gut organisiert.",
+        "communication": "Kommunikation der Führung war unzureichend. Belegschaft wurden bei Veränderungsprozessen nicht mitgenommen. Zu viel externe Beratung eingefordert, deren Vorschläge wenn richtig nicht umgesetzt wurden oder an der Firmenwirklichkeit vorbeigingen.",
+        "equality": "War zu meiner Zeit umgesetzt.",
+        "tasks": "Je nach Aufgabenbereich doch recht interessante und fordernde Aufgaben"
+      },
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 3.0,
+        "communication": 3.0,
+        "workConditions": 3.0,
+        "leadership": 3.0,
+        "teamwork": 4.0,
+        "oldColleagues": 3.0,
+        "equality": 3.0,
+        "career": 3.0,
+        "salary": 3.0,
+        "image": 3.0,
+        "environment": 3.0,
+        "tasks": 3.0
+      },
+      "published_at": "2025-09-15T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "bd4b9dda-4adb-4930-b7f3-fa03aa02431b",
+      "url": "https://www.kununu.com/de/mcm-klosterfrau-vertriebs-gmbh/bewertung/bd4b9dda-4adb-4930-b7f3-fa03aa02431b",
+      "title": "Ein Arbeitgeber mit Herz, Verstand und Perspektive Klosterfrau begeistert!",
+      "content": "Die MCM Klosterfrau Vertriebsgesellschaft mbH ist ein Arbeitgeber, bei dem Menschlichkeit, Professionalität und Innovationsgeist Hand in Hand gehen. Ich bin stolz, Teil dieses Unternehmens zu sein, absolute Empfehlung!\n\nDie Arbeitsatmosphäre bei Klosterfrau ist ausgesprochen angenehm. Der respektvolle Umgang unter Kolleg:innen und mit Führungskräften sorgt für ein motivierendes Miteinander.\n\nDie Balance zwischen Beruf und Privatleben wird hier ernst genommen. Überstunden sind die Ausnahme und werden fair ausgeglichen. Flexible Arbeitszeiten und mobiles Arbeiten ermöglichen eine gute Vereinbarkeit mit dem Privatleben.\n\nNachhaltigkeit und soziales Engagement sind klar in der Unternehmensstrategie verankert. Es gibt viele Initiativen rund um Umwelt, Gesundheit und gesellschaftliche Verantwortung das macht stolz, Teil davon zu sein.\n\nDer Teamgeist ist hier wirklich super. Man hilft sich gegenseitig, tauscht Wissen aus und zieht an einem Strang unabhängig von Abteilung oder Position. Neue Kolleg:innen werden herzlich aufgenommen und gut eingearbeitet.\n\nMeine Führungskraft agiert stets auf Augenhöhe, gibt klares Feedback und unterstützt sowohl fachlich als auch persönlich. Entscheidungen werden transparent getroffen, und man wird aktiv in Prozesse eingebunden. Lob und Anerkennung sind keine Seltenheit das motiviert ungemein!\n\nModerne Büros, flexible Arbeitszeitmodelle, Homeoffice-Möglichkeiten und eine tolle Kantine machen das Arbeitsumfeld sehr attraktiv. Die Ausstattung (Hard- und Software) ist auf dem neuesten Stand und erleichtert effizientes Arbeiten.\n\nDie interne Kommunikation ist offen, ehrlich und wertschätzend. Regelmäßige Meetings, Mitarbeitergespräche und moderne Tools sorgen dafür, dass man stets gut informiert ist.\n\nLeistungsgerechte Bezahlung, viele Benefits (z. B. betriebliche Altersvorsorge, Jobticket, Mitarbeiterrabatte etc.) runden das Gesamtpaket ab.\n\nDie Aufgaben sind abwechslungsreich, herausfordernd und bieten viel Raum für Eigenverantwortung.",
+      "rating": 5.0,
+      "sections": {
+        "positive": "Die MCM Klosterfrau Vertriebsgesellschaft mbH ist ein Arbeitgeber, bei dem Menschlichkeit, Professionalität und Innovationsgeist Hand in Hand gehen. Ich bin stolz, Teil dieses Unternehmens zu sein, absolute Empfehlung!",
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Die Arbeitsatmosphäre bei Klosterfrau ist ausgesprochen angenehm. Der respektvolle Umgang unter Kolleg:innen und mit Führungskräften sorgt für ein motivierendes Miteinander.",
+        "workLife": "Die Balance zwischen Beruf und Privatleben wird hier ernst genommen. Überstunden sind die Ausnahme und werden fair ausgeglichen. Flexible Arbeitszeiten und mobiles Arbeiten ermöglichen eine gute Vereinbarkeit mit dem Privatleben.",
+        "environment": "Nachhaltigkeit und soziales Engagement sind klar in der Unternehmensstrategie verankert. Es gibt viele Initiativen rund um Umwelt, Gesundheit und gesellschaftliche Verantwortung das macht stolz, Teil davon zu sein.",
+        "teamwork": "Der Teamgeist ist hier wirklich super. Man hilft sich gegenseitig, tauscht Wissen aus und zieht an einem Strang unabhängig von Abteilung oder Position. Neue Kolleg:innen werden herzlich aufgenommen und gut eingearbeitet.",
+        "leadership": "Meine Führungskraft agiert stets auf Augenhöhe, gibt klares Feedback und unterstützt sowohl fachlich als auch persönlich. Entscheidungen werden transparent getroffen, und man wird aktiv in Prozesse eingebunden. Lob und Anerkennung sind keine Seltenheit das motiviert ungemein!",
+        "workConditions": "Moderne Büros, flexible Arbeitszeitmodelle, Homeoffice-Möglichkeiten und eine tolle Kantine machen das Arbeitsumfeld sehr attraktiv. Die Ausstattung (Hard- und Software) ist auf dem neuesten Stand und erleichtert effizientes Arbeiten.",
+        "communication": "Die interne Kommunikation ist offen, ehrlich und wertschätzend. Regelmäßige Meetings, Mitarbeitergespräche und moderne Tools sorgen dafür, dass man stets gut informiert ist.",
+        "salary": "Leistungsgerechte Bezahlung, viele Benefits (z. B. betriebliche Altersvorsorge, Jobticket, Mitarbeiterrabatte etc.) runden das Gesamtpaket ab.",
+        "tasks": "Die Aufgaben sind abwechslungsreich, herausfordernd und bieten viel Raum für Eigenverantwortung."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": null,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-06-18T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "8d108192-ed68-4c19-8bbd-b12513208edd",
+      "url": "https://www.kununu.com/de/mcm-klosterfrau-vertriebs-gmbh/bewertung/8d108192-ed68-4c19-8bbd-b12513208edd",
+      "title": "Schlimmer geht immer, aber diese Abteilung ist die Krönung",
+      "content": "Allgemein sorgt man sich gut ums Geschäft und Mitarbeiter\n\nSchaut zu viel über gewisse Dinge weg. Viele fühlen sich nicht wohl, aber Umfragen wie zB Pulscheck, da werden die Ergebnisse schöngeredet und ignoriert.\n\nSeine Führungskräfte und Teamleiter mehr unter die Lupe nehmen, denn nur wenige sind wirklich geeignet.\n\nDie Abteilung FM war mal eine der beliebtesten in der Firma, mittlerweile herrscht nur noch Mobbing und Angstmacherei vor Mitarbeiter die ehrliche Kritik äußern. Es wird systematisch alles kaputt gemacht. Einige Mitarbeiter der Abteilung machen was sie wollen und bedienen sich an allem während andere raus gemoppt werden.\nIch und alle die die Firma verlassen haben kommen auch nicht mehr zu Besuch rein.\nHR, CCO, und Obrigkeiten schauen weg.\n\nWenn man in Rente geht geht’s wieder\n\nKommt auf die Abteilung an\n\nNur in getrennten Lagern\n\nSelbstgerecht und falsch\n\nBesser den Mund halten.\n\nKlosterfrau allgemein ist schon ok mit guten Sozialleistungen und Benefiz\n\nNur unter den leitenden selber",
+      "rating": 2.0,
+      "sections": {
+        "positive": "Allgemein sorgt man sich gut ums Geschäft und Mitarbeiter",
+        "negative": "Schaut zu viel über gewisse Dinge weg. Viele fühlen sich nicht wohl, aber Umfragen wie zB Pulscheck, da werden die Ergebnisse schöngeredet und ignoriert.",
+        "suggestion": "Seine Führungskräfte und Teamleiter mehr unter die Lupe nehmen, denn nur wenige sind wirklich geeignet."
+      },
+      "factor_comments": {
+        "atmosphere": "Die Abteilung FM war mal eine der beliebtesten in der Firma, mittlerweile herrscht nur noch Mobbing und Angstmacherei vor Mitarbeiter die ehrliche Kritik äußern. Es wird systematisch alles kaputt gemacht. Einige Mitarbeiter der Abteilung machen was sie wollen und bedienen sich an allem während andere raus gemoppt werden.\nIch und alle die die Firma verlassen haben kommen auch nicht mehr zu Besuch rein.\nHR, CCO, und Obrigkeiten schauen weg.",
+        "workLife": "Wenn man in Rente geht geht’s wieder",
+        "career": "Kommt auf die Abteilung an",
+        "teamwork": "Nur in getrennten Lagern",
+        "leadership": "Selbstgerecht und falsch",
+        "communication": "Besser den Mund halten.",
+        "salary": "Klosterfrau allgemein ist schon ok mit guten Sozialleistungen und Benefiz",
+        "equality": "Nur unter den leitenden selber"
+      },
+      "factor_scores": {
+        "atmosphere": 1.0,
+        "workLife": 1.0,
+        "communication": 1.0,
+        "workConditions": 2.0,
+        "leadership": 1.0,
+        "teamwork": 2.0,
+        "oldColleagues": null,
+        "equality": 1.0,
+        "career": 4.0,
+        "salary": 4.0,
+        "image": 4.0,
+        "environment": 2.0,
+        "tasks": 1.0
+      },
+      "published_at": "2025-03-14T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "d8cc4d74-f5c7-4986-937c-0f854b2023ff",
+      "url": "https://www.kununu.com/de/mcm-klosterfrau-vertriebs-gmbh/bewertung/d8cc4d74-f5c7-4986-937c-0f854b2023ff",
+      "title": "Gutes bis oberes Mittelfeld",
+      "content": "Gute und bei anderen Firmen leider mittlerweile eher seltene Zusatzangebote ausserhalb der Arbeit, wie z. B. Museumsbesuche, Karneval, Firmenfeiern - Top\n\nSchittstelle zwischen altgedienten Recken und Gemüse könnte besser gefördert werden, damit sich die Firma mehr verjüngt und schneller wird\n\nMüsste mehr tun, um eigene Talente zu halten und zu fördern, ist natürlich aber auch abhängig von der Gegenstelle\n\nÜberwiegend nette KollegInnen\n\nKann man schon ruhigen Gewissens empfehlen\n\nMobiles flexibles Arbeiten wird ermöglicht\n\nWeiterbildung jederzeit, Entwicklungsmöglichkeiten eher mau\n\nIGBCE Tarif ist grunsätzlich gut\n\nwird forciert\n\nSeit Corona hat sich da leider (wie bei vielen anderen auch) sehr verschoben\n\nkommt wahrscheinlich wie überall sehr darauf an, welches Talent man da so vor sich hat\n\nmoderne Ausstattung sieht anders aus, gibt es aber teils schon, Arbeitsequipment gut\n\nschon deutlich besser geworden, dass man mehr abgeholt wird\n\nselbständiges Arbeiten wird ermöglicht und gewünscht",
+      "rating": 4.0,
+      "sections": {
+        "positive": "Gute und bei anderen Firmen leider mittlerweile eher seltene Zusatzangebote ausserhalb der Arbeit, wie z. B. Museumsbesuche, Karneval, Firmenfeiern - Top",
+        "negative": "Schittstelle zwischen altgedienten Recken und Gemüse könnte besser gefördert werden, damit sich die Firma mehr verjüngt und schneller wird",
+        "suggestion": "Müsste mehr tun, um eigene Talente zu halten und zu fördern, ist natürlich aber auch abhängig von der Gegenstelle"
+      },
+      "factor_comments": {
+        "atmosphere": "Überwiegend nette KollegInnen",
+        "image": "Kann man schon ruhigen Gewissens empfehlen",
+        "workLife": "Mobiles flexibles Arbeiten wird ermöglicht",
+        "career": "Weiterbildung jederzeit, Entwicklungsmöglichkeiten eher mau",
+        "salary": "IGBCE Tarif ist grunsätzlich gut",
+        "environment": "wird forciert",
+        "teamwork": "Seit Corona hat sich da leider (wie bei vielen anderen auch) sehr verschoben",
+        "leadership": "kommt wahrscheinlich wie überall sehr darauf an, welches Talent man da so vor sich hat",
+        "workConditions": "moderne Ausstattung sieht anders aus, gibt es aber teils schon, Arbeitsequipment gut",
+        "communication": "schon deutlich besser geworden, dass man mehr abgeholt wird",
+        "tasks": "selbständiges Arbeiten wird ermöglicht und gewünscht"
+      },
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 4.0,
+        "communication": 4.0,
+        "workConditions": 5.0,
+        "leadership": 3.0,
+        "teamwork": 3.0,
+        "oldColleagues": 4.0,
+        "equality": 4.0,
+        "career": 4.0,
+        "salary": 4.0,
+        "image": 4.0,
+        "environment": 5.0,
+        "tasks": 4.0
+      },
+      "published_at": "2025-02-06T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    }
+  ],
+  "review_limit": 15,
+  "review_period": {
+    "since": "2024-11-25T00:00:00+00:00",
+    "until": "2026-11-25T17:14:25.146951+00:00",
+    "date_field": "published_at",
+    "missing_dates": "excluded"
+  },
+  "factor_scores_aggregated": {
+    "atmosphere": {
+      "mean": 2.86,
+      "count": 7
+    },
+    "workLife": {
+      "mean": 3.29,
+      "count": 7
+    },
+    "communication": {
+      "mean": 2.86,
+      "count": 7
+    },
+    "workConditions": {
+      "mean": 3.86,
+      "count": 7
+    },
+    "leadership": {
+      "mean": 2.71,
+      "count": 7
+    },
+    "teamwork": {
+      "mean": 3.86,
+      "count": 7
+    },
+    "oldColleagues": {
+      "mean": 3.8,
+      "count": 5
+    },
+    "equality": {
+      "mean": 3.29,
+      "count": 7
+    },
+    "career": {
+      "mean": 3.43,
+      "count": 7
+    },
+    "salary": {
+      "mean": 3.86,
+      "count": 7
+    },
+    "image": {
+      "mean": 3.86,
+      "count": 7
+    },
+    "environment": {
+      "mean": 3.83,
+      "count": 6
+    },
+    "tasks": {
+      "mean": 3.14,
+      "count": 7
+    }
+  },
+  "coverage": "bounded_employee_review_sample_last_2_years_not_all_reviews",
+  "diagnostics": {
+    "pages": [
+      {
+        "page": "reviews",
+        "page_number": 1,
+        "load_more_clicks": 0,
+        "requested_url": "https://www.kununu.com/de/mcm-klosterfrau-vertriebs-gmbh/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Klosterfrau-Healthcare-1f9eafae\\browser\\reviews.html",
+        "browser_step": 27,
+        "final_url": "https://www.kununu.com/de/mcm-klosterfrau-vertriebs-gmbh/kommentare",
+        "observed_at": "2026-11-25T17:14:26.873072+00:00",
+        "http_status": 200,
+        "factor_cards_expanded": 5,
+        "reviews_collected": 7
+      },
+      {
+        "page": "reviews",
+        "page_number": 2,
+        "load_more_clicks": 1,
+        "requested_url": "https://www.kununu.com/de/mcm-klosterfrau-vertriebs-gmbh/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Klosterfrau-Healthcare-1f9eafae\\browser\\reviews-2.html",
+        "browser_step": 28,
+        "final_url": "https://www.kununu.com/de/mcm-klosterfrau-vertriebs-gmbh/kommentare",
+        "observed_at": "2026-11-25T17:14:28.781908+00:00",
+        "actions_complete": true,
+        "factor_cards_expanded": 5,
+        "reviews_collected": 7
+      },
+      {
+        "page": "reviews",
+        "page_number": 3,
+        "load_more_clicks": 2,
+        "requested_url": "https://www.kununu.com/de/mcm-klosterfrau-vertriebs-gmbh/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Klosterfrau-Healthcare-1f9eafae\\browser\\reviews-3.html",
+        "browser_step": 29,
+        "final_url": "https://www.kununu.com/de/mcm-klosterfrau-vertriebs-gmbh/kommentare",
+        "observed_at": "2026-11-25T17:14:30.695019+00:00",
+        "actions_complete": true,
+        "reviews_collected": 7
+      },
+      {
+        "page": "reviews",
+        "page_number": 4,
+        "load_more_clicks": 3,
+        "requested_url": "https://www.kununu.com/de/mcm-klosterfrau-vertriebs-gmbh/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Klosterfrau-Healthcare-1f9eafae\\browser\\reviews-4.html",
+        "browser_step": 30,
+        "final_url": "https://www.kununu.com/de/mcm-klosterfrau-vertriebs-gmbh/kommentare",
+        "observed_at": "2026-11-25T17:14:32.719272+00:00",
+        "actions_complete": true,
+        "reviews_collected": 7
+      },
+      {
+        "page": "reviews",
+        "page_number": 5,
+        "load_more_clicks": 4,
+        "requested_url": "https://www.kununu.com/de/mcm-klosterfrau-vertriebs-gmbh/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Klosterfrau-Healthcare-1f9eafae\\browser\\reviews-5.html",
+        "browser_step": 31,
+        "final_url": "https://www.kununu.com/de/mcm-klosterfrau-vertriebs-gmbh/kommentare",
+        "observed_at": "2026-11-25T17:14:34.955465+00:00",
+        "actions_complete": true,
+        "reviews_collected": 7,
+        "status": "error",
+        "reason": "review_page_limit_reached",
+        "error": "Maximal fünf Bewertungsabrufe je Firma erreicht; Stichprobe unvollständig."
+      }
+    ]
+  },
+  "source_url": "https://www.kununu.com/de/mcm-klosterfrau-vertriebs-gmbh",
+  "profile_source": "https://www.kununu.com/de/mcm-klosterfrau-vertriebs-gmbh/kommentare",
+  "review_stop_reason": "review_page_limit_reached",
+  "reason": "review_page_limit_reached",
+  "error": "reviews: Maximal fünf Bewertungsabrufe je Firma erreicht; Stichprobe unvollständig.",
+  "factor_score_coverage": {
+    "reviews_with_scores": 7,
+    "reviews_without_scores": 0,
+    "reviews_with_all_known_scores": 4,
+    "status": "partial"
+  },
+  "request_limits": {
+    "max_browser_steps": 295,
+    "browser_steps": 31,
+    "zyte_requests": 0
+  }
+}

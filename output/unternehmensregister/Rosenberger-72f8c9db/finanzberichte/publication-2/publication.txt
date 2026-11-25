@@ -1,0 +1,1544 @@
+Rosenberger GmbH & Co. KG — Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023
+Rosenberger GmbH & Co. KG
+
+Tittmoning
+
+Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023
+
+Konzernlagebericht für das Geschäftsjahr vom 1. Januar bis zum 31. Dezember 2023
+
+INHALTSVERZEICHNIS
+
+1. Allgemeine Informationen
+
+2. Grundlagen des Konzerns
+
+2.1. Konzernstruktur und Organisation
+
+2.2. Strategie und Geschäftsmodell
+
+2.3. Steuerungssystem
+
+2.4. Forschung und Entwicklung
+
+3. Wirtschaftsbericht
+
+3.1. Wirtschaftliche Rahmenbedingungen
+
+3.2. Gesamtbeurteilung des Geschäftsverlaufs
+
+3.3. Ertragslage der Rosenberger-Gruppe
+
+3.4. Vermögens- und Finanzlage der Rosenberger-Gruppe
+
+4. Chancen- und Risikenbericht
+
+4.1. Chancen- und Risikomanagementsystem
+
+4.2. Chancen und Risiken der zukünftigen Geschäftsentwicklung
+
+4.3. Gesamtbeurteilung der Chancen und Risiken
+
+5. Prognosebericht
+
+5.1. Gesamtwirtschaftlicher Ausblick
+
+5.2. Voraussichtliche Entwicklung der Rosenberger-Gruppe
+
+1. ALLGEMEINE INFORMATIONEN
+
+Die Rosenberger-Gruppe ist ein weltweit tätiger Hersteller von Impedanzkontrollierten Verbindungslösungen und aktiven Systemen in der koaxialen Hochfrequenz-, Funk- und Fiberoptik-Technologie sowie von komplexen Hochvolt (HV)-Kontaktsystemen für die Automobilindustrie.
+
+Grundlagen der Darstellung
+
+Rechnungslegung und Abschlussprüfung
+
+Der Konzernabschluss der Rosenberger GmbH & Co. KG wurde nach den Vorschriften des Handelsgesetzbuches (HGB) aufgestellt. Die Rosenberger GmbH & Co. KG ist eine Personenhandelsgesellschaft im Sinne von § 264a HGB und ist gemäß § 264b HGB von der Verpflichtung befreit, einen Jahresabschluss nach §§ 264 HGB ff. und einen Lagebericht aufzustellen, prüfen zu lassen und offenzulegen. Die Rosenberger GmbH & Co. KG ist eine kleine Gesellschaft im Sinne von § 267 HGB. Aufgestellt wurde der Konzernlagebericht nach den einschlägigen handelsrechtlichen Vorschriften sowie nach dem Deutschen Rechnungslegungsstandard (DRS) Nr. 20.
+
+Unterscheidung zwischen Mutterunternehmen und Konzern
+
+Um zu verdeutlichen, welche Angaben sich auf das Mutterunternehmen und welche Angaben sich auf den Konzern beziehen, wird im Folgenden für das Mutterunternehmen stets die Bezeichnung „Rosenberger GmbH & Co. KG“ verwendet. Für Angaben, die den Konzern betreffen, wird die Bezeichnung „Rosenberger-Gruppe“ bzw. „Gruppe“ verwendet. Wo vorstehende Unterscheidungen nicht zur Anwendung kommen, und keine anderen gesonderten Hinweise erfolgen, betreffen die Angaben gleichermaßen den Konzern wie das Mutterunternehmen.
+
+Geschäftsjahr
+
+Das Geschäftsjahr 2023 (nachfolgend „Geschäftsjahr“) der Rosenberger GmbH & Co. KG begann am 1. Januar 2023 und endete am 31. Dezember 2023. Die korrespondierende Vorjahresperiode (nachfolgend „Vorjahr“) umfasst demnach den Zeitraum vom 1. Januar 2022 bis zum 31. Dezember 2022.
+
+Rundungsdifferenzen
+
+Soweit nicht anders vermerkt, werden alle Beträge in Tausend Euro (TEUR) bzw. Millionen Euro (Mio. EUR) angegeben. Aus rechentechnischen Gründen können in den in diesem Konzernlagebericht dargestellten Informationen Rundungsdifferenzen in Höhe von +/- einer Einheit (TEUR, % usw.) auftreten.
+
+Geschlechtsform
+
+Aus Vereinfachungsgründen verwenden wir nur eine Geschlechtsform. Jede andere Geschlechtsform ist darin ausdrücklich ebenfalls eingeschlossen.
+
+Vorausschauende Aussagen
+
+Der vorliegende Konzernlagebericht enthält vorausschauende Aussagen. Diese Aussagen geben eigene Einschätzungen und Annahmen - auch solche von Dritten (wie zum Beispiel statistische Branchendaten und auf globale wirtschaftliche Entwicklungen) - zu dem Zeitpunkt wieder, zu dem sie getroffen wurden, oder zum Datum dieses Berichts. Vorausschauende Aussagen sind stets mit Unsicherheiten verbunden. Sollten sich die Einschätzungen und Annahmen als nicht oder nur teilweise zutreffend erweisen, können die tatsächlichen Ergebnisse von den Erwartungen - auch deutlich - abweichen.
+
+2. GRUNDLAGEN DES KONZERNS
+
+2.1. Konzernstruktur und Organisation
+
+Rechtliche Konzernstruktur
+
+Die Rosenberger-Gruppe besteht aus der Rosenberger GmbH & Co. KG und den von ihr beherrschten Tochterunternehmen. Die wichtigsten Produktionsstandorte befinden sich in Deutschland, Ungarn, China, Brasilien, Mexiko, Indien, Schweden, Tunesien und den USA. Zu den Kunden zählen unter anderem viele Unternehmen aus den Bereichen Telekommunikation, Datentechnik, Medizinelektronik, Industrie, Messtechnik und der Automobilindustrie.
+
+Auf Holding-Ebene wurde ein Verwaltungsrat (Board of Directors) konstituiert, welcher aus den drei Familienvertretern Hans Rosenberger, Bernd Rosenberger und Peter Rosenberger sowie den derzeitigen Mitgliedern der Geschäftsführung der Rosenberger Hochfrequenztechnik GmbH, Tittmoning, Eric Küppers, Franz Praxenthaler und Jochen Ehrenberg, besteht. Der Verwaltungsrat ist wesentliches Steuerungs- und Kontrollorgan im Rahmen der Funktion der Rosenberger GmbH & Co. KG als geschäftsleitende Holding der Rosenberger-Gruppe. Er unterstützt und berät die Geschäftsführung in allen Angelegenheiten, die die Rosenberger-Gruppe betreffen, insbesondere hinsichtlich ihrer Geschäftsaktivitäten und Entwicklung, und entscheidet für Zwecke einer einheitlichen Konzernleitung, Unternehmenspolitik und Konzernkontrolle. Er tagt grundsätzlich monatlich.
+
+Die operative Führung der Gruppe wird im Wesentlichen von der Geschäftsführung der Rosenberger Hochfrequenztechnik GmbH & Co. KG wahrgenommen. Die Geschäftsführung wird bei der Steuerung durch den Führungskreis unterstützt, in dem alle wichtigen Zentralfunktionen vertreten sind. Ein standardisiertes Reporting-System mit allen für die Steuerung sowohl der Gruppe als auch der Einzelgesellschaft wesentlichen Informationen ist installiert. Zudem verfügt die Gruppe über ein Compliance- und Risiko-Management System, das insbesondere dazu dient, entsprechende Risiken frühzeitig zu erkennen bzw. zu minimieren und gegebenenfalls Gegenmaßnahmen einzuleiten. Teil des Compliance Management Systems ist der Rosenberger Group Code of Conduct. Die Gruppe unterhält weiterhin alle notwendigen Umwelt- und Qualitäts-Management-Systeme. Auf die Überwachung dieser Systeme wird eine besondere Aufmerksamkeit gelegt.
+
+Änderungen der Konzernstruktur
+
+Im Geschäftsjahr haben sich Änderungen der Konzernstruktur ergeben. Der Neugründung einer vollkonsolidierten Gesellschaft im Inland stehen Verschmelzungen und Zusammenführungen bei drei Gesellschaften im In- sowie im Ausland gegenüber. Insgesamt reduzierte sich der Konsolidierungskreis folglich um zwei Tochtergesellschaften. Ferner wurden die Anteile eines assoziierten Unternehmens, welches nach der At-Equity-Methode in den Konzernabschluss einbezogen wird, ohne Auswirkungen auf die Konsolidierungsmethode aufgestockt.
+
+Geschäftsfelder
+
+Die Rosenberger-Gruppe wird primär in den nachfolgend aufgeführten Geschäftsfeldern organisiert und geführt:
+
+•
+
+Automotive
+
+•
+
+Interconnect
+
+•
+
+Semicon & Test
+
+Automotive
+
+Die Tätigkeit der Rosenberger-Gruppe im Bereich Automotive begründet sich auf der zunehmenden Technisierung der Fahrzeuge im Bereich der Elektronik, vor allem des Infotainments, des autonomen Fahrens und der Elektromobilität. Als innovativer Entwicklungspartner der Automobilindustrie liefert die Rosenberger-Gruppe Steckverbindungen und Kabelleitungen, aber auch innovative Systemkomponenten für rein elektrisch betriebene Fahrzeuge sowie für Fahrzeuge mit hybrider Antriebstechnik. Zudem gelang durch die erfolgreiche Standardisierung des Rosenberger HSI - Steckverbinders der Eintritt in den Bereich der Landwirtschaftssteckverbinder.
+
+Interconnect
+
+Das breitgefächerte Produktspektrum in diesen Bereichen umfasst unter anderem Hochfrequenz-, Daten-, Niederstrom-, und magnetische Schnittstellenlösungen. Viele Lösungen sind kundenindividuell konstruiert. Im Industrie-Segment wird die Position durch gezielte Markt- und Entwicklungsaktivitäten im Bereich SPE, kontaktlose Steckverbinder und robuste FO-Steckverbinder ausgebaut. Derzeit werden vor allem neue Komponenten für das Netzwerk der fünften Generation entwickelt (5G), welches seit Anfang 2020 in den verschiedenen Regionen implementiert wird. Ein weiterer wichtiger Schwerpunkt liegt auf Site-Materialien sowie hoch effiziente Antennen für Mobilfunk-Stationen. Im Bereich IT beliefert Rosenberger überwiegend Produkte und Services der Glasfaserverkabelung für Rechenzentren.
+
+Semicon & Test
+
+Die Rosenberger-Gruppe bietet ein umfangreiches Produktspektrum an Kalibrier- und Verifizier-Kits sowie weitere vielfältige Testkomponenten an. Vor allem der Bereich von innovativen Messleitungen für Halbleiter-Tester bildet ein wichtiges Segment innerhalb der Messtechnik.
+
+Mitarbeiter
+
+Für den nachhaltigen Erfolg des Unternehmens sind qualifizierte und engagierte Mitarbeiter unverzichtbar. Das kontinuierliche Unternehmenswachstum und das Erreichen der Unternehmensziele sind eine Teamleistung aller Mitarbeiter der Rosenberger-Gruppe.
+
+Personalbestand
+
+Der Personalbestand der Rosenberger-Gruppe beläuft sich zum 31. Dezember 2023 auf 12.533 Mitarbeiter (Vorjahr: 12.190). Im Stammwerk Fridolfing mit den Standorten Fridolfing, Mühldorf, Weißenburg und Radeberg stieg die Zahl der Mitarbeiter von 2.837 auf 3.081. Eine Herausforderung sind die stetig steigenden Personalkosten, die durch Kosteneinsparmaßnahmen und Effizienzsteigerungen kompensiert werden müssen.
+
+Teilzeitkräfte sind im Personalbestand pro Kopf und nicht anteilig einbezogen.
+
+Personalentwicklung
+
+Für die Rosenberger-Gruppe ist nachhaltiger wirtschaftlicher Erfolg eng mit hochqualifizierten und motivierten Mitarbeitern verbunden. Die konsequente und nachhaltige Personalentwicklung bildet daher eine tragende Säule der Strategie der Rosenberger-Gruppe.
+
+Gleichfalls möchte das Management das Image der Rosenberger-Gruppe als attraktiver Arbeitgeber weiter steigern und so dem Fachkräftemangel entgegenwirken. Aspekte wie spannende Aufgaben, flexible Arbeitszeiten, Zeitwertkonten, Teilzeitbeschäftigungen, Programme zur Gesundheitsförderung, und viele weitere Zusatzleistungen kommen hier besonders zur Geltung.
+
+Die Weiterentwicklung der Mitarbeiter und das lebenslange Lernen hat hohe Priorität und steigert die Kompetenz Einzelner aber auch des Gesamtunternehmens.
+
+Gruppenweit werden vielfältige Ausbildungsplätze in verschiedensten kaufmännischen und technischen Fachrichtungen angeboten. Außerdem kooperiert die Rosenberger-Gruppe mit zahlreichen Hochschulen bei der Ausbildung von Studierenden im Bereich von Bachelor- und Masterstudiengängen. Darüber hinaus werden Semester-, Bachelor- und Masterarbeiten betreut. Ferner geht die Rosenberger-Gruppe Schul- und Hochschulpatenschaften ein und bietet Schülern und Studierenden Orientierungstage und Praktika an. Für Auszubildende genauso wie für Hochschulabsolventen hat die Rosenberger-Gruppe zudem spezifische Programme entwickelt, um den hohen Bedarf an praxisnah ausgebildeten Fachkräften besser abzudecken.
+
+Durch zielgruppenspezifische Veranstaltungen wie dem Tag der Ausbildung, dem Girls-Day oder Schulbesuchen bietet die Rosenberger-Gruppe Interessierten stets eine Plattform, um Einblick zu erhalten. Die Einarbeitung von neuen Mitarbeitern ist essenzieller Bestandteil und erster Schritt zur langfristigen Bindung der Mitarbeiter an das Unternehmen. Umgesetzt wird dies in der Praxis durch strukturierte Einführungstage, Azubi-Kennenlerntage oder einem Einarbeitungs-Camp für Mitarbeiter in der Produktentwicklung.
+
+Vielfalt im Unternehmen („Diversity“)
+
+Qualifikation, fachliche Eignung und „kultureller Fit“ gelten für die Rosenberger-Gruppe als entscheidende Kriterien bei der Besetzung von Stellen und Positionen. Um die Vereinbarkeit von Beruf und Familie zu verbessern, bietet die Rosenberger-Gruppe etwa auch auf den Führungsebenen Teilzeitmodelle an und ermöglicht generell das flexible Arbeiten unabhängig von festen Zeiten und Standorten.
+
+2.2. Strategie und Geschäftsmodell
+
+Das strategische Ziel der Rosenberger-Gruppe ist es, im Kernportfolio die Marktführerschaft in allen Industrien zu erlangen. Um dieses Ziel zu erreichen, wurde der Strategieprozess „Rosenberger Vision 2027“ ins Leben gerufen, in dem kontinuierlich strategische Handlungsfelder definiert und deren Umsetzungsfortschritte überprüft werden. Kern des Strategieprozesses ist es, die Organisation an die dynamische Unternehmensentwicklung anzupassen und gleichzeitig die Werte und Eigenschaften der Organisation zu nutzen. Die abgeleiteten strategischen Handlungsfelder orientieren sich an fünf Leitsätzen:
+
+Rosenberger ist ein weltoffenes Familienunternehmen
+
+Familiäre Werte prägen das Selbstverständnis von Rosenberger: Bodenständigkeit und Weltoffenheit, Fairness und Hilfsbereitschaft, Vertrauen und Verbindlichkeit werden aktiv gefördert und gefordert. Die Unternehmensentwicklung wird stets langfristig und nachhaltig ausgerichtet. Hierzu sind finanzielle Solidität gepaart mit Unabhängigkeit wesentliche Faktoren, die auch in schwierigen Zeiten eine Steuerung mit Weitblick ermöglichen.
+
+Die Kunden stehen im Mittelpunkt des Handelns
+
+Rosenberger stellt seine Kunden stets in den Mittelpunkt des eigenen Handelns. Kunden mit innovativen Lösungen zu begeistern, verschafft Rosenberger Wettbewerbsvorteile. Um die hohen Ansprüche zu erfüllen, ist Rosenberger in allen Bereichen darauf ausgerichtet, dem Kunden ein Partner für Innovation, Technologie und Qualität zu sein. Hierzu zählt neben einer erstklassigen Servicequalität vor allem nah an unseren Kunden zu sein sowie eine hohe Lieferperformance zu gewährleisten.
+
+Rosenberger wächst profitabel in allen relevanten internationalen Märkten
+
+Rosenberger setzt seine Erfolgsstory konsequent fort und wächst in den kommenden Jahren strategisch, zielgerichtet und profitabel in allen Geschäftsbereichen des Unternehmens. Dabei wollen wir stets „best-in-class“ sein. Innerhalb des Rosenberger Kern-Portfolios wollen wir in allen relevanten Industrien die Innovations-, Markt- und Kostenführerschaft erreicht haben. Hierfür wird das Kundenportfolio in allen relevanten Märkten aller Business Areas konsequent ausgebaut.
+
+Rosenberger als globale Organisation mit schnellen Entscheidungswegen
+
+Rosenberger stärkt in den nächsten Jahren gezielt die Zentrale in Fridolfing, fördert jedoch gleichzeitig die Eigenständigkeit der Tochterunternehmen und Landesgesellschaften innerhalb eines klar abgestimmten Rahmens. Sukzessive werden, wo nötig und sinnvoll, globale Strukturen aufgebaut, die mit klaren Rollen und Verantwortlichkeiten für die funktionale und disziplinarische Leitung ausgestattet sind. Durch den Zusammenschluss eines globalen Werksverbunds der größten Produktionsstandorte werden Schlagkraft, Dynamik sowie höchste Qualitätsansprüche gewährleistet. Strategische Leitplanken, Ziele und Kennzahlen in Verbindung mit zielgerichteter Transparenz ermöglichen gute und schnelle Entscheidungen auf verschiedenen Ebenen in verschiedenen Regionen. Dabei unterstützen unsere Prozesse und Standards die Anforderungen unserer Geschäfts- und Fachbereiche bestmöglich und stehen für Schnelligkeit und Skalierbarkeit.
+
+Strategischer Ausblick
+
+Für die kommenden Jahre erwartet das Management weiteres Wachstum. Um dies profitabel und qualitativ zu ermöglichen, wird die Weiterentwicklung der Organisation sowie modernster Produktionskapazitäten in verschiedenen Regionen konsequent vorangetrieben. Ein nachhaltiges Wachstum ist Rosenberger von großer Bedeutung, weshalb weiterhin in neue Märkte und Anwendungen, Produkte und Materialen, Prozesse sowie in die Entwicklung von Talenten investiert wird.
+
+2.3. Steuerungssystem
+
+Bedeutsamste finanzielle Leistungsindikatoren
+
+Die Planung und Steuerung der Rosenberger-Gruppe basiert vor allem auf der Entwicklung der Umsatzerlöse und des Betriebsergebnisses. Als bedeutsamste Steuerungsgrößen für die wirtschaftlichen Ziele gelten die folgenden finanziellen Leistungsindikatoren:
+
+•
+
+Umsatzerlöse
+
+•
+
+Betriebsergebnis (EBIT)
+
+•
+
+Betriebsergebnis im Verhältnis zu den Umsatzerlösen (EBIT-Marge)
+
+Die bedeutsamsten finanziellen Steuerungsgrößen werden gruppenweit durchgängig nach einheitlicher Systematik ermittelt, analysiert und geplant und im Hinblick auf ihre Zielerreichung wie auf ihren Einfluss auf die Erreichung der prognostizierten Ziele überwacht. Detaillierte Angaben zur Entwicklung der finanziellen Leistungsindikatoren befinden sich in Abschnitt „3.2. Gesamtbeurteilung des Geschäftsverlaufs“ und in Abschnitt „5. Prognosebericht“ dieses Lageberichts.
+
+Weitere finanzielle Leistungsindikatoren
+
+•
+
+Free Cashflow
+
+•
+
+Eigenkapitalquote
+
+•
+
+Nettoverschuldungsgrad („Net Leverage Ratio“)
+
+Nichtfinanzielle Leistungsindikatoren
+
+Neben den finanziellen Leistungsindikatoren verwendet das Management der Rosenberger-Gruppe auch nichtfinanzielle Leistungsindikatoren, die für die weitere erfolgreiche Entwicklung der Unternehmensgruppe eine Rolle spielen. Im Rahmen von standardisierten KPI-Reports auf Werksebene werden in diesem Zusammenhang unterjährig u.a. folgende Kennzahlen ermittelt:
+
+•
+
+Mitarbeiterfluktuation
+
+•
+
+Abwesenheitsrate
+
+•
+
+Arbeitssicherheit
+
+•
+
+Liefertreue
+
+•
+
+Anzahl Kundenreklamationen
+
+Besondere Bedeutung nimmt bei der Rosenberger-Gruppe das Nachhaltigkeitsmanagement ein. Hier wurden wesentliche Themenfelder identifiziert, welche in messbare nichtfinanzielle Leistungsindikatoren überführt werden. Beispiele hierfür sind:
+
+•
+
+Emissionen (Scope 1 und 2)
+
+•
+
+Energieverbrauch
+
+•
+
+Wasserverbrauch
+
+•
+
+Abfallmenge
+
+Diese Kennzahlen werden im Rahmen der operativen Steuerung nachhaltigkeitsrelevanter Maßnahmen in wesentlichen Bereichen der Rosenberger-Gruppe genutzt. Im Rahmen der Unternehmenssteuerung legt die Unternehmensleitung zudem großen Wert darauf, dass das Handeln aller Mitarbeiter der Rosenberger-Gruppe streng an den rechtlichen Rahmenbedingungen ausgerichtet ist und den Corporate Governance-Standards folgt.
+
+2.4. Forschung und Entwicklung
+
+Die Rosenberger-Gruppe ist ein globaler Technologieführer im Bereich der Impedanzkontrollierten Verbindungslösungen. Im Forschungs- und Entwicklungsbereich werden gruppenweit 863 Mitarbeiter beschäftigt. Die Forschungs- und Entwicklungstätigkeiten sind von großer strategischer Bedeutung und tragen dazu bei, die Wettbewerbsposition langfristig abzusichern. Die Entwicklungsaktivitäten der Rosenberger-Gruppe sind darauf ausgerichtet, in Bezug auf Kosten und Qualität den Kunden beste Produkte für ihre Applikationen der Zukunft anzubieten. Im Fokus der Entwicklungsaktivitäten stehen insbesondere die Megatrends Mobilität der Zukunft, Kommunikation der Zukunft, Internet der Dinge, Smarte Städte, Gesundheit und Pflege sowie effizienter Energieverbrauch und Dekarbonisierung. Sicherheit und Qualität der angebotenen Produkte haben dabei für die Rosenberger-Gruppe oberste Priorität. Laufende Qualitätsprüfungen bereits im Entwicklungsprozess sind von elementarer Bedeutung. Zur Entwicklung langlebiger Produkte trägt die Zero-Defect-Strategie der Rosenberger-Gruppe bei. In allen Bereichen der Forschung und Entwicklung ist zudem die Nachhaltigkeit sowie die Nutzung von bestehenden Ressourcen ein wichtiges Ziel.
+
+Automotive
+
+Es wurden wesentliche Entwicklungsaufwendungen für die Datenübertragungstechnologie innerhalb von Fahrzeugen getätigt. Neue Steckersysteme reduzieren die Gesamtkosten, sind deutlich kleiner, leichter und leistungsfähiger (z.B. der Highspeed FAKRA Mini - HFM). Der Bereich Ethernet-Kommunikation im Fahrzeug wird in den kommenden Jahren stark zunehmen. Auch hierfür wurden neue Steckerserien entwickelt (MTD - Modular Twisted Data Pair und HMTD - Highspeed MTD). Alle neuen Serien sind im Markt als globale Standards etabliert und wurden von fast allen großen OEMs weltweit in ihre neuen Plattformen integriert. Mittlerweile liegen für die neuen Steckerserien auch schon Nominierungen vor.
+
+Des weiteren wird im Bereich der Elektromobilität Forschung und Entwicklung betrieben, da wir hier intensiv mit den Automobil-Herstellern an neuen Lösungen arbeiten. Rosenberger will auch hier neue Markt-Standards im HV, HP-Bord-Netz etablieren.
+
+Interconnect
+
+Für den Markt Telekommunikation wurden umfangreiche Forschungs- und Entwicklungs-Aufwendungen getätigt, um die Integration von einzelnen Produkten und Komponenten in das Radio zu realisieren. Frequenzen und Anforderungen steigen kontinuierlich, während Kosten signifikant sinken müssen.
+
+Für den Markt Industrie wurde im Wesentlichen im Bereich kontaktlose Power- und Daten-Steckverbinder, Rundstecker, Single Pair Ethernet Lösungen sowie robuste Fiber Optik Steckverbinder entwickelt.
+
+Semicon & Test
+
+Investitionen erfolgten im Bereich der Miniaturisierung/ Mikrosystemtechnik der Messtechnik. Im Jahr 2023 wurden daneben zahlreiche kundenspezifische Projektentwicklungen durchgeführt.
+
+3. WIRTSCHAFTSBERICHT
+
+3.1. Wirtschaftliche Rahmenbedingungen
+
+Gesamtwirtschaftliche Entwicklungen 1
+
+Das globale Wirtschaftswachstum schwächte sich im Jahr 2023 nach Angaben des Kieler Instituts für Weltwirtschaft (IfW Kiel) erneut leicht ab. Nach einem kräftigen Aufschwung im ersten Quartal, expandierte die Weltwirtschaft im Sommerhalbjahr nur noch in moderatem Tempo und verlor gegen Ende des Jahres weiter an Dynamik. Im Jahresergebnis stieg die Weltproduktion 2023 um 3,0 % (2022: + 3,3 %). Trotz dieser moderaten Expansion lag das globale Wirtschaftswachstum 2023 über den Erwartungen.
+
+Die wirtschaftliche Entwicklung in den verschiedenen Regionen verlief dabei unterschiedlich. In den Vereinigten Staaten (+2,5 %) war die Konjunktur bis zuletzt kräftig, während die Wirtschaft im Euroraum (+0,5 %) zunehmend stagnierte und im Vereinigten Königreich (+0,1 %) im zweiten Halbjahr 2023 sogar merklich zurückging. Insbesondere die Wirtschaft in China (+5,2 %) blieb hinter den Erwartungen zurück. Die deutsche Wirtschaft (-0,3 %) fiel 2023 im Vergleich zu anderen großen europäischen Ländern spürbar ab.
+
+Trotz der verbesserten Rahmenbedingungen durch das Ende der restriktiven Corona-Politik in China und dem im Jahresverlauf nachlassenden Preisauftrieb, zeigte sich insbesondere die Industrieproduktion schwach. Der Welthandel war tendenziell rückläufig. Schlechte Stimmung, hohe Unsicherheit und ungünstige Finanzierungsbedingungen belasteten die Unternehmen und dämpften ihre Investitionsbereitschaft. Als stützend für die Konjunktur erwies sich lediglich der Konsum. Die öffentlichen Ausgaben stiegen in der zweiten Jahreshälfte kräftig, und der private Konsum profitierte vom langsamen Rückgang der Inflation sowie einem Anstieg der Lohneinkommen.
+
+Nachdem die Weltwirtschaft zu Beginn des Jahres 2024 zunächst an Fahrt gewonnen hatte, verlangsamte sich im weiteren Verlauf die Dynamik erneut. Bis zum dritten Quartal zeigte sich insgesamt eine verhaltene Entwicklung. Moderate Wachstumsraten und verschiedene Herausforderungen bestimmen das Gesamtbild. Zu den wesentlichen Faktoren dieser Entwicklung zählen die anhaltend restriktive Geldpolitik sowie die schwache konjunkturelle Dynamik in zuvor wachstumsstarken Regionen, insbesondere in den USA. Auch China verzeichnet ein verlangsamtes Wachstum, bedingt durch schwächere Exporte und eine nachlassende Binnennachfrage. Die Entwicklung der deutschen Wirtschaft im bisherigen Jahresverlauf ist von stagnierender Wirtschaftsleistung geprägt.
+
+Branchenbezogene Entwicklungen
+
+Die Rosenberger-Gruppe ist in den folgenden Branchen schwerpunktmäßig tätig und daher abhängig von deren Entwicklung:
+
+Automotive
+
+Die weltweite Automobilproduktion (Pkws und leichte Nutzfahrzeuge) konnte sich im Jahr 2023 auf rund 90 Mio. Einheiten erholen und ist somit nach wie vor weit von dem Niveau vor der Coronakrise entfernt. Für das Jahr 2024 gehen wir trotz unterjähriger Schwankungen von einer insgesamt gleichbleibenden weltweiten Automobilproduktion von ca. 90 Mio. Einheiten aus. Da sowohl eine große Nachfrage an Infotainment- und Assistenzsystemen als auch eine äußerst starke Nachfrage nach Komponenten für den Bereich Elektromobilität besteht, geht die Rosenberger-Gruppe im Bereich Automotive für das Jahr 2024 trotzdem von einem zweistelligen Wachstum aus. 2
+
+Interconnect
+
+Im Jahr 2023 ist der neue Mobilfunk Standard 5G überall auf der Welt angekommen, teilweise tut sich aber der neue 5G-Standard mit seiner Differenzierung zu 4G schwer. 5G-Frequenzen sind in den meisten Fällen höher und bringen daher teilweise weniger Funkabdeckung im Vergleich zu 4G.
+
+Der 4G-LTE-Netzausbau verlangsamt sich immer weiter. Die geopolitische Lage lassen Mobilfunkbetreiber sowie Systemhersteller ihre Supply-Chain-Strategie überdenken. Ein Wechsel zu einer dezentralisierten regionalen Lieferkette ist zu sehen. Dies kommt Rosenberger mit seinen weltweit verteilten Produktionskapazitäten entgegen.
+
+Im Bereich 5G Interconnect ist Rosenberger gut positioniert und kann an dem 5G-Mobilfunk-Aufbau weltweit partizipieren. Aufgrund der Einführung von aktiven Antennen Arrays werden für den Aufbau von 5G zusätzlich mehr RF-Kanäle bzw. mehr Interconnect-Lösungen benötigt. Im Gegenzug wird der Wettbewerb aus China für 5G-Board-zu-Board-Steckverbindungen immer stärker.
+
+Semicon & Test
+
+Im Bereich der HF-Messtechnik ist die Rosenberger-Gruppe vielfältig tätig, von Kalibrierkomponenten bis zu Verkabelungslösungen für komplexe Testsysteme. Dieser Markt unterliegt üblicherweise Schwankungen, die durch technologische Entwicklungen bestimmt sind. Im Jahr 2023 zeigte sich eine deutliche Beruhigung des Marktes, vor allem auf Grund gut gefüllter Läger in der gesamten Supply Chain. Unabhängig davon deuten vielfältige Investitionsankündigungen im Bereich der Halbleiterproduktion auf eine weiterhin gute Nachfrage nach entsprechendem Produktionsequipment hin. Und so hat sich der Umsatz nach Plan entwickelt. Im Verlauf des Jahres konnten einige Projekte gewonnen werden, die weiterhin eine hohe Auslastung sichern.
+
+3.2. Gesamtbeurteilung des Geschäftsverlaufs
+
+Gesamtaussage zum Geschäftsverlauf und zur wirtschaftlichen Lage der Rosenberger-Gruppe
+
+Die Rosenberger-Gruppe blickt auf ein herausforderndes Geschäftsjahr 2023 zurück. Während das Automotive-Geschäft erneut deutlich gesteigert werden konnte, blieben die Geschäftsfelder Interconnect und Semicon & Test aufgrund schwacher Märkte in Nordamerika und Asien deutlich hinter den Erwartungen zurück. Die weltweite Wachstumsrate von 3,0 % konnte somit nicht erreicht werden. 3
+
+Mit Blick auf die anspruchsvollen Marktbedingungen hat die Rosenberger-Gruppe das Geschäftsjahr 2023 insgesamt noch gut abgeschlossen. Im Kerngeschäft (Automotive, Interconnect, Semi & Test, Custom Machining) konnte in Summe sogar ein leichtes Umsatzwachstum von 1,2 % verzeichnet werden (Vorjahr: 1.601 Mio. EUR). Hierbei erzielte der Geschäftsbereich Automotive ein deutliches Umsatzwachstum um 18,5 %, was auf den Anstieg der globalen Nachfrage nach Fahrzeugen mit Elektroantrieben zurückzuführen ist. Insgesamt wurden Umsatzerlöse in Höhe von 1.620,4 Mio. EUR erwirtschaftet, was zwar einem deutlichen Umsatzrückgang von 8,2 % gegenüber dem Vorjahreszeitraum (1.765,4 Mio. EUR) entspricht. Jedoch ist dies im Wesentlichen auf Entkonsolidierungseffekte des asiatischen Antennengeschäfts (PROSE) zum 31.08.2022 zurückzuführen. Das EBIT lag im Geschäftsjahr bei 163,5 Mio. EUR (Vorjahr: 222,6 Mio. EUR) - dies entspricht einem Ergebnisrückgang um 26,5 %. Wesentliche Ursache für den Ergebnisrückgang war hier u. a. der temporäre Rückgang von rentablen Geschäftsbereichen sowie hohe Anlaufkosten in den neuen Standorten.
+
+Die Geschäftsführung der Rosenberger GmbH & Co. KG schätzt die wirtschaftliche Lage der Rosenberger-Gruppe weiterhin als positiv ein. Über das Ende des Geschäftsjahrs 2023 hinaus bewertet die Geschäftsführung die wirtschaftliche Lage der Rosenberger-Gruppe auch weiterhin als positiv.
+
+Prognose und tatsächliche Entwicklung der Rosenberger-Gruppe
+
+Die vom Management abgegebenen Prognosen für das Geschäftsjahr 2023 wurden im Grunde erreicht. Erwartet wurden ein konstant steigendes Automotive-Geschäft sowie ein schwaches Interconnect-Geschäft. Das EBIT der Rosenberger-Gruppe mit 163,5 Mio. EUR lag im Geschäftsjahr jedoch aufgrund einer insgesamt schwächeren Umsatzentwicklung deutlich hinter den Erwartungen. Im Vorjahr ist noch keine Prognose der Leistungsindikatoren Betriebsergebnis und EBIT-Marge berichtet worden.
+
+3.3. Ertragslage der Rosenberger-Gruppe
+
+Analyse der Umsatzentwicklung
+
+Der Umsatz sank im Vergleich zum Vorjahr um 8,2 % (-144,9 Mio. EUR) von insgesamt 1.765,4 Mio. EUR auf 1.620,4 Mio. EUR. Der Umsatzrückgang ist insbesondere auf die Entkonsolidierung des PROSE-Antennengeschäfts sowie auf Absatzminderungen in Asien und Nordamerika zurückzuführen. Gegenläufig hat sich der Umsatz der Unternehmenszentrale in Deutschland aufgrund gesteigerter Absatzzahlen im Vorjahresvergleich positiv entwickelt (+70,3 Mio. EUR).
+
+Ergebnisanalyse
+
+In der nachfolgenden Tabelle wird die verkürzte Konzern-Gewinn- und Verlustrechnung der Rosenberger-Gruppe für das Geschäftsjahr 2023 im Vergleich zum Vorjahr 2022 dargestellt.
+
+Kennzahlen zur Ergebnisentwicklung
+
+scroll
+
+in TEUR	2023	Anteil an Umsatzerlösen	2022	Anteil an Umsatzerlösen	∆ (absolut)	∆ (relativ)
+Umsatzerlöse	1.620.439	100,0%	1.765.359	100,0%	-144.920	-8,2%
+Umsatzkosten	-1.159.692	-71,6%	-1.245.377	-70,5%	+85.685	-6,9%
+Bruttoergebnis vom Umsatz	460.747	28,4 %	519.982	29,5%	-59.235	-11,4%
+Vertriebskosten	-75.203	-4,7%	-91.102	-5,2%	+15.899	-17,5%
+Verwaltungskosten	-135.073	-8,3%	-114.219	-6,5%	-20.854	18,3%
+F&E-Kosten	-105.685	-6,5%	-115.291	-6,5%	+9.606	-8,3%
+sonstige betriebliche Erträge	103.845	6,4%	69.796	4,0%	+34.049	48,8%
+sonstige betriebliche Aufwendungen	-85.178	-5,3%	-46.557	-2,7%	-38.621	83,0%
+Betriebsergebnis (EBIT)	163.453	10,1 %	222.609	12,6 %	-59.156	-26,6 %
+Finanzerträge	870	0,1%	544	0,0%	+326	59,9%
+Finanzaufwendungen	-17.252	-1,1%	-5.942	-0,3%	-11.310	190,3%
+Finanzergebnis	- 16.382	- 1,0 %	-5.398	-0,3%	- 10.984	203,5%
+Ergebnis vor Steuern	147.071	9,1 %	217.211	12,3 %	-70.140	-32,3 %
+Ertragsteuern	-13.180	-0,8%	-32.787	-1,9%	+19.607	-59,8%
+Ergebnis nach Ertrags teuern	133.891	8,3 %	184.424	10,4 %	-50.533	- 27,4 %
+sonstige Steuern	-25	0,0%	-163	0,0%	+138	-84,7%
+Konzernjahresüberschuss	133.866	8,3 %	184.261	10,4 %	-50.395	- 27,3 %
+
+Umsatzkosten
+
+Die Umsatzkosten verringerten sich um 6,9 % von -1.245,4 Mio. EUR im Geschäftsjahr 2022 auf -1.159,7 Mio. EUR im Geschäftsjahr 2023. Verglichen mit dem Rückgang der Umsatzerlöse (8,2 %) sind die Umsatzkosten somit unterproportional gesunken. Wobei Preisanpassungen und Kosteneinsparungen zu einer Verbesserung der Materialquote von 43,2 % im Geschäftsjahr 2022 auf 38,7 % im Geschäftsjahr 2023 geführt haben. Gegenläufig haben sich allerdings die Personalkosten (+36,1 Mio. EUR) und die Abschreibungen (+11,6 Mio. EUR) im Bereich der Umsatzkosten entwickelt. Dementsprechend haben sich die Umsatzkosten im Verhältnis zu den Umsatzerlösen um 1,1 %-Punkte auf 71,6 % im Geschäftsjahr erhöht. Korrespondierend dazu reduziert sich die Rohertragsmarge (Bruttoergebnis vom Umsatz / Umsatz) von 29,5 % im Vorjahr auf 28,4 % im Geschäftsjahr.
+
+Vertriebskosten
+
+Die Vertriebskosten sind im Geschäftsjahr gegenüber dem Vorjahr um 17,5 % von -91,1 Mio. EUR auf -75,2 Mio. EUR gesunken. Auch der Anteil der Vertriebskosten an den Umsatzerlösen hat sich im Vergleich zum Vorjahr leicht um 0,5 %-Punkte verringert. Der Rückgang ist insbesondere auf um 10,0 Mio. EUR gesunkene Kosten für Ausgangsfrachten und Verpackungsmaterial zurückzuführen.
+
+Verwaltungskosten
+
+Die Verwaltungskosten sind im Geschäftsjahr gegenüber dem Vorjahr um 18,3 % von -114,2 Mio. EUR auf -135,1 Mio. EUR angestiegen. Der Anstieg ist insbesondere auf gestiegene Aufwendungen für Versicherungen & Beiträge (+7,1 Mio. EUR), Fremdleistungen (+5,4 Mio. EUR) sowie Personal (+4,7 Mio. EUR) zurückzuführen.
+
+F&E- Kosten
+
+Die F&E-Kosten verzeichnen im Geschäftsjahr mit -105,7 Mio. EUR einen Rückgang um 8,3% gegenüber dem Vorjahr, zurückzuführen im Wesentlichen auf das im Jahr 2022 unterjährig entkonsolidierte Antennengeschäft. Verglichen mit dem Rückgang der Umsatzerlöse (-8,2 %) haben sich die F&E-Kosten proportional entwickelt und haben im Geschäftsjahr einen gleichbleibenden Anteil in Höhe von 6,5 % an den Umsatzerlösen.
+
+Sonstige betriebliche Erträge und sonstige betriebliche Aufwendungen
+
+Die sonstigen betrieblichen Erträge erhöhten sich um 34,0 Mio. EUR von 69,8 Mio. EUR im Vorjahr auf 103,8 Mio. EUR im Geschäftsjahr. Der Anstieg entfällt im Wesentlichen auf die Währungsgewinne, die sich im Vergleich zum Vorjahr aufgrund von Währungskursschwankungen insbesondere der Währungen HUF, USD und CNY um 20,9 Mio. EUR von 34,8 Mio. EUR auf 55,7 Mio. EUR erhöhten sowie auf eine Erhöhung der aktivierten Eigenleistungen aufgrund von innerkonzernlichen Anlagenverkäufen um 6,9 Mio. EUR von 11,7 Mio. EUR auf 18,6 Mio. EUR.
+
+Die sonstigen betrieblichen Aufwendungen erhöhten sich um 38,6 Mio. EUR von -46,6 Mio. EUR im Vorjahr 2022 auf -85,2 Mio. EUR im Geschäftsjahr. Der Anstieg ist insbesondere auf um 22,5 Mio. EUR gestiegene Währungsverluste insbesondere aus den Kursschwankungen der Währungen CNY, USD und HUF zurückzuführen.
+
+Finanzergebnis
+
+Das Finanzergebnis hat sich im Vergleich zum Vorjahr im Wesentlichen aufgrund des Ergebnisses aus Equity-Bewertungen um -11,0 Mio. EUR von -5,4 Mio. EUR auf -16,4 Mio. EUR verändert.
+
+3.4. Vermögens- und Finanzlage der Rosenberger-Gruppe
+
+Analyse der Vermögenslage
+
+Nachfolgend wird die verkürzte Konzernbilanz der Rosenberger-Gruppe für das Geschäftsjahr 2023 im Vergleich zum Vorjahr 2022 dargestellt.
+
+Bilanz der Rosenberger-Gruppe (Kurzfassung)
+
+scroll
+
+in TEUR	31.12.2023	Anteil an Bilanzsumme	31.12.2022	Anteil an Bilanzsumme	∆ (absolut)	∆ (relativ)
+Immaterielle Vermögensgegenstände	10.488	0,7%	10.970	0,8%	-482	-4,4%
+Sachanlagen	568.315	37,8%	511.873	35,1%	56.442	11,0%
+Finanzanlagen	30.421	2,0%	38.368	2,6%	-7.947	-20,7%
+Vorräte	355.418	23,6%	356.611	24,5%	-1.193	-0,0%
+Forderungen und sonstige Vermögensgegenstände	419.710	27,9%	444.401	30,5%	-24.691	-5,5%
+Wertpapiere	811	0,1%	3.968	0,3%	-3.157	-79,6%
+Kassenbestand, Guthaben bei Kreditinstituten und Schecks	88.697	5,9%	78.360	5,4%	10.337	13,2%
+Rechnungsabgrenzungsposten	16.689	1,1%	10.478	0,7%	6.211	59,3%
+Aktive latente Steuern	12.892	0,9%	1.841	0,1%	11.051	600,3%
+Summe Aktiva	1.503.441	100%	1.456.870	100%	46.571	3,2 %
+Eigenkapital	987.611	65,7%	992.741	68,1%	-5.130	-0,1%
+Rückstellungen	66.829	4,4%	55.684	3,8%	11.145	20,0%
+Verbindlichkeiten	438.897	29,2%	401.267	27,6%	37.630	9,4%
+Rechnungsabgrenzungsposten	10.104	0,7%	7.178	0,5%	2.926	40,8%
+Summe Passiva	1.503.441	100%	1.456.870	100%	46.571	3,2 %
+
+Bilanzsumme
+
+Die Bilanzsumme der Rosenberger-Gruppe erhöhte sich zum 31. Dezember 2023 gegenüber dem Vorjahr um 46,6 Mio. EUR von 1.456,9 Mio. EUR auf 1.503,4 Mio. EUR.
+
+Anlagevermögen
+
+Die langfristigen Vermögenswerte der Rosenberger-Gruppe erhöhten sich zum 31. Dezember 2023 gegenüber dem Vorjahr um 48,0 Mio. EUR bzw. 8,6 % von 561,2 Mio. EUR auf 609,2 Mio. EUR. Dieser Anstieg ist insbesondere auf Investitionen in Sachanlagen aufgrund von Kapazitätserweiterungen in Deutschland, Ungarn, China und Mexico in Höhe von 214,1 Mio. EUR zurückzuführen. Gegenläufig wirkten sich die laufenden Abschreibungen in Höhe von insgesamt 122,1 Mio. EUR sowie Anlagenabgänge, mit Buchwertabgängen in Höhe von 53,2 Mio. EUR, insbesondere in Ungarn, aus. Darüber hinaus wurden die langfristigen Vermögenswerte durch wechselkursbedingte Buchwertanpassungen beeinflusst.
+
+Umlaufvermögen
+
+Die kurzfristigen Vermögenswerte der Rosenberger-Gruppe haben sich zum 31. Dezember 2023 gegenüber dem Vorjahr nur unwesentlich von 893,8 Mio. EUR auf 881,3 Mio. EUR verringert. Die Forderungen sind im Vergleich zum Vorjahr bedingt durch den Umsatzrückgang um -24,7 Mio. EUR bzw. -5,5 % von 444,4 Mio. EUR auf 419,7 Mio. EUR gesunken. Der Bestand an liquiden Mitteln ist hingegen um 10,3 Mio. EUR bzw. 13,2 % von 78,4 Mio. EUR auf 88,7 Mio. EUR gestiegen. Die Vorräte bewegen sich mit 355,4 Mio. EUR auf Vorjahresniveau (Vorjahr: 356,6 Mio. EUR).
+
+Eigenkapital
+
+Das Eigenkapital der Rosenberger-Gruppe verringerte sich zum 31. Dezember 2023 gegenüber dem Vorjahr um 5,1 Mio. EUR leicht von 992,7 Mio. EUR auf 987,6 Mio. EUR. Die Gutschriften auf Gesellschafterkonten in Höhe von insgesamt 129,1 Mio. EUR, sowie Währungsumrechnungseffekte (-6,4 Mio. EUR) und Entkonsolidierungseffekte (-3,5 Mio. EUR), konnten nicht ganz vollständig vom Periodenergebnis des Geschäftsjahres 2023 in Höhe von 133,9 Mio. EUR gedeckt werden. Entsprechend ergibt sich eine Eigenkapitalquote in Höhe von 65,7% (Vorjahr: 68,1%).
+
+Rückstellungen
+
+Die Rückstellungen der Rosenberger-Gruppe wuchsen vom 31. Dezember 2022 bis zum 31. Dezember 2023 um 11,1 Mio. EUR bzw. 20,0 % an. Davon ist ein Anstieg von 17,5 Mio. EUR den sonstigen Rückstellungen, im Wesentlichen aufgrund gestiegener Personalrückstellungen, und ein Rückgang von 6,4 Mio. EUR den Steuerrückstellungen, insbesondere aufgrund des im Vergleich zum Vorjahr geringeren Ergebnisses, zuzurechnen.
+
+Verbindlichkeiten
+
+Die Verbindlichkeiten der Rosenberger-Gruppe sind zum 31. Dezember 2023 um 37,6 Mio. EUR bzw. 9,4 % von 401,3 Mio. EUR auf 438,9 Mio. EUR gestiegen. Dabei erhöhten sich die Verbindlichkeiten aus Lieferungen und Leistungen insbesondere aufgrund eines höheren stichtagsbedingten Ausweises in China um 16,8 Mio. EUR. Ferner erhöhten sich die sonstigen Verbindlichkeiten aufgrund gestiegener Verbindlichkeiten gegenüber Gesellschaftern um 21,0 Mio. EUR bzw. 29,6 %. Die Verbindlichkeiten gegenüber Kreditinstituten bewegen sich mit 222,9 Mio. EUR auf Vorjahresniveau (Vorjahr: 223,0 Mio. EUR). Die Finanzierung erfolgt überwiegend aus kurzfristigen bilateralen Kreditlinien mit variabler Verzinsung.
+
+Analyse der Finanzlage
+
+In der nachfolgenden Tabelle wird die verkürzte Konzern-Kapitalflussrechnung der Rosenberger-Gruppe für das Geschäftsjahr 2023 im Vergleich zum Geschäftsjahr 2022 dargestellt. Entkonsolidierungseffekte bleiben aufgrund ihrer Zahlungsunwirksamkeit außer Ansatz.
+
+scroll
+
+in TEUR	2023	Anteil am Free Cashflow 4	2022	Anteil am Free Cashflow	∆ (absolut)	∆ (relativ)
+Cashflow aus der	303.145	224,9%	292.322	299,9%	10.823	3,7%
+laufenden Tätigkeit						
+Cashflow aus der	-168.380	-99,3%	-194.834	-199,9%	26.454	-13,6%
+Investitionstätigkeit						
+Cashflow aus der Finanzierungstätigkeit	-116.387	-86,4%	-97.795	-100,3%	-18.592	19,0%
+Free Cashflow *	134.765	100,0%	97.488	100,0%	37.277	38,2%
+
+Cashflow aus der laufenden Geschäftstätigkeit
+
+Der Cashflow aus der betrieblichen Tätigkeit erhöhte sich im Geschäftsjahr gegenüber dem Vorjahr um 10,8 Mio. EUR bzw. 3,7 % von 292,3 Mio. EUR auf 303,1 Mio. EUR. Dieser Anstieg ist im Wesentlichen auf die Zunahme der Verbindlichkeiten um 22,9 Mio. EUR zurückzuführen (Vorjahr: Abnahme um -80,9 Mio. EUR). Gegenläufig wirkt eine geringere Abnahme der Vorräte und Forderungen um 15,7 Mio. EUR (Vorjahr: Abnahme um 70,2 Mio. EUR). Des Weiteren führt das um 50,4 Mio. EUR gesunkene Periodenergebnis zu einer Abnahme des Cashflows aus der betrieblichen Tätigkeit.
+
+Cashflow aus der Investitionstätigkeit
+
+Der negative Cashflow aus der Investitionstätigkeit verringerte sich im Geschäftsjahr 2023 gegenüber dem Vorjahr um 26,5 Mio. EUR bzw. 13,6 % von -194,8 Mio. EUR auf -168,4 Mio. EUR. Im Wesentlichen ist dies bedingt durch um 45,5 Mio. EUR höhere Einzahlungen aus Abgängen des Sachanlagevermögens. Gegenläufig wirken sich um 28,5 Mio. EUR höhere Auszahlungen für Investitionen in das Sachanlagevermögen auf den Cashflow aus der Investitionstätigkeit aus.
+
+Cashflow aus der Finanzierungstätigkeit
+
+Der negative Cashflow aus der Finanzierungstätigkeit erhöhte sich im Geschäftsjahr 2023 gegenüber dem Vorjahr um -18,6 Mio. EUR von -97,8 Mio. EUR auf -116,4 Mio. EUR. Es wirken sich im Wesentlichen die Auszahlungen an Gesellschafter zum Zwecke der Steuerzahlungen in Höhe von insgesamt -94,3 Mio. EUR (Vorjahr: -55,5 Mio. EUR) auf den Cashflow aus Finanzierungstätigkeit aus.
+
+4. CHANCEN- UND RISIKENBERICHT
+
+4.1. Chancen- und Risikomanagementsystem
+
+Als führender Anbieter von Impedanzkontrollierten Verbindungslösungen steht die Rosenberger-Gruppe einer Vielzahl von Chancen und Risiken gegenüber, die sich aus dem unternehmerischen Handeln, der Geschäftsstrategie sowie dem Marktumfeld ergeben. Auf Basis eines Chancen- und Risikomanagements verfolgt das Management der Rosenberger-Gruppe das Ziel, Chancen und Risiken so früh wie möglich zu identifizieren, diese angemessen zu bewerten und durch geeignete Maßnahmen Risiken zu begrenzen oder zu vermeiden bzw. durch geeignete Maßnahmen Chancen zu nutzen.
+
+Die Rosenberger-Gruppe hat das Risikomanagementsystem in die Unternehmensplanung und das interne Berichtswesen integriert. Sowohl durch die rollierende Budgetplanung als auch durch monatliche Finanzberichte und deren systematische Betrachtung werden Risiken zeitnah erkannt und untersucht. Ferner werden Risiken in einem implementierten Risiko- und Compliance-Management-System erhoben und proaktiv adressiert. Nach Einführung einer neuen ERP-Software in den kommenden Jahren werden zusätzlich eine deutlich höhere Transparenz und neue KPIs im Controlling erwartet. Auch wurde der Aufbau eines Data Ware House und eines Power-BI-Tools zum Aufbau eines konzernweiten Management-Informations-Systems (MIS) weiter vorangetrieben.
+
+Die Geschäftsführung der Rosenberger Hochfrequenztechnik GmbH & Co. KG, Tittmoning, trägt die Verantwortung für ein wirksames Risikomanagementsystem. Die organisatorische Verankerung des Risikomanagements im Bereich Finance/Controlling ermöglicht eine in die Planungs- und Berichtsprozesse integrierte, ganzheitliche Ausgestaltung des Risikomanagementsystems. Das Hauptaugenmerk beim Einsatz der Risikomanagementinstrumente liegt darauf, mögliche Abweichungen bei den Kernsteuerungsgrößen Umsatzerlöse und Betriebsergebnis (EBIT) einzuschätzen.
+
+Die originäre Risikoverantwortung, -erfassung und -steuerung entlang der Wertschöpfungskette liegt dezentral bei den fachlichen Verantwortlichen in den operativen Einheiten. Der Verwaltungsrat ist für die Überwachung der Wirksamkeit des Risikomanagementsystems verantwortlich.
+
+4.2. Chancen und Risiken der zukünftigen Geschäftsentwicklung
+
+Gesamtwirtschaftliche Chancen und Risiken
+
+Gesamtwirtschaftliche Risiken können sich insbesondere aus den geopolitischen Ereignissen ergeben, u. a. Russland-Ukraine-Krieg, US-Präsidentschaftswahl, Nahostkonflikt sowie die europäisch-chinesischen Handelsbeziehungen. Diesen Risiken begegnen wir auch zukünftig durch permanentes Monitoring der einzelnen Geschäftsbereiche, durch den kontinuierlichen Ausbau eines Local-for-Local-Produktionsansatzes.
+
+Im Allgemeinen hängt die Nachfrage nach Produkten der Rosenberger-Gruppe von der weltweiten Nachfrage nach PKWs sowie von Netzausbauplänen von Mobilfunkanbietern in den verschiedenen Regionen ab. Darüber hinaus spielt die Nachfrage nach Halbleiter-Produktionskapazitäten sowie medizinischen Geräten, Luft- und Raumfahrt eine Rolle. Großteils hängen diese Erfolgskriterien von der Stärke der Weltwirtschaft ab, weshalb auch weiterhin die Ertragskraft und finanzielle Leistungsfähigkeit der Rosenberger-Gruppe vom allgemeinen Zustand und der Entwicklung der Weltwirtschaft beeinflusst wird.
+
+Allgemeine Chancen und Risiken für die Rosenberger-Gruppe
+
+Das Geschäft der Rosenberger-Gruppe zeichnet sich durch hohe Fixkosten aus. Sollten die Anlagen der Rosenberger-Gruppe unterausgelastet sein, könnte dies zu Leerlaufkapazitätskosten, Abschreibungen auf Vorräte und zu Verlusten aus Produkten aufgrund sinkender durchschnittlicher Verkaufsmengen führen. Darüber hinaus haben sinkende Produktionsmengen Umsatz- und Ergebnisrückgänge zur Folge. Demgegenüber könnten die Anlagen der Rosenberger-Gruppe im Falle einer unerwartet kurzfristigen deutlichen Erhöhung der kundenseitigen Nachfrage nach Rosenberger-Produkten nicht über ausreichende Kapazitäten verfügen, um den Bedarf der Kunden zu befriedigen.
+
+Das Geschäftsumfeld der Rosenberger-Gruppe ist von einem starken Wettbewerb geprägt, der sich auf einige der Rosenberger-Produkte sowie die zugehörigen Märkte auswirkt und den Umsatz der Rosenberger-Gruppe verringern und/oder die Verkaufspreise weiter unter Druck setzen könnte. Die Märkte, in denen die Rosenberger-Gruppe tätig ist, sind wettbewerbsorientiert und durch Veränderungen in der Marktdurchdringung, einem erhöhten Preiswettbewerb sowie der Entwicklung und Einführung neuer Produkte, Produktdesigns und Technologien bestehender und neuer Wettbewerber gekennzeichnet. Die Rosenberger-Gruppe konkurriert in erster Linie auf der Grundlage von Preis, Qualität, Funktionalität, Pünktlichkeit der Lieferung und Design sowie der Fähigkeit, Entwicklungsunterstützung und Dienstleistungen auf globaler Basis anzubieten. Sollte die Rosenberger-Gruppe künftig nicht in der Lage dazu sein, die Qualität der Rosenberger-Produkte und die Zuverlässigkeit der Versorgung sicherzustellen, könnten sich die aktuellen Kunden der Rosenberger-Gruppe dazu entscheiden, Produkte von Wettbewerbern zu beziehen.
+
+Potenzielle soziale, politische, rechtliche und wirtschaftliche Instabilität können erhebliche Risiken für die Fähigkeit der Rosenberger-Gruppe darstellen, die Geschäfte zu führen und die Aktivitäten in bestimmten Märkten auszuweiten. Ein den internationalen Aktivitäten der Rosenberger-Gruppe inhärentes Risiko besteht darin, dass eine beliebige Anzahl der nachfolgend genannten Umstände die Geschäftstätigkeit der Rosenberger-Gruppe ggf. erheblich beeinträchtigen könnte:
+
+•
+
+unterentwickelte Infrastruktur;
+
+•
+
+Mangel an qualifiziertem Management oder angemessen geschultem Personal;
+
+•
+
+Devisenkontrollen, Wechselkursschwankungen und/oder Abwertungen;
+
+•
+
+Veränderungen der lokalen wirtschaftlichen Bedingungen;
+
+•
+
+staatliche Beschränkungen für ausländische Investitionen, den Transfer oder die Rückführung von Geldern;
+
+•
+
+protektionistische Handelsmaßnahmen wie Antidumpingmaßnahmen, Zölle oder Embargos;
+
+•
+
+Verbote oder Beschränkungen von Übernahmen oder Joint Ventures;
+
+•
+
+Änderungen von Gesetzen oder Vorschriften und unvorhersehbare oder rechtswidrige Regierungsmaßnahmen;
+
+•
+
+die Schwierigkeit, Vereinbarungen durchzusetzen und Forderungen über ausländische Rechtsordnungen einzuziehen;
+
+•
+
+Änderungen beim bestehenden Schutz von geistigem Eigentum oder vergleichbarer gesetzlicher Rechte;
+
+•
+
+mögliche Verstaatlichungen von Unternehmen oder andere Enteignungen; sowie
+
+•
+
+politische oder soziale Unruhen oder Sabotageakte oder Terrorismus und Kriege.
+
+Die Rosenberger-Gruppe ist Preisschwankungen bei vorgefertigten Materialien und Komponenten ausgesetzt. Trotz einer im Wettbewerbsvergleich ausgeprägten Wertschöpfungstiefe beschafft die Rosenberger-Gruppe große Mengen an vorgefertigten Materialien und Komponenten von Drittanbietern. Die Preise für diese vorgefertigten Materialien, Komponenten und Fertigungsdienstleistungen, welche die Rosenberger-Gruppe von Lieferanten bezieht, hängen von einer Reihe von Faktoren ab. Darunter in begrenztem Umfang auch die Entwicklung der in der Vergangenheit bereits volatilen Preise für Rohstoffe (z.B. Messing, Kupfer, Gold, Silber sowie Energiepreise), die in Rosenberger-Produkten verwendet werden. Es kann nicht ausgeschlossen werden, dass die übliche Volatilität auf den Rohstoff- und Zulieferermärkten in Zukunft zu einem weiteren Kostenanstieg führen kann. Sollte die Rosenberger-Gruppe nicht dazu in der Lage sein, potenzielle Kostensteigerungen zu kompensieren oder an Kunden weiterzugeben, könnten solche Preiserhöhungen einen wesentlichen negativen Einfluss auf die Finanzergebnisse der Rosenberger-Gruppe haben. Auch ist es möglich, dass in dem Maße, in dem es der Rosenberger-Gruppe gelingt, die gestiegenen Kosten durch Preiserhöhungen bei Neuprodukten zu kompensieren oder an die Kunden weiterzugeben, die positiven Effekte solcher Preiserhöhungen möglicherweise nicht in den Perioden auftreten, in denen die Mehraufwendungen entstanden sind, sondern unter Umständen erst in späteren Perioden. Der langfristige Anstieg der Kosten (sowie der daraus resultierende Anstieg der Preise von Rosenberger-Produkten) kann sich ebenfalls negativ auf die Nachfrage nach Produkten der Rosenberger-Gruppe auswirken.
+
+Der zukünftige Geschäftserfolg der Rosenberger-Gruppe hängt von ihrer Fähigkeit ab, die hohe Qualität der Produkte und Prozesse aufrechtzuerhalten, welche für die Kunden einer der bestimmenden Auswahlfaktoren ist. Ein Rückgang der tatsächlichen und wahrgenommenen Qualität dieser Produkte und Prozesse könnte den Ruf des Unternehmens und der Produkte schädigen. Fehler oder Verzögerungen, die durch Missverständnisse oder Fehleinschätzungen im Rahmen des Projektmanagements verursacht werden, können sich negativ auf die Produktionsprozesse unserer Kunden auswirken und zu einem Reputationsschaden für die Rosenberger-Gruppe als Lieferant sowie für den betroffenen Kunden als Hersteller führen. Darüber hinaus können fehlerhafte Produkte zu Umsatzeinbußen, Kundenverlusten und dem Verlust der Marktakzeptanz führen.
+
+Ferner arbeitet die Rosenberger-Gruppe über die nächsten Jahre an der Implementierung eines neuen ERP-Systems mit einer grundsätzlichen Überarbeitung der Prozesse. Die Einführung kann bei Störungen nach Go-Live zu erheblichen finanziellen Risiken führen.
+
+Chancen und Risiken im Zusammenhang mit Branchen
+
+Automotive
+
+Mit dem Automobilgeschäft hat die Rosenberger-Gruppe im Geschäftsjahr 2023 etwa 65,2 % der Umsatzerlöse erzielt. Im Rahmen des Automobilgeschäfts veräußert die Rosenberger-Gruppe ihre Produkte in erster Linie an System- und Modullieferanten (Tier 1 + 2) aus der Automobilindustrie.
+
+Risiken im Geschäftsbereich Automotive bestehen unter anderem in regional schwankenden Automobil-Absatzzahlen, die wiederum in Abhängigkeit zur allgemeinen Konjunkturentwicklung stehen. Darüber hinaus können regulatorische Maßnahmen (z. B. Schutzzölle, Absatzprämien, etc.) oder Lieferkettenprobleme, insbesondere Engpässe bei Rohstoffen und Halbleitern, Auswirkungen auf Umsatz und Ertrag der Rosenberger-Gruppe haben. Für 2024 rechnet die Rosenberger-Gruppe mit ca. 90 Mio. PKW-Verkäufen weltweit.
+
+Der Wettbewerbsdruck durch neue und etablierte Anbieter wächst ständig. Strengere Emissions- und Sicherheitsvorschriften erfordern kontinuierliche Anpassungen und Innovationen. Zudem fordern die rasanten technologischen Entwicklungen der Automobil- und deren Zulieferindustrie uns als Steckverbinder-Hersteller zu kürzeren Entwicklungszeiten und stetigen Investitionen in Forschung und Entwicklung.
+
+Auch ist zu befürchten, dass die steigende Inflation weiter das Käuferverhalten negativ beeinflussen wird.
+
+Diesen Risiken wirkt die weiter zunehmende Ausstattung von Automobilen mit technischen Komponenten, etwa in den Bereichen Infotainment, autonomes Fahren und Telematik entgegen. Der Trend zu immer mehr Infotainment- und Assistenzsystemen setzt sich fort, wodurch sich auch bei einer nur leicht steigenden weltweiten Automobilproduktion für Rosenberger deutliche Wachstumsraten ergeben werden. Auch gesetzliche Vorgaben wie z.B. die Forderung nach Innenraum-Sensorik steigern den Anteil von Rosenberger-Produkten je Fahrzeug.
+
+Interconnect
+
+Etwa 25,5 % der Umsatzerlöse erzielte die Rosenberger-Gruppe im Geschäftsjahr 2023 mit Verkäufen in der Technologiebranche Interconnect. Innerhalb des Geschäftsbereichs Interconnect veräußert die Rosenberger-Gruppe ihre Produkte an Kunden in verschiedenen Branchen darunter Mobilfunkbetreiber, Mobilfunkausstatter, Anbieter von Rechenzentren, die medizinische Anwendungsindustrie und der Luft- und Raumfahrtsektor
+
+Semicon & Test
+
+Etwa 8,1 % der Umsatzerlöse erzielte die Rosenberger-Gruppe im Geschäftsjahr mit Verkäufen im Bereich Semicon & Test. Im Rahmen des Semicon & Test-Geschäfts veräußert die Rosenberger-Gruppe ihre Produkte an Kunden u. a. aus der Halbleiterbranche.
+
+Die Risiken im Geschäftsbereich Messtechnik bestehen insbesondere aus der Abhängigkeit der eingesetzten Messtechnik von technischen Innovationen und Veränderungen von technischen Standards. Diesen Risiken tritt die Rosenberger-Gruppe durch eine starke Diversifikation im Geschäftsbereich entgegen, um so zyklische Entwicklungen in den einzelnen Bereichen ausgleichen zu können. Gute Auftragsbestände sichern aber eine Vollauslastung.
+
+Daneben stehen die mit dem Semicon & Test-Geschäft erzielten Umsätze oft in Abhängigkeit von staatlichen Fördermaßnahmen und gleichfalls möglichen geopolitischen Spannungen. Handelsbeschränkungen, Zölle oder politische Konflikte können die Lieferketten stören und den Zugang zu wichtigen Märkten erschweren. Das Unternehmen legt großen Wert auf Risikomanagement und hat Strategien entwickelt, um diesen Herausforderungen zu begegnen. Dazu gehören eine enge Überwachung des Marktes, Diversifizierung der Kundenbasis, langfristige Partnerschaften mit Lieferanten und Investitionen in Forschung und Entwicklung, um die technologische Führungsposition zu sichern. Trotz dieser Bemühungen bleibt das Geschäft der Rosenberger-Gruppe einem gewissen Maß an Unsicherheit und Risiko ausgesetzt, auf die das Unternehmen flexibel reagieren muss.
+
+Rechtliche, steuerliche und ökologische Chancen und Risiken
+
+Da die Rosenberger-Gruppe technische Produkte liefert, besteht grundsätzlich das Risiko von produktbezogenen Sach- und Haftungsschäden. Dem wird durch ein umfassendes Qualitätssicherungssystem und darüber hinaus durch entsprechenden gruppenweiten Versicherungsschutz Rechnung getragen. Besonderes Augenmerk legt die Gruppe auf Neu-Entwicklungen, die technisch sehr anspruchsvoll und damit schwieriger in der Markteinführung für unsere Kunden sind.
+
+Risiken aus Gewährleistungs- und Produkthaftungsansprüchen
+
+Als Produzent bestehen bei der Rosenberger-Gruppe Gewährleistungs- und Produkthaftungsrisiken sowie andere Haftungsrisiken, z. B. aufgrund von Ansprüchen aus Vertragsverletzungen (wie etwa Lieferverzögerungen), Sorgfaltspflichtverletzungen, Rückrufaktionen oder Bußgeldern bzw. sonstigen Sanktionen, die von staatlichen Stellen in Bezug auf die Rosenberger-Produkte verhängt werden könnten. Derartige Ansprüche, Verfahren oder Klagen könnten zu erhöhten Kosten für die Rosenberger-Gruppe führen. Darüber hinaus könnten die Behörden den zukünftigen Verkauf der Rosenberger-Produkte verbieten, insbesondere in Fällen von Sicherheitsbedenken.
+
+Die oben genannten Szenarien könnten zu einem Verlust der Marktakzeptanz, Umsatzeinbußen und dem Verlust von Kunden führen, insbesondere vor dem Hintergrund, dass es sich bei vielen der Rosenberger-Produkte um Komponenten handelt, die regelmäßig einen großen Einfluss auf die allgemeine Sicherheit, Haltbarkeit und Leistung des Endprodukts haben. Die Risiken, die sich aus Gewährleistungs- und Produkthaftungsklagen, Verfahren und anderen Ansprüchen ergeben, sind so versichert, wie es das Management der Rosenberger-Gruppe für wirtschaftlich sinnvoll erachtet. Gleichwohl könnte sich der Versicherungsschutz im Einzelfall als unzureichend erweisen. Jeder größere Mangel an einem der Rosenberger-Produkte könnte sich auch erheblich nachteilig auf den Ruf und die Marktwahrnehmung der Rosenberger-Gruppe auswirken, was wiederum erheblich nachteilige Folgen für den Umsatz und das Betriebsergebnis haben könnte. Darüber hinaus verlangen Fahrzeughersteller (OEM) zunehmend einen Beitrag oder eine Entschädigung ihrer Lieferanten für mögliche Produkthaftungs-, Gewährleistungs- und Rückrufansprüche, weshalb das Management der Rosenberger-Gruppe weiterhin bestrebt ist, die Vertragsbedingungen für Gewährleistungen und Rückrufbeteiligungen zu ändern.
+
+Risiken in Bezug auf das geistige Eigentum
+
+Die Rosenberger-Produkte und -Dienstleistungen sind in hohem Maße von technologischem Know-how sowie dem Umfang und den Grenzen der Eigentumsrechte der Rosenberger-Gruppe abhängig. Die Rosenberger-Gruppe hat eine Reihe von Rechten an geistigem Eigentum erhalten oder beantragt, deren Beschaffung schwierig, langwierig und teuer sein kann. Wird bei der Entwicklung von Rosenberger-Produkten der Input eines einzelnen Kunden einbezogen, besteht außerdem die Gefahr, dass dieser Kunde Eigentumsrechte an dem mit diesem Produkt verbundenen geistigen Eigentum beansprucht. Die Wettbewerber, Lieferanten, Kunden der Rosenberger-Gruppe und andere Dritte reichen ebenfalls eine hohe Anzahl von Anträgen auf Schutz des geistigen Eigentums ein. Solche Drittparteien könnten effektive und durchsetzbare Rechte an geistigem Eigentum an bestimmten Prozessen, Methoden oder Anwendungen besitzen und folglich Verletzungsansprüche (einschließlich illegitimer) gegen die Rosenberger-Gruppe geltend machen.
+
+Risiken aus Gerichts-, Verwaltungs- und Schiedsverfahren
+
+Die Rosenberger-Gruppe ist in regelmäßigen Abständen an Gerichts- und Verwaltungsverfahren im Zusammenhang mit Produkten, Patenten und anderen Angelegenheiten beteiligt, die mit der Geschäftstätigkeit der Rosenberger-Gruppe zusammenhängen, und könnte in Zukunft in weitere Gerichts-, Verwaltungs- und Schiedsverfahren verwickelt werden. Diese Verfahren oder potenziellen Verfahren könnten insbesondere in den Vereinigten Staaten erhebliche Ansprüche auf Schadensersatz oder andere Zahlungen beinhalten. Aufgrund eines Urteils oder einer Vergleichsvereinbarung könnte die Rosenberger-Gruppe zu erheblichem Schadensersatz verpflichtet werden. Die Prozesskosten der Rosenberger-Gruppe könnten ebenfalls erheblich sein.
+
+Chancen und Risiken in Bezug auf Ökologie und Klimaveränderungen
+
+Die Rosenberger-Gruppe ist dem Einfluss des Klimawandels wie vergleichbare Unternehmen der automobilen oder elektrotechnischen Wertschöpfungskette ausgesetzt. Der Klimawandel und vermehrt auftretende extreme Wetterereignisse können zu Problemen in den Lieferketten führen oder die Verfügbarkeit wichtiger Waren beeinträchtigen und in der Folge die Kosten erhöhen. Schäden an den Produktionsstandorten können zu einem Ausfall von Produktionskapazitäten führen und subsequent das Ergebnis der Rosenberger-Gruppe verringern. Des Weiteren besteht in der durch den Klimawandel beschleunigten Änderung der Regulatorik ein Risiko für die Rosenberger-Gruppe, dem durch enges Monitoring der gesetzlichen Anforderungen begegnet wird. Änderungen der Regulatorik können zu kurzfristig höheren Kosten führen und damit einhergehend ein erhöhter Druck auf das Ergebnis.
+
+Die umfangreiche Produktpalette der Rosenberger-Gruppe eröffnet Chancen im globalen Bestreben, den CO 2 -Ausstoß zu reduzieren. Regierungen weltweit fördern Maßnahmen zur Verringerung der CO 2 -Emissionen.
+
+4.3. Gesamtbeurteilung der Chancen und Risiken
+
+Die Geschäftsleitung sieht kein individuelles oder aggregiertes Risiko, dass der Fortbestand der Rosenberger GmbH & Co. KG respektive der Rosenberger-Gruppe in Zukunft in irgendeiner Weise gefährdet sein könnte.
+
+Aus Sicht der Rosenberger-Gruppe ergeben sich - insbesondere auch unter Berücksichtigung der soliden Eigenkapitalausstattung - auf absehbare Zeit keine entwicklungsbeeinträchtigenden oder bestandsgefährdenden Risiken. Ein erhöhtes Augenmerk wird jedoch weiterhin auf Qualitätsverbesserungen, Kostenoptimierungen, die ERP-Einführung sowie auf das Schritthalten bei neuen technologischen Entwicklungen gelegt.
+
+5. PROGNOSEBERICHT
+
+5.1. Gesamtwirtschaftlicher Ausblick
+
+Die Entwicklung der Weltwirtschaft im Geschäftsjahr 2024 ist maßgeblich vom weiteren Verlauf der geopolitischen Rahmenbedingungen abhängig und daher weiterhin einem erhöhten Risiko unterworfen. Die Rosenberger-Gruppe erwartet für das Geschäftsjahr 2024 einen Zuwachs des globalen Bruttoinlandsprodukts um 3,2 %.
+
+5.2. Voraussichtliche Entwicklung der Rosenberger-Gruppe
+
+Trotz anhaltender geopolitischer sowie wirtschaftlicher Unsicherheiten, blickt die Rosenberger-Gruppe verhalten positiv in die Zukunft. Starke Wachstumsimpulse gehen weiterhin vom weltweiten Automotive-Geschäft aus, während die Bereiche Interconnect als auch Semicon & Test sich weitgehend auf dem niedrigen Vorjahresniveau bewegen werden. Avisierte Aufträge und Nominierungen zeigen einen langfristigen Wachstumskurs der Rosenberger-Gruppe auf und deuten auf kontinuierliche gruppenweite Umsatzsteigerungen in den nächsten Jahren hin.
+
+Natürlich kann generell nicht ausgeschlossen werden, dass der tatsächliche Geschäftsverlauf aufgrund von nicht vorhersehbaren Entwicklungen im wirtschaftlichen und regulatorischen Umfeld der Rosenberger-Gruppe von diesen Erwartungen abweicht. Insbesondere hängt die Realisierung der Planungsergebnisse entscheidend von der gesamtwirtschaftlichen Entwicklung in den Ländern ab, in denen der Konzern tätig ist. Erheblichen Einfluss haben darüber hinaus Wechselkursentwicklungen, insb. ggü. USD und CNY.
+
+Prognose der voraussichtlichen Unternehmensentwicklung im Geschäftsjahr 2024
+
+scroll
+
+in Mio. EUR (soweit nicht anders vermerkt)	Prognose 2024	Ist 2023
+Rosenberger-Gruppe		
+Umsatzerlöse	1.701	1.620
+Betriebsergebnis (EBIT)	175	163
+EBIT-Marge	10,3%	10,1%
+
+Für das Jahr 2025 rechnet das Management der Rosenberger-Gruppe mit einem Umsatzwachstum in nahezu allen Branchen und Regionen in einem mittleren einstelligen Prozentsatz und einer EBIT-Marge auf dem Niveau von 2024.
+
+Tittmoning, den 21. November 2024
+
+Rosenberger GmbH & Co. KG
+
+Geschäftsführung
+
+Hans Rosenberger
+
+Bernd Rosenberger
+
+Peter Rosenberger
+
+1 Quellen:
+Institut für Weltwirtschaft Kiel, Kieler Konjunkturberichte - Weltwirtschaft im Frühjahr 2024, Ausgabe 111/2024
+Institut für Weltwirtschaft Kiel, Kieler Konjunkturberichte - Deutsche Wirtschaft im Frühjahr 2024, Ausgabe 112/2024
+Institut für Weltwirtschaft Kiel, Kieler Konjunkturberichte - Weltwirtschaft im Herbst 2024, Ausgabe 116/2024
+2 Quellen:
+https://de.statista.com/statistik/daten/studie/151749/umfrage/entwicklung-der-weltweiten-automobilproduktion/
+https://de.statista.com/statistik/daten/studie/151752/umfrage/prognose-zur-entwicklung-des-weltweiten-pkw-absatzes/
+3 Quellen:
+Institut für Weltwirtschaft Kiel, Kieler Konjunkturberichte - Weltwirtschaft im Frühjahr 2024, Ausgabe 111/2024
+4 Free Cashflow = Summe aus „Cashflow aus der laufenden Tätigkeit“ und „Cashflow aus der Investitionstätigkeit“
+
+KONZERNBILANZ zum 31. Dezember 2023
+
+der Rosenberger GmbH & Co. KG, Tittmoning
+
+Aktiva
+
+scroll
+
+in TEUR	31.12.2023	31.12.2022
+A. Anlagevermögen	609.224	561.211
+I. Immaterielle Vermögensgegenstände		
+1. Entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten	9.769	9.021
+2. Geschäfts- oder Firmenwert	639	1.305
+3 geleistete Anzahlungen	80	644
+	10.488	10.970
+II. Sachanlagen		
+1. Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken	163.249	152.568
+2. technische Anlagen und Maschinen	291.972	228.091
+3. andere Anlagen, Betriebs- und Geschäftsausstattung	50.599	45.301
+4. geleistete Anzahlungen und Anzahlungen im Bau	62.495	85.913
+	568.315	511.873
+III. Finanzanlagen		
+1. Anteile an verbundenen Unternehmen	88	50
+2. Beteiligungen an assoziierten Unternehmen	29.926	37.876
+3. Beteiligungen	57	57
+4. sonstige Ausleihungen	350	385
+	30.421	38.368
+B. Umlaufvermögen	864.636	883.340
+I. Vorräte		
+1. Roh-, Hilfs- und Betriebsstoffe	197.511	182.592
+2. unfertige Erzeugnisse, unfertige Leistungen	20.095	22.859
+3. fertige Erzeugnisse und Waren	140.780	138.087
+4. geleistete Anzahlungen	992	13.073
+5. erhaltene Anzahlungen auf Bestellungen	-3.960	0
+	355.418	356.611
+II. Forderungen und sonstige Vermögensgegenstände		
+1. Forderungen aus Lieferungen und Leistungen	360.485	389.223
+2. sonstige Vermögensgegenstände	59.225	55.178
+	419.710	444.401
+III. Wertpapiere		
+sonstige Wertpapiere	811	3.968
+IV. Kassenbestand, Guthaben bei Kreditinstituten und Schecks	88.697	78.360
+C. Rechnungsabgrenzungsposten	16.689	10.478
+D. Aktive latente Steuern	12.892	1.841
+Bilanzsumme	1.503.441	1.456.870
+Passiva		
+in TEUR	31.12.2023	31.12.2022
+A. Eigenkapital	987.611	992.741
+I. Kapitalanteile Kommanditisten	331.696	77.174
+II. Rücklagen		
+1. Rücklage gemäß Gesellschaftervertrag	129.913	129.913
+2. sonstige Rücklagen	508.555	752.521
+	638.468	882.434
+III. Eigenkapitaldifferenz aus Währungsumrechnung	-5.563	189
+V. nicht beherrschende Anteile	23.010	32.944
+B. Rückstellungen	66.829	55.684
+1. Steuerrückstellungen	17.146	23.544
+2. sonstige Rückstellungen	49.683	32.140
+C Verbindlichkeiten	438.897	401.267
+1. Verbindlichkeiten gegenüber Kreditinstituten	222.884	222.999
+2. Verbindlichkeiten aus Lieferungen und Leistungen	124.041	107.278
+3. sonstige Verbindlichkeiten	91.972	70.990
+D. Rechnungsabgrenzungsposten	10.104	7.178
+Bilanzsumme	1.503.441	1.456.870
+
+KONZERN-GEWINN- UND VERLUSTRECHNUNG für das Geschäftsjahr vom 1. Januar bis zum 31. Dezember 2023
+
+der Rosenberger GmbH & Co. KG, Tittmoning
+
+scroll
+
+in TEUR	01.01.-31.12.2023	01.01.-31.12.2022
+1. Umsatzerlöse	1.620.439	1.765.359
+2. Herstellungskosten der zur Erzielung der Umsatzerlöse erbrachten Leistungen	-1.159.692	-1.245.377
+3. Bruttoergebnis vom Umsatz	460.747	519.982
+4. Vertriebskosten	-75.203	-91.102
+5. allgemeine Verwaltungskosten	-240.758	-229.510
+6. sonstige betriebliche Erträge	103.845	69.796
+7. sonstige betriebliche Aufwendungen	-85.178	-46.557
+8. Erträge aus Beteiligungen	17	23
+9. sonstige Zinsen und ähnliche Erträge	853	521
+10. Ergebnis aus Beteiligungen an assoziierten Unternehmen	-9.953	-753
+11. Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufvermögens	0	0
+12. Zinsen und ähnliche Aufwendungen	-7.299	-5.189
+13. Steuern vom Einkommen und vom Ertrag	-13.180	-32.787
+14. Ergebnis nach Steuern vom Einkommen und vom Ertrag	133.891	184.424
+15. sonstige Steuern	-25	-163
+16. Konzernjahresüberschuss	133.866	184.261
+davon nicht beherrschende Anteile	7.500	21.598
+
+KONZERNANHANG für das Geschäftsjahr vom 1. Januar bis zum 31. Dezember 2023
+
+der Rosenberger GmbH & Co. KG, Tittmoning
+
+1. ALLGEMEINE INFORMATIONEN
+
+Die Rosenberger GmbH & Co. KG mit Sitz in Tittmoning (nachfolgend „Rosenberger GmbH & Co. KG“) ist das Mutterunternehmen der Rosenberger-Gruppe, bestehend aus der Rosenberger GmbH & Co. KG und den von ihr beherrschten Tochterunternehmen (nachfolgend auch „Rosenberger-Gruppe“). Die Rosenberger GmbH & Co. KG ist im Handelsregister des Amtsgerichts Traunstein unter HRA Nr. 11357 eingetragen.
+
+Die Rosenberger-Gruppe ist ein weltweit tätiger Hersteller von Impedanzkontrollierten Verbindungslösungen und aktiven Systemen in der koaxialen Hochfrequenz-, Funk- und Fiberoptik-Technologie sowie von komplexen Hochvolt-Kontaktsystemen für die Automobilindustrie.
+
+Der Konzernabschluss der Rosenberger GmbH & Co. KG, Tittmoning wird unter Beachtung der Grundsätze ordnungsmäßiger Buchführung nach den Vorschriften des Handelsgesetzbuches (HGB) unter der Annahme der Unternehmensfortführung aufgestellt. Die Rosenberger GmbH & Co. KG, Tittmoning erstellt einen HGB-Konzernabschluss, in den das Mutterunternehmen sowie alle von ihr beherrschten Tochterunternehmen einbezogen werden (größter und kleinster Konsolidierungskreis). Sämtliche offenlegungspflichtigen Unterlagen der Rosenberger GmbH & Co. KG, Tittmoning werden im Unternehmensregister elektronisch bekanntgemacht.
+
+Die Gewinn- und Verlustrechnung der Rosenberger-Gruppe wird nach dem Umsatzkostenverfahren gemäß § 275 Abs. 3 HGB aufgestellt. Das Geschäftsjahr der Rosenberger GmbH & Co. KG, Tittmoning und der in den Konzernabschluss einbezogenen Tochterunternehmen entspricht dem Kalenderjahr. Die Berichtsperiode umfasst den Zeitraum vom 1. Januar bis zum 31. Dezember 2023 (nachfolgend „Geschäftsjahr“). Die Vergleichsperiode umfasst den Zeitraum vom 1. Januar bis zum 31. Dezember 2022 (nachfolgend „Vorjahr“). Ein vom Kalenderjahr abweichendes Geschäftsjahr gibt es aufgrund nationaler Regelungen bei dem Tochterunternehmen Rosenberger Interconnect India Pvt. Ltd., Pune. Das Geschäftsjahr dieser Gesellschaft endet zum 31. März eines jeden Jahres, sodass zum Bilanzstichtag des Konzernabschlusses ein Zwischenabschluss aufgestellt wird. Die Berichtswährung des Jahresabschlusses der Rosenberger GmbH & Co. KG, Tittmoning ist der Euro (EUR). Soweit nicht anders vermerkt, werden alle Beträge in Tausend Euro (TEUR) angegeben. Aus rechentechnischen Gründen können in den dargestellten Informationen Rundungsdifferenzen in Höhe von +/- einer Einheit (TEUR, % usw.) auftreten. Zur Klarheit und Übersichtlichkeit des Konzernabschlusses werden die für einzelne Posten der Konzernbilanz und der Konzern-Gewinn- und Verlustrechnung geforderten Zusatzangaben im Konzernanhang dargestellt.
+
+2. ALLGEMEINE GRUNDLAGEN DES KONZERNABSCHLUSSES
+
+2.1. Konsolidierungskreis
+
+Der Konzernabschluss der Rosenberger GmbH & Co. KG entstand zum 1. Oktober 2013 mit Einbringung der Anteile an der Rosenberger Hochfrequenztechnik GmbH & Co. KG, Tittmoning in die Rosenberger GmbH & Co. KG, Tittmoning. Da es sich dabei um eine konzerninterne Umstrukturierung handelte, wurden die bisherigen Buchwerte aus dem handelsrechtlichen Konzernabschluss des bisherigen Mutterunternehmens Rosenberger Hochfrequenztechnik GmbH & Co. KG, Tittmoning fortgeführt. Die Erstkonsolidierung der bis dahin einbezogenen Tochterunternehmen erfolgte zum 1. Oktober 2013 auf Grundlage der historischen Buchwerte aus dem handelsrechtlichen Konzernabschluss des bisherigen Mutterunternehmens Rosenberger Hochfrequenztechnik GmbH & Co. KG, Tittmoning.
+
+In den Konzernabschluss der Rosenberger GmbH & Co. KG werden alle Tochterunternehmen einbezogen, bei denen das Mutterunternehmen bzw. dessen Gesellschafter mittelbar oder unmittelbar über die Möglichkeit verfügen, die Finanz- und Geschäftspolitik zu bestimmen. Die Abschlüsse dieser Tochterunternehmen werden ab dem Zeitpunkt des Beginns der Möglichkeit der Ausübung einer Beherrschung bis zum Zeitpunkt der Beendigung der Beherrschungsmöglichkeit in den Konzernabschluss der Rosenberger GmbH & Co. KG einbezogen.
+
+Zum 31. Dezember 2023 umfasst der Konzernabschluss der Rosenberger GmbH & Co. KG neben dem Jahresabschluss des Mutterunternehmens die auf den gleichen Stichtag aufgestellten Jahresabschlüsse von elf inländischen und 29 ausländischen Tochterunternehmen. Die Aktiva und Passiva sowie Erträge und Aufwendungen der Tochterunternehmen werden unabhängig von der Anteilsquote vollständig in den Konzernabschluss der Rosenberger GmbH & Co. KG einbezogen (Vollkonsolidierung). Die Konsolidierung erfolgt nach der Buchwertmethode (§ 301 Abs. 1 Satz 2 Nr. 1 HGB in der bis zum 28. Mai 2009 geltenden Fassung) für die Unternehmenserwerbe vor dem 1. Januar 2010 bzw. nach der Neubewertungsmethode für die Unternehmenserwerbe nach dem 1. Januar 2010 (§ 301 Abs. 1 HGB). Nicht konsolidiert werden fünf inländische und zwei ausländische Tochterunternehmen mit Blick auf ihre auch insgesamt geringe Bedeutung für die Vermögens-, Finanz- und Ertragslage (§ 296 Abs. 2 HGB).
+
+Der Konsolidierungskreis hat sich mit Blick auf die vollkonsolidierten Tochterunternehmen wie folgt entwickelt:
+
+scroll
+
+	01.01.2023	Zugänge	Abgänge	31.12.2023
+Inland	11	1	1	11
+Ausland	31	0	2	29
+Summe	42	1	3	40
+
+Zum 31. Dezember 2023 hat sich die Gesamtanzahl der vollkonsolidierten Tochterunternehmen im Vergleich zum Vorjahr um zwei Gesellschaften verringert. Der Neugründung von einer Gesellschaft im Inland (Rosenberger Immobilien GmbH & Co. KG, Tittmoning) stehen Verschmelzungen und Zusammenführungen bei drei Gesellschaften im In- sowie im Ausland (Rosenberger Messtechnik GmbH, Radeberg; Rosenberger Minas Gerais Ltda., Camanducaia; Rosenberger Santa Catarina Ltda. Itajaí) gegenüber.
+
+Die folgenden Unternehmen nehmen die Befreiung von Aufstellungs- und Offenlegungspflichten gemäß § 264 Abs. 3 HGB bzw. § 264b HGB in Anspruch:
+
+•
+
+Rosenberger GmbH & Co. KG, Tittmoning
+
+•
+
+Rosenberger Hochfrequenztechnik GmbH & Co. KG, Tittmoning
+
+•
+
+Rosenberger Immobilien GmbH & Co. KG, Tittmoning
+
+•
+
+Rosenberger-OSI GmbH & Co. OHG, Augsburg
+
+•
+
+Hörl Kunststofftechnik GmbH & Co. KG, Laufen
+
+•
+
+Rosenberger Stanztechnik GmbH & Co. KG, Neuenbürg
+
+•
+
+Rosenberger Site Solutions GmbH, Laufen
+
+Zum 31. Dezember 2023 hält die Rosenberger GmbH & Co. KG Beteiligungen an drei assoziierten Unternehmen, die nach der Equity-Methode in den Konzernabschluss einbezogen werden. Der Konsolidierungskreis hat sich mit Blick auf die assoziierten Unternehmen wie folgt entwickelt:
+
+scroll
+
+	01.01.2023	Zugänge	Abgänge	31.12.2023
+Inland	0	0	0	0
+Ausland	3	0	0	3
+Summe	3	0	0	3
+
+Zum 31. Dezember 2023 ist die Gesamtanzahl der assoziierten Unternehmen im Vergleich zum Vorjahr unverändert. Jedoch wurden die Anteile eines assoziierten Unternehmens (Polariton Technologies AG, Adliswil), welches nach der Equity-Methode in den Konzernabschluss einbezogen wird, ohne Auswirkungen auf die Konsolidierungsmethode, aufgestockt. Der Bilanzausweis erfolgt in separater Position, der Ausweis des Vorjahres wurde entsprechend angepasst.
+
+Die Zusammenstellung der in den Konzernabschluss einbezogenen Gesellschaften und des gesamten Anteilsbesitzes gemäß § 313 Abs. 2 HGB ist in Abschnitt 6.6. des Konzernanhangs dargestellt.
+
+2.2. Konsolidierungsgrundsätze und -methoden
+
+Die Abschlüsse der Rosenberger GmbH & Co. KG und ihrer in den Konzernabschluss einbezogenen Tochterunternehmen werden unter Beachtung einheitlich geltender Ansatz- und Bewertungsgrundsätze zum Bilanzstichtag des Konzernabschlusses aufgestellt. Ansatz-, Bewertungs, Konsolidierungs- und Gliederungsgrundsätze wurden von allen in den Konzernabschluss einzubeziehenden Gesellschaften stetig angewendet.
+
+Im Rahmen der Anpassung an den Bilanzierungs- und Bewertungsrahmen des Mutterunternehmens, wurden die Jahresabschlüsse der vollkonsolidierten Tochterunternehmen übernommen, umgegliedert und, soweit wesentlich, an die für das Mutterunternehmen zugrunde gelegten Bilanzierungsgrundsätze angepasst, unter Berücksichtigung von latenten Steuern. In diesem Kontext wurden in fremder Währung aufgestellte Jahresabschlüsse mittels modifizierter Stichtagskursmethode in Euro umgerechnet.
+
+Konzerninterne Umsatzerlöse, Aufwendungen und Erträge sowie Forderungen und Verbindlichkeiten zwischen den einbezogenen Gesellschaften werden im Rahmen der Konsolidierungsmaßnahmen (Kapitalkonsolidierung, Schuldenkonsolidierung, Zwischenergebniseliminierung, Aufwands- und Ertragskonsolidierung) eliminiert.
+
+Die im Rahmen der Kapitalkonsolidierung ermittelten aktiven Unterschiedsbeträge betreffen Geschäfts- oder Firmenwerte und sind im Anlagevermögen ausgewiesen. Negative Unterschiedsbeträge aus Unternehmenserwerben, die bis zum 31. Dezember 2009 entstanden sind, werden gemäß Art 66 Abs. 3 S. 4 EGHGB i.V.m. § 301 Abs. 3 Satz 1 HGB a. F. auf der Passivseite innerhalb der sonstigen Rücklagen ausgewiesen. In den sonstigen Rücklagen wurde auch der im Rahmen der Erstkonsolidierung der Anteile an der Rosenberger Hochfrequenztechnik GmbH & Co. KG entstandene passive Unterschiedsbetrag ausgewiesen.
+
+Die Anteile konzernfremder Dritter am Eigenkapital der vollkonsolidierten Tochterunternehmen werden innerhalb des Eigenkapitals unter dem Posten nicht beherrschende Anteile gesondert ausgewiesen.
+
+Die Schuldenkonsolidierung gemäß § 303 Abs. 1 HGB erfolgt grundsätzlich durch Eliminierung der Forderungen mit den entsprechenden Verbindlichkeiten zwischen den in den Konzernabschluss einbezogenen Unternehmen.
+
+Die Zwischenergebniseliminierung gemäß § 304 Abs. 1 HGB bereinigt ergebniswirksam Vermögensgegenstände um Zwischengewinne aus dem konzerninternen Lieferungs- und Leistungsverkehr, um sie mit dem Betrag anzusetzen, zu dem sie angesetzt werden könnten, wenn die in den Konzernabschluss einbezogenen Unternehmen auch rechtlich ein einziges Unternehmen bilden würden.
+
+Die Aufwands- und Ertragskonsolidierung gemäß § 305 Abs. 1 HGB erfolgt durch Verrechnung der Umsatzerlöse und sonstigen betrieblichen Erträge zwischen den Konzernunternehmen mit den auf sie entfallenden Aufwendungen. Die Zinserträge und ähnlichen Erträge sind ebenso mit den entsprechenden Aufwendungen verrechnet worden.
+
+Bei den ergebniswirksamen Konsolidierungsmaßnahmen wurden ertragsteuerliche Auswirkungen berücksichtigt und latente Steuern (§ 306 HGB) in Ansatz gebracht. Die Bewertung erfolgt mit den unternehmensindividuellen Steuersätzen zum Zeitpunkt des voraussichtlichen Abbaus der Differenzen oder bei unwesentlichen Differenzen mit dem gewichteten konzerneinheitlichen Durchschnittssteuersatz.
+
+2.3. Währungsumrechnung
+
+Die Umrechnung der in fremder Währung aufgestellten Jahresabschlüsse der in den Konzernabschluss einbezogenen Tochterunternehmen erfolgt gemäß §§ 256a und 308a HGB. Die Jahresabschlüsse der ausländischen Tochterunternehmen werden in Euro umgerechnet. Da alle Gesellschaften aus Sicht des Mutterunternehmens ihr Geschäft in finanzieller, wirtschaftlicher und organisatorischer Hinsicht überwiegend selbständig betreiben, entspricht die jeweilige funktionale Währung der Währung des Sitzlandes dieser Unternehmen. Die Umrechnung der Aktiv- und Passivposten erfolgt grundsätzlich zum Devisenkassamittelkurs am Bilanzstichtag. Davon abweichend wird das Eigenkapital zu den historischen Kursen umgerechnet. Die Posten der Gewinn- und Verlustrechnung werden zum Jahresdurchschnittskurs umgerechnet. Die sich dabei ergebenden Währungsdifferenzen im Vergleich zum jeweiligen Stichtagskurs werden bis zur Veräußerung der jeweiligen Tochterunternehmen erfolgsneutral unter dem Posten "Eigenkapitaldifferenz aus Währungsumrechnung" erfasst. Zur Umrechnung der Jahresergebnisse von auf Fremdwährung lautenden Abschlüssen, die nach der Equity-Methode einbezogen werden, wird der Jahresdurchschnittskurs verwendet. Das anteilige Eigenkapital wird zum Stichtagskurs des Erwerbsvorgangs umgerechnet.
+
+Die für die Währungsumrechnung zugrunde gelegten Wechselkurse haben sich wie folgt entwickelt:
+
+scroll
+
+		Stichtagskurs *	Stichtagskurs *	Durchschnittskurs *	Durchschnittskurs *
+Fremdwährung pro 1 EUR		31.12.2023	31.12.2022	2023	2022
+Brasilien	BRL	5,3618	5,6386	5,40162	5,4399
+Chile	CLP	864,05	909,63	890,00	918,66
+China	CNY	7,8509	7,3582	7,65907	7,0788
+Großbritannien	GBP	0,86905	0,88693	0,86991	0,85276
+Hongkong	HKD	8,6314	8,3163	8,46755	8,2451
+Indien	INR	91,9045	88,171	89,32486	82,6864
+Japan	JPY	156,33	140,66	151,94211	138,03
+Mexiko	MXN	18,7231	20,856	19,18975	21,1869
+Schweden	SEK	11,096	11,1218	11,47281	10,6296
+Schweiz	CHF	0,926	0,9847	0,97173	1,00517
+Tunesien	TND	3,34	3,3491	3,34	3,2422
+Ungarn	HUF	382,8	400,87	381,75915	391,29
+USA	USD	1,105	1,0666	1,08158	1,0530
+
+* Stichtagskurs der EZB; Durchschnittskurs ist Year-to-date Kurs auf Basis der Durchschnittskurse der EZB
+
+2.4. Bilanzierungs- und Bewertungsgrundsätze
+
+Bei der Aufstellung des Konzernabschlusses muss das Management Einschätzungen vornehmen und Annahmen treffen, die die Ansätze und die Bewertung der Vermögensgegenstände und Schulden zum Bilanzstichtag sowie die Aufwendungen und Erträge für den Berichtszeitraum als auch die Angabe von Risiken und Unsicherheiten beeinflussen. Die tatsächlichen Ergebnisse können entsprechend von diesen Einschätzungen abweichen.
+
+Für die Aufstellung des Konzernabschlusses waren unverändert die nachfolgenden Bilanzierungs- und Bewertungsmethoden maßgebend.
+
+Immaterielle Vermögensgegenstände und Sachanlagen werden mit den Anschaffungs- oder Herstellungskosten bewertet und entsprechend ihrer betriebsgewöhnlichen Nutzungsdauer um linear ermittelte planmäßige Abschreibungen vermindert. Die betriebsgewöhnliche Nutzungsdauer orientiert sich dabei an den technischen und wirtschaftlichen Gegebenheiten sowie an den steuerlichen AfA-Tabellen und liegt in den folgenden Abschreibungsspannen:
+
+―
+
+Software, Lizenzen: 3-5 Jahre
+
+―
+
+Grundstücke, Gebäude: 8-50 Jahre
+
+―
+
+Maschinen: 5-20 Jahre
+
+―
+
+Betriebs- und Geschäftsausstattung: 3-20 Jahre
+
+Alle aktivierten immateriellen Vermögensgegenstände des Anlagevermögens haben eine begrenzte Nutzungsdauer. Außerplanmäßige Abschreibungen werden bei voraussichtlich dauerhafter Wertminderung vorgenommen. Zuschreibungen erfolgen, sobald die Gründe für in Vorjahren vorgenommene außerplanmäßige Abschreibungen entfallen sind. Geringwertige Vermögensgegenstände des Anlagevermögens werden im Geschäftsjahr der Anschaffung unmittelbar aufwandswirksam erfasst bzw. im Jahr der Anschaffung sofort abgeschrieben.
+
+Erhaltene Investitionszuschüsse werden von den Anschaffungs- oder Herstellungskosten abgesetzt. Kosten für die regelmäßige Wartung und Reparatur von Gegenständen des Sachanlagevermögens werden als Aufwand erfasst. Erhaltungsaufwendungen werden nur dann als nachträgliche Anschaffungs- oder Herstellungskosten aktiviert, wenn sie zu einer wesentlichen Verlängerung der Nutzungsdauer, einer erheblichen Verbesserung oder einer bedeutenden Nutzungsänderung der Sachanlage führen.
+
+Geschäfts- oder Firmenwerte, die aus der Differenz zwischen dem jeweiligen Kaufpreis für ein Unternehmen oder eine Unternehmensgruppe und dem beizulegenden Zeitwert der übernommenen Vermögensgegenstände und Schulden resultieren, werden als immaterielle Vermögensgegenstände erfasst. Die Abschreibung der Geschäfts- oder Firmenwerte erfolgt linear über die voraussichtliche Nutzungsdauer (Abschreibungsspanne: 5-15 Jahre).
+
+Geleistete Anzahlungen werden zum Nennwert angesetzt.
+
+Finanzanlagen werden mit den Anschaffungskosten oder zum niedrigeren beizulegenden Wert bewertet. Bei Anteilen an verbundenen Unternehmen und Beteiligungen umfassen die Anschaffungskosten neben dem Anschaffungspreis sowohl Anschaffungsnebenkosten als auch nachträgliche Anschaffungskosten. Ausleihungen werden zum Nennwert bilanziert. Der beizulegende Wert der Anteile an verbundenen Unternehmen wird mit Hilfe des Discounted Cash Flow-Verfahrens ermittelt. Abschreibungen auf einen niedrigeren Wert werden nur dann vorgenommen, wenn die Wertminderung voraussichtlich dauerhaft ist. Eine dauerhafte Wertminderung liegt vor, wenn der auf Basis der Unternehmensplanung ermittelte beizulegende Wert zum Bilanzstichtag unter dem Buchwert der Anteile an verbundenen Unternehmen liegt. Zuschreibungen werden vorgenommen, sofern die Gründe für eine zuvor erfasste Abschreibung entfallen sind.
+
+Vorräte werden zu Anschaffungs- oder Herstellungskosten bzw. dem niedrigeren beizulegenden Wert angesetzt. Die Bestände an Roh-, Hilfs- und Betriebsstoffen werden am Bilanzstichtag zu durchschnittlichen Einstandspreisen oder zu niedrigeren Marktpreisen angesetzt. Die unfertigen und fertigen Erzeugnisse werden auf der Basis von Einzelkalkulationen zu Herstellungskosten bewertet, wobei neben den direkt zurechenbaren Materialeinzelkosten, Fertigungslöhnen und Sondereinzelkosten der Fertigung auch angemessene Teile der Material- und Fertigungsgemeinkosten sowie fertigungsbedingte Abschreibungen berücksichtigt werden. Die Herstellungskosten werden auf der Grundlage der Normalbeschäftigung ermittelt. Fremdkapitalkosten werden nicht aktiviert. Handelswaren sind zu durchschnittlichen Einstandspreisen oder niedrigeren Marktpreisen bilanziert.
+
+Alle erkennbaren Risiken im Vorratsvermögen, die sich aus überdurchschnittlicher Lagerdauer, geminderter Verwertbarkeit und niedrigeren Wiederbeschaffungskosten ergeben, sind durch angemessene Abwertungen berücksichtigt. Die Bewertung erfolgt verlustfrei, das heißt, es werden von den voraussichtlichen Verkaufspreisen Abschläge für noch anfallende Kosten vorgenommen. Soweit bei früher abgewerteten Vorräten der Marktpreis gestiegen ist, wird die daraus resultierende Wertaufholung erfolgswirksam erfasst.
+
+Geleistete Anzahlungen auf Vorräte werden zum Nennwert angesetzt.
+
+Forderungen und sonstige Vermögensgegenstände werden zu Nennwerten oder dem niedrigeren beizulegenden Wert bewertet und, soweit un- oder minderverzinslich, bei Restlaufzeiten von über einem Jahr abgezinst. Allen erkennbaren Einzelrisiken wird bei der Bewertung durch Einzelwertberichtigungen Rechnung getragen. Ebenso wird das allgemeine Ausfall- und Kreditrisiko durch pauschalierte Abschläge berücksichtigt.
+
+Auf fremde Währung lautende Forderungen (und Verbindlichkeiten) mit einer Laufzeit bis zu einem Jahr werden am Bilanzstichtag zum Devisenkassamittelkurs umgerechnet. Bei Fremdwährungsforderungen (und Fremdwährungsverbindlichkeiten) mit einer Restlaufzeit von mehr als einem Jahr werden das Realisationsprinzip und das Anschaffungskostenprinzip beachtet. Gewinne und Verluste aus der Umrechnung von Fremdwährungsgeschäften in die Berichtswährung (Euro) werden erfolgswirksam erfasst und in der Gewinn- und Verlustrechnung grundsätzlich gesondert unter den Posten „sonstige betriebliche Erträge“ beziehungsweise „sonstige betriebliche Aufwendungen“ ausgewiesen.
+
+Wertpapiere des Umlaufvermögens bestehen ausschließlich aus sonstigen Wertpapieren und sind zu Anschaffungskosten bzw. dem niedrigeren beizulegenden Zeitwert bewertet.
+
+Kassenbestand und Guthaben bei Kreditinstituten werden zum Nennwert bilanziert.
+
+Unter den aktiven Rechnungsabgrenzungsposten werden Ausgaben vor dem Bilanzstichtag ausgewiesen, soweit diese Aufwendungen für einen bestimmten Zeitraum danach darstellen. Die Auflösung erfolgt linear entsprechend dem Zeitablauf.
+
+Das Eigenkapital wird in Übereinstimmung mit § 264c HGB und unter Berücksichtigung der gesellschaftsvertraglichen Regelungen ausgewiesen. Die Rücklagen enthalten neben den Rücklagen gemäß Gesellschaftervertrag die bei den einbezogenen Unternehmen thesaurierten und laufenden Ergebnisse sowie die ergebniswirksamen Konsolidierungseffekte und passiven Unterschiedsbeträge aus der Erstkonsolidierung.
+
+Rückstellungen berücksichtigen alle ungewissen Verbindlichkeiten und drohenden Verluste aus schwebenden Geschäften. Die Steuerrückstellungen werden in Höhe der zu erwartenden Steuernachzahlungen angesetzt. Die sonstigen Rückstellungen berücksichtigen alle erkennbaren Risiken und ungewissen Verpflichtungen und sind in Höhe des nach vernünftiger kaufmännischer Beurteilung notwendigen Erfüllungsbetrags bewertet. Künftige Preis- und Kostensteigerungen im Zeitpunkt der Erfüllung der Verpflichtung werden berücksichtigt. Die Abzinsung von wesentlichen Rückstellungen mit einer Restlaufzeit von mehr als einem Jahr erfolgt mit dem von der Deutschen Bundesbank veröffentlichen durchschnittlichen Marktzinssatz der vergangenen sieben Geschäftsjahre entsprechend der individuellen Restlaufzeit.
+
+Verbindlichkeiten werden mit ihrem Erfüllungsbetrag am Bilanzstichtag angesetzt. Erhaltene Anzahlungen auf Bestellungen werden von den Vorräten offen abgesetzt.
+
+Unter dem passiven Rechnungsabgrenzungsposten werden Einnahmen vor dem Bilanzstichtag ausgewiesen, soweit diese Erträge für einen bestimmten Zeitraum danach darstellen.
+
+Latente Steuern werden für temporäre oder quasi-permanente Unterschiede zwischen den handelsbilanziellen und steuerlichen Wertansätzen von Vermögensgegenständen, Schulden und Rechnungsabgrenzungsposten unter Berücksichtigung von Verlust- und Zinsvorträgen ermittelt und die Unterschiedsbeträge mit den unternehmensindividuellen kombinierten Steuersätzen zum Zeitpunkt des Abbaus der Differenzen bewertet. Verlust- und Zinsvorträge werden berücksichtigt, wenn eine Verrechnung mit steuerpflichtigem Einkommen innerhalb des gesetzlich festgelegten Zeitraums von fünf Jahren zu erwarten ist. Aktive und passive latente Steuern werden saldiert. Eine sich insgesamt ergebende Steuerentlastung wird in der Bilanz als aktive latente Steuer, eine sich insgesamt ergebende Steuerbelastung dagegen als passive latente Steuer angesetzt.
+
+Unter den Umsatzerlösen werden sämtliche Erlöse aus dem Verkauf und der Vermietung oder Verpachtung von Produkten sowie aus der Erbringung von Dienstleistungen nach Abzug etwaiger Erlösschmälerungen wie Preisnachlässen, Rabatten oder Skonti und der Umsatzsteuer gemäß § 277 Abs. 1 HGB ausgewiesen. Sie werden unter Berücksichtigung des Realisationsprinzips und nach der wirtschaftlichen Verursachung gemäß §252 Abs. 1 Nr. 5 HGB erfasst. Umsatzerlöse werden realisiert, wenn das wirtschaftliche Eigentum auf den Erwerber übergegangen ist. Dies geschieht in der Regel, sobald der Verkäufer das Eigentum an den Käufer überträgt und Gefahr, Lasten sowie Nutzen auf den Käufer übergegangen sind.
+
+3. ERLÄUTERUNGEN ZUR KONZERNBILANZ
+
+3.1. Anlagevermögen
+
+scroll
+
+in TEUR	Entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten	Geschäfts- oder Firmenwerte	geleistete Anzahlungen	Summe
+Anschaffungs- bzw. Herstellungskosten				
+Stand zum 01.01.2023	33.415	38.203	644	72.262
+Währungsumrechnungsdifferenz	113	-69	1	45
+Konsolidierungskreisänderungen	0	0	0	0
+Zugänge	3.971	182	163	4.316
+Abgänge	-2.430	0	0	-2.430
+Umbuchungen	471	0	-728	-257
+Stand zum 31.12.2023	35.540	38.316	80	73.936
+Kumulierte Abschreibungen				
+Stand zum 01.01.2023	-24.394	- 36.899	0	-61.293
+Währungsumrechnungsdifferenz	6	53	0	59
+Konsolidierungskreisänderungen	0	0	0	0
+Zugänge	-3.754	-831	0	-4.585
+Abgänge	2.394	0	0	2.394
+Umbuchungen	-23	0	0	-23
+Zuschreibung	0	0	0	0
+Stand zum 31.12.2023	-25.771	- 37.677	0	- 63.448
+Buchwerte				
+Stand zum 31.12.2022	9.021	1.305	644	10.970
+Stand zum 31.12.2023	9.769	639	80	10.488
+
+Entwicklung der immateriellen Vermögensgegenstände
+
+scroll
+
+in TEUR	Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich Bauten auf fremden Grundstücken	technische Anlagen und Maschinen	andere Anlagen, Betriebs- und Geschäftsausstattung
+Anschaffungs- bzw. Herstellungskosten			
+Stand zum 01.01.2023	208.499	670.615	152.536
+Währungsumrechnungsdifferenz	702	766	247
+Konsolidierungskreisänderungen	16.539	936	0
+Zugänge	2.892	81.861	25.021
+Abgänge	-6.385	-16.036	-12.952
+Umbuchungen	-559	68.161	-166
+Stand zum 31.12.2023	221.688	806.306	164.686
+Kumulierte Abschreibungen			
+Stand zum 01.01.2023	- 55.931	- 442.523	- 107.235
+Währungsumrechnungsdifferenz	-88	9	-59
+Konsolidierungskreisänderungen	279	-279	0
+Zugänge	-6.468	-82.735	-19.128
+Abgänge	3.813	11.136	11.531
+Umbuchungen	-55	-657	735
+Zuschreibung	11	714	69
+Stand zum 31.12.2023	- 58.439	- 514.335	- 114.087
+B uchwerte			
+Stand zum 31.12.2022	152.568	228.091	45.301
+Stand zum 31.12.2023	163.249	291.971	50.599
+
+scroll
+
+in TEUR	geleistete Anzahlungen und Anlagen im Bau	Summe
+Anschaffungs- bzw. Herstellungskosten		
+Stand zum 01.01.2023	85.913	1.117.563
+Währungsumrechnungsdifferenz	1.006	2.721
+Konsolidierungskreisänderungen	-17.475	0
+Zugänge	104.305	214.082
+Abgänge	-44.074	-79.447
+Umbuchungen	-67.179	257
+Stand zum 31.12.2023	62.496	1.255.176
+Kumulierte Abschreibungen		
+Stand zum 01.01.2023	0	- 605.689
+Währungsumrechnungsdifferenz	0	-138
+Konsolidierungskreisänderungen	0	0
+Zugänge	0	-108.331
+Abgänge	0	26.480
+Umbuchungen	0	23
+Zuschreibung	0	794
+Stand zum 31.12.2023	0	- 686.861
+B uchwerte		
+Stand zum 31.12.2022	85.913	511.874
+Stand zum 31.12.2023	62.496	568.315
+
+Entwicklung der Sachanlagen
+
+Entwicklung der Finanzanlagen
+
+scroll
+
+in TEUR	Anteile an verbundenen Unternehmen	Beteiligungen an assoziierten Unternehmen	Beteiligungen	sonstige Ausleihungen	Summe
+Anschaffungs- bzw. Herstellungskosten					
+Stand zum 01.01.2023	97	38.659	57	385	39.198
+Währungsumrechnungsdifferenz	0	0	0	-11	-11
+Konsolidierungskreisänderungen	0	0	0	0	0
+Zugänge	25	-7.950 *	0	226	-7.699
+Abgänge	-47	-30	0	-236	-313
+Umbuchungen	14	0	0	-14	0
+Stand zum 31.12.2023	89	30.679	57	350	31.175
+Kumulierte Abschreibungen					
+Stand zum 01.01.2023	- 47	-783	0	0	-830
+Währungsumrechnungsdifferenz	0	0	0	0	0
+Konsolidierungskreisänderungen	0	0	0	0	0
+Zugänge	0	0	0	0	0
+Abgänge	47	30	0	0	77
+Umbuchungen	0	0	0	0	0
+Zuschreibungen	0	0	0	0	0
+Stand zum 31.12.2023	0	-753	0	0	- 753
+B uchwerte					
+Stand zum 31.12.2022	50	37.876	57	385	38.368
+Stand zum 31.12.2023	89	29.926	57	350	30.421
+
+* Der negative Zugangswert ergibt sich im Wesentlichen aus der Fortschreibung nach der Equity-Methode.
+
+Aus der erstmaligen Einbeziehung der Polariton AG, Adliswil/Schweiz, zum 29. März 2022 resultiert ein Unterschiedsbetrag zwischen dem Buchwert und dem anteiligen Eigenkapital in Höhe von 3,7 Mio. Euro, der als Geschäfts- oder Firmenwert im Beteiligungsbuchwert enthalten ist und über eine Nutzungsdauer von fünf Jahren abgeschrieben wird.
+
+3.2. Umlaufvermögen
+
+scroll
+
+	31. Dezember 2023	31. Dezember 2023	31. Dezember 2023	31. Dezember 2023
+in TEUR	Summe	davon mit einer Restlaufzeit	davon mit einer Restlaufzeit	davon mit einer Restlaufzeit
+		bis 1 Jahr	über 1 Jahr	über 5 Jahre
+Forderungen aus Lieferungen und Leistungen	360.485	360.485	-	-
+davon:				
+- Forderungen gegen verbundene Unternehmen *	-	-	-	-
+- Forderungen gegen Unternehmen, mit denen ein Beteiligungsverhältnis besteht *	6.834	6.834	-	-
+Sonstige Vermögensgegenstände	59.225	53.017	6.208	-
+davon:				
+- Forderungen gegen Gesellschafter	-	-	-	-
+- Forderungen gegen verbundene Unternehmen *	20	20	-	-
+- Forderungen gegen Unternehmen, mit denen ein Beteiligungsverhältnis besteht *	187	129	58	-
+Gesamtbetrag der Forderungen und sonstigen Vermögensgegenstände	419.710	413.502	6.208	-
+
+* Mitzugehörigkeitsvermerk im Sinne von § 265 Abs. 3 HGB
+
+scroll
+
+	31. Dezember 2022	31. Dezember 2022	31. Dezember 2022	31. Dezember 2022
+in TEUR	Summe	davon mit einer Restlaufzeit	davon mit einer Restlaufzeit	davon mit einer Restlaufzeit
+		bis 1 Jahr	über 1 Jahr	über 5 Jahre
+Forderungen aus Lieferungen und Leistungen	389.223	389.223	-	-
+davon:				
+- Forderungen gegen verbundene Unternehmen *	-	-	-	-
+- Forderungen gegen Unternehmen, mein Beteiligungsverhältnis besteht *	11.221	11.221	-	-
+Sonstige Vermögensgegenstände	55.178	55.178	-	-
+davon:				
+- Forderungen gegen Gesellschafter	-	-	-	-
+- Forderungen gegen verbundene Unternehmen *	20	20	-	-
+- Forderungen gegen Unternehmen, mit ein Beteiligungsverhältnis besteht *	1.773	1.773	-	-
+Gesamtbetrag der Forderungen und sonstigen Vermögensgegenstände	444.401	444.401	-	-
+
+* Mitzugehörigkeitsvermerk im Sinne von § 265 Abs. 3 HGB
+
+3.3. Eigenkapital
+
+Das Geschäftsjahr schließt mit einem Konzernjahresüberschuss in Höhe von 133.866.042,09 EUR ab. Die Kapitalanteile der Kommanditisten erhöhten sich im Wesentlichen aufgrund einer Entnahme aus dem variablen Kapitalkonto der Rosenberger Hochfrequenztechnik GmbH & Co. KG von 77.174 TEUR auf 331.696 TEUR.
+
+In den sonstigen Rücklagen ist sowohl der passive Unterschiedsbetrag aus der Erstkonsolidierung der Rosenberger Hochfrequenztechnik GmbH & Co. KG zum 1. Oktober 2013 (32.475 TEUR) als auch der passive Unterschiedsbetrag aus den Unternehmenserwerben vor dem 1. Januar 2010 (5.196 TEUR) ausgewiesen.
+
+3.4. Rückstellungen
+
+In den sonstigen Rückstellungen sind im Wesentlichen personalbezogene Rückstellungen, insbesondere für Urlaub, Überstunden und Jubiläen, enthalten. Die übrigen sonstigen Rückstellungen betreffen darüber hinaus Rückstellungen für Gewährleistungsansprüche, Jahresabschlusskosten oder Werbekostenzuschüsse.
+
+3.5. Verbindlichkeiten
+
+scroll
+
+	31. Dezember 2023	31. Dezember 2023	31. Dezember 2023	31. Dezember 2023
+in TEUR	Summe	davon mit einer Restlaufzeit	davon mit einer Restlaufzeit	davon mit einer Restlaufzeit
+		bis 1 Jahr	über 1 Jahr	über 5 Jahre
+Verbindlichkeiten gegenüber Kreditinstituten	222.884	177.524	45.360	0
+Sicherheiten:				
+- Grundpfandrechte	-			
+Verbindlichkeiten aus Lieferungen und Leistungen	124.041	124.041	-	-
+davon:				
+- Verbindlichkeiten gegenüber verbundenen Unternehmen *	9	9	-	-
+- Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht *	6.479	6.479	-	-
+Sonstige Verbindlichkeiten	91.972	91.695	277	82
+davon:				
+- aus Steuern	6.777	6.777	-	-
+- im Rahmen der sozialen Sicherheit	506	506	-	-
+- Verbindlichkeiten gegenüber Gesellschaftern	50.907	50.907	-	-
+- Verbindlichkeiten gegenüber verbundenen Unternehmen *	130	130	-	-
+- Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht *	64	30	33	-
+Gesamtbetrag der Verbindlichkeiten	438.897	393.260	45.637	82
+
+* Mitzugehörigkeitsvermerk im Sinne von § 265 Abs. 3 HGB
+
+scroll
+
+	31. Dezember 2022	31. Dezember 2022	31. Dezember 2022	31. Dezember 2022
+in TEUR	Summe	davon mit einer Restlaufzeit	davon mit einer Restlaufzeit	davon mit einer Restlaufzeit
+		bis 1 Jahr	über 1 Jahr	über 5 Jahre
+Verbindlichkeiten gegenüber Kreditinstituten	222.999	204.730	18.269	0
+Sicherheiten:				
+- Grundpfandrechte	1.278			
+Verbindlichkeiten aus Lieferungen und Leistungen	107.278	107.278	-	-
+davon:				
+- Verbindlichkeiten gegenüber verbundenen Unternehmen *	-	-	-	-
+- Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht *	5.715	5.715	-	-
+sonstige Verbindlichkeiten	70.990	60.775	10.215	-
+davon:				
+- aus Steuern	5.035	5.035	-	-
+- im Rahmen der sozialen Sicherheit	1.468	1.468	-	-
+- Verbindlichkeiten gegenüber Gesellschaftern	26.124	26.124	-	-
+- Verbindlichkeiten gegenüber verbundenen Unternehmen *	61	61	-	-
+- Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht *	31	31	-	-
+Gesamtbetrag der Verbindlichkeiten	401.267	372.783	28.484	0
+
+* Mitzugehörigkeitsvermerk im Sinne von § 265 Abs. 3 HGB
+
+3.6. Latente Steuern
+
+Der Gesamtbestand an aktiven latenten Steuern beträgt am Bilanzstichtag 15.841 TEUR und entfällt im Wesentlichen auf steuerliche Verlustvorträge von konsolidierten Tochterunternehmen und auf unterschiedliche Wertansätze in Handels- und Steuerbilanz in Höhe von 12.185 TEUR sowie auf latente Steuern aus der Zwischengewinneliminierung und aus sonstigen Konsolidierungen in Höhe von 3.656 TEUR.
+
+Der Gesamtbestand an passiven latenten Steuern beträgt am Bilanzstichtag 2.949 TEUR und entfällt ausschließlich auf unterschiedliche Wertansätze in Handels- und Steuerbilanz. Diese betreffen im Wesentlichen unterschiedliche Bilanzansätze von immateriellen Vermögensgegenständen, Vermögensgegenständen des Sachanlagevermögens, Vorräten sowie Rückstellungen.
+
+Nach Verrechnung von aktivischen und passivischen latenten Steuern verbleibt ein Überhang aus aktiven latenten Steuern in Höhe von 12.892 TEUR.
+
+4. ERLÄUTERUNGEN ZUR KONZERN-GEWINN- UND VERLUSTRECHNUNG
+
+Die Gewinn- und Verlustrechnung der Rosenberger-Gruppe wird nach dem Umsatzkostenverfahren aufgestellt.
+
+4.1. Umsatzerlöse
+
+Aufgliederung der Umsatzerlöse nach Tätigkeitsbereichen
+
+scroll
+
+in Mio. Euro	2023	2022
+Automotive	1.056	891
+Interconnect	413	702
+Semi & Test	131	127
+Custom Machining	20	45
+Summe	1.620	1.765
+
+Aufgliederung der Umsatzerlöse nach Regionen *
+
+scroll
+
+in Mio. Euro	2023	2022
+Inland	297	913
+Übriges Europa	381	89
+Amerika	348	286
+Asien	542	477
+Afrika	51	0
+Australien	1	0
+Summe	1.620	1.765
+
+* Bis 2022 erfolgte die Aufgliederung nach Ansässigkeit der jeweiligen Tochtergesellschaft.
+
+Ab 2023 erfolgt die Aufgliederung nach Absatzmärkten.
+
+4.2. Ergänzende Informationen über die Art der Aufwendungen
+
+Materialaufwand
+
+scroll
+
+in Mio. Euro	2023	2022
+Aufwendungen für Roh-, Hilfs- und Betriebsstoffe und für bezogene Waren	-631	-663
+Aufwendungen für bezogene Leistungen	-55	-126
+Summe	-686	- 789
+
+Personalaufwand
+
+scroll
+
+in Mio. Euro	2023	2022
+Löhne und Gehälter	-361	-355
+soziale Abgaben und Aufwendungen für Altersversorgung und für Unterstützung	-89	-58
+Summe	-450	-413
+
+Im Gesamtbetrag „soziale Abgaben und Aufwendungen für Altersversorgung und für Unterstützung“ sind Aufwendungen für Altersversorgung in Höhe von 4,2 Mio. Euro (Vorjahr: 4,9 Mio. Euro) enthalten.
+
+4.3. Sonstige betriebliche Erträge
+
+Die sonstigen betrieblichen Erträge enthalten Erträge aus der Währungsumrechnung in Höhe von 55,7 Mio. Euro (Vorjahr: 34,8 Mio. Euro).
+
+Die sonstigen betrieblichen Erträge enthalten periodenfremde Erträge in Höhe von 5,9 Mio. Euro (Vorjahr: 0,9 Mio. Euro).
+
+4.4. Sonstige betriebliche Aufwendungen
+
+Die sonstigen betrieblichen Aufwendungen enthalten Aufwendungen aus der Währungsumrechnung in Höhe von 58,8 Mio. Euro (Vorjahr: 36,3 Mio. Euro).
+
+Die sonstigen betrieblichen Aufwendungen enthalten periodenfremde Aufwendungen in Höhe von 3,6 Mio. Euro (Vorjahr: 1,5 Mio. Euro).
+
+4.5. Finanzergebnis
+
+Die Posten „Erträge aus Beteiligungen“, „sonstige Zinsen und ähnliche Erträge“, „Ergebnis aus Beteiligungen an assoziierten Unternehmen“ sowie „Zinsen und ähnliche Aufwendungen“ enthalten keine Beträge, die verbundene Unternehmen betreffen.
+
+Der Posten „Ergebnis aus Beteilungen an assoziierten Unternehmen“ in Höhe von insgesamt - 10,0 Mio. Euro enthält ausschließlich Aufwendungen aus der Equity-Folgebewertung.
+
+4.6. Steuern vom Einkommen und vom Ertrag
+
+Steuern vom Einkommen und vom Ertrag
+
+scroll
+
+in Mio. Euro	2023	2022
+Laufende Steuern	-24	-33
+Latente Steuern	11	0
+Summe	-13	-33
+
+Die Rosenberger-Gruppe fällt in den Anwendungsbereich der Regelungen zur globalen Mindestbesteuerung („Pillar 2“). Die Regelungen zur globalen Mindestbesteuerung sind mit Wirkung zum 28. Dezember 2023 in Deutschland in Form des Mindeststeuergesetzes („MinStG“) in Kraft getreten. Das MinStG gilt erstmals für Geschäftsjahre, die nach dem 30. Dezember 2023 beginnen. Gemäß dem MinStG ist eine Ergänzungssteuer für jede Jurisdiktion zu zahlen, die einen effektiven Steuersatz unter 15 % aufweist. Die Bestimmung des effektiven Steuersatzes nach dem MinStG ist sehr komplex und beinhaltet eine Vielzahl von spezifischen Anpassungen. Da das MinStG für das Geschäftsjahr 2023 für die Rosenberger-Gruppe noch keine Anwendung findet, entsteht für das Geschäftsjahr 2023 keine Steuerbelastung aus dem MinStG.
+
+Gemäß der für nach dem 30. Dezember 2023 beginnenden Geschäftsjahre in Kraft tretenden Gesetzgebung ist die Rosenberger-Gruppe verpflichtet, für jedes Land, in dem er Geschäftseinheiten im Sinne der Gesetzgebung unterhält, den effektiven Steuersatz zu ermitteln und, soweit der ermittelte effektive Steuersatz unterhalb des MinStG von 15 % liegt, in Höhe der Differenz zwischen effektivem Steuersatz und Mindeststeuersatz eine sogenannte Ergänzungssteuer abzuführen. Für die Ermittlung des effektiven Steuersatzes sieht die Gesetzgebung zahlreiche spezifische Anpassungen vor, die zu abweichenden effektiven Steuersätzen gegenüber denjenigen führen können, die auf Basis des gebuchten Steueraufwands im Vergleich zu dem Ergebnis vor Steuern berechnet werden.
+
+Die Rosenberger-Gruppe ist derzeit dabei, eine Einschätzung hinsichtlich der Auswirkungen der globalen Mindestbesteuerung nach Inkrafttreten der Gesetzgebung zu treffen. Aufgrund der Komplexität der Anwendung der Gesetzgebung und der Berechnung des sog. „GloBE-Einkommens“ sind die quantitativen Auswirkungen der beschlossenen oder in Kraft getretenen Gesetzgebung derzeit noch nicht verlässlich abschätzbar. Selbst für Unternehmen mit einem Effektivsteuersatz von über 15 % könnten sich daher steuerliche Auswirkungen durch die globale Mindestbesteuerung ergeben. Zur Unterstützung bei der Anwendung der Gesetzgebung zur globalen Mindestbesteuerung wird derzeit mit Steuerspezialisten zusammengearbeitet.
+
+5. ERLÄUTERUNGEN ZUR KONZERN-KAPITALFLUSSRECHNUNG
+
+Die Konzernkapitalflussrechnung zeigt wie sich der Finanzmittelfonds der Rosenberger-Gruppe während des Geschäftsjahres durch Mittelzu- und Mittelabflüsse verändert hat. Der Finanzmittelfonds enthält Kassenbestand, Guthaben bei Kreditinstituten, Schecks sowie die Wertpapiere des Umlaufvermögens, die kurzfristig in Zahlungsmittel umgewandelt werden können. Kontokorrentkredite werden nicht dem Finanzmittelfonds zugerechnet, sondern DRS 21 folgend als Bestandteil des Cashflows aus der Finanzierungstätigkeit ausgewiesen, da sie nicht zur Disposition der liquiden Mittel gehören. Der Finanzmittelfonds ist wie in der Bilanz zum Stichtagskurs angesetzt. Der Einfluss von Wechselkursänderungen auf den Finanzmittelbestand wurde gesondert dargestellt.
+
+Zusammensetzung des Finanzmittelfonds
+
+scroll
+
+in TEUR	31.12.2023	31.12.2022
+Kassenbestand, Bankguthaben, Schecks	88.697	78.360
+sonstige Wertpapiere	811	0
+Summe	89.508	78.360
+
+6. ERGÄNZENDE ANGABEN
+
+6.1. Mitarbeiter
+
+Die durchschnittliche Zahl der Arbeitnehmer wurde ohne Berücksichtigung von Organmitgliedern, Auszubildenden/Trainees sowie Leiharbeitnehmer, in Elternzeit befindlichen Arbeitnehmern und Langzeitkranken ermittelt. Teilzeitkräfte werden Vollzeitbeschäftigten gleichgestellt.
+
+Arbeitnehmer (Jahresdurchschnittswerte)
+
+scroll
+
+	2023	2022
+Arbeiter	3.114	6.875
+Angestellte	8.403	4.583
+Summe	11.516	11.458
+
+6.2. Gesellschaftsorgane
+
+Geschäftsführung
+
+Im Geschäftsjahr erfolgte die Geschäftsführung der Rosenberger GmbH & Co. KG durch die Rosenberger Verwaltungs-GmbH, vertreten durch:
+
+―
+
+Hans Rosenberger, Dipl.-Kaufmann, Tittmoning
+
+―
+
+Bernd Rosenberger, Dipl.-Ing. (FH), Tittmoning
+
+―
+
+Peter Rosenberger, Dipl.-Ing. (FH), Burghausen
+
+Gesamtbezüge der Geschäftsführung
+
+Hinsichtlich der Angabe der Gesamtbezüge der Geschäftsführung gemäß § 314 Abs. 1 Nr. 6 HGB wird in analoger Anwendung von den Erleichterungen des § 286 Abs. 4 HGB Gebrauch gemacht.
+
+6.3. Nahestehende Unternehmen und Personen
+
+Weder im Geschäftsjahr noch im Vorjahr wurden Geschäfte mit nahestehenden Personen zu marktunüblichen Konditionen durchgeführt.
+
+6.4. Honorare des Abschlussprüfers
+
+Das von dem Abschlussprüfer des Konzernabschlusses für das Geschäftsjahr berechnete Gesamthonorar beträgt TEUR 598 und entfällt mit TEUR 582 auf Abschlussprüfungsleistungen und mit TEUR 16 auf sonstige Leistungen.
+
+6.5. Haftungsverhältnisse und sonstige finanzielle Verpflichtungen
+
+Es bestehen sonstige finanzielle Verpflichtungen aus Miet- und Leasingverträgen in Höhe von TEUR 55.201 (Vorjahr: TEUR 17.916). Davon betreffen TEUR 32.265 Immobilien (Vorjahr: TEUR 12.707) und TEUR 22.936 Maschinen, Kraftfahrzeuge und Büroausstattung (Vorjahr: TEUR 5.209). Durch die Miete von Gebäuden und Grundstücken und das Leasing von Maschinen, Fahrzeugen und Büroausstattung wird die Kapitalbindung verringert, die beim Erwerb der entsprechenden Gegenstände angefallen wäre und ein Teil des Investitionsrisikos auf die Vertragspartner verlagert. Die sonstigen finanziellen Verpflichtungen weisen folgende Restlaufzeiten auf:
+
+scroll
+
+in TEUR	31.12.2023	31.12.2022
+Restlaufzeit bis 1 Jahr	14.352	8.021
+Restlaufzeit 1 - 5 Jahre	36.557	9.263
+Restlaufzeit über 5 Jahre	4.292	632
+Summe	55.201	17.916
+
+6.6. Anteilsbesitzliste
+
+Vollkonsolidierte Tochterunternehmen:
+
+scroll
+
+Land	Name der Gesellschaft	Sitz	Anteil am Kapital [in %] *
+Deutschland	Rosenberger-OSI GmbH & Co. OHG	Augsburg	100 %
+	Rosenberger Beteiligungs-GmbH	Fridolfing	100 %
+	Hörl Kunststofftechnik GmbH & Co. KG	Laufen	74,9 %
+	Hörl Verwaltungs-GmbH	Laufen	74,9 %
+	Rosenberger Site Solutions GmbH	Laufen	100 %
+	Aifotec AG	Meiningen	55,0 %
+	Rosenberger Stanztechnik GmbH & Co. KG	Neuenbürg	100 %
+	Rosenberger Automotive Cabling GmbH	Ötisheim	100 %
+	Rosenberger-FILCON-Electronic GmbH	Ottobrunn	64,0 %
+	Rosenberger Hochfrequenztechnik GmbH & Co. KG	Tittmoning	100 %
+	Rosenberger Immobilien GmbH & Co. KG	Tittmoning	100 %
+Brasilien	Rosenberger Domex Telecom S.A.	Caçapava São Paulo	100 %
+Chile	Rosenberger Sudamérica Ltda.	Santiago	100 %
+China	Rosenberger Asia Pacific Electronic Co., Ltd.	Beijing	100 %
+	Rosenberger (Changzhou) Electronics Co., Ltd.	Changzhou	100 %
+	HBP Corporation Ltd.	Hongkong	100 %
+	Rosenberger Interconnect (H.K.) Co., Ltd.	Hongkong	100 %
+	Rosenberger (Shanghai) Technology Co., Ltd.	Shanghai	100 %
+Indien	Rosenberger Interconnect India Pvt. Ltd.	Pune	100 %
+Italien	Rosenberger Italia S.R.L.	Bozen	100 %
+Japan	Rosenberger Automotive Japan, LLC	Tokio	99,9 %
+México	Rosenberger México S.A. de C.V.	Apodaca	100 %
+	Rosenberger OSI México S.A. DE C.V.	Apodaca	100 %
+Österreich	Rosenberger Telematics GmbH	Timelkam	74,9 %
+Schweden	CellMax Technologies AB	Kista	100 %
+	Rosenberger Sverige AB	Solna	100 %
+	Visby Antenn AB	Visby	100 %
+Tunesien	Rosenberger Tunisia S.A.R.L.	Enfidha	100 %
+UK	Rosenberger UK Ltd.	Bradford	100 %
+Ungarn	Rosenberger Ingarlanhasznositó Kft.	Jászárokszállás	100 %
+	Rosenberger Magyarország Kft.	Jászárokszállás	100 %
+	Rosenberger Automotive Cabling Kft.	Jászberény	100 %
+	OSI Hungary Kft.	Taksony	100 %
+	Taksony Kft.	Taksony	100 %
+USA	Rosenberger North America Akron LLC	Akron	100 %
+	Rosenberger Realty LLC	Akron	100 %
+	Rosenberger USA Corp.	Akron	100 %
+	HT MicroAnalytical Inc.	Albuquerque	58,9 %
+	Rosenberger Site Solutions LLC	Lake Charles	69,5 %
+	Rosenberger North America Pennsauken Inc.	Pennsauken	100 %
+
+Nicht konsolidierte Tochterunternehmen:
+
+scroll
+
+Land	Name der Gesellschaft	Sitz	Anteil am Kapital [in %] *
+Deutschland	Rosenberger Hochfrequenztechnik GmbH	Fridolfing	100 %
+	OSI-Verwaltungs GmbH	Gersthofen	100 %
+	Rosenberger Stanztechnik Verwaltungs GmbH	Neuenbürg	100 %
+	Rosenberger Verwaltungs GmbH	Tittmoning	100 %
+	Rosenberger Immobilienverwaltungs-GmbH	Fridolfing	100 %
+Schweden	CellMax Consulting AB	Kista	100 %
+	CellMax Tech AB	Kista	100 %
+
+Assoziierte Unternehmen:
+
+scroll
+
+Land	Name der Gesellschaft	Sitz	Anteil am Kapital [in %] *
+China	Netop Technology Co., Ltd.	Hongkong	30,0 %
+	PROSE Technologies (Souzhou) Co., Ltd.	Souzhou	49,9 %
+Schweiz	Polariton Technologies AG	Adliswil	36,5 %
+
+Sonstige Beteiligungen:
+
+scroll
+
+Land	Name der Gesellschaft	Sitz	Anteil am Kapital [in %] *
+Spanien	Rosenberger Telecom S.A.	Alcorcón	25,0 %
+
+Der letzte vorliegende Jahresabschluss der Rosenberger Telecom S.A. verzeichnet zum 30.09.2022 ein Eigenkapital von 1.069.831,69 EUR sowie ein Jahresergebnis von 17.241,81 EUR.
+
+*) Die mittelbaren Beteiligungen über Tochterunternehmen der Rosenberger GmbH & Co. KG sind mit der jeweiligen Beteiligungshöhe des jeweiligen Mutterunternehmens dargestellt. Angaben gerundet auf eine Nachkommastelle.
+
+6.7. Nachtragsbericht
+
+Nach Abschluss des Geschäftsjahres ergaben sich insgesamt keine Vorgänge oder Ereignisse von besonderer Bedeutung für den Konzernabschluss der Rosenberger GmbH & Co. KG.
+
+Tittmoning, den 21. November 2024
+
+Rosenberger GmbH & Co. KG
+
+Geschäftsführung
+
+Hans Rosenberger
+
+Bernd Rosenberger
+
+Peter Rosenberger
+
+KONZERN-KAPITALFLUSSRECHNUNG für das Geschäftsjahr vom 1. Januar bis zum 31. Dezember 2023
+
+der Rosenberger GmbH & Co. KG, Tittmoning
+
+scroll
+
+in TEUR	01.01.-31.12.2023	01.01.-31.12.2022
+Periodenergebnis	133.866	184.261
+(Konzernjahresüberschuss einschließlich Ergebnisanteile anderer Gesellschafter)		
+Abschreibungen/Zuschreibungen auf Gegenstände des Anlagevermögens	122.074	99.354
+Zunahme/Abnahme der Rückstellungen	17.495	7.946
+Zunahme/Abnahme der Vorräte, der Forderungen aus Lieferungen und Leistungen sowie anderer Aktiva, die nicht der Investitions- oder Finanzierungstätigkeit zuzuordnen sind	15.745	70.213
+Zunahme/Abnahme der Verbindlichkeiten aus Lieferungen und Leistungen sowie anderer Passiva, die nicht der Investitions- oder Finanzierungstätigkeit zuzuordnen sind	22.872	-80.945
+Gewinn/Verlust aus dem Abgang von Gegenständen des Anlagevermögens	1.822	-234
+Zinsaufwendungen/Zinserträge	6.447	4.668
+Sonstige Beteiligungserträge	-17	-23
+Ertragsteueraufwand/-ertrag	13.205	32.787
+Ertragsteuerzahlungen	-30.364	-25.705
+Cashflow aus der laufenden Geschäftstätigkeit	303.145	292.322
+Einzahlungen aus Abgängen von Gegenständen des immateriellen Anlagevermögens	37	165
+Auszahlungen für Investitionen in das immaterielle Anlagevermögen	-4.316	-4.454
+Einzahlungen aus Abgängen von Gegenständen des Sachanlagevermögens	51.144	5.721
+Auszahlungen für Investitionen in das Sachanlagevermögen	-214.082	-185.620
+Einzahlungen aus Abgängen von Gegenständen des Finanzanlagevermögens	237	2.513
+Auszahlungen für Investitionen in das Finanzanlagevermögen	-2.227	-2.320
+Auszahlungen aus Zugängen zum Konsolidierungskreis	-25	-11.383
+Erhaltene Zinsen	852	521
+Erhaltene Dividenden	0	23
+Cashflow aus der Investitionstätigkeit	-168.380	-194.834
+Einzahlungen aus der Begebung von Anleihen und der Aufnahme von (Finanz-) Krediten	40.091	67.724
+Auszahlungen aus der Tilgung von Anleihen und (Finanz-) Krediten	-54.863	-104.877
+Gezahlte Zinsen	-7.299	-5.189
+Auszahlungen an Gesellschafter des Mutterunternehmens	-76.408	-40.500
+Auszahlungen an andere Gesellschafter	-17.908	-14.953
+Cashflow aus der Finanzierungstätigkeit	-116.387	-97.795
+zahlungswirksame Veränderungen des Finanzmittelfonds	18.378	-307
+wechselkurs- und bewertungsbedingte Änderungen des Finanzmittelfonds	-3.724	-3.942
+konsolidierungskreisbedingte Änderungen des Finanzmittelfonds	-3.506	-30.098
+Finanzmittelfonds am Anfang der Periode	78.360	112.707
+Finanzmittelfonds am Ende der Periode	89.508	78.360
+
+KONZERN-EIGENKAPITALSPIEGEL für das Geschäftsjahr vom 1. Januar bis zum 31. Dezember 2023
+
+der Rosenberger GmbH & Co. KG, Tittmoning
+
+scroll
+
+	Eigenkapital des Mutterunternehmens	Eigenkapital des Mutterunternehmens	Eigenkapital des Mutterunternehmens	Eigenkapital des Mutterunternehmens	Eigenkapital des Mutterunternehmens	Eigenkapital des Mutterunternehmens
+	Kapitalanteile Kommanditisten	Rücklagen	Rücklagen	Rücklagen	Eigenkapitaldifferenz	Summe
+in TEUR		Rücklage gemäß Gesellschaftsvertrag	sonstige Rücklagen	Summe	aus Währungsumrechnung	
+Stand 31.12.2022	77.174	129.913	752.520	882.433	189	959.795
+Gutschrift auf Gesellschafterkonten im Fremdkapital	-111.150	0	0	0	0	-111.150
+Entnahme durch Minderheiten	0	0	0	0	0	0
+Währungsumrechnung	0	0	0	0	-5.752	-5.752
+sonstige Veränderungen	0	0	-3.506	-3.506	0	-3.506
+Konzern-Jahresüberschuss	365.672	0	-240.459	-240.459	0	125.213
+Stand 31.12.2023	331.696	129.913	508.555	638.468	-5.563	964.601
+
+scroll
+
+	Nicht beherrschende Anteile	Nicht beherrschende Anteile	Nicht beherrschende Anteile	Konzerneigenkapital
+in TEUR	Minderheitenkapital	Eigenkapitaldifferenz aus Währungsumrechnung	Summe	Summe
+Stand 31.12.2022	31.190	1.754	32.944	992.741
+Gutschrift auf Gesellschafterkonten im Fremdkapital	0	0	0	-111.150
+Entnahme durch Minderheiten	-17.908	0	-17.908	-17.908
+Währungsumrechnung	0	-679	-679	-6.431
+sonstige Veränderungen	0	0	0	-3.506
+Konzern-Jahresüberschuss	7.500	1.153	8.653	133.866
+Stand 31.12.2023	20.782	2.228	23.010	987.611
+
+BESTÄTIGUNGSVERMERK DES UNABHÄNGIGEN ABSCHLUSSPRÜFERS
+
+An die Rosenberger GmbH & Co. KG, Tittmoning
+
+Prüfungsurteile
+
+Wir haben den Konzernabschluss der Rosenberger GmbH & Co. KG, Tittmoning, und ihrer Tochtergesellschaften (der Konzern) - bestehend aus der Konzernbilanz zum 31. Dezember 2023, der Konzern-Gewinn- und Verlustrechnung, dem Konzernanhang, einschließlich der Darstellung der Bilanzierungs- und Bewertungsmethoden, der Konzernkapitalflussrechnung sowie dem Konzerneigenkapitalspiegel für das Geschäftsjahr vom 1. Januar bis zum 31. Dezember 2023 - geprüft.
+
+Darüber hinaus haben wir den Konzernlagebericht der Rosenberger GmbH & Co. KG für das Geschäftsjahr vom 1. Januar bis zum 31. Dezember 2023 geprüft.
+
+Nach unserer Beurteilung aufgrund der bei der Prüfung gewonnenen Erkenntnisse
+
+•
+
+entspricht der beigefügte Konzernabschluss in allen wesentlichen Belangen den deutschen handelsrechtlichen Vorschriften und vermittelt unter Beachtung der deutschen Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens- und Finanzlage des Konzerns zum 31. Dezember 2023 sowie seiner Ertragslage für das Geschäftsjahr vom 1. Januar bis zum 31. Dezember 2023 und
+
+•
+
+vermittelt der beigefügte Konzernlagebericht insgesamt ein zutreffendes Bild von der Lage des Konzerns. In allen wesentlichen Belangen steht dieser Konzernlagebericht in Einklang mit dem Konzernabschluss, entspricht den deutschen gesetzlichen Vorschriften und stellt die Chancen und Risiken der zukünftigen Entwicklung zutreffend dar.
+
+Gemäß § 322 Abs. 3 Satz 1 HGB erklären wir, dass unsere Prüfung zu keinen Einwendungen gegen die Ordnungsmäßigkeit des Konzernabschlusses und des Konzernlageberichts geführt hat.
+
+Grundlage für die Prüfungsurteile
+
+Wir haben unsere Prüfung des Konzernabschlusses und des Konzernlageberichts in Übereinstimmung mit § 317 HGB unter Beachtung der vom Institut der Wirtschaftsprüfer (IDW) festgestellten deutschen Grundsätze ordnungsmäßiger Abschlussprüfung durchgeführt. Unsere Verantwortung nach diesen Vorschriften und Grundsätzen ist im Abschnitt „Verantwortung des Abschlussprüfers für die Prüfung des Konzernabschlusses und des Konzernlageberichts“ unseres Bestätigungsvermerks weitergehend beschrieben. Wir sind von den Konzernunternehmen unabhängig in Übereinstimmung mit den deutschen handelsrechtlichen und berufsrechtlichen Vorschriften und haben unsere sonstigen deutschen Berufspflichten in Übereinstimmung mit diesen Anforderungen erfüllt. Wir sind der Auffassung, dass die von uns erlangten Prüfungsnachweise ausreichend und geeignet sind, um als Grundlage für unsere Prüfungsurteile zum Konzernabschluss und zum Konzernlagebericht zu dienen.
+
+Verantwortung der gesetzlichen Vertreter und des Verwaltungsrats für den Konzernabschluss und den Konzernlagebericht
+
+Die gesetzlichen Vertreter sind verantwortlich für die Aufstellung des Konzernabschlusses, der den deutschen handelsrechtlichen Vorschriften in allen wesentlichen Belangen entspricht, und dafür, dass der Konzernabschluss unter Beachtung der deutschen Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage des Konzerns vermittelt. Ferner sind die gesetzlichen Vertreter verantwortlich für die internen Kontrollen, die sie in Übereinstimmung mit den deutschen Grundsätzen ordnungsmäßiger Buchführung als notwendig bestimmt haben, um die Aufstellung eines Konzernabschlusses zu ermöglichen, der frei von wesentlichen falschen Darstellungen aufgrund von dolosen Handlungen (d.h. Manipulationen der Rechnungslegung und Vermögensschädigungen) oder Irrtümern ist.
+
+Bei der Aufstellung des Konzernabschlusses sind die gesetzlichen Vertreter dafür verantwortlich, die Fähigkeit des Konzerns zur Fortführung der Unternehmenstätigkeit zu beurteilen. Des Weiteren haben sie die Verantwortung, Sachverhalte in Zusammenhang mit der Fortführung der Unternehmenstätigkeit, sofern einschlägig, anzugeben. Darüber hinaus sind sie dafür verantwortlich, auf der Grundlage des Rechnungslegungsgrundsatzes der Fortführung der Unternehmenstätigkeit zu bilanzieren, sofern dem nicht tatsächliche oder rechtliche Gegebenheiten entgegenstehen.
+
+Außerdem sind die gesetzlichen Vertreter verantwortlich für die Aufstellung des Konzernlageberichts, der insgesamt ein zutreffendes Bild von der Lage des Konzerns vermittelt sowie in allen wesentlichen Belangen mit dem Konzernabschluss in Einklang steht, den deutschen gesetzlichen Vorschriften entspricht und die Chancen und Risiken der zukünftigen Entwicklung zutreffend darstellt. Ferner sind die gesetzlichen Vertreter verantwortlich für die Vorkehrungen und Maßnahmen (Systeme), die sie als notwendig erachtet haben, um die Aufstellung eines Konzernlageberichts in Übereinstimmung mit den anzuwendenden deutschen gesetzlichen Vorschriften zu ermöglichen, und um ausreichende geeignete Nachweise für die Aussagen im Konzernlagebericht erbringen zu können.
+
+Der Verwaltungsrat ist verantwortlich für die Überwachung des Rechnungslegungsprozesses des Konzerns zur Aufstellung des Konzernabschlusses und des Konzernlageberichts.
+
+Verantwortung des Abschlussprüfers für die Prüfung des Konzernabschlusses und des Konzernla geberichts
+
+Unsere Zielsetzung ist, hinreichende Sicherheit darüber zu erlangen, ob der Konzernabschluss als Ganzes frei von wesentlichen falschen Darstellungen aufgrund von dolosen Handlungen oder Irrtümern ist, und ob der Konzernlagebericht insgesamt ein zutreffendes Bild von der Lage des Konzerns vermittelt sowie in allen wesentlichen Belangen mit dem Konzernabschluss sowie mit den bei der Prüfung gewonnenen Erkenntnissen in Einklang steht, den deutschen gesetzlichen Vorschriften entspricht und die Chancen und Risiken der zukünftigen Entwicklung zutreffend darstellt, sowie einen Bestätigungsvermerk zu erteilen, der unsere Prüfungsurteile zum Konzernabschluss und zum Konzernlagebericht beinhaltet.
+
+Hinreichende Sicherheit ist ein hohes Maß an Sicherheit, aber keine Garantie dafür, dass eine in Übereinstimmung mit § 317 HGB unter Beachtung der vom Institut der Wirtschaftsprüfer (IDW) festgestellten deutschen Grundsätze ordnungsmäßiger Abschlussprüfung durchgeführte Prüfung eine wesentliche falsche Darstellung stets aufdeckt. Falsche Darstellungen können aus dolosen Handlungen oder Irrtümern resultieren und werden als wesentlich angesehen, wenn vernünftigerweise erwartet werden könnte, dass sie einzeln oder insgesamt die auf der Grundlage dieses Konzernabschlusses und Konzernlageberichts getroffenen wirtschaftlichen Entscheidungen von Adressaten beeinflussen.
+
+Während der Prüfung üben wir pflichtgemäßes Ermessen aus und bewahren eine kritische Grundhaltung. Darüber hinaus
+
+•
+
+identifizieren und beurteilen wir die Risiken wesentlicher falscher Darstellungen im Konzernabschluss und im Konzernlagebericht aufgrund von dolosen Handlungen oder Irrtümern, planen und führen Prüfungshandlungen als Reaktion auf diese Risiken durch sowie erlangen Prüfungsnachweise, die ausreichend und geeignet sind, um als Grundlage für unsere Prüfungsurteile zu dienen. Das Risiko, dass aus dolosen Handlungen resultierende wesentliche falsche Darstellungen nicht aufgedeckt werden, ist höher als das Risiko, dass aus Irrtümern resultierende wesentliche falsche Darstellungen nicht aufgedeckt werden, da dolose Handlungen kollusives Zusammenwirken, Fälschungen, beabsichtigte Unvollständigkeiten, irreführende Darstellungen bzw. das Außerkraftsetzen interner Kontrollen beinhalten können.
+
+•
+
+gewinnen wir ein Verständnis von dem für die Prüfung des Konzernabschlusses relevanten internen Kontrollsystem und den für die Prüfung des Konzernlageberichts relevanten Vorkehrungen und Maßnahmen, um Prüfungshandlungen zu planen, die unter den gegebenen Umständen angemessen sind, jedoch nicht mit dem Ziel, ein Prüfungsurteil zur Wirksamkeit dieser Systeme abzugeben.
+
+•
+
+beurteilen wir die Angemessenheit der von den gesetzlichen Vertretern angewandten Rechnungslegungsmethoden sowie die Vertretbarkeit der von den gesetzlichen Vertretern dargestellten geschätzten Werte und damit zusammenhängenden Angaben.
+
+•
+
+ziehen wir Schlussfolgerungen über die Angemessenheit des von den gesetzlichen Vertretern angewandten Rechnungslegungsgrundsatzes der Fortführung der Unternehmenstätigkeit sowie, auf der Grundlage der erlangten Prüfungsnachweise, ob eine wesentliche Unsicherheit im Zusammenhang mit Ereignissen oder Gegebenheiten besteht, die bedeutsame Zweifel an der Fähigkeit des Konzerns zur Fortführung der Unternehmenstätigkeit aufwerfen können. Falls wir zu dem Schluss kommen, dass eine wesentliche Unsicherheit besteht, sind wir verpflichtet, im Bestätigungsvermerk auf die dazugehörigen Angaben im Konzernabschluss und im Konzernlagebericht aufmerksam zu machen oder, falls diese Angaben unangemessen sind, unser jeweiliges Prüfungsurteil zu modifizieren. Wir ziehen unsere Schlussfolgerungen auf der Grundlage der bis zum Datum unseres Bestätigungsvermerks erlangten Prüfungsnachweise. Zukünftige Ereignisse oder Gegebenheiten können jedoch dazu führen, dass der Konzern seine Unternehmenstätigkeit nicht mehr fortführen kann.
+
+•
+
+beurteilen wir Darstellung, Aufbau und Inhalt des Konzernabschlusses insgesamt einschließlich der Angaben sowie ob der Konzernabschluss die zugrunde liegenden Geschäftsvorfälle und Ereignisse so darstellt, dass der Konzernabschluss unter Beachtung der deutschen Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage des Konzerns vermittelt.
+
+•
+
+holen wir ausreichende geeignete Prüfungsnachweise für die Rechnungslegungsinformationen der Unternehmen oder Geschäftstätigkeiten innerhalb des Konzerns ein, um Prüfungsurteile zum Konzernabschluss und zum Konzernlagebericht abzugeben. Wir sind verantwortlich für die Anleitung, Beaufsichtigung und Durchführung der Konzernabschlussprüfung. Wir tragen die alleinige Verantwortung für unsere Prüfungsurteile.
+
+•
+
+beurteilen wir den Einklang des Konzernlageberichts mit dem Konzernabschluss, seine Gesetzesentsprechung und das von ihm vermittelte Bild von der Lage des Konzerns.
+
+•
+
+führen wir Prüfungshandlungen zu den von den gesetzlichen Vertretern dargestellten zukunftsorientierten Angaben im Konzernlagebericht durch. Auf Basis ausreichender geeigneter Prüfungsnachweise vollziehen wir dabei insbesondere die den zukunftsorientierten Angaben von den gesetzlichen Vertretern zugrunde gelegten bedeutsamen Annahmen nach und beurteilen die sachgerechte Ableitung der zukunftsorientierten Angaben aus diesen Annahmen. Ein eigenständiges Prüfungsurteil zu den zukunftsorientierten Angaben sowie zu den zugrunde liegenden Annahmen geben wir nicht ab. Es besteht ein erhebliches unvermeidbares Risiko, dass künftige Ereignisse wesentlich von den zukunftsorientierten Angaben abweichen.
+
+Wir erörtern mit den für die Überwachung Verantwortlichen unter anderem den geplanten Umfang und die Zeitplanung der Prüfung sowie bedeutsame Prüfungsfeststellungen, einschließlich etwaiger bedeutsamer Mängel im internen Kontrollsystem, die wir während unserer Prüfung feststellen.
+
+München, den 21. November 2024
+
+PricewaterhouseCoopers GmbH
+Wirtschaftsprüfungsgesellschaft
+
+Christoph Tübbing, Wirtschaftsprüfer
+
+ppa. Lena Metzger, Wirtschaftsprüferin
+
+Der Konzernabschluss zum 31. Dezember 2023 wurde am 21. November 2024 gebilligt.

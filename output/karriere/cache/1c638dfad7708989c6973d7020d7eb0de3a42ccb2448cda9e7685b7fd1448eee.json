@@ -1,0 +1,9 @@
+{
+  "url": "https://www.develappers.de/robots.txt",
+  "final_url": "https://www.develappers.de/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/plain",
+  "fetched_at": "2026-11-25T16:14:11.897391+00:00",
+  "text": "# robots.txt for www.develappers.de\r\n\r\nUser-agent: *\r\nDisallow: /cms\r\n\r\nSitemap: https://www.develappers.de/sitemap.xml"
+}

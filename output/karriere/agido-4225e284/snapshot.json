@@ -1,0 +1,89 @@
+{
+  "provider": "karriere",
+  "company": {
+    "key": "agido",
+    "name": "agido GmbH",
+    "location": "Dortmund",
+    "name_source": "company_name",
+    "urls": [
+      "https://www.agido.com/"
+    ],
+    "kununu_url": "https://www.kununu.com/de/agido",
+    "branches": [
+      "IT & Telekommunikation"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "44263",
+    "street": "Hörder Hafenstraße 11",
+    "region": "Nordrhein-Westfalen",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:13:16.207428+00:00",
+  "status": "no_results",
+  "jobs": [],
+  "pages": [
+    {
+      "url": "https://www.agido.com/",
+      "final_url": "https://www.agido.com/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://careers.agido.com/jobs",
+      "final_url": "https://careers.agido.com/jobs/",
+      "redirects": [
+        {
+          "source": "https://careers.agido.com/jobs",
+          "target": "https://careers.agido.com/jobs/",
+          "status": 307
+        }
+      ],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": true
+    }
+  ],
+  "errors": [],
+  "excluded": [],
+  "sources": [
+    {
+      "url": "https://www.agido.com/",
+      "linked_from": null,
+      "mechanism": "configured"
+    },
+    {
+      "url": "https://careers.agido.com/jobs",
+      "linked_from": "https://www.agido.com/",
+      "mechanism": "employer_link"
+    },
+    {
+      "url": "https://careers.agido.com/jobs/",
+      "linked_from": "https://careers.agido.com/jobs",
+      "mechanism": "http_redirect"
+    }
+  ],
+  "adapter_attempts": [],
+  "coverage": {
+    "scope": "configured_sites_and_linked_career_portals",
+    "complete": true,
+    "pending_pages": 0,
+    "page_limit_reached": false,
+    "job_limit_reached": false,
+    "request_limit_reached": false,
+    "pages_attempted": 2,
+    "pages_read": 2,
+    "dynamic_or_unparsed_pages": false,
+    "http": {
+      "requests_attempted": 5,
+      "allocated_requests": 517,
+      "cache_hits": 0
+    }
+  },
+  "pending_urls": [],
+  "jobs_before_keyword_filter": 0,
+  "reason": "explicit_no_open_jobs"
+}

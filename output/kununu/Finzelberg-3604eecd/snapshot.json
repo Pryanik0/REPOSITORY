@@ -1,0 +1,435 @@
+{
+  "provider": "kununu",
+  "backend": "browser",
+  "status": "ok",
+  "query": "Finzelberg GmbH & Co. KG",
+  "profile": {
+    "url": "https://www.kununu.com/de/finzelberg1",
+    "name": "Finzelberg GmbH & Co. KG",
+    "overall_score": 3.8,
+    "review_count": 38,
+    "recommendation_percent": 78,
+    "recommendation_period": "last_2_years",
+    "observed_at": "2026-11-25T17:15:01.246745+00:00"
+  },
+  "reviews": [
+    {
+      "id": "c25eb4b3-20b5-4dc0-a103-6b8733702651",
+      "url": "https://www.kununu.com/de/finzelberg1/bewertung/c25eb4b3-20b5-4dc0-a103-6b8733702651",
+      "title": "Außen Hooiii innen Pfuiiii",
+      "content": "Die Mitarbeiter sind untereinander oftmals nett. Man hat immer ein offenes Ohr ob’s umgesetzt wird sei mal dahin gestellt. Man ist oft flexibel durch das Arbeotsmodell und das Gehalt ist im ganzen auch in Ordnung.\n\nUnterste Schicht wird ausgebeutet die oberen machen sich die Taschen voll. Es wird für Mehrarbeit nicht gedankt in schweren Zeiten hat man viel gearbeitet ist oft eingesprungen kein Dank kein kleiner Bonus auch Wenns mal ein kleiner tabkgutschein wäre die Geste allein zählt. alles ist selbstverständlich. Nach und nach wird immer mehr an Gehalt eingebüßt. Man wird oft anders behandelt als andere. die Arbeitskleidung lässt zu wünschen übrig keine ordentlichen dicken Winter Klamotten wie in anderen Betrieben.\n\nNicht kürzen wo geht sondern auch wenn’s wieder gut läuft auch zurück geben alles was gekürzt wurde wieder zurück geben.\n\nDas Klima in der Firma wird immer mieser, Geld wird gespart wo geht aber neue Vorgesetzte kriegen auf einmal dicke Luxusfirmenwagen obwohl gesagt wird es sei kein Geld mehr da. Das sehen die Mitarbeiter und regen sich zurecht auf warum bei der untersten Arbeitsgruppe eingespart wird durch Arbeitszeitverschiebung oder Kurzarbeit\n\nNach außen stark aber ein „Familien“ Unternehmen ist die Firma seid langem nicht mehr wenn man die Mehrheit der Mitarbeiter befragt\n\nDurch die Konti und Gleitzeit hat man ein gutes work life balance zudem gibt es auch für manche Arbeitende Homeoffice Möglichkeiten.\n\nWird nicht gefördert teilweise sogar werden einem Steine in den Weg gelegt.\n\nGehalt ist super die IGBCE ist sicher und stark aufgestellt jedoch werden viele Sachen intern gekürzt wofür die Gewerkschaft nichts kann\n\nDurch Go Zero versucht das Unternehmen stark Klima freundlich zu sein und setzt diese Stück für Stück um\n\nEs bilden sich unter den Kollegen eigene Gruppen aber geimeinsam gibt es dort nicht jeder agiert in Gruppen unter den Gruppen wird zusammen gehalten. Ich will nicht nur negatives berichten jedoch hält der Vorgesetzte auch ab und an an seinen Mitarbeiter.\n\nÄltere Kollegen sind glaub ich überall etwas anstrengender als jüngere aber der Umgang ist schwer.\n\nMal gut wenn der Vorgesetzte einen mag, wenn nicht dann wird man schwer benachteiligt behandelt in vielen Arten und Fällen egal welche Abteilung.\n\nDas alte Stempelsytem ist seid Jahren nicht auf dem neusten Stand in anderen Firmen ist das nie ein Problem jedoch hier hat man tausend zeitkonten die nicht verrierbar miteinander sind und man in der Abrechnung keinen Überblick hat.\n\nKommunikation ist miserabel. Jeder redet hinter jedem seinen Rücken im allgemeinen herrscht dicke Luft niemand traut sich was anzusprechen, da man Angst hat es sich mit dem Vorgesetzten zu vergeigen.\n\nNicht so jeder wird anders behandelt je nach Position oder Sympathie.\n\nMan kann sich kreativ einbringen und wird erhört.",
+      "rating": 2.4,
+      "sections": {
+        "positive": "Die Mitarbeiter sind untereinander oftmals nett. Man hat immer ein offenes Ohr ob’s umgesetzt wird sei mal dahin gestellt. Man ist oft flexibel durch das Arbeotsmodell und das Gehalt ist im ganzen auch in Ordnung.",
+        "negative": "Unterste Schicht wird ausgebeutet die oberen machen sich die Taschen voll. Es wird für Mehrarbeit nicht gedankt in schweren Zeiten hat man viel gearbeitet ist oft eingesprungen kein Dank kein kleiner Bonus auch Wenns mal ein kleiner tabkgutschein wäre die Geste allein zählt. alles ist selbstverständlich. Nach und nach wird immer mehr an Gehalt eingebüßt. Man wird oft anders behandelt als andere. die Arbeitskleidung lässt zu wünschen übrig keine ordentlichen dicken Winter Klamotten wie in anderen Betrieben.",
+        "suggestion": "Nicht kürzen wo geht sondern auch wenn’s wieder gut läuft auch zurück geben alles was gekürzt wurde wieder zurück geben."
+      },
+      "factor_comments": {
+        "atmosphere": "Das Klima in der Firma wird immer mieser, Geld wird gespart wo geht aber neue Vorgesetzte kriegen auf einmal dicke Luxusfirmenwagen obwohl gesagt wird es sei kein Geld mehr da. Das sehen die Mitarbeiter und regen sich zurecht auf warum bei der untersten Arbeitsgruppe eingespart wird durch Arbeitszeitverschiebung oder Kurzarbeit",
+        "image": "Nach außen stark aber ein „Familien“ Unternehmen ist die Firma seid langem nicht mehr wenn man die Mehrheit der Mitarbeiter befragt",
+        "workLife": "Durch die Konti und Gleitzeit hat man ein gutes work life balance zudem gibt es auch für manche Arbeitende Homeoffice Möglichkeiten.",
+        "career": "Wird nicht gefördert teilweise sogar werden einem Steine in den Weg gelegt.",
+        "salary": "Gehalt ist super die IGBCE ist sicher und stark aufgestellt jedoch werden viele Sachen intern gekürzt wofür die Gewerkschaft nichts kann",
+        "environment": "Durch Go Zero versucht das Unternehmen stark Klima freundlich zu sein und setzt diese Stück für Stück um",
+        "teamwork": "Es bilden sich unter den Kollegen eigene Gruppen aber geimeinsam gibt es dort nicht jeder agiert in Gruppen unter den Gruppen wird zusammen gehalten. Ich will nicht nur negatives berichten jedoch hält der Vorgesetzte auch ab und an an seinen Mitarbeiter.",
+        "oldColleagues": "Ältere Kollegen sind glaub ich überall etwas anstrengender als jüngere aber der Umgang ist schwer.",
+        "leadership": "Mal gut wenn der Vorgesetzte einen mag, wenn nicht dann wird man schwer benachteiligt behandelt in vielen Arten und Fällen egal welche Abteilung.",
+        "workConditions": "Das alte Stempelsytem ist seid Jahren nicht auf dem neusten Stand in anderen Firmen ist das nie ein Problem jedoch hier hat man tausend zeitkonten die nicht verrierbar miteinander sind und man in der Abrechnung keinen Überblick hat.",
+        "communication": "Kommunikation ist miserabel. Jeder redet hinter jedem seinen Rücken im allgemeinen herrscht dicke Luft niemand traut sich was anzusprechen, da man Angst hat es sich mit dem Vorgesetzten zu vergeigen.",
+        "equality": "Nicht so jeder wird anders behandelt je nach Position oder Sympathie.",
+        "tasks": "Man kann sich kreativ einbringen und wird erhört."
+      },
+      "factor_scores": {
+        "atmosphere": 1.0,
+        "workLife": 5.0,
+        "communication": 1.0,
+        "workConditions": 3.0,
+        "leadership": 1.0,
+        "teamwork": 1.0,
+        "oldColleagues": 1.0,
+        "equality": 1.0,
+        "career": 2.0,
+        "salary": 5.0,
+        "image": 1.0,
+        "environment": 5.0,
+        "tasks": 4.0
+      },
+      "published_at": "2026-06-05T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "3c4f0922-6bb7-46ed-ae6e-c1a62f660296",
+      "url": "https://www.kununu.com/de/finzelberg1/bewertung/3c4f0922-6bb7-46ed-ae6e-c1a62f660296",
+      "title": "Arbeitnehmer",
+      "content": "Keine Unterstützung bei eigene Weiterbildung\n\n.",
+      "rating": 3.0,
+      "sections": {
+        "positive": null,
+        "negative": "Keine Unterstützung bei eigene Weiterbildung",
+        "suggestion": "."
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 3.0,
+        "communication": 3.0,
+        "workConditions": 4.0,
+        "leadership": 3.0,
+        "teamwork": 3.0,
+        "oldColleagues": 4.0,
+        "equality": 2.0,
+        "career": 2.0,
+        "salary": 3.0,
+        "image": 3.0,
+        "environment": 3.0,
+        "tasks": 3.0
+      },
+      "published_at": "2025-09-03T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "84dfabf1-a795-41ab-8a74-d1e87606e449",
+      "url": "https://www.kununu.com/de/finzelberg1/bewertung/84dfabf1-a795-41ab-8a74-d1e87606e449",
+      "title": "Guter Arbeitgeber - Work-Life-Balance (für Schichtarbeiter schwierig)",
+      "content": "Unterschiedlichen Aufgaben sowie vielfältige Karrieremöglichkeiten. Wertschätzendes Arbeitsklima. Professionelles-DU. Fördert Nachhaltigkeit und Umweltschutz.\n\nProduktionsmitarbeiter fühlen sich benachteiligt; aufgrund des Vollkonti-Betriebs sind einige Annehmlichkeiten nicht umsetzbar, um die Zufriedenheit und Gleichberechtigung im gesamten Unternehmen zu gewährleisten.\n\nTrotz der kürzlich angestoßen Transformation der gesamten Unternehmensgruppe, den Mensch hinter der Personalnummer nicht vergessen, und die familiär geprägte, mittelständige Unternehmenskultur beibehalten!\n\nDurchwachsen. In meiner Abteilung sehr angenehm. Teilweise in der Produktion angespannt.\n\nB2B Unternehmen und dadurch weniger bekannt.\n\nBei Tagdienstlern sehr ausgeglichen durch Gleitzeit, Home-Office Möglichkeit und individuelle Zeitmodelle.\nFinzelberg ist ein vollkontinuierlicher Betrieb, Balance für Schichtarbeiter schwierig umzusetzen.\n\nViele Führungskräfte sind \"Eigengewächse\" und in die Aufgabe hereingewachsen. Die Möglichkeiten zur Weiterbildung sind vielfältig, Entwicklungspläne können in Abstimmung mit den Vorgesetzten ausgearbeitet werden. Jährliche Beurteilungsgespräche.\n\nGewerkschaftlich organisiert und dadurch an den Chemie-Tarif gebunden\n\nDas Netzwerk ist sehr umweltbewusst und investiert viel in den Naturschutz und in soziale Projekte.\n\nVon Mensch zu Mensch unterschiedlich, wie in jedem Lebensbereich gibt es Leute, auf die man sich verlassen kann und welche, auf die man verzichten kann. Der Betriebsrat kann als Sprachrohr genutzt werden.\n\nAltersteilzeit wird angeboten. Jüngere Kollegen helfen gerne bei IT-Problemen, Schonarbeitsplätze können beantragt werden.\n\nSehr gut in meinem Bereich, veraltete Führungsstile sollen abgeschafft werden. Unternehmen im Wandel!\n\nDie Sicherheitsfachkraft kontrolliert regelmäßig die Büroarbeitsplätze. Sogar die Home-Office Plätze müssen dem Arbeitsschutz entsprechen und werden geprüft.\n\nNetzwerkweite interne App - Interessierte können sich dort sehr gut informieren. Regelmäßige Betriebsversammlungen.\n\nProduktion und Führungsebene fast ausschließlich männlich besetzt.\n\nIch habe die Möglichkeit, meine Aufgaben selbstständig einzuteilen und zu priorisieren. Bei Bedarf erhalte ich Unterstützung von meinem Vorgesetzten.",
+      "rating": 4.1,
+      "sections": {
+        "positive": "Unterschiedlichen Aufgaben sowie vielfältige Karrieremöglichkeiten. Wertschätzendes Arbeitsklima. Professionelles-DU. Fördert Nachhaltigkeit und Umweltschutz.",
+        "negative": "Produktionsmitarbeiter fühlen sich benachteiligt; aufgrund des Vollkonti-Betriebs sind einige Annehmlichkeiten nicht umsetzbar, um die Zufriedenheit und Gleichberechtigung im gesamten Unternehmen zu gewährleisten.",
+        "suggestion": "Trotz der kürzlich angestoßen Transformation der gesamten Unternehmensgruppe, den Mensch hinter der Personalnummer nicht vergessen, und die familiär geprägte, mittelständige Unternehmenskultur beibehalten!"
+      },
+      "factor_comments": {
+        "atmosphere": "Durchwachsen. In meiner Abteilung sehr angenehm. Teilweise in der Produktion angespannt.",
+        "image": "B2B Unternehmen und dadurch weniger bekannt.",
+        "workLife": "Bei Tagdienstlern sehr ausgeglichen durch Gleitzeit, Home-Office Möglichkeit und individuelle Zeitmodelle.\nFinzelberg ist ein vollkontinuierlicher Betrieb, Balance für Schichtarbeiter schwierig umzusetzen.",
+        "career": "Viele Führungskräfte sind \"Eigengewächse\" und in die Aufgabe hereingewachsen. Die Möglichkeiten zur Weiterbildung sind vielfältig, Entwicklungspläne können in Abstimmung mit den Vorgesetzten ausgearbeitet werden. Jährliche Beurteilungsgespräche.",
+        "salary": "Gewerkschaftlich organisiert und dadurch an den Chemie-Tarif gebunden",
+        "environment": "Das Netzwerk ist sehr umweltbewusst und investiert viel in den Naturschutz und in soziale Projekte.",
+        "teamwork": "Von Mensch zu Mensch unterschiedlich, wie in jedem Lebensbereich gibt es Leute, auf die man sich verlassen kann und welche, auf die man verzichten kann. Der Betriebsrat kann als Sprachrohr genutzt werden.",
+        "oldColleagues": "Altersteilzeit wird angeboten. Jüngere Kollegen helfen gerne bei IT-Problemen, Schonarbeitsplätze können beantragt werden.",
+        "leadership": "Sehr gut in meinem Bereich, veraltete Führungsstile sollen abgeschafft werden. Unternehmen im Wandel!",
+        "workConditions": "Die Sicherheitsfachkraft kontrolliert regelmäßig die Büroarbeitsplätze. Sogar die Home-Office Plätze müssen dem Arbeitsschutz entsprechen und werden geprüft.",
+        "communication": "Netzwerkweite interne App - Interessierte können sich dort sehr gut informieren. Regelmäßige Betriebsversammlungen.",
+        "equality": "Produktion und Führungsebene fast ausschließlich männlich besetzt.",
+        "tasks": "Ich habe die Möglichkeit, meine Aufgaben selbstständig einzuteilen und zu priorisieren. Bei Bedarf erhalte ich Unterstützung von meinem Vorgesetzten."
+      },
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 4.0,
+        "communication": 4.0,
+        "workConditions": 5.0,
+        "leadership": 4.0,
+        "teamwork": 3.0,
+        "oldColleagues": 5.0,
+        "equality": 4.0,
+        "career": 3.0,
+        "salary": 5.0,
+        "image": 3.0,
+        "environment": 5.0,
+        "tasks": 4.0
+      },
+      "published_at": "2025-07-31T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "50e961c2-fb6c-4135-a24f-d090b06f5322",
+      "url": "https://www.kununu.com/de/finzelberg1/bewertung/50e961c2-fb6c-4135-a24f-d090b06f5322",
+      "title": "Überragender Arbeitgeber",
+      "content": "Super Arbeitgeber\n\nSchwierige Kunden\n\nAlles umdenken",
+      "rating": 4.3,
+      "sections": {
+        "positive": "Super Arbeitgeber",
+        "negative": "Schwierige Kunden",
+        "suggestion": "Alles umdenken"
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 3.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 4.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 1.0,
+        "image": 5.0,
+        "environment": 3.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-02-04T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "6fc08b93-0a1f-447f-be30-93a09956feb5",
+      "url": "https://www.kununu.com/de/finzelberg1/bewertung/6fc08b93-0a1f-447f-be30-93a09956feb5",
+      "title": "Besser als viele andere AG - Die Atmosphäre ist jedoch sehr von der Abteilung abhängig",
+      "content": "",
+      "rating": 3.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-03-27T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "67c4fec7-ea26-4a6d-90a9-417ef50cbfec",
+      "url": "https://www.kununu.com/de/finzelberg1/bewertung/67c4fec7-ea26-4a6d-90a9-417ef50cbfec",
+      "title": "Hallo zusammen",
+      "content": "",
+      "rating": 3.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-02-23T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "ca61fa42-77d4-44ce-a931-5d517a539ec8",
+      "url": "https://www.kununu.com/de/finzelberg1/bewertung/ca61fa42-77d4-44ce-a931-5d517a539ec8",
+      "title": "Top",
+      "content": "",
+      "rating": 4.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-01-28T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "e8210844-7433-4c17-99ee-137d628fedda",
+      "url": "https://www.kununu.com/de/finzelberg1/bewertung/e8210844-7433-4c17-99ee-137d628fedda",
+      "title": "Guter Arbeitgeber",
+      "content": "",
+      "rating": 4.2,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-01-08T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    }
+  ],
+  "review_limit": 15,
+  "review_period": {
+    "since": "2024-11-25T00:00:00+00:00",
+    "until": "2026-11-25T17:14:59.637635+00:00",
+    "date_field": "published_at",
+    "missing_dates": "excluded"
+  },
+  "factor_scores_aggregated": {
+    "atmosphere": {
+      "mean": 3.25,
+      "count": 4
+    },
+    "workLife": {
+      "mean": 4.25,
+      "count": 4
+    },
+    "communication": {
+      "mean": 3.25,
+      "count": 4
+    },
+    "workConditions": {
+      "mean": 3.75,
+      "count": 4
+    },
+    "leadership": {
+      "mean": 3.25,
+      "count": 4
+    },
+    "teamwork": {
+      "mean": 3.0,
+      "count": 4
+    },
+    "oldColleagues": {
+      "mean": 3.5,
+      "count": 4
+    },
+    "equality": {
+      "mean": 3.0,
+      "count": 4
+    },
+    "career": {
+      "mean": 3.0,
+      "count": 4
+    },
+    "salary": {
+      "mean": 3.5,
+      "count": 4
+    },
+    "image": {
+      "mean": 3.0,
+      "count": 4
+    },
+    "environment": {
+      "mean": 4.0,
+      "count": 4
+    },
+    "tasks": {
+      "mean": 4.0,
+      "count": 4
+    }
+  },
+  "coverage": "bounded_employee_review_sample_last_2_years_not_all_reviews",
+  "diagnostics": {
+    "pages": [
+      {
+        "page": "reviews",
+        "page_number": 1,
+        "load_more_clicks": 0,
+        "requested_url": "https://www.kununu.com/de/finzelberg1/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Finzelberg-3604eecd\\browser\\reviews.html",
+        "browser_step": 45,
+        "final_url": "https://www.kununu.com/de/finzelberg1/kommentare",
+        "observed_at": "2026-11-25T17:15:00.958853+00:00",
+        "http_status": 200,
+        "factor_cards_expanded": 2,
+        "reviews_collected": 4
+      },
+      {
+        "page": "reviews",
+        "page_number": 2,
+        "load_more_clicks": 1,
+        "requested_url": "https://www.kununu.com/de/finzelberg1/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Finzelberg-3604eecd\\browser\\reviews-2.html",
+        "browser_step": 46,
+        "final_url": "https://www.kununu.com/de/finzelberg1/kommentare",
+        "observed_at": "2026-11-25T17:15:02.105826+00:00",
+        "actions_complete": true,
+        "reviews_collected": 4
+      },
+      {
+        "page": "reviews",
+        "page_number": 3,
+        "load_more_clicks": 2,
+        "requested_url": "https://www.kununu.com/de/finzelberg1/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Finzelberg-3604eecd\\browser\\reviews-3.html",
+        "browser_step": 47,
+        "final_url": "https://www.kununu.com/de/finzelberg1/kommentare",
+        "observed_at": "2026-11-25T17:15:03.293003+00:00",
+        "actions_complete": true,
+        "reviews_collected": 8
+      },
+      {
+        "page": "reviews",
+        "page_number": 4,
+        "load_more_clicks": 3,
+        "requested_url": "https://www.kununu.com/de/finzelberg1/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Finzelberg-3604eecd\\browser\\reviews-4.html",
+        "browser_step": 48,
+        "final_url": "https://www.kununu.com/de/finzelberg1/kommentare",
+        "observed_at": "2026-11-25T17:15:04.743464+00:00",
+        "actions_complete": true,
+        "reviews_collected": 8
+      }
+    ]
+  },
+  "source_url": "https://www.kununu.com/de/finzelberg1",
+  "profile_source": "https://www.kununu.com/de/finzelberg1/kommentare",
+  "review_stop_reason": "end_of_available_reviews",
+  "factor_score_coverage": {
+    "reviews_with_scores": 4,
+    "reviews_without_scores": 4,
+    "reviews_with_all_known_scores": 4,
+    "status": "partial"
+  },
+  "request_limits": {
+    "max_browser_steps": 295,
+    "browser_steps": 48,
+    "zyte_requests": 0
+  },
+  "reason": null
+}

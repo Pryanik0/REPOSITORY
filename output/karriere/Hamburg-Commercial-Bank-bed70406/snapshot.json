@@ -1,0 +1,71 @@
+{
+  "provider": "karriere",
+  "company": {
+    "key": "Hamburg Commercial Bank",
+    "name": "Hamburg Commercial Bank AG",
+    "location": "Hamburg",
+    "name_source": "company_name",
+    "urls": [
+      "https://www.hcob-bank.com/"
+    ],
+    "kununu_url": "https://www.kununu.com/de/hamburgcommercialbank",
+    "branches": [
+      "Banken"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "20095",
+    "street": "Gerhart-Hauptmann-Platz 50",
+    "region": "Hamburg",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:11:24.884204+00:00",
+  "status": "partial",
+  "jobs": [],
+  "pages": [
+    {
+      "url": "https://www.hcob-bank.com/",
+      "final_url": "https://www.hcob-bank.com/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    }
+  ],
+  "errors": [
+    {
+      "url": "https://www.hcob-bank.com/",
+      "reason": "no_extractable_jobs_or_career_links",
+      "error": "Keine auslesbaren Stellen; JavaScript oder manuelle Prüfung erforderlich."
+    }
+  ],
+  "excluded": [],
+  "sources": [
+    {
+      "url": "https://www.hcob-bank.com/",
+      "linked_from": null,
+      "mechanism": "configured"
+    }
+  ],
+  "adapter_attempts": [],
+  "coverage": {
+    "scope": "configured_sites_and_linked_career_portals",
+    "complete": false,
+    "pending_pages": 0,
+    "page_limit_reached": false,
+    "job_limit_reached": false,
+    "request_limit_reached": false,
+    "pages_attempted": 1,
+    "pages_read": 1,
+    "dynamic_or_unparsed_pages": true,
+    "http": {
+      "requests_attempted": 2,
+      "allocated_requests": 480,
+      "cache_hits": 0
+    }
+  },
+  "pending_urls": [],
+  "jobs_before_keyword_filter": 0,
+  "reason": "search_incomplete"
+}

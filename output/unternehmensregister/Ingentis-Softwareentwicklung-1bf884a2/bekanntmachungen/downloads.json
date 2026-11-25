@@ -1,0 +1,20 @@
+[
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=ZNsLRRPodYgVYO-z3UTM1B2AcfY84VCH1VSz9pvxDgMkTig1HiqHQE53gd12JYY9dUfbVJgWA4Z_thB6JC2oP2faOiJfHC40GKxpQIVTfH62xDCs1HuhcAuqjeJRTCy2GW5_2odG7ifuA3PncLoEHR_2v6R3qN0q26h-YwDPME0t6Wry-nf7Dd79w_1IeWvc_HDnRjYozcVt-UhMILukrfQOBLgtJJvooikz_S5iA9Y3I_eb",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Ingentis-Softwareentwicklung-1bf884a2\\bekanntmachungen\\publication-5\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Ingentis-Softwareentwicklung-1bf884a2\\bekanntmachungen\\publication-5\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Ingentis-Softwareentwicklung-1bf884a2\\bekanntmachungen\\publication-5\\publication.txt",
+    "index": 5,
+    "category": "bekanntmachungen",
+    "company": "INGENTIS Softwareentwicklung GmbH, Nürnberg",
+    "title": "Registerbekanntmachung nach dem Umwandlungsgesetz",
+    "documents_path": "output\\unternehmensregister\\Ingentis-Softwareentwicklung-1bf884a2\\bekanntmachungen\\publication-5\\documents.json"
+  }
+]

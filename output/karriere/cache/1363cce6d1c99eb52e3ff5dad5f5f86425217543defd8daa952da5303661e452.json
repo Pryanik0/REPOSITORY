@@ -1,0 +1,9 @@
+{
+  "url": "https://karriere.xion-medical.com/robots.txt",
+  "final_url": "https://karriere.xion-medical.com/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "fetched_at": "2026-11-25T16:08:55.809010+00:00",
+  "text": "User-agent: * \r\nAllow: /\r\nSitemap: https://karriere.xion-medical.com/sitemap.xml"
+}

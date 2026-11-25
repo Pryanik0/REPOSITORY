@@ -1,0 +1,9 @@
+{
+  "url": "https://www.ceezer.earth/robots.txt",
+  "final_url": "https://www.ceezer.earth/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "fetched_at": "2026-11-25T16:09:50.489623+00:00",
+  "text": "User-agent: *\nDisallow: /platform-pages/\nDisallow: /drafts-archive/\nDisallow: /downloads/\nDisallow: /contact-kkr-czr\n\nSitemap: https://www.ceezer.earth/sitemap.xml"
+}

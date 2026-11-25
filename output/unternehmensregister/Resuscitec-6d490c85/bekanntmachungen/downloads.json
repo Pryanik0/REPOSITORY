@@ -1,0 +1,38 @@
+[
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=7cr1yy-vDFbLSOvglggwT7QQHyOhnxqsQLZ58FvcZn_54A5rWnEbTuAWwzIFjyzkaphQVZ-ISYKlxZzYbZLhy5eUNevEAOnRqpYW3tpHw7EVFXx7keOauqojGjreFig4OJDHuBN-WTX6nPP5DFyrHCAbqGeZ_WSP2okx8lQeEvAY-qPugf6LkKaO7xHTZqmQ5fqwaeYB6uwxo95IDgeHd_Zvlywh_LO8kvsvdCoq4Js7MQh4",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Resuscitec-6d490c85\\bekanntmachungen\\publication-2\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Resuscitec-6d490c85\\bekanntmachungen\\publication-2\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Resuscitec-6d490c85\\bekanntmachungen\\publication-2\\publication.txt",
+    "index": 2,
+    "category": "bekanntmachungen",
+    "company": "Resuscitec GmbH, Freiburg im Breisgau",
+    "title": "Einreichung neuer Dokumente",
+    "documents_path": "output\\unternehmensregister\\Resuscitec-6d490c85\\bekanntmachungen\\publication-2\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=Z1DvGTYcF-acDVAaYliBqPBViKNzYGLZm28DgXH5-vKbFCggCrXaXQni9YHe-2PQluJzBG6yxzPE6kdx7-viqPDjL7N8pvsvnN8CIZQYUQUnTDvWkdc1FfFwmEmZ4BnbUX9LVio3B_HsHi93OwS85PMY8jGoy1HNKlC404NNnFO0RrN_0D-BjkLCjjUTuWVFdpY4CcjCrgec2Umzb8XnyIfY7xb6VQPETaUIdUTpfyVYq7g5",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Resuscitec-6d490c85\\bekanntmachungen\\publication-3\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Resuscitec-6d490c85\\bekanntmachungen\\publication-3\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Resuscitec-6d490c85\\bekanntmachungen\\publication-3\\publication.txt",
+    "index": 3,
+    "category": "bekanntmachungen",
+    "company": "Resuscitec GmbH, Freiburg im Breisgau",
+    "title": "Einreichung neuer Dokumente",
+    "documents_path": "output\\unternehmensregister\\Resuscitec-6d490c85\\bekanntmachungen\\publication-3\\documents.json"
+  }
+]

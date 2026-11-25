@@ -1,0 +1,94 @@
+CEEZER Software GmbH — Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022
+CEEZER Software GmbH
+
+Berlin
+
+Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022
+
+Bilanz
+
+scroll
+
+Aktiva	Aktiva	Aktiva
+	31.12.2022 EUR	31.12.2021 EUR
+A. Anlagevermögen	94.077,00	
+I. Immaterielle Vermögensgegenstände	86.750,00	
+II. Sachanlagen	7.327,00	
+B. Umlaufvermögen	3.934.283,76	980.311,44
+I. Vorräte	6.261,00	
+II. Forderungen und sonstige Vermögensgegenstände	199.515,83	11.804,73
+davon gegen Gesellschafter	783,97	
+III. Kassenbestand, Bundesbankguthaben, Guthaben bei Kreditinstituten und Schecks	3.728.506,93	968.506,71
+C. Rechnungsabgrenzungsposten	16.182,33	3.331,83
+Aktiva	4.044.543,09	983.643,27
+
+scroll
+
+Passiva	Passiva	Passiva
+	31.12.2022 EUR	31.12.2021 EUR
+A. Eigenkapital	3.850.518,65	957.837,25
+I. Gezeichnetes Kapital	33.333,00	33.333,00
+II. Kapitalrücklage	5.192.667,00	992.667,00
+III. Verlustvortrag	68.162,75	
+IV. Jahresfehlbetrag	1.307.318,60	68.162,75
+B. Rückstellungen	31.718,56	16.051,28
+C. Verbindlichkeiten	162.305,88	9.754,74
+davon mit einer Restlaufzeit bis zu einem Jahr	162.305,88	9.754,74
+davon gegenüber Gesellschaftern		214,57
+Passiva	4.044.543,09	983.643,27
+
+Anhang
+
+1. Allgemeine Angaben zum Jahresabschluss
+
+Der Jahresabschluss der CEEZER Software GmbH wurde auf der Grundlage der Bilanzierungs-, Bewertungs- und Gliederungsvorschriften des Handelsgesetzbuches aufgestellt. Von der Erleichterung des § 288 HGB für kleine Kapitalgesellschaften wurde Gebrauch gemacht. Ergänzend zu diesen Vorschriften waren die Regelungen des GmbH-Gesetzes zu beachten.
+
+2. Bilanzierungs- und Bewertungsmethoden
+
+RÜCKSTELLUNGEN
+
+Die Rückstellungen wurden in Höhe des nach vernünftiger kaufmännischer Beurteilung notwendigen Erfüllungsbetrages angesetzt. Rückstellungen mit einer Restlaufzeit von mehr als einem Jahr wurden, soweit vorhanden, mit dem ihrer Restlaufzeit entsprechenden durchschnittlichen Marktzins der vergangenen sieben Geschäftsjahre der Deutschen Bundesbank abgezinst. Die sonstigen Rückstellungen berücksichtigen alle erkennbaren Risiken und ungewissen Verpflichtungen.
+
+Die Steuerrückstellungen enthalten, soweit vorhanden, die noch nicht veranlagten Steuern des Geschäftsjahres und zu erwartende Steuernachzahlungen aus Vorjahren.
+
+VERBINDLICHKEITEN
+
+Die Verbindlichkeiten wurden zu ihrem Erfüllungsbetrag angesetzt. Sofern die Tageswerte über den Erfüllungsbeträgen lagen, wurden die Verbindlichkeiten zum höheren Tageswert angesetzt.
+
+3. Angaben zur Bilanz
+
+FORDERUNGEN UND SONSTIGE VERMÖGENSGEGENSTÄNDE
+
+Der Gesamtbetrag der ausgewiesenen Forderungen und sonstigen Vermögensgegenstände mit einer Restlaufzeit von mehr als einem Jahr beträgt € 0,00, alle übrigen Forderungen und Vermögensgegenstände haben Restlaufzeiten von nicht mehr als einem Jahr.
+
+VERBINDLICHKEITEN
+
+Der Gesamtbetrag der Verbindlichkeiten mit einer Restlaufzeit von mehr als fünf Jahren betrug zum Bilanzstichtag € 0,00. Die ausgewiesenen Verbindlichkeiten sind außer durch handelsübliche Eigentumsvorbehalte nicht durch Pfandrechte oder ähnliche Rechte gesichert.
+
+4. Angaben zur Gewinn- und Verlustrechnung
+
+Die Aufstellung der Gewinn- und Verlustrechnung erfolgte nach dem Gesamtkostenverfahren nach § 275 Abs. 2 HGB.
+
+sonstige Berichtsbestandteile
+
+5. Sonstige Pflichtangaben
+
+MITGLIEDER DER UNTERNEHMENSORGANE
+
+Während des abgelaufenen Geschäftsjahres wurden die Geschäfte des Unternehmens durch die einzelvertretungsberechtigten Geschäftsführer
+
+Herrn Magnus Drewelies, Geschäftsführer, Berlin
+Herrn Dr. Jan Oltmanns, Geschäftsführer, Heiligenhaus
+
+geführt.
+
+Ab dem 28.02.2022 wurden die Geschäfte des Unternehmens durch den einzelvertretungsberechtigten Geschäftsführer:
+
+Herrn Magnus Drewelies, Geschäftsführer, Berlin
+
+geführt.
+
+Berlin, den 02.08.2023
+
+Angaben zur Feststellung:
+Der Jahresabschluss wurde am 20.08.2023 festgestellt.

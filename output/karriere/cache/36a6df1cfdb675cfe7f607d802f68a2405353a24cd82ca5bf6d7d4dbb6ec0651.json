@@ -1,0 +1,9 @@
+{
+  "url": "http://karriere.ovbmedia.de/robots.txt",
+  "final_url": "http://karriere.ovbmedia.de/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "fetched_at": "2026-11-25T16:24:58.738296+00:00",
+  "text": "User-agent: *\nDisallow: /wp-admin/\nAllow: /wp-admin/admin-ajax.php\nCrawl-delay: 10\n\nSitemap: https://karriere.ovbmedia.de/wp-sitemap.xml"
+}

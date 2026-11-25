@@ -1,0 +1,56 @@
+[
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=63rycqoYaNltBFC9vS_A1nDF1LW09dyIUDAkbpR47SknAFhGCW2qY3msLbs1ig8E2nUZN_MN7qE_WGItOe_LDN_xmpkt_NQiR-JWV4CYG6JDBQo4z41XcOY-81XbmdDOme3QSuedpUDztqrC0sykkGQRAl3AOZgmFbVYlQB0nQC0ao6AMFlAiLneqoUkA_4jbFAcPzd7xfi81jEFdeeK3VudBXCtFgL6Q5UqCZZ9iZXtSphm",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Hermes-Deutschland-ee3a1575\\bekanntmachungen\\publication-1\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Hermes-Deutschland-ee3a1575\\bekanntmachungen\\publication-1\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Hermes-Deutschland-ee3a1575\\bekanntmachungen\\publication-1\\publication.txt",
+    "index": 1,
+    "category": "bekanntmachungen",
+    "company": "Hermes Germany GmbH, Hamburg",
+    "title": "Aufsichtsrat",
+    "documents_path": "output\\unternehmensregister\\Hermes-Deutschland-ee3a1575\\bekanntmachungen\\publication-1\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=TtYXXMtP0tHEQBpAgg4wRuy-l8OJQ-VIiuO0PUFfP9wUeQvJaChzTEOE9WpN4GR4lH7srHahNt6YoqZV-pK3GudYlVuWBsCBPt8waocA68WRN_vZSg-t9IljGawAEubTbJB8Bx_PqyhD1Gkh0PnxaA0gP5FudE7njVzr8dlEN13KSksf7iS0-X7p_VB7bnfhHBu2pH0JffFfqUq15I8wVceRDT3yFf0Ue09Xp3MZqsElyH_J",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Hermes-Deutschland-ee3a1575\\bekanntmachungen\\publication-2\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Hermes-Deutschland-ee3a1575\\bekanntmachungen\\publication-2\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Hermes-Deutschland-ee3a1575\\bekanntmachungen\\publication-2\\publication.txt",
+    "index": 2,
+    "category": "bekanntmachungen",
+    "company": "Hermes Germany GmbH, Hamburg",
+    "title": "Einreichung neuer Dokumente",
+    "documents_path": "output\\unternehmensregister\\Hermes-Deutschland-ee3a1575\\bekanntmachungen\\publication-2\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=WPF7lSiCqt6y4OysCCGKFBOzu5d27ZKbA_-_ETIZGwJL1ogtHvOF-91lQ_MOR2hIWKxgARUhfVqxuTsApy7m0-kV_sp97F1s1pwsvb63f5Vgm16rc1AGZbDnIyyj2rA5pMqn9DjNr0xBcidJWwmZmyi7z7Tgip5GIOfRwhdKxTX6oiTu4bT0XwOtfExHTXw9ol4Vd-CRc05sQiDnxPFvsRdCTbFGc5VeYT62odHcbpBopYvV",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Hermes-Deutschland-ee3a1575\\bekanntmachungen\\publication-3\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Hermes-Deutschland-ee3a1575\\bekanntmachungen\\publication-3\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Hermes-Deutschland-ee3a1575\\bekanntmachungen\\publication-3\\publication.txt",
+    "index": 3,
+    "category": "bekanntmachungen",
+    "company": "Hermes Germany GmbH, Hamburg",
+    "title": "Aufsichtsrat",
+    "documents_path": "output\\unternehmensregister\\Hermes-Deutschland-ee3a1575\\bekanntmachungen\\publication-3\\documents.json"
+  }
+]

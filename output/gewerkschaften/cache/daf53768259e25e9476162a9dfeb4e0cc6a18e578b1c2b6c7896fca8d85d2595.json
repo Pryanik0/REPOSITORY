@@ -1,0 +1,9 @@
+{
+  "url": "https://www.dbb.de/robots.txt",
+  "final_url": "https://www.dbb.de/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/plain;charset=utf-8",
+  "fetched_at": "2026-11-25T15:48:32.271547+00:00",
+  "text": "User-agent: *\nAllow: /\nDisallow: /fileadmin/_temp_/\nDisallow: /fileadmin/user_upload/_temp_/\nDisallow: /typo3/\nDisallow: /typo3_src/\nDisallow: /typo3conf/\nDisallow: /vendor/\nDisallow: /download/\nAllow: /typo3/sysext/frontend/Resources/Public/*\nSitemap: https://www.dbb.de/sitemap.xml"
+}

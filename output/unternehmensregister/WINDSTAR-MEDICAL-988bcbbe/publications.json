@@ -1,0 +1,222 @@
+{
+  "company": {
+    "key": "WINDSTAR MEDICAL",
+    "name": "WindStar Medical GmbH",
+    "location": "Frankfurt am Main",
+    "name_source": "company_name",
+    "urls": [
+      "https://www.merz-lifecare.com/"
+    ],
+    "kununu_url": "https://www.kununu.com/de/windstar-medical1",
+    "branches": [
+      "Pharma & Medizintechnik"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "60318",
+    "street": "Eckenheimer Landstraße 100",
+    "region": "Hessen",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:40:45.299594+00:00",
+  "searches": [
+    {
+      "accounting_only": true,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=WindStar+Medical+GmbH&companyLocation=Frankfurt+am+Main&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ACCOUNTING&drilldownFilter=22&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": false
+    },
+    {
+      "accounting_only": false,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=WindStar+Medical+GmbH&companyLocation=Frankfurt+am+Main&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ALL_AREAS&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": false
+    }
+  ],
+  "excluded_company_matches": [
+    {
+      "company": "Walt HoldCo GmbH, Frankfurt am Main",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 30.06.2025",
+      "publication_date": "2026-07-14",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=Q8oHdbRVCu20kgFvPy6BNxxpDDsnaJiZrJMHmgjEN3PP77UaH8BRx88g499_QxA49vB4e5Xbu-_4eWza0tn12KwVt6zKJxb4r1c63Xev4O8-cRTP0cucsp2cX1wDAoeLPwkPe-ZJle8TQfe9jukXypryAiMb9vEGTFuyDrGYKOmU6SyY1uyOQddnub7lvzYS3VTQTI-3DJh02pKMR0AWEfqsBuB9BrzIKbq9zLWAxcTp4acn",
+      "metadata": "Walt HoldCo GmbH, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 30.06.2025 Datum: 14.07.2026 Sprache: Deutsch Befreite Unternehmen anzeigen Dr. Kleine Pharma GmbH, Bielefeld DISTRICON GmbH, Frankfurt am Main WindStar Medical GmbH, Frankfurt am Main WindStar Commercial Expert GmbH, Frankfurt am Main",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Walt HoldCo GmbH, Frankfurt am Main",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-02-13",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=uKzvYsrjAPr2KItsg80cH1f_tp7Dl_-s_Ibae6jt3_ctPyZ_S6_0IwuLHFlalXlRM5s4kaQfZKip_kbS_7mw54p9NJKHtJqL7QSyf-R6XAFJtQRwvX_D8Hb4GnLEHwGj3fTzwzZeffVQw2HD9PiO3itowCuQe7Nm453sYGag2LRVyOumeklV3GSAe0XEa93c4uTosV7jzHlGovXlFeGVIUdyu10hGhOpDsZC9DDbKrmYRh0B",
+      "metadata": "Walt HoldCo GmbH, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 13.02.2026 Sprache: Deutsch Befreite Unternehmen anzeigen Dr. Kleine Pharma GmbH, Bielefeld DISTRICON GmbH, Frankfurt am Main WindStar Medical GmbH, Frankfurt am Main WindStar Commercial Expert GmbH, Frankfurt am Main",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Walt HoldCo GmbH, Frankfurt am Main",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-03-06",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=upIrHsoGraTVDa6XeMzvb3f3fGbx_3D8N7OXnAcKsTFj3GBEs82FKFHBzNwwJ5k_AfZlAVsnGJsR2lbcFeGo9IlnigMml3n-wnHK9ix0JrgBjanD4YQQNtrdSaDIzbwDj5cMb52bnUIheWWUNKVuHcxDKFpGBJz_2qMWAEBBlEDTNuwtsOv_6QRKIQonPvjDB6uWQHg7vOHULC6wj3SPyC-iUnDXfXwY8QtuXiKSjqlliNKV",
+      "metadata": "Walt HoldCo GmbH, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 06.03.2025 Sprache: Deutsch Befreite Unternehmen anzeigen Dr. Kleine Pharma GmbH, Bielefeld DISTRICON GmbH, Frankfurt am Main WindStar Medical GmbH, Frankfurt am Main L.A.B. Cosmetics GmbH, Hamburg WindStar Commercial Expert GmbH, Frankfurt am Main",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Walt HoldCo GmbH, Frankfurt am Main",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2025-01-10",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=fPBvTP9Y_Vd-C3MsLnclOHBceXpSBKslAHW9m_ZqyhV5V_VkSLC1FEqD_z_uLB1TF2L_7qvDhlvPAmIDatWGIdjPtZyej3bQvIp1tmiJ5YKZqD26bLSBq9YIsNF9BoEorWSbxgjD6HiHsRB5z0UrsDS7nFXFhW8Duo8BZWb7YLg1R_fporqtco0Rou2t92Z-jhwZsQyYEA753cu9tmqtGSRKv1rwYqzxbMteLbLCAGNLKXFk",
+      "metadata": "Walt HoldCo GmbH, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Berichtigung der Veröffentlichung vom 27.12.2023 Datum: 10.01.2025 Sprache: Deutsch Befreite Unternehmen anzeigen Dr. Kleine Pharma GmbH, Bielefeld DISTRICON GmbH, Frankfurt am Main Allmedica Arzneimittel GmbH, Hamburg WindStar Medical GmbH, Frankfurt am Main L.A.B. Cosmetics GmbH, Hamburg",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Allmedica Arzneimittel GmbH, Frankfurt am Main",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.08.2023",
+      "publication_date": "2024-02-06",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=NG0RuN0sD2_t8tyh12souREDgSVg-JaQNrgMj_d5GIaDwtHgw25Hv_nETUAkgVdo5o-QLNzAiuT5mfWNDAJqIa3tH4ZtgteCMIQY8CAyukd7-NFDDSDKi_nXWqjIU-XCqT1apr8pQeXIE3rIpqCvGiejowNfVKcyxnmowwaf7dCl4H1QDeY9LAO6g17XbIusqu0sYCkD8gPZQzc3C57V7TtjR9s9wi3w1quLkAw3JP2GPhhf",
+      "metadata": "Allmedica Arzneimittel GmbH, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.08.2023 WindStar Medical GmbH, Frankfurt am Main Datum: 06.02.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Walt HoldCo GmbH, Frankfurt am Main",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 30.06.2025",
+      "publication_date": "2026-07-14",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=K4JajH8dv4Nz0q_JIGCMtziWO9kjmW5h4yaxf84ppjPQEdmDy9xcRSz9RKaz23sj64vTHdwObKw69EBOYWeq7cJDcdfaXYWEft6321Cabh3XWUWMovf-6zyYpL3f_gFHn21PTZvJXi7GFkDILu59xv0Yk-V5m1Kn8-nDGYDfPArb5xfYUoFjNfC1ptnn_oP66IJjTdzJMTna--s3Eun7ySOlHqXkk9Y1XokCroVrCtBkc9JZ",
+      "metadata": "Walt HoldCo GmbH, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 30.06.2025 Datum: 14.07.2026 Sprache: Deutsch Befreite Unternehmen anzeigen Dr. Kleine Pharma GmbH, Bielefeld DISTRICON GmbH, Frankfurt am Main WindStar Medical GmbH, Frankfurt am Main WindStar Commercial Expert GmbH, Frankfurt am Main",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Walt HoldCo GmbH, Frankfurt am Main",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-02-13",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=4RstEINY664OFwg-tOG8dkT3zTcNesRP0MPQlbo39CZrE4MsZC9H8JPo6egT0HgouOCTw40JaeG89wG03fbkUhf_sE0LdV-AKYhG3ahKvo6ldRb4uPHOkLCjojvOWvgzdt6IdR-CrEHz6sc99B5_BAbuaalmTaysViDAp5-u19eBYUTC4OwfWc44JUuHe5WfPihqbAyoymy6k5N0Xy2MUOyqqCnHoxOUnD-xuBTH3pJ2aS64",
+      "metadata": "Walt HoldCo GmbH, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 13.02.2026 Sprache: Deutsch Befreite Unternehmen anzeigen Dr. Kleine Pharma GmbH, Bielefeld DISTRICON GmbH, Frankfurt am Main WindStar Medical GmbH, Frankfurt am Main WindStar Commercial Expert GmbH, Frankfurt am Main",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Walt HoldCo GmbH, Frankfurt am Main",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-03-06",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=hBZlRzC2C5iqPAGY7ARbW1-KNLX4K0pU2Df5wcHOqf3lf84D37NovA6tkCingrv3KQEJuEpH97h_l0qeK-EDFycqWUi2GHVbtUnycL3vJ_IxTghxg7GXezMKdt2rv8CycG-AVuCnIOup59Bn3bQ9mmvdk4yIdrf23kdwiyt5jIsy3j34FitHob_KDFWHU_PPr4UxoDr9FTSahIiGFytR559_HkheEKDU5WiRerMvP4RVdjfh",
+      "metadata": "Walt HoldCo GmbH, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 06.03.2025 Sprache: Deutsch Befreite Unternehmen anzeigen Dr. Kleine Pharma GmbH, Bielefeld DISTRICON GmbH, Frankfurt am Main WindStar Medical GmbH, Frankfurt am Main L.A.B. Cosmetics GmbH, Hamburg WindStar Commercial Expert GmbH, Frankfurt am Main",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Walt HoldCo GmbH, Frankfurt am Main",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2025-01-10",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=v28mfXLj9cDlGTYZwKIL4rxkcV7i0DnIz7PhEuwwQN-1zi2bsuIEmJOGrym8L9Ow4EZ0_dF91s9z0Dl7UqCpWbDkrSiGZy-0F04lljPfwe4ytUzsAqJAmdLv3pVetykfCBXkBEpzBkJiXCpD9kOIEyXJRqEUGX3Izf0-vqn9_XEnDQ6WUxaOftVXUBsdjJ4PwFD4YRWrKigHHAVgwp-EA__5V1JJ_RhFZlKyfqANh7BiB9c3",
+      "metadata": "Walt HoldCo GmbH, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Berichtigung der Veröffentlichung vom 27.12.2023 Datum: 10.01.2025 Sprache: Deutsch Befreite Unternehmen anzeigen Dr. Kleine Pharma GmbH, Bielefeld DISTRICON GmbH, Frankfurt am Main Allmedica Arzneimittel GmbH, Hamburg WindStar Medical GmbH, Frankfurt am Main L.A.B. Cosmetics GmbH, Hamburg",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Allmedica Arzneimittel GmbH, Frankfurt am Main",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.08.2023",
+      "publication_date": "2024-02-06",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=CUCPTKaXfGYBiYdJjY4VcKRwzjOaQm33Utg8apctePXEhMN_laUcwJnvcNFnXMtUauOUZ64Ji62J6xDA24rt5IqehTnJ7RsoDRTQrTy90FbzGq7GxYk7pwJlRaOBRuAKU4KaJ5-s6_dXBDhM6k7EFLhMA1F6jeRsp0hJb6z7bKUym69vIOYrRNlAhHQZzBl5PdlC8H483ndD17oTzRh4o9QB5oLiAQbzS8bUVo_I7i6yNLB0",
+      "metadata": "Allmedica Arzneimittel GmbH, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.08.2023 WindStar Medical GmbH, Frankfurt am Main Datum: 06.02.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    }
+  ],
+  "date_from": "2024-01-01",
+  "date_to": "2026-11-25",
+  "excluded_dates": [],
+  "max_publications": 30,
+  "truncated": false,
+  "coverage": {
+    "search_complete": true,
+    "more_pages": false,
+    "publication_limit_reached": false,
+    "downloads_selected": 3,
+    "downloads_succeeded": 3,
+    "download_limit_reached": true,
+    "downloads_complete": false,
+    "text_complete": true
+  },
+  "publications": [
+    {
+      "company": "WindStar Medical GmbH, Frankfurt am Main",
+      "title": "Registerbekanntmachung nach dem Umwandlungsgesetz",
+      "publication_date": "2026-01-27",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=9fC8E2zRNbic4f7FgKkDscmc3YwEPWakPpANk2Ekd2woEAnx_TokEBoXcv2u8jdvVQJ9uRdwV5YUxlpfORGYREKEjfj2ORB7WLqcGd3MF3qig_4SyMLDo9_uj9EPwJvEiD_GqdlKjxVnM3hB-r-Chvea41nR2nvFGN0YmszeUpiVrD9eudOBaPkVvzfhH57x3_F0t_82Gcw4ke-ra5sRQaoCNiNID4kfhE9XacjXsapLK4hG",
+      "metadata": "WindStar Medical GmbH, Frankfurt am Main Registerbekanntmachungen Registerbekanntmachung nach dem Umwandlungsgesetz Datum: 27.01.2026 Sprache: Deutsch",
+      "source_area": "Registerbekanntmachungen",
+      "category": "bekanntmachungen",
+      "index": 1
+    },
+    {
+      "company": "WindStar Medical GmbH, Frankfurt am Main",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 30.06.2025",
+      "publication_date": "2025-09-10",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=8_qWLFcEZcWd0GZzeEPHaHFdgAXCpXXLPCp0K9mYwVd0T3DLOWaGGoSZvuxmRq9QABWWb_mhym0-6TRCmFYVNJw7_jDi31rOa4Z2QsQfQF7P6b46oyCkFlNVCZ4DmmZlO0kCODFa95j4sW-sgnvRUTO3IwKYjFinY2EyWv01C_BQ3-vOUrWI4pR-5KWANio-rN8a2m848eyW0B8c4gvgkOYxnlYQr_uhJe7df71pO3H8lrqH",
+      "metadata": "WindStar Medical GmbH, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 30.06.2025 Walt HoldCo GmbH, Frankfurt am Main Datum: 10.09.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "bekanntmachungen",
+      "index": 2
+    },
+    {
+      "company": "DISTRICON GmbH, Frankfurt am Main WindStar Medical GmbH, Frankfurt am Main Dr. Kleine Pharma GmbH, Bielefeld mehr",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 30.06.2025",
+      "publication_date": "2025-09-10",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=1pNhJMaijj4qGgYY4G36rLiDZX5VN-2vO6RTGPGcOwqXg7dUflzp-7Zwo0qjZdH9yRyJ7j3-VZs3eR2WkfsULk04lGgC5EBiCqzKvUF2tlnQd0SJK1zo1HKVTiVEss5Sui8pdhbfv3-W7rPrQ1XPwOn1RmeMKfYLZVM5lM2xVZOA5iPsk4Q0IQQVyrPUnjgT0U9Wg9UApz6hd1hEdNaQYL9LlP0S1_N-rXRKuiBJvXKTI2fB",
+      "metadata": "DISTRICON GmbH, Frankfurt am Main WindStar Medical GmbH, Frankfurt am Main Dr. Kleine Pharma GmbH, Bielefeld mehr Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 30.06.2025 Walt HoldCo GmbH, Frankfurt am Main Datum: 10.09.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "bekanntmachungen",
+      "index": 3
+    },
+    {
+      "company": "WindStar Medical GmbH, Frankfurt am Main",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-02-14",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=nEXjOj2B41Tgqbtr4lgL1R9vMh6GVMX78RVCuuVC-WgybO5UnTFyGv8L4GIaMMvODIYqqK930faXyqdC6Vzt6Pqm2JVFZSiotrtEpWT8L9Jz_dWw2ROkzTXGhvpltf7DTRVIv3HcU1CsI0yGN2dJ9vObuym2WrEuXao-6WKrEbZheIZOznCBVEMiKrh7ovl8JFOsBosMCI4fnrknOF-1RIGpbXTE_xoxJ7eK23pMgXzUiZ0F",
+      "metadata": "WindStar Medical GmbH, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Walt HoldCo GmbH, Frankfurt am Main Datum: 14.02.2025 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "bekanntmachungen",
+      "index": 4
+    },
+    {
+      "company": "WindStar Medical GmbH, Frankfurt am Main",
+      "title": "Erklärung zur Einstandspflicht gemäß § 264 Abs. 3 Satz 1 Nr. 2 HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-02-14",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=k6FRZwgcyYIYUmnnBzlKih6t1HQs90qyDpgCw-yv8EuHNOcQplVv7i2nUcmL6uOUAa0gAKI7Ou_yPRZJKioyNHBnUeV3Ssdw38D8uUz1ap8Wfun7--jqYkKfepreT2LsJYGTAFkEazf3w-eDB0f7pay_5f5SWu1G__bi1IBuP9Yl3XX35b9bgDcOyxm5SgPUifI8Z5WbUQ-EBNr8aCU9NgACM9SEDE-Siz9m9F-UZXa1L0jK",
+      "metadata": "WindStar Medical GmbH, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Erklärung zur Einstandspflicht gemäß § 264 Abs. 3 Satz 1 Nr. 2 HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Walt HoldCo GmbH, Frankfurt am Main Datum: 14.02.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "bekanntmachungen",
+      "index": 5
+    },
+    {
+      "company": "WindStar Medical GmbH, Frankfurt am Main",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2024-01-19",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=4QHTTTbeibdrYxTwToESKi7akjHpQ_0ryysQEUPmrw4ECGZSRtteCtphSWAs0GiuTfnLr8_OEAwBh8gspnpKLMOLsrVHxkVDEYuYmMFgnXJUSpFdnJYbQe5s4vJaeIv7so7fv_NwrTojfu25V7eG2QsHQZnbzIO7sZOIXreCDAbj96u4SkAkRA9irIjlV-REK3G4sq-UDz99Q6IgoLUaXIC7FNjsssbOQkvG1CXbCQoc44yd",
+      "metadata": "WindStar Medical GmbH, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Walt HoldCo GmbH, Frankfurt am Main Datum: 19.01.2024 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "bekanntmachungen",
+      "index": 6
+    }
+  ]
+}

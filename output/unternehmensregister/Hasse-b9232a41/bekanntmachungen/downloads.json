@@ -1,0 +1,20 @@
+[
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=9UFjJUm_20EhzeA7FYq-vPALzRtKdtFflE1vLFlRq2TnlCDnWV26-D-RVEj1sLAx1QdHHTjWERgx98_GJ9O8R63P0GKbfhx4B6teTiAvtLL4Y0hEI-BxlIpUkwyb4KWO0asyTbT2_CuRLsp_gqaM6kBhI89heIIOVKrrWKAmutNzCVhg4uBVsHr0rTxvEm0ZqGLeLSLc85usRGFAOh-ITIb-U2Bq75NsXfyw-DZr9E31ZRXL",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Hasse-b9232a41\\bekanntmachungen\\publication-1\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Hasse-b9232a41\\bekanntmachungen\\publication-1\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Hasse-b9232a41\\bekanntmachungen\\publication-1\\publication.txt",
+    "index": 1,
+    "category": "bekanntmachungen",
+    "company": "Dach-Solar Hasse und Sun GmbH, Uelzen",
+    "title": "Liquidation",
+    "documents_path": "output\\unternehmensregister\\Hasse-b9232a41\\bekanntmachungen\\publication-1\\documents.json"
+  }
+]

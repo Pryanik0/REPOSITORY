@@ -1,0 +1,723 @@
+{
+  "provider": "kununu",
+  "backend": "browser",
+  "status": "ok",
+  "query": "Stadt Köln",
+  "profile": {
+    "url": "https://www.kununu.com/de/stadt-koeln",
+    "name": "Stadt Köln",
+    "overall_score": 3.5,
+    "review_count": 659,
+    "recommendation_percent": 64,
+    "recommendation_period": "last_2_years",
+    "observed_at": "2026-11-25T17:16:44.987351+00:00"
+  },
+  "reviews": [
+    {
+      "id": "4da9e137-f3a4-49a2-889b-be039cd9ae3b",
+      "url": "https://www.kununu.com/de/stadt-koeln/bewertung/4da9e137-f3a4-49a2-889b-be039cd9ae3b",
+      "title": "Toller Arbeitgeber",
+      "content": "Das absolut beste an der Stadt Köln,\nals Arbeitgeber, ist , dass man einen sicheren Arbeitsplatz hat.\n\nDas alles immer so lange dauert und dass in anderen Ämtern Mobbing und schlechtes Vorgesetztenverhalten, trotz Beschwerden, keine Konsequenzen hat. Traurig.\n\nDie E- Akte schneller auf den Weg bringen und das Jobticket wieder einführen.\n\nSuper !!! Auch wenn viel Arbeit da ist, bleibt die Arbeitsatmosphäre immer angenehm.\n\nNach außen nicht besonders gut. Leider.\n\nWird zu 100% gelebt.\n\nIst im Moment nicht so gut. Nur wenn es unbedingt notwendig ist.\n\nPasst auf jeden Fall.\n\nAm Umweltbewusstsein muss noch gearbeitet werden. Zu viel Papierverbrauch. Muss in der heutigen Zeit nicht mehr sein. Aber das Sozialbewusstsein ist klasse.\n\nSehr stark.\n\nRücksichtsvoll.\n\nSehr sehr warmherzig und menschlich.\n\nSehr gut.\n\nImmer auf Augenhöhe.\n\nAuf jeden Fall.\n\nImmer mal wieder.",
+      "rating": 4.5,
+      "sections": {
+        "positive": "Das absolut beste an der Stadt Köln,\nals Arbeitgeber, ist , dass man einen sicheren Arbeitsplatz hat.",
+        "negative": "Das alles immer so lange dauert und dass in anderen Ämtern Mobbing und schlechtes Vorgesetztenverhalten, trotz Beschwerden, keine Konsequenzen hat. Traurig.",
+        "suggestion": "Die E- Akte schneller auf den Weg bringen und das Jobticket wieder einführen."
+      },
+      "factor_comments": {
+        "atmosphere": "Super !!! Auch wenn viel Arbeit da ist, bleibt die Arbeitsatmosphäre immer angenehm.",
+        "image": "Nach außen nicht besonders gut. Leider.",
+        "workLife": "Wird zu 100% gelebt.",
+        "career": "Ist im Moment nicht so gut. Nur wenn es unbedingt notwendig ist.",
+        "salary": "Passt auf jeden Fall.",
+        "environment": "Am Umweltbewusstsein muss noch gearbeitet werden. Zu viel Papierverbrauch. Muss in der heutigen Zeit nicht mehr sein. Aber das Sozialbewusstsein ist klasse.",
+        "teamwork": "Sehr stark.",
+        "oldColleagues": "Rücksichtsvoll.",
+        "leadership": "Sehr sehr warmherzig und menschlich.",
+        "workConditions": "Sehr gut.",
+        "communication": "Immer auf Augenhöhe.",
+        "equality": "Auf jeden Fall.",
+        "tasks": "Immer mal wieder."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 3.0,
+        "salary": 5.0,
+        "image": 1.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "0a90b405-9fca-4467-a763-1c7d45b4b03d",
+      "url": "https://www.kununu.com/de/stadt-koeln/bewertung/0a90b405-9fca-4467-a763-1c7d45b4b03d",
+      "title": "Eine vielseitige und für Gestaltung offene Arbeitgeberin",
+      "content": "Gut konstruktiv und gewährend\n\nLeider schlecht\n\nAbhängig von der Position\n\nGut\n\nAngemessene\n\nGut\n\nSehr gut\n\nSehr gut!\n\nGut\n\nGut manchmal hinter den technischen und IT Entwicklungen hinterher\n\nKönnte moderner sein\n\nJa manchmal berufsgruppenspezifische Ungleichheit\n\nJa auf jeden Fall",
+      "rating": 4.3,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Gut konstruktiv und gewährend",
+        "image": "Leider schlecht",
+        "workLife": "Abhängig von der Position",
+        "career": "Gut",
+        "salary": "Angemessene",
+        "environment": "Gut",
+        "teamwork": "Sehr gut",
+        "oldColleagues": "Sehr gut!",
+        "leadership": "Gut",
+        "workConditions": "Gut manchmal hinter den technischen und IT Entwicklungen hinterher",
+        "communication": "Könnte moderner sein",
+        "equality": "Ja manchmal berufsgruppenspezifische Ungleichheit",
+        "tasks": "Ja auf jeden Fall"
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 4.0,
+        "communication": 4.0,
+        "workConditions": 4.0,
+        "leadership": 4.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 4.0,
+        "salary": 4.0,
+        "image": 3.0,
+        "environment": 4.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-11-11T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "21b0e827-131d-49e7-a298-61c00ba738ba",
+      "url": "https://www.kununu.com/de/stadt-koeln/bewertung/21b0e827-131d-49e7-a298-61c00ba738ba",
+      "title": "Toxisches Betriebsklima - gedeckt und toleriert von der Stadt.",
+      "content": "Sorgt für Eure Mitarbeitenden!\n\nHabe ich als toxisch wahrgenommen.\n\nSolange man in der deutschen Theaterlandschaft ein solches Führungsverhalten akzeptiert, wird sich hier nichts ändern.\n\nHabe ich katastrophal empfunden. Führungsqualitäten kaum vorhanden. Aber das ist ja im Falle der Bühnen der Stadt Köln allgemein und bundesweit bekannt.",
+      "rating": 1.6,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": "Sorgt für Eure Mitarbeitenden!"
+      },
+      "factor_comments": {
+        "atmosphere": "Habe ich als toxisch wahrgenommen.",
+        "image": "Solange man in der deutschen Theaterlandschaft ein solches Führungsverhalten akzeptiert, wird sich hier nichts ändern.",
+        "leadership": "Habe ich katastrophal empfunden. Führungsqualitäten kaum vorhanden. Aber das ist ja im Falle der Bühnen der Stadt Köln allgemein und bundesweit bekannt."
+      },
+      "factor_scores": {
+        "atmosphere": 1.0,
+        "workLife": 2.0,
+        "communication": 1.0,
+        "workConditions": 1.0,
+        "leadership": 1.0,
+        "teamwork": 3.0,
+        "oldColleagues": 1.0,
+        "equality": 3.0,
+        "career": 1.0,
+        "salary": 2.0,
+        "image": 1.0,
+        "environment": 1.0,
+        "tasks": 3.0
+      },
+      "published_at": "2026-11-09T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "da33244e-e217-456c-8b61-87b1c26b1cdc",
+      "url": "https://www.kununu.com/de/stadt-koeln/bewertung/da33244e-e217-456c-8b61-87b1c26b1cdc",
+      "title": "Es wird sich nichts ändern",
+      "content": "Den kostenlosen Nachschlag in der Kantine\n\nIn den eigenen Reihen aufräumen\n\nUngesund\n\nWahnsinnig gut nach Außen\n\nWork-work-Balance\n\nBenefits: Auf Premieren bekommt man ein Freigetränk\n\nAusbaufähig\n\nDie Wände haben Ohren.\n\nGewaltfreie Kommunikation sollte auch von denen ausgeführt werden, die andere in solche Seminare schicken.\n\nMan erhält Arbeitskleidung\n\nDas kleinste Rädchen am Wagen hat nur auszuführen. Kommunikation von oben herab.\n\nNach Beliebtheitsskala",
+      "rating": 1.6,
+      "sections": {
+        "positive": "Den kostenlosen Nachschlag in der Kantine",
+        "negative": null,
+        "suggestion": "In den eigenen Reihen aufräumen"
+      },
+      "factor_comments": {
+        "atmosphere": "Ungesund",
+        "image": "Wahnsinnig gut nach Außen",
+        "workLife": "Work-work-Balance",
+        "salary": "Benefits: Auf Premieren bekommt man ein Freigetränk",
+        "environment": "Ausbaufähig",
+        "teamwork": "Die Wände haben Ohren.",
+        "leadership": "Gewaltfreie Kommunikation sollte auch von denen ausgeführt werden, die andere in solche Seminare schicken.",
+        "workConditions": "Man erhält Arbeitskleidung",
+        "communication": "Das kleinste Rädchen am Wagen hat nur auszuführen. Kommunikation von oben herab.",
+        "equality": "Nach Beliebtheitsskala"
+      },
+      "factor_scores": {
+        "atmosphere": 1.0,
+        "workLife": 1.0,
+        "communication": 1.0,
+        "workConditions": 1.0,
+        "leadership": 1.0,
+        "teamwork": 3.0,
+        "oldColleagues": 3.0,
+        "equality": 2.0,
+        "career": 1.0,
+        "salary": 1.0,
+        "image": 1.0,
+        "environment": 1.0,
+        "tasks": 4.0
+      },
+      "published_at": "2026-11-09T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "640cd017-b7e7-4540-9f4e-06002f0952bf",
+      "url": "https://www.kununu.com/de/stadt-koeln/bewertung/640cd017-b7e7-4540-9f4e-06002f0952bf",
+      "title": "Guter Arbeitgeber",
+      "content": "Flexible Arbeitszeiten und HO\n\nMehr Weiterbildung",
+      "rating": 3.4,
+      "sections": {
+        "positive": "Flexible Arbeitszeiten und HO",
+        "negative": null,
+        "suggestion": "Mehr Weiterbildung"
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 4.0,
+        "communication": 4.0,
+        "workConditions": 4.0,
+        "leadership": 4.0,
+        "teamwork": 3.0,
+        "oldColleagues": 3.0,
+        "equality": 4.0,
+        "career": 2.0,
+        "salary": 2.0,
+        "image": 3.0,
+        "environment": 4.0,
+        "tasks": 3.0
+      },
+      "published_at": "2026-10-26T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "8405a1c8-433f-455e-8f12-cd1cd2d7b546",
+      "url": "https://www.kununu.com/de/stadt-koeln/bewertung/8405a1c8-433f-455e-8f12-cd1cd2d7b546",
+      "title": "Nicht zu empfehlen wenn man nicht weiblich ist.",
+      "content": "Kein Kommentar\n\nKein Kommentar\n\nKein Kommentar\n\nKein Kommentar\n\nKein Kommentar\n\nKein Kommentar\n\nKein Kommentar\n\nKein Kommentar\n\nKein Kommentar\n\nViel Arbeit sehr hoher Stress Level Dauerbelastung\n\nKein Kommentar\n\nFrauen werden bevorzugt\n\nKein Kommentar",
+      "rating": 2.3,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Kein Kommentar",
+        "image": "Kein Kommentar",
+        "workLife": "Kein Kommentar",
+        "career": "Kein Kommentar",
+        "salary": "Kein Kommentar",
+        "environment": "Kein Kommentar",
+        "teamwork": "Kein Kommentar",
+        "oldColleagues": "Kein Kommentar",
+        "leadership": "Kein Kommentar",
+        "workConditions": "Viel Arbeit sehr hoher Stress Level Dauerbelastung",
+        "communication": "Kein Kommentar",
+        "equality": "Frauen werden bevorzugt",
+        "tasks": "Kein Kommentar"
+      },
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 3.0,
+        "communication": 3.0,
+        "workConditions": 2.0,
+        "leadership": 2.0,
+        "teamwork": 3.0,
+        "oldColleagues": 2.0,
+        "equality": 2.0,
+        "career": 2.0,
+        "salary": 2.0,
+        "image": 2.0,
+        "environment": 2.0,
+        "tasks": 2.0
+      },
+      "published_at": "2026-10-23T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "d98651a6-d21f-4c2e-be58-567d681fd635",
+      "url": "https://www.kununu.com/de/stadt-koeln/bewertung/d98651a6-d21f-4c2e-be58-567d681fd635",
+      "title": "Alles super",
+      "content": "Jut\n\nOkay",
+      "rating": 3.3,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Jut",
+        "communication": "Okay"
+      },
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 3.0,
+        "communication": 4.0,
+        "workConditions": 3.0,
+        "leadership": 4.0,
+        "teamwork": 3.0,
+        "oldColleagues": 4.0,
+        "equality": 3.0,
+        "career": 4.0,
+        "salary": 3.0,
+        "image": 3.0,
+        "environment": 2.0,
+        "tasks": 3.0
+      },
+      "published_at": "2026-10-15T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "ab30dae6-0d4d-4802-b62f-f14a2e35d173",
+      "url": "https://www.kununu.com/de/stadt-koeln/bewertung/ab30dae6-0d4d-4802-b62f-f14a2e35d173",
+      "title": "Toller Arbeitgeber mit vielen Interessenten Aufgabenbereichen",
+      "content": "Seine Arbeitszeit kann man sich sehr flexibel einteilen.\n\nMan weiß sehr transparent was man verdient.\n\nMan kann froh sein einen Stuhl und einen Schreibtisch zu haben. Viele Kollegen sitzen auf kaputten und dreckigen Stühlen. Leider gibt es kein Budget für ordentliche Bürostühle.\n\nFrauen halten nicht zusammen und die Herren nutzen das gnadenlos um sie auszubremsen.\n\nVielfältige interessante Aufgaben",
+      "rating": 1.5,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "workLife": "Seine Arbeitszeit kann man sich sehr flexibel einteilen.",
+        "salary": "Man weiß sehr transparent was man verdient.",
+        "workConditions": "Man kann froh sein einen Stuhl und einen Schreibtisch zu haben. Viele Kollegen sitzen auf kaputten und dreckigen Stühlen. Leider gibt es kein Budget für ordentliche Bürostühle.",
+        "equality": "Frauen halten nicht zusammen und die Herren nutzen das gnadenlos um sie auszubremsen.",
+        "tasks": "Vielfältige interessante Aufgaben"
+      },
+      "factor_scores": {
+        "atmosphere": 1.0,
+        "workLife": 4.0,
+        "communication": 1.0,
+        "workConditions": 1.0,
+        "leadership": 1.0,
+        "teamwork": 2.0,
+        "oldColleagues": 1.0,
+        "equality": 1.0,
+        "career": 1.0,
+        "salary": 1.0,
+        "image": 1.0,
+        "environment": 1.0,
+        "tasks": 3.0
+      },
+      "published_at": "2026-10-13T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "52e1b140-29b0-4d99-9c54-62f1645b81ea",
+      "url": "https://www.kununu.com/de/stadt-koeln/bewertung/52e1b140-29b0-4d99-9c54-62f1645b81ea",
+      "title": "Gehalt Vergleich",
+      "content": "Sichere Arbeit\n\nDas Miteinander ist schlecht\n\nBessere Kommunikation",
+      "rating": 3.9,
+      "sections": {
+        "positive": "Sichere Arbeit",
+        "negative": "Das Miteinander ist schlecht",
+        "suggestion": "Bessere Kommunikation"
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 4.0,
+        "communication": 3.0,
+        "workConditions": 4.0,
+        "leadership": 3.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 4.0,
+        "salary": 3.0,
+        "image": 4.0,
+        "environment": 3.0,
+        "tasks": 4.0
+      },
+      "published_at": "2026-09-29T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "f76c3c77-ca1a-4fbb-9269-e85182863ff4",
+      "url": "https://www.kununu.com/de/stadt-koeln/bewertung/f76c3c77-ca1a-4fbb-9269-e85182863ff4",
+      "title": "Projektleitung Stadt",
+      "content": "Flexibilität\n\nZuviel innerer Hürden, Bearbeitung verzögert sich um Jahre\n\nInnere Hürden abbauen",
+      "rating": 4.3,
+      "sections": {
+        "positive": "Flexibilität",
+        "negative": "Zuviel innerer Hürden, Bearbeitung verzögert sich um Jahre",
+        "suggestion": "Innere Hürden abbauen"
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 5.0,
+        "communication": 4.0,
+        "workConditions": 5.0,
+        "leadership": 4.0,
+        "teamwork": 4.0,
+        "oldColleagues": 5.0,
+        "equality": 4.0,
+        "career": 5.0,
+        "salary": 4.0,
+        "image": 3.0,
+        "environment": 4.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-09-29T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "f0e87a78-ac7a-48de-8796-389b0b4d9589",
+      "url": "https://www.kununu.com/de/stadt-koeln/bewertung/f0e87a78-ac7a-48de-8796-389b0b4d9589",
+      "title": "Die Stadt",
+      "content": "Man kann frei Arbeiten\n\nKein Feedback, keine Wertschätzung\n\nWertschätzung und Respekt wären ein Anfang\n\nGut bis schlecht, alles dabei\n\nGanz Schlecht\n\nNa ja\n\nMan kommt zurecht\n\nImmer öfters\n\nSuper\n\nRespektvoll\n\nDurchwachsen\n\nIst halt Aussendienst bei jedem Wetter\n\nErst über 2-3 Ecken\n\nEinige sind gleicher.....\n\nAuf jeden Fall immer was neues",
+      "rating": 2.8,
+      "sections": {
+        "positive": "Man kann frei Arbeiten",
+        "negative": "Kein Feedback, keine Wertschätzung",
+        "suggestion": "Wertschätzung und Respekt wären ein Anfang"
+      },
+      "factor_comments": {
+        "atmosphere": "Gut bis schlecht, alles dabei",
+        "image": "Ganz Schlecht",
+        "workLife": "Na ja",
+        "salary": "Man kommt zurecht",
+        "environment": "Immer öfters",
+        "teamwork": "Super",
+        "oldColleagues": "Respektvoll",
+        "leadership": "Durchwachsen",
+        "workConditions": "Ist halt Aussendienst bei jedem Wetter",
+        "communication": "Erst über 2-3 Ecken",
+        "equality": "Einige sind gleicher.....",
+        "tasks": "Auf jeden Fall immer was neues"
+      },
+      "factor_scores": {
+        "atmosphere": 2.0,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-09-12T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "3a3d7c5c-6d94-4e94-af40-1109d8652c20",
+      "url": "https://www.kununu.com/de/stadt-koeln/bewertung/3a3d7c5c-6d94-4e94-af40-1109d8652c20",
+      "title": "Hohe Führungspositionen meist fehl-besetzt",
+      "content": "Im engen Kollegenkreis okay durch Führungskräfte kalt\n\nRahmen.iat gut\n\nZu viel denken an eigenem Interesse\n\nZu geringe Wertschätzung der Erfahrung\n\nIn den letzten Jahren Qualität nachgelassen\n\nKatastrophal\n\nZu viel Nasenfaktor",
+      "rating": 2.4,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Im engen Kollegenkreis okay durch Führungskräfte kalt",
+        "workLife": "Rahmen.iat gut",
+        "teamwork": "Zu viel denken an eigenem Interesse",
+        "oldColleagues": "Zu geringe Wertschätzung der Erfahrung",
+        "leadership": "In den letzten Jahren Qualität nachgelassen",
+        "communication": "Katastrophal",
+        "equality": "Zu viel Nasenfaktor"
+      },
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 3.0,
+        "communication": 1.0,
+        "workConditions": 2.0,
+        "leadership": 1.0,
+        "teamwork": 2.0,
+        "oldColleagues": 2.0,
+        "equality": 3.0,
+        "career": 2.0,
+        "salary": 3.0,
+        "image": 2.0,
+        "environment": 2.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-09-08T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "4909b742-61a6-4dba-a700-d31bb1a6dc64",
+      "url": "https://www.kununu.com/de/stadt-koeln/bewertung/4909b742-61a6-4dba-a700-d31bb1a6dc64",
+      "title": "Interessante und wichtige Arbeit, aber schwierige Rahmenbedingungen",
+      "content": "Die Arbeitsatmosphäre im Jugendamt ist vor allem durch den starken Zusammenhalt unter den Mitarbeitenden geprägt.\nVon Seiten der Vorgesetzten wünsche ich mir hingegen mehr Unterstützung und Rückhalt. Insgesamt wird die positive Atmosphäre daher vor allem durch den Zusammenhalt der Mitarbeitenden getragen.\n\nÜberstunden gehören aufgrund des hohen Arbeitsaufwands zum Arbeitsalltag, um dem anfallenden Arbeitspensum gerecht zu werden. In vielen Teams gibt es offene und nicht besetzte Stellen. Die dadurch entstehende zusätzliche Arbeitsbelastung muss von den vorhandenen Mitarbeitenden aufgefangen werden und führt zu erheblicher Mehrarbeit. Eine ausgewogene Work-Life-Balance ist unter diesen Bedingungen nur schwer möglich.\n\nDas Gehalt ist aus meiner Sicht durch die Vergütung nach TVöD grundsätzlich gut. Bei den zusätzlichen Benefits und der Wertschätzung gibt es jedoch noch deutlich Luft nach oben. Besonders schade ist, dass das Deutschlandticket nicht mehr bezuschusst wird, obwohl der ÖPNV für viele Mitarbeitende im Arbeitsalltag eine wichtige Rolle spielt. Auch Weihnachtsfeiern werden regelmäßig abgesagt. Insgesamt könnten Wertschätzung und zusätzliche Benefits deutlich stärker ausgeprägt sein.\n\nHoher Papierverbrauch und keine Digitalisierung.\n\nDer Kollegenzusammenhalt ist sehr groß. Auch bei hoher Arbeitsbelastung unterstützen sich die Mitarbeitenden gegenseitig und helfen einander, wo es möglich ist.\n\nNicht alle Leitungsstellen sind besetzt und die vorhandenen Leitungskräfte wirken im Arbeitsalltag teilweise wenig ansprechbar. Bei der hohen Arbeitsbelastung fehlt es an ausreichender Unterstützung und Rückendeckung. Gleichzeitig wurde aus meiner Sicht zu wenig dafür getan, die personelle Unterbesetzung und die daraus entstehenden Belastungen nach außen sichtbar zu machen.\nBei fachlichen Fragen ist grundsätzlich Unterstützung möglich, sofern dafür die notwendige Zeit vorhanden ist.\nAuch auf zwischenmenschlicher Ebene erlebe ich das Führungsverhalten als schwierig. Persönliche Befindlichkeiten und Belastungen der Führungskraft werden teilweise gegenüber Mitarbeitenden thematisiert und nehmen in Gesprächen einen unangemessenen Raum ein. Auch Äußerungen über Mitarbeitende hinter deren Rücken und ein teilweise lästernder Umgang wirken unprofessionell und beeinträchtigen das Vertrauen. Insgesamt fehlt es aus meiner Sicht an professioneller Distanz, Wertschätzung und einer unterstützenden Führungskultur.\n\nPositiv ist, dass überwiegend ausreichend große Büroräume zur Verfügung stehen. Diese sind jedoch wenig ansprechend gestaltet und schaffen keine besonders angenehme Arbeitsatmosphäre. Es wird kein kostenloses Wasser für die Mitarbeitenden zur Verfügung gestellt. Im Sommer müssen sich auf eigene Kosten Ventilatoren angeschafft werden, wenn diese erwünscht sind.\nFür das Homeoffice werden keine Laptops zur Verfügung gestellt, sodass private Geräte genutzt werden müssen.\nEs gibt keine kostenlosen Parkplätze.\n\nDie Kommunikation innerhalb der Teams funktioniert grundsätzlich gut und wichtige Informationen werden untereinander weitergegeben.\nVon Seiten der Führungsebene fehlt es jedoch teilweise an transparenter und zeitnaher Kommunikation. Entscheidungen und Veränderungen werden nicht immer ausreichend nachvollziehbar vermittelt.\n\nDie Aufgaben sind sehr abwechslungsreich und inhaltlich interessant. Gleichzeitig nimmt die umfangreiche Dokumentation viel Zeit in Anspruch. Hier könnten zeitgemäßere digitale Lösungen und technische Hilfsmittel die Arbeitsabläufe deutlich erleichtern und effizienter gestalten.",
+      "rating": 2.9,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Die Arbeitsatmosphäre im Jugendamt ist vor allem durch den starken Zusammenhalt unter den Mitarbeitenden geprägt.\nVon Seiten der Vorgesetzten wünsche ich mir hingegen mehr Unterstützung und Rückhalt. Insgesamt wird die positive Atmosphäre daher vor allem durch den Zusammenhalt der Mitarbeitenden getragen.",
+        "workLife": "Überstunden gehören aufgrund des hohen Arbeitsaufwands zum Arbeitsalltag, um dem anfallenden Arbeitspensum gerecht zu werden. In vielen Teams gibt es offene und nicht besetzte Stellen. Die dadurch entstehende zusätzliche Arbeitsbelastung muss von den vorhandenen Mitarbeitenden aufgefangen werden und führt zu erheblicher Mehrarbeit. Eine ausgewogene Work-Life-Balance ist unter diesen Bedingungen nur schwer möglich.",
+        "salary": "Das Gehalt ist aus meiner Sicht durch die Vergütung nach TVöD grundsätzlich gut. Bei den zusätzlichen Benefits und der Wertschätzung gibt es jedoch noch deutlich Luft nach oben. Besonders schade ist, dass das Deutschlandticket nicht mehr bezuschusst wird, obwohl der ÖPNV für viele Mitarbeitende im Arbeitsalltag eine wichtige Rolle spielt. Auch Weihnachtsfeiern werden regelmäßig abgesagt. Insgesamt könnten Wertschätzung und zusätzliche Benefits deutlich stärker ausgeprägt sein.",
+        "environment": "Hoher Papierverbrauch und keine Digitalisierung.",
+        "teamwork": "Der Kollegenzusammenhalt ist sehr groß. Auch bei hoher Arbeitsbelastung unterstützen sich die Mitarbeitenden gegenseitig und helfen einander, wo es möglich ist.",
+        "leadership": "Nicht alle Leitungsstellen sind besetzt und die vorhandenen Leitungskräfte wirken im Arbeitsalltag teilweise wenig ansprechbar. Bei der hohen Arbeitsbelastung fehlt es an ausreichender Unterstützung und Rückendeckung. Gleichzeitig wurde aus meiner Sicht zu wenig dafür getan, die personelle Unterbesetzung und die daraus entstehenden Belastungen nach außen sichtbar zu machen.\nBei fachlichen Fragen ist grundsätzlich Unterstützung möglich, sofern dafür die notwendige Zeit vorhanden ist.\nAuch auf zwischenmenschlicher Ebene erlebe ich das Führungsverhalten als schwierig. Persönliche Befindlichkeiten und Belastungen der Führungskraft werden teilweise gegenüber Mitarbeitenden thematisiert und nehmen in Gesprächen einen unangemessenen Raum ein. Auch Äußerungen über Mitarbeitende hinter deren Rücken und ein teilweise lästernder Umgang wirken unprofessionell und beeinträchtigen das Vertrauen. Insgesamt fehlt es aus meiner Sicht an professioneller Distanz, Wertschätzung und einer unterstützenden Führungskultur.",
+        "workConditions": "Positiv ist, dass überwiegend ausreichend große Büroräume zur Verfügung stehen. Diese sind jedoch wenig ansprechend gestaltet und schaffen keine besonders angenehme Arbeitsatmosphäre. Es wird kein kostenloses Wasser für die Mitarbeitenden zur Verfügung gestellt. Im Sommer müssen sich auf eigene Kosten Ventilatoren angeschafft werden, wenn diese erwünscht sind.\nFür das Homeoffice werden keine Laptops zur Verfügung gestellt, sodass private Geräte genutzt werden müssen.\nEs gibt keine kostenlosen Parkplätze.",
+        "communication": "Die Kommunikation innerhalb der Teams funktioniert grundsätzlich gut und wichtige Informationen werden untereinander weitergegeben.\nVon Seiten der Führungsebene fehlt es jedoch teilweise an transparenter und zeitnaher Kommunikation. Entscheidungen und Veränderungen werden nicht immer ausreichend nachvollziehbar vermittelt.",
+        "tasks": "Die Aufgaben sind sehr abwechslungsreich und inhaltlich interessant. Gleichzeitig nimmt die umfangreiche Dokumentation viel Zeit in Anspruch. Hier könnten zeitgemäßere digitale Lösungen und technische Hilfsmittel die Arbeitsabläufe deutlich erleichtern und effizienter gestalten."
+      },
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": 3.0,
+        "workConditions": 2.0,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": 4.0,
+        "equality": 5.0,
+        "career": 3.0,
+        "salary": null,
+        "image": 3.0,
+        "environment": null,
+        "tasks": 4.0
+      },
+      "published_at": "2026-09-02T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "c42c3e64-73f4-4af1-889d-132432c28c41",
+      "url": "https://www.kununu.com/de/stadt-koeln/bewertung/c42c3e64-73f4-4af1-889d-132432c28c41",
+      "title": "Vom wiederholten Hilferuf zur völligen Verzweiflung – die Situation eines Mitarbeiters",
+      "content": "Leider nein es ist in Bürgerbüro alles sehr stressig, stickig und überfordern.\n\nDass die eigenen Anliegen, die persönlichen Probleme, die berufliche Entwicklung sowie die emotionale und menschliche Belastung eines Mitarbeiters derart ignoriert und vollständig übergangen werden, ist für mich mittlerweile kaum noch zu ertragen. Man hat das Gefühl, dass die eigene Situation überhaupt keine Rolle spielt und man trotz der offensichtlichen Belastung einfach weiterhin in dieser Schicht und in diesem Umfeld gelassen wird.\nDiese anhaltende Situation führt dazu, dass man sich zunehmend hilflos, wertlos und völlig allein gelassen fühlt. Die psychische Belastung ist inzwischen so extrem geworden, dass sie mich an einen Punkt gebracht hat, an dem Gedanken entstehen, die mir selbst Angst machen und bei denen es um die eigene Existenz und das eigene Leben geht. Es ist für mich unbegreiflich, dass trotz dieser deutlichen Warnsignale und der mehrfach angesprochenen Probleme keine ausreichende Unterstützung oder Veränderung erfolgt. Es kann nicht sein, dass ein Mitarbeiter erst vollständig zusammenbrechen muss, bevor seine persönliche Situation und seine psychische Belastung ernst genommen werden.\n\nBitte fahren Sie nicht nach dem Prinzip „erst einen Nachweis erbringen, dann wird gehandelt“, wenn es um die Gesundheit und die Situation eines Mitarbeiters geht. Von einem Mitarbeiter zunächst eine ärztliche Bescheinigung zu verlangen, damit überhaupt anerkannt wird, dass eine psychische Belastung besteht und ein Wechsel des Arbeitsplatzes erforderlich sein könnte, empfinde ich als lächerlich und unmenschlich.\nMitarbeiter sollten nicht erst völlig verzweifeln oder gesundheitlich zusammenbrechen müssen, bevor ihre Situation ernst genommen wird. Ein Arbeitgeber hat meiner Meinung nach auch die Verantwortung, seine Mitarbeiter zu schützen, ihre Belastungen ernst zu nehmen und rechtzeitig Unterstützung anzubieten.\n\nLeider auch nicht möglich, man kommt nie weiter oder man hat die Möglichkeit nicht sich weiterzuentwickeln, alles wird immer abgelehnt.\n\nAlle denken, dass die Stadt gut zahlt, leider stimmt das alles nicht. Man verdient sehr schlecht.\n\nExistiert nicht.\n\nLeider nicht gut.\n\nFindet nie statt.",
+      "rating": 1.0,
+      "sections": {
+        "positive": "Leider nein es ist in Bürgerbüro alles sehr stressig, stickig und überfordern.",
+        "negative": "Dass die eigenen Anliegen, die persönlichen Probleme, die berufliche Entwicklung sowie die emotionale und menschliche Belastung eines Mitarbeiters derart ignoriert und vollständig übergangen werden, ist für mich mittlerweile kaum noch zu ertragen. Man hat das Gefühl, dass die eigene Situation überhaupt keine Rolle spielt und man trotz der offensichtlichen Belastung einfach weiterhin in dieser Schicht und in diesem Umfeld gelassen wird.\nDiese anhaltende Situation führt dazu, dass man sich zunehmend hilflos, wertlos und völlig allein gelassen fühlt. Die psychische Belastung ist inzwischen so extrem geworden, dass sie mich an einen Punkt gebracht hat, an dem Gedanken entstehen, die mir selbst Angst machen und bei denen es um die eigene Existenz und das eigene Leben geht. Es ist für mich unbegreiflich, dass trotz dieser deutlichen Warnsignale und der mehrfach angesprochenen Probleme keine ausreichende Unterstützung oder Veränderung erfolgt. Es kann nicht sein, dass ein Mitarbeiter erst vollständig zusammenbrechen muss, bevor seine persönliche Situation und seine psychische Belastung ernst genommen werden.",
+        "suggestion": "Bitte fahren Sie nicht nach dem Prinzip „erst einen Nachweis erbringen, dann wird gehandelt“, wenn es um die Gesundheit und die Situation eines Mitarbeiters geht. Von einem Mitarbeiter zunächst eine ärztliche Bescheinigung zu verlangen, damit überhaupt anerkannt wird, dass eine psychische Belastung besteht und ein Wechsel des Arbeitsplatzes erforderlich sein könnte, empfinde ich als lächerlich und unmenschlich.\nMitarbeiter sollten nicht erst völlig verzweifeln oder gesundheitlich zusammenbrechen müssen, bevor ihre Situation ernst genommen wird. Ein Arbeitgeber hat meiner Meinung nach auch die Verantwortung, seine Mitarbeiter zu schützen, ihre Belastungen ernst zu nehmen und rechtzeitig Unterstützung anzubieten."
+      },
+      "factor_comments": {
+        "career": "Leider auch nicht möglich, man kommt nie weiter oder man hat die Möglichkeit nicht sich weiterzuentwickeln, alles wird immer abgelehnt.",
+        "salary": "Alle denken, dass die Stadt gut zahlt, leider stimmt das alles nicht. Man verdient sehr schlecht.",
+        "teamwork": "Existiert nicht.",
+        "oldColleagues": "Leider nicht gut.",
+        "communication": "Findet nie statt."
+      },
+      "factor_scores": {
+        "atmosphere": 1.0,
+        "workLife": 1.0,
+        "communication": 1.0,
+        "workConditions": 1.0,
+        "leadership": 1.0,
+        "teamwork": 1.0,
+        "oldColleagues": 1.0,
+        "equality": 1.0,
+        "career": 1.0,
+        "salary": 1.0,
+        "image": 1.0,
+        "environment": 1.0,
+        "tasks": 1.0
+      },
+      "published_at": "2026-09-02T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "3c430170-33ed-49f1-843f-cce029940e3d",
+      "url": "https://www.kununu.com/de/stadt-koeln/bewertung/3c430170-33ed-49f1-843f-cce029940e3d",
+      "title": "Kann ich nicht enpfehlen",
+      "content": "Das Gehalt kommt pünktlich.\n\ns.o.\n\nKlare und offene Kommunikation! MitarbeiterInnen ernst nehmen!\n\nIch habe die Atmosphäre als sehr belastend empfunden. Es zeigen sich keine Perspektiven für Verbesserungen. Viele Aufgaben, wenig Ressourcen. Anhaltend hohe Krankenstände. Keine zeitgemäße Kommunikation mit den MitarbeiterInnen.\n\nlol\n\nIst okay. Meistens pünktlich Feierabend. Gleitzeit war eine Illusion.\n\nAn Karriere bin ich nicht interessiert, an Weiterbildung schon. Darauf wird bei der Stadt wenig Wert gelegt. Fortbildungsbudget? Kaum der Rede Wert. wirklich schade, dass so wenig Wert auf fachliche Weiterentwicklung gelegt zu werden scheint.\n\nNach Tarif. Benefits kompensieren die Defizite der Arbeitsrealität nicht.\n\nPapier, Papier, Papier\n\nDas Team war wirklich super. Sehr professionell und gleichzeitig menschlich. Die einzige echte Ressource während meiner Tätigkeit bei der Stadt Köln. Die Teamkonstellation war im Endeffekt aber eher einem glücklichen Zufall geschuldet. Intentional passiert wenig in Richtung Teambuildung etc.\n\nk.a.\n\nHabe ich als sehr enttäuschend erlebt. Auch auf der Ebene gibt es natürlich Arbeitsüberlastung und all die Probleme der Ebenen darunter. Dennoch hätte ich mit in Fragen z.B. moderner Leitungskompetenz, zeitgemäßer Ansprache der MitarbeiterInnen u.ä. deutlich mehr erwartet.\n\nIch erwarte ja keine topmoderne Dienststelle, insb. wenn ich auf die anderen Bedarfe innerhalb der Stadt schaue. Aber nur mal als Beispiel: Toilettentür liess sich im ersten Jahr gar nicht abschließen. Sanitäre Anlagen wirklich unmöglich.\n\nSehr häufig Abwesenheit von Kommunikation, wenn diese eigentlich erforderlich ogewesen wäre. Inkohärente Aussagen von Leitungen. Ich habe Kommunikationsangebote auch selten als aufrichtig wahrgenommen. Häufig handelt es sich um Formate von Scheinpartizipation.\n\nk.a.\n\nDas Wesen meiner Arbeit beinhaltet nunmal interessante Aufgaben. Das ist aber unabhängig von dieser Arbeitstelle der Fall.",
+      "rating": 2.7,
+      "sections": {
+        "positive": "Das Gehalt kommt pünktlich.",
+        "negative": "s.o.",
+        "suggestion": "Klare und offene Kommunikation! MitarbeiterInnen ernst nehmen!"
+      },
+      "factor_comments": {
+        "atmosphere": "Ich habe die Atmosphäre als sehr belastend empfunden. Es zeigen sich keine Perspektiven für Verbesserungen. Viele Aufgaben, wenig Ressourcen. Anhaltend hohe Krankenstände. Keine zeitgemäße Kommunikation mit den MitarbeiterInnen.",
+        "image": "lol",
+        "workLife": "Ist okay. Meistens pünktlich Feierabend. Gleitzeit war eine Illusion.",
+        "career": "An Karriere bin ich nicht interessiert, an Weiterbildung schon. Darauf wird bei der Stadt wenig Wert gelegt. Fortbildungsbudget? Kaum der Rede Wert. wirklich schade, dass so wenig Wert auf fachliche Weiterentwicklung gelegt zu werden scheint.",
+        "salary": "Nach Tarif. Benefits kompensieren die Defizite der Arbeitsrealität nicht.",
+        "environment": "Papier, Papier, Papier",
+        "teamwork": "Das Team war wirklich super. Sehr professionell und gleichzeitig menschlich. Die einzige echte Ressource während meiner Tätigkeit bei der Stadt Köln. Die Teamkonstellation war im Endeffekt aber eher einem glücklichen Zufall geschuldet. Intentional passiert wenig in Richtung Teambuildung etc.",
+        "oldColleagues": "k.a.",
+        "leadership": "Habe ich als sehr enttäuschend erlebt. Auch auf der Ebene gibt es natürlich Arbeitsüberlastung und all die Probleme der Ebenen darunter. Dennoch hätte ich mit in Fragen z.B. moderner Leitungskompetenz, zeitgemäßer Ansprache der MitarbeiterInnen u.ä. deutlich mehr erwartet.",
+        "workConditions": "Ich erwarte ja keine topmoderne Dienststelle, insb. wenn ich auf die anderen Bedarfe innerhalb der Stadt schaue. Aber nur mal als Beispiel: Toilettentür liess sich im ersten Jahr gar nicht abschließen. Sanitäre Anlagen wirklich unmöglich.",
+        "communication": "Sehr häufig Abwesenheit von Kommunikation, wenn diese eigentlich erforderlich ogewesen wäre. Inkohärente Aussagen von Leitungen. Ich habe Kommunikationsangebote auch selten als aufrichtig wahrgenommen. Häufig handelt es sich um Formate von Scheinpartizipation.",
+        "equality": "k.a.",
+        "tasks": "Das Wesen meiner Arbeit beinhaltet nunmal interessante Aufgaben. Das ist aber unabhängig von dieser Arbeitstelle der Fall."
+      },
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-08-31T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    }
+  ],
+  "review_limit": 15,
+  "review_period": {
+    "since": "2024-11-25T00:00:00+00:00",
+    "until": "2026-11-25T17:16:42.976373+00:00",
+    "date_field": "published_at",
+    "missing_dates": "excluded"
+  },
+  "factor_scores_aggregated": {
+    "atmosphere": {
+      "mean": 2.92,
+      "count": 13
+    },
+    "workLife": {
+      "mean": 3.25,
+      "count": 12
+    },
+    "communication": {
+      "mean": 2.69,
+      "count": 13
+    },
+    "workConditions": {
+      "mean": 2.69,
+      "count": 13
+    },
+    "leadership": {
+      "mean": 2.58,
+      "count": 12
+    },
+    "teamwork": {
+      "mean": 3.25,
+      "count": 12
+    },
+    "oldColleagues": {
+      "mean": 3.15,
+      "count": 13
+    },
+    "equality": {
+      "mean": 3.31,
+      "count": 13
+    },
+    "career": {
+      "mean": 2.54,
+      "count": 13
+    },
+    "salary": {
+      "mean": 2.58,
+      "count": 12
+    },
+    "image": {
+      "mean": 2.15,
+      "count": 13
+    },
+    "environment": {
+      "mean": 2.5,
+      "count": 12
+    },
+    "tasks": {
+      "mean": 3.62,
+      "count": 13
+    }
+  },
+  "coverage": "bounded_employee_review_sample_last_2_years_not_all_reviews",
+  "diagnostics": {
+    "pages": [
+      {
+        "page": "reviews",
+        "page_number": 1,
+        "load_more_clicks": 0,
+        "requested_url": "https://www.kununu.com/de/stadt-koeln/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Stadt-K-ln-fe0037e7\\browser\\reviews.html",
+        "browser_step": 97,
+        "final_url": "https://www.kununu.com/de/stadt-koeln/kommentare",
+        "observed_at": "2026-11-25T17:16:44.587076+00:00",
+        "http_status": 200,
+        "factor_cards_expanded": 3,
+        "reviews_collected": 10
+      },
+      {
+        "page": "reviews",
+        "page_number": 2,
+        "load_more_clicks": 1,
+        "requested_url": "https://www.kununu.com/de/stadt-koeln/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Stadt-K-ln-fe0037e7\\browser\\reviews-2.html",
+        "browser_step": 98,
+        "final_url": "https://www.kununu.com/de/stadt-koeln/kommentare",
+        "observed_at": "2026-11-25T17:16:46.358495+00:00",
+        "actions_complete": true,
+        "factor_cards_expanded": 4,
+        "reviews_collected": 15
+      }
+    ]
+  },
+  "source_url": "https://www.kununu.com/de/stadt-koeln",
+  "profile_source": "https://www.kununu.com/de/stadt-koeln/kommentare",
+  "review_stop_reason": "sample_limit_reached",
+  "factor_score_coverage": {
+    "reviews_with_scores": 14,
+    "reviews_without_scores": 1,
+    "reviews_with_all_known_scores": 12,
+    "status": "partial"
+  },
+  "request_limits": {
+    "max_browser_steps": 295,
+    "browser_steps": 98,
+    "zyte_requests": 0
+  },
+  "reason": null
+}

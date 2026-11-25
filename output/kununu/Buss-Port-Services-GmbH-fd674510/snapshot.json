@@ -1,0 +1,230 @@
+{
+  "provider": "kununu",
+  "backend": "browser",
+  "status": "ok",
+  "query": "Buss Port Services GmbH",
+  "profile": {
+    "url": "https://www.kununu.com/de/buss-group",
+    "name": "Buss Group GmbH & Co. KG",
+    "overall_score": 4.1,
+    "review_count": 20,
+    "recommendation_percent": 100,
+    "recommendation_period": "last_2_years",
+    "observed_at": "2026-11-25T17:19:01.447784+00:00"
+  },
+  "reviews": [
+    {
+      "id": "6f5f7252-0194-41c0-a4ef-3d87cba15b07",
+      "url": "https://www.kununu.com/de/buss-group/bewertung/6f5f7252-0194-41c0-a4ef-3d87cba15b07",
+      "title": "Tolle Atmosphäre, Intransparenz, nicht prozessorientiert und unorganisiert",
+      "content": "Gehalt, Work Life Balance und Atmosphäre\n\nKeine Aufstiegschancen, Leistung wird nicht gemessen, Konservativ Führungsstil und altersbedingte Führungsposition\n\nTransparenz gegenüber Mitarbeiter, Klarheit bei Anforderung, Kompetenz im Unternehmensprozess, Offenheit auf neue Technologie\n\ntolle Kollegen und MItarbeiter\n\ngroße HO Anteil\n\nAufstiegschancen nicht vorhanden/keine Verhandlung\n\nunbekannt\n\nFührungsstil konservativ und Inkompetenz\n\nAusreichend aber nicht modern\n\nIntransparenz zwischen Geschäftsführung und Mitarbeiter\n\nImmer was neues",
+      "rating": 3.6,
+      "sections": {
+        "positive": "Gehalt, Work Life Balance und Atmosphäre",
+        "negative": "Keine Aufstiegschancen, Leistung wird nicht gemessen, Konservativ Führungsstil und altersbedingte Führungsposition",
+        "suggestion": "Transparenz gegenüber Mitarbeiter, Klarheit bei Anforderung, Kompetenz im Unternehmensprozess, Offenheit auf neue Technologie"
+      },
+      "factor_comments": {
+        "atmosphere": "tolle Kollegen und MItarbeiter",
+        "workLife": "große HO Anteil",
+        "career": "Aufstiegschancen nicht vorhanden/keine Verhandlung",
+        "environment": "unbekannt",
+        "leadership": "Führungsstil konservativ und Inkompetenz",
+        "workConditions": "Ausreichend aber nicht modern",
+        "communication": "Intransparenz zwischen Geschäftsführung und Mitarbeiter",
+        "tasks": "Immer was neues"
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 4.0,
+        "communication": 2.0,
+        "workConditions": 4.0,
+        "leadership": 2.0,
+        "teamwork": 4.0,
+        "oldColleagues": 4.0,
+        "equality": 5.0,
+        "career": 2.0,
+        "salary": 4.0,
+        "image": 4.0,
+        "environment": 3.0,
+        "tasks": 4.0
+      },
+      "published_at": "2025-02-10T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "55a226d2-f577-4634-b985-e27e516aafa9",
+      "url": "https://www.kununu.com/de/buss-group/bewertung/55a226d2-f577-4634-b985-e27e516aafa9",
+      "title": "Toller Arbeitgeber",
+      "content": "",
+      "rating": 4.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-04-27T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "d099d18c-7c14-402a-8030-c1667557c48a",
+      "url": "https://www.kununu.com/de/buss-group/bewertung/d099d18c-7c14-402a-8030-c1667557c48a",
+      "title": "Controllerin",
+      "content": "",
+      "rating": 4.1,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-02-27T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    }
+  ],
+  "review_limit": 15,
+  "review_period": {
+    "since": "2024-11-25T00:00:00+00:00",
+    "until": "2026-11-25T17:18:59.152507+00:00",
+    "date_field": "published_at",
+    "missing_dates": "excluded"
+  },
+  "factor_scores_aggregated": {
+    "atmosphere": {
+      "mean": 5.0,
+      "count": 1
+    },
+    "workLife": {
+      "mean": 4.0,
+      "count": 1
+    },
+    "communication": {
+      "mean": 2.0,
+      "count": 1
+    },
+    "workConditions": {
+      "mean": 4.0,
+      "count": 1
+    },
+    "leadership": {
+      "mean": 2.0,
+      "count": 1
+    },
+    "teamwork": {
+      "mean": 4.0,
+      "count": 1
+    },
+    "oldColleagues": {
+      "mean": 4.0,
+      "count": 1
+    },
+    "equality": {
+      "mean": 5.0,
+      "count": 1
+    },
+    "career": {
+      "mean": 2.0,
+      "count": 1
+    },
+    "salary": {
+      "mean": 4.0,
+      "count": 1
+    },
+    "image": {
+      "mean": 4.0,
+      "count": 1
+    },
+    "environment": {
+      "mean": 3.0,
+      "count": 1
+    },
+    "tasks": {
+      "mean": 4.0,
+      "count": 1
+    }
+  },
+  "coverage": "bounded_employee_review_sample_last_2_years_not_all_reviews",
+  "diagnostics": {
+    "pages": [
+      {
+        "page": "reviews",
+        "page_number": 1,
+        "load_more_clicks": 0,
+        "requested_url": "https://www.kununu.com/de/buss-group/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Buss-Port-Services-GmbH-fd674510\\browser\\reviews.html",
+        "browser_step": 148,
+        "final_url": "https://www.kununu.com/de/buss-group/kommentare",
+        "observed_at": "2026-11-25T17:19:00.943681+00:00",
+        "http_status": 200,
+        "factor_cards_expanded": 6,
+        "reviews_collected": 1
+      },
+      {
+        "page": "reviews",
+        "page_number": 2,
+        "load_more_clicks": 1,
+        "requested_url": "https://www.kununu.com/de/buss-group/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Buss-Port-Services-GmbH-fd674510\\browser\\reviews-2.html",
+        "browser_step": 149,
+        "final_url": "https://www.kununu.com/de/buss-group/kommentare",
+        "observed_at": "2026-11-25T17:19:02.383814+00:00",
+        "actions_complete": true,
+        "reviews_collected": 3
+      }
+    ]
+  },
+  "source_url": "https://www.kununu.com/de/buss-group",
+  "profile_source": "https://www.kununu.com/de/buss-group/kommentare",
+  "review_stop_reason": "end_of_available_reviews",
+  "factor_score_coverage": {
+    "reviews_with_scores": 1,
+    "reviews_without_scores": 2,
+    "reviews_with_all_known_scores": 1,
+    "status": "partial"
+  },
+  "request_limits": {
+    "max_browser_steps": 295,
+    "browser_steps": 149,
+    "zyte_requests": 0
+  },
+  "reason": null
+}

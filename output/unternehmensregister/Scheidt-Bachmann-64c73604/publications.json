@@ -1,0 +1,449 @@
+{
+  "company": {
+    "key": "Scheidt-Bachmann",
+    "name": "Scheidt-Bachmann",
+    "location": "Mönchengladbach",
+    "name_source": "company_name",
+    "urls": [
+      "https://www.scheidt-bachmann.de/de/"
+    ],
+    "kununu_url": null,
+    "branches": [
+      "Maschinenbau"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "41238",
+    "street": "Breite strasse 132",
+    "region": "Nordrhein-Westfalen",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:57:42.180199+00:00",
+  "searches": [
+    {
+      "accounting_only": true,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=Scheidt-Bachmann&companyLocation=M%C3%B6nchengladbach&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ACCOUNTING&drilldownFilter=22&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": true
+    },
+    {
+      "accounting_only": false,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=Scheidt-Bachmann&companyLocation=M%C3%B6nchengladbach&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ALL_AREAS&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": true
+    }
+  ],
+  "excluded_company_matches": [
+    {
+      "company": "mcity GmbH, Mönchengladbach",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2026 bis zum 31.12.2026",
+      "publication_date": "2026-11-20",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=WiVPYq5EWZ-h4k2xkuY83dwYiheYzL3WKVpbqhNZoO3KTtJNQfbMcoa-kMR4bLnDcsMQC89Eqv9I4olGGc6zGXsBj9_-6bagGHX7gmmlurYaL-HpqPYfW1tJj7qo5-0JkNclnOxZCuq-bjDgkptbg-srLmnPzrucc6-Zog7YnpXJHnTw9rtBYtwQT9Plsn2sAQ4yiq5u1cf6nxZ2ET3SqKLpGX3p83xhV4xPPfHzbainVo16",
+      "metadata": "mcity GmbH, Mönchengladbach Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2026 bis zum 31.12.2026 Scheidt & Bachmann GmbH, Mönchengladbach Datum: 20.11.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Gesellschaft für Apparate mechanischer Art \"Gama\" mit beschränkter Haftung., Mönchengladbach",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2026 bis zum 31.12.2026",
+      "publication_date": "2026-11-20",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=CcHKSyt48NQQsEWhH8bqUWmiOyOdQaekD4nezK5apAxhg3nfXiFLO0wPTzHbYm1gIM6EKDx3f7vy1DkkJSlrcSTXdgQv_htBP4_t2qU_Kmn7q-Gzx38aRNMCYqpxgssZFnm1dSIifdmione70DI_SB9CpaQopclqh_atwhm41ZCe1feggSa4SQVL7wWbX-ww3VYCs1-IYBIBf2QepUw7F15NcFvL5pPJl8tGC0_Jlg5Yw0o5",
+      "metadata": "Gesellschaft für Apparate mechanischer Art \"Gama\" mit beschränkter Haftung., Mönchengladbach Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2026 bis zum 31.12.2026 Scheidt & Bachmann GmbH, Mönchengladbach Datum: 20.11.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "evopark GmbH, Mönchengladbach",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2026 bis zum 31.12.2026",
+      "publication_date": "2026-11-16",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=LEYYmn9LYLLEkUjoeQizbanrNXvqv29iUPuxgdvvLI66Oxj2sCoMJGkPvP5VmvPuqAc6yspCwmu7LC5njEBL4afAet8UX2fCudv9vUPJ_ZCt_iUPjwINE_VRPZU6Vj0nL-dMtdiCq-lW4xUZaV5-YlAO4emZ_OKOEh3Qk1VvP2nQoIRmmggwtmEmNLPvp1jvvBqxXhaOJ1R4gvu9KJk8f1cCaqZHIEIsSFxm-cj81QizrF6Q",
+      "metadata": "evopark GmbH, Mönchengladbach Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2026 bis zum 31.12.2026 Scheidt & Bachmann GmbH, Mönchengladbach Datum: 16.11.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "evopark GmbH, Mönchengladbach",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2025-11-11",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=xyAvNPpPX6VxpKYMwqyPYLNcHY8Xk24HOOdDyNcmm-yd7Qbi86qm6pg240EY0SeyllX6Z_yJ9OtvihT03XTmfk7AOMW84KEOfQtcrNs95-nEK-qrQ6u8zjNxix5S6x0rcDL19ZRSjASU9xudgCZSB4RxbdIxCaFKEvKKBbP5dow3RmEx9nRiiQvPTFKEh1JZETi0wnFMjWJMWCwedsjsJDTWs312W76tJd0GBNNGtx6Pzw3b",
+      "metadata": "evopark GmbH, Mönchengladbach Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Scheidt & Bachmann GmbH, Mönchengladbach Datum: 11.11.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Gesellschaft für Apparate mechanischer Art \"Gama\" mit beschränkter Haftung., Mönchengladbach",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2025-11-11",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=vp6eNyxjNRKjUEmqzkEmNm1f7copDBkkqsPo1iiJ4XabP3zKlei_8MUg0kbanMxZPdoLxE8ZeGNfN_pzpq2VU7yZiZIVLkkELBrCWZP8L-J_fmzR5DcocUUnJf6yqUhXaRNai7SniTa9T3wt6u9AjsO9qYddnlGbLyasI74e1BDIINekef0IeHLG4B-4X3UsbT-47qmciy7EVxLRqY0m57MtGrgxH5vE2xATayAP0E-1SdN0",
+      "metadata": "Gesellschaft für Apparate mechanischer Art \"Gama\" mit beschränkter Haftung., Mönchengladbach Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Scheidt & Bachmann GmbH, Mönchengladbach Datum: 11.11.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "mcity GmbH, Mönchengladbach",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2025-11-11",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=y951W4LePiDbE731aDsn9uhYNPLQdi2XjUdEZvFn2X6gMPy9SmqmfJZwmpaBSgvn5oQje5LOCDjceuZM-KbN4Rn1sfqR3H6m8nB3mFuxdcA_xpWT9ByhjcWC6e-dwqDW_77GjAWJ_PkXmJ85R9zDtUadzoCROGyhfoiPgELoTGSwgjl5rv94XXk3icg24L4PZLn5MbNrtkRkC_W-QKLdmkyHxP1u3ae5K_LDJ27SBtqg4Q74",
+      "metadata": "mcity GmbH, Mönchengladbach Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Scheidt & Bachmann GmbH, Mönchengladbach Datum: 11.11.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "mcity GmbH, Mönchengladbach",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2024-11-07",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=_maNvC-pYG7n5nyKdlQIyLAYfrh-fts7hzWMbgn3uhF9f6Qu-WglSDWgCOvJkGrtwdC8eiztZUOAu0IW8_LukKb05AOTZys_lTj_h53zqP_337TLxhQw8kWKvs87AfhwDFwPICkP87jNBx3zNHjqZAD8KpWj81b-oxG0GaaY5PIDW4yNYAOmJZ-wntBuBr1vbLk22h07ntCc899gtAn471ID_lFsXRq9IedcGQjoaMRlPzxU",
+      "metadata": "mcity GmbH, Mönchengladbach Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Scheidt & Bachmann GmbH, Mönchengladbach Datum: 07.11.2024 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "mcity GmbH, Mönchengladbach",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2026 bis zum 31.12.2026",
+      "publication_date": "2026-11-20",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=qadaVX0qc3jl0vv-gAU1aI12UL7uepkXLDYjkZK3YpK4h7cksSHfgAX4NXKfZq4BHcPh9QFAo7OsGQ0X65bof3S63YTOUnKjrtGuRCFOgbSDGD9loGgnKy6jdNqx0iBpPN55rResS7D0D6tI0CSvSs8H--wWcC-NDP50yWGtJZUWAvXW8XaXVub9MShA0wepAghY0JUU1gu90-t8WjskkKJE_u17oVVOuWMn4ozdmZRuhPi3",
+      "metadata": "mcity GmbH, Mönchengladbach Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2026 bis zum 31.12.2026 Scheidt & Bachmann GmbH, Mönchengladbach Datum: 20.11.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Gesellschaft für Apparate mechanischer Art \"Gama\" mit beschränkter Haftung., Mönchengladbach",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2026 bis zum 31.12.2026",
+      "publication_date": "2026-11-20",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=vx5ufzatlY2AWGr-FJgvAcYpWTPpMQTb3sbsMM0aloTzLu2oNVgoXDk3IR31fLZccgO_V-mhC1IIGDty2VO68vVvrPlUo65Nnl0y5OfCF3S2fHUQ6spVBalaNj93gvc4Vo3v1cuDSwhiEFij0hVim4CTF80NNaPxgxdY3dOvEJdzFR-eRmJVoLhraK3h9vB9t-EgZ-lWhXJpa5QnQerg2_ZkEgFh6uxIiLdhrZXqs3V-ILZM",
+      "metadata": "Gesellschaft für Apparate mechanischer Art \"Gama\" mit beschränkter Haftung., Mönchengladbach Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2026 bis zum 31.12.2026 Scheidt & Bachmann GmbH, Mönchengladbach Datum: 20.11.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "evopark GmbH, Mönchengladbach",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2026 bis zum 31.12.2026",
+      "publication_date": "2026-11-16",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=hWrL8p4PTCrBCO2SWL2o-UfffDNs6n3dAUNZiAM6YoqFdc73T8UrKmnuJ2rO9eRxyMBJZAP4OJA0vfBTex2xBwpLAh5L9VC9hA4SzoS_k0bu0fau8zzhJlzkQ_7Nn0v562WWuDGnfraxHSt6rH7wWC5io0DKf1y29WGKrSLQfbOtm7r-xSKaaZrAJywN_cFnF63zRp-KoJokNLroHx7MDvU2_LVg-Oo4GPVjo9qy4WxJ_hr-",
+      "metadata": "evopark GmbH, Mönchengladbach Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2026 bis zum 31.12.2026 Scheidt & Bachmann GmbH, Mönchengladbach Datum: 16.11.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "evopark GmbH, Mönchengladbach",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2025-11-11",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=64QpHosCjx2h-bo-3PGg98iCBC1carPwBhXVSpFXMkHU8IsNTV4AChLl_icEbx1FwcLD8zMYIRHXCoqnwSr4QG2M1cqEUnmsFQY9LmB6dZYv2TJyiJ_d8ZXKA0GMbyxXO0bZmo4bFlm0JTZCmn5ld7gotewalI7bI2gNCic0kssHWkXj3EqCK-ga7vUbI43CYfrEHrcqR47NQ5TIxpd3CCXhTxFbbb2lMLeZscEaDpsnK8bj",
+      "metadata": "evopark GmbH, Mönchengladbach Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Scheidt & Bachmann GmbH, Mönchengladbach Datum: 11.11.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Gesellschaft für Apparate mechanischer Art \"Gama\" mit beschränkter Haftung., Mönchengladbach",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2025-11-11",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=Un3qLfEZKJzISBb7u5nKVwY0VhWNDUPDwCv9ArL7rme7vQCx6UzzPLTTgUEisaBJ5ZsKZo546MoZjdzdJt8keJWS2LCOr53ZiP9b4bL1ELuqxeFWPPYRGFOqxPdqb2HIseuJn-JoRidW3PcXhWhxh7PG4vKZWb0LH3hZ-vhbemA3ON9gkqcgXmvZW8ZiTH2bbvAFS6rMNQIQIgn3W6OzpX6GSwQlK-vn6QegUbTkqn3mELX7",
+      "metadata": "Gesellschaft für Apparate mechanischer Art \"Gama\" mit beschränkter Haftung., Mönchengladbach Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Scheidt & Bachmann GmbH, Mönchengladbach Datum: 11.11.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "mcity GmbH, Mönchengladbach",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2025-11-11",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=hBm_cikA0LykORFLgh7LJc5kF0NDCrzBmJgXdCe2IKTgd4fVfRfWh_BW0ZkX__7kTEuIc0NaiL-R-fjWv4kNZ_DVYo94qpn1PPkpQCeCE3js3IJ1gUTqDrZWZOxUIxd9kFQ9W6WCmxHKlpNfyUGHooHYDjNrQuRWcDmFjMgecrdB3spra-1P2pdY4vgh73H-tlPRBwa8jxcK_VhfY5cSxf-WQg58jqgRpb7L11aDl6IC9plm",
+      "metadata": "mcity GmbH, Mönchengladbach Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Scheidt & Bachmann GmbH, Mönchengladbach Datum: 11.11.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "mcity GmbH, Mönchengladbach",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2024-11-07",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=WkgokDUvpuCoQmterz2wpHm7-zh5cfgPqklo63Vbppcm0JGX9DYLesgqhiTBI9hSjzK43TxLsxwfMWqB-Y5pAS2tFQQTkRX9oG0i8anbSj2tIEjm22Uv5J5RzmV1Xq8bI4Pmv8YaQw3RQHQQlxGvwipQp5IekaKt7qPCgfExIWAjunoh0tFhz5TL0HwBt7Nz3gv1-mfeB6c5ECiy0B2or05S9JU7cud7ZxxzMheHb6lRxxP6",
+      "metadata": "mcity GmbH, Mönchengladbach Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Scheidt & Bachmann GmbH, Mönchengladbach Datum: 07.11.2024 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    }
+  ],
+  "date_from": "2024-01-01",
+  "date_to": "2026-11-25",
+  "excluded_dates": [],
+  "max_publications": 30,
+  "truncated": true,
+  "coverage": {
+    "search_complete": false,
+    "more_pages": true,
+    "publication_limit_reached": false,
+    "downloads_selected": 6,
+    "downloads_succeeded": 6,
+    "download_limit_reached": true,
+    "downloads_complete": false,
+    "text_complete": true
+  },
+  "publications": [
+    {
+      "company": "Scheidt & Bachmann IoT Solutions GmbH, Mönchengladbach",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2026 bis zum 31.12.2026",
+      "publication_date": "2026-11-20",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=3RiyzwQxO_kWEXaGQ2jJX6B1mZl5dkJqhPqdmv-Dm-jpXAe-oMZ1oknahP4WwE7oQeGW8gDre05GObeE9uqrBZF6UVYaU3w7nij7QTo1J2moQPBmbtH7wOKdgAsvLjmsPqWWBdjsh3nsOGhPyS4yoDV3A51lrA7u4GMFomryKmZpw5iB0jX_kXOeuR94I-PCU0vfBaocGdFNlWgYn9egi98rb3nQplMRu9YIKTl2vi9N5Mkr",
+      "metadata": "Scheidt & Bachmann IoT Solutions GmbH, Mönchengladbach Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2026 bis zum 31.12.2026 Scheidt & Bachmann GmbH, Mönchengladbach Datum: 20.11.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "bekanntmachungen",
+      "index": 1
+    },
+    {
+      "company": "Scheidt & Bachmann Service GmbH, Mönchengladbach",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2026 bis zum 31.12.2026",
+      "publication_date": "2026-11-19",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=htK9Jlk75NDj72HFz5V9efXXk9g-2g0gxNlOrTpnbE203z0p8SLepkPyStQpt3T_FqsgJ8hFkuFICeiJUMzxpzCtwLstuDijxaDvybNRVRd7rY-ITkzlJjc068xrD726jG58YscjSOUPfHzz18jsaJGexkuBF-Xr5cfX2lIAS4c1i9tikcjIZmILFk5-ESt6pVJbrJmzLY7afUieGnAYtmg32fEhWwBdXIOgXT4Pn7ivJYjc",
+      "metadata": "Scheidt & Bachmann Service GmbH, Mönchengladbach Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2026 bis zum 31.12.2026 Scheidt & Bachmann GmbH, Mönchengladbach Datum: 19.11.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "bekanntmachungen",
+      "index": 2
+    },
+    {
+      "company": "Scheidt & Bachmann Signalling Systems GmbH, Mönchengladbach",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2026 bis zum 31.12.2026",
+      "publication_date": "2026-11-19",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=qAAv5QDuTtqm8VTYPJeBkkxeFIP0sFToAI0ZZHuyLzgmxNTz-tvkjPkPJ7frAFipHuCMtm8A6kW1M5GcjI1Ni_nSFqMZ9NEgABzbNaroODh-JAIuvPcE6ETDjUHnli9vcqVwLjHXbU5sg3ism3MDb1jeSU-OYnp9ryj5xAa7zafEDUkZhrEha4HdRdlGji7T8f6zQgpWbREjlISZ6Q6j-wDmm_mZ1oVM59c375657MwKlobP",
+      "metadata": "Scheidt & Bachmann Signalling Systems GmbH, Mönchengladbach Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2026 bis zum 31.12.2026 Scheidt & Bachmann GmbH, Mönchengladbach Datum: 19.11.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "bekanntmachungen",
+      "index": 3
+    },
+    {
+      "company": "Scheidt & Bachmann Fare Collection Systems GmbH, Mönchengladbach",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2026 bis zum 31.12.2026",
+      "publication_date": "2026-11-19",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=47wIpuTZeqL_AX165MhKQzwC6ThOSj83pXi06_NyTtDf1WEDK6eHxjEVve_ZObN5kANQbaGxj7iowFdEUvsvHMgeiYlbt8pZ_cgBmt55YoLhBp0ck5NEf5oC6W-U6oAdmxnc4Kw1q-ikkkcxk_osi5WAhmOZ6jKsxdovnQfgQIwuEU4zl_VSSYNIowrGCUiYCq9KiomumjFaJP-I0VhzhlIkzQL3ULBvMJ6i7XJF16nyAHyu",
+      "metadata": "Scheidt & Bachmann Fare Collection Systems GmbH, Mönchengladbach Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2026 bis zum 31.12.2026 Scheidt & Bachmann GmbH, Mönchengladbach Datum: 19.11.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "bekanntmachungen",
+      "index": 4
+    },
+    {
+      "company": "Scheidt & Bachmann Parking Solutions GmbH, Mönchengladbach",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2026 bis zum 31.12.2026",
+      "publication_date": "2026-11-19",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=LqVNCW11fRxLG_4Jbu43tAwv2wlO8Qx2PRV7VBGMXVbWHxdCdAvaSPPPhuwMEt-AeHTit7BITkRpTkbeUx5MHlsoy41qtTOYojmSJqK6UoGsx3l301uO3aSht-W6bH6EZsML1F451nrI6L5ssqhUFOwLMb6E50TgF97jeJGZ8W3jvdY5GSe8T078-fO87gva_YEJ9kNHGWkaYPDXZxFzjYUqLuXD7t2i34OyAZJZOBgm1Ym0",
+      "metadata": "Scheidt & Bachmann Parking Solutions GmbH, Mönchengladbach Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2026 bis zum 31.12.2026 Scheidt & Bachmann GmbH, Mönchengladbach Datum: 19.11.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "bekanntmachungen",
+      "index": 5
+    },
+    {
+      "company": "Scheidt & Bachmann Energy Retail Solutions GmbH, Mönchengladbach",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2026 bis zum 31.12.2026",
+      "publication_date": "2026-11-19",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=jVwP16xLPISjcUy97YeJZWLu2axqVLIWJb1L-Swdc6nKbTA4PgbkLDWZ-9xM9vQEiBvBBouE1LFuhUiOx0idkUzxlTYguFKm8iTqLCbZYGG4WEXJVQOi6cN6DVOdVF84OhJJWBtktUOUrmZMQHyciW4vQrXy2n42FjNxLCxiRBaMqWsno-GNjA74ggBJxoVf7LKP6fxWIkXxstqvT3D2CDgF05JHxkkjXEaLk-uN0DsXMsTZ",
+      "metadata": "Scheidt & Bachmann Energy Retail Solutions GmbH, Mönchengladbach Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2026 bis zum 31.12.2026 Scheidt & Bachmann GmbH, Mönchengladbach Datum: 19.11.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "bekanntmachungen",
+      "index": 6
+    },
+    {
+      "company": "Scheidt & Bachmann Parking Solutions Germany GmbH, Mönchengladbach",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2026 bis zum 31.12.2026",
+      "publication_date": "2026-11-19",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=dnQc_NtZoyxTET6C03SIkLrrqVm5SOYcxR9-aoXB41Ac9QpCBZyXSTY9oC35vw_UPg2Dz64wFGGUFIeqRxnUQmltOOfFvwf9Sd9-1wuXdc0FcbGmhcLpjatt7WL6bMeJYWRMYU9GkStfs2djOUKZLfgvxH2n5S789IhfZMa4uBVh_r0o0joebBnXSu_xEf5q1WTXRh6m45nlPsHt1oikRTzEBFIJxLjMDhCWh_gaqY-NsEjn",
+      "metadata": "Scheidt & Bachmann Parking Solutions Germany GmbH, Mönchengladbach Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2026 bis zum 31.12.2026 Scheidt & Bachmann GmbH, Mönchengladbach Datum: 19.11.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "bekanntmachungen",
+      "index": 7
+    },
+    {
+      "company": "Scheidt & Bachmann System Technik GmbH, Melsdorf",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2026 bis zum 31.12.2026",
+      "publication_date": "2026-11-19",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=RfE3sgTWr9jGmXUTxrrcShnQi4XykhIcYJpeQVw6-HWCdUqa3YESoswrvjLSqAEt4aUMtJ5C7SVaU3A73J2gCjK6xpATf8w3qC2lSISkDeiEZPKcy4B8Gq2pmIZ_jJg5_LvcCNzMrhuiIp8rph8R0Bl4xuW_WQvUYTXg09P-qXs_n6u5ciINnmGFTkxcA2zB0BWlQKn2tHH11UR7qwZJXymA1RCNgHk__RvCUS6quzDc7pxX",
+      "metadata": "Scheidt & Bachmann System Technik GmbH, Melsdorf Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2026 bis zum 31.12.2026 Scheidt & Bachmann GmbH, Mönchengladbach Datum: 19.11.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "bekanntmachungen",
+      "index": 8
+    },
+    {
+      "company": "Scheidt & Bachmann System Service GmbH, Mönchengladbach",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2026 bis zum 31.12.2026",
+      "publication_date": "2026-11-19",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=5RJIwSdQseazM39vaA2xDBzLcif-Q9Cp_uSW4Ae4IDJozAUmJsNf2-OMzGOpAIkqRq1isi5VrjCxmy-eFgwM_PR_cJqZwcfK3VVNDGTK2AZRyT7w74bpuCHjDbDYwg9vORZwuv0SmGQpn5LEt8uw7eogY9JlYcQhIDM_GgbEDJHFqWQKUvANBx5stnqsUH0eITIBgvumN-_b7JCDWByaDUpSkkGFH-70r9QtKGVBB3aWYPUJ",
+      "metadata": "Scheidt & Bachmann System Service GmbH, Mönchengladbach Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2026 bis zum 31.12.2026 Scheidt & Bachmann GmbH, Mönchengladbach Datum: 19.11.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "bekanntmachungen",
+      "index": 9
+    },
+    {
+      "company": "Scheidt & Bachmann GmbH, Mönchengladbach",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2021 bis zum 31.12.2021",
+      "publication_date": "2026-11-02",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=hDpxTghvkEubgKJl5iaGKS1VTKfyQeKKxZuURZYURNqkZjNxKmZmDy2XW_WMqXuLsYjhn22Q3JzScbXf6kT501w2x66Ftjnn9gw9_eGtHH246To8BdwoeY2IUcJ_P-qwRThfzLEB6wR7p90ZAQmGdB-0PDm4ljQmGHPjzZgeciSS6-Y2XmHcx7rBY4KVTPPjbImjdufYDORgx4DXCVBI8Q7vzipeuanSX_5g0u5pzdUvrnY7",
+      "metadata": "Scheidt & Bachmann GmbH, Mönchengladbach Rechnungslegung / Finanzberichte Bundesanzeiger Konzernabschluss zum Geschäftsjahr vom 01.01.2021 bis zum 31.12.2021 Ergänzung der Veröffentlichung vom 03.01.2023 Datum: 02.11.2026 Sprache: Deutsch Befreite Unternehmen anzeigen Scheidt & Bachmann System Service GmbH, Mönchengladbach mcity GmbH, Mönchengladbach Gesellschaft für Apparate mechanischer Art \"Gama\" mit beschränkter Haftung., Mönchengladbach Scheidt & Bachmann Parking Solutions Germany GmbH, Mönchengladbach Scheidt & Bachmann System Technik GmbH, Melsdorf Scheidt & Bachmann Service GmbH, Mönchengladbach Scheidt & Bachmann Fare Collection Systems GmbH, Mönchengladbach Scheidt & Bachmann Signalling Systems GmbH, Mönchengladbach Scheidt & Bachmann Parking Solutions GmbH, Mönchengladbach Scheidt & Bachmann Energy Retail Solutions GmbH, Mönchengladbach Scheidt & Bachmann IoT Solutions GmbH, Mönchengladbach evopark GmbH, Mönchengladbach",
+      "source_area": "Rechnungslegung / Finanzberichte Bundesanzeiger",
+      "category": "finanzberichte",
+      "index": 10
+    },
+    {
+      "company": "Scheidt & Bachmann GmbH, Mönchengladbach",
+      "title": "Jahres- und Konzernabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-02-25",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=WOVk06BlaLoG4KDe8N1jqdtHCX0apfDHS5khgph2g0i3RpBLOMD5QuGaNRNMqHr9iKt0wgaX26SAJJE2rkvrZADdtjFj11Ywa0KiD0zzVTtkNulHGvzlkC-mQTmakO9X867Odprvs6p9HkAfeznuWbnhGBbMhSMP9s_j9Q2m9Sqk3ybl1RvPQKUcDKuPXrUerVBjcjDZ64bwdcECcudeByksblSX4FguivpQ-OTuDcgLuFmo",
+      "metadata": "Scheidt & Bachmann GmbH, Mönchengladbach Rechnungslegung / Finanzberichte Unternehmensregister Jahres- und Konzernabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 25.02.2026 Sprache: Deutsch Befreite Unternehmen anzeigen Scheidt & Bachmann System Service GmbH, Mönchengladbach mcity GmbH, Mönchengladbach Gesellschaft für Apparate mechanischer Art \"Gama\" mit beschränkter Haftung., Mönchengladbach Scheidt & Bachmann Parking Solutions Germany GmbH, Mönchengladbach Scheidt & Bachmann System Technik GmbH, Melsdorf Scheidt & Bachmann Service GmbH, Mönchengladbach Scheidt & Bachmann Fare Collection Systems GmbH, Mönchengladbach Scheidt & Bachmann Signalling Systems GmbH, Mönchengladbach Scheidt & Bachmann Parking Solutions GmbH, Mönchengladbach Scheidt & Bachmann Energy Retail Solutions GmbH, Mönchengladbach Scheidt & Bachmann IoT Solutions GmbH, Mönchengladbach evopark GmbH, Mönchengladbach",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 11
+    },
+    {
+      "company": "Scheidt & Bachmann System Technik GmbH, Melsdorf",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2025-12-05",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=BpVKWzQ-Yf3vQgH2m92ZH6qMAI8yjt0UOOfQc3XIb1Ubaqdzjn9bvkb7wtp6p7ofEeYI1phcabaOniJ5GJYVzhIUvtl27Rn0qkWmAnOIbblVAyeuggz-XA5qlyUZB4mtFPFuxqNkDlmhwDqlMT9Vfet8qy6umT-DqmKU33ZSJnrs6SS2PVPnngNCzC3TcQaHq2pl6UlPguo2d1u6ay8IjlOct0IF7aY16wt19gMUBaoGSe-9",
+      "metadata": "Scheidt & Bachmann System Technik GmbH, Melsdorf Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Scheidt & Bachmann GmbH, Mönchengladbach Datum: 05.12.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "bekanntmachungen",
+      "index": 12
+    },
+    {
+      "company": "Scheidt & Bachmann Energy Retail Solutions GmbH (vormals: Scheidt & Bachmann Fuel Retail Solutions GmbH), Mönchengladbach",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2025-12-03",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=kSnjAa_5tKzft8BmT6w2F4YlCtlClqOECdhYhj2PBzW59hPRR-iZZnxo3gF3ChNiWedm_Pv3N2H-hGp5RweY2PYES8qn957oIhr4S5yxAeIIKDYVQ6xEgNrrdFxM6a-NF9OkBGrtYhOBDEwGRXRrQDwqdCbeeBbM0Jrn6VBHqyBMSSzoiQw4QIgWrlgreg6r1JYm4L8OafMVjcznoPPP8NL6XizQIaDZHyrcIzOZ3Qg5g6Zk",
+      "metadata": "Scheidt & Bachmann Energy Retail Solutions GmbH (vormals: Scheidt & Bachmann Fuel Retail Solutions GmbH), Mönchengladbach Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Scheidt & Bachmann GmbH, Mönchengladbach Datum: 03.12.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "bekanntmachungen",
+      "index": 13
+    },
+    {
+      "company": "Scheidt & Bachmann Service GmbH, Mönchengladbach",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2025-11-12",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=bcX3udZGmjawRnsMsVWXgfqfCfwuyTJSeQaiV2yV6eUAfFSY5R8iY8StN8ewN0uvnOCak-qgqP84fQlzJaqPxaOoCvtYsJ9m2oBUyQ8leQWxit3YAV-dRF37Hqa9jfKEkE9Mn05prKMcG0ptgMqlAK7xPstJF6YKjdI5KNGq_U3Q8__oyZ3-YagbgKPggttuYy5W-KlbVMfkYbNgCEbAKW5G6bI5cPbIEWAXLRc0Zpce15RS",
+      "metadata": "Scheidt & Bachmann Service GmbH, Mönchengladbach Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Scheidt & Bachmann GmbH, Mönchengladbach Datum: 12.11.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "bekanntmachungen",
+      "index": 14
+    },
+    {
+      "company": "Scheidt & Bachmann Parking Solutions Germany GmbH, Mönchengladbach",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2025-11-12",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=UYsSxZYzCwQxRi5BxoLr2I8j1yOYROiGM5S7-vdnnKKfQS16DvvrIu-TLl6y1EXkwkCB3QXPwEUrcxxUAUlc-sMt9__JlpRh9DHMz0jgQbxEZk07t9EXrua0h3IhyHW8LiD8jQKXyAcfbQIp3D38c-tj_p_zWk8W44vCcJ-UAvJYdbQUDGiflOQoKWswWj1LKDYTIMIoKhvZWKnR6-jy4l5QrovUnMHptCIRYxFc3jVOJ1Ty",
+      "metadata": "Scheidt & Bachmann Parking Solutions Germany GmbH, Mönchengladbach Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Scheidt & Bachmann GmbH, Mönchengladbach Datum: 12.11.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "bekanntmachungen",
+      "index": 15
+    },
+    {
+      "company": "Scheidt & Bachmann System Service GmbH, Mönchengladbach",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2025-11-12",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=mpQO4uz1mDKTXe9sZomghhLN3eHjm9X9TdFb2YHi7sBLRKfvcoAAaKdbeUAdW3LKpBTz6PIQxA4P6cYvUZ_o9TyGqqKmyi2ohJVSb_9C2POLjjxqVScW1MrAF5flQ1lh5xEhIpXty1NSxIRbLvxGzQ8L3TCZioYcv5FIiot_bD-U9jk8nq3FZVuqxG-C_Pl01h5UotJSrBN97fRwjlj2YEBTEnMdIPuZaSBDZFc-pQ9_lGxC",
+      "metadata": "Scheidt & Bachmann System Service GmbH, Mönchengladbach Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Scheidt & Bachmann GmbH, Mönchengladbach Datum: 12.11.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "bekanntmachungen",
+      "index": 16
+    },
+    {
+      "company": "Scheidt & Bachmann Signalling Systems GmbH, Mönchengladbach",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2025-11-12",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=UTCLSDJKe5jQ197tlSDfsmv3bTa5ES6Pw6GbxvNjL5NZkAa-aqdDYMBvE2rshLGLtgf55ECohN-fZ9L3E1DoDDR_RG-aWFZfzkGiyvK1ei6SLSdhVWJyN8U7KaSUk_DtMVe3fw5l8ZPQ-4NiOMOHrmRpe_jBkKJCT8qUJWXw9tT34jR8atsimdDA__xQsmEBJSVOWMkSo4y6oU2bQJI7_LhZwwEGWQJfbm69mw6XX9bhRiZn",
+      "metadata": "Scheidt & Bachmann Signalling Systems GmbH, Mönchengladbach Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Scheidt & Bachmann GmbH, Mönchengladbach Datum: 12.11.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "bekanntmachungen",
+      "index": 17
+    },
+    {
+      "company": "Scheidt & Bachmann Fare Collection Systems GmbH, Mönchengladbach",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2025-11-11",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=bVFBVekNqNGu7j25APWknbDjAmq4A1bhgIndXv6LACLYZunb1HGrFO86T4Y_V5ujPS0FTHggJ6eAeing03WMN93zzmBhGzgUnABt7__C_pdPXcbwEd97ezzMbdVM_6qoa-qU1lPPJf6NN_S1oySyD8Vg3m9aLDaW4XRgw9RV_L0GBVr8OeGu88MJQ_ZZStx4ZFnGjnSCcmIGBLL-06pwehHeSBi7dxxnxf9-EvmjqZ0l2Mjh",
+      "metadata": "Scheidt & Bachmann Fare Collection Systems GmbH, Mönchengladbach Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Scheidt & Bachmann GmbH, Mönchengladbach Datum: 11.11.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "bekanntmachungen",
+      "index": 18
+    },
+    {
+      "company": "Scheidt & Bachmann Parking Solutions GmbH, Mönchengladbach",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2025-11-11",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=IahhX3HYm0VzX_Bn7mzOSdCaZ52AcEZ9sZ7WL-hjf620tSwde4CWifhI1wopfmq5c7Svr0Ww0s6Wt7rgDNLam0YmC90JSD7kq5JUIwUHJJaqJWUEYSwL0ny4hWztLZqnb-0cKT9iGS13Th8bDPsFSYIKdNody-u8-5ycOm-EsGs5x9ZHmTtwV9cs20VdMAqB0RPAgaLfWPd7mGWccidafPPFSWB3L6tU5mLe2CMwKsxmWCEA",
+      "metadata": "Scheidt & Bachmann Parking Solutions GmbH, Mönchengladbach Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Scheidt & Bachmann GmbH, Mönchengladbach Datum: 11.11.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "bekanntmachungen",
+      "index": 19
+    },
+    {
+      "company": "Scheidt & Bachmann IoT Solutions GmbH, Aachen",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2025-11-11",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=KHyWdZNYab3FnugZn-xff7P4Mat2DvCJvhG99JjCp1RpLC84P7diIqJqnrY6IB1AmtracP_bL9cxh3CJYnRVnd0-2VD81-l6-JB-zGnQWDrcOBea2ME71VYuEUPYiB8N4Gw4837YOV29i323XVw7EGUbRULErPFiD5fz-p2MxvBbxwYMPI1rFeu8ahiwVhVvBfyn7ofplpx5LMCQRE_u8vzgm-ecKlj8lQweyrYcMr9fAlpX",
+      "metadata": "Scheidt & Bachmann IoT Solutions GmbH, Aachen Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Scheidt & Bachmann GmbH, Mönchengladbach Datum: 11.11.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "bekanntmachungen",
+      "index": 20
+    },
+    {
+      "company": "Scheidt & Bachmann GmbH, Mönchengladbach",
+      "title": "Jahres- und Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-04-03",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=HmiIeQHNKpGMzQgHs1m76OOw-OO10najwH9I6wkspdeuHbX3FsoeNHVZ4IKBifBziwLQmCQwkViGLoJNEOttGiXM8oh9BOUcHi9s2uXGctlLDsnJef6HKu8RCGRzbQXChapBvQ8HVkStgs9VWW8TfE81iDnf5UtcLc0_achDN9siA-WzJgKpudjEkgV5eLPqvMsp8Dlf4ECtKux3uYoCWjsO_JnsiJhF88iTCBOXoCUpNWAF",
+      "metadata": "Scheidt & Bachmann GmbH, Mönchengladbach Rechnungslegung / Finanzberichte Unternehmensregister Jahres- und Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 03.04.2025 Sprache: Deutsch Befreite Unternehmen anzeigen Scheidt & Bachmann System Service GmbH, Mönchengladbach mcity GmbH, Mönchengladbach Gesellschaft für Apparate mechanischer Art \"Gama\" mit beschränkter Haftung., Mönchengladbach Scheidt & Bachmann Parking Solutions Germany GmbH, Mönchengladbach Scheidt & Bachmann System Technik GmbH, Melsdorf Scheidt & Bachmann Service GmbH, Mönchengladbach evopark GmbH, Mönchengladbach Scheidt & Bachmann Fare Collection Systems GmbH, Mönchengladbach Scheidt & Bachmann Signalling Systems GmbH, Mönchengladbach Scheidt & Bachmann Parking Solutions GmbH, Mönchengladbach Scheidt & Bachmann Energy Retail Solutions GmbH, Mönchengladbach Scheidt & Bachmann IoT Solutions GmbH, Mönchengladbach",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 21
+    },
+    {
+      "company": "Scheidt & Bachmann Energy Retail Solutions GmbH, Mönchengladbach",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2024-11-07",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=JAUpYW5zOc19AuYuTOd9MsXQJgKuwEpPU0TafjQU7OOXyN86Fexw3_a9JRYYP3r4eCBErurRk2GzyHMbfDCsRJPtB3KVgoxVGPP2y0Cypd8nQOS0T-fsQEeeewYx6lw0NVJXhPgiXnyF1Ymu1xLJwQ7BrGT-iLPBDsiMcVLYh2tRJBLdg6X6sNXtF3EGhqQ18oVf_cZjPfFmGSUor6IpamkYVCt18wnUgZiKNCBomCMIzekh",
+      "metadata": "Scheidt & Bachmann Energy Retail Solutions GmbH, Mönchengladbach Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Scheidt & Bachmann GmbH, Mönchengladbach Datum: 07.11.2024 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "bekanntmachungen",
+      "index": 22
+    },
+    {
+      "company": "Scheidt & Bachmann IoT Solutions GmbH, Aachen",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2024-11-07",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=l9vUOweHvQQa7Lpp9_IVFy7xAW1-KumDL32S-eLminTiulZ8_EMdhUJl2AAUYGxNhxyPCmEuwe0Xo6jLrisytEFPS1uDWkDMuo9KiYEOIFt0UOgpyYUTV5LnB7lelzh_bBC-FLHDTRsWH00ALSCalNaqSLvAsUDP92GcjgB3Z-AF1i0-23LyqXYCBVxYVy_mgHukSAUT7i9uJwPzWsCxseiJj0gcaffMKfe8rzgZ2h_b0Tmn",
+      "metadata": "Scheidt & Bachmann IoT Solutions GmbH, Aachen Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Scheidt & Bachmann GmbH, Mönchengladbach Datum: 07.11.2024 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "bekanntmachungen",
+      "index": 23
+    }
+  ]
+}

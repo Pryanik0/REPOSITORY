@@ -1,0 +1,149 @@
+{
+  "company": {
+    "key": "Rosenberger",
+    "name": "Rosenberger",
+    "location": "Laufen",
+    "name_source": "company_name",
+    "urls": [
+      "https://www.rosenberger.com"
+    ],
+    "kununu_url": null,
+    "branches": [
+      "Elektroindustrie"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "83410",
+    "street": "Mayerhofen 45",
+    "region": "Bayern",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:55:29.276098+00:00",
+  "searches": [
+    {
+      "accounting_only": true,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=Rosenberger&companyLocation=Laufen&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ACCOUNTING&drilldownFilter=22&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": false
+    },
+    {
+      "accounting_only": false,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=Rosenberger&companyLocation=Laufen&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ALL_AREAS&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": false
+    }
+  ],
+  "excluded_company_matches": [
+    {
+      "company": "Hörl Kunststofftechnik GmbH & Co. KG, Laufen",
+      "title": "§ 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-12-18",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=bU_z7LNyTr3ki_n3Rl5hTwtGNPdkS8iZdsVYIT6YBqzanqEG9z8zVr_hb1xgMuz66OVQ5PvzFFRAG608j3Skp7INQJOosRPxoKRGLLMz1FhWbWWgQ1f4B_n25yqbxqywVXRxS623LRns0U5FHk1NLa0oV5P4SogptNbU1Ei3YP5Hp5wC9KpY4B4npbBvGcqaHC1OmTeq5dkGQ6A1muhDaPpRzskhfeUIr5fvxDOc5OSKKHRs",
+      "metadata": "Hörl Kunststofftechnik GmbH & Co. KG, Laufen Rechnungslegung / Finanzberichte Unternehmensregister § 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Rosenberger GmbH & Co. KG, Tittmoning Datum: 18.12.2025 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Hörl Kunststofftechnik GmbH & Co. KG, Laufen, OT Mayerhofen",
+      "title": "§ 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-01-31",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=8j5u4LVhEOGU-TWZd7rfzgf7nlyFMxyPxn9RrXhvxo_8vzzx7qpRfSUH9RCCsMh6FMJ3TdaxknO_s4KmY1_--4K4byD5d0hSgyOod5rCWx2SLdV51RDzUN-zCkdD5yQdbpqvK6o7GO0fIZbA3eZY_t4vdbaHnkpl7HGOd8RuhoMjo3tMMdbS4ABIhSOJTUwRKRXAhOlSBY_5YyElZQxQqwGNBwnCWHUtASjsokuhPv6A1_Q1",
+      "metadata": "Hörl Kunststofftechnik GmbH & Co. KG, Laufen, OT Mayerhofen Rechnungslegung / Finanzberichte Unternehmensregister § 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Rosenberger GmbH & Co. KG, Tittmoning Datum: 31.01.2025 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Hörl Kunststofftechnik GmbH & Co. KG, Laufen, OT Mayerhofen",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-05-31",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=DxOVQBgLlJrG29CKLWx9fjM9oMm8gobJlMvqKGvdGZQqfeRfvEcGVl3KuvEistcK_2RADuBCupxIXKiy7HGhJu1mGpZYTVxYggesLaGiGU-Ilgf9msjL8LByUhjaVDefJ4hVpke8Ef5sOSCXM9CGKkziEhGFGuUXipqFzF_G4NzkMl5xMgxlxLHO7Mdpe_-f6bzUXHmxNJ-eCISkP-mAbY561MfGTgJTm0EKW80YTvbo9bhA",
+      "metadata": "Hörl Kunststofftechnik GmbH & Co. KG, Laufen, OT Mayerhofen Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Rosenberger GmbH & Co. KG, Tittmoning Datum: 31.05.2024 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Hörl Kunststofftechnik GmbH & Co. KG, Laufen",
+      "title": "§ 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-12-18",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=Rac0kBnIxdAm2Y2MAZhPCM9FKOMTZt-PthlKzWHtwhkbe9_s6FD4-g6T4vpeYPd7M00_Q0ZH5TcTeXzHCwzgzXGhD32xrKVRRqPK5sYunaBpF7a6NYyD7GdwKG1iOJq4lnjb54XZg7ELuzTqRp7CUjT1CkUWdeBcUGZ36EUdrDI2SLDrbc2gBKPsr7lFY5oPH0dfulihNcVdsPic0XxB5GjXCl4VpBcLZoDZ8a5AZiKuap__",
+      "metadata": "Hörl Kunststofftechnik GmbH & Co. KG, Laufen Rechnungslegung / Finanzberichte Unternehmensregister § 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Rosenberger GmbH & Co. KG, Tittmoning Datum: 18.12.2025 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Hörl Kunststofftechnik GmbH & Co. KG, Laufen, OT Mayerhofen",
+      "title": "§ 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-01-31",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=fCg--mmnRYm4b8aOjPmfzeQfSvGSdxsNwvt5o33I1g1_P5AMGo-CD5_tTV0-UkGCh_zxlUXKcxt8YkHxf1UhNCBrtHRBS7UwBSFLXk4RFsm-5rBU-s3klnktzq8rcXuEb2nic31OnIHNdjxLQCUN4uUEXAuQqufJ9bmH5FGxGE2brPagWDTPd36DtLuhpmwXcbOUYI13T59OibP5tcqAx-Fz7IakUjOORX2q_mcQqfigiUfS",
+      "metadata": "Hörl Kunststofftechnik GmbH & Co. KG, Laufen, OT Mayerhofen Rechnungslegung / Finanzberichte Unternehmensregister § 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Rosenberger GmbH & Co. KG, Tittmoning Datum: 31.01.2025 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Hörl Kunststofftechnik GmbH & Co. KG, Laufen, OT Mayerhofen",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-05-31",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=vB7TlmDa7qc5uNWWLE9j-ygebkN9j3alocxhxy_DSrNR_myyKH0RKKSEOcisuruAOShSjVjyX0WV2MeSt_8JdiRroZpj5LJxd-EwnAXeaOou22QJ4T1Pj81Tbtwdk7B9GIUpIv9v9UfSPOeYzolDQDBuKmz0jAx62kDeSd_Py08vn0_JZju1dWzDVsGSUkm-u4GJe8NU-WzNN6Fcookf01z-OGt5SE0skgwRvmR6gtJ0k0O5",
+      "metadata": "Hörl Kunststofftechnik GmbH & Co. KG, Laufen, OT Mayerhofen Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Rosenberger GmbH & Co. KG, Tittmoning Datum: 31.05.2024 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    }
+  ],
+  "date_from": "2024-01-01",
+  "date_to": "2026-11-25",
+  "excluded_dates": [],
+  "max_publications": 30,
+  "truncated": false,
+  "coverage": {
+    "search_complete": true,
+    "more_pages": false,
+    "publication_limit_reached": false,
+    "downloads_selected": 3,
+    "downloads_succeeded": 3,
+    "download_limit_reached": false,
+    "downloads_complete": true,
+    "text_complete": true
+  },
+  "publications": [
+    {
+      "company": "Rosenberger GmbH & Co. KG, Tittmoning",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-12-29",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=7F6_6of81qTvgVZmwLiI90pDY0S9ZvI5d6vgb-JSZy9ckenwsb5k5fwTkxaDNIOD1kiVYiaror6ASEWlhE2N3Yilyw3g3wt0TWOOgJks8LENj25K4nwex2qT6X5WHRqFzsCHrFfF5_XzgYbu4ztIz4VGHwv0XT8CCxMExaNd_6kVeRyFyd7AGU-kN1mtJAk627yVIcroswscF_31b6vs7c41pcDV_WLtsIhDikDqTDMKIAcf",
+      "metadata": "Rosenberger GmbH & Co. KG, Tittmoning Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 29.12.2025 Sprache: Deutsch Befreite Unternehmen anzeigen Rosenberger Hochfrequenztechnik GmbH & Co. KG, Tittmoning Rosenberger-OSI GmbH & Co. OHG, Augsburg ET Netzwerk- und Datentechnik GmbH, Fürth Rosenberger Kunststofftechnik GmbH & Co. KG, Laufen Rosenberger Stanztechnik GmbH & Co. KG, Neuenbürg Rosenberger GmbH & Co. KG, Tittmoning Rosenberger Site Solutions GmbH, Fridolfing Rosenberger Immobilien GmbH & Co. KG, Tittmoning",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 1
+    },
+    {
+      "company": "Rosenberger GmbH & Co. KG, Tittmoning",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-02-14",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=Kdr-c-0mVM3VJlSAaCb4MTpzFbEToMLJL8TW3xyJ3CFgFs5y8I_V8aoXR3uMKruetQkf6_oaQQXMDttX4JifSdE1HXCYi6OZEM1Udqc9K3sn8X0rkhK8IUuRMwychEuN2-tbA5Ci_t-ypsBq3gqg53JeOxc6BiRDXHWij2WiGh4i9fVA_4dqsymJ904-V_O9PVXBsBUwuQOpxZU9l-eXaeFDdZixvYJQgNscDaN2Fce2g3Uc",
+      "metadata": "Rosenberger GmbH & Co. KG, Tittmoning Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 14.02.2025 Sprache: Deutsch Befreite Unternehmen anzeigen Rosenberger Hochfrequenztechnik GmbH & Co. KG, Tittmoning Rosenberger-OSI GmbH & Co. OHG, Augsburg Rosenberger Kunststofftechnik GmbH & Co. KG, Laufen Rosenberger Stanztechnik GmbH & Co. KG, Neuenbürg Rosenberger GmbH & Co. KG, Tittmoning Rosenberger Site Solutions GmbH, Fridolfing Rosenberger Immobilien GmbH & Co. KG, Tittmoning",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 2
+    },
+    {
+      "company": "Rosenberger GmbH & Co. KG, Tittmoning",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-05-07",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=oayYKIiNS_DE_YWcX88sVD0tymzvyq0t7G9FZ_9g58fiYHnS-whTdNP4DIwzq_1QS6yhrqDGcYhrLVPgmvTNHjFXcAUgM_87HS-Z13uzOItvcdxIVMdgN0izW350SewaeW92Q0du2ewvhE8WWPhMTdY9s6TOgZE92L8b22ast70zhdiFmkUCatR6fszNGG3wfbEcD6uYc8hOJWEAcL4mELJJYkczDnug3mc-HOTML3n-WRwW",
+      "metadata": "Rosenberger GmbH & Co. KG, Tittmoning Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 07.05.2024 Sprache: Deutsch Befreite Unternehmen anzeigen Rosenberger Hochfrequenztechnik GmbH & Co. KG, Tittmoning Rosenberger-OSI GmbH & Co. OHG, Augsburg Rosenberger Kunststofftechnik GmbH & Co. KG, Laufen Rosenberger Stanztechnik GmbH & Co. KG, Neuenbürg Rosenberger GmbH & Co. KG, Tittmoning Rosenberger Site Solutions GmbH, Fridolfing",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 3
+    }
+  ]
+}

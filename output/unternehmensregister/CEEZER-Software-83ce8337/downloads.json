@@ -1,0 +1,56 @@
+[
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=n_9cOcv72JOd-2lv2i5dCcH_y85-35hq1CgW0M29hN1jZRlfV2QDVZEvnspP7AW5rlIY906EBEGna0is3n2q95q6y5WqVmxiuKtnKgdr9VQxorbp0ANIWLj-YLzEeQcXqBJkNvkgPV96dUfn4DKCJWUKzDJ_o3VxHhxeNT4Vd5QoNQySsHNNlDQkN0IpG0qbkqSQl3PMf_AyIJLEV9H1QAvNpUaItkTJjdpyA1xTrhhif2Nl",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\CEEZER-Software-83ce8337\\finanzberichte\\publication-1\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\CEEZER-Software-83ce8337\\finanzberichte\\publication-1\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\CEEZER-Software-83ce8337\\finanzberichte\\publication-1\\publication.txt",
+    "index": 1,
+    "category": "finanzberichte",
+    "company": "CEEZER Software GmbH, Berlin",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+    "documents_path": "output\\unternehmensregister\\CEEZER-Software-83ce8337\\finanzberichte\\publication-1\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=HsKOwuQtgf06I-qeeqJMDz5q-NewRLsdt5stmHJiUJaiChdSq8eAMlF2hqy4P6Rs5kHyrx-Z84qngpJiwy0SrCb9QqRYQXM44orj_YNEx_eothqzgJ3V8Vyi3mELIDwYz5rUSuemIPSKjwA_FbWjyr0okOZvi6C5QWg6K_k8XjDS1NHLHnRfyxUMdH24lVn-7PWmPmSTUbeVV5XPQzkiWkEUEO9k5pfhiKmZTLMuLF082CWT",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\CEEZER-Software-83ce8337\\finanzberichte\\publication-2\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\CEEZER-Software-83ce8337\\finanzberichte\\publication-2\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\CEEZER-Software-83ce8337\\finanzberichte\\publication-2\\publication.txt",
+    "index": 2,
+    "category": "finanzberichte",
+    "company": "CEEZER Software GmbH, Berlin",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+    "documents_path": "output\\unternehmensregister\\CEEZER-Software-83ce8337\\finanzberichte\\publication-2\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=AoHOGvEf8jNmvvzVMNOauklsbvL7SCOLeUuiISdwzA5uLoSXWWY0LIFdlEKN8krhU8epdD9ORF_Dlu95sIcyYBkq-2wMWp90-H7WZjzIg1WBOrTz05Y41RcQCcACNxI6hrqtGiRC8ry1YHyF6_-MHYxYZi0QBb8slBbTLM10kgqIpw1ggFZq2rbbozEvMe8dCfx54Qu8qZmN5Mo-6tmKiEnjpNgUsrwjmar6ia5WKXA4QE3D",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\CEEZER-Software-83ce8337\\finanzberichte\\publication-3\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\CEEZER-Software-83ce8337\\finanzberichte\\publication-3\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\CEEZER-Software-83ce8337\\finanzberichte\\publication-3\\publication.txt",
+    "index": 3,
+    "category": "finanzberichte",
+    "company": "CEEZER Software GmbH, Berlin",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+    "documents_path": "output\\unternehmensregister\\CEEZER-Software-83ce8337\\finanzberichte\\publication-3\\documents.json"
+  }
+]

@@ -1,0 +1,100 @@
+{
+  "provider": "karriere",
+  "company": {
+    "key": "Eurofiber Netz",
+    "name": "Eurofiber Netz GmbH",
+    "location": "Berlin",
+    "name_source": "company_name",
+    "urls": [
+      "https://www.eurofiber.de/"
+    ],
+    "kununu_url": "https://www.kununu.com/de/eurofiber-netz",
+    "branches": [
+      "IT & Telekommunikation"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "10829",
+    "street": "Hedwig-Dohm-Straße 2",
+    "region": "Berlin",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:10:56.325429+00:00",
+  "status": "partial",
+  "jobs": [],
+  "pages": [
+    {
+      "url": "https://www.eurofiber.de/",
+      "final_url": "https://www.mih-net.com/",
+      "redirects": [
+        {
+          "source": "https://www.eurofiber.de/",
+          "target": "https://www.mih-net.com/",
+          "status": 301
+        }
+      ],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.mih-holding.com/karriere/",
+      "final_url": "https://www.mih-holding.com/karriere/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    }
+  ],
+  "errors": [
+    {
+      "url": "https://www.mih-holding.com/karriere/",
+      "reason": "no_extractable_job_data",
+      "error": "Keine auslesbaren Stellen oder belegte Leermeldung; manuelle Prüfung erforderlich."
+    }
+  ],
+  "excluded": [],
+  "sources": [
+    {
+      "url": "https://www.eurofiber.de/",
+      "linked_from": null,
+      "mechanism": "configured"
+    },
+    {
+      "url": "https://www.mih-net.com/robots.txt",
+      "linked_from": "https://www.eurofiber.de/robots.txt",
+      "mechanism": "robots_redirect"
+    },
+    {
+      "url": "https://www.mih-net.com/",
+      "linked_from": "https://www.eurofiber.de/",
+      "mechanism": "http_redirect"
+    },
+    {
+      "url": "https://www.mih-holding.com/karriere/",
+      "linked_from": "https://www.mih-net.com/",
+      "mechanism": "employer_link"
+    }
+  ],
+  "adapter_attempts": [],
+  "coverage": {
+    "scope": "configured_sites_and_linked_career_portals",
+    "complete": false,
+    "pending_pages": 0,
+    "page_limit_reached": false,
+    "job_limit_reached": false,
+    "request_limit_reached": false,
+    "pages_attempted": 2,
+    "pages_read": 2,
+    "dynamic_or_unparsed_pages": true,
+    "http": {
+      "requests_attempted": 7,
+      "allocated_requests": 456,
+      "cache_hits": 0
+    }
+  },
+  "pending_urls": [],
+  "jobs_before_keyword_filter": 0,
+  "reason": "search_incomplete"
+}

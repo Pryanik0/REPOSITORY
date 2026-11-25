@@ -1,0 +1,733 @@
+{
+  "provider": "kununu",
+  "backend": "browser",
+  "status": "ok",
+  "query": "Taylor Wessing Partnerschaftsgesellschaft von Rechtsanwälten und Steuerberatern mbB",
+  "profile": {
+    "url": "https://www.kununu.com/de/taylor-wessing",
+    "name": "Taylor Wessing",
+    "overall_score": 3.5,
+    "review_count": 142,
+    "recommendation_percent": 65,
+    "recommendation_period": "last_2_years",
+    "observed_at": "2026-11-25T17:16:37.061274+00:00"
+  },
+  "reviews": [
+    {
+      "id": "07f6dd72-05af-4c90-b480-2c4a46b72f7c",
+      "url": "https://www.kununu.com/de/taylor-wessing/bewertung/07f6dd72-05af-4c90-b480-2c4a46b72f7c",
+      "title": "Ich bin sehr Zufrieden",
+      "content": "Sehr gute Gemeinschaft, auch mit Vorgesetzten. Gerade in schwierigen Lebensphase wird totale Rücksicht genommen. Man kann über alles sprechen.\n\nManchmal vorschnelle Handlungen - allerdings aus der Intention heraus es für alle besser zu machen bzw. zu erhalten.\n\nDas meiste wird schon angegangen, z.B. den MA zuhören.\n\nIst gut\n\nEs wird versucht das Image zu Leben, manchmal hakt es noch etwas\n\nMan kann über alles sprechen\n\nViele Schulungen/ Weiterbildungen werden Inhouse angeboten\n\nKönnte besser sein - liebe Kollegen und gute Arbeitsatmosphäre sind auch viel Wert.\n\nWurde stark verbessert\n\nIst super\n\nIst sehr gut - kommt auf dich selber an\n\nIst Fair\n\nModern, HV-Tische, es wird versucht, alles zu ermöglichen\n\nWurde stetig verbessert\n\nIst zur Zeit gut\n\nFallen nicht immer an",
+      "rating": 4.4,
+      "sections": {
+        "positive": "Sehr gute Gemeinschaft, auch mit Vorgesetzten. Gerade in schwierigen Lebensphase wird totale Rücksicht genommen. Man kann über alles sprechen.",
+        "negative": "Manchmal vorschnelle Handlungen - allerdings aus der Intention heraus es für alle besser zu machen bzw. zu erhalten.",
+        "suggestion": "Das meiste wird schon angegangen, z.B. den MA zuhören."
+      },
+      "factor_comments": {
+        "atmosphere": "Ist gut",
+        "image": "Es wird versucht das Image zu Leben, manchmal hakt es noch etwas",
+        "workLife": "Man kann über alles sprechen",
+        "career": "Viele Schulungen/ Weiterbildungen werden Inhouse angeboten",
+        "salary": "Könnte besser sein - liebe Kollegen und gute Arbeitsatmosphäre sind auch viel Wert.",
+        "environment": "Wurde stark verbessert",
+        "teamwork": "Ist super",
+        "oldColleagues": "Ist sehr gut - kommt auf dich selber an",
+        "leadership": "Ist Fair",
+        "workConditions": "Modern, HV-Tische, es wird versucht, alles zu ermöglichen",
+        "communication": "Wurde stetig verbessert",
+        "equality": "Ist zur Zeit gut",
+        "tasks": "Fallen nicht immer an"
+      },
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 5.0,
+        "communication": 4.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 4.0,
+        "career": 4.0,
+        "salary": 4.0,
+        "image": 4.0,
+        "environment": 4.0,
+        "tasks": 4.0
+      },
+      "published_at": "2026-03-06T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "085ced1a-8832-46ad-86dd-83668547bf8e",
+      "url": "https://www.kununu.com/de/taylor-wessing/bewertung/085ced1a-8832-46ad-86dd-83668547bf8e",
+      "title": "Nicht zu empfehlen... oder wer's mag: mit Vollgas gegen die Wand!",
+      "content": "Mehr Schein als Sein\n\nGewollt aber nicht gekonnt zeigen die 2€ Pluxee-Gutscheine\n\nEr will alles möglichst schnell voran treiben, weiß aber selbst nicht in welche Richtung er will. Vorschläge von Mitarbeitern werden abgewiesen, diese jedoch später als seine Eigenen präsentiert.\nProfessionalität? Mhh...\nDas hibbelige Verhalten strahlt zudem Unsicherheit aus.\n\nTolle Lage, super Ausblick aber die Büros sind altbacken\n\nVom AN wird erwartet dass man sagt, wenn einem etwas auf der Seele brennt (ganz egal was; offene Kommunikation ist ausdrücklich gewünscht!) aber umgekehrt wird sich nicht daran gehalten. Statt dem \"offenen Wort\" von Kollegen oder gar vom Vorgesetzten erhält der Mitarbeiter direkt die Kündigung.",
+      "rating": 3.2,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Mehr Schein als Sein",
+        "salary": "Gewollt aber nicht gekonnt zeigen die 2€ Pluxee-Gutscheine",
+        "leadership": "Er will alles möglichst schnell voran treiben, weiß aber selbst nicht in welche Richtung er will. Vorschläge von Mitarbeitern werden abgewiesen, diese jedoch später als seine Eigenen präsentiert.\nProfessionalität? Mhh...\nDas hibbelige Verhalten strahlt zudem Unsicherheit aus.",
+        "workConditions": "Tolle Lage, super Ausblick aber die Büros sind altbacken",
+        "communication": "Vom AN wird erwartet dass man sagt, wenn einem etwas auf der Seele brennt (ganz egal was; offene Kommunikation ist ausdrücklich gewünscht!) aber umgekehrt wird sich nicht daran gehalten. Statt dem \"offenen Wort\" von Kollegen oder gar vom Vorgesetzten erhält der Mitarbeiter direkt die Kündigung."
+      },
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 4.0,
+        "communication": 1.0,
+        "workConditions": 2.0,
+        "leadership": 1.0,
+        "teamwork": 3.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 4.0,
+        "salary": 3.0,
+        "image": 4.0,
+        "environment": 3.0,
+        "tasks": 3.0
+      },
+      "published_at": "2025-11-10T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "a96c0d62-d25a-4b24-a8ee-27b0e0015fde",
+      "url": "https://www.kununu.com/de/taylor-wessing/bewertung/a96c0d62-d25a-4b24-a8ee-27b0e0015fde",
+      "title": "Schlimmste Erfahrung ever!",
+      "content": "Der Ausgang!\n\nAlles, was zuvor bereits geschildert wurde.\n\nIst wohl selbsterklärend.\nVielleicht sollte man im Allgemeinen an einem besseren Arbeitsklima arbeiten, anstatt besonderen Wert darauf zu legen, dass Mitarbeiter in der Firma Abendbrot zur Verfügung gestellt bekommen (wovon eh nicht alle etwas haben).\n\nDas Arbeitsklima interessiert keinen und man ist auch nicht wirklich daran gewillt hier einzugreifen und dies zu verbessern.\nAnsonsten kam man sich teilweise vor, als wäre man noch 10 Jahre und in der Schule - und selbst dort durfte man mehr. Auch noch nirgends erlebt so etwas.\nHier möchte ich auch erwähnen, dass die HR Managerin die schlimmste war, der ich je in meinem Berufsleben begegnet bin. Lästert über diverse Mitarbeiter, ist absolut nicht neutral, stachelt Mitarbeiter gegen andere auf, verdreht Tatsachen und ist daher dermaßen ungeeignet für diesen Job (keine Ahnung wie sie den bekommen hat)! Dazu noch ständig launisch. In einem Moment bekam man ein paar freundliche Worte entgegnet und im nächsten Moment wurde man aus dem Nichts blöd von der Seite angemacht. Furchtbare Person! Ich war mit meiner Meinung btw. auch nicht alleine.\nDie Partner waren jedoch allesamt nett und deutlich weniger abgehoben.\n\nEs gab Mitarbeiter aus anderen Abteilungen, welche sich regelmäßig über die Firma und auch über ihre eigene Abteilung ausgelassen haben.\n\nKonnte ich nichts dergleichen feststellen. Insgesamt fand ich, dass man ein wenig verschwenderisch war.\n\nWeiterbildung? Nein, neue Aufgaben darf man sich erstmal selbst beibringen oder wie auch immer man es anstellt, es interessiert niemanden - Hauptsache man kann es am Ende des Tages.\n\nMit dem einen mehr, mit anderen weniger. Es gibt halt Kollegen, welche absolut unkollegial sind und nur an sich selbst denken. Den Vorgesetzten hat dies allerdings wenig interessiert.\nAuch Führungskräfte lästern hier über Partner.\n\nDas kann ich nicht beurteilen, aber der Umgang mit Ex-Kollegen, welche entlassen wurden, habe ich so noch in KEINER Firma erlebt. Manche wurden teilweise wie Schwerverbrecher behandelt.\n\nMan konnte mit ihr an sich offen kommunizieren, aber für den Job war sie meiner Meinung nach einfach nicht die Richtige. War nicht in der Lage ein Team zu führen und entsprechend Entscheidungen zu treffen, diese wurde nämlich selbst auf die Mitarbeiter abgewälzt. Eine Führungskraft sollte durchaus in der Lage sein, fair für das Team Entscheidungen zu treffen und nicht sagen \"regelt das untereinander\"!\nUnd dieses ständige \"Heute hü, morgen hott\" ging mir dermaßen auf den Keks (wo wir wieder beim Thema 'entscheiden' wären).\n\nDie Einstellung der Klima hat man irgendwie nicht sonderlich gut im Griff gehabt. Die Technik im Allgemeinen war ansonsten soweit in Ordnung und funktionierte.\n\nBeschränkt sich aufs Nötigste.\n\nGehalt war im oberen Durchschnitt und wurde pünktlich gezahlt.\n\nWar nicht gegeben. Zudem wurde anfangs was völlig anderes kommuniziert, was dann nicht eingetroffen ist.",
+      "rating": 1.9,
+      "sections": {
+        "positive": "Der Ausgang!",
+        "negative": "Alles, was zuvor bereits geschildert wurde.",
+        "suggestion": "Ist wohl selbsterklärend.\nVielleicht sollte man im Allgemeinen an einem besseren Arbeitsklima arbeiten, anstatt besonderen Wert darauf zu legen, dass Mitarbeiter in der Firma Abendbrot zur Verfügung gestellt bekommen (wovon eh nicht alle etwas haben)."
+      },
+      "factor_comments": {
+        "atmosphere": "Das Arbeitsklima interessiert keinen und man ist auch nicht wirklich daran gewillt hier einzugreifen und dies zu verbessern.\nAnsonsten kam man sich teilweise vor, als wäre man noch 10 Jahre und in der Schule - und selbst dort durfte man mehr. Auch noch nirgends erlebt so etwas.\nHier möchte ich auch erwähnen, dass die HR Managerin die schlimmste war, der ich je in meinem Berufsleben begegnet bin. Lästert über diverse Mitarbeiter, ist absolut nicht neutral, stachelt Mitarbeiter gegen andere auf, verdreht Tatsachen und ist daher dermaßen ungeeignet für diesen Job (keine Ahnung wie sie den bekommen hat)! Dazu noch ständig launisch. In einem Moment bekam man ein paar freundliche Worte entgegnet und im nächsten Moment wurde man aus dem Nichts blöd von der Seite angemacht. Furchtbare Person! Ich war mit meiner Meinung btw. auch nicht alleine.\nDie Partner waren jedoch allesamt nett und deutlich weniger abgehoben.",
+        "image": "Es gab Mitarbeiter aus anderen Abteilungen, welche sich regelmäßig über die Firma und auch über ihre eigene Abteilung ausgelassen haben.",
+        "environment": "Konnte ich nichts dergleichen feststellen. Insgesamt fand ich, dass man ein wenig verschwenderisch war.",
+        "career": "Weiterbildung? Nein, neue Aufgaben darf man sich erstmal selbst beibringen oder wie auch immer man es anstellt, es interessiert niemanden - Hauptsache man kann es am Ende des Tages.",
+        "teamwork": "Mit dem einen mehr, mit anderen weniger. Es gibt halt Kollegen, welche absolut unkollegial sind und nur an sich selbst denken. Den Vorgesetzten hat dies allerdings wenig interessiert.\nAuch Führungskräfte lästern hier über Partner.",
+        "oldColleagues": "Das kann ich nicht beurteilen, aber der Umgang mit Ex-Kollegen, welche entlassen wurden, habe ich so noch in KEINER Firma erlebt. Manche wurden teilweise wie Schwerverbrecher behandelt.",
+        "leadership": "Man konnte mit ihr an sich offen kommunizieren, aber für den Job war sie meiner Meinung nach einfach nicht die Richtige. War nicht in der Lage ein Team zu führen und entsprechend Entscheidungen zu treffen, diese wurde nämlich selbst auf die Mitarbeiter abgewälzt. Eine Führungskraft sollte durchaus in der Lage sein, fair für das Team Entscheidungen zu treffen und nicht sagen \"regelt das untereinander\"!\nUnd dieses ständige \"Heute hü, morgen hott\" ging mir dermaßen auf den Keks (wo wir wieder beim Thema 'entscheiden' wären).",
+        "workConditions": "Die Einstellung der Klima hat man irgendwie nicht sonderlich gut im Griff gehabt. Die Technik im Allgemeinen war ansonsten soweit in Ordnung und funktionierte.",
+        "communication": "Beschränkt sich aufs Nötigste.",
+        "salary": "Gehalt war im oberen Durchschnitt und wurde pünktlich gezahlt.",
+        "tasks": "War nicht gegeben. Zudem wurde anfangs was völlig anderes kommuniziert, was dann nicht eingetroffen ist."
+      },
+      "factor_scores": {
+        "atmosphere": 2.0,
+        "workLife": 3.0,
+        "communication": 2.0,
+        "workConditions": 2.0,
+        "leadership": 2.0,
+        "teamwork": 3.0,
+        "oldColleagues": 1.0,
+        "equality": null,
+        "career": 1.0,
+        "salary": 4.0,
+        "image": 1.0,
+        "environment": 1.0,
+        "tasks": 1.0
+      },
+      "published_at": "2025-11-10T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "f3a4764a-8903-41c8-9b0e-d7efb61d348b",
+      "url": "https://www.kununu.com/de/taylor-wessing/bewertung/f3a4764a-8903-41c8-9b0e-d7efb61d348b",
+      "title": "Tolles Team, sehr lehrreich!",
+      "content": "Flexible Arbeitszeiten mit Homeoffice\n\nEs könnte mehr auf den juristischen Nachwuchs eingegangen werden und sich mehr bemüht werden, diesen auch zu halten.\n\nIch hatte wirklich ein sehr tolles Team (vom Sekretariat bis zu den Rechtsanwälten).",
+      "rating": 4.2,
+      "sections": {
+        "positive": "Flexible Arbeitszeiten mit Homeoffice",
+        "negative": null,
+        "suggestion": "Es könnte mehr auf den juristischen Nachwuchs eingegangen werden und sich mehr bemüht werden, diesen auch zu halten."
+      },
+      "factor_comments": {
+        "teamwork": "Ich hatte wirklich ein sehr tolles Team (vom Sekretariat bis zu den Rechtsanwälten)."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 4.0,
+        "communication": 5.0,
+        "workConditions": 4.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": null,
+        "equality": null,
+        "career": 3.0,
+        "salary": 3.0,
+        "image": 4.0,
+        "environment": 4.0,
+        "tasks": 4.0
+      },
+      "published_at": "2025-08-19T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "67c88c6c-3c9c-476e-86f2-6b12f82873df",
+      "url": "https://www.kununu.com/de/taylor-wessing/bewertung/67c88c6c-3c9c-476e-86f2-6b12f82873df",
+      "title": "Ein Arbeitgeber der zu empfehlen ist",
+      "content": "Ich arbeite seit einiger Zeit bei Taylor Wessing und fühle mich hier sehr wohl. Das Arbeitsklima ist geprägt von Respekt, Wertschätzung und echter Teamarbeit. Besonders hervorheben möchte ich die offene Kommunikation und die flachen Hierarchien, die es ermöglichen, eigene Ideen einzubringen und schnell umzusetzen.\nDie Work-Life-Balance wird ernst genommen – flexible Arbeitszeiten und Homeoffice-Möglichkeiten sind keine Ausnahme, sondern gelebte Praxis. Auch die Weiterentwicklung der Mitarbeiter wird aktiv gefördert: Es gibt regelmäßige Schulungen, Workshops und interne Projekte, die nicht nur fachlich, sondern auch persönlich weiterbringen.\nDer Umgang miteinander ist freundlich und kollegial. Auch in stressigen Phasen wird hier gemeinsam nach Lösungen gesucht und nicht nach Schuldigen. Die Vorgesetzten agieren auf Augenhöhe, geben konstruktives Feedback und stehen jederzeit für Fragen bereit.\nInsgesamt ein Arbeitgeber, der nicht nur Wert auf gute Leistung legt, sondern auch auf das Wohl seiner Mitarbeiter achtet – und das merkt man jeden Tag.",
+      "rating": 4.2,
+      "sections": {
+        "positive": "Ich arbeite seit einiger Zeit bei Taylor Wessing und fühle mich hier sehr wohl. Das Arbeitsklima ist geprägt von Respekt, Wertschätzung und echter Teamarbeit. Besonders hervorheben möchte ich die offene Kommunikation und die flachen Hierarchien, die es ermöglichen, eigene Ideen einzubringen und schnell umzusetzen.\nDie Work-Life-Balance wird ernst genommen – flexible Arbeitszeiten und Homeoffice-Möglichkeiten sind keine Ausnahme, sondern gelebte Praxis. Auch die Weiterentwicklung der Mitarbeiter wird aktiv gefördert: Es gibt regelmäßige Schulungen, Workshops und interne Projekte, die nicht nur fachlich, sondern auch persönlich weiterbringen.\nDer Umgang miteinander ist freundlich und kollegial. Auch in stressigen Phasen wird hier gemeinsam nach Lösungen gesucht und nicht nach Schuldigen. Die Vorgesetzten agieren auf Augenhöhe, geben konstruktives Feedback und stehen jederzeit für Fragen bereit.\nInsgesamt ein Arbeitgeber, der nicht nur Wert auf gute Leistung legt, sondern auch auf das Wohl seiner Mitarbeiter achtet – und das merkt man jeden Tag.",
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 3.0,
+        "communication": 4.0,
+        "workConditions": 5.0,
+        "leadership": 4.0,
+        "teamwork": 4.0,
+        "oldColleagues": 5.0,
+        "equality": 4.0,
+        "career": 4.0,
+        "salary": 5.0,
+        "image": 4.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-07-22T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "0ca4b4c3-7d08-440c-bb9f-24e112c1ee67",
+      "url": "https://www.kununu.com/de/taylor-wessing/bewertung/0ca4b4c3-7d08-440c-bb9f-24e112c1ee67",
+      "title": "Gutes Team, großartiger Standort, schlechte Führungsqualität und viele Fehlentscheidungen",
+      "content": "Grundsätzlich gutes Miteinander, viele kleine Feste, modern, zentrale Lage,\n\nFührungsstil in einigen Abteilungen, fehlende Kommunikation in einigen Abteilungen,\n\nAugen auf bei der Besetzung der Führungspositionen! Endlich den Mitarbeitern zuhören und reagieren!\n\nAm Standort war alles großartig. Im Team muss man, um mitreden zu können, genau so denken, wie die Führungskraft, ansonsten ist man zum Abschuss freigegeben.\n\nGanz gut durch teilweise homeoffice, jedoch stressig durch hohes Arbeitsaufkommen und ständig wechselnde Mitarbeiter\n\nGute Weiterbildung nur für die Personen, die oben brav mitspielen.\n\nWaren immer füreinander da.\n\nKein Stern wert! Persönliche Befindlichkeiten haben in gewissen Positionen nichts verloren. Lästereien mit anderen Kollegen über das eigene Team bzw. die eigene Abteilung. Untragbar!\n\nKommuniziert wird nur oben. Die tatsächlichen Beteiligten hören immer erst von allem, wenn nichts mehr zu ändern ist.\n\nDurch Systemumstellung neue Aufgabenbereiche, interessante Aufgaben wurden ohne Kommunikation entzogen.",
+      "rating": 2.6,
+      "sections": {
+        "positive": "Grundsätzlich gutes Miteinander, viele kleine Feste, modern, zentrale Lage,",
+        "negative": "Führungsstil in einigen Abteilungen, fehlende Kommunikation in einigen Abteilungen,",
+        "suggestion": "Augen auf bei der Besetzung der Führungspositionen! Endlich den Mitarbeitern zuhören und reagieren!"
+      },
+      "factor_comments": {
+        "atmosphere": "Am Standort war alles großartig. Im Team muss man, um mitreden zu können, genau so denken, wie die Führungskraft, ansonsten ist man zum Abschuss freigegeben.",
+        "workLife": "Ganz gut durch teilweise homeoffice, jedoch stressig durch hohes Arbeitsaufkommen und ständig wechselnde Mitarbeiter",
+        "career": "Gute Weiterbildung nur für die Personen, die oben brav mitspielen.",
+        "teamwork": "Waren immer füreinander da.",
+        "leadership": "Kein Stern wert! Persönliche Befindlichkeiten haben in gewissen Positionen nichts verloren. Lästereien mit anderen Kollegen über das eigene Team bzw. die eigene Abteilung. Untragbar!",
+        "communication": "Kommuniziert wird nur oben. Die tatsächlichen Beteiligten hören immer erst von allem, wenn nichts mehr zu ändern ist.",
+        "tasks": "Durch Systemumstellung neue Aufgabenbereiche, interessante Aufgaben wurden ohne Kommunikation entzogen."
+      },
+      "factor_scores": {
+        "atmosphere": 2.0,
+        "workLife": 3.0,
+        "communication": 1.0,
+        "workConditions": 3.0,
+        "leadership": 1.0,
+        "teamwork": 5.0,
+        "oldColleagues": 3.0,
+        "equality": 3.0,
+        "career": 1.0,
+        "salary": 4.0,
+        "image": 3.0,
+        "environment": 4.0,
+        "tasks": 1.0
+      },
+      "published_at": "2025-07-10T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "cc908932-6705-4758-bd49-674cc9b6b30e",
+      "url": "https://www.kununu.com/de/taylor-wessing/bewertung/cc908932-6705-4758-bd49-674cc9b6b30e",
+      "title": "Einfach nur furchtbar",
+      "content": "Wirklich gar nichts!\n\nHört endlich auf von \"Fee Earnern\" und \"Fee Burnern\" zu sprechen. Das ist respektlos und absolut aus der Zeit gefallen. Aber passt dadurch irgendwie auch zu TWG.\n\nEs herrscht eine ganz seltsame Atmosphäre. Jeder bleibt irgendwie für sich. Viele haben offenbar schon aufgegeben irgendetwas bewegen zu wollen. Raum für kreative Entfaltung und echte Innovationen gibt es nicht. Das ewige Hin und Her bzgl. Zielen und strategische Ausrichtung schafft große Unsicherheit, weshalb die wirklich schlechte Arbeitsatmosphäre womöglich u. a. darauf zurückzuführen ist.\n\nEs wird viel über die eigene angebliche \"excellence\" geredet. Naja, das lässt tief blicken, wenn man sich selbst ständig so beschreiben muss.\n\nGut, dass es so viele Drucker im Unternehmen gibt...\n\nGibt es kaum.\n\nVorsicht, es werden viele Dinge versprochen und dann nicht eingehalten. Das geht leider schon im Jobinterview los.\n\nKein Raum für echte Entwicklungen, aber es wird darüber gesprochen, dass es die braucht. Nunja, bleibt leeres Gerede.\n\nEs wird viel gesprochen, aber nichts gesagt. Es wird in der Kommunikation bereits eine Zweiklassengesellschaft zum Ausdruck gebracht, indem von \"Fee Earnern\" (Anwälte) und \"Fee Burnern\" (alle anderen) gesprochen wird. Wie kann man so respektlos über die eigenen Mitarbeitenden sprechen? Ist mir absolut unverständlich.\n\nNein, vor allem, weil sich Stellen überhaupt nicht so entwickeln, wie sie initial einmal ausgemacht wurden.",
+      "rating": 1.5,
+      "sections": {
+        "positive": "Wirklich gar nichts!",
+        "negative": null,
+        "suggestion": "Hört endlich auf von \"Fee Earnern\" und \"Fee Burnern\" zu sprechen. Das ist respektlos und absolut aus der Zeit gefallen. Aber passt dadurch irgendwie auch zu TWG."
+      },
+      "factor_comments": {
+        "atmosphere": "Es herrscht eine ganz seltsame Atmosphäre. Jeder bleibt irgendwie für sich. Viele haben offenbar schon aufgegeben irgendetwas bewegen zu wollen. Raum für kreative Entfaltung und echte Innovationen gibt es nicht. Das ewige Hin und Her bzgl. Zielen und strategische Ausrichtung schafft große Unsicherheit, weshalb die wirklich schlechte Arbeitsatmosphäre womöglich u. a. darauf zurückzuführen ist.",
+        "image": "Es wird viel über die eigene angebliche \"excellence\" geredet. Naja, das lässt tief blicken, wenn man sich selbst ständig so beschreiben muss.",
+        "environment": "Gut, dass es so viele Drucker im Unternehmen gibt...",
+        "teamwork": "Gibt es kaum.",
+        "leadership": "Vorsicht, es werden viele Dinge versprochen und dann nicht eingehalten. Das geht leider schon im Jobinterview los.",
+        "workConditions": "Kein Raum für echte Entwicklungen, aber es wird darüber gesprochen, dass es die braucht. Nunja, bleibt leeres Gerede.",
+        "communication": "Es wird viel gesprochen, aber nichts gesagt. Es wird in der Kommunikation bereits eine Zweiklassengesellschaft zum Ausdruck gebracht, indem von \"Fee Earnern\" (Anwälte) und \"Fee Burnern\" (alle anderen) gesprochen wird. Wie kann man so respektlos über die eigenen Mitarbeitenden sprechen? Ist mir absolut unverständlich.",
+        "tasks": "Nein, vor allem, weil sich Stellen überhaupt nicht so entwickeln, wie sie initial einmal ausgemacht wurden."
+      },
+      "factor_scores": {
+        "atmosphere": 1.0,
+        "workLife": 2.0,
+        "communication": 1.0,
+        "workConditions": 2.0,
+        "leadership": 1.0,
+        "teamwork": 1.0,
+        "oldColleagues": null,
+        "equality": null,
+        "career": 2.0,
+        "salary": 2.0,
+        "image": 1.0,
+        "environment": 2.0,
+        "tasks": 1.0
+      },
+      "published_at": "2025-06-19T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "5b062ac8-8af3-4ce0-bd67-da2cea2bd430",
+      "url": "https://www.kununu.com/de/taylor-wessing/bewertung/5b062ac8-8af3-4ce0-bd67-da2cea2bd430",
+      "title": "Katastrophal",
+      "content": "Guter Ausblick vom Empfang\n\nAlles\n\nBitte nimmt das Geld in die Hand und investiert es in wichtigem Personal. Nicht Juristen sind auch Menschen. 2€ pro Tag Essenzuschuss ist nicht die Welt.\n\nKommt drauf an\n\nSchlecht\n\nGut\n\nEs wird viel versprochen aber nichts umgesetzt\n\nEs gibt Obst!!+\n\nWird nur gespielt aber nicht umgesetzt.\n\nSoweit gut. Jedoch nicht mit allen\n\nWenn es um Hilfe geht alles geben aber keine Gegenleistung\n\nAufgrund das man nicht am selben Standort ist nicht so toll\n\nÜberstunden in Massen\n\nMan wird als letztes informiert\n\nLeider ganz ganz schlecht.. Am liebsten nicht mal 1 Stern\n\nSehr viel zu tun",
+      "rating": 1.8,
+      "sections": {
+        "positive": "Guter Ausblick vom Empfang",
+        "negative": "Alles",
+        "suggestion": "Bitte nimmt das Geld in die Hand und investiert es in wichtigem Personal. Nicht Juristen sind auch Menschen. 2€ pro Tag Essenzuschuss ist nicht die Welt."
+      },
+      "factor_comments": {
+        "atmosphere": "Kommt drauf an",
+        "image": "Schlecht",
+        "workLife": "Gut",
+        "career": "Es wird viel versprochen aber nichts umgesetzt",
+        "salary": "Es gibt Obst!!+",
+        "environment": "Wird nur gespielt aber nicht umgesetzt.",
+        "teamwork": "Soweit gut. Jedoch nicht mit allen",
+        "oldColleagues": "Wenn es um Hilfe geht alles geben aber keine Gegenleistung",
+        "leadership": "Aufgrund das man nicht am selben Standort ist nicht so toll",
+        "workConditions": "Überstunden in Massen",
+        "communication": "Man wird als letztes informiert",
+        "equality": "Leider ganz ganz schlecht.. Am liebsten nicht mal 1 Stern",
+        "tasks": "Sehr viel zu tun"
+      },
+      "factor_scores": {
+        "atmosphere": 2.0,
+        "workLife": 1.0,
+        "communication": 1.0,
+        "workConditions": 1.0,
+        "leadership": 3.0,
+        "teamwork": 4.0,
+        "oldColleagues": 3.0,
+        "equality": 1.0,
+        "career": 1.0,
+        "salary": 1.0,
+        "image": 1.0,
+        "environment": 2.0,
+        "tasks": 3.0
+      },
+      "published_at": "2025-05-21T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "50db0c37-a005-4a30-a0cb-c3bf746660ac",
+      "url": "https://www.kununu.com/de/taylor-wessing/bewertung/50db0c37-a005-4a30-a0cb-c3bf746660ac",
+      "title": "Desolat und chaotisch mit ausgeprägtem Hang zum Company Catfishing",
+      "content": "Das Bürogebäude.\n\nAbteilungen bleiben isoliert. Einen abteilungsübergreifenden Austausch gibt es nicht und ist m. E. auch von niemandem gewünscht. Mehrfach habe ich von Kolleginnen und Kollegen den Satz gehört: \"Hier haben die Wände Ohren.\". Misstrauen trifft Fatalismus trifft Demotivation.\n\nMan weidet sich selbstverliebt an den überschaubaren juristischen Erfolgen.\n\nEs wird unfassbar viel ausgedruckt. Zu Weihnachten gibt es eine Spendenaktion für gute Zwecke.\n\nEs gab mal LinkedIn Learning. Online-Seminare (zumeist zu den verwendeten Tools) sind letztlich nur für neue MAs - maximal noch als Refresher. Der Trainer ist absolute Spitze und ein witziger Typ. Mach weiter so!!!\n\nDurch die (gewollte) Isolation der Abteilungen, ist es mitunter schwierig Kolleginnen und Kollegen außerhalb des eigenen Teams kennenzulernen. Meinem mir zugewiesenen \"Buddy\" bin ich ca. 3,5 Wochen hinterhergelaufen, um mal ein kurzes Meeting (30 Min.) zu veranstalten, um ein paar spezifische Informationen zu bekommen. Nach 20 Minuten hat er das Meeting beendet, mit dem Hinweis, er habe jetzt anderes zu tun. Liebes HR-Team: Wählt doch bitte MAs als Buddys aus, die Lust darauf und Zeit dafür haben. Mein Onboarding habe ich mir selbst zusammengestellt, da es keines gab und auch keinen interessiert hat. Proaktiv kommen die Leute m. E. kaum auf neue Kolleginnen und Kollegen zu. So etwas habe ich noch nie erlebt. Zum Glück bin ich nicht ganz schüchtern - irritierend ist das aber dennoch. Vor allem das HR-Team versagt bei der Bewillkommnung von neuen MAs und ist überfordert.\n\nIdeenlos. Kopflos. Planlos. Zuweilen vage Ansagen, wenn es überhaupt welche gibt. Vereinbarungen werden gerne nach wenigen Tagen oder Wochen ins Gegenteil gekippt. Dazu gelegentliches arrogantes und überhebliches Auftreten. Orientierung muss man selbst finden, da es keine Strategie gibt (oder sie wird einfach nicht kommuniziert).\n\nSehr schönes Büro mit Lounge und Terrasse. Zentral gelegen mit Blick auf Elphi und Landungsbrücken.\n\nIn Townhall-Meetings klopft sich das Management-Board gegenseitig auf die Schultern. \"Das Volk\" darf danach per Mail Fragen stellen. Aber immerhin gibt es einen Termin für solche Meetings.\n\nEs gibt eine klare Zweiklassengesellschaft zwischen Anwältinnen/ Anwälten und \"dem Rest\".",
+      "rating": 2.3,
+      "sections": {
+        "positive": "Das Bürogebäude.",
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Abteilungen bleiben isoliert. Einen abteilungsübergreifenden Austausch gibt es nicht und ist m. E. auch von niemandem gewünscht. Mehrfach habe ich von Kolleginnen und Kollegen den Satz gehört: \"Hier haben die Wände Ohren.\". Misstrauen trifft Fatalismus trifft Demotivation.",
+        "image": "Man weidet sich selbstverliebt an den überschaubaren juristischen Erfolgen.",
+        "environment": "Es wird unfassbar viel ausgedruckt. Zu Weihnachten gibt es eine Spendenaktion für gute Zwecke.",
+        "career": "Es gab mal LinkedIn Learning. Online-Seminare (zumeist zu den verwendeten Tools) sind letztlich nur für neue MAs - maximal noch als Refresher. Der Trainer ist absolute Spitze und ein witziger Typ. Mach weiter so!!!",
+        "teamwork": "Durch die (gewollte) Isolation der Abteilungen, ist es mitunter schwierig Kolleginnen und Kollegen außerhalb des eigenen Teams kennenzulernen. Meinem mir zugewiesenen \"Buddy\" bin ich ca. 3,5 Wochen hinterhergelaufen, um mal ein kurzes Meeting (30 Min.) zu veranstalten, um ein paar spezifische Informationen zu bekommen. Nach 20 Minuten hat er das Meeting beendet, mit dem Hinweis, er habe jetzt anderes zu tun. Liebes HR-Team: Wählt doch bitte MAs als Buddys aus, die Lust darauf und Zeit dafür haben. Mein Onboarding habe ich mir selbst zusammengestellt, da es keines gab und auch keinen interessiert hat. Proaktiv kommen die Leute m. E. kaum auf neue Kolleginnen und Kollegen zu. So etwas habe ich noch nie erlebt. Zum Glück bin ich nicht ganz schüchtern - irritierend ist das aber dennoch. Vor allem das HR-Team versagt bei der Bewillkommnung von neuen MAs und ist überfordert.",
+        "leadership": "Ideenlos. Kopflos. Planlos. Zuweilen vage Ansagen, wenn es überhaupt welche gibt. Vereinbarungen werden gerne nach wenigen Tagen oder Wochen ins Gegenteil gekippt. Dazu gelegentliches arrogantes und überhebliches Auftreten. Orientierung muss man selbst finden, da es keine Strategie gibt (oder sie wird einfach nicht kommuniziert).",
+        "workConditions": "Sehr schönes Büro mit Lounge und Terrasse. Zentral gelegen mit Blick auf Elphi und Landungsbrücken.",
+        "communication": "In Townhall-Meetings klopft sich das Management-Board gegenseitig auf die Schultern. \"Das Volk\" darf danach per Mail Fragen stellen. Aber immerhin gibt es einen Termin für solche Meetings.",
+        "equality": "Es gibt eine klare Zweiklassengesellschaft zwischen Anwältinnen/ Anwälten und \"dem Rest\"."
+      },
+      "factor_scores": {
+        "atmosphere": 2.0,
+        "workLife": 4.0,
+        "communication": 2.0,
+        "workConditions": 5.0,
+        "leadership": 1.0,
+        "teamwork": 1.0,
+        "oldColleagues": null,
+        "equality": 1.0,
+        "career": 1.0,
+        "salary": 3.0,
+        "image": 2.0,
+        "environment": 2.0,
+        "tasks": 3.0
+      },
+      "published_at": "2025-05-19T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "5b9c2b54-852a-4683-a478-f51e76161678",
+      "url": "https://www.kununu.com/de/taylor-wessing/bewertung/5b9c2b54-852a-4683-a478-f51e76161678",
+      "title": "Sehr abhängig von der Führungskraft",
+      "content": "Sehr viele persönlich sehr nette Menschen und viele fachliche extrem gute Partner\n\nInvestition in die Auswahl und Ausbildung der Führungskräfte, besser Möglichkeiten für Business Service Mitarbeiter aufzeigen\n\nIm Team wirklich gut aber eher zufällig ohne Einfluss der Führungskraft. Wenig Feedback, manche Anwälte sehen die Business Service eher als Werkbank denn als Mitarbeiter mit eigenen Fähigkeiten und Wissen\n\nOkay, aber nicht herausragend. Sehr abhängig von den Nöten de jeweiligen Anwalts. Es wird erwartet, dass man auch im Urlaub in die E-Mails schaut.\n\nWird besser\n\nLeider nur wirklich gute Bedingungen für Anwälte\n\nInnerhalb der einzelnen Bereiche sehr gut, hier wird aber auch der deutliche Unterschied zwischen Business Service und Anwälten deutlich.\n\nLeider fehlendes Training für Vorgesetzte, was zu einer offensichtlichen Überforderung führt. Keine gute Feedback Kultur außerhalb des Gesprächs einmal im Jahr.\n\nSchwierig, Kommunikation nur sehr eingeschränkt von oben und das wird auch nicht immer über die mittlere Ebene an die Mitarbeiter durchgegeben. Führungskraft zum Teil auch orientierungslos und damit keine gute Kommunikation. Sehr wenige reguläre Einzel Touchpoints, was in einem regional verteilten Team sinnvoll wäre.\n\nDie Frauenquote verringert sich signifikant mit der Höhe der Position\n\nJe nach Tag unterschiedlich aber wenig Möglichkeit zum Beeinflussen der eigenen Arbeit.",
+      "rating": 3.2,
+      "sections": {
+        "positive": "Sehr viele persönlich sehr nette Menschen und viele fachliche extrem gute Partner",
+        "negative": null,
+        "suggestion": "Investition in die Auswahl und Ausbildung der Führungskräfte, besser Möglichkeiten für Business Service Mitarbeiter aufzeigen"
+      },
+      "factor_comments": {
+        "atmosphere": "Im Team wirklich gut aber eher zufällig ohne Einfluss der Führungskraft. Wenig Feedback, manche Anwälte sehen die Business Service eher als Werkbank denn als Mitarbeiter mit eigenen Fähigkeiten und Wissen",
+        "workLife": "Okay, aber nicht herausragend. Sehr abhängig von den Nöten de jeweiligen Anwalts. Es wird erwartet, dass man auch im Urlaub in die E-Mails schaut.",
+        "environment": "Wird besser",
+        "career": "Leider nur wirklich gute Bedingungen für Anwälte",
+        "teamwork": "Innerhalb der einzelnen Bereiche sehr gut, hier wird aber auch der deutliche Unterschied zwischen Business Service und Anwälten deutlich.",
+        "leadership": "Leider fehlendes Training für Vorgesetzte, was zu einer offensichtlichen Überforderung führt. Keine gute Feedback Kultur außerhalb des Gesprächs einmal im Jahr.",
+        "communication": "Schwierig, Kommunikation nur sehr eingeschränkt von oben und das wird auch nicht immer über die mittlere Ebene an die Mitarbeiter durchgegeben. Führungskraft zum Teil auch orientierungslos und damit keine gute Kommunikation. Sehr wenige reguläre Einzel Touchpoints, was in einem regional verteilten Team sinnvoll wäre.",
+        "equality": "Die Frauenquote verringert sich signifikant mit der Höhe der Position",
+        "tasks": "Je nach Tag unterschiedlich aber wenig Möglichkeit zum Beeinflussen der eigenen Arbeit."
+      },
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 3.0,
+        "communication": 3.0,
+        "workConditions": 4.0,
+        "leadership": 2.0,
+        "teamwork": 4.0,
+        "oldColleagues": null,
+        "equality": 3.0,
+        "career": 2.0,
+        "salary": 4.0,
+        "image": 3.0,
+        "environment": 4.0,
+        "tasks": 3.0
+      },
+      "published_at": "2025-04-14T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "3bd03333-56e3-4b8c-b642-6672d840d082",
+      "url": "https://www.kununu.com/de/taylor-wessing/bewertung/3bd03333-56e3-4b8c-b642-6672d840d082",
+      "title": "Top Arbeitgeber",
+      "content": "Sehr angenehmes Klima und tolle Unternehmenskultur.",
+      "rating": 4.5,
+      "sections": {
+        "positive": "Sehr angenehmes Klima und tolle Unternehmenskultur.",
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-04-07T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "480ff6ec-62d4-4d7c-aafd-a4a7068e8460",
+      "url": "https://www.kununu.com/de/taylor-wessing/bewertung/480ff6ec-62d4-4d7c-aafd-a4a7068e8460",
+      "title": "Das Beste von Taylor Wessing ist der Berliner Standort inkl. Hausmeister",
+      "content": "Insbesondere an Berliner Standort tolle Vielfalt … das Beste von TW habe ich mir mit viel Geduld und Herzblut mitgenommen !\n\nKeine Feedbackkultur und null HR-Struktur ohne Exitkultur in 2024 hat sehr viel Luft nach oben.\n\nLeider schlechter als Inside\n\nNur auf Partnertrack fokussiert … sehr schade!\n\nDie andere Kanzlei … völlig zurecht\n\nWie oft im Leben sehr personenabhängig\n\nLeider wenig echte Führungskräfte, wie sooft in Kanzleien\n\nSehr inkonsistent",
+      "rating": 4.0,
+      "sections": {
+        "positive": "Insbesondere an Berliner Standort tolle Vielfalt … das Beste von TW habe ich mir mit viel Geduld und Herzblut mitgenommen !",
+        "negative": "Keine Feedbackkultur und null HR-Struktur ohne Exitkultur in 2024 hat sehr viel Luft nach oben.",
+        "suggestion": null
+      },
+      "factor_comments": {
+        "image": "Leider schlechter als Inside",
+        "career": "Nur auf Partnertrack fokussiert … sehr schade!",
+        "environment": "Die andere Kanzlei … völlig zurecht",
+        "teamwork": "Wie oft im Leben sehr personenabhängig",
+        "leadership": "Leider wenig echte Führungskräfte, wie sooft in Kanzleien",
+        "communication": "Sehr inkonsistent"
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 3.0,
+        "communication": 3.0,
+        "workConditions": 5.0,
+        "leadership": 3.0,
+        "teamwork": 4.0,
+        "oldColleagues": 4.0,
+        "equality": 4.0,
+        "career": 4.0,
+        "salary": 4.0,
+        "image": 3.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-03-23T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "244e1ab6-c195-4484-acca-9d6157d17d57",
+      "url": "https://www.kununu.com/de/taylor-wessing/bewertung/244e1ab6-c195-4484-acca-9d6157d17d57",
+      "title": "Absoluter Horror",
+      "content": "N/A\n\nDie Art wie mit Mitarbeitern umgegangen wird, geht überhaupt nicht. Ich würde jedem davon abraten, dort anzufangen.\n\nMan fühlt sich in dem Büro überhaupt nicht wohl.\n\nMehr Schein als sein\n\nNette Kolleginnen\n\nSchlechter geht’s nicht.\n\nGleich 0\n\nNur Männer in der Geschäftsführung",
+      "rating": 1.3,
+      "sections": {
+        "positive": "N/A",
+        "negative": "Die Art wie mit Mitarbeitern umgegangen wird, geht überhaupt nicht. Ich würde jedem davon abraten, dort anzufangen.",
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Man fühlt sich in dem Büro überhaupt nicht wohl.",
+        "environment": "Mehr Schein als sein",
+        "teamwork": "Nette Kolleginnen",
+        "leadership": "Schlechter geht’s nicht.",
+        "communication": "Gleich 0",
+        "equality": "Nur Männer in der Geschäftsführung"
+      },
+      "factor_scores": {
+        "atmosphere": 1.0,
+        "workLife": 1.0,
+        "communication": 1.0,
+        "workConditions": 1.0,
+        "leadership": 1.0,
+        "teamwork": 4.0,
+        "oldColleagues": null,
+        "equality": 1.0,
+        "career": 1.0,
+        "salary": 1.0,
+        "image": 1.0,
+        "environment": 1.0,
+        "tasks": 1.0
+      },
+      "published_at": "2025-03-14T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "e3535b64-e86f-4885-ab95-9e8de957d6f3",
+      "url": "https://www.kununu.com/de/taylor-wessing/bewertung/e3535b64-e86f-4885-ab95-9e8de957d6f3",
+      "title": "Auf menschlicher Ebene ist noch Luft nach oben",
+      "content": "Für mein Empfinden ist die Atmosphäre in vielen Abteilungen drückend und sehr stressig.\n\nDas Image hat gelitten und ich finde, es gab Gründe; aber der gute Ruf ist ja nach wie vor vorhanden.\n\nEs wird viel darüber gesprochen, aber ich habe nicht diesen Eindruck gewonnen. Jedenfalls bei mir fand diese sagenumwobene Work-Life-Balance nicht statt.\n\nDazu kann ich nicht viel sagen.\n\nTatsächlich kann man hier gut verdienen. Die Frage müsste aber - meiner Meinung nach - lauten: will man den Preis dafür zahlen?\n\nAuch hier: viel Kampagne, wenig Umsetzung.\n\nDer Kollegenzusammenhalt ist wenig vorhanden und klar getrennt zwischen den hirarchischen Ebenen. Man begegnet viel Flurfunk und unangenehmen Situationen.\n\nAuch von älteren Kollegen sieht man nicht wirklich viel.\n\nSehr schwierig. Ich fände es gut, wenn die Vorgesetzten verpflichtend Kurse belegten und lernten, wie man Teams leitet. Täte einigen gut.\n\nDie Arbeitsbedingungen sind wirklich okay.\n\nIch habe selten ein Unternehmen gesehen, bei dem die Kommunikation so unterdurchschnittlich ist. Das ist auch einer der wichtigsten negativen Punkte.\n\nWahrscheinlich habe ich ein anderes Empfinden in Bezug auf Gleichberechtigung. Hier habe ich nicht wirklich viele Frauen in Führungspositionen gesehen.\n\nGibt es wohl schon. Für einige.",
+      "rating": 2.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Für mein Empfinden ist die Atmosphäre in vielen Abteilungen drückend und sehr stressig.",
+        "image": "Das Image hat gelitten und ich finde, es gab Gründe; aber der gute Ruf ist ja nach wie vor vorhanden.",
+        "workLife": "Es wird viel darüber gesprochen, aber ich habe nicht diesen Eindruck gewonnen. Jedenfalls bei mir fand diese sagenumwobene Work-Life-Balance nicht statt.",
+        "career": "Dazu kann ich nicht viel sagen.",
+        "salary": "Tatsächlich kann man hier gut verdienen. Die Frage müsste aber - meiner Meinung nach - lauten: will man den Preis dafür zahlen?",
+        "environment": "Auch hier: viel Kampagne, wenig Umsetzung.",
+        "teamwork": "Der Kollegenzusammenhalt ist wenig vorhanden und klar getrennt zwischen den hirarchischen Ebenen. Man begegnet viel Flurfunk und unangenehmen Situationen.",
+        "oldColleagues": "Auch von älteren Kollegen sieht man nicht wirklich viel.",
+        "leadership": "Sehr schwierig. Ich fände es gut, wenn die Vorgesetzten verpflichtend Kurse belegten und lernten, wie man Teams leitet. Täte einigen gut.",
+        "workConditions": "Die Arbeitsbedingungen sind wirklich okay.",
+        "communication": "Ich habe selten ein Unternehmen gesehen, bei dem die Kommunikation so unterdurchschnittlich ist. Das ist auch einer der wichtigsten negativen Punkte.",
+        "equality": "Wahrscheinlich habe ich ein anderes Empfinden in Bezug auf Gleichberechtigung. Hier habe ich nicht wirklich viele Frauen in Führungspositionen gesehen.",
+        "tasks": "Gibt es wohl schon. Für einige."
+      },
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-03-04T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "0996974e-aa47-4e85-87d9-5e92a6f94393",
+      "url": "https://www.kununu.com/de/taylor-wessing/bewertung/0996974e-aa47-4e85-87d9-5e92a6f94393",
+      "title": "Seit fast 18 Jahren komme ich immer noch jeden Tag gerne ins Büro",
+      "content": "immer kollegial, fast freundschaftlich und wertschätzend\n\nes gab Zeiten, in denen es gelitten hat, aber inzwischen dürfte alles wieder in Ordnung sein\n\nzumindest im Assistenz-Bereich gegeben, da Teilzeitbeschäftigung und Home Office möglich sind\n\nviele interne Weiterbildungsmöglichkeiten und auch extern wird immer angeboten und befürwortet\n\nmehr wäre immer schön\n\nseit wir eine Sustainability Managerin haben, nahezu perfekt\n\nhat sich in der langen Zeit verändert, aufgrund vieler Wechsel und Neuzugänge, ist aber trotzdem insgesamt gut\n\nda ich selbst zu diesen gehöre, kann ich nur sagen, sehr gut!\n\nkann nur mein Dezernat bewerten und hier ist es perfekt\n\nalles perfekt\n\nwichtige Dinge werden offen kommuniziert\n\nabsolut gegeben, zumindest, soweit ich es beurteilen kann\n\nhat sich im Lauf der Zeit auch sehr verändert, aber man kann sich immer interessante und herausfordernde Aufgaben suchen und wird diese auch finden",
+      "rating": 4.3,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "immer kollegial, fast freundschaftlich und wertschätzend",
+        "image": "es gab Zeiten, in denen es gelitten hat, aber inzwischen dürfte alles wieder in Ordnung sein",
+        "workLife": "zumindest im Assistenz-Bereich gegeben, da Teilzeitbeschäftigung und Home Office möglich sind",
+        "career": "viele interne Weiterbildungsmöglichkeiten und auch extern wird immer angeboten und befürwortet",
+        "salary": "mehr wäre immer schön",
+        "environment": "seit wir eine Sustainability Managerin haben, nahezu perfekt",
+        "teamwork": "hat sich in der langen Zeit verändert, aufgrund vieler Wechsel und Neuzugänge, ist aber trotzdem insgesamt gut",
+        "oldColleagues": "da ich selbst zu diesen gehöre, kann ich nur sagen, sehr gut!",
+        "leadership": "kann nur mein Dezernat bewerten und hier ist es perfekt",
+        "workConditions": "alles perfekt",
+        "communication": "wichtige Dinge werden offen kommuniziert",
+        "equality": "absolut gegeben, zumindest, soweit ich es beurteilen kann",
+        "tasks": "hat sich im Lauf der Zeit auch sehr verändert, aber man kann sich immer interessante und herausfordernde Aufgaben suchen und wird diese auch finden"
+      },
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-02-27T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    }
+  ],
+  "review_limit": 15,
+  "review_period": {
+    "since": "2024-11-25T00:00:00+00:00",
+    "until": "2026-11-25T17:16:35.101240+00:00",
+    "date_field": "published_at",
+    "missing_dates": "excluded"
+  },
+  "factor_scores_aggregated": {
+    "atmosphere": {
+      "mean": 2.75,
+      "count": 12
+    },
+    "workLife": {
+      "mean": 3.0,
+      "count": 12
+    },
+    "communication": {
+      "mean": 2.33,
+      "count": 12
+    },
+    "workConditions": {
+      "mean": 3.25,
+      "count": 12
+    },
+    "leadership": {
+      "mean": 2.42,
+      "count": 12
+    },
+    "teamwork": {
+      "mean": 3.58,
+      "count": 12
+    },
+    "oldColleagues": {
+      "mean": 3.71,
+      "count": 7
+    },
+    "equality": {
+      "mean": 2.89,
+      "count": 9
+    },
+    "career": {
+      "mean": 2.33,
+      "count": 12
+    },
+    "salary": {
+      "mean": 3.17,
+      "count": 12
+    },
+    "image": {
+      "mean": 2.58,
+      "count": 12
+    },
+    "environment": {
+      "mean": 3.08,
+      "count": 12
+    },
+    "tasks": {
+      "mean": 2.83,
+      "count": 12
+    }
+  },
+  "coverage": "bounded_employee_review_sample_last_2_years_not_all_reviews",
+  "diagnostics": {
+    "pages": [
+      {
+        "page": "reviews",
+        "page_number": 1,
+        "load_more_clicks": 0,
+        "requested_url": "https://www.kununu.com/de/taylor-wessing/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Taylor-Wessing-b5cb2cce\\browser\\reviews.html",
+        "browser_step": 93,
+        "final_url": "https://www.kununu.com/de/taylor-wessing/kommentare",
+        "observed_at": "2026-11-25T17:16:36.676486+00:00",
+        "http_status": 200,
+        "factor_cards_expanded": 3,
+        "reviews_collected": 10
+      },
+      {
+        "page": "reviews",
+        "page_number": 2,
+        "load_more_clicks": 1,
+        "requested_url": "https://www.kununu.com/de/taylor-wessing/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Taylor-Wessing-b5cb2cce\\browser\\reviews-2.html",
+        "browser_step": 94,
+        "final_url": "https://www.kununu.com/de/taylor-wessing/kommentare",
+        "observed_at": "2026-11-25T17:16:38.415544+00:00",
+        "actions_complete": true,
+        "factor_cards_expanded": 2,
+        "reviews_collected": 15
+      }
+    ]
+  },
+  "source_url": "https://www.kununu.com/de/taylor-wessing",
+  "profile_source": "https://www.kununu.com/de/taylor-wessing/kommentare",
+  "review_stop_reason": "sample_limit_reached",
+  "factor_score_coverage": {
+    "reviews_with_scores": 12,
+    "reviews_without_scores": 3,
+    "reviews_with_all_known_scores": 6,
+    "status": "partial"
+  },
+  "request_limits": {
+    "max_browser_steps": 295,
+    "browser_steps": 94,
+    "zyte_requests": 0
+  },
+  "reason": null
+}

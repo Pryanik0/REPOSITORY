@@ -1,0 +1,132 @@
+MAC IT-Solutions GmbH — Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023
+MAC IT-Solutions GmbH
+
+Flensburg
+
+Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023
+
+Bilanz
+
+scroll
+
+Aktiva	Aktiva	Aktiva
+	31.12.2023 EUR	31.12.2022 EUR
+A. Anlagevermögen	747.510,88	1.296.629,41
+I. Immaterielle Vermögensgegenstände	367.374,29	878.926,34
+II. Sachanlagen	380.136,59	417.703,07
+B. Umlaufvermögen	2.166.573,30	2.696.724,03
+I. Vorräte	37.527,50	65.790,00
+II. Forderungen und sonstige Vermögensgegenstände	1.763.366,72	2.279.160,18
+III. Kassenbestand, Bundesbankguthaben, Guthaben bei Kreditinstituten und Schecks	365.679,08	351.773,85
+C. Rechnungsabgrenzungsposten	354.299,39	197.367,65
+Summe Aktiva	3.268.383,57	4.190.721,09
+
+scroll
+
+Passiva	Passiva	Passiva
+	31.12.2023 EUR	31.12.2022 EUR
+A. Eigenkapital	396.485,46	904.837,96
+I. gezeichnetes Kapital	100.000,00	100.000,00
+II. Bilanzgewinn	296.485,46	804.837,96
+davon Gewinnvortrag	804.837,96	1.073.112,96
+B. Rückstellungen	374.839,27	273.110,96
+C. Verbindlichkeiten	2.488.537,58	2.933.893,92
+davon mit einer Restlaufzeit bis zu einem Jahr	1.730.204,23	2.031.116,13
+davon mit einer Restlaufzeit von mehr als einem Jahr	758.333,35	902.777,79
+davon aus Steuern	304.695,21	241.917,44
+davon im Rahmen der sozialen Sicherheit	12.616,01	10.961,16
+D. Rechnungsabgrenzungsposten	8.521,26	78.878,25
+Summe Passiva	3.268.383,57	4.190.721,09
+
+Anhang
+
+1. Allgemeine Angaben
+
+Die MAC IT-Solutions GmbH hat ihren Sitz in Flensburg und ist beim Amtsgericht Flensburg unter der Nummer HRB 9075 eingetragen.
+
+Der Jahresabschluss zum 31. Dezember 2023 der MAC IT-Solutions GmbH, Flensburg, wurde nach den für Kapitalgesellschaften geltenden Vorschriften des Handelsgesetzbuches (§§ 264 ff. HGB) in der Fassung des BilRUG sowie des GmbH-Gesetzes aufgestellt.
+
+Für die Gewinn- und Verlustrechnung wurde das Gesamtkostenverfahren gewählt.
+
+Die Gesellschaft ist im Geschäftsjahr 2023 nach den Größenmerkmalen gemäß § 267 HGB als eine kleine Kapitalgesellschaft zu qualifizieren.
+
+Von den Erleichterungen nach § 288 HGB wurde in vollem Umfang Gebrauch gemacht.
+
+2. Bilanzierungs- und Bewertungsmethoden
+
+Die immateriellen Vermögensgegenstände und die Sachanlagen sind zu Anschaffungskosten vermindert um planmäßige Abschreibungen angesetzt. Dabei werden entgeltlich erworbene EDV-Programme über eine betriebsgewöhnliche Nutzungsdauer von drei Jahren abgeschrieben. Die abnutzbaren, beweglichen Anlagegegenstände wurden linear über die betriebsgewöhnliche Nutzungsdauer abgeschrieben. Außerplanmäßige Abschreibungen aufgrund steuerrechtlicher Vorschriften wurden im Geschäftsjahr nicht vorgenommen.
+
+Anschaffungs- oder Herstellungskosten von abnutzbaren beweglichen Wirtschaftsgütern des Anlagevermögens, die einer selbständigen Nutzung fähig sind, werden im Wirtschaftsjahr der Anschaffung, Herstellung oder Einlage in voller Höhe als Betriebsausgaben erfasst, wenn die Anschaffungs- oder Herstellungskosten, vermindert um einen darin enthaltenen Vorsteuerbetrag, für das einzelne Wirtschaftsgut EUR 800,00 nicht übersteigen.
+
+Die Vorräte werden grundsätzlich zu Anschaffung- bzw. Herstellungskosten unter Beachtung des Niederstwertprinzips bewertet und umfassen alle direkt dem Herstellungsprozess zurechenbaren Kosten sowie notwendige Teile der produktionsbezogenen Gemeinkosten.
+
+Die Forderungen und sonstigen Vermögensgegenstände sind grundsätzlich zu Nominalwerten unter Beachtung des Niederstwertprinzips angesetzt. Erkennbare Risiken werden durch Einzelwertberichtigungen berücksichtigt. Dem allgemeinen Kreditrisiko wird durch Bildung einer Pauschalwertberichtigung Rechnung getragen.
+
+Die Rechnungsabgrenzungsposten betreffen Ausgaben bzw. Einnahmen vor dem Abschlussstichtag, soweit sie Aufwand bzw. Ertrag für eine bestimmte Zeit nach diesem Tag darstellen.
+
+Die Rückstellungen beinhalten alle erkennbaren Risiken und ungewissen Verpflichtungen. Sie sind nach vernünftiger kaufmännischer Beurteilung mit ihrem notwendigen Erfüllungsbetrag angesetzt.
+
+Die Verbindlichkeiten sind mit ihrem Erfüllungsbetrag angesetzt.
+
+3. Erläuterungen zur Bilanz
+
+Der Bilanzgewinn entwickelte sich wie folgt:
+
+scroll
+
+	EUR
+Bilanzgewinn 31. Dezember 2022	804.837,96
+Jahresüberschuss 2023	1.149.828,65
+Ergebnisabführung 2023	-1.658.181,15
+Bilanzgewinn 31. Dezember 2023	296.485,46
+- davon Gewinnvortrag EUR 804.837,96	
+
+Der Gesamtbetrag, der gemäß § 268 Abs. 8 HGB der Ausschüttungssperre unterliegt, beträgt TEUR 296. Der Betrag entfällt in voller Höhe auf selbst geschaffene immaterielle Vermögensgegenstände des Anlagevermögens.
+
+Die Verbindlichkeiten haben in Höhe von EUR 181.555,59 eine Restlaufzeit von mehr als fünf Jahren (VJ: TEUR 325).
+
+Haftungsverhältnisse aus nicht bilanzierten Verbindlichkeiten gemäß § 251 HGB
+
+Die MAC IT-Solutions GmbH ist - gesamtschuldnerisch mit weiteren Gesellschaftern - als Garant in den Kreditvertrag zwischen der Muttergesellschaft collana IT GmbH (Kreditnehmer) und der RV AIP S.C.S. SIVAV-SIF (Kreditgeber) eingebunden. Die mögliche Leistungspflicht der MAC IT-Solutions GmbH ist insofern beschränkt, als dass eine Zahlung auf die Garantie nicht dazu führen darf, dass die Gesellschaft in Verletzung von §§ 30, 31 GmbHG nicht mehr über genügend Vermögen verfügen würde, um sein Stammkapital zu erhalten oder eine bestehende Unterdeckung vertieft würde. Hierfür wurden zur Besicherung des genannten Kredits die Bankkonten und Versicherungen der Gesellschaft zu Gunsten des Kreditgebers verpfändet. Es besteht außerdem eine Raumsicherungsübereignung des beweglichen Anlagevermögens sowie der Vorräte.
+
+Zum Abschlussstichtag besteht der Kredit in Höhe von MEUR 20. Mit einer Inanspruchnahme aus den Haftungsverhältnissen ist aufgrund der positiven Perspektive der Gesellschaft nicht zu rechnen.
+
+Sonstige finanzielle Verpflichtungen
+
+Die sonstigen finanziellen Verpflichtungen aus Leasing-, Miet- und Wartungsverträgen betragen zum Abschlussstichtag EUR 828.880,00. Diese setzen sich wie folgt zusammen:
+
+scroll
+
+Verträge mit bestimmter Laufzeit	EUR
+fällig 2024	490.537,00
+fällig 2025 und 2026	338.343,00
+	828.880,00
+Verträge mit unbestimmter Laufzeit	
+fällig 2024	4.530,00
+
+Aus Wirtschaftlichkeitsgründen wurde dem Leasing der Vorzug vor einer Investition in das Anlagevermögen gegeben. Die Miet- und Leasinggeschäfte dienen der mittelfristigen Verbesserung der Liquiditätssituation und der Verbesserung der Eigenkapitalquote. Risiken bzw. Nachteile resultieren aus der unkündbaren Grundmietzeit der Leasingverträge und höheren Refinanzierungskosten.
+
+4. Sonstige Angaben
+
+Die durchschnittliche Zahl der Arbeitnehmer - einschließlich Aushilfen, jedoch ohne Geschäftsführer und Auszubildende - betrug im Geschäftsjahr 123.
+
+Unterjährig wurde ein Mitarbeiter mit einem Minijobvertrag beschäftigt. Die Anzahl der Auszubildenden betrug zum Ende des Geschäftsjahres 4.
+
+Geschäftsführer der Gesellschaft im Geschäftsjahr 2023 waren:
+
+- Herr Dirk Wieland, Flensburg, bis 30. April 2023,
+- Frau Nicole Wehner, Köln, mit der Befugnis Rechtsgeschäfte als Vertreter Dritter abzuschließen,
+- Frau Aida Dia, Hamburg, ab 1. Mai 2023, mit der Befugnis Rechtsgeschäfte als Vertreter Dritter abzuschließen,
+- Herr Jörn Fischer, Flensburg, ab 1. Mai 2023, mit der Befugnis Rechtsgeschäfte als Vertreter Dritter abzuschließen,
+- Herr Dirk Petersen, Handewitt, ab 1. Mai 2023, mit der Befugnis Rechtsgeschäfte als Vertreter Dritter abzuschließen.
+
+Die von der Gesellschaft an die Geschäftsführer gewährten Gesamtbezüge (Brutto) des Geschäftsjahres betragen insgesamt EUR 400.500,00.
+
+Flensburg, den 17. Februar 2023
+
+gez. Nicole Wehner
+gez. Aida Dia
+gez. Jörn Fischer
+gez. Dirk Petersen
+
+Die Feststellung bzw. Billigung des Jahresabschlusses erfolgte am 21.7.2024.

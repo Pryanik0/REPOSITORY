@@ -1,0 +1,737 @@
+Kulzer GmbH — Jahresabschluss zum Geschäftsjahr vom 01.04.2022 bis zum 31.03.2023
+Kulzer GmbH
+
+Hanau
+
+Jahresabschluss zum Geschäftsjahr vom 01.04.2022 bis zum 31.03.2023
+
+Entwicklung des Anlagevermögens zum 31. März 2023 (in TEUR)
+
+scroll
+
+	Anschaffungskosten bzw. Herstellungskosten 31.03.2022	Zugänge	Abgänge	Umbuchungen	Anschaffungskosten bzw. Herstellungskosten 31.03.2023
+Immaterielle Vermögensgegenstände					
+gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten	10.022	188	330	226	10.106
+geleistete Anzahlungen	122	451	-	-264	309
+	10.144	639	330	-38	10.415
+Sachanlagen					
+Grundstücke, grundstücksgleiche Rechte und Bauten	0	14	-		14
+technische Anlagen und Maschinen	12.096	93	28	564	12.725
+andere Anlagen, Betriebs- und Geschäftsausstattung	19.525	593	24	193	20.287
+geleistete Anzahlungen und Anlagen im Bau	1.037	9.800		-719	10.118
+	32.658	10.500	52	38	43.144
+Finanzanlagen					
+Anteile an verbundenen Unternehmen	16.792	-	-	-	16.792
+	16.792	0	0	0	16.792
+Anlagevermögen	59.594	11.139	382	0	70.351
+
+scroll
+
+	kumulierte Abschreibungen 31.03.2022	Abschreibungen des Geschäftsjahres	Abschreibungen auf Abgänge	Zuschreibungen	kumulierte Abschreibungen 31.03.2023
+Immaterielle Vermögensgegenstände					
+gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten	9.259	263	0		9.522
+geleistete Anzahlungen	-	-	-	-	-
+	9.259	263	0	0	9.522
+Sachanlagen					
+Grundstücke, grundstücksgleiche Rechte und Bauten	0		-		0
+technische Anlagen und Maschinen	10.603	372	27		10.948
+andere Anlagen, Betriebs- und Geschäftsausstattung	17.125	1.031	24		18.132
+geleistete Anzahlungen und Anlagen im Bau	-	-	-	-	0
+	27.728	1.403	51	0	29.080
+Finanzanlagen					
+Anteile an verbundenen Unternehmen	9.849	-	-	1.370	8.479
+	9.849	0	0	1.370	8.479
+Anlagevermögen	46.836	1.666	51	1.370	47.081
+
+scroll
+
+	Buchwerte 31.03.2023	Buchwerte Vorjahr 31.03.2022
+Immaterielle Vermögensgegenstände		
+gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten	584	763
+geleistete Anzahlungen	309	122
+	893	885
+Sachanlagen		
+Grundstücke, grundstücksgleiche Rechte und Bauten	14	0
+technische Anlagen und Maschinen	1.777	1.493
+andere Anlagen, Betriebs- und Geschäftsausstattung	2.155	2.400
+geleistete Anzahlungen und Anlagen im Bau	10.118	1.037
+	14.064	4.930
+Finanzanlagen		
+Anteile an verbundenen Unternehmen	8.313	6.943
+	8.313	6.943
+Anlagevermögen	23.270	12.758
+
+ANTEILSBESITZ DER KULZER GMBH, HANAU
+
+(Stand 31.03.2023, Beträge in 1000 Einheiten Landeswährung)
+
+scroll
+
+Name der Gesellschaft	Sitz	Land	Landeswährung	Anteil am Kapital in %	Eigenkapital	Jahresergebnis 2023
+Scientific Glass GmbH	Usingen	Deutschland	EUR	100,00	251	0 1)
+Kulzer S.R.L.	Sacalaz	Rumänien	RON	99,99	33.594	3.289 2)3)
+
+1) Mit der genannten Gesellschaften besteht ein Ergebnisabführungsvertrag
+2) Lokales Ergebnis abweichend zu IFRS Ergebnis gemäß internem Berichtspaket
+3) Wechselkurs per 31.03.2023: 4,94850 RON/EUR
+
+scroll
+
+Bericht des Aufsichtsrats	Report of the Supervisory Board
+Kulzer GmbH	
+Der Aufsichtsrat hat im Geschäftsjahr vom 01.04.2022 bis zum 31.03.2023 die Geschäftsführung der Kulzer GmbH kontinuierlich überwacht und diese bei der Leitung des Unternehmens regelmäßig beraten. Die Geschäftsführung ist ihren Informationspflichten nachgekommen und hat uns regelmäßig, zeitnah und umfassend in schriftlicher und mündlicher Form über die für das Unternehmen relevanten Vorkommnisse und Maßnahmen unterrichtet. Die Mitglieder des Aufsichtsrats hatten stets ausreichend Gelegenheit, sich im Plenum mit den vorgelegten Berichten und Beschlussvorträgen der Geschäftsführung kritisch auseinanderzusetzen und eigene Anregungen einzubringen. Zu einzelnen Geschäftsvorgängen hat der Aufsichtsrat seine Zustimmung erteilt, soweit dies nach Gesetz oder Satzung erforderlich war. Der Aufsichtsratsvorsitzende und die Geschäftsführung haben auch zwischen den Aufsichtsratssitzungen in einem engen und regelmäßigen Informations- und Gedankenaustausch gestanden und sich über wesentliche Entwicklungen informiert. Insgesamt fanden im Berichtszeitraum zwei Sitzungen statt. Ausschüsse des Aufsichtsrates bestanden im Berichtszeitraum nicht.	During the period from April 1st, 2022 - March 31, 2023 the Supervisory Board has continuously controlled the management of the Kulzer GmbH and advised the management on a regular basis. The management has fulfilled its obligation to inform the Supervisory Board and promptly and comprehensively informed the Supervisory Board in writing and orally about the relevant events for the company and measures. The members of the Supervisory Board have always had a reasonable opportunity in plenary to check the submitted reports and presentations critically and to contribute their own suggestions. For individual business processes the Supervisory Board granted its approval to the extent required by law or statute. The chairman of the Supervisory Board and the management have also stood between Supervisory Board meetings in a narrow and regular exchange of information and ideas, and informed each other of significant developments. During the reporting period in total two Supervisory Board meetings took place. There were no Supervisory Board committees during the reporting period.
+Die Zusammensetzung des Aufsichtsrats hat sich im Zeitraum vom 01.04.2022 bis zum 31.03.2023 wie folgt geändert:	During the period from April 1st, 2022 - March 31st, 2023, the composition of the Supervisory Board changed as follows:
+Mit Wirkung zum 31.12.2022 sind die ehemaligen Mitglieder des Aufsichtsrats der Kulzer GmbH, Frau Andrea von Popowski, Herr Rainer Scherer und Herr Andreas	Effective from December 31, 2022, Mrs. Andrea von Popowski, Mr. Rainer Scherer and Mr. Andreas Unkelbach left the Supervisory Board. Effective from January
+Unkelbach aus dem Aufsichtsrat ausgeschieden. Seit dem 01.01.2023 sind Frau Jeanette Abuja sowie die Herren Dr. Marcus Hoffmann und Dr. Andreas Utterodt neue Mitglieder des Aufsichtsrats der Kulzer GmbH.	1st, 2023, Mrs. Jeanette Abuja, and Dr. Marcus Hoffmann and Dr. Andreas Utterodt are new members of the Supervisory Board of the Kulzer GmbH.
+Der Jahresabschluss der Kulzer GmbH für das Geschäftsjahr 2022/2023 (01.04.2022 - 31.03.2023) - bestehend aus Bilanz, Gewinn- und Verlustrechnung sowie Anhang - sowie der Lagebericht sind von der zum Abschlussprüfer bestellten Wirtschaftsprüfungsgesellschaft Ernst & Young geprüft und mit einem uneingeschränkten Bestätigungsvermerk versehen worden. Der Aufsichtsrat wurde zu dem Jahresabschluss für das Geschäftsjahr informiert und hat in seiner heutigen Sitzung den Jahresabschluss mit der Geschäftsleitung erörtert und den Prüfungsbericht des Abschlussprüfers zustimmend zur Kenntnis genommen.	The annual financial statement of the Kulzer GmbH for the fiscal year 2022/2023 (01.04.2022 - 31.03.2023 - consisting of the balance sheet, the profit and loss account and the appendix - and the management report were audited by the appointed auditor Ernst & Young Wirtschaftsprüfungsgesellschaft who issued an unqualified auditor opinion. The Supervisory Board has been informed about the annual financial statement for the fiscal year, discussed the annual financial statement with the management in today’s meeting and the Supervisory Board acknowledged and accepted the auditor’s report.
+Nach dem abschließenden Ergebnis der vom Aufsichtsrat vorgenommenen Prüfung sind keine Einwendungen gegen den Jahresabschluss zu erheben. Der Aufsichtsrat billigt diesen Jahresabschluss und schließt sich dem folgenden Vorschlag der Geschäftsführung an:	After the conclusive examination by the Supervisory Board no objections are to be raised. The Supervisory Board approves these annual financial statements and approves the following proposal by the management on the use of profits:
+Der Gewinn ist nach den Bestimmungen des Gewinnabführungsvertrags mit der MC Dental Holdings GmbH vom 11. Juli 2013 an diese abzuführen.	The profit has to be transferred to MC Dental Holdings GmbH pursuant to the provisions of the profit and loss transfer agreement dated 11 July 2013.
+Ein Gewinnverwendungsbeschluss erfolgt daher nicht.	As a consequence no resolution on the use of profits needs to be made.
+Der Aufsichtsrat dankt allen Mitarbeitern für die im Geschäftsjahr 2022/2023 geleistete Arbeit. Sein besonderer Dank gilt dabei insbesondere der Geschäftsleitung.	The Supervisory Board thanks all employess for their efforts during the financial year 2022/2023. The Supervisory Board especially wants to thank the management.
+
+Hanau, 29.06.2023
+
+Hisayoshi Tanaka
+
+Bestätigungsvermerk des unabhängigen Abschlussprüfers
+
+An die Kulzer GmbH
+
+Prüfungsurteile
+
+Wir haben den Jahresabschluss der Kulzer GmbH, Hanau - bestehend aus der Bilanz zum 31. März 2023 und der Gewinn- und Verlustrechnung für das Geschäftsjahr vom 1. April 2022 bis zum 31. März 2023 sowie dem Anhang, einschließlich der Darstellung der Bilanzierungs- und Bewertungsmethoden - geprüft. Darüber hinaus haben wir den Lagebericht der Kulzer GmbH für das Geschäftsjahr vom 1. April 2022 bis zum 31. März 2023 geprüft. Die im letzten Abschnitt des Lageberichts enthaltene Erklärung zur Unternehmensführung nach § 289 f Abs. 4 HGB (Angaben zur Frauenquote) haben wir in Einklang mit den deutschen gesetzlichen Vorschriften nicht inhaltlich geprüft.
+
+Nach unserer Beurteilung aufgrund der bei der Prüfung gewonnenen Erkenntnisse
+
+―
+
+entspricht der beigefügte Jahresabschluss in allen wesentlichen Belangen den deutschen, für Kapitalgesellschaften geltenden handelsrechtlichen Vorschriften und vermittelt unter Beachtung der deutschen Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens- und Finanzlage der Gesellschaft zum 31. März 2023 sowie ihrer Ertragslage für das Geschäftsjahr vom 1. April 2022 bis zum 31. März 2023 und
+
+―
+
+vermittelt der beigefügte Lagebericht insgesamt ein zutreffendes Bild von der Lage der Gesellschaft. In allen wesentlichen Belangen steht dieser Lagebericht in Einklang mit dem Jahresabschluss, entspricht den deutschen gesetzlichen Vorschriften und stellt die Chancen und Risiken der zukünftigen Entwicklung zutreffend dar. Wir geben kein Prüfungsurteil zu dem Inhalt der oben genannten Erklärung zur Unternehmensführung ab.
+
+Gemäß § 322 Abs. 3 Satz 1 HGB erklären wir, dass unsere Prüfung zu keinen Einwendungen gegen die Ordnungsmäßigkeit des Jahresabschlusses und des Lageberichts geführt hat.
+
+Grundlage für die Prüfungsurteile
+
+Wir haben unsere Prüfung des Jahresabschlusses und des Lageberichts in Übereinstimmung mit §317 HGB unter Beachtung der vom Institut der Wirtschaftsprüfer (IDW) festgestellten deutschen Grundsätze ordnungsmäßiger Abschlussprüfung durchgeführt. Unsere Verantwortung nach diesen Vorschriften und Grundsätzen ist im Abschnitt „Verantwortung des Abschlussprüfers für die Prüfung des Jahresabschlusses und des Lageberichts" unseres Bestätigungsvermerks weitergehend beschrieben. Wir sind von dem Unternehmen unabhängig in Übereinstimmung mit den deutschen handelsrechtlichen und berufsrechtlichen Vorschriften und haben unsere sonstigen deutschen Berufspflichten in Übereinstimmung mit diesen Anforderungen erfüllt. Wir sind der Auffassung, dass die von uns erlangten Prüfungsnachweise ausreichend und geeignet sind, um als Grundlage für unsere Prüfungsurteile zum Jahresabschluss und zum Lagebericht zu dienen.
+
+Sonstige Informationen
+
+Die gesetzlichen Vertreter sind für die sonstigen Informationen verantwortlich. Die sonstigen Informationen umfassen die oben genannte Erklärung zur Unternehmensführung nach § 289f Abs. 4 HGB (Angaben zur Frauenquote).
+
+Unsere Prüfungsurteile zum Jahresabschluss und Lagebericht erstrecken sich nicht auf die sonstigen Informationen, und dementsprechend geben wir weder ein Prüfungsurteil noch irgendeine andere Form von Prüfungsschlussfolgerung hierzu ab.
+
+Im Zusammenhang mit unserer Prüfung haben wir die Verantwortung, die sonstigen Informationen zu lesen und dabei zu würdigen, ob die sonstigen Informationen
+
+―
+
+wesentliche Unstimmigkeiten zum Jahresabschluss, Lagebericht oder unseren bei der Prüfung erlangten Kenntnissen aufweisen oder
+
+―
+
+anderweitig wesentlich falsch dargestellt erscheinen.
+
+Falls wir auf Grundlage der von uns durchgeführten Arbeiten den Schluss ziehen, dass eine wesentliche falsche Darstellung dieser sonstigen Informationen vorliegt, sind wir verpflichtet, über diese Tatsache zu berichten. Wir haben in diesem Zusammenhang nichts zu berichten.
+
+Verantwortung der gesetzlichen Vertreter und des Aufsichtsrats für den Jahresabschluss und den Lagebericht
+
+Die gesetzlichen Vertreter sind verantwortlich für die Aufstellung des Jahresabschlusses, der den deutschen, für Kapitalgesellschaften geltenden handelsrechtlichen Vorschriften in allen wesentlichen Belangen entspricht, und dafür, dass der Jahresabschluss unter Beachtung der deutschen Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage der Gesellschaft vermittelt. Ferner sind die gesetzlichen Vertreter verantwortlich für die internen Kontrollen, die sie in Übereinstimmung mit den deutschen Grundsätzen ordnungsmäßiger Buchführung als notwendig bestimmt haben, um die Aufstellung eines Jahresabschlusses zu ermöglichen, der frei von wesentlichen falschen Darstellungen aufgrund von dolosen Handlungen (d. h. Manipulationen der Rechnungslegung und Vermögensschädigungen) oder Irrtümern ist.
+
+Bei der Aufstellung des Jahresabschlusses sind die gesetzlichen Vertreter dafür verantwortlich, die Fähigkeit der Gesellschaft zur Fortführung der Unternehmenstätigkeit zu beurteilen. Des Weiteren haben sie die Verantwortung, Sachverhalte in Zusammenhang mit der Fortführung der Unternehmenstätigkeit, sofern einschlägig, anzugeben. Darüber hinaus sind sie dafür verantwortlich, auf der Grundlage des Rechnungslegungsgrundsatzes der Fortführung der Unternehmenstätigkeit zu bilanzieren, sofern dem nicht tatsächliche oder rechtliche Gegebenheiten entgegenstehen.
+
+Außerdem sind die gesetzlichen Vertreter verantwortlich für die Aufstellung des Lageberichts, der insgesamt ein zutreffendes Bild von der Lage der Gesellschaft vermittelt sowie in allen wesentlichen Belangen mit dem Jahresabschluss in Einklang steht, den deutschen gesetzlichen Vorschriften entspricht und die Chancen und Risiken der zukünftigen Entwicklung zutreffend darstellt. Ferner sind die gesetzlichen Vertreter verantwortlich für die Vorkehrungen und Maßnahmen (Systeme), die sie als notwendig erachtet haben, um die Aufstellung eines Lageberichts in Übereinstimmung mit den anzuwendenden deutschen gesetzlichen Vorschriften zu ermöglichen und um ausreichende geeignete Nachweise für die Aussagen im Lagebericht erbringen zu können.
+
+Der Aufsichtsrat ist verantwortlich für die Überwachung des Rechnungslegungsprozesses der Gesellschaft zur Aufstellung des Jahresabschlusses und des Lageberichts.
+
+Verantwortung des Abschlussprüfers für die Prüfung des Jahresabschlusses und des Lageberichts
+
+Unsere Zielsetzung ist, hinreichende Sicherheit darüber zu erlangen, ob der Jahresabschluss als Ganzes frei von wesentlichen falschen Darstellungen aufgrund von dolosen Handlungen oder Irrtümern ist, und ob der Lagebericht insgesamt ein zutreffendes Bild von der Lage der Gesellschaft vermittelt sowie in allen wesentlichen Belangen mit dem Jahresabschluss sowie mit den bei der Prüfung gewonnenen Erkenntnissen in Einklang steht, den deutschen gesetzlichen Vorschriften entspricht und die Chancen und Risiken der zukünftigen Entwicklung zutreffend darstellt, sowie einen Bestätigungsvermerk zu erteilen, der unsere Prüfungsurteile zum Jahresabschluss und zum Lagebericht beinhaltet.
+
+Hinreichende Sicherheit ist ein hohes Maß an Sicherheit, aber keine Garantie dafür, dass eine in Übereinstimmung mit § 317 HGB unter Beachtung der vom Institut der Wirtschaftsprüfer (IDW) festgestellten deutschen Grundsätze ordnungsmäßiger Abschlussprüfung durchgeführte Prüfung eine wesentliche falsche Darstellung stets aufdeckt. Falsche Darstellungen können aus dolosen Handlungen oder Irrtümern resultieren und werden als wesentlich angesehen, wenn vernünftigerweise erwartet werden könnte, dass sie einzeln oder insgesamt die auf der Grundlage dieses Jahresabschlusses und Lageberichts getroffenen wirtschaftlichen Entscheidungen von Adressaten beeinflussen.
+
+Während der Prüfung üben wir pflichtgemäßes Ermessen aus und bewahren eine kritische Grundhaltung. Darüber hinaus
+
+―
+
+identifizieren und beurteilen wir die Risiken wesentlicher falscher Darstellungen im Jahresabschluss und im Lagebericht aufgrund von dolosen Handlungen oder Irrtümern, planen und führen Prüfungshandlungen als Reaktion auf diese Risiken durch sowie erlangen Prüfungsnachweise, die ausreichend und geeignet sind, um als Grundlage für unsere Prüfungsurteile zu dienen. Das Risiko, dass aus dolosen Handlungen resultierende wesentliche falsche Darstellungen nicht aufgedeckt werden, ist höher als das Risiko, dass aus Irrtümern resultierende wesentliche falsche Darstellungen nicht aufgedeckt werden, da dolose Handlungen kollusives Zusammenwirken, Fälschungen, beabsichtigte Unvollständigkeiten, irreführende Darstellungen bzw. das Außerkraftsetzen interner Kontrollen beinhalten können;
+
+―
+
+gewinnen wir ein Verständnis von dem für die Prüfung des Jahresabschlusses relevanten internen Kontrollsystem und den für die Prüfung des Lageberichts relevanten Vorkehrungen und Maßnahmen, um Prüfungshandlungen zu planen, die unter den gegebenen Umständen angemessen sind, jedoch nicht mit dem Ziel, ein Prüfungsurteil zur Wirksamkeit dieser Systeme der Gesellschaft abzugeben;
+
+―
+
+beurteilen wir die Angemessenheit der von den gesetzlichen Vertretern angewandten Rechnungslegungsmethoden sowie die Vertretbarkeit der von den gesetzlichen Vertretern dargestellten geschätzten Werte und damit zusammenhängenden Angaben;
+
+―
+
+ziehen wir Schlussfolgerungen über die Angemessenheit des von den gesetzlichen Vertretern angewandten Rechnungslegungsgrundsatzes der Fortführung der Unternehmenstätigkeit sowie, auf der Grundlage der erlangten Prüfungsnachweise, ob eine wesentliche Unsicherheit im Zusammenhang mit Ereignissen oder Gegebenheiten besteht, die bedeutsame Zweifel an der Fähigkeit der Gesellschaft zur Fortführung der Unternehmenstätigkeit aufwerfen können. Falls wir zu dem Schluss kommen, dass eine wesentliche Unsicherheit besteht, sind wir verpflichtet, im Bestätigungsvermerk auf die dazugehörigen Angaben im Jahresabschluss und im Lagebericht aufmerksam zu machen oder, falls diese Angaben unangemessen sind, unser jeweiliges Prüfungsurteil zu modifizieren. Wir ziehen unsere Schlussfolgerungen auf der Grundlage der bis zum Datum unseres Bestätigungsvermerks erlangten Prüfungsnachweise. Zukünftige Ereignisse oder Gegebenheiten können jedoch dazu führen, dass die Gesellschaft ihre Unternehmenstätigkeit nicht mehr fortführen kann;
+
+―
+
+beurteilen wir die Gesamtdarstellung, den Aufbau und den Inhalt des Jahresabschlusses einschließlich der Angaben sowie ob der Jahresabschluss die zugrunde liegenden Geschäftsvorfälle und Ereignisse so darstellt, dass der Jahresabschluss unter Beachtung der deutschen Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage der Gesellschaft vermittelt;
+
+―
+
+beurteilen wir den Einklang des Lageberichts mit dem Jahresabschluss, seine Gesetzesentsprechung und das von ihm vermittelte Bild von der Lage des Unternehmens;
+
+―
+
+führen wir Prüfungshandlungen zu den von den gesetzlichen Vertretern dargestellten zukunftsorientierten Angaben im Lagebericht durch. Auf Basis ausreichender geeigneter Prüfungsnachweise vollziehen wir dabei insbesondere die den zukunftsorientierten Angaben von den gesetzlichen Vertretern zugrunde gelegten bedeutsamen Annahmen nach und beurteilen die sachgerechte Ableitung der zukunftsorientierten Angaben aus diesen Annahmen. Ein eigenständiges Prüfungsurteil zu den zukunftsorientierten Angaben sowie zu den zugrunde liegenden Annahmen geben wir nicht ab. Es besteht ein erhebliches unvermeidbares Risiko, dass künftige Ereignisse wesentlich von den zukunftsorientierten Angaben abweichen.
+
+Wir erörtern mit den für die Überwachung Verantwortlichen unter anderem den geplanten Umfang und die Zeitplanung der Prüfung sowie bedeutsame Prüfungsfeststellungen, einschließlich etwaiger Mängel im internen Kontrollsystem, die wir während unserer Prüfung feststellen.
+
+Eschborn/Frankfurt am Main, 24. Mai 2023
+
+Ernst & Young GmbH
+Wirtschaftsprüfungsgesellschaft
+
+Schmitt, Wirtschaftsprüfer
+
+Margulis, Wirtschaftsprüfer
+
+Bilanz zum 31. März 2023 (in TEUR)
+
+AKTIVA
+
+scroll
+
+	Anhang	31.03.2023	31.03.2022
+A. Anlagevermögen	(1)		
+I. Immaterielle Vermögensgegenstände		893	885
+II. Sachanlagen		14.064	4.930
+III. Finanzanlagen	(2)	8.313	6.943
+		23.270	12.758
+B. Umlaufvermögen			
+I. Vorräte	(3)	28.439	24.455
+II. Forderungen und sonstige Vermögensgegenstände	(4)	81.067	74.477
+III. Flüssige Mittel	(5)	8.793	18.661
+		118.299	117.593
+C. Rechnungsabgrenzungsposten		1.669	1.633
+D. Aktiver Unterschiedsbetrag aus der Vermögensverrechnung	(6)	128	158
+		143.366	132.142
+
+PASSIVA
+
+scroll
+
+	Anhang	31.03.2023	31.03.2022
+A. Eigenkapital			
+I. Gezeichnetes Kapital		25.100	25.100
+II. Kapitalrücklage		27.661	27.661
+III. Gewinnrücklagen	(7)	2.006	2.006
+		54.767	54.767
+B. Rückstellungen	(8)	78.265	68.413
+C. Verbindlichkeiten	(9)	10.334	8.962
+		143.366	132.142
+
+Gewinn- und Verlustrechnung für die Zeit vom 1. April 2022 bis 31. März 2023 (in TEUR)
+
+scroll
+
+	Anhang	01.04.2022-31.03.2023	01.04.2021-31.03.2022
+1. Umsatzerlöse	(13)	210.367	213.175
+2. Bestandsveränderung		132	998
+3. Andere aktivierte Eigenleistungen		0	9
+4. Sonstige betriebliche Erträge	(14)	3.037	3.224
+		213.536	217.406
+5. Materialaufwand	(15)	-91.435	-98.333
+6. Personalaufwand	(16)	-70.293	-62.343
+7. Abschreibungen	(17)	-1.666	-1.669
+8. Sonstige betriebliche Aufwendungen	(18)	-60.656	-57.209
+		-224.050	-219.554
+9. Beteiligungsergebnis	(19)	1.338	-1.294
+10. Zinsergebnis	(20)	-3.042	-1.487
+11. Ergebnis vor Ergebnisabführung		-12.218	-4.929
+12. Erträge aus Verlustübernahme		12.218	4.929
+13. Jahresüberschuss		0	0
+
+(Amtsgericht Hanau, HRB 91228)
+
+ANHANG FÜR DAS GESCHÄFTSJAHR VOM 1. April 2022 bis 31. MÄRZ 2023
+
+I. Allgemeine Angaben
+
+Der Jahresabschluss der Kulzer GmbH ist nach den Vorschriften des GmbHG und des gemäß §§ 242ff. und 264 ff. HGB aufgestellt. Auf die Rechnungslegung der Gesellschaft finden die Vorschriften für große Kapitalgesellschaften i.S. des § 267 Abs. 3 HGB Anwendung.
+
+Die Kulzer GmbH mit Sitz in Hanau ist beim Amtsgericht Hanau unter der Handelsregisternummer HRB 91228 geführt.
+
+Um die Klarheit der Darstellung zu verbessern, sind einzelne Posten der Bilanz sowie der Gewinn- und Verlustrechnung zusammengefasst und daher in diesem Anhang gesondert aufgegliedert und erläutert.
+
+Für die Gewinn- und Verlustrechnung wird das Gesamtkostenverfahren angewandt.
+
+Es besteht ein Ergebnisabführungsvertrag mit der MC Dental Holdings Europe GmbH, Hanau. Ferner besteht ein Ergebnisabführungsvertrag mit der Tochtergesellschaft Scientific Glass GmbH, Usingen.
+
+Mit der MC Dental Holdings Europe GmbH besteht körperschaft-, gewerbe- und umsatzsteuerliche Organschaft. Mit der Scientific Glass GmbH besteht körperschaft- und gewerbesteuerliche Organschaft mit der Kulzer GmbH als Organträger.
+
+Der Jahresabschluss der Kulzer GmbH für das Geschäftsjahr vom 1. April 2022 bis zum 31. März 2023 wird in den Konzernabschluss der Mitsui Chemicals Inc., Tokio/Japan, zum 31. März 2023 einbezogen. Entsprechend werden zum 31. März 2023 alle Unternehmen, die ebenfalls in den Konzernabschluss der Mitsui Chemicals Inc. einzubeziehen sind, als verbundene Unternehmen angesehen.
+
+Die Kulzer GmbH nimmt die Befreiung von der Pflicht zur Aufstellung eines Konzernabschlusses zum 31. März 2023 gemäß § 290 Abs. 5 HGB i.V.m. § 296 Abs. 2 HGB in Anspruch.
+
+Der Konzernabschluss der Mitsui Chemicals Inc., Tokio/Japan (das Unternehmen, das den Konzernabschluss für den kleinsten und größten Kreis von Unternehmen aufstellt), wird in Tokio veröffentlicht. Er kann über das Electronic Disclosure for Investors' NETwork (EDINET) der japanischen Financial Services Agency über die Web-Site http://disclosure.edinet-fsa.go.jp/ oder über die Homepage der Gesellschaft http://www.mitsuichem.com/ir/library/ar/ in elektronischer Form abgerufen werden.
+
+II. Bilanzierungs- und Bewertungsgrundsätze, Währungsumrechnung
+
+Für die Aufstellung des Jahresabschlusses waren unverändert die nachfolgenden Bilanzierungs- und Bewertungsmethoden maßgebend.
+
+Entgeltlich erworbene immaterielle Vermögensgegenstände werden zu Anschaffungskosten bewertet und entsprechend ihrer voraussichtlichen Nutzungsdauer über 3-5 Jahre (Software) bzw. 8-12 Jahre (übrige) linear abgeschrieben.
+
+Das Sachanlagevermögen wird mit Anschaffungs- bzw. Herstellungskosten und - soweit abnutzbar - unter Berücksichtigung planmäßiger Abschreibungen bewertet. In die Herstellungskosten der selbsterstellten Anlagen werden neben den direkt zurechenbaren Kosten auch anteilige Fertigungs- und Materialgemeinkosten sowie Abschreibungen einbezogen. Fremdkapitalzinsen wurden nicht aktiviert.
+
+Zugänge des beweglichen Anlagevermögens, deren Aktivierung bis zum Ende des Geschäftsjahres 2010 erfolgte, werden weiterhin degressiv abgeschrieben, soweit dies den betrieblichen Nutzungsdauern entspricht bzw. in Einklang mit handelsrechtlichen Vorschriften ist. Zugänge ab dem Geschäftsjahr 2011 werden ausschließlich linear abgeschrieben.
+
+Für Vermögensgegenstände mit einem Einzelanschaffungspreis von Euro 250 bis Euro 1.000 (ab 01.04.2018, vorher Euro 150 bis Euro 1.000) wird ein steuerlicher Sammelposten aus Vereinfachungsgründen auch in der Handelsbilanz gebildet, der über fünf Jahre abgeschrieben wird.
+
+Im Jahr der Anschaffung/Herstellung eines Anlagegegenstandes erfolgt die Abschreibung monatsgenau ab dem Monat der Anschaffung/Herstellung (pro rata temporis). Die Abschreibungen werden entsprechend der voraussichtlichen Nutzungsdauer bemessen. Die Abschreibungsdauer bei Gebäuden beträgt zwischen 25 und 50 Jahren, bei technischen Anlagen und Maschinen zwischen fünf und 15 Jahren und bei den anderen Anlagen sowie der Betriebs- und Geschäftsausstattung überwiegend zwischen vier und zwölf Jahren.
+
+Soweit der nach vorstehenden Grundsätzen ermittelte Wert der immateriellen Vermögensgegenstände oder Sachanlagen am Abschlussstichtag voraussichtlich dauerhaft über dem beizulegenden Wert liegt, wird dem durch außerplanmäßige Abschreibungen Rechnung getragen.
+
+Die Bewertung der Finanzanlagen erfolgt zu Anschaffungskosten oder - soweit erforderlich - mit dem niedrigeren beizulegenden Wert.
+
+Die Bewertung der Vorräte erfolgt zu Anschaffungs- bzw. Herstellungskosten bei Anwendung zulässiger Bewertungsvereinfachungsverfahren oder zu niedrigeren Marktwerten.
+
+In die Herstellungskosten werden neben den direkt zurechenbaren Kosten auch anteilige Fertigungs- und Materialgemeinkosten sowie Abschreibungen einbezogen. Daneben werden angemessene Teile der Kosten der allgemeinen Verwaltung sowie angemessene Aufwendungen für soziale Einrichtungen und für freiwillige soziale Leistungen einbezogen. Fremdkapitalzinsen wurden nicht aktiviert.
+
+Die Bestandsrisiken, die sich aus der Lagerdauer und/oder eingeschränkter Verwendbarkeit ergeben, werden durch Abwertungen berücksichtigt.
+
+Forderungen und sonstige Vermögensgegenstände werden grundsätzlich zum Nennwert bilanziert. Soweit erforderlich, werden unverzinsliche Forderungen mit einer Restlaufzeit von über einem Jahr mit dem Barwert aktiviert. Erkennbare Ausfallrisiken werden durch Wertberichtigungen angemessen berücksichtigt. Für das allgemeine Kreditrisiko wird eine Pauschalwertberichtigung an den Forderungen gekürzt.
+
+Rechnungsabgrenzungsposten sind grundsätzlich zu Nennwerten bilanziert.
+
+Die Bewertung der Rückstellungen für Pensionen und ähnliche Verpflichtungen erfolgt nach dem Anwartschaftsbarwertverfahren und basiert auf den biometrischen Rechnungsgrundlagen der „Richttafeln 2018 G“ von Prof. Dr. Klaus Heubeck. Daneben werden bei der Berechnung für die erwartete Einkommensentwicklung ein Anstieg in Höhe von 3,0% (Vorjahr: 3,0%) jährlich sowie Rentenanpassungen von 1,0%-2,25% (Vorjahr: 1,0%-1,5%) pro Jahr berücksichtigt. Ferner wurde in Anlehnung an die Vorgaben der Deutschen Bundesbank ein Rechnungszinssatz von 1,79% (Vorjahr: 1,81%) zugrunde gelegt, der zum 31. März 2023 dem 10-Jahres-Durchschittszinssatz für eine angenommene Restlaufzeit von 15 Jahren entspricht (1,79%). Vermögensgegenstände, die dem Zugriff aller übrigen Gläubiger entzogen sind und ausschließlich der Erfüllung von Schulden aus Altersversorgungsverpflichtungen dienen, werden mit dem beizulegenden Zeitwert bewertet und mit diesen Schulden verrechnet. Mit den korrespondierenden Aufwendungen und Erträgen wird entsprechend verfahren. Versicherungsmathematische Gewinne und Verluste werden unmittelbar erfolgswirksam erfasst.
+
+Die sonstigen Rückstellungen erfassen alle erkennbaren Risiken und ungewissen Verpflichtungen. Sie sind mit dem nach vernünftiger kaufmännischer Beurteilung notwendigen Erfüllungsbetrag unter Berücksichtigung zukünftiger Preis- und Kostensteigerungen bemessen worden. Rückstellungen mit einer Restlaufzeit von mehr als einem Jahr sind mit dem ihrer Restlaufzeit entsprechenden durchschnittlichen Marktzinssatz der vergangenen sieben Geschäftsjahre abzuzinsen. Der anzuwendende Abzinsungssatz wird von der Deutschen Bundesbank ermittelt und veröffentlicht. Vermögensgegenstände, die dem Zugriff aller übrigen Gläubiger entzogen sind und ausschließlich der Erfüllung von Schulden aus Überstunden (Langzeitkonto) dienen, werden mit dem beizulegenden Zeitwert bewertet und mit diesen Schulden verrechnet. Mit den korrespondierenden Aufwendungen und Erträgen wird entsprechend verfahren.
+
+Die Verbindlichkeiten werden mit ihren jeweiligen Erfüllungsbeträgen passiviert.
+
+Latente Steuern
+
+Aufgrund der steuerlichen Organschaft werden mögliche latente Steuern direkt bei der Organträgerin MC Dental Holdings Europe GmbH erfasst und nicht im vorliegenden Jahresabschluss.
+
+Auf fremde Währung lautende Vermögensgegenstände und Verbindlichkeiten wurden grundsätzlich mit dem Devisenkassamittelkurs zum Abschlussstichtag umgerechnet. Bei einer Restlaufzeit von mehr als einem Jahr wurde dabei das Realisationsprinzip (§ 252 Abs. 1 Nr. 4 Halbsatz 2 HGB) und das Anschaffungskostenprinzip (§ 253 Abs. 1 Satz 1 HGB) beachtet. Die im Anhang angegebenen davon-Vermerke zur Währungsumrechnung enthalten sowohl realisierte als auch nicht realisierte Währungskursdifferenzen.
+
+III. Erläuterungen zur Bilanz
+
+(1) Anlagevermögen
+
+Die Entwicklung der einzelnen Posten des Anlagevermögens ist unter Angabe der Abschreibungen des Geschäftsjahres im Anlagenspiegel (Anlage 1 zum Anhang) dargestellt.
+
+(2) Finanzanlagen
+
+Die Aufstellung des Anteilsbesitzes der Kulzer GmbH ist als Anlage 2 zum Anhang beigefügt.
+
+(3) Vorräte
+
+scroll
+
+	31.03.2023	31.03.2022
+	TEUR	TEUR
+Roh-, Hilfs- und Betriebsstoffe	4.327	2.587
+Unfertige Erzeugnisse	3.050	3.975
+Fertige Erzeugnisse und Waren	21.039	17.765
+geleistete Anzahlungen	23	128
+	28.439	24.455
+
+Die Kulzer GmbH verfügt über eine sehr reichhaltige Produktpalette, wobei oft die gleichen Produkte sowohl im eigenen Betrieb weiterverarbeitet als auch ohne weitere Verarbeitung verkauft werden.
+
+Bei der Bewertung der Vorräte wird - soweit es technisch möglich ist - unterstellt, dass die zuletzt angeschafften oder hergestellten Bestände zuerst verbraucht oder veräußert werden (Lifo-Verfahren). Wesentliche Unterschiede zur Bewertung auf der Grundlage von Marktpreisen ergeben sich aufgrund der Anwendung der Bewertungsvereinfachungsverfahren gemäß §§ 240 Abs. 4, 256 HGB in Höhe von TEUR 1.745.
+
+( 4) Forderungen und sonstige Vermögensgegenstände
+
+scroll
+
+	31.03.2023	31.03.2023	31.03.2022	31.03.2022
+	Stand	Restlaufzeit über 1 Jahr	Stand	Restlaufzeit über 1 Jahr
+	TEUR	TEUR	TEUR	TEUR
+Forderungen aus Lieferungen und Leistungen	16.976	157	16.627	93
+Forderungen gegen verbundene Unternehmen	62.570	-	55.948	-
+davon Forderungen gegen Gesellschafter	55.931	-	48.815	-
+sonstige Vermögensgegenstände	1.521	-	1.902	-
+	81.067	157	74.477	93
+
+Die Forderungen gegen verbundene Unternehmen stammen wie im Vorjahr zum wesentlichen Teil aus Lieferungen und Leistungen und Ergebnisübernahmen von der Tochtergesellschaft; eine betragsmäßige Angabe ist wegen der Verrechnung mit Finanzierungsvorgängen nicht möglich. Die Forderungen gegen Gesellschafter betreffen, wie im Vorjahr, im Wesentlichen kurzfristige Darlehensforderungen und Ergebnisübernahmen von der Muttergesellschaft.
+
+( 5) Flüssige Mittel
+
+Unter den flüssigen Mitteln sind der Kassenbestand und die Guthaben bei Kreditinstituten erfasst.
+
+(6) Aktiver Unterschiedsbetrag aus Vermögensverrechnung
+
+Der aktive Unterschiedsbetrag resultiert aus der Saldierung nach § 246 Abs. 2 Satz 2 HGB von Altersversorgungsverpflichtungen mit Vermögensgegenständen, die ausschließlich der Erfüllung der Altersversorgungsverpflichtungen dienen und dem Zugriff aller übrigen Gläubiger entzogen sind (Deckungsvermögen i.S.d. § 246 Abs. 2 Satz 2 HGB). Bei den Vermögensgegenständen handelt es sich um Wertpapiere.
+
+(7) Gewinnrücklagen
+
+scroll
+
+	31.03.2023	31.03.2022
+	TEUR	TEUR
+andere Gewinnrücklagen	2.006	2.006
+
+( 8) Rückstellungen
+
+scroll
+
+	31.03.2023	31.03.2022
+	TEUR	TEUR
+Rückstellungen für Pensionen und ähnliche Verpflichtungen	60.739	48.007
+sonstige Rückstellungen	17.526	20.406
+	78.265	68.413
+
+Die Pensionszusagen sind vollständig durch Rückstellungen erfasst. Der Wert der Pensionsverpflichtungen, vor Verrechnung mit dem Deckungsvermögen, zum 31. März 2023 hätte bei Anwendung eines durchschnittlichen Marktzinssatzes der vergangenen sieben Geschäftsjahre TEUR 86.520 betragen, was einem Unterschied von TEUR 4.661 entspricht.
+
+In der Rückstellung für Pensionen und ähnliche Verpflichtungen werden die folgenden zu beizulegenden Zeitwerten bewerteten Vermögensgegenstände mit den entsprechenden Verpflichtungen verrechnet.
+
+Angaben zur Verrechnung nach § 246 Abs. 2 S.2 HGB:
+
+scroll
+
+	TEUR
+Erfüllungsbetrag der über Fonds finanzierten Pensionsverpflichtungen	45.889
+Erfüllungsbetrag der nicht über Fonds finanzierten Pensionsverpflichtungen	35.970
+	81.859
+abzüglich beizulegender Zeitwert des Fondsvermögens	-21.120
+Rückstellungen für Pensionen und ähnliche Verpflichtungen	60.739
+
+Die Anschaffungskosten des mit den Pensionsverpflichtungen verrechneten Fondsvermögens betragen TEUR 21.734.
+
+Die sonstigen Rückstellungen beziehen sich im Wesentlichen auf Abbruchkosten, Urlaubs- und andere Ansprüche von Mitarbeitern, Tantiemen und Gratifikationen, ausstehende Rechnungen, Jubiläumsgeld, Gewährleistungsverpflichtungen und Umsatzboni.
+
+In der Rückstellung für Überstunden (Langzeitkonto) werden die folgenden zu beizulegenden Zeitwerten bewerteten Vermögensgegenstände mit den entsprechenden Verpflichtungen verrechnet.
+
+scroll
+
+	TEUR
+Erfüllungsbetrag der über einen Fonds finanzierten Überstundenverpflichtungen (Langzeitkonto)	409
+abzüglich Zeitwert des Fondsvermögens	-537
+Aktiver Unterschiedsbetrag aus der Vermögensverrechnung	-128
+
+Die Anschaffungskosten dieses Fondsvermögens betragen TEUR 549.
+
+(9) Verbindlichkeiten
+
+scroll
+
+	31.03.2023	31.03.2023	31.03.2023	31.03.2023	31.03.2022
+	Gesamtbetrag	Restlaufzeit bis zu einem Jahr	Restlaufzeit 1 - 5 Jahre	Restlaufzeit größer 5 Jahre	Gesamtbetrag *)
+	TEUR	TEUR	TEUR	TEUR	TEUR
+Verbindlichkeiten gegenüber Kreditinstituten	15	15	-	-	22
+Verbindlichkeiten aus Lieferungen und Leistungen	5.118	5.118	-		4.897
+Verbindlichkeiten gegenüber verbundenen Unternehmen	3.123	3.123	-	-	2.016
+sonstige Verbindlichkeiten	2.078	2.065	11	2	2.027 **)
+- davon aus Steuern - TEUR 736 (Vj. TEUR 751)					
+	10.334	10.321	11	2	8.962
+
+*) alle mit einer Restlaufzeit bis zu einem Jahr.
+**) davon 15 TEUR mit einer Laufzeit über 1 Jahr
+
+Die Verbindlichkeiten gegenüber verbundenen Unternehmen stammen zum überwiegenden Teil aus Lieferungen und Leistungen, zu einem kleinen Teil aus der Übernahme von Verlusten; eine betragsmäßige Angabe ist wegen der Verrechnung mit Finanzierungsvorgängen nicht möglich.
+
+(10) Haftungsverhältnisse
+
+scroll
+
+	31.03.2023 Stand	davon gegenüber verbundenen Unternehmen
+	TEUR	TEUR
+Wechselobligo	524	-
+
+Bestellobligo für Investitionen:
+
+TEUR 1.903, davon gegenüber verbundenen Unternehmen TEUR 0.
+
+Das Risiko einer möglichen Inanspruchnahme wird aufgrund der Erfahrungen aus der Vergangenheit als gering angesehen.
+
+(11) Sonstige finanzielle Verpflichtungen
+
+Verpflichtungen aus Miet- und Leasingverträgen im Geschäftsjahr:
+
+scroll
+
+fällig 2023/24	TEUR 3.459, davon gegenüber verbundenen Unternehmen TEUR 0
+fällig 2024/25-2027/28	TEUR 7.382, davon gegenüber verbundenen Unternehmen TEUR 0
+fällig 2028/29	TEUR 3.119, davon gegenüber verbundenen Unternehmen TEUR 0
+
+Vorteile von Miet- und Leasingverträgen liegen in der Liquiditätsoptimierung. Wesentliche Risiken sind nicht erkennbar.
+
+(12) Sonstige nicht in der Bilanz enthaltene Geschäfte
+
+Neben den unter „Haftungsverhältnissen“ und „sonstigen finanziellen Verpflichtungen“ angegebenen Geschäften bestehen keine weiteren außerbilanziellen Geschäfte i.S.d. § 285 Nr. 3 HGB, die für die Beurteilung der Finanzlage von wesentlicher Bedeutung sind.
+
+IV. Erläuterungen zur GuV
+
+(13) Umsatzerlöse
+
+scroll
+
+	01.04.2022- 31.03.2023	01.04.2022- 31.03.2023
+	TEUR	TEUR
+Aufgliederung nach Regionen		
+Inland		94.253
+Ausland		116.114
+Europa	71.773	
+Amerika	25.378	
+Asien	16.683	
+Afrika	652	
+Australien	1.628	210.367
+
+(14) sonstige betriebliche Erträge
+
+In den sonstigen betrieblichen Erträgen sind im Wesentlichen TEUR 1.514 (Vorjahr TEUR 1.856) aus Währungsumrechnung enthalten. Des Weiteren sind periodenfremde Erträge ausgewiesen, die im Wesentlichen aus der Auflösung von Rückstellungen in Höhe von TEUR 737 (Vorjahr TEUR 597) resultieren.
+
+(15) Materialaufwand
+
+scroll
+
+	01.04.2022-31.03.2023	01.04.2021 - 31.03.2022
+	TEUR	TEUR
+Aufwendungen für Roh-, Hilfs- und Betriebsstoffe und für bezogene Waren	85.883	93.211
+Aufwendungen für bezogene Leistungen	5.552	5.122
+	91.435	98.333
+
+(16) Personalaufwand
+
+scroll
+
+	01.04.2022 - 31.03.2023	01.04.2021 - 31.03.2022
+	TEUR	TEUR
+Löhne und Gehälter	49.647	47.978
+soziale Abgaben und Aufwendungen für Altersversorgung und für Unterstützung	20.646	14.365
+- davon für Altersversorgung -		
+- TEUR 12.291 (Vorjahr TEUR 6.530)		
+	70.293	62.343
+Mitarbeiter (Jahresdurchschnitt)		
+Arbeiter	167	
+Angestellte	473	
+	640	
+
+(17) Abschreibungen
+
+scroll
+
+	01.04.2022 - 31.03.2023	01.04.2021 - 31.03.2022
+	TEUR	TEUR
+auf immaterielle Vermögensgegenstände des Anlagevermögens und Sachanlagen	1.666	1.669
+
+Im Berichtsjahr wurden keine außerplanmäßigen Abschreibungen auf Sachanlagen vorgenommen.
+
+(18) sonstige betriebliche Aufwendungen
+
+In den sonstigen betrieblichen Aufwendungen sind im Wesentlichen die Aufwendungen aus Dienstleistungen in Höhe von TEUR 38.168 (Vorjahr TEUR 37.651), Aufwendungen aus Mieten in Höhe von TEUR 5.047 (Vorjahr TEUR 4.767), Ausgangsfrachten in Höhe von TEUR 3.943 (Vorjahr TEUR 3.326) und aus der Währungsumrechnung in Höhe von TEUR 1.656 (Vorjahr TEUR 987) enthalten.
+
+(19) Beteiligungsergebnis
+
+scroll
+
+	01.04.2022 - 31.03.2023	davon aus/an verbundene(n) Unternehmen	01.04.2021 - 31.03.2022	davon aus/an verbundene(n) Unternehmen
+	TEUR	TEUR	TEUR	TEUR
+Aufwendungen aus Verlustübernahme	-32	-32	-82	-82
+Abschreibungen auf Finanzanlagen	-	-	-1.212	-1.212
+Zuschreibungen auf Finanzanlagen	1.370	1.370	-	-
+	1.338	1.338	-1.294	-1.294
+
+Die Zuschreibung der Anteile an verbundenen Unternehmen entfällt im vollen Umfang auf den Beteiligungswert der Scientific Glass GmbH, Usingen, Deutschland.
+
+(20) Zinsergebnis
+
+scroll
+
+	01.04.2022 - 31.03.2023	davon aus/an verbundene(n) Unternehmen	01.04.2021 - 31.03.2022	davon aus/an verbundene(n) Unternehmen
+	TEUR	TEUR	TEUR	TEUR
+Erträge aus anderen Wertpapieren und Ausleihungen des Finanzanlagevermögens	4	-	-	-
+Abschreibungen auf Wertpapiere des Umlaufvermögens	-10	-	-6	-
+sonstige Zinsen und ähnliche Erträge	316	-	48	1
+Zinsen und ähnliche Aufwendungen	-46	-	-71	-
+Zinsaufwand Pensionen	-3.306	-	-1.458	-
+	-3.042	-	-1.487	1
+
+Im Berichtsjahr sind im Zinsaufwand aus der Abzinsung der Pensionsrückstellungen Aufwendungen aus dem Deckungsvermögen in Höhe von TEUR 2.058 und Aufwendungen aus der Abzinsung der Pensionsrückstellungen von TEUR 1.248 enthalten. Im Vorjahr wurden Verluste aus dem Deckungsvermögen in Höhe von TEUR 89 verrechnet. Weiterhin sind im Zinsaufwand Aufwendungen aus der Aufzinsung von Rückstellungen in Höhe von TEUR 46 (Vorjahr TEUR 71) enthalten.
+
+V. Sonstige Angaben
+
+Geschäfte mit nahestehenden Personen und Unternehmen
+
+Es wurden keine wesentlichen Geschäfte mit nahestehenden Unternehmen und Personen zu nicht marktüblichen Bedingungen durchgeführt.
+
+Gesamthonorar des Abschlussprüfers
+
+Das Gesamthonorar des Abschlussprüfers ausschließlich für Abschlussprüfungsleistungen beträgt TEUR 159.
+
+Gesamtbezüge der Geschäftsführung und des Aufsichtsrats
+
+Von der Befreiungsvorschrift des § 286 Abs. 4 HGB wurde Gebrauch gemacht.
+
+Die Bezüge ehemaliger Mitglieder der Geschäftsführung und ihrer Hinterbliebenen belaufen sich auf TEUR 236. Für die Pensionsverpflichtungen gegenüber früheren Mitgliedern der Geschäftsführung und ihren Hinterbliebenen sind TEUR 4.237 zurückgestellt. Die Gesamtbezüge der Aufsichtsratsmitglieder betragen TEUR 6.
+
+Nachtragsbericht
+
+Nach Abschluss des Geschäftsjahres sind keine weiteren Ereignisse eingetreten, die für die Beurteilung der Vermögens-, Finanz- und Ertragslage der Gesellschaft von wesentlicher Bedeutung waren.
+
+Organe der Gesellschaft
+
+Aufsichtsrat:
+
+Hisayoshi Tanaka, Executive Office, Business Sector President, Health Care Business Sector, Mitsui Chemicals Inc., Tokio/Japan, Vorsitzender des Aufsichtsrats
+
+Kenichiro Yamashita, Director, Planning and Administration Div. at Mitsui Chemicals Europe GmbH, Düsseldorf bis 31.03.2022
+
+Dr. Tadato Oritani, Director, Planning and Administration Div. at Mitsui Chemicals Europe GmbH, Düsseldorf ab 01.04.2022
+
+Dr. Toshihide Kawanaka, Head of Business Development Kulzer GmbH
+
+Andrea von Popowski, Global Head of Human Resources/Executive Vice President Human Resources, Kulzer GmbH bis 31.12.2022
+
+Jeanette Abuja, Global Head of Human Resources/Executive Vice President Human Resources, Kulzer GmbH ab 01.01.2023
+
+Rainer Scherer, Chemiker, freigestelltes Betriebsratsmitglied des Gemeinschaftsbetriebs Rhein-Main bis 15.11.2022
+
+Andreas Unkelbach, Zahntechniker, freigestelltes Betriebsratsmitglied des Gemeinschaftsbetriebs Rhein-Main bis 15.11.2022
+
+Dr. Markus Hoffmann, Naturwissenschaftler, freigestelltes Betriebsratsmitglied des Gemeinschaftsbetriebs Rhein-Main ab 15.11.2022
+
+Dr. Andreas Utterodt, Senior Scientist, freigestelltes Betriebsratsmitglied des Gemeinschaftsbetriebs Rhein-Main ab 15.11.2022
+
+Geschäftsführung:
+
+Marc Berendes, Wirtschaftswissenschaftler, Bachelor of Business Administration
+
+Takeshi Hiraiwa, Molecular Engineer (ab 01.04.2022 bis 31.03.2023)
+
+Takeo Okuyama, Wirtschaftswissenschaftler, Master of Science in Applied Economics (ab 01.04.2023)
+
+Hanau, 24. Mai 2023
+
+Marc Berendes
+
+Takeo Okuyama
+
+Lagebericht für das Geschäftsjahr vom 1. April 2022 bis 31. März 2023
+
+Grundlagen des Unternehmens
+
+Die Kulzer GmbH (KDE) entwickelt, produziert und vertreibt Erzeugnisse für den zahnärztlichen, zahntechnischen, zahnmedizinischen und medizinischen Bedarf. Dies schließt auch Geräte zur Herstellung sowie Be- und Verarbeitung dieser Erzeugnisse ein. Die KDE ist zudem die Führungsgesellschaft, über die die weltweite Steuerung dieses Geschäftsbereiches erfolgt.
+
+Die KDE ist funktional strukturiert.
+
+Ein großer Teil der vertriebenen Produkte der KDE wird in unserem Tochterunternehmen Kulzer S.R.L, Săcălaz, Rumänien, produziert.
+
+Die wesentlichen Leistungsindikatoren, nach denen die Steuerung des Geschäfts erfolgt, sind die Umsatzerlöse und das Jahresergebnis vor Ergebnisabführung, Zinsen und Steuern.
+
+Die KDE ist ein 100-%iges Tochterunternehmen der MC Dental Holdings Europe GmbH (MCDHE), Hanau, und über diese mit der Mitsui Chemicals Inc. (MCI), Tokio/Japan, verbunden.
+
+Wirtschaftsbericht
+
+Geschäfts- und Rahmenbedingungen
+
+Im Jahr 2022 erholte sich die deutsche Wirtschaft um 1,8 %. Dieser Wert liegt jedoch unter dem globalen Vergleichswert von 2,9%. (1)
+
+Für das laufende Jahr 2023 wird für die globale Wirtschaft ein Anstieg + 2,2% erwartet. Insbesondere die Abkehr Chinas von der strikten Null-Covid-Politik dürfte das globale Wirtschaftswachstum zunehmend stützen. Deutschland liegt hier unter dem globalen Wert mit einem Wachstum von + 0,2%.
+
+Der Gesamtmarkt hat sich, trotz weiter anhaltender Pandemie, auch in diesem Jahr erholt. Der Gesamtmarktumsatz des Jahres 2022 liegt über dem des Jahres 2021 und 9% über 2020. (Quelle: Exevia Omnibus 2022).
+
+[1] Quelle: https://www.sachverstaendigenrat-wirtschaft.de/konjunkturprognose-2023.html
+
+Personal
+
+Die Anzahl der Mitarbeiter ist von 606 zum Ende des Geschäftsjahres 2021/2022 auf 645, zum Ende des Berichtszeitraumes, gestiegen.
+
+Forschung und Entwicklung
+
+Der Schwerpunkt der Entwicklungstätigkeit der KDE liegt bei den definierten Fokus Feldern. Diese sind die Bereiche Impression, Restoration, Dentures sowie 3D Printing. Hierbei wird besonders der fortschreitenden Digitalisierung Rechnung getragen, sei es durch printfähige Materialen für 3 D Drucker oder der Digitalisierung im Bereich Zähne.
+
+Zum 31. März 2023 waren 52 Mitarbeiter im Bereich Forschung und Entwicklung bei der KDE beschäftigt.
+
+Die Aufwendungen für Forschung und Entwicklung beliefen sich im Berichtsjahr 2022/2023 auf 8,5 Mio. €.
+
+Ertragslage
+
+scroll
+
+	01.04.2022 bis 31.03.2023	01.04.2021 bis 31.03.2022
+	TEUR	TEUR
+Umsatzerlöse	210.367	213.175
+Materialaufwand	91.435	98.333
+Personalaufwand	70.293	62.343
+Sonstige betriebliche Aufwendungen	60.656	57.209
+
+Der Umsatz der KDE liegt mit 210,4 Mio. € (1,3 %) im Berichtsjahr unter dem des Vorjahres (01. April 2021 - 31. März 2022). Der Rückgang des Gesamtumsatzes ist vollständig auf den um - 5,7 Mio € geringeren Umsatz im Bereich Dentallegierungen begründet. Dies spiegelt auch die Entwicklung im entsprechenden Markt wider. Die übrigen Umsatzbereiche weisen hingegen ein Wachstum aus.
+
+Der im Prognosebericht des Vorjahres erwartete Umsatzrückgang des Edelmetall-Geschäfts um 11,5% wurde mit 14,6 % noch übertroffen.
+
+Im Nicht Edelmetall-Geschäft wurde die Prognose von + 2,5% verfehlt, es wurde ein Anstieg von + 1,1% erreicht. Insbesondere die europäischen Regionen haben sich besser erholt als erwartet.
+
+Die Kostenstruktur hat sich deshalb im Berichtsjahr gegenüber dem Vorjahr wie folgt entwickelt: Der Materialaufwand fiel im wesentlichen umsatzbedingt um -7,0 %. Der Rückgang des Materialaufwandes ist im Wesentlichen auf den Umsatzrückgang im Edelmetallgeschäft zurückzuführen. Der Personalaufwand stieg um +12,8 % bedingt durch die Zuführung zu den Pensionsrückstellungen.
+
+Die sonstigen betrieblichen Aufwendungen sind im Vergleich zum Vorjahr um +6,0 % gestiegen. Dies resultiert im Wesentlichen aus höheren Aufwendungen für Dienstleistungen, aus Reise- und Werbekosten, Ausgangsfrachten und sonstigen Aufwendungen.
+
+Das Jahresergebnis vor Ergebnisabführung, Zinsen und Steuern verschlechterte sich gegenüber dem vorangehenden Geschäftsjahr um 5,8 Mio. € auf -9,2 Mio. €. Hierbei sind die bereits erwähnten Effekte sowohl im Umsatz, jedoch hauptsächlich im Bereich der Kosten die ausschlaggebenden Faktoren. Das bereinigte handelsrechtliche operative Ergebnis hat sich um über 160% verschlechtert.
+
+Eine angestrebte Verbesserung im Vergleich zum Vorjahr konnte demnach nicht erzielt werden, wobei dies auf die außergewöhnliche hohe Zuführung zu den Pensionsrückstellungen in Höhe von 12,7 Mio. € zurückzuführen ist.
+
+Das Jahresergebnis des Berichtsjahres in Höhe von -12,2 Mio. € (im Vj. -4,9 Mio. €) wurde im Rahmen des Ergebnisabführungsvertrags von der Muttergesellschaft der KDE übernommen.
+
+Vermögens- und Finanzlage
+
+Die Bilanzsumme hat sich gegenüber dem 31. März 2022 um 11,2 Mio. € auf 143,4 Mio. € erhöht.
+
+Als wesentlicher Treiber für diese Veränderung auf der Aktivseite ist die Erhöhung des Sachanlagevermögens um 9,1 Mio. € und der Forderungen und sonstigen Vermögensgegenstände um 6,6 Mio. €. Diese resultiert im Wesentlichen aus den Investitionen in den Ausbau von neuen Räumlichkeiten und den höheren Forderungen gegen verbundene Unternehmen zum Jahresende um 6,6 Mio. €. Die Vorräte haben sich um 4,0 Mio. € erhöht. Die Flüssigen Mittel sind um 9,9 Mio. € zurückgegangen.
+
+Die Eigenkapitalquote ist im Vergleich zum Vorjahr leicht von 41 % auf 38 % gesunken. Auf der Passivseite erhöhte sich die Rückstellung für Pensionen um 12,7 Mio. € auf 60,7 Mio. € aufgrund der Anpassung des Rententrends gegenüber dem Vorjahr. Die sonstigen Rückstellungen sanken durch höhere Inanspruchnahmen und geringere Zuführungen in Höhe von 2,9 Mio. €. Die Verbindlichkeiten stiegen gegenüber dem Vorjahr insgesamt leicht um 1,4 Mio. €. Dies resultiert im Wesentlichen aus höheren Verbindlichkeiten aus Lieferungen und Leistungen, sowie Verbindlichkeiten gegenüber verbundenen Unternehmen.
+
+Die Finanzierung erfolgt grundsätzlich zentral durch die MCDHE, die wiederum durch die MCI finanziell ausgestattet wird. Damit verfügt die Gesellschaft über eine gesicherte Finanzlage und ausreichende laufende Liquidität, auch um den erforderlichen Mittelabfluss aus der Investitionstätigkeit abzudecken.
+
+Die Gesellschaft hat neben dem operativen Cashflow über den Konzernverbund mit der Mitsui Chemicals, Japan Zugang zur Finanzierung über Cash Pooling. Sie hat einen Ergebnisabführungsvertrag sowie Darlehensverträge mit externen Banken. Im Geschäftsjahr fiel der Bestand an Flüssigen Mitteln deutlich um 9,9 Mio.€ auf 8,8 Mio. € durch die Begleichung der Investitionen im Sachanlagevermögen.
+
+Die Vermögens-, Finanz- und Ertragslage der Gesellschaft stellt sich insgesamt für die Geschäftsführung zufriedenstellend dar.
+
+Prognosebericht
+
+Es wird eine moderat positive Umsatzentwicklung im kommenden Wirtschaftsjahr erwartet. Im Wesentlichen ergibt sich das Wachstum aus den Kernsegmenten des Unternehmens. Krisen wie der Ukraine-Krieg, die Zero Covid Policy in China sowie die Materialverknappung sind mittlerweile durch das Unternehmen gut begleitet. Das Wachstum wird im Wesentlichen in Europa sowie Asien erwartet. Der Nicht-Edelmetallumsatz wird demnach mit einem Anstieg von 7,8% im Budget geplant. Der Edelmetallumsatz wird sich voraussichtlich wieder abschwächen und wurde daher mit einem Rückgang von -9,1% angesetzt.
+
+Auswirkungen der Inflation sind in alle Bereiche des Budgets eingeflossen, das Rohergebnis verbessert sich leicht.
+
+Bei den operativen Gemeinkosten wurde ein Ansatz gewählt, der dem langfristigen Ziel eines moderaten Wachstums Rechnung trägt und einen sinnvollen Anstieg widerspiegelt.
+
+Aufgrund einer vernünftigen Planung wird demnach ein leichter Anstieg des Gross Operating Result (GOR) als operatives Jahresergebnis 2023/24 erwartet. Das Gross operating Result errechnet sich aus dem EBIT abzüglich außergewöhnlicher Aufwendungen oder Erträge.
+
+Für das Geschäftsjahr 2023/2024 wird mit 3,8 Mio. € ein im Vergleich zum Vorjahr deutlich geringerer Betrag für Investitionen angesetzt. Der im Vorjahr notwendige Umbau fällt im Geschäftsjahr 2023/2024 nicht an, womit der Betrag im Bereich der normalen Vorjahre liegt.
+
+Es wird abschließend darauf hingewiesen, dass die tatsächlichen Ergebnisse von den Erwartungen über die voraussichtliche Entwicklung abweichen können.
+
+Risiko- und Chancenbericht
+
+Es besteht ein ausreichendes Compliance-System, dass durch regelmäßige Audits des Shareholders überprüft und bestätigt wird.
+
+Im Bereich Treasury wurde das Risikomanagement weiter ausgebaut. Währungskursrisiken werden in der Regel nicht abgesichert, entsprechende Gewinne und Verluste wirken sich daher direkt auf das Ergebnis aus.
+
+Die Liquiditätsversorgung ist durch Zusicherung von Darlehen durch den Gesellschafter und dessen Einbindung in die zentrale Finanzierung durch MCI gesichert.
+
+Das Kreditmanagement wird kontinuierlich fortgeführt und Zahlungsvereinbarungen werden entsprechend geprüft, um Forderungsausfallrisiken zu minimieren.
+
+Im Marktumfeld bestehen Risiken, da die Edelmetallumsätze erwartungsgemäß sinken werden. Zudem wird mit dem Bereich Digital von der KDE selbst ein Substitutionsgeschäft aufgebaut. Die digitale Entwicklung wird weiterhin vorangetrieben und das Thema moderner Lösungen in den Mittelpunkt gestellt. Diese modernen Lösungen werden zukünftig verstärkt aus einer Kombination sämtlicher Elemente bestehen.
+
+Im eigentlichen Bereich der dentalen Materialien werden keine umwälzenden neuen Technologien erwartet außer im Bereich der aufbauenden Verfahren und der Entwicklung digitaler Lösungen.
+
+Im Berichtsjahr sowie auch aus heutiger Sicht sind keine Risiken ersichtlich, die den Fortbestand des Unternehmens gefährden oder die die Vermögens-, Finanz- und Ertragslage der Gesellschaft wesentlich beeinträchtigen könnten.
+
+Festlegung zur Förderung der Teilhabe von Frauen an Führungspositionen
+
+Im Rahmen des Gesetzes für die gleichberechtigte Teilhabe von Männern und Frauen an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst wurden von der Gesellschafterversammlung folgende Zielgrößen festgelegt:
+
+Die Zielgröße für den Anteil an Frauen in der Geschäftsführung der Gesellschaft beträgt bis zum Beschluss von Änderungen im Hinblick auf die derzeitige Zusammensetzung der Geschäftsführung 0%. Zurzeit sind als Geschäftsführer zwei Männer bestellt. Es ist nicht geplant, die Anzahl der Geschäftsführung zu erweitern. Per 31. März 2023 lag der tatsächliche Anteil bei 0%.
+
+Für die beiden Führungsebenen unterhalb der Geschäftsführung der Gesellschaft wird ein Frauenanteil von 30 % zum 30. Juni 2024 angestrebt. Per 31. März 2023 lag der tatsächliche Anteil bei 29 %.
+
+Für den Aufsichtsrat der Gesellschaft wird ebenfalls ein Frauenanteil von 30 % zum 30. Juni 2024 angestrebt. Per 31. März 2023 lag der tatsächliche Anteil bei 17%.
+
+Die Gesellschaft ist bestrebt, den Anteil weiter zu erhöhen.
+
+Nachtragsbericht
+
+Wir verweisen auf unsere Ausführungen im Anhang.
+
+Hanau, den 24. Mai 2023
+
+Marc Berendes
+
+Takeo Okuyama

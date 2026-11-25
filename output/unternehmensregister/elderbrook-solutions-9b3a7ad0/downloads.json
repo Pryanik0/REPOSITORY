@@ -1,0 +1,20 @@
+[
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=_MMyNVbyze6HDMrzFtLC0Y0_r0COwdrgkW6uGS3DdRAtRPG-3bXxchKz8YQAoRIqS0lHKUUyVPvOjTN_KfgciF01Gj5KqG5px_BRQOjO812vpwI6xBVCGf6__bg1YPTaitHxCL-ZWCcyozDUOuuTE5zmXA0FPuOQSZ8QraQGwF3ktYNcDsFjl5ahnJhVdj-3THcRTjgLTc6KrN9UjioUZ22p5mqD4VSEH01vAvJ4vGgXnTol",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\elderbrook-solutions-9b3a7ad0\\finanzberichte\\publication-1\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\elderbrook-solutions-9b3a7ad0\\finanzberichte\\publication-1\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\elderbrook-solutions-9b3a7ad0\\finanzberichte\\publication-1\\publication.txt",
+    "index": 1,
+    "category": "finanzberichte",
+    "company": "elderbrook solutions GmbH, Biberach an der Riß",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+    "documents_path": "output\\unternehmensregister\\elderbrook-solutions-9b3a7ad0\\finanzberichte\\publication-1\\documents.json"
+  }
+]

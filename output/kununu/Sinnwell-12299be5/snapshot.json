@@ -1,0 +1,670 @@
+{
+  "provider": "kununu",
+  "backend": "browser",
+  "status": "ok",
+  "query": "Sinnwell",
+  "profile": {
+    "url": "https://www.kununu.com/de/sinnwell",
+    "name": "Sinnwell GmbH",
+    "overall_score": 4.6,
+    "review_count": 51,
+    "recommendation_percent": 94,
+    "recommendation_period": "last_2_years",
+    "observed_at": "2026-11-25T17:17:33.964322+00:00"
+  },
+  "reviews": [
+    {
+      "id": "2a4aea62-5b84-4d75-a5e0-7de687060cf3",
+      "url": "https://www.kununu.com/de/sinnwell/bewertung/2a4aea62-5b84-4d75-a5e0-7de687060cf3",
+      "title": "Tolle Arbeitgeber",
+      "content": "Flache Hirarchien, gute Kommunikation intern über Entwicklungen und zukünftige Ausrichtung der Firm\n\nNicht\n\nWertschätzend\n\nKann ich gar nicht wirklich beurteilen\n\nPasst, keine starren Arbeitszeiten (Projektbezogen natürlich)\n\nBekomme was notwendig ist\n\nPasst\n\nSofern ich das beurteilen kann gut\n\nPerfekt\n\nSo wie es sein sollte\n\nEinwandfrei, freundschaftlich,\n\nHomeoffice, notwendiges Equipment komplett vorhanden, perfekt\n\nUnkompliziert, direkt\n\n100%\n\nNatürlich Projektabhängig, aktuell aber perfekt",
+      "rating": 4.7,
+      "sections": {
+        "positive": "Flache Hirarchien, gute Kommunikation intern über Entwicklungen und zukünftige Ausrichtung der Firm",
+        "negative": "Nicht",
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Wertschätzend",
+        "image": "Kann ich gar nicht wirklich beurteilen",
+        "workLife": "Passt, keine starren Arbeitszeiten (Projektbezogen natürlich)",
+        "career": "Bekomme was notwendig ist",
+        "salary": "Passt",
+        "environment": "Sofern ich das beurteilen kann gut",
+        "teamwork": "Perfekt",
+        "oldColleagues": "So wie es sein sollte",
+        "leadership": "Einwandfrei, freundschaftlich,",
+        "workConditions": "Homeoffice, notwendiges Equipment komplett vorhanden, perfekt",
+        "communication": "Unkompliziert, direkt",
+        "equality": "100%",
+        "tasks": "Natürlich Projektabhängig, aktuell aber perfekt"
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 4.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 4.0,
+        "salary": 5.0,
+        "image": 4.0,
+        "environment": 4.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-08-13T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "5df18cf5-11e4-4009-b101-02fa2a2e888f",
+      "url": "https://www.kununu.com/de/sinnwell/bewertung/5df18cf5-11e4-4009-b101-02fa2a2e888f",
+      "title": "Get well - Sinnwell",
+      "content": "Kurze Entscheidungswege\n\nEs gibt nichts zu meckern\n\nEtwas mehr grün im Büro wäre schon schön ;-)",
+      "rating": 4.8,
+      "sections": {
+        "positive": "Kurze Entscheidungswege",
+        "negative": "Es gibt nichts zu meckern",
+        "suggestion": "Etwas mehr grün im Büro wäre schon schön ;-)"
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 5.0,
+        "communication": 4.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-12-15T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "1cfc4090-79a2-4e61-904d-b0dbc58b001e",
+      "url": "https://www.kununu.com/de/sinnwell/bewertung/1cfc4090-79a2-4e61-904d-b0dbc58b001e",
+      "title": "Leistung zahlt sich hier aus",
+      "content": "Man wird gelassen wenn man will\n\nKeine\n\nInnerhalb Deiner Projekte bist Du Dein eigener Chef\n\nGut !\n\nKann jeder für sich gestalten solange die Projekte nicht darunter leiden\n\nEs stehen alle Türen offen.\n\nBin zufrieden\n\nIst gegeben\n\nIst gegeben\n\nWie mit allen anderen auch\n\nImmer erreichbar und offen für Vorschläge\n\n1A\n\nEs wird klar und offen kommuniziert\n\nWird groß geschrieben\n\nJe nach Projekt / Kunde unterschiedlich",
+      "rating": 5.0,
+      "sections": {
+        "positive": "Man wird gelassen wenn man will",
+        "negative": null,
+        "suggestion": "Keine"
+      },
+      "factor_comments": {
+        "atmosphere": "Innerhalb Deiner Projekte bist Du Dein eigener Chef",
+        "image": "Gut !",
+        "workLife": "Kann jeder für sich gestalten solange die Projekte nicht darunter leiden",
+        "career": "Es stehen alle Türen offen.",
+        "salary": "Bin zufrieden",
+        "environment": "Ist gegeben",
+        "teamwork": "Ist gegeben",
+        "oldColleagues": "Wie mit allen anderen auch",
+        "leadership": "Immer erreichbar und offen für Vorschläge",
+        "workConditions": "1A",
+        "communication": "Es wird klar und offen kommuniziert",
+        "equality": "Wird groß geschrieben",
+        "tasks": "Je nach Projekt / Kunde unterschiedlich"
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-09-02T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "f5606ac8-658e-4a67-a7f2-16f486fb9708",
+      "url": "https://www.kununu.com/de/sinnwell/bewertung/f5606ac8-658e-4a67-a7f2-16f486fb9708",
+      "title": "Sehr guter Arbeitgeber",
+      "content": "Die Wertschätzung wird hier großgeschrieben, gutes Gehalt, Vorgesetzte haben immer ein offenes Ohr",
+      "rating": 5.0,
+      "sections": {
+        "positive": "Die Wertschätzung wird hier großgeschrieben, gutes Gehalt, Vorgesetzte haben immer ein offenes Ohr",
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": null,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-05-21T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "252319d6-a335-42c9-83bc-fac9ec278833",
+      "url": "https://www.kununu.com/de/sinnwell/bewertung/252319d6-a335-42c9-83bc-fac9ec278833",
+      "title": "Ohne Zukunft",
+      "content": "Wenn Arbeitnehmer Überlassung ausläuft, wird gekündigt.\n\nKonstante Akquise für die Mitarbeiter und Weiterentwicklung von Qualifikationen\n\nMan kennt sich kaum da Arbeitnehmer Überlassung fremdverkauft\n\nGibt es kaum, je mehr gearbeitet wird umso mehr verdient die Firma aber nicht der Mitarbeiter\n\nAndere Vermittler zahlen mehr\n\nWoher? Jeder wurschtelt in seinem Kundenkreis\n\nWelcher Vorgesetzte, unklare Struktur und Hierarchie\n\nUnklar auch wenn es Probleme mit den Kunden gibt\n\nFindet kaum statt, Einarbeitung Null, Admin Themen werden kaum kommuniziert aber gefordert\n\nKann es nicht geben, da jeder unterschiedlich an verschiedene Kunden verkauft wird\n\nGibt es schon für die Zeit der Arbeitnehmer Überlassung",
+      "rating": 2.6,
+      "sections": {
+        "positive": null,
+        "negative": "Wenn Arbeitnehmer Überlassung ausläuft, wird gekündigt.",
+        "suggestion": "Konstante Akquise für die Mitarbeiter und Weiterentwicklung von Qualifikationen"
+      },
+      "factor_comments": {
+        "atmosphere": "Man kennt sich kaum da Arbeitnehmer Überlassung fremdverkauft",
+        "workLife": "Gibt es kaum, je mehr gearbeitet wird umso mehr verdient die Firma aber nicht der Mitarbeiter",
+        "salary": "Andere Vermittler zahlen mehr",
+        "teamwork": "Woher? Jeder wurschtelt in seinem Kundenkreis",
+        "leadership": "Welcher Vorgesetzte, unklare Struktur und Hierarchie",
+        "workConditions": "Unklar auch wenn es Probleme mit den Kunden gibt",
+        "communication": "Findet kaum statt, Einarbeitung Null, Admin Themen werden kaum kommuniziert aber gefordert",
+        "equality": "Kann es nicht geben, da jeder unterschiedlich an verschiedene Kunden verkauft wird",
+        "tasks": "Gibt es schon für die Zeit der Arbeitnehmer Überlassung"
+      },
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 2.0,
+        "communication": 3.0,
+        "workConditions": 2.0,
+        "leadership": 2.0,
+        "teamwork": 2.0,
+        "oldColleagues": 4.0,
+        "equality": 2.0,
+        "career": 2.0,
+        "salary": 2.0,
+        "image": 3.0,
+        "environment": 3.0,
+        "tasks": 4.0
+      },
+      "published_at": "2025-01-23T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "3cb6fd7a-5143-45c1-becf-d59a943583af",
+      "url": "https://www.kununu.com/de/sinnwell/bewertung/3cb6fd7a-5143-45c1-becf-d59a943583af",
+      "title": "Gutes Bwtriebsklima",
+      "content": "Immer neue Projekte, netter Ungang, niedrige Hirachien, Duz Mentalität\n\n-",
+      "rating": 4.9,
+      "sections": {
+        "positive": "Immer neue Projekte, netter Ungang, niedrige Hirachien, Duz Mentalität",
+        "negative": "-",
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": null,
+        "salary": 4.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2024-12-16T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "fc7555bf-f1b8-458c-9513-7e94ce7b200c",
+      "url": "https://www.kununu.com/de/sinnwell/bewertung/fc7555bf-f1b8-458c-9513-7e94ce7b200c",
+      "title": "Alles super",
+      "content": "",
+      "rating": 5.0,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-07-16T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "fea078a2-a761-4757-bc07-2a16bfcfece2",
+      "url": "https://www.kununu.com/de/sinnwell/bewertung/fea078a2-a761-4757-bc07-2a16bfcfece2",
+      "title": "Gute Projekte die in der Vermittlung sind!",
+      "content": "",
+      "rating": 3.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-05-22T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "4d6bb7d8-a31f-42c1-947e-b104ccba72f9",
+      "url": "https://www.kununu.com/de/sinnwell/bewertung/4d6bb7d8-a31f-42c1-947e-b104ccba72f9",
+      "title": "ein toller Arbeitgeber",
+      "content": "",
+      "rating": 4.5,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-03-14T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "1139eaa8-cfea-4b80-a413-ae8e37742fe5",
+      "url": "https://www.kununu.com/de/sinnwell/bewertung/1139eaa8-cfea-4b80-a413-ae8e37742fe5",
+      "title": "Super Arbeitgeber :) Immer Hilfsbereit und Lösungsorientiert",
+      "content": "",
+      "rating": 5.0,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-02-17T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "1dfd7bdd-be16-4cc4-947c-ab5a4ab3c6ef",
+      "url": "https://www.kununu.com/de/sinnwell/bewertung/1dfd7bdd-be16-4cc4-947c-ab5a4ab3c6ef",
+      "title": "Empfehlenswert, wenn du Humor hast.",
+      "content": "",
+      "rating": 4.7,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-08-07T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "437d6387-0d6f-4cfd-9892-b5455f1b4523",
+      "url": "https://www.kununu.com/de/sinnwell/bewertung/437d6387-0d6f-4cfd-9892-b5455f1b4523",
+      "title": "Vollends zufrieden",
+      "content": "",
+      "rating": 5.0,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-07-15T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "2a25139e-138e-4296-9a76-08bbf89d96f3",
+      "url": "https://www.kununu.com/de/sinnwell/bewertung/2a25139e-138e-4296-9a76-08bbf89d96f3",
+      "title": "Empfehlenswert",
+      "content": "",
+      "rating": 5.0,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-02-06T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "c9fb65ac-af1d-458f-804e-41e207631d79",
+      "url": "https://www.kununu.com/de/sinnwell/bewertung/c9fb65ac-af1d-458f-804e-41e207631d79",
+      "title": "Guter Arbeitgeber mit passendem Arbeitsklima.",
+      "content": "",
+      "rating": 4.4,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-01-28T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "d7d02195-bfe2-47e2-871d-acd4cbaa1662",
+      "url": "https://www.kununu.com/de/sinnwell/bewertung/d7d02195-bfe2-47e2-871d-acd4cbaa1662",
+      "title": "Loyal, fair und familiär! Immer mit einem offenen Ohr für die Mitarbeiter",
+      "content": "",
+      "rating": 4.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2024-12-12T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    }
+  ],
+  "review_limit": 15,
+  "review_period": {
+    "since": "2024-11-25T00:00:00+00:00",
+    "until": "2026-11-25T17:17:32.223806+00:00",
+    "date_field": "published_at",
+    "missing_dates": "excluded"
+  },
+  "factor_scores_aggregated": {
+    "atmosphere": {
+      "mean": 4.5,
+      "count": 6
+    },
+    "workLife": {
+      "mean": 4.5,
+      "count": 6
+    },
+    "communication": {
+      "mean": 4.33,
+      "count": 6
+    },
+    "workConditions": {
+      "mean": 4.5,
+      "count": 6
+    },
+    "leadership": {
+      "mean": 4.5,
+      "count": 6
+    },
+    "teamwork": {
+      "mean": 4.5,
+      "count": 6
+    },
+    "oldColleagues": {
+      "mean": 4.83,
+      "count": 6
+    },
+    "equality": {
+      "mean": 4.5,
+      "count": 6
+    },
+    "career": {
+      "mean": 4.0,
+      "count": 4
+    },
+    "salary": {
+      "mean": 4.33,
+      "count": 6
+    },
+    "image": {
+      "mean": 4.5,
+      "count": 6
+    },
+    "environment": {
+      "mean": 4.5,
+      "count": 6
+    },
+    "tasks": {
+      "mean": 4.83,
+      "count": 6
+    }
+  },
+  "coverage": "bounded_employee_review_sample_last_2_years_not_all_reviews",
+  "diagnostics": {
+    "pages": [
+      {
+        "page": "reviews",
+        "page_number": 1,
+        "load_more_clicks": 0,
+        "requested_url": "https://www.kununu.com/de/sinnwell/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Sinnwell-12299be5\\browser\\reviews.html",
+        "browser_step": 124,
+        "final_url": "https://www.kununu.com/de/sinnwell/kommentare",
+        "observed_at": "2026-11-25T17:17:33.612450+00:00",
+        "http_status": 200,
+        "factor_cards_expanded": 3,
+        "reviews_collected": 6
+      },
+      {
+        "page": "reviews",
+        "page_number": 2,
+        "load_more_clicks": 1,
+        "requested_url": "https://www.kununu.com/de/sinnwell/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Sinnwell-12299be5\\browser\\reviews-2.html",
+        "browser_step": 125,
+        "final_url": "https://www.kununu.com/de/sinnwell/kommentare",
+        "observed_at": "2026-11-25T17:17:34.944122+00:00",
+        "actions_complete": true,
+        "factor_cards_expanded": 1,
+        "reviews_collected": 6
+      },
+      {
+        "page": "reviews",
+        "page_number": 3,
+        "load_more_clicks": 2,
+        "requested_url": "https://www.kununu.com/de/sinnwell/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Sinnwell-12299be5\\browser\\reviews-3.html",
+        "browser_step": 126,
+        "final_url": "https://www.kununu.com/de/sinnwell/kommentare",
+        "observed_at": "2026-11-25T17:17:36.343534+00:00",
+        "actions_complete": true,
+        "reviews_collected": 6
+      },
+      {
+        "page": "reviews",
+        "page_number": 4,
+        "load_more_clicks": 3,
+        "requested_url": "https://www.kununu.com/de/sinnwell/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Sinnwell-12299be5\\browser\\reviews-4.html",
+        "browser_step": 127,
+        "final_url": "https://www.kununu.com/de/sinnwell/kommentare",
+        "observed_at": "2026-11-25T17:17:37.878912+00:00",
+        "actions_complete": true,
+        "reviews_collected": 15
+      }
+    ]
+  },
+  "source_url": "https://www.kununu.com/de/sinnwell",
+  "profile_source": "https://www.kununu.com/de/sinnwell/kommentare",
+  "review_stop_reason": "sample_limit_reached",
+  "factor_score_coverage": {
+    "reviews_with_scores": 6,
+    "reviews_without_scores": 9,
+    "reviews_with_all_known_scores": 4,
+    "status": "partial"
+  },
+  "request_limits": {
+    "max_browser_steps": 295,
+    "browser_steps": 127,
+    "zyte_requests": 0
+  },
+  "reason": null
+}

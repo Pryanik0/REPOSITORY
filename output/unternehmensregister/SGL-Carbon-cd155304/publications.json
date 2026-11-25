@@ -1,0 +1,534 @@
+{
+  "company": {
+    "key": "SGL Carbon",
+    "name": "SGL Carbon SE",
+    "location": "Wiesbaden",
+    "name_source": "company_name",
+    "urls": [
+      "https://www.sglcarbon.com/"
+    ],
+    "kununu_url": "https://www.kununu.com/de/sglgroup-thecarboncompany",
+    "branches": [
+      "Chemieindustrie"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "65201",
+    "street": "Söhnleinstraße 8",
+    "region": "Hessen",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:51:29.012854+00:00",
+  "searches": [
+    {
+      "accounting_only": true,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=SGL+Carbon+SE&companyLocation=Wiesbaden&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ACCOUNTING&drilldownFilter=22&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": true
+    },
+    {
+      "accounting_only": false,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=SGL+Carbon+SE&companyLocation=Wiesbaden&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ALL_AREAS&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": true
+    }
+  ],
+  "excluded_company_matches": [
+    {
+      "company": "SGL Fuel Cell Components GmbH, Meitingen",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-04-17",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=tb0LW0FKZ6-UpLp2trS_vdqOhNKHt7dE7jTTUQX3klMP7U3XyyGHl7JhOTQ0ZNACF8ikwg6ssuViWe5PwDnA2YS0fzdYZKSCHXNeJ1yL1G56ilpJE_AZ6w707apM1m3IXUUEoe7fQAgMw9DZPC8cBTi4dGqSH-QewjfMUUQ33YY74v50E5upLnHakfr6ja9Ol0qcBLsz0n5wW8A9fe08OeJ_1hdejbHBIMMSFP74mj-IfxaR",
+      "metadata": "SGL Fuel Cell Components GmbH, Meitingen Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Berichtigung der Veröffentlichung vom 09.12.2025 SGL Carbon SE, Wiesbaden Datum: 17.04.2026 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "SGL TECHNOLOGIES GmbH, Meitingen",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-01-05",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=YMySF46mWHZPflss8mGMq1CWvZJ2QrpdD3ITQYtEvAhyReojSDfc0zVbJVcc0Q_w6xAWYie3RIfcX_iD1CODjNKNGEVhiJUSDvjZL19f02KV8L2NPEfA2Q6aSd5-RSzGl4gWa3kDHxXZTPqpCw8Pa2rAEgaJAsygB_UOkwrspt4yWVtcahUlXUTUtkERs2WkCVEBSWvO1BDjW1P7l8xBh2rAG-5oTPq8Y8a09QJiq2msE99X",
+      "metadata": "SGL TECHNOLOGIES GmbH, Meitingen Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 SGL Carbon SE, Wiesbaden Datum: 05.01.2026 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "SGL epo GmbH, Willich",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-01-02",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=R5p1JDcpZn3-3n1pITVYzyIStYKg6vH74QnmCI68mvVQp_gpov1ulc4_Xc8qo2D7ufs91JtHqAvbNwtTt6q1lZBrwaCdWo4DkesLrhzXm-WNt3ONpgCK7fACL-rn_L2JXK9vNHIpYYy_jLNUlJByDFP3mjjmvCxvvyOAgs8mMyjwgZHaoHFaha3mKBvtM6cQ11bvK_sqJAmVX7DrmBy8YFMTjt8wl2wGNrlikb5eFSgsY3-I",
+      "metadata": "SGL epo GmbH, Willich Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 SGL Carbon SE, Wiesbaden Datum: 02.01.2026 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Dr. Schnabel GmbH, Limburg a. d. Lahn",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-01-02",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=HnT8twaqH5Ajsqd-4SNCtnyWnUY8pGwZcYtxVDuEhA24L2uWC4rQkpSt4o3LPDBaAtYf2bvpYi0BBLGbI8_ale3wUAcw4fYv2cZWbM77oV1TVZu0NJmK4NZLUxjx0TNcrGJRRB__e9bW8rvWP7tW5q_nWkHJD3UpLZQBPWEYLA_4cag7fkJ7NLIvEDPFpBm9ckGao8AtERukx-L6P4I46FTYv9MVTguqDHADDiKqPYHiXGXX",
+      "metadata": "Dr. Schnabel GmbH, Limburg a. d. Lahn Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 SGL Carbon SE, Wiesbaden Datum: 02.01.2026 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "SGL CARBON GmbH, Meitingen",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-01-02",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=BftEkvHjeXuTg2c_6I6g3yWpPnVZMPP3wHjDxTw37VInpHLQmeb5IpXVIKECFbhSMAtDkT_tD6QAfhBcrou9lS6QrDzv73-AFQrQxKZD_ywTdIbLb5mYYe1VzHYufpDR7kVebCdrdSSWfLyAAYwel0AqG85HOLRPOFngthKsnzlDGh5zaxW7_1ZY0Umwhv6dUkDA3Yn2Sz-mLNMeWyARgNDh3cbWAqMej9_6mEEdorqhUmxp",
+      "metadata": "SGL CARBON GmbH, Meitingen Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 SGL Carbon SE, Wiesbaden Datum: 02.01.2026 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "SGL Fuel Cell Components GmbH, Meitingen",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2025-12-09",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=85oNu8ZuiTU4mV7yPVFQRctMxsF9M2Yx0VKg1MQmDth0Al2MobJ7QX8-4PF7-ZCf5YlBCAjP9eAXAdBz0y3AnLYwx7-cXkYAwJmFy8fry9HtXAwKMcWR25AJahOUAy4TdeVRZ24qSdmNUhvmmnRKcncTeHiExrjohGBwdqdoGcN4_xjaR6Nk-xD32WF8yMXsvsQDhgD9EIOc23aZV8x_YIOyyXSjsX4zNL09F891AQKSH2XP",
+      "metadata": "SGL Fuel Cell Components GmbH, Meitingen Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Berichtigt am 17.04.2026 SGL Carbon SE, Wiesbaden Datum: 09.12.2025 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "SGL CARBON Beteiligung GmbH, Wiesbaden",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2025-12-09",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=gwDLjmN2gUJZmwllruGgd_7XFp-qtwOKS4ztLh-Kwup-4X4tyt7yh9vFBF81CRMslpDet4XEetMglFUqWCbmaLBFoeba1n7VWUlPU4Qbf26QstbFRBXoTwzmrsnYJ54HeyiLNyHAgXyrQEZO9SJZeKUy_y2mgUo-u-PHx3LuOK5YUPEQHeR_56cuzQhQVl-2jAC_Pn_WsBHKJ5UsYQ_g9CBS6g1OmPpX9rtGm1irOnmi4RWY",
+      "metadata": "SGL CARBON Beteiligung GmbH, Wiesbaden Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 SGL Carbon SE, Wiesbaden Datum: 09.12.2025 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "SGL Composites Materials Germany GmbH, Meitingen",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2025-12-09",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=B5UpJKJYmRGy2Yo41jbMV2UWFqt-eDEOCAvDpyttH592MO7UOH0IiK5vHrznbwDGKFgJMa79XX6mjz9yEAQ3---UikQuev5jp8DKT3PvVwgXtVBtWYRTL2MKxQcvf195dmMC47xLjdJDOZYKFba8ud2FV3gU_thInhFKnAgNRpuFKa_BU_HOd3WV4reBzAhuYPjl5GZITVsOjGCN6XQcWxDYl9STDCN2GrrTr5M9tr1Bb2I8",
+      "metadata": "SGL Composites Materials Germany GmbH, Meitingen Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 SGL Carbon SE, Wiesbaden Datum: 09.12.2025 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "SGL Carbon Asset GmbH, Meitingen",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2025-12-09",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=cF_BOI3DoSIWGI5lJAfNKLYCw9FTl_zg5LGCghU0bws0X82TP2Q_2tWpJkeiN8DKC66UqRnS7uSIQtMvZnfglRGSs9DGtowChsUiDiVYe6f6BXLjBlAbGybd5_GNv-xuEgPdSjAAdJXdOuUhw6sWKBqj1j6nIXLsjcJ4GjXeASAqUwnPz1uDJ441yz3x9ou_QVq6hbvklhLfHadZgH7O5Q1csA_nHDL4atbN2eBxVyJLCCWI",
+      "metadata": "SGL Carbon Asset GmbH, Meitingen Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 SGL Carbon SE, Wiesbaden Datum: 09.12.2025 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "SGL Fuel Cell Components GmbH, Meitingen",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-04-17",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=AOtTnL4402kqJDs2Nl4YTVYZISk0vtQTlYv1sIsQg07WXWSvxXUcly-vrFwBpcWZyv8KBphq51apBTrJUqOEd1lOsVZYl0BzplXJ4H2UnsXD51F4X0eEXNTAbUS80a7qY5i56BDolQTkKm0fnz7eMXWNs2jwJZtIvEbjAuJSngfoMVuoxK8OED7yv75XPtdKdWNoANOEpEdErmyZ-bmFTl6fzcUyu-ULudJn28qs3UW4pF6W",
+      "metadata": "SGL Fuel Cell Components GmbH, Meitingen Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Berichtigung der Veröffentlichung vom 09.12.2025 SGL Carbon SE, Wiesbaden Datum: 17.04.2026 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "SGL TECHNOLOGIES GmbH, Meitingen",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-01-05",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=w9TKnOLxWr2G1mszsMD2R66z5xfWEDo2M47n-o_Dh3taNsOkvMkaGLskGUcGEFB74Fa1pd2N5xh83e067oHi-pScJacoQWqLj1AiLDE_-vjz0eYrK-eeBa0lcfYgvb41gAZ7h0ksDyWSMoP5TqCbEN46DfmwTE3RVW7q1G6LLhvqwn-qSrxJLWlCwgzPv69DjepUuiOgS2IU0jKFubTzKWtYna7sfTIcgBsBKkOfgTficF0A",
+      "metadata": "SGL TECHNOLOGIES GmbH, Meitingen Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 SGL Carbon SE, Wiesbaden Datum: 05.01.2026 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "SGL epo GmbH, Willich",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-01-02",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=VFew8tkq5JYP2pcYQTvBvwpTVL7U5VgXD4UlpF4COHogvNgZfCa1mPkLjWiNp3223kukgDlP-pkcZ4PnVvTOd3n9h0gIyX4p3P2CrIIk0MNj6RtCx5AdR9gBuIm0GPXKxymyFo-u3FPnsQxKXql8OX9itKFlMay3DmTHOqrSBkshey95O2hYpbMjbamB4ttSKVzFuDrROYerlwrFUfgDU5pRI6u1Uzoaa2M1WkWArT0fICSR",
+      "metadata": "SGL epo GmbH, Willich Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 SGL Carbon SE, Wiesbaden Datum: 02.01.2026 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Dr. Schnabel GmbH, Limburg a. d. Lahn",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-01-02",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=d2N4KHHKaVNLj85HAfxUyCm8GN0uDuhoI_rh83K0fGVxiv1hXRFYFKMnyaxngMgKfVCZAt8lmEUphO9_BNa9B-b6MBM1fvM4nsO8q0I-QtffqPSHyz5XqZbVCyjsz_AlA-BfsFv8konFAQqc2Jo2HiqfW2P5Io6XCe9YarSId-_4h3qJIT4WV0Yd2PU1du7JC_dTMlAhYVZ-3yRrwsy-_GDVV4XtkJ0qRR8RP_YhbdRePogW",
+      "metadata": "Dr. Schnabel GmbH, Limburg a. d. Lahn Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 SGL Carbon SE, Wiesbaden Datum: 02.01.2026 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "SGL CARBON GmbH, Meitingen",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-01-02",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=n4ZCE4HHZyFzkLw2N8DS86TA8jvEwsbXp8MW6lVlvB0ltUZQwPPnrTPm4w1V6Kg_8spwnaXdmRfYFn_iRCT8VzVGeWKLgw7YMe6f_viQuzmJe33pY4RX6of0GsMkxThtQlCCz2o474wiUmOLNMH6HWETXCRmxwvwzlk3KjaBqo-jxgxuqWAr540cyPrjkYMH6puX_bgUVnMR9miLxc59p3_ynt2a8vkb4pDzelGhTGomCQiy",
+      "metadata": "SGL CARBON GmbH, Meitingen Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 SGL Carbon SE, Wiesbaden Datum: 02.01.2026 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "SGL Fuel Cell Components GmbH, Meitingen",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2025-12-09",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=NIgw2qtmDqvZXO8U8sLboOurYmsuD9nzTUn4bo7a-2GNsuCQQB5c-zbPtHROeRqhhwEMF8dbvQAWEJIT3NP8c4ezNJq5up42sdid-yJgd6hzymUFzDS2U9irUW0-vdhBUYFsw2JAwhtUfNlJtsmeOvbLAqy8IS81e34Jf6n7NGpQxEQTz9w2OgcSEDyeqonne_viPdqwuOqbWgwvc7MwowGXt59s4b_BwRM1LYZPa1Z3fXiR",
+      "metadata": "SGL Fuel Cell Components GmbH, Meitingen Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Berichtigt am 17.04.2026 SGL Carbon SE, Wiesbaden Datum: 09.12.2025 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "SGL CARBON Beteiligung GmbH, Wiesbaden",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2025-12-09",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=-msUJqOhfX8ilf-Ie6KW4L6Z2RQrFGdaSC0_mDOP_udq3vmccmbPvfUpaeq_Aws8mFtJtVsEkdnQ4942Zok1Q1NoAS5wJhZnN4vpl_whsvutbFOs2xQxsVD3yxTQgbmDS3VAqt9spogVU0toWZ9A34zF01zvxStFyXEjIy5YZBquJV_r_RFYs5bc_EY4nPxZ6eGv6GsA2QoNEPAp12UeT4OL7fMqo3cxU9-Jx-QTCfgFloye",
+      "metadata": "SGL CARBON Beteiligung GmbH, Wiesbaden Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 SGL Carbon SE, Wiesbaden Datum: 09.12.2025 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "SGL Composites Materials Germany GmbH, Meitingen",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2025-12-09",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=Ba4Wy09gJth2r8Pl5BcEEgDktfLceEqRAUSf_t9Yd0UFNyq1SXl3AzR7yXlsny3lKaQC3ieM1ZtailNX2MLNju6FwM6l-aPxWQLaJ4JJ1NH4gIHXUyD4pgPfWGj0HCjqMv2gWMYUN3geVJpxaN6bE1OvyEb982xE8Tv4NCg7OaEQp-kcMxS2qRnhnmctqbak_W0aWZc-zo6AMPWze_ACeyLIa2Ug0jC-gFUYF0X80asnWcT1",
+      "metadata": "SGL Composites Materials Germany GmbH, Meitingen Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 SGL Carbon SE, Wiesbaden Datum: 09.12.2025 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    }
+  ],
+  "date_from": "2024-01-01",
+  "date_to": "2026-11-25",
+  "excluded_dates": [],
+  "max_publications": 30,
+  "truncated": true,
+  "coverage": {
+    "search_complete": false,
+    "more_pages": true,
+    "publication_limit_reached": false,
+    "downloads_selected": 6,
+    "downloads_succeeded": 6,
+    "download_limit_reached": true,
+    "downloads_complete": false,
+    "text_complete": true
+  },
+  "publications": [
+    {
+      "company": "SGL Carbon SE, Wiesbaden",
+      "title": "Quartalsfinanzbericht",
+      "publication_date": "2026-11-05",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=neVw8q1GE8UYhbVYwxZtsVLcXydWeFIDhqduOmbkuWsUDf1_nEI8StUVW2QpELhQ_KHVKZNw2MQcVXE4Zhme-Uu6Cs6zo2g0Vp37ILi-21i7DHRhAKGvZN9R-9ThR5G5cbO0ZDIeD0hxfJzsK65BOxRO6GN18R7YSBJhHc3tk63-4IJJ2EnZTJBlIM6cYNQVNNpPqb_jFCrO9Jt5Rpiz_IYZyJFGU8YyOFhcE2lwWG4DdcLp",
+      "metadata": "SGL Carbon SE, Wiesbaden Rechnungslegung / Finanzberichte https://www.sglcarbon.com/investor-relations/publikationen-news-kennzahlen/ Quartalsfinanzbericht Datum: 05.11.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte https://www.sglcarbon.com/investor-relations/publikationen-news-kennzahlen/",
+      "category": "finanzberichte",
+      "index": 1
+    },
+    {
+      "company": "SGL Carbon SE, Wiesbaden",
+      "title": "Ertragsteuerinformationsbericht (pCBCR) zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-10-30",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=cvOFqkdAK7ZWe3OlNNKy4PRpcUob91SUQs-a1jPVKEcGqzxoEcCsmBbErUDarGF0oKXbHd9MkxkEgK9oUcNfTVBK8LpayhiQ5krwfGbcv-5-erdSKu1Qv0HsRNvChIahZUHMwB28Y_PtHDUahHc6R0H3jDoF_MscvHKXmcMU7clv5YbanS-UIS7xym2dzGB-oVB9V2VKDeSlpCC81HOl0bVSaD1P6Q2AZPSuMjKchtw0It1X",
+      "metadata": "SGL Carbon SE, Wiesbaden Rechnungslegung / Finanzberichte Unternehmensregister Ertragsteuerinformationsbericht (pCBCR) zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 30.10.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 2
+    },
+    {
+      "company": "SGL Carbon SE, Wiesbaden",
+      "title": "Hinweis auf Quartalsfinanzbericht vom 01.01.2026 bis zum 30.09.2026",
+      "publication_date": "2026-10-29",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=LJnAudBmEjxyTWqSoWgfHNsdhtr2rcztmMhEKI1kg1lhv9ebCnJXrHSzi_aOYOx4-kYGL420PtsR59uKlCmoRdGLk26Ppnd3PdfQxV6kRX3eCB-QlsqWgKS8i-xeIh6y81NSXXDkWI_7oPwDDKT5O9TwAvir1r7_b7EW2n1bgn0t1KtTjBMf1zjZ1ZDa5Qg8JesXBYaALn6r2I0Z2W_JtZxg5aIhhFZJzlS3AsZNUw9TZ99c",
+      "metadata": "SGL Carbon SE, Wiesbaden Rechnungslegung / Finanzberichte EQS Group GmbH, veröffentlicht über Bloomberg, Infront und Reuters Hinweis auf Quartalsfinanzbericht vom 01.01.2026 bis zum 30.09.2026 Datum: 29.10.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte EQS Group GmbH, veröffentlicht über Bloomberg, Infront und Reuters",
+      "category": "bekanntmachungen",
+      "index": 3
+    },
+    {
+      "company": "SGL Carbon SE, Wiesbaden",
+      "title": "Hinweis auf Quartalsfinanzbericht vom 01.01.2026 bis zum 30.09.2026",
+      "publication_date": "2026-10-29",
+      "language": "Englisch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=cMzfTApz2akYMq_6FUL5icilGWrMotYwzsSriHwgTskosZ1RiZ2icW3sE_Z6Mag2eyZ5u0Ilx_Az7dbNkwOidDzZGs_vGRxVyFKpFnIUPkBB8tvsc1UYWtmnuX6MNxY_R9Sel1UpBWbZlkb1MA0UNUOTmtig_cid93MfqWX_QomLsoaE_1o0bdmr80bmkg8MAq_X3x13RJxJNZWV_2XtTYrtIZl3_2aN1xg9Vw2GTJs6cEHb",
+      "metadata": "SGL Carbon SE, Wiesbaden Rechnungslegung / Finanzberichte EQS Group GmbH, veröffentlicht über Bloomberg, Infront und Reuters Hinweis auf Quartalsfinanzbericht vom 01.01.2026 bis zum 30.09.2026 Datum: 29.10.2026 Sprache: Englisch",
+      "source_area": "Rechnungslegung / Finanzberichte EQS Group GmbH, veröffentlicht über Bloomberg, Infront und Reuters",
+      "category": "bekanntmachungen",
+      "index": 4
+    },
+    {
+      "company": "SGL Carbon SE, Wiesbaden",
+      "title": "Ad-hoc-Meldung gemäß Art. 17 MAR in Verbindung mit § 4 Abs. 1 S. 1 Nr. 1a WpAV",
+      "publication_date": "2026-10-23",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=yiCeixLz1SiABQi6BH1kTF2E0UKpna_SP39H43ZXRWN0NAo76gTXaEKY1pr5YXuV_2NBHgxRpqxSb4ZQmDF-cvPPAP2BP8ZHFQTtpdhYT_XTwb0xmKxf_CF3zi6HFZB2FhLd0lP3geKqw3A7zLBEEJQX80fi7aWLZny4WqFFG7CpodAFx01bC7_54h__nEe4jEWq8GEH2dYkxBqhgn3iopWWEjulj2NIFTxHdt7JNjm8bPsf",
+      "metadata": "SGL Carbon SE, Wiesbaden Kapitalmarktinformationen EQS Group GmbH, veröffentlicht über Bloomberg, Infront und Reuters Ad-hoc-Meldung gemäß Art. 17 MAR in Verbindung mit § 4 Abs. 1 S. 1 Nr. 1a WpAV Datum: 23.10.2026 Sprache: Deutsch",
+      "source_area": "Kapitalmarktinformationen EQS Group GmbH, veröffentlicht über Bloomberg, Infront und Reuters",
+      "category": "bekanntmachungen",
+      "index": 5
+    },
+    {
+      "company": "SGL Carbon SE, Wiesbaden",
+      "title": "Ad-hoc-Meldung gemäß Art. 17 MAR in Verbindung mit § 4 Abs. 1 S. 1 Nr. 1a WpAV",
+      "publication_date": "2026-10-23",
+      "language": "Englisch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=sBnhpjEQwBSmEMT097lRYlxuUTWGMf8sF3KWh5bHIuBdBFymo2RovSKCFkQLgDbVKpkY-teIcB3f8dkCJKKY7dKP4w3mW2PZ_LQMVx6djuVP5vT7e-bizi_AMp71yFQtr4bVb3sSjkIe2t29kdy5G4mHdrlpbWFINpQ3Sx1UWQYGVe9QzDKh69F55uOseHCZlzedl2KiDpKAo65I-sspfCOAOVX8VCOPP_Oz2Ia-lHYuyi__",
+      "metadata": "SGL Carbon SE, Wiesbaden Kapitalmarktinformationen EQS Group GmbH, veröffentlicht über Bloomberg, Infront und Reuters Ad-hoc-Meldung gemäß Art. 17 MAR in Verbindung mit § 4 Abs. 1 S. 1 Nr. 1a WpAV Datum: 23.10.2026 Sprache: Englisch",
+      "source_area": "Kapitalmarktinformationen EQS Group GmbH, veröffentlicht über Bloomberg, Infront und Reuters",
+      "category": "bekanntmachungen",
+      "index": 6
+    },
+    {
+      "company": "SGL Carbon SE, Wiesbaden",
+      "title": "Ad-hoc-Meldung gemäß Art. 17 MAR in Verbindung mit § 4 Abs. 1 S. 1 Nr. 1a WpAV",
+      "publication_date": "2026-10-06",
+      "language": "Englisch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=djYqcMBx_WL6lEkSvW8ISicG2Pt83BRjKC8jZcOwzYwVg27p3J7TSNRtgfc5w8tIAk6aruA6mzDZMh_-J4HZw11gvhkgIbvHZMKHsKDfBIjvmWKOQ5_S_PsXfR1KZfiemYOnB0m5xFNNkNpQWZKNOOxDRiYKbcetsie7FLVTpu20Xe_BIyuovIc0KiqDKAtK2i6on-RbWjkhepcVc1WSGac8nIBlBuVsP4lI0ff30t5Bjsas",
+      "metadata": "SGL Carbon SE, Wiesbaden Kapitalmarktinformationen EQS Group GmbH, veröffentlicht über Bloomberg, Infront und Reuters Ad-hoc-Meldung gemäß Art. 17 MAR in Verbindung mit § 4 Abs. 1 S. 1 Nr. 1a WpAV Datum: 06.10.2026 Sprache: Englisch",
+      "source_area": "Kapitalmarktinformationen EQS Group GmbH, veröffentlicht über Bloomberg, Infront und Reuters",
+      "category": "bekanntmachungen",
+      "index": 7
+    },
+    {
+      "company": "SGL Carbon SE, Wiesbaden",
+      "title": "Ad-hoc-Meldung gemäß Art. 17 MAR in Verbindung mit § 4 Abs. 1 S. 1 Nr. 1a WpAV",
+      "publication_date": "2026-10-06",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=7gr5g8GUXVrRGm8O1i066-_qxubNeoYSsiR4KmB0beJ0D-0h23O8ewJqJ5YE9P5BC1nJpV7Sqc1ZcjRaum9d2tyr_MgvpGzeSgBSYQak89rrKXfP56yaiiMRKBhTEtlCZGwNUkeCiCrwNYXNw5TsIb9MYgjgqzrnfP_eLhAwymiWUVKppT4h9QX_YvDCgoWpq8Mh6Btxy_u1YHV4BS4LQJR6ewiN_gRKTH-O1zZeiAdm69aj",
+      "metadata": "SGL Carbon SE, Wiesbaden Kapitalmarktinformationen EQS Group GmbH, veröffentlicht über Bloomberg, Infront und Reuters Ad-hoc-Meldung gemäß Art. 17 MAR in Verbindung mit § 4 Abs. 1 S. 1 Nr. 1a WpAV Datum: 06.10.2026 Sprache: Deutsch",
+      "source_area": "Kapitalmarktinformationen EQS Group GmbH, veröffentlicht über Bloomberg, Infront und Reuters",
+      "category": "bekanntmachungen",
+      "index": 8
+    },
+    {
+      "company": "SGL Carbon SE, Wiesbaden",
+      "title": "Halbjahresfinanzbericht nach WpHG für den Zeitraum vom 01.01.2026 bis zum 30.06.2026",
+      "publication_date": "2026-08-06",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=SQz3LqkGJX6pryfV5thehaEXkMbDnSz67p6IgvBAumr3SiyfU_Xvxt87pVh6BjA1Mtd4XGVhW8nCCwCFpGE8LADaxdVIPAolwB_5yn27ITj7UmxqIk1UJSXRSsMdPrypko66X4MIIEn_QLRgil9cdauBt9LfGEQVCyEnrvOLjU35RoB_oJXcoWNGBpOo4pqy5Wp87y_M3hY9S5mKC1h25c8QntjJt5VrXPQE8Ys6GyZA6UyG",
+      "metadata": "SGL Carbon SE, Wiesbaden Rechnungslegung / Finanzberichte https://www.sglcarbon.com/investor-relations/publikationen-news-kennzahlen/ Halbjahresfinanzbericht nach WpHG für den Zeitraum vom 01.01.2026 bis zum 30.06.2026 Datum: 06.08.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte https://www.sglcarbon.com/investor-relations/publikationen-news-kennzahlen/",
+      "category": "finanzberichte",
+      "index": 9
+    },
+    {
+      "company": "SGL Carbon SE, Wiesbaden",
+      "title": "Hinweis auf Halbjahresfinanzbericht vom 01.01.2026 bis zum 30.06.2026",
+      "publication_date": "2026-07-30",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=MqB6HAOsGZhlx1CMwjj8-SM8FnEJ4EYSCx7GHXwrzDeCgxJo5P4dKGdtYMPQ_cTu_0UqwfjIkgCsU2d2IF5gUadonbMaPbdeqESdnz9KV6nrF38erkSc66F4wLVnLnidjgT74x9Gh25HGAhOqi6LlVT4vZVsJ3jjw93FNJPQFWe7hw5j3iK15iif08nDMFdx_LiGZN1GJN9WAfF8N2dbDx1nGec6e-wOU6m_8kO0oG0mCsT9",
+      "metadata": "SGL Carbon SE, Wiesbaden Rechnungslegung / Finanzberichte EQS Group GmbH, veröffentlicht über Bloomberg, Infront und Reuters Hinweis auf Halbjahresfinanzbericht vom 01.01.2026 bis zum 30.06.2026 Datum: 30.07.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte EQS Group GmbH, veröffentlicht über Bloomberg, Infront und Reuters",
+      "category": "bekanntmachungen",
+      "index": 10
+    },
+    {
+      "company": "SGL Carbon SE, Wiesbaden",
+      "title": "Hinweis auf Halbjahresfinanzbericht vom 01.01.2026 bis zum 30.06.2026",
+      "publication_date": "2026-07-30",
+      "language": "Englisch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=T8nh6WLbccSkjW2DB6lc1JJ8yy4MuCtOli5lweZNpX7XjVpuTapVZNMXuwz189Q9AIvPjz7FcQyOADS0l1qqeeplWN-OZlp7wnPzwrHfje-7HDZO8Fz_Nz_rX9RRCeK5jdFr5MvRoJ76wjYVP_ynvb67xSacAaHdPCx30NmJAsbtpqxhxWuSRhuy2o82AglW6WWHQfmX5xbQ6jembu5s38mhDFnineBjNmToJzKYTN9_0Fzw",
+      "metadata": "SGL Carbon SE, Wiesbaden Rechnungslegung / Finanzberichte EQS Group GmbH, veröffentlicht über Bloomberg, Infront und Reuters Hinweis auf Halbjahresfinanzbericht vom 01.01.2026 bis zum 30.06.2026 Datum: 30.07.2026 Sprache: Englisch",
+      "source_area": "Rechnungslegung / Finanzberichte EQS Group GmbH, veröffentlicht über Bloomberg, Infront und Reuters",
+      "category": "bekanntmachungen",
+      "index": 11
+    },
+    {
+      "company": "SGL Carbon SE, Wiesbaden",
+      "title": "Mitteilung gemäß § 49 Absatz 1 Satz 1 Nr. 2 WpHG und Hinweisbekanntmachung gemäß § 221 Absatz 2 Satz 3 AktG",
+      "publication_date": "2026-05-26",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=A_uNXbI041I_uLsjivJTy1dBSp1iZMlxelhi7S3d17d3hpd7KEMECfRDu2u4szqF68GViDGiUeuj92TIuA_IsurmvWEGOKqRsnhQxRhls9_Zb-HY_HDhUDC1qMpcMGnV2ST2rS8U0yFiw38NJ4qG_1RkgMo2keo7cWmYkR6fXjSUortM-C1lkhUuyotx7ieMHx-NWaqzRL8NJWbXNBhLF8aLZ4evPCtU3vdmLHXor-eOx4NW",
+      "metadata": "SGL Carbon SE, Wiesbaden Gesellschaftsbekanntmachungen Bundesanzeiger Mitteilung gemäß § 49 Absatz 1 Satz 1 Nr. 2 WpHG und Hinweisbekanntmachung gemäß § 221 Absatz 2 Satz 3 AktG Datum: 26.05.2026 Sprache: Deutsch",
+      "source_area": "Gesellschaftsbekanntmachungen Bundesanzeiger",
+      "category": "bekanntmachungen",
+      "index": 12
+    },
+    {
+      "company": "SGL Carbon SE, Wiesbaden",
+      "title": "Mitteilung gemäß § 49 Abs. 1 Satz 1 Nr. 2 WpHG - Ermächtigung zum Erwerb und zur Verwendung eigener Aktien, auch unter Ausschluss des Bezugsrechts",
+      "publication_date": "2026-05-26",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=slRTkwnmsyfBngXhaLXBUXAghuDrQko4DmAuqneKGZawdaffQ1bKW4jtr8nbF3SlVYVn6ZP667nOcv8D79LCylFwEnzts4Ty9RvpokCTj6WM3pfQOTlhahxNN03R386Ea6pOEVbVQKkBxZQCxG6GJ3hmhUYn1s09miRZW_KeRHlXGKrPN1s15l2qtHEUP-Ttey3i1ie4KaCUlElkNzsGQ7g7nuvhUp5ru1dQeEIDiGNIzSkr",
+      "metadata": "SGL Carbon SE, Wiesbaden Gesellschaftsbekanntmachungen Bundesanzeiger Mitteilung gemäß § 49 Abs. 1 Satz 1 Nr. 2 WpHG - Ermächtigung zum Erwerb und zur Verwendung eigener Aktien, auch unter Ausschluss des Bezugsrechts Datum: 26.05.2026 Sprache: Deutsch",
+      "source_area": "Gesellschaftsbekanntmachungen Bundesanzeiger",
+      "category": "bekanntmachungen",
+      "index": 13
+    },
+    {
+      "company": "SGL Carbon SE, Wiesbaden",
+      "title": "Quartalsfinanzbericht",
+      "publication_date": "2026-05-07",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=B_o67fFyytawFZ4CJJnVMJk5vqDXPcj2G0UcXnGxDMCSZ3mSxw1Np-5I8QW7FAS2G6m60w7h1t4oiQuufk-htVGOt2m1Ar0wW3px778PP_b29ELVhRf0UCB7bFBXoo5Rw60kKS0sl4EA1LcjnoYXTmyqt4yZ3DkVYeoSsZT9cBXa_EE78BrdiKziz1E0K-A2cFuL3IqqcYmflbjDFm8r9DmIefHs8mEgU-NL82rxj7rtbz3L",
+      "metadata": "SGL Carbon SE, Wiesbaden Rechnungslegung / Finanzberichte https://www.sglcarbon.com/investor-relations/publikationen-news-kennzahlen/ Quartalsfinanzbericht Datum: 07.05.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte https://www.sglcarbon.com/investor-relations/publikationen-news-kennzahlen/",
+      "category": "finanzberichte",
+      "index": 14
+    },
+    {
+      "company": "SGL Carbon SE, Wiesbaden",
+      "title": "Hinweis auf Quartalsfinanzbericht vom 01.01.2026 bis zum 31.03.2026",
+      "publication_date": "2026-04-30",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=sa6-Xt4YAj35gMSAiCGwsEAs2ZIpYfhJJo-FsPi1O144RvW_fkUmbHqdfjuFBnMfrYVNMVbErfsHqjqqvD9OCiTZ5W2QZSFPDFSHKm01jYpcoQRUYBy6ZhlTW_cvLLQLnuKdWf_Xa3sCYqhg5CS9gmfByjw0y0-T6K2ub64VqjYCqc6pv6Ge9y2RY3uHlZOZ9kVPbPsBfzKWkXfe0UVKzIekRqvqiFl__UWeH78UZUm7Wq39",
+      "metadata": "SGL Carbon SE, Wiesbaden Rechnungslegung / Finanzberichte EQS Group GmbH, veröffentlicht über Bloomberg, Infront und Reuters Hinweis auf Quartalsfinanzbericht vom 01.01.2026 bis zum 31.03.2026 Datum: 30.04.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte EQS Group GmbH, veröffentlicht über Bloomberg, Infront und Reuters",
+      "category": "bekanntmachungen",
+      "index": 15
+    },
+    {
+      "company": "SGL Carbon SE, Wiesbaden",
+      "title": "Hinweis auf Quartalsfinanzbericht vom 01.01.2026 bis zum 31.03.2026",
+      "publication_date": "2026-04-30",
+      "language": "Englisch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=Zta1eek1wTdt3aAiot9DpEH8DsVbdXTTOagaj5_naDSiXWjNMuV0aXVHEyo1PFbVmtG4dAQSSlSAZ7ciGwYNHeTbp4XE_k70lqVXKMMr5RAzOkEp_FPx0e928Mx8NGvDm43wirOHdHcMUdRIZLmJuuGfII1RnhcAMU7ZTQ3UA1-lJN0GXtbOcNXgdt8nznUFnzLpSFDMVGZxU6GDCq7Q8WyLsgJQq3OSK3Tr6XekJfUE2lGe",
+      "metadata": "SGL Carbon SE, Wiesbaden Rechnungslegung / Finanzberichte EQS Group GmbH, veröffentlicht über Bloomberg, Infront und Reuters Hinweis auf Quartalsfinanzbericht vom 01.01.2026 bis zum 31.03.2026 Datum: 30.04.2026 Sprache: Englisch",
+      "source_area": "Rechnungslegung / Finanzberichte EQS Group GmbH, veröffentlicht über Bloomberg, Infront und Reuters",
+      "category": "bekanntmachungen",
+      "index": 16
+    },
+    {
+      "company": "SGL Carbon SE, Wiesbaden",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-04-16",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=eQ9HnxqIqGOpfA2JLn24N7cS300ZxqVKr7GxJXrKU5VaWH6_m4CF1EGfIT6-J1lIZ4hk_oNH14ze-8bwCo6tE3aJ9RmSGMJOslUpEsjB_4neHKd0dGKQHd_kMHZpY7ZQoL0TDAvbSI-oQRRI0IWgGMt58WbvCMi3h6CqqccGUsg5zd5faeGEGmlw4wgwU9uNRLc1d9GNEkhNYejexgAFnlrSeSoM9srUOxjEXiojgNATFgx6",
+      "metadata": "SGL Carbon SE, Wiesbaden Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 16.04.2026 Sprache: Deutsch Befreite Unternehmen anzeigen SGL CARBON Beteiligung GmbH, Wiesbaden SGL epo GmbH, Willich SGL CARBON GmbH, Meitingen SGL TECHNOLOGIES GmbH, Meitingen Dr. Schnabel GmbH, Limburg a. d. Lahn SGL Carbon Asset GmbH, Meitingen SGL Composites Materials Germany GmbH, Meitingen SGL Fuel Cell Components GmbH, Meitingen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 17
+    },
+    {
+      "company": "SGL Carbon SE, Wiesbaden",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-04-02",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=XRdCZGWovNRSICJYfaAfIVC4NZIAIo7kQZ_sAzTz3SL_Lwci16Z9tfr4Gpjxh15t3V6ibrZOQObhlIZMyCqL2zHdYa_RHt9VsTdJ5p93Xd9Ss8dAoWBdj_a9MXg_IWpfdmsU-rG1eDGI7yGxdTYyeXfN7fJTMtvhg1Ls-Eo7VFeogbBOoki7Rn4_WbSMeUo88Z9Y22D0H-xPP12SEkYHd6JDgf3Re4uKrmV22F_UI15M4w4z",
+      "metadata": "SGL Carbon SE, Wiesbaden Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 02.04.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 18
+    },
+    {
+      "company": "SGL Carbon SE, Wiesbaden",
+      "title": "Ordentliche Hauptversammlung",
+      "publication_date": "2026-04-01",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=ki05AcYFz6wCAXT7EWZDDpLMakBLSRR5YIAuvGq8kET5a_tHIV6eedf9BZvQ4107BbdUhJ98MJ7tVv4u-Yx8lZC1PP8huZqNP9iqhwtbWPwVCy3h5iSGcAwmuCaRhbHgvS1GsA1iJ7qOlmja_-jIoUgI8Z1jyIy-nWmMa2WEw5pWJypJu_OT9MgENL_hY54ygIR7vewZNycInx6EqSAphuay6MGvdBmWdpMmyzGWhj2OL33B",
+      "metadata": "SGL Carbon SE, Wiesbaden Gesellschaftsbekanntmachungen Bundesanzeiger Ordentliche Hauptversammlung Datum: 01.04.2026 Sprache: Deutsch",
+      "source_area": "Gesellschaftsbekanntmachungen Bundesanzeiger",
+      "category": "bekanntmachungen",
+      "index": 19
+    },
+    {
+      "company": "SGL Carbon SE, Wiesbaden",
+      "title": "Hinweis auf Jahresfinanzbericht vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-03-25",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=L2w3n8xUUlEToA-JDzY_rxMcZ6K4KHwP-7E-b7Ir1frvJFhMA36BUp_YlOGk-ZFvqDBRvTrqGht9EF2VCAGWjGgZ2dgE2si84qIBAocKxyzsRbk9Dq6eQKu1_CnuA4_vEbXqVI2G-vt9J3NEyu9CJTa7K77iYK2MwkpSjdMgSrIBTJ7QKgiv1m5a9lD7Nx9b-bW0qrYVuU3iXYW6_7Sebn0yQ38-omLfI9JrCv5lNdE0lCUv",
+      "metadata": "SGL Carbon SE, Wiesbaden Rechnungslegung / Finanzberichte EQS Group GmbH, veröffentlicht über Bloomberg, Infront und Reuters Hinweis auf Jahresfinanzbericht vom 01.01.2025 bis zum 31.12.2025 Datum: 25.03.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte EQS Group GmbH, veröffentlicht über Bloomberg, Infront und Reuters",
+      "category": "bekanntmachungen",
+      "index": 20
+    },
+    {
+      "company": "SGL Carbon SE, Wiesbaden",
+      "title": "Hinweis auf Konzernabschluss vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-03-12",
+      "language": "Englisch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=1qN_PiitBtvDjQdKNjA2PYUKipz7SmUBrawk7IhnlwWFlSf2AsBhEYRU6EfvCAkd7Zy_pSLvhdbJPKpUVbovnUAl28046jtTRWiaQAwyVcmoHnVswx9G7X-VMxftTM2EUrkh1VCiNFyx9UwgBWOzdgqJXtA_cyXb2YB3k4wTnlRPVdGEYA3bFeLvm-H1qRljqX8-z8C9FRdtmNzAL0oCbRp66RDj0DMy7j9BVPUpd-KYfeph",
+      "metadata": "SGL Carbon SE, Wiesbaden Rechnungslegung / Finanzberichte EQS Group GmbH, veröffentlicht über Bloomberg, Infront und Reuters Hinweis auf Konzernabschluss vom 01.01.2025 bis zum 31.12.2025 Datum: 12.03.2026 Sprache: Englisch",
+      "source_area": "Rechnungslegung / Finanzberichte EQS Group GmbH, veröffentlicht über Bloomberg, Infront und Reuters",
+      "category": "bekanntmachungen",
+      "index": 21
+    },
+    {
+      "company": "SGL Carbon SE, Wiesbaden",
+      "title": "Hinweis auf Konzernabschluss vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-03-12",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=BakTZqUQyJH-yud4PLHfuH4NaqCd5oyrDNCo5-v2IZgRUFtvuaw3L9Tr-b8z0mX4wf9e3QxMRgnuTIyI6Tf4UbzuclMKyE1X4wFyIW1Kn25oXebleLn1L2jUOt1jk7PLlrAU9N7q8EvXZbGHiDmM23iZv5rvJGdtbJ914anO-9sFAXsrPbXABlQ1fVUPcPbDzwQ0lIcsgFVC8DJlk2z_LJN__LR8j3hF9hk3IgYZTDravKVr",
+      "metadata": "SGL Carbon SE, Wiesbaden Rechnungslegung / Finanzberichte EQS Group GmbH, veröffentlicht über Bloomberg, Infront und Reuters Hinweis auf Konzernabschluss vom 01.01.2025 bis zum 31.12.2025 Datum: 12.03.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte EQS Group GmbH, veröffentlicht über Bloomberg, Infront und Reuters",
+      "category": "bekanntmachungen",
+      "index": 22
+    },
+    {
+      "company": "SGL Carbon SE, Wiesbaden",
+      "title": "Quartalsfinanzbericht",
+      "publication_date": "2025-11-06",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=0nH515xmL4NeeN9vgomanVxnt7bkwGwrTc1DD6Ug5qlj_RxNxDA01PJjOBcpHX13GEqcFYEwI1v45gqZgk7HxoEGt0ssRcaBm1nU84rpLKdtptrLWOxN-lH8gIMEnPt2qIs913CenkodwaGMRBPc439RoPEZjh4mXScldOiMKo8rhjA0xcQS64ZSW66FEeOg2jH-iJNocg4mmgzDBbpcFZ0M8PZAcjVAolNGBnZpaHNzCpXD",
+      "metadata": "SGL Carbon SE, Wiesbaden Rechnungslegung / Finanzberichte https://www.sglcarbon.com/investor-relations/publikationen-news-kennzahlen/ Quartalsfinanzbericht Datum: 06.11.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte https://www.sglcarbon.com/investor-relations/publikationen-news-kennzahlen/",
+      "category": "finanzberichte",
+      "index": 23
+    },
+    {
+      "company": "SGL Carbon SE, Wiesbaden",
+      "title": "Hinweis auf Quartalsfinanzbericht vom 01.01.2025 bis zum 30.09.2025",
+      "publication_date": "2025-10-30",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=qPTGKeKYUiHqxawTkm-QEIiHJQmbXxG8-cX_zjxBjhxbC4KMaSvPzDXWPHB6YbKDpAp8egeoJ4bD7Z-_QpYCvNrV_I7g2SEYkisOAhWGVemnxrNlsLzXqkm6FBn_HiUL6EZNRQ4wgivvOtNZNz8QforCjnTbwptoeZVZ6TihTXzNSoYIMLqDJrotNm6HmA4fFXL8jFVfMvUfI73LjlwzsmXaJOI93F6KTtkhvOJNuRSVNGR8",
+      "metadata": "SGL Carbon SE, Wiesbaden Rechnungslegung / Finanzberichte EQS Group GmbH, veröffentlicht über Bloomberg, Infront und Reuters Hinweis auf Quartalsfinanzbericht vom 01.01.2025 bis zum 30.09.2025 Datum: 30.10.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte EQS Group GmbH, veröffentlicht über Bloomberg, Infront und Reuters",
+      "category": "bekanntmachungen",
+      "index": 24
+    },
+    {
+      "company": "SGL Carbon SE, Wiesbaden",
+      "title": "Hinweis auf Quartalsfinanzbericht vom 01.01.2025 bis zum 30.09.2025",
+      "publication_date": "2025-10-30",
+      "language": "Englisch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=PQ5YqSDAVCCVK3uYZ9FhuWqWOAzAzyyYmQL9HHdYwGSJDjlbI4-4lRseXZp0BMYY3cns0DrI4bgUpvc8kCZITKz7iP8NsKRM7_bsEME2CYHQa4bkNz9FnmMa129IPM-PYs0nw4SA_u2eTq2AJqKgql7GVAsaTWUcJcVdEHCPakgkn0E04durKrLuKuj9cMUSfD5pbV4FRDAhY_1UL52PmEIU5MJblgRHqRsbY18Dhq0pss5e",
+      "metadata": "SGL Carbon SE, Wiesbaden Rechnungslegung / Finanzberichte EQS Group GmbH, veröffentlicht über Bloomberg, Infront und Reuters Hinweis auf Quartalsfinanzbericht vom 01.01.2025 bis zum 30.09.2025 Datum: 30.10.2025 Sprache: Englisch",
+      "source_area": "Rechnungslegung / Finanzberichte EQS Group GmbH, veröffentlicht über Bloomberg, Infront und Reuters",
+      "category": "bekanntmachungen",
+      "index": 25
+    },
+    {
+      "company": "SGL Carbon SE, Wiesbaden",
+      "title": "Halbjahresfinanzbericht nach WpHG für den Zeitraum vom 01.01.2025 bis zum 30.06.2025",
+      "publication_date": "2025-08-07",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=N-YjLkYhMYg9twMbZas9yeJl1cL9sVuXp-smtyRDa1YWmDJDw6lwyBOWlpH7Xmo8dzPi3ITWshboBsS7p9Rn405JL-caB9twWr6WRXJo7WI_ed4B4w1c5op0n2-ApCKcGKi8kf22JHJLJXiLfrDoczJrSW1ssKlATQZQtKv7d07P1PPr0sm1xEkWG6nCHC3iKwA-IbBwwzv-919dQgj5YlsOrP7_P0FRoo7xyNagn-lzNQAY",
+      "metadata": "SGL Carbon SE, Wiesbaden Rechnungslegung / Finanzberichte https://www.sglcarbon.com/investor-relations/publikationen-news-kennzahlen/ Halbjahresfinanzbericht nach WpHG für den Zeitraum vom 01.01.2025 bis zum 30.06.2025 Datum: 07.08.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte https://www.sglcarbon.com/investor-relations/publikationen-news-kennzahlen/",
+      "category": "finanzberichte",
+      "index": 26
+    },
+    {
+      "company": "SGL Carbon SE, Wiesbaden",
+      "title": "Hinweis auf Halbjahresfinanzbericht vom 01.01.2025 bis zum 30.06.2025",
+      "publication_date": "2025-07-31",
+      "language": "Englisch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=I5chtp6Jv5b_nRO9jm0J81qugOuCW8zneTGz5K-DN7a9rBS738q0SESB42Hrjk5lu_kYoi568NLn9pDkaLs3RF-FARg1cXBEUcaxDeHLYtKruMX-PS8MySwPiOOXC7JBA1c9rZkZbzlWhcgvcr9iQ4o1OYhnTX5ved1XKX-On910D7oPMCeRUF8dooq2MGFiHz8ZjotA9abgJzmUJQ25bcCcyPQ2DMPFwFG-2iGHFZQ012tD",
+      "metadata": "SGL Carbon SE, Wiesbaden Rechnungslegung / Finanzberichte EQS Group GmbH, veröffentlicht über Bloomberg, Infront und Reuters Hinweis auf Halbjahresfinanzbericht vom 01.01.2025 bis zum 30.06.2025 Datum: 31.07.2025 Sprache: Englisch",
+      "source_area": "Rechnungslegung / Finanzberichte EQS Group GmbH, veröffentlicht über Bloomberg, Infront und Reuters",
+      "category": "bekanntmachungen",
+      "index": 27
+    },
+    {
+      "company": "SGL Carbon SE, Wiesbaden",
+      "title": "Hinweis auf Halbjahresfinanzbericht vom 01.01.2025 bis zum 30.06.2025",
+      "publication_date": "2025-07-31",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=hVVO3wDFmtPCVo49MNlD4AXH1uL3z5o_uP5BQwFbRZIgrdkNB000WAj3DjFDSg17twmPwLNoHJ78mdpjvhYbA-Qg9BERLlmJlHQcDGcpymmpyYOzAVogAtyEFTnJbdA6VJ6c6yms_DOyliolkOJuvlieBTc6OKUuSXIdcy6oMqC6arwBhbA_vOANCPFAZVfW7lITsKI6UQjd63gRkaYQOk9a2FrXPBv8A0Q7E1Cq-5hKoP_6",
+      "metadata": "SGL Carbon SE, Wiesbaden Rechnungslegung / Finanzberichte EQS Group GmbH, veröffentlicht über Bloomberg, Infront und Reuters Hinweis auf Halbjahresfinanzbericht vom 01.01.2025 bis zum 30.06.2025 Datum: 31.07.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte EQS Group GmbH, veröffentlicht über Bloomberg, Infront und Reuters",
+      "category": "bekanntmachungen",
+      "index": 28
+    }
+  ]
+}

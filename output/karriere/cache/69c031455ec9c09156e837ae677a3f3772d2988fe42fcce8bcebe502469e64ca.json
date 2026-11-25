@@ -1,0 +1,15 @@
+{
+  "url": "https://www.hasse.info/robots.txt",
+  "final_url": "https://hasse.info/robots.txt",
+  "redirects": [
+    {
+      "source": "https://www.hasse.info/robots.txt",
+      "target": "https://hasse.info/robots.txt",
+      "status": 301
+    }
+  ],
+  "status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "fetched_at": "2026-11-25T16:34:33.979390+00:00",
+  "text": "User-agent: *\nDisallow: /wp-admin/\nAllow: /wp-admin/admin-ajax.php\n\nSitemap: https://hasse.info/wp-sitemap.xml\n"
+}

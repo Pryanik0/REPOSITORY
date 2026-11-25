@@ -1,0 +1,719 @@
+{
+  "provider": "kununu",
+  "backend": "browser",
+  "status": "ok",
+  "query": "AVENDIS GmbH",
+  "profile": {
+    "url": "https://www.kununu.com/de/avendis",
+    "name": "AVENDIS GmbH",
+    "overall_score": 3.7,
+    "review_count": 132,
+    "recommendation_percent": 65,
+    "recommendation_period": "last_2_years",
+    "observed_at": "2026-11-25T17:16:16.660469+00:00"
+  },
+  "reviews": [
+    {
+      "id": "3ae8e989-d7d5-429b-acd2-a4b24427381a",
+      "url": "https://www.kununu.com/de/avendis/bewertung/3ae8e989-d7d5-429b-acd2-a4b24427381a",
+      "title": "Erfahrung mit Schattenseiten",
+      "content": "Solange man seine Arbeit ordentlich erledigt, ist alles gut. Es wird jedoch so viel auf einen abgeladen, dass man nicht hinterherkommt. Die Grundeinstellung in der Firma wird durch die negativen Äußerungen der Mitarbeiter negativ beeinträchtigt.\n\nEs ist nicht immer Gold was glänzt.\n\nHier wird das falsche angesprochen, hier gilt Work-Work-Balance\n\nNur nach Bedarf und Vision des Geschäftsführers.\n\nNeuzugänge bekommen alles hinterhergeworfen.\nInterne, die etwas zusätzlich möchten, bekommen Steine in den Weg gelegt.\n\nInnerhalb des Teams in Ordnung, jedoch wird bei Weggang eine andere Tonart über den ehemaligen Arbeitskollegen gewählt.\n\nSpannender wäre doch der Umgang mit jüngeren Kollegen.\nAuszubildende werden nicht ordentlich eingearbeitet. Hier sind definitiv die falschen Mitarbeiter in den Positionen.\nJüngere Mitarbeiter werden zu schnell beurteilt, es herrscht eine Hire-and-Fire-Stimmung. Ihnen wird zu wenig Zeit gegeben, sich zu entwickeln, die Erwartungen sind astronomisch und am Ende gibt es gehässige Kommentare.\n\nDas Besprochene wird erst nach mehrmaligem Nachhaken durchgeführt und grundsätzlich steht Gaslighting an der Tagesordnung. Man ist nur so gut wie die letzte Tat. Performt man nicht, ist man sofort im Visier. Es wird grundsätzlich davon ausgegangen, dass der Vorgesetzte die schlauste bzw. innovativste Person im Raum ist. Dabei ist die Wiederholung von Fehlern ein Benchmark der Vorgesetzten. Wenn sie den Fehler wiederholen, ist alles gut. Macht man einen aus Versehen selbst, wird sofort nachgehakt, wie das sein kann.\nProjektmanagent ist hier in dem Unternehmen Überflüssig.\n\nEs gibt chronischen Stress, Unmut der verschiedenen Abteilungen.\n\nDie Kommunikation ist schrecklich. Es werden immer die gleichen Phrasen verwendet und der Austausch innerhalb der Organisation ist nicht informativ. Meistens wird das Besprochene im Nachgang anders dargestellt als im Ursprungsmeeting. Daher bitte ich euch, immer fleißig mitzuschreiben.\n\nMal so mal so.\n\nKommt auf die Position an, jedenfalls gibt es super spannende Themen. Hat aber weniger mit dem Arbeitgeber sondern mit den Kundenumgebungen zutun. Jedenfalls gibt es chronischen Personalmangel also müssen viele auch Arbeiten durchführen, die nicht in Ihren Themenbereichen sind.",
+      "rating": 2.5,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Solange man seine Arbeit ordentlich erledigt, ist alles gut. Es wird jedoch so viel auf einen abgeladen, dass man nicht hinterherkommt. Die Grundeinstellung in der Firma wird durch die negativen Äußerungen der Mitarbeiter negativ beeinträchtigt.",
+        "image": "Es ist nicht immer Gold was glänzt.",
+        "workLife": "Hier wird das falsche angesprochen, hier gilt Work-Work-Balance",
+        "career": "Nur nach Bedarf und Vision des Geschäftsführers.",
+        "salary": "Neuzugänge bekommen alles hinterhergeworfen.\nInterne, die etwas zusätzlich möchten, bekommen Steine in den Weg gelegt.",
+        "teamwork": "Innerhalb des Teams in Ordnung, jedoch wird bei Weggang eine andere Tonart über den ehemaligen Arbeitskollegen gewählt.",
+        "oldColleagues": "Spannender wäre doch der Umgang mit jüngeren Kollegen.\nAuszubildende werden nicht ordentlich eingearbeitet. Hier sind definitiv die falschen Mitarbeiter in den Positionen.\nJüngere Mitarbeiter werden zu schnell beurteilt, es herrscht eine Hire-and-Fire-Stimmung. Ihnen wird zu wenig Zeit gegeben, sich zu entwickeln, die Erwartungen sind astronomisch und am Ende gibt es gehässige Kommentare.",
+        "leadership": "Das Besprochene wird erst nach mehrmaligem Nachhaken durchgeführt und grundsätzlich steht Gaslighting an der Tagesordnung. Man ist nur so gut wie die letzte Tat. Performt man nicht, ist man sofort im Visier. Es wird grundsätzlich davon ausgegangen, dass der Vorgesetzte die schlauste bzw. innovativste Person im Raum ist. Dabei ist die Wiederholung von Fehlern ein Benchmark der Vorgesetzten. Wenn sie den Fehler wiederholen, ist alles gut. Macht man einen aus Versehen selbst, wird sofort nachgehakt, wie das sein kann.\nProjektmanagent ist hier in dem Unternehmen Überflüssig.",
+        "workConditions": "Es gibt chronischen Stress, Unmut der verschiedenen Abteilungen.",
+        "communication": "Die Kommunikation ist schrecklich. Es werden immer die gleichen Phrasen verwendet und der Austausch innerhalb der Organisation ist nicht informativ. Meistens wird das Besprochene im Nachgang anders dargestellt als im Ursprungsmeeting. Daher bitte ich euch, immer fleißig mitzuschreiben.",
+        "equality": "Mal so mal so.",
+        "tasks": "Kommt auf die Position an, jedenfalls gibt es super spannende Themen. Hat aber weniger mit dem Arbeitgeber sondern mit den Kundenumgebungen zutun. Jedenfalls gibt es chronischen Personalmangel also müssen viele auch Arbeiten durchführen, die nicht in Ihren Themenbereichen sind."
+      },
+      "factor_scores": {
+        "atmosphere": 2.0,
+        "workLife": 2.0,
+        "communication": 1.0,
+        "workConditions": 2.0,
+        "leadership": 2.0,
+        "teamwork": 4.0,
+        "oldColleagues": 3.0,
+        "equality": 3.0,
+        "career": 2.0,
+        "salary": 2.0,
+        "image": 2.0,
+        "environment": 2.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-09-10T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "fce8f76e-8d86-4ade-a341-6015dd795bbf",
+      "url": "https://www.kununu.com/de/avendis/bewertung/fce8f76e-8d86-4ade-a341-6015dd795bbf",
+      "title": "Super Arbeitgeber mit paar abstrichen",
+      "content": "Man hat vielfältige arbeit, sehr kollegial und freundliches miteinander.\n\nZu wenig Feedback.\n\nMehr Kommunikation von den Vorgesetzen mit den Mitarbeitern bezüglich Feedback",
+      "rating": 4.7,
+      "sections": {
+        "positive": "Man hat vielfältige arbeit, sehr kollegial und freundliches miteinander.",
+        "negative": "Zu wenig Feedback.",
+        "suggestion": "Mehr Kommunikation von den Vorgesetzen mit den Mitarbeitern bezüglich Feedback"
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 3.0,
+        "salary": 4.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 4.0
+      },
+      "published_at": "2026-07-10T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "e9dc6326-409f-4a3c-9bb6-c292ddb4b13c",
+      "url": "https://www.kununu.com/de/avendis/bewertung/e9dc6326-409f-4a3c-9bb6-c292ddb4b13c",
+      "title": "Eine Gute Firma zum Altwerden, wenn man Ambitioniert ist und den Mut hat seinen Mund aufzumachen falls was nicht passt.",
+      "content": "Innnerhalb von Teams wird man menschlich behandelt.\n\nDas Konzept der flachen hierachie überarbeiten\n\nEntspannt\n\nNicht negatives\n\nEigentlich recht gut\n\nVerantwortung muss mann seinen Vorgesetzten aufzwingen\n\nKönnte besser sein",
+      "rating": 3.5,
+      "sections": {
+        "positive": "Innnerhalb von Teams wird man menschlich behandelt.",
+        "negative": null,
+        "suggestion": "Das Konzept der flachen hierachie überarbeiten"
+      },
+      "factor_comments": {
+        "atmosphere": "Entspannt",
+        "workLife": "Nicht negatives",
+        "teamwork": "Eigentlich recht gut",
+        "leadership": "Verantwortung muss mann seinen Vorgesetzten aufzwingen",
+        "communication": "Könnte besser sein"
+      },
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 4.0,
+        "communication": 2.0,
+        "workConditions": 4.0,
+        "leadership": 3.0,
+        "teamwork": 4.0,
+        "oldColleagues": 3.0,
+        "equality": 5.0,
+        "career": 4.0,
+        "salary": 3.0,
+        "image": 4.0,
+        "environment": 1.0,
+        "tasks": 4.0
+      },
+      "published_at": "2026-06-12T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "7becb1cf-ff5f-4785-b3c1-33dffba2aef9",
+      "url": "https://www.kununu.com/de/avendis/bewertung/7becb1cf-ff5f-4785-b3c1-33dffba2aef9",
+      "title": "Schwach angefangen und stark nachgelassen",
+      "content": "Alle paar Jahre wird der Firmenname geändert um einen Image-Schub zu bekommen\n\nWenn du vor Erschöpfung noch nicht umgekippt bist, findet sich immer was zu tun. Teams sind unterbesetzt, die Kollegen kriechen auf dem Zahnfleisch, aber das Management sagt, man sei nicht genug ausgelastet\n\nAufstiegschancen gehen gegen null. Weiterbildungen, die über Pflichtprogramm zum Partnerstatuserhalt hinausgehen auch.\n\nDurchschnittlich, aber perspektivlos - für Gehaltsanpassungen ist seit 3 Jahren angeblich kein Geld. Bezüglich der Transparenz werden selbst die gesetzlichen Vorgaben nicht eingehalten.\n\nDas thema findet überhaupt keine Beachtung.\n\nVorgesetzte statt Führungskräfte. Micromanagement deluxe mit sinnlosen ABM und Anforderungen, die abhängig von der jeweiligen Laune von Tag zu Tag komplett gegensätzlich sein können.\n\n\"Gute\" Nachrichten werden breitgetreten, negatives dafür totgeschwiegen und unter den Tisch gekehrt. Transparenz? Absolute Fehlanzeige.\n\nFrauen verdienen wesentlich weniger als Männer. Aber auch Männer werden abgezogen wo es nur geht.\nGespräche über das Gehalt unter Kollegen oder die Einforderung der gesetzlich vorgeschriebenen Transparenz werden vom Management nicht geduldet.\n\nTäglich grüßt das Murmeltier",
+      "rating": 2.0,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "image": "Alle paar Jahre wird der Firmenname geändert um einen Image-Schub zu bekommen",
+        "workLife": "Wenn du vor Erschöpfung noch nicht umgekippt bist, findet sich immer was zu tun. Teams sind unterbesetzt, die Kollegen kriechen auf dem Zahnfleisch, aber das Management sagt, man sei nicht genug ausgelastet",
+        "career": "Aufstiegschancen gehen gegen null. Weiterbildungen, die über Pflichtprogramm zum Partnerstatuserhalt hinausgehen auch.",
+        "salary": "Durchschnittlich, aber perspektivlos - für Gehaltsanpassungen ist seit 3 Jahren angeblich kein Geld. Bezüglich der Transparenz werden selbst die gesetzlichen Vorgaben nicht eingehalten.",
+        "environment": "Das thema findet überhaupt keine Beachtung.",
+        "leadership": "Vorgesetzte statt Führungskräfte. Micromanagement deluxe mit sinnlosen ABM und Anforderungen, die abhängig von der jeweiligen Laune von Tag zu Tag komplett gegensätzlich sein können.",
+        "communication": "\"Gute\" Nachrichten werden breitgetreten, negatives dafür totgeschwiegen und unter den Tisch gekehrt. Transparenz? Absolute Fehlanzeige.",
+        "equality": "Frauen verdienen wesentlich weniger als Männer. Aber auch Männer werden abgezogen wo es nur geht.\nGespräche über das Gehalt unter Kollegen oder die Einforderung der gesetzlich vorgeschriebenen Transparenz werden vom Management nicht geduldet.",
+        "tasks": "Täglich grüßt das Murmeltier"
+      },
+      "factor_scores": {
+        "atmosphere": 1.0,
+        "workLife": 1.0,
+        "communication": 1.0,
+        "workConditions": 2.0,
+        "leadership": 1.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 3.0,
+        "career": 1.0,
+        "salary": 2.0,
+        "image": 2.0,
+        "environment": 1.0,
+        "tasks": 1.0
+      },
+      "published_at": "2026-04-23T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "109aed03-c3d5-41cd-b6ec-ff0a63f371c8",
+      "url": "https://www.kununu.com/de/avendis/bewertung/109aed03-c3d5-41cd-b6ec-ff0a63f371c8",
+      "title": "Guter Arbeitgeber mit 100% Remote! Selten geworden.",
+      "content": "Meinen TL, die Flexibilität, die Kollegen von Payroll (immer hilfsbereit/ansprechbar/auch wenn ich meist eine Person anschreibe) und die Recruiterin die nicht locker gelassen hat und dass die Firma einiges möglich gemacht hat mich einzustellen.\n\nBis jetzt nichts.\n\nAktuell keine.\n\nIst sicherlich von Kampagne zu Kampagne unterschiedlich. Bei uns wird jedenfalls geschaut dass alle gut und vernünftig arbeiten können und die Stimmung gut ist.\n\nSchwer zu beurteilen, vorher war mir das Unternehmen nicht bekannt. Mit dem Verkauf und der Umfirmierung eine gute Chance das auszubauen und zu verbessen, bekannter zu werden.\n\nDurch 100% Remote und planbare Schichten/Dienste/Freiwünsche/etc. absolut zufrieden.\n\nWir geboten, man muss aber selber wollen, sich einbringen und konstant gute Arbeit leisten. Geschenkt kriegt man das nicht-\n\nBei uns in der Kampagne wird sich unterstützt und geholfen.\n\nFair und angemessen.\n\nEr kriegt 100%\n\nTechnik gut und den Aufgaben entsprechend angemessen. Rest muss man im Homeoffice selber anpassen.\n\nMein TL jedenfalls macht da alles richtig und ich fühle mich auch von Unternehmensseite aus gut informiert. Monatliche Statusmeetings, per Mail etc.\n\nDen Aufgaben entsprechend, gut bis sehr gut und immer super pünktlich.\n\nSoweit ich das beurteilen kann, alles wie es sein soll. Engagement und Willen muss aber jeder selbst mitbringen und machen statt reden.\n\nInteressanter geht immer, man kann sich ja aber auch eigenverantwortlich weiterbilden/entwickeln. Mir wird jedenfalls nicht langweilig.",
+      "rating": 4.4,
+      "sections": {
+        "positive": "Meinen TL, die Flexibilität, die Kollegen von Payroll (immer hilfsbereit/ansprechbar/auch wenn ich meist eine Person anschreibe) und die Recruiterin die nicht locker gelassen hat und dass die Firma einiges möglich gemacht hat mich einzustellen.",
+        "negative": "Bis jetzt nichts.",
+        "suggestion": "Aktuell keine."
+      },
+      "factor_comments": {
+        "atmosphere": "Ist sicherlich von Kampagne zu Kampagne unterschiedlich. Bei uns wird jedenfalls geschaut dass alle gut und vernünftig arbeiten können und die Stimmung gut ist.",
+        "image": "Schwer zu beurteilen, vorher war mir das Unternehmen nicht bekannt. Mit dem Verkauf und der Umfirmierung eine gute Chance das auszubauen und zu verbessen, bekannter zu werden.",
+        "workLife": "Durch 100% Remote und planbare Schichten/Dienste/Freiwünsche/etc. absolut zufrieden.",
+        "career": "Wir geboten, man muss aber selber wollen, sich einbringen und konstant gute Arbeit leisten. Geschenkt kriegt man das nicht-",
+        "teamwork": "Bei uns in der Kampagne wird sich unterstützt und geholfen.",
+        "oldColleagues": "Fair und angemessen.",
+        "leadership": "Er kriegt 100%",
+        "workConditions": "Technik gut und den Aufgaben entsprechend angemessen. Rest muss man im Homeoffice selber anpassen.",
+        "communication": "Mein TL jedenfalls macht da alles richtig und ich fühle mich auch von Unternehmensseite aus gut informiert. Monatliche Statusmeetings, per Mail etc.",
+        "salary": "Den Aufgaben entsprechend, gut bis sehr gut und immer super pünktlich.",
+        "equality": "Soweit ich das beurteilen kann, alles wie es sein soll. Engagement und Willen muss aber jeder selbst mitbringen und machen statt reden.",
+        "tasks": "Interessanter geht immer, man kann sich ja aber auch eigenverantwortlich weiterbilden/entwickeln. Mir wird jedenfalls nicht langweilig."
+      },
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 4.0,
+        "leadership": 5.0,
+        "teamwork": 4.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 4.0,
+        "salary": 4.0,
+        "image": 4.0,
+        "environment": null,
+        "tasks": 4.0
+      },
+      "published_at": "2026-04-13T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "09004f1d-49bb-4bfb-8df8-c8b8d799a51f",
+      "url": "https://www.kununu.com/de/avendis/bewertung/09004f1d-49bb-4bfb-8df8-c8b8d799a51f",
+      "title": "Katastrophe",
+      "content": "Pünktliches Gehalt\n\nMikromanagement, fehlende Emphatie, Kommunikation\n\nWeniger Mikromanagement, mehr Führungskompetenzen ausbauen, Dialoge und Wertschätzung zu den Mitarbeitern aufbauen\n\nSehr angespannt aufgrund der betriebsbedingten Kündigungen\n\nMuss erkämpft werden und Grenzen kommuniziert werden\n\nEine Weiterentwicklung über das Team hinaus ist nicht gerne gesehen und bedarf einen langen Weg\n\nEin bekannter Spruch, dass erst mit einer Kündigung über eine Gehaltsanpassungen gesprochen wird.\n\nWer am Flurfunk dazu steuert wird geschätzt\n\nStets auf augenhöhe\n\nWichtig ist die Darstellung zum höheren Management, dabei spiel das Individuum keine Rolle. Eine nachvollziehbare Überlastung ist kein Argument\nMikromanagent ist dabei ein beliebtes Werkzeug\n\nPositive Meldungen werden verkündet\n\nHabe keine Abweichung wahrgenommen\n\nFür jeden etwas dabei",
+      "rating": 2.7,
+      "sections": {
+        "positive": "Pünktliches Gehalt",
+        "negative": "Mikromanagement, fehlende Emphatie, Kommunikation",
+        "suggestion": "Weniger Mikromanagement, mehr Führungskompetenzen ausbauen, Dialoge und Wertschätzung zu den Mitarbeitern aufbauen"
+      },
+      "factor_comments": {
+        "atmosphere": "Sehr angespannt aufgrund der betriebsbedingten Kündigungen",
+        "workLife": "Muss erkämpft werden und Grenzen kommuniziert werden",
+        "career": "Eine Weiterentwicklung über das Team hinaus ist nicht gerne gesehen und bedarf einen langen Weg",
+        "salary": "Ein bekannter Spruch, dass erst mit einer Kündigung über eine Gehaltsanpassungen gesprochen wird.",
+        "teamwork": "Wer am Flurfunk dazu steuert wird geschätzt",
+        "oldColleagues": "Stets auf augenhöhe",
+        "leadership": "Wichtig ist die Darstellung zum höheren Management, dabei spiel das Individuum keine Rolle. Eine nachvollziehbare Überlastung ist kein Argument\nMikromanagent ist dabei ein beliebtes Werkzeug",
+        "communication": "Positive Meldungen werden verkündet",
+        "equality": "Habe keine Abweichung wahrgenommen",
+        "tasks": "Für jeden etwas dabei"
+      },
+      "factor_scores": {
+        "atmosphere": 1.0,
+        "workLife": 4.0,
+        "communication": 2.0,
+        "workConditions": 4.0,
+        "leadership": 1.0,
+        "teamwork": 1.0,
+        "oldColleagues": 4.0,
+        "equality": 4.0,
+        "career": 2.0,
+        "salary": 3.0,
+        "image": 2.0,
+        "environment": 4.0,
+        "tasks": 3.0
+      },
+      "published_at": "2026-02-09T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "7d40631a-114b-4135-99f0-b3cbeae89c6d",
+      "url": "https://www.kununu.com/de/avendis/bewertung/7d40631a-114b-4135-99f0-b3cbeae89c6d",
+      "title": "Tolles Team, gute Stimmung, faire Bedingungen",
+      "content": "Gut am Arbeitgeber finde ich, dass man viel Freiheit bekommt, seine Aufgaben eigenständig zu lösen. Sollte man auf Probleme stoßen, wird man jedoch nicht allein gelassen und findet immer eine helfende Hand. Zudem gibt es sehr flache Hierarchien und eine gute Kommunikation unter den Mitarbeitenden.\n\nSehr angenehme und kollegiale Arbeitsatmosphäre. Man fühlt sich im Team wohl und wird respektvoll behandelt.\n\nSehr gute Work-Life-Balance. Beruf und Privatleben lassen sich hier hervorragend miteinander vereinbaren.\n\nDas Gehalt ist durchschnittlich und entspricht im Großen und Ganzen den üblichen Erwartungen.\n\nDer Kollegenzusammenhalt ist sehr stark. Man unterstützt sich gegenseitig und arbeitet vertrauensvoll als Team zusammen.\n\nDer Umgang mit älteren Kolleginnen und Kollegen ist respektvoll und wertschätzend. Erfahrung wird anerkannt und geschätzt.\n\nDie Vorgesetzten verhalten sich stets respektvoll, fair und unterstützend. Man wird ernst genommen und gut geführt.\n\nDie Arbeitsbedingungen sind insgesamt sehr gut. Büro und Hardware könnten noch etwas moderner sein, ansonsten alles wunderbar.\n\nDie Kommunikation ist insgesamt in Ordnung. Wichtige Informationen werden meist weitergegeben, allerdings gibt es noch Verbesserungspotenzial bei Transparenz und Abstimmung.\n\nGleichberechtigung wird im Unternehmen gelebt. Alle Mitarbeitenden werden respektvoll und fair behandelt, unabhängig von Position oder Hintergrund.\n\nDie Aufgaben sind abwechslungsreich und überwiegend interessant. Es gibt viele spannende Tätigkeiten, mit noch etwas Potenzial für mehr Vielfalt.",
+      "rating": 4.4,
+      "sections": {
+        "positive": "Gut am Arbeitgeber finde ich, dass man viel Freiheit bekommt, seine Aufgaben eigenständig zu lösen. Sollte man auf Probleme stoßen, wird man jedoch nicht allein gelassen und findet immer eine helfende Hand. Zudem gibt es sehr flache Hierarchien und eine gute Kommunikation unter den Mitarbeitenden.",
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Sehr angenehme und kollegiale Arbeitsatmosphäre. Man fühlt sich im Team wohl und wird respektvoll behandelt.",
+        "workLife": "Sehr gute Work-Life-Balance. Beruf und Privatleben lassen sich hier hervorragend miteinander vereinbaren.",
+        "salary": "Das Gehalt ist durchschnittlich und entspricht im Großen und Ganzen den üblichen Erwartungen.",
+        "teamwork": "Der Kollegenzusammenhalt ist sehr stark. Man unterstützt sich gegenseitig und arbeitet vertrauensvoll als Team zusammen.",
+        "oldColleagues": "Der Umgang mit älteren Kolleginnen und Kollegen ist respektvoll und wertschätzend. Erfahrung wird anerkannt und geschätzt.",
+        "leadership": "Die Vorgesetzten verhalten sich stets respektvoll, fair und unterstützend. Man wird ernst genommen und gut geführt.",
+        "workConditions": "Die Arbeitsbedingungen sind insgesamt sehr gut. Büro und Hardware könnten noch etwas moderner sein, ansonsten alles wunderbar.",
+        "communication": "Die Kommunikation ist insgesamt in Ordnung. Wichtige Informationen werden meist weitergegeben, allerdings gibt es noch Verbesserungspotenzial bei Transparenz und Abstimmung.",
+        "equality": "Gleichberechtigung wird im Unternehmen gelebt. Alle Mitarbeitenden werden respektvoll und fair behandelt, unabhängig von Position oder Hintergrund.",
+        "tasks": "Die Aufgaben sind abwechslungsreich und überwiegend interessant. Es gibt viele spannende Tätigkeiten, mit noch etwas Potenzial für mehr Vielfalt."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 3.0,
+        "workConditions": 4.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 4.0,
+        "salary": 3.0,
+        "image": 4.0,
+        "environment": 4.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-02-06T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "21b66852-d257-4ee5-8c00-d9dcacd34173",
+      "url": "https://www.kununu.com/de/avendis/bewertung/21b66852-d257-4ee5-8c00-d9dcacd34173",
+      "title": "Starkes Team, spannende Aufgaben und gute Entwicklungsmöglichkeiten – insgesamt ein guter Arbeitgeber",
+      "content": "Die flachen Hierarchien und die ehrliche, offene Kommunikation schätze ich sehr. Die Kollegen sind super nett und die Aufgaben in meinem Bereich abwechslungsreich und spannend. Ich bin seit meiner Ausbildung hier (die schon mehrere Jahre zurückliegt) und habe mich karrieretechnisch immer weiterentwickeln können – ich fühle mich nach wie vor sehr wohl im Unternehmen.\n\nMir fällt spontan kaum etwas wirklich Schlechtes ein.\n\nPotenzial sehe ich in zusätzlicher Prozessoptimierung und Automatisierung, die derzeit aber schon vorangetrieben wird.\n\nSehr angenehme Atmosphäre – ich fühle mich wertgeschätzt und wir arbeiten stets auf Augenhöhe.\n\nDie Work‑Life‑Balance ist gut, weil Vertrauen, Flexibilität und Eigenverantwortung selbstverständlich sind.\n\nDie Weiterentwicklung wird nach meiner Erfahrung jährlich mit der Teamleitung abgestimmt. Weiterbildung wird aktiv gefördert, wenn man weiterkommen möchte, und die Karrierewege sind klar und offen gestaltet.\n\nGehalt liegt im Branchendurchschnitt\n\nDie Kollegen sind super nett und man fühlt sich schnell wohl im Team. Zur Abwechslung wird auch gerne gekickert.\n\nSehr wertschätzende Führung – ich fühle mich abgeholt und gut betreut.\n\nModerne Ausstattung mit guten PCs und einem iPhone als Diensthandy.\n\nEs gibt regelmäßige Mitarbeitercalls und Meetings.\n\nAbwechslungsreiche Aufgaben , Ideenvorschläge werden gerne gesehen.",
+      "rating": 4.3,
+      "sections": {
+        "positive": "Die flachen Hierarchien und die ehrliche, offene Kommunikation schätze ich sehr. Die Kollegen sind super nett und die Aufgaben in meinem Bereich abwechslungsreich und spannend. Ich bin seit meiner Ausbildung hier (die schon mehrere Jahre zurückliegt) und habe mich karrieretechnisch immer weiterentwickeln können – ich fühle mich nach wie vor sehr wohl im Unternehmen.",
+        "negative": "Mir fällt spontan kaum etwas wirklich Schlechtes ein.",
+        "suggestion": "Potenzial sehe ich in zusätzlicher Prozessoptimierung und Automatisierung, die derzeit aber schon vorangetrieben wird."
+      },
+      "factor_comments": {
+        "atmosphere": "Sehr angenehme Atmosphäre – ich fühle mich wertgeschätzt und wir arbeiten stets auf Augenhöhe.",
+        "workLife": "Die Work‑Life‑Balance ist gut, weil Vertrauen, Flexibilität und Eigenverantwortung selbstverständlich sind.",
+        "career": "Die Weiterentwicklung wird nach meiner Erfahrung jährlich mit der Teamleitung abgestimmt. Weiterbildung wird aktiv gefördert, wenn man weiterkommen möchte, und die Karrierewege sind klar und offen gestaltet.",
+        "salary": "Gehalt liegt im Branchendurchschnitt",
+        "teamwork": "Die Kollegen sind super nett und man fühlt sich schnell wohl im Team. Zur Abwechslung wird auch gerne gekickert.",
+        "leadership": "Sehr wertschätzende Führung – ich fühle mich abgeholt und gut betreut.",
+        "workConditions": "Moderne Ausstattung mit guten PCs und einem iPhone als Diensthandy.",
+        "communication": "Es gibt regelmäßige Mitarbeitercalls und Meetings.",
+        "tasks": "Abwechslungsreiche Aufgaben , Ideenvorschläge werden gerne gesehen."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 4.0,
+        "workConditions": 4.0,
+        "leadership": 4.0,
+        "teamwork": 5.0,
+        "oldColleagues": 4.0,
+        "equality": 4.0,
+        "career": 5.0,
+        "salary": 4.0,
+        "image": 4.0,
+        "environment": 4.0,
+        "tasks": 4.0
+      },
+      "published_at": "2026-02-04T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "35c52709-c1a8-4ae3-846f-e1dadcfea145",
+      "url": "https://www.kununu.com/de/avendis/bewertung/35c52709-c1a8-4ae3-846f-e1dadcfea145",
+      "title": "Guter Arbeitgeber mit interessanten Aufgaben und Home-Office",
+      "content": "Home Office, interessante Aufgaben, hohe Eigenverantwortichkeit, Kollegen, Vertrauen, Firmen Events\n\nKommunikations über Abteilungsgrenzen, es braucht oft zu viel Zeit bis die richtigen Personen zusammen finden, die sich mit dem Thema auskennen, das ist uneffizient (jeder steckt in seiner Bubble). Fehlende IT Expertise in Führungspositionen (Projektmanager, etc.)\n\nMehr Wertschätzung und Feedback. Interne Kommunikation verbessern, mehr Mitarbeitergespräche oder zumindest Angebote. Mehr Fokus/Zeit auf Weiterbildung, nur gut geschulte Mitarbeiter sind sicher und hinterlassen beim Kunden einen kompetenten Eindruck, das ist gerade im Consulting Bereich sehr wichtig.\n\nEntspannt, gut.\n\nGanz gut, aufgrund des Mutterkonzerns\n\nHängt von der Auslastung ab, es gibt auch Phasen/Situationen wo mal länger gearbeitet werden muss. Typisch für IT Branche.\n\nWird gewünscht, aber es fehlt aufgrund der Projekte die Ruhe und Zeit dafür, schade.\n\nMarktübliche Konditionen, besser geht immer, aber dann ggf. mit höherer Reisebereitschaft.\n\nMit den direkten Kollegen verstehe ich mich gut.\n\nBin schon über 50 und habe nur gute Erfahrungen gemacht.\n\nKlar, direkt und ergebnis orientiert, Wertschätzung/Sozialkompetenz könnte besser sein.\n\nAustattung ist gut, flexible durch Home-Office\n\nMit den engen Kollegen aus dem gleichen Bereich offen und gut, aber mit Kollegen aus anderen Bereichen verbesserungswürdig, Rückmeldungen dauern oft zu lange.\n\nDa es viele Kunden gibt immer wieder neue interessante Aufgaben, leider fehlt die Zeit tiefer in Themen einzusteigen.",
+      "rating": 4.3,
+      "sections": {
+        "positive": "Home Office, interessante Aufgaben, hohe Eigenverantwortichkeit, Kollegen, Vertrauen, Firmen Events",
+        "negative": "Kommunikations über Abteilungsgrenzen, es braucht oft zu viel Zeit bis die richtigen Personen zusammen finden, die sich mit dem Thema auskennen, das ist uneffizient (jeder steckt in seiner Bubble). Fehlende IT Expertise in Führungspositionen (Projektmanager, etc.)",
+        "suggestion": "Mehr Wertschätzung und Feedback. Interne Kommunikation verbessern, mehr Mitarbeitergespräche oder zumindest Angebote. Mehr Fokus/Zeit auf Weiterbildung, nur gut geschulte Mitarbeiter sind sicher und hinterlassen beim Kunden einen kompetenten Eindruck, das ist gerade im Consulting Bereich sehr wichtig."
+      },
+      "factor_comments": {
+        "atmosphere": "Entspannt, gut.",
+        "image": "Ganz gut, aufgrund des Mutterkonzerns",
+        "workLife": "Hängt von der Auslastung ab, es gibt auch Phasen/Situationen wo mal länger gearbeitet werden muss. Typisch für IT Branche.",
+        "career": "Wird gewünscht, aber es fehlt aufgrund der Projekte die Ruhe und Zeit dafür, schade.",
+        "salary": "Marktübliche Konditionen, besser geht immer, aber dann ggf. mit höherer Reisebereitschaft.",
+        "teamwork": "Mit den direkten Kollegen verstehe ich mich gut.",
+        "oldColleagues": "Bin schon über 50 und habe nur gute Erfahrungen gemacht.",
+        "leadership": "Klar, direkt und ergebnis orientiert, Wertschätzung/Sozialkompetenz könnte besser sein.",
+        "workConditions": "Austattung ist gut, flexible durch Home-Office",
+        "communication": "Mit den engen Kollegen aus dem gleichen Bereich offen und gut, aber mit Kollegen aus anderen Bereichen verbesserungswürdig, Rückmeldungen dauern oft zu lange.",
+        "tasks": "Da es viele Kunden gibt immer wieder neue interessante Aufgaben, leider fehlt die Zeit tiefer in Themen einzusteigen."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 4.0,
+        "communication": 4.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 4.0,
+        "career": 3.0,
+        "salary": 4.0,
+        "image": 4.0,
+        "environment": 3.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-02-04T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "376909e2-8204-4cf8-b132-83aa95ea5fb6",
+      "url": "https://www.kununu.com/de/avendis/bewertung/376909e2-8204-4cf8-b132-83aa95ea5fb6",
+      "title": "Naja...",
+      "content": "100% Homeoffice\n\nKommunikation und Dokumentation sind echt schlecht.\n\nWeniger BWL, mehr Menschlichkeit. Früher war es so, heute zählen nur noch Zahlen.",
+      "rating": 2.8,
+      "sections": {
+        "positive": "100% Homeoffice",
+        "negative": "Kommunikation und Dokumentation sind echt schlecht.",
+        "suggestion": "Weniger BWL, mehr Menschlichkeit. Früher war es so, heute zählen nur noch Zahlen."
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 2.0,
+        "communication": 1.0,
+        "workConditions": 4.0,
+        "leadership": 2.0,
+        "teamwork": 3.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 2.0,
+        "salary": 3.0,
+        "image": 3.0,
+        "environment": 3.0,
+        "tasks": 1.0
+      },
+      "published_at": "2025-09-03T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "cb41413d-e427-4812-ad05-be5b5e62283a",
+      "url": "https://www.kununu.com/de/avendis/bewertung/cb41413d-e427-4812-ad05-be5b5e62283a",
+      "title": "Poor employer. Poor management.",
+      "content": "During the school to get profession certificate and you will leave. Mark my words\n\nToxic work enviroment, I'd say scammer, because you need to get the benefits for your service and you need to ask for your bosses to do that. Nothing happens automatically even the law says that you must get it and the employer must pay the benefits.\n\nNone, they does not accept changes.\n\nToxic management\n\nBeautiful face doesn't mean a clever mind.\n\nOk when bosses leave you alone. When you fall under the radar from bosses forget about it.\n\nYou are forced to do what they want, and your goals are not and will not be a priority. Hire - work - fire principle.\n\nYou get what you trade your self in at the first agreement.\n\nFirst hear of it.\n\nTricky\n\nPoor\n\nPoor\n\nExtra workload with no extra payment.\n\nPoor\n\nNone\n\nFew",
+      "rating": 1.6,
+      "sections": {
+        "positive": "During the school to get profession certificate and you will leave. Mark my words",
+        "negative": "Toxic work enviroment, I'd say scammer, because you need to get the benefits for your service and you need to ask for your bosses to do that. Nothing happens automatically even the law says that you must get it and the employer must pay the benefits.",
+        "suggestion": "None, they does not accept changes."
+      },
+      "factor_comments": {
+        "atmosphere": "Toxic management",
+        "image": "Beautiful face doesn't mean a clever mind.",
+        "workLife": "Ok when bosses leave you alone. When you fall under the radar from bosses forget about it.",
+        "career": "You are forced to do what they want, and your goals are not and will not be a priority. Hire - work - fire principle.",
+        "salary": "You get what you trade your self in at the first agreement.",
+        "environment": "First hear of it.",
+        "teamwork": "Tricky",
+        "oldColleagues": "Poor",
+        "leadership": "Poor",
+        "workConditions": "Extra workload with no extra payment.",
+        "communication": "Poor",
+        "equality": "None",
+        "tasks": "Few"
+      },
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-06-28T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "f6afeedb-c897-4ac0-b07a-e510c941e769",
+      "url": "https://www.kununu.com/de/avendis/bewertung/f6afeedb-c897-4ac0-b07a-e510c941e769",
+      "title": "Tolle Projekte, aber GF lässt sich vom Kunden treiben ohne Ohr für die Consultants und Technik",
+      "content": "Man wird durchaus gehört, ein Nein wird akzeptiert, so man es denn auch mal sagt\n\nZuviel zu tun für zu wenig Personal\n\nAngespannt, Leute sind am und über dem Limit\n\nBesser als eigentlich verdient\n\nManche sind super, einige sind wirklich vorgesetzt und Führen ist denen unbekannt\n\nAusstattung ist top\n\nNur positive Nachrichten\n\nGeht immer besser, im Senior-Bereich marktübliche Konditionen",
+      "rating": 4.1,
+      "sections": {
+        "positive": "Man wird durchaus gehört, ein Nein wird akzeptiert, so man es denn auch mal sagt",
+        "negative": "Zuviel zu tun für zu wenig Personal",
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Angespannt, Leute sind am und über dem Limit",
+        "image": "Besser als eigentlich verdient",
+        "leadership": "Manche sind super, einige sind wirklich vorgesetzt und Führen ist denen unbekannt",
+        "workConditions": "Ausstattung ist top",
+        "communication": "Nur positive Nachrichten",
+        "salary": "Geht immer besser, im Senior-Bereich marktübliche Konditionen"
+      },
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 3.0,
+        "communication": 3.0,
+        "workConditions": 5.0,
+        "leadership": 3.0,
+        "teamwork": 4.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": null,
+        "salary": 4.0,
+        "image": 5.0,
+        "environment": null,
+        "tasks": 5.0
+      },
+      "published_at": "2025-06-11T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "f0ce2758-8d05-4607-8040-03aca938ecf8",
+      "url": "https://www.kununu.com/de/avendis/bewertung/f0ce2758-8d05-4607-8040-03aca938ecf8",
+      "title": "Guter Arbeitgeber mit tollem Miteinander",
+      "content": "Vertrauen gegenüber den Mitarbeitern\nFlexibilität in der Arbeitsgestaltung\n\nStärkung der Arbeitgeberpräsenz im Social Media",
+      "rating": 4.5,
+      "sections": {
+        "positive": "Vertrauen gegenüber den Mitarbeitern\nFlexibilität in der Arbeitsgestaltung",
+        "negative": null,
+        "suggestion": "Stärkung der Arbeitgeberpräsenz im Social Media"
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-04-10T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "22ccc096-230e-481b-ae66-0ee2eda6c9d4",
+      "url": "https://www.kununu.com/de/avendis/bewertung/22ccc096-230e-481b-ae66-0ee2eda6c9d4",
+      "title": "Top für Corporate enthusiasten",
+      "content": "Das Arbeitsklima\n\nGeheimhaltung vieler sachen die mann nicht Geheimhalten muss\n\nMehr in Schulungen investieren vorallendingen bei den Technikern\n\nTop\n\nWill mann hoch hinaus steht arbeit erster Stelle\n\nGehalt ist Zufriedenstellend\n\nOffenerer Umgang wäre schön\n\nMann findet seine Antwort wenn auch um 10 ecken",
+      "rating": 3.8,
+      "sections": {
+        "positive": "Das Arbeitsklima",
+        "negative": "Geheimhaltung vieler sachen die mann nicht Geheimhalten muss",
+        "suggestion": "Mehr in Schulungen investieren vorallendingen bei den Technikern"
+      },
+      "factor_comments": {
+        "atmosphere": "Top",
+        "workLife": "Will mann hoch hinaus steht arbeit erster Stelle",
+        "salary": "Gehalt ist Zufriedenstellend",
+        "leadership": "Offenerer Umgang wäre schön",
+        "communication": "Mann findet seine Antwort wenn auch um 10 ecken"
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 3.0,
+        "communication": 3.0,
+        "workConditions": 5.0,
+        "leadership": 4.0,
+        "teamwork": 4.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 2.0,
+        "salary": 3.0,
+        "image": 3.0,
+        "environment": 3.0,
+        "tasks": 4.0
+      },
+      "published_at": "2025-03-07T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "4723df52-9fab-4a08-bc7f-11563f07fbcf",
+      "url": "https://www.kununu.com/de/avendis/bewertung/4723df52-9fab-4a08-bc7f-11563f07fbcf",
+      "title": "Okay, aber festgefahren",
+      "content": "Die Möglichkeit im Homeoffice zu arbeiten\n\nNur die 12 Gehälter und keine Boni, dafür aber Geld für große Feiern ausgeben\n\nWeihnachts- oder Urlaubsgeld",
+      "rating": 3.3,
+      "sections": {
+        "positive": "Die Möglichkeit im Homeoffice zu arbeiten",
+        "negative": "Nur die 12 Gehälter und keine Boni, dafür aber Geld für große Feiern ausgeben",
+        "suggestion": "Weihnachts- oder Urlaubsgeld"
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-01-14T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    }
+  ],
+  "review_limit": 15,
+  "review_period": {
+    "since": "2024-11-25T00:00:00+00:00",
+    "until": "2026-11-25T17:16:15.004651+00:00",
+    "date_field": "published_at",
+    "missing_dates": "excluded"
+  },
+  "factor_scores_aggregated": {
+    "atmosphere": {
+      "mean": 3.58,
+      "count": 12
+    },
+    "workLife": {
+      "mean": 3.58,
+      "count": 12
+    },
+    "communication": {
+      "mean": 2.83,
+      "count": 12
+    },
+    "workConditions": {
+      "mean": 4.0,
+      "count": 12
+    },
+    "leadership": {
+      "mean": 3.33,
+      "count": 12
+    },
+    "teamwork": {
+      "mean": 4.08,
+      "count": 12
+    },
+    "oldColleagues": {
+      "mean": 4.5,
+      "count": 12
+    },
+    "equality": {
+      "mean": 4.42,
+      "count": 12
+    },
+    "career": {
+      "mean": 2.91,
+      "count": 11
+    },
+    "salary": {
+      "mean": 3.25,
+      "count": 12
+    },
+    "image": {
+      "mean": 3.5,
+      "count": 12
+    },
+    "environment": {
+      "mean": 3.0,
+      "count": 10
+    },
+    "tasks": {
+      "mean": 3.75,
+      "count": 12
+    }
+  },
+  "coverage": "bounded_employee_review_sample_last_2_years_not_all_reviews",
+  "diagnostics": {
+    "pages": [
+      {
+        "page": "reviews",
+        "page_number": 1,
+        "load_more_clicks": 0,
+        "requested_url": "https://www.kununu.com/de/avendis/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Allgeier-IT-Services-6be16c45\\browser\\reviews.html",
+        "browser_step": 84,
+        "final_url": "https://www.kununu.com/de/avendis/kommentare",
+        "observed_at": "2026-11-25T17:16:16.337923+00:00",
+        "http_status": 200,
+        "factor_cards_expanded": 3,
+        "reviews_collected": 10
+      },
+      {
+        "page": "reviews",
+        "page_number": 2,
+        "load_more_clicks": 1,
+        "requested_url": "https://www.kununu.com/de/avendis/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Allgeier-IT-Services-6be16c45\\browser\\reviews-2.html",
+        "browser_step": 85,
+        "final_url": "https://www.kununu.com/de/avendis/kommentare",
+        "observed_at": "2026-11-25T17:16:17.609748+00:00",
+        "actions_complete": true,
+        "factor_cards_expanded": 2,
+        "reviews_collected": 15
+      }
+    ]
+  },
+  "source_url": "https://www.kununu.com/de/avendis",
+  "profile_source": "https://www.kununu.com/de/avendis/kommentare",
+  "review_stop_reason": "sample_limit_reached",
+  "factor_score_coverage": {
+    "reviews_with_scores": 12,
+    "reviews_without_scores": 3,
+    "reviews_with_all_known_scores": 10,
+    "status": "partial"
+  },
+  "request_limits": {
+    "max_browser_steps": 295,
+    "browser_steps": 85,
+    "zyte_requests": 0
+  },
+  "reason": null
+}

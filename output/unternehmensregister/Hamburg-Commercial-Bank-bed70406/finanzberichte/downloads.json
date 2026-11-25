@@ -1,0 +1,20 @@
+[
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=JCcrmZh7u_kH_5Ajg9LtP5S_2uuHlkGr7sJ07mPbTcjzAkUT7UN5yvegri9jtYgj9W0mYjUDkERTqPa3kbEYC27XWzYQ3NheGdMOhbCljRxM5eA9DvRd2OD9Rssw5Sp8ASzfImniwSQmAsbMWoGzviUcxjSlSiW9YQd0Rqv3nG6KzBoVxg2mGWoOPXfX8BwwveysFaE6uXeRaEuLblvzMdJqDGJurQbVJ9-RdANVfZ87N7w",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Hamburg-Commercial-Bank-bed70406\\finanzberichte\\publication-25\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Hamburg-Commercial-Bank-bed70406\\finanzberichte\\publication-25\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Hamburg-Commercial-Bank-bed70406\\finanzberichte\\publication-25\\publication.txt",
+    "index": 25,
+    "category": "finanzberichte",
+    "company": "Hamburg Commercial Bank AG, Hamburg",
+    "title": "Halbjahresfinanzbericht nach WpHG für den Zeitraum vom 01.01.2026 bis zum 30.06.2026",
+    "documents_path": "output\\unternehmensregister\\Hamburg-Commercial-Bank-bed70406\\finanzberichte\\publication-25\\documents.json"
+  }
+]

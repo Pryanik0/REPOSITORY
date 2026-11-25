@@ -1,0 +1,56 @@
+[
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=us3UPzlTqk0YaCz_3fAbKujy1Y4gkAiv7GPKOnjla5w7YftTgRDW2Inin7mLZfA0-ieHg7D7NIH5iO-B0FJ2u99sihNc5nE_nhQ43xxSHAAjNJKABQuszq5NL0PUEuIkjsPm-87d6EC8tSVMziWKbqNDIjLfmUC5KeO7dsoVy-VY2jTs279FicOENZtlLLDR4V9NjIU8hrkFOXeLB_t_fqYDrejYrInTmo7vaV3h-JwQUrHy",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\MAC-IT-Solutions-fcb73411\\finanzberichte\\publication-1\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\MAC-IT-Solutions-fcb73411\\finanzberichte\\publication-1\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\MAC-IT-Solutions-fcb73411\\finanzberichte\\publication-1\\publication.txt",
+    "index": 1,
+    "category": "finanzberichte",
+    "company": "MAC IT-Solutions GmbH, Flensburg",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+    "documents_path": "output\\unternehmensregister\\MAC-IT-Solutions-fcb73411\\finanzberichte\\publication-1\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=tjW3w-i-ZZGY_anVSe6fk9mfpyXzm5ueCPgv70dx-mpoNmRl1-8xCt9LNPHGL-lB3I-DaC_ia4JX-22okfGPp0o0-88dS8FDYf7VIVjCthNw91fNP5YqM1vQ1tBCiPXX3Ufimwc9mvYv0eqGDHYf4LiMO27S4O7-rnThsO23mAanwVrwzwfgdXyTrodMrGekwFpOWEcDnho7WH-N8MwVTZxceP1KF7jJEWQQGrAEUj_i3_1f",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\MAC-IT-Solutions-fcb73411\\finanzberichte\\publication-2\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\MAC-IT-Solutions-fcb73411\\finanzberichte\\publication-2\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\MAC-IT-Solutions-fcb73411\\finanzberichte\\publication-2\\publication.txt",
+    "index": 2,
+    "category": "finanzberichte",
+    "company": "MAC IT-Solutions GmbH, Flensburg",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+    "documents_path": "output\\unternehmensregister\\MAC-IT-Solutions-fcb73411\\finanzberichte\\publication-2\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=C-Me0Bj1749rj_SPEPlAn_WC3y_0E9BdcbIV4uRHk-s48VdDLQS7Hdb4iXvQ6i9AolFJwPm_RWv_yfnQtDYG_Q25J8vs1kJvfB7C_eP9v7pB-wwKlqNSayWJTyM0FJ_RLgz9FOdNPsZKmh0qW_mcPCZLlxBfMGAToGVCYpHaJ0ijHh3fNBkcBu_wo8VLCjzr8J7_VSk-XdWy0vmda_xiamAwqrfSeYldoz7wtg4PuwsNx4z2",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\MAC-IT-Solutions-fcb73411\\finanzberichte\\publication-3\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\MAC-IT-Solutions-fcb73411\\finanzberichte\\publication-3\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\MAC-IT-Solutions-fcb73411\\finanzberichte\\publication-3\\publication.txt",
+    "index": 3,
+    "category": "finanzberichte",
+    "company": "MAC IT-Solutions GmbH, Flensburg",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+    "documents_path": "output\\unternehmensregister\\MAC-IT-Solutions-fcb73411\\finanzberichte\\publication-3\\documents.json"
+  }
+]

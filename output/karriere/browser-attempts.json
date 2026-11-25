@@ -1,0 +1,28 @@
+[
+  {
+    "url": "https://www.recormedical.com/",
+    "http_status": 403,
+    "browser_status": 200,
+    "final_url": "https://www.recormedical.com/"
+  },
+  {
+    "url": "https://www.recormedical.com/careers/",
+    "http_status": 403,
+    "browser_status": 200,
+    "final_url": "https://www.recormedical.com/careers/"
+  },
+  {
+    "url": "https://merz-lifecare.softgarden.io/de/widgets/jobs?-1.-jobSearch-jobSearchContainer-jobAboLink=&config=eyJzaG93Sm9iTGlzdCI6eyJhdWRpZW5jZSI6dHJ1ZSwiam9iY2F0ZWdvcnkiOnRydWUsIlByb2plY3RHZW9Mb2NhdGlvbkNpdHkiOnRydWUsInNob3dEYXRlSW5Gcm9udGVuZCI6dHJ1ZX0sInNob3dGaWx0ZXIiOnsiYXVkaWVuY2UiOnRydWUsImpvYmNhdGVnb3J5Ijp0cnVlLCJQcm9qZWN0R2VvTG9jYXRpb25DaXR5Ijp0cnVlfSwicHJlZmlsbEZpbHRlciI6eyJhdWRpZW5jZSI6IiIsImpvYmNhdGVnb3J5IjoiIiwiUHJvamVjdEdlb0xvY2F0aW9uQ2l0eSI6IiIsIlByb2plY3RHZW9Mb2NhdGlvbkNpdHlSYWRpdXMiOiIyNSJ9LCJudW1iZXJPZkpvYnMiOjEwfQ%3D%3D",
+    "http_status": 403,
+    "browser_status": 403,
+    "final_url": "https://merz-lifecare.softgarden.io/de/widgets/jobs?-1.-jobSearch-jobSearchContainer-jobAboLink=&config=eyJzaG93Sm9iTGlzdCI6eyJhdWRpZW5jZSI6dHJ1ZSwiam9iY2F0ZWdvcnkiOnRydWUsIlByb2plY3RHZW9Mb2NhdGlvbkNpdHkiOnRydWUsInNob3dEYXRlSW5Gcm9udGVuZCI6dHJ1ZX0sInNob3dGaWx0ZXIiOnsiYXVkaWVuY2UiOnRydWUsImpvYmNhdGVnb3J5Ijp0cnVlLCJQcm9qZWN0R2VvTG9jYXRpb25DaXR5Ijp0cnVlfSwicHJlZmlsbEZpbHRlciI6eyJhdWRpZW5jZSI6IiIsImpvYmNhdGVnb3J5IjoiIiwiUHJvamVjdEdlb0xvY2F0aW9uQ2l0eSI6IiIsIlByb2plY3RHZW9Mb2NhdGlvbkNpdHlSYWRpdXMiOiIyNSJ9LCJudW1iZXJPZkpvYnMiOjEwfQ%3D%3D",
+    "error": "CrawlError: Browser HTTP 403: https://merz-lifecare.softgarden.io/de/widgets/jobs?-1.-jobSearch-jobSearchContainer-jobAboLink=&config=eyJzaG93Sm9iTGlzdCI6eyJhdWRpZW5jZSI6dHJ1ZSwiam9iY2F0ZWdvcnkiOnRydWUsIlByb2plY3RHZW9Mb2NhdGlvbkNpdHkiOnRydWUsInNob3dEYXRlSW5Gcm9udGVuZCI6dHJ1ZX0sInNob3dGaWx0ZXIiOnsiYXVkaWVuY2UiOnRydWUsImpvYmNhdGVnb3J5Ijp0cnVlLCJQcm9qZWN0R2VvTG9jYXRpb25DaXR5Ijp0cnVlfSwicHJlZmlsbEZpbHRlciI6eyJhdWRpZW5jZSI6IiIsImpvYmNhdGVnb3J5IjoiIiwiUHJvamVjdEdlb0xvY2F0aW9uQ2l0eSI6IiIsIlByb2plY3RHZW9Mb2NhdGlvbkNpdHlSYWRpdXMiOiIyNSJ9LCJudW1iZXJPZkpvYnMiOjEwfQ%3D%3D; Seite nicht verfügbar oder Sicherheitsprüfung erforderlich."
+  },
+  {
+    "url": "https://www.otris.de/",
+    "http_status": 403,
+    "browser_status": 403,
+    "final_url": "https://www.otris.de/",
+    "error": "CrawlError: Browser HTTP 403: https://www.otris.de/; Seite nicht verfügbar oder Sicherheitsprüfung erforderlich."
+  }
+]

@@ -1,0 +1,420 @@
+{
+  "company": {
+    "key": "Daiichi Sankyo Europe",
+    "name": "Daiichi Sankyo Europe GmbH",
+    "location": "München",
+    "name_source": "company_name",
+    "urls": [
+      "https://www.daiichi-sankyo.eu/"
+    ],
+    "kununu_url": "https://www.kununu.com/de/daiichi-sankyo-europe",
+    "branches": [
+      "Pharma & Medizintechnik"
+    ],
+    "search_terms": [
+      "Daiichi Sankyo Deutschland GmbH"
+    ],
+    "career_urls": [
+      "https://careers.daiichisankyo.com/sitemap.xml"
+    ],
+    "postal_code": "81379",
+    "street": "Zielstattstraße 48",
+    "region": "Bayern",
+    "career_sitemap_locations": [
+      "Munich",
+      "Pfaffenhofen an der Ilm"
+    ],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:40:09.232109+00:00",
+  "searches": [
+    {
+      "accounting_only": true,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=Daiichi+Sankyo+Europe+GmbH&companyLocation=M%C3%BCnchen&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ACCOUNTING&drilldownFilter=22&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": false
+    },
+    {
+      "accounting_only": false,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=Daiichi+Sankyo+Europe+GmbH&companyLocation=M%C3%BCnchen&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ALL_AREAS&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": false
+    }
+  ],
+  "excluded_company_matches": [
+    {
+      "company": "DAIICHI SANKYO Deutschland GmbH, München",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2025 bis zum 31.03.2026",
+      "publication_date": "2026-04-08",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=FBTnSysTsb41qVJKQv3MBH4KTOSC20YVwns8Zrb1WoNm3vTHrkQ4JbAoSlpSoJ3s-YwfgYQgnylltLL8baIBXIjA1q8hbAoR2zsvdlp6Eqmf8R6UARkseFjl8XxwRTegYHm9rFnchGfPH9o7DpshKtLFG2Uoxa8QzRdMDEIqVHrtXB-yxNohOnuwCJyskT_qS64Clr418Iu3vegLtTsAFc3ioNKPF1pD7OpgmiZsMd_KieW-",
+      "metadata": "DAIICHI SANKYO Deutschland GmbH, München Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2025 bis zum 31.03.2026 Daiichi Sankyo Europe GmbH, München Datum: 08.04.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Daiichi Sankyo Northern Europe GmbH, Planegg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2025 bis zum 31.03.2026",
+      "publication_date": "2026-04-08",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=iwe4rRxgfH9BrMZ90LtOnTVpKfcs1CeopMRpU5hh8kUoH9iSSczNJ3gIvweCAk_Wkf0-3pwdrux9mg7ZpRSlNDQZrRqpbSL3IGEX26TElOEeZQbFSU2t8N_qLUgCMmyqfVUKVLdLjEM3d1-uJw2VbxyR4ng5U9r6oW6nNkizyWYzCogceg83W3F-ak3WunVM0rTOZSGs0OBYxzJA2O7pck8Xe0TmQY1K7tdYWc3S8meDANJY",
+      "metadata": "Daiichi Sankyo Northern Europe GmbH, Planegg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2025 bis zum 31.03.2026 Daiichi Sankyo Europe GmbH, München Datum: 08.04.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Daiichi Sankyo Real Estate GmbH, Pfaffenhofen .d. Ilm",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2025 bis zum 31.03.2026",
+      "publication_date": "2026-04-01",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=mste0U_kM5p_NWhqcXxjghbT-l32HkNhHklLb1q4hLar6uNQOPV96jtN_FO4PLp7VoNGiMxPNP7D1Mlj8QvGcnsW0YMry00FrBaN8kp6WZj68AxOcfq6ZdnK1inf5i2B0DDRAfULUJhI0VOz0zLCjlEq-J1d2F2yBIt_CCm1-FkbD6Ks_oFsO60vhcRtnNR1_iXYT3Med8pyOjo436Rr9_Js0aSY99iEM5hzz9mdK81YyWcb",
+      "metadata": "Daiichi Sankyo Real Estate GmbH, Pfaffenhofen .d. Ilm Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2025 bis zum 31.03.2026 Daiichi Sankyo Europe GmbH, München Datum: 01.04.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Daiichi Sankyo Real Estate GmbH, Pfaffenhofen .d. Ilm",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2024 bis zum 31.03.2025",
+      "publication_date": "2025-07-01",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=OmQFspRj21qFJXVZXhAT8Pf8DZ56RG_PkmBRIC5R56IG8IwKU0tzAsGL_q-veI_Z0pXeKDrZtztLFTvZ5w8QitIDiwr6kjv-tRVhgflOvuKmgPABrXMcD93W2qbl_VlyRVxCGT-JBeUvtIKlhWT-EeCvfN7N4CczmxUWrdH94lZ6nxYTuhxA0xiFbaVmx_MHSG8YB7plBQf-hVhq_-UUU4AYlfuuMUWS8FilPLOKdTuvXzjb",
+      "metadata": "Daiichi Sankyo Real Estate GmbH, Pfaffenhofen .d. Ilm Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2024 bis zum 31.03.2025 Daiichi Sankyo Europe GmbH, München Datum: 01.07.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Daiichi Sankyo Oncology Europe GmbH, München",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2024 bis zum 31.03.2025",
+      "publication_date": "2025-07-01",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=453NKjBYKbuFV90Vzn25TmgLU7icxPRA1iSEIsPpimaWV5QktoQ52Ma3X84wmdp0BCJtIQoaMfMVF_OUWsZEdy2sxcYuLkm9GTx0deOvGfwX66yPutiYIEX6XyXl66eO1BL4S3re-TSXCRZPs80PEqMg8iaQ19aC7rnx9BrPs_Yt1gSTer5xeBrLwFBvn61TKPbmnfHBrFOIe-BdRfvO2ck4mlVfkoGkcXmTjjmdxhV3XaKg",
+      "metadata": "Daiichi Sankyo Oncology Europe GmbH, München Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2024 bis zum 31.03.2025 Daiichi Sankyo Europe GmbH, München Datum: 01.07.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Daiichi Sankyo Northern Europe GmbH, Planegg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2024 bis zum 31.03.2025",
+      "publication_date": "2025-06-27",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=ADKFLCd9HigIatXCUeSqf0e7ncvIWaRETBoed2evV6rNf8vDP5pnJStKWXlAalAX1SaUE2_VnRUwXVZPN1CBfCEwaSlKvR5OSyxiH3m9rcczjXw4LMgnDOn2NQOytRT0FxL7Mz3ANodSLHfKToI2_vW7OPJwmk-wDgXtpBUmxQ42B1YnuFu--f0lYbtzUyZBYSPc2rsfgEt4z_v4QmO7ZERFrIq9BC_l6eI05wfL_QmqpbJT",
+      "metadata": "Daiichi Sankyo Northern Europe GmbH, Planegg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2024 bis zum 31.03.2025 Daiichi Sankyo Europe GmbH, München Datum: 27.06.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "DAIICHI SANKYO Deutschland GmbH, München",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2024 bis zum 31.03.2025",
+      "publication_date": "2025-06-27",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=OszNj9VFmPAGArCcF6wdaLutQ9N6CfUSSzX9wptWRAIgtJ5dFUfGru2gZzbdI4S7NFR8PO73ro-y6tA17mlypCXhnC5y3cSjUJ86a-puzKVzTSqW2qeDXqyaZYPJyZmnGU2YAdWYk2rIDSBN7fek_2YeNfkl9y368mlJpvWbD9VOUOG59DL_TL0Xzlo03iKj3aHoXkwtPQsfrPz-Zq-DLXjQ77ZprF0pHrdK_z8aCcYyPjkq",
+      "metadata": "DAIICHI SANKYO Deutschland GmbH, München Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2024 bis zum 31.03.2025 Daiichi Sankyo Europe GmbH, München Datum: 27.06.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Daiichi Sankyo Oncology Europe GmbH, München",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2023 bis zum 31.03.2024",
+      "publication_date": "2024-03-21",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=cnz26adDYNRj_g5a3TABAZ9cSS-V4Eiqim1zdsUt0t4TddtG6_vEqecHRy5Lxg3GJw6mh4tAs8ERjQK-ijNp7x-xmLTdphiOvnmSH8P31x8VfFKYDSKHaraFaOuQuuS1w9kKwXps5WsTd645p-TBISFLGt7ZVnjuD2gnWf4gzfv6qAeRt6keeDOWFtngwDhM5eqNR-xC71m1vf_RlJbBL4WHkSmhrJF2Yc3boTPx8mhvK5Ya",
+      "metadata": "Daiichi Sankyo Oncology Europe GmbH, München Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2023 bis zum 31.03.2024 Daiichi Sankyo Europe GmbH, München Datum: 21.03.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Daiichi Sankyo Real Estate GmbH, Pfaffenhofen .d. Ilm",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2023 bis zum 31.03.2024",
+      "publication_date": "2024-03-21",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=199a7PGAeihFbXFTtoXjjXw_zaVN7yZBEBynTqYO1lmNPLs3Cvs98BU0wYzCSlj3b-zF1Rv8T5WwmSDzdWWozpkZhUZHhzRWIMG-DzMWwpsjW4pDbyNfYA2FEA4ArCYZMdwlPU3bSN9bQ-eB2iKm2fgICeEAqJlnJ4t6wnUfEEyqD17CfupV5WqJHNPljrHnBqZLc1I83wxX_KAUl21JZZIF5bKOmhXlH09mTf1lhEXs1d6-",
+      "metadata": "Daiichi Sankyo Real Estate GmbH, Pfaffenhofen .d. Ilm Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2023 bis zum 31.03.2024 Daiichi Sankyo Europe GmbH, München Datum: 21.03.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "DAIICHI SANKYO Deutschland GmbH, München",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2023 bis zum 31.03.2024",
+      "publication_date": "2024-03-21",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=ciaM9_A_aE6On26Z31PoBLC2nAr_Yh4bO5iretuQSDr9sW7jkGw0a42_JB6kBNLSLyTNjZ4Uoo-hfvdXPBwQ8CL_2aoiT6CeCBJlGdYVVHBeBGDArqfDKNMVOHoHQXaBSCKUlJNZqFTuKP4MOKsM_-HPpzplmkwBEw1a7irY7elj8ZK_EctBSQIXKZev1nBDdV8d5m1Jjm4Ro27NYJzygKy0f76oM9Fg3WGPkp4QX4Z4x5jH",
+      "metadata": "DAIICHI SANKYO Deutschland GmbH, München Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2023 bis zum 31.03.2024 Daiichi Sankyo Europe GmbH, München Datum: 21.03.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Daiichi Sankyo Northern Europe GmbH, Planegg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2023 bis zum 31.03.2024",
+      "publication_date": "2024-03-21",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=0iXw9dN-TrrsS33mfRVDTEoiySlZNbhzzPOoHDo1_u9rZukZQeb5JBwOnUUEYnMPxq9Ab8Z9NyH2-gPwNIPQ47RSrGL_LK2sUN5yRC_eL0daKTBPGXUQlgZVQpa9-ZdC2en03CX77Riek0iJNebebipjj1KTnoiOazzfulB-4BX2av3k-kzeeWqjzeuPN_iJYX2j2kKtFEQlipWVNEU4t6eRTIGpTDc2RN_VHXYr0TsZxKr6",
+      "metadata": "Daiichi Sankyo Northern Europe GmbH, Planegg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2023 bis zum 31.03.2024 Daiichi Sankyo Europe GmbH, München Datum: 21.03.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "DAIICHI SANKYO Deutschland GmbH, München",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2025 bis zum 31.03.2026",
+      "publication_date": "2026-04-08",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=JKT_cpbtxH5phSKDMopHAfeRFA22z3_lYUm6lOmv6fsEJ0NvIqVlbm7cLnWMJBBM4iIf6nOjJGYShtJe9QZZyGw_5X6ORR0A5gLBVD5MEK8wjJsm49UHfcg1pZeeTxIQY5_NkBY6NSTDbZYcnJUqcAmzwZbrGKsiC8VWboJ_aiQ3ar6HscNu2Hgh8lPixZm7nOc61Ur-6Qey0LyGSgRNvPn72EgcmD55W4mTa4w085YFFqnN",
+      "metadata": "DAIICHI SANKYO Deutschland GmbH, München Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2025 bis zum 31.03.2026 Daiichi Sankyo Europe GmbH, München Datum: 08.04.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "DAIICHI SANKYO Deutschland GmbH, München",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2024 bis zum 31.03.2025",
+      "publication_date": "2025-06-27",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=CIVlu9q8BcMHizOF5Pg1zzBHt926MK8hTq2IPSF2WRCqboBh_jcGnl9856r-RTdr7-13beO8sR3EjVz8NAqdR41iO7WPljkP2lxPHswDNEWVuHmV-DKPv5MRe4QivTI0MhnxBzXINeFf9CE8o90SvMlsPIdHgjjGHkTTVsU2LXowyZBKwoXEC9ctpVf2zb8CIxVlAOZrWOxZSU83l-LY-DjWCpd7mDrV76NkSwqcvVc2FtBC",
+      "metadata": "DAIICHI SANKYO Deutschland GmbH, München Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2024 bis zum 31.03.2025 Daiichi Sankyo Europe GmbH, München Datum: 27.06.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "DAIICHI SANKYO Deutschland GmbH, München",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2023 bis zum 31.03.2024",
+      "publication_date": "2024-03-21",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=nAJwy-k5B7GtajbTBBsRHhZTx8aPsQACDX8sZv6m3DNNux0y8HiOOivMaN6tG0Fj29fcOoaw-m57Ls2hpWppk4f4OuO0bp8a3IJIVATZWJrjKVWI9nXs0uceFrIVluTf7Hs0yfbjsO3zLNg4tnnfHZp6V3tZPdX5jap7ZiGPaerELb0FNynHd9sY3dn1yYJWqSuiNpRhpSb1UuEaURqmALWAfp8IgAtURuUiwP6XKBfXvPrA",
+      "metadata": "DAIICHI SANKYO Deutschland GmbH, München Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2023 bis zum 31.03.2024 Daiichi Sankyo Europe GmbH, München Datum: 21.03.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "DAIICHI SANKYO Deutschland GmbH, München",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2025 bis zum 31.03.2026",
+      "publication_date": "2026-04-08",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=Bw2buV5o0ErTbeeO6EFYZotiHeRJ7kqNMMB7Ev0ks55VTGLWxhbaE6vDXksQ5YKBgW4V-dofspnko4RH1i9OFYG2XjbqFRkpMI1RbFBufZ1zVzaeo5LqXV9vPrA4Fm-KXHqJdEkYkI-YjKbFX7wqQCBZyQR_zC9_MkggnZvq8ZAJcFmR7NUi30BN2yKE_JGgfgOkUVjoYhQg1f_RgHamTuPxBwqK0BJPeLdi5rnS3e4GpN7o",
+      "metadata": "DAIICHI SANKYO Deutschland GmbH, München Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2025 bis zum 31.03.2026 Daiichi Sankyo Europe GmbH, München Datum: 08.04.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Daiichi Sankyo Northern Europe GmbH, Planegg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2025 bis zum 31.03.2026",
+      "publication_date": "2026-04-08",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=V1ek-kf4uE5S_pzNaDXe_xpz4g5abL8Sshq_aZ9a3mKmBtiPB3Q96_fgbMzan5UflU9mImMsEj14dpWh5ul07msGmGBLuoiYBFpsfbti_To4EBHIjMqrYXSwm-QjPZY7YQpzdeX3scUnGDt5N6nlSUs9y8wfbzUuXy6ebf2OhF7HajQZRTrdIR4kb3HY26IJjTlTlnHJwCMtz4ZcJq2_7YolF2t_t1w4BNTLkpXvYHlOhdKa",
+      "metadata": "Daiichi Sankyo Northern Europe GmbH, Planegg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2025 bis zum 31.03.2026 Daiichi Sankyo Europe GmbH, München Datum: 08.04.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Daiichi Sankyo Real Estate GmbH, Pfaffenhofen .d. Ilm",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2025 bis zum 31.03.2026",
+      "publication_date": "2026-04-01",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=wUH5PRat_KFYkh7_dLXsiL5MzxYc2mKmAcoW7dR8UQyailu13NnoO4reNJuGbnC1o9zX7z_u0HJvMiHhgn8QQju3luZbNq-xtP3cWaBV-JxABNWQ6DsPQjX2XJJUo8sF-v8n_CWD5bbcnELBRh7jCWx0GC7RmyQ1uBDHScrgMjSNdHuKLvGnqwVtI_kjtUNzO_R1dkcX_aCCUw8DxQ_nwUKmvGHSEO2BUx9dcOOrLA3-dGwO",
+      "metadata": "Daiichi Sankyo Real Estate GmbH, Pfaffenhofen .d. Ilm Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2025 bis zum 31.03.2026 Daiichi Sankyo Europe GmbH, München Datum: 01.04.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Daiichi Sankyo Real Estate GmbH, Pfaffenhofen .d. Ilm",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2024 bis zum 31.03.2025",
+      "publication_date": "2025-07-01",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=B6iSpSR-HSA28TlSslSCXKNSOaJb4HhHfGrd7YDaAkVpSYaFXL41NTchJXhyC1_3eg6xVqayKFXq-HDYszQ9xElgU8zB7mHYEDhaf-VGaap4QnyNCJZFa2j6YH_U6L4CwMPKJt1TjnxEQY0OOUW6IpjEcW_D0z1pXhgqp9BF265cniANh2vPHdIGYe3XqwhXaMSpoGKpbSrXH0JvtczatMuitWNRdJ4jn3JtivbiTk-hGiJD",
+      "metadata": "Daiichi Sankyo Real Estate GmbH, Pfaffenhofen .d. Ilm Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2024 bis zum 31.03.2025 Daiichi Sankyo Europe GmbH, München Datum: 01.07.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Daiichi Sankyo Oncology Europe GmbH, München",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2024 bis zum 31.03.2025",
+      "publication_date": "2025-07-01",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=UIcfq9GgmrwVVzXlchnw_nQ0-k0ylI4e6v4H-LJzViMUTr50PbbBLjwlOaK6AxBk_bddADpww1WeZqUpisGzv4L41pPJMJYRLawPIz0X4EZ_N14qG5JyX_u-_763uqgGV-Dz-PzMqslaIrDZSKBbUI2SOp97wxHjKD2PZNtzVAqDpLeB4fxWqPEMDLoofTpiVsCBwfplmsCi__WsSiuQgisi35wbzrQ9sClu5LFfukyuVdc3",
+      "metadata": "Daiichi Sankyo Oncology Europe GmbH, München Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2024 bis zum 31.03.2025 Daiichi Sankyo Europe GmbH, München Datum: 01.07.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Daiichi Sankyo Northern Europe GmbH, Planegg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2024 bis zum 31.03.2025",
+      "publication_date": "2025-06-27",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=HSZt5-Ju672_P_TT8JUSQBcLDfeWvo8tHU8lxBOX17x_M9n6v4XbW-t-ZSqBsZmrl_-kgi9b7iOevf7Hdb66Hm5WjGFOGzPY1rIAPckV46AmQcNtpVuRENWSt4OQTmteAEiB74FH5U6Ij-7bW_EeF5xt7x0V-18rLnZrG31iqgIzXY7-0ov534K5P24DvfULvdce6dW4JGAEuVynAPCIW9koXRXqIl6eWAiPABuETuhfzG_Q",
+      "metadata": "Daiichi Sankyo Northern Europe GmbH, Planegg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2024 bis zum 31.03.2025 Daiichi Sankyo Europe GmbH, München Datum: 27.06.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "DAIICHI SANKYO Deutschland GmbH, München",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2024 bis zum 31.03.2025",
+      "publication_date": "2025-06-27",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=jCWZHNi8Z0G1gHLMkEatN0xxSMKsHREuSB-pc5CZ4hIah5Sx7NCsPSQigru_TSBhlG_2F5EcVrXS8XWT6T1sRpxvzjBMrxlAy_clHDpAresfzouJSmB66oHEJOiNjzEIr15SiaRqvNqUpOITLBSijW5H31kZIrpgx4WFODb8hUqOvQgRtW6_tCsNCXmhLjd_FrKWB1opXXW3cNLzQzSy4AHzfdXB-FhuANeC3kfHMmd4UgQa",
+      "metadata": "DAIICHI SANKYO Deutschland GmbH, München Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2024 bis zum 31.03.2025 Daiichi Sankyo Europe GmbH, München Datum: 27.06.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Daiichi Sankyo Oncology Europe GmbH, München",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2023 bis zum 31.03.2024",
+      "publication_date": "2024-03-21",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=YrAv7-O5NPPzIqdp4rse8M3KQ0sSVGfiySxiMGD3WVSwfKrZvXSYOxn_auWesxJClMw-azM5BjogB80ZrjR-ktdIxd2ozHPAc8eglUy5z2dv76sLE-EIypse2tQYkkNu2iTGVp_-zNEtGUfezNHubOQP550ujM-WeG2U1XHf3xzLZ4xMsvW-Y9Ga9ToIYCqUIJ2StJ3CDNVfHs5w15LkwR9FINCK9W6y1aamNGaddCiHT5Zi",
+      "metadata": "Daiichi Sankyo Oncology Europe GmbH, München Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2023 bis zum 31.03.2024 Daiichi Sankyo Europe GmbH, München Datum: 21.03.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Daiichi Sankyo Real Estate GmbH, Pfaffenhofen .d. Ilm",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2023 bis zum 31.03.2024",
+      "publication_date": "2024-03-21",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=vLE27nxfws13w5S3vLRZ9yNd4nrVxAGmNrkWrTMWW4yi8X7WR1HzY0G1lVLLyenl9DI0TlwFmEbIVXt2JCt0kSED1S-qRqXKq8AWfSbDZ6D7wFYZj1Bmobt7goakerrjaMV_RbRKFRhcSWZSdNE7kkBSiFd57qW0Nz4ReUj3fldxFCAH7to_FJ9dY3eLSPHjIS5VpHnTvdtYcYhUfPinSG2nk8kaKC7SvGS78FAHHpqRMI0z",
+      "metadata": "Daiichi Sankyo Real Estate GmbH, Pfaffenhofen .d. Ilm Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2023 bis zum 31.03.2024 Daiichi Sankyo Europe GmbH, München Datum: 21.03.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "DAIICHI SANKYO Deutschland GmbH, München",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2023 bis zum 31.03.2024",
+      "publication_date": "2024-03-21",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=_67fDp1-PUttJjvz5jg4NhTNW1Wtlg5BbQ03E2cqXv5pVneOXeUDg-0MxtZCERDgG4GNW8pxGSBRuNaU5XmOAxnttIwCUGF0naaO14aMQnrqhA8iIAGwjT6LRcR0bLfYLPte4BeID2HATKkd9frL5b76Dc-4iF8qVFbrrBsHudATbGaPT3DdbGIOTmYHPHlW2QSUAij334F3DgnMMUY0X8yKN3mAFm4aqURfqrc1_LKUxLF4",
+      "metadata": "DAIICHI SANKYO Deutschland GmbH, München Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2023 bis zum 31.03.2024 Daiichi Sankyo Europe GmbH, München Datum: 21.03.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Daiichi Sankyo Northern Europe GmbH, Planegg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2023 bis zum 31.03.2024",
+      "publication_date": "2024-03-21",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=ZbcFLpLkKtDPHhh6YIuHCAOMDlNYh9A3e3ciVnU-vgtVEzNSaxG0ZgyOK7DLrt2p8LH4WPghr8H1zH_Wk93PbooAkrnli2kOR1-YJZvyNXYetDtA4BKoocgS8ilaKjSqIqk_Q0dUlOAY9VP-FKLXsQdtU-XtjRxvhIKYCtNm4xHdyvu7WcZprOTvcE6qu39UYrWjXCNROTaFRXZthRkMYor7rqeiLt0jgH8SntRJqmzxl5Og",
+      "metadata": "Daiichi Sankyo Northern Europe GmbH, Planegg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2023 bis zum 31.03.2024 Daiichi Sankyo Europe GmbH, München Datum: 21.03.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "DAIICHI SANKYO Deutschland GmbH, München",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2025 bis zum 31.03.2026",
+      "publication_date": "2026-04-08",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=hhCpVTtpdvbFKG8Z5sEDMKJBv0XxplVagTI9BrP6Z88dpsQHeJFEQW_Ncocw8uTD9RwIpj50jY2NX1gTO3OSMPtWPykzn_6OUBxJz64yOsE5XpSRTefsViNoQEkv5UjcfSTUjDHNskCYA71lEZAea8O2tFfexMBtn8XpCcclwaxbFSvV5kbrmGJtkxQ9PHwOprmJyO1OHdi1TvcDcASqksodsR50SKMGTDr3t2sKJH4HLkPg",
+      "metadata": "DAIICHI SANKYO Deutschland GmbH, München Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2025 bis zum 31.03.2026 Daiichi Sankyo Europe GmbH, München Datum: 08.04.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "DAIICHI SANKYO Deutschland GmbH, München",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2024 bis zum 31.03.2025",
+      "publication_date": "2025-06-27",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=kJaTbaObAwMTDWIELFdeXLpU9uQ89ORp8Z6IxNz-69K4XPZ39yp87CvTW4lDGxQ2SF_PzQ9DamFTkd0Pk4f0fZo8lu7e3ZrHhllwgg_bauGO6i3E6EmeWYzPocP-XLIokxYN0-OfmCf6RozX2XOfSmPmEPbolPLONOcuvBf-q-D_wW6Ph7eKg5_r8BfSWfDXOeCgFJ5ITFazUX5CwJvzVQH7GFwcwjGhAFhfByb-5dDhCiaT",
+      "metadata": "DAIICHI SANKYO Deutschland GmbH, München Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2024 bis zum 31.03.2025 Daiichi Sankyo Europe GmbH, München Datum: 27.06.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "DAIICHI SANKYO Deutschland GmbH, München",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2023 bis zum 31.03.2024",
+      "publication_date": "2024-03-21",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=VG7vwhJH7qbOkVryxHwnpp6Tz2WQy21L6eWnQUzHhcWUsaxwMeqY42OAgtY8MQwbn86Jfou4AUacnPSvd6H2VWLuc6VvBGe64ePbZeLsDHVOMjFZd2YMY7sqUIcVwbOnIhVdscBeR2gBkiLmrKGZ3YFPysOoEGLyvaVA7PHq8H-dPhWOL4yE0ZqbzSrPo295pxB5ONrwOZCro3aXlD9d46dDsTCLyHHDdTVCl4a4Y2xEm8cC",
+      "metadata": "DAIICHI SANKYO Deutschland GmbH, München Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.04.2023 bis zum 31.03.2024 Daiichi Sankyo Europe GmbH, München Datum: 21.03.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    }
+  ],
+  "date_from": "2024-01-01",
+  "date_to": "2026-11-25",
+  "excluded_dates": [],
+  "max_publications": 30,
+  "truncated": false,
+  "coverage": {
+    "search_complete": true,
+    "more_pages": false,
+    "publication_limit_reached": false,
+    "downloads_selected": 5,
+    "downloads_succeeded": 5,
+    "download_limit_reached": true,
+    "downloads_complete": false,
+    "text_complete": true
+  },
+  "publications": [
+    {
+      "company": "Daiichi Sankyo Europe GmbH, München",
+      "title": "Ertragsteuerinformationsbericht (pCBCR) zum Geschäftsjahr vom 01.04.2025 bis zum 31.03.2026",
+      "publication_date": "2026-10-06",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=sIV32CE5eJhX6R1o_yuA1miMhp5lO8blv2qyXaxCCPyVbFh-niqqxdMezdXOAv6KKIhS_NWJWBoGvQVgfNfUvAD1HPr6i-jHH2c1OXikFzawrpsoG9lQoZAKMkk67tZlmQA96SBjGojy8b8Jwy9RZ6XDBDaIJcrZW0N4xop9SuWRxOzLRQ15uSjcQOJDBvbocNCIrjAhZl6bLaKDc9g6mujSGftVGPGOZ2Itlfvld7ATgKzp",
+      "metadata": "Daiichi Sankyo Europe GmbH, München Rechnungslegung / Finanzberichte Unternehmensregister Ertragsteuerinformationsbericht (pCBCR) zum Geschäftsjahr vom 01.04.2025 bis zum 31.03.2026 Datum: 06.10.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 1
+    },
+    {
+      "company": "Daiichi Sankyo Europe GmbH, München",
+      "title": "Aufsichtsrat",
+      "publication_date": "2026-08-04",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=pcrmZQP1ZpkU8glJBRIb86OGrrV2HGRhWPs2q5gMkfAu1saImyYCsp203dRA1l-lDMuhsky_SH8yKrAUMioxYgz7D5HdgAymklDyn3pa7kpH1JMdUxejpoJl7ugfWF7lAnEGSUem4AGf0BZHWorjEiV1vRYo6gfylikgaByV2szKG7AKpP4ddM2AuYbJ4cF2ZR3rcJxV7QF8JAQYut1Gau-mfbLnm1qZCPSGZv7ItgeWClj1",
+      "metadata": "Daiichi Sankyo Europe GmbH, München Gesellschaftsbekanntmachungen Bundesanzeiger Aufsichtsrat Datum: 04.08.2026 Sprache: Deutsch",
+      "source_area": "Gesellschaftsbekanntmachungen Bundesanzeiger",
+      "category": "bekanntmachungen",
+      "index": 2
+    },
+    {
+      "company": "Daiichi Sankyo Europe GmbH, München",
+      "title": "Registerbekanntmachung nach dem Umwandlungsgesetz",
+      "publication_date": "2025-12-06",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=094Nld4u5HCYNb4k_GIAIPk3tV-FJvtQrL4ELo2H8LJcFjRQ955cy_ZR-JSMejIkOYeqc3xkYR3tQ1WI5YplbVblUJEBktZwx8EG9Rn8UQMzqsIxmPnJdEwz26DcD4RSndYg1th5h4MuzCxEH3Rv5f8fhgy5XaZojFj8z4i2TOGshZGlLdz0UK6uRRWQtU3f6KtTynDWLDfkFwmylYeKUdFiSawjomCruIm-Dhkn1_igeX3j",
+      "metadata": "Daiichi Sankyo Europe GmbH, München Registerbekanntmachungen Registerbekanntmachung nach dem Umwandlungsgesetz Datum: 06.12.2025 Sprache: Deutsch",
+      "source_area": "Registerbekanntmachungen",
+      "category": "bekanntmachungen",
+      "index": 3
+    },
+    {
+      "company": "Daiichi Sankyo Europe GmbH, München",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.04.2024 bis zum 31.03.2025",
+      "publication_date": "2025-10-13",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=yksogetz4KwP-X0tUh5gDfPNZlm0z8fpIlmEsjrnZzm4mzvGGvZhAsU3fGQQ3FwclM7mUdsYYAitdhjxgrMRWTIs_E9AhBpAkA170La7qLpkUh89F_T3R5eHOtbaPrMllxaAn5HL3Uq1HkUbv2rWE4cK-OkXTICSb5quiVc3PnCexiIA23MYJ5jAlLCqdJFvfG38-pqZMZwIiZMxRxdVGaOY--B9TuvjYmP8KT_sCZOfTHo2",
+      "metadata": "Daiichi Sankyo Europe GmbH, München Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.04.2024 bis zum 31.03.2025 Datum: 13.10.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 4
+    },
+    {
+      "company": "Daiichi Sankyo Europe GmbH, München",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.04.2024 bis zum 31.03.2025",
+      "publication_date": "2025-09-29",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=HNRViZHgvcdA8iHmEsTlVuHBDhoAlY7cRyuMj73QaTZb24wP5bxoGS3_GMltgmAkiDlJSX2jzEpT7bZ9oS3oEcxiR9YuI4vWrLfLrei9Dw4O7QSvnRgcR6OxVLkv3QA5vNoBAliQ8TR_TyT5XSUU9AABf9hc9D5oVzJNDypnhH_LkwbLo_vtgjyAWK5oLnSz5710XhpMJuw6uGz_IE8O6FbGQMOUxtNYpiaZ8yIuid1Ihbxc",
+      "metadata": "Daiichi Sankyo Europe GmbH, München Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.04.2024 bis zum 31.03.2025 Datum: 29.09.2025 Sprache: Deutsch Befreite Unternehmen anzeigen DAIICHI SANKYO Deutschland GmbH, München Daiichi Sankyo Real Estate GmbH, Pfaffenhofen .d. Ilm Daiichi Sankyo Northern Europe GmbH, Planegg Daiichi Sankyo Oncology Europe GmbH, München",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 5
+    },
+    {
+      "company": "Daiichi Sankyo Europe GmbH, München",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.04.2023 bis zum 31.03.2024",
+      "publication_date": "2024-11-19",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=H09kXuiOqd3IR6i4u5td3eQaVnSeQSClRz-Mevn8m-30VvIwXClwey9VfS5ROaHW_RjkzdSJjzxX67X-gWl7FFukcgo6Qfq9wjSSNGMfa2LLQ72-wQeL0E11NR281HsF3TXflCYoG9CAmvMbhH7KiybObGDUKbg_529fcb8Wun1ajglaC9zftdL_ofYkMglJEyPQxDjddSkk1njuezAqC4gJIxPvY3fzL3RREZXvUCBfRwuJ",
+      "metadata": "Daiichi Sankyo Europe GmbH, München Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.04.2023 bis zum 31.03.2024 Datum: 19.11.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 6
+    },
+    {
+      "company": "Daiichi Sankyo Europe GmbH, München",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.04.2023 bis zum 31.03.2024",
+      "publication_date": "2024-10-30",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=D0SSU64qnmuhgYszn-heCdzNNzAX9hHv_vK0KIEvu9I5C7vI6-8P4ycU8EXOlidbFaFy5g_1ycq3AY0kS4MpDz8Cm6CTY1ewKsa-uJ-BD90B0jMZeZx4SNEIrV65HeMP4UedPiLqXV6XyHEa28DOgE72BEwB1DS6ax6bgwXscv0UDs_e2mjb7JH4uQom8OGAbJPWS3pe9lQ1f5Uy9t3w2QZV5dovCiE7p4i_b-qdssEdiDV4",
+      "metadata": "Daiichi Sankyo Europe GmbH, München Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.04.2023 bis zum 31.03.2024 Datum: 30.10.2024 Sprache: Deutsch Befreite Unternehmen anzeigen DAIICHI SANKYO Deutschland GmbH, München Daiichi Sankyo Real Estate GmbH, Pfaffenhofen .d. Ilm Daiichi Sankyo Northern Europe GmbH, Planegg Daiichi Sankyo Oncology Europe GmbH, München",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 7
+    }
+  ]
+}

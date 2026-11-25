@@ -1,0 +1,295 @@
+{
+  "provider": "karriere",
+  "company": {
+    "key": "Comcross",
+    "name": "Comcross",
+    "location": "Leonberg",
+    "name_source": "company_name",
+    "urls": [
+      "https://www.comcross.de/de"
+    ],
+    "kununu_url": null,
+    "branches": [
+      "Bauindustrie"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "71229",
+    "street": "Hertichstrasse 23",
+    "region": "Baden-Württemberg",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:18:22.554928+00:00",
+  "status": "partial",
+  "jobs": [],
+  "pages": [
+    {
+      "url": "https://www.comcross.de/de",
+      "final_url": "https://www.comcross.de/de",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.comcross.de/de/career",
+      "final_url": "https://www.comcross.de/de/career",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.comcross.de/de/job/mitarbeiter-controlling",
+      "final_url": "https://www.comcross.de/de/job/mitarbeiter-controlling",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.comcross.de/de/job/monteur-mobilfunk",
+      "final_url": "https://www.comcross.de/de/job/monteur-mobilfunk",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.comcross.de/de/job/servicetechniker-mwd",
+      "final_url": "https://www.comcross.de/de/job/servicetechniker-mwd",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.comcross.de/de/job/ausbildung-zum-it-systemelektroniker-mwd",
+      "final_url": "https://www.comcross.de/de/job/ausbildung-zum-it-systemelektroniker-mwd",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.comcross.de/de/job/ausbildung-zum-metallbauer-mwd---konstruktionstechnik",
+      "final_url": "https://www.comcross.de/de/job/ausbildung-zum-metallbauer-mwd---konstruktionstechnik",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.comcross.de/de/job/ausbildung-zur-kauffrau-mann-fr-bromanagement-mwd",
+      "final_url": "https://www.comcross.de/de/job/ausbildung-zur-kauffrau-mann-fr-bromanagement-mwd",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.comcross.de/de/job/projektcontrolling",
+      "final_url": "https://www.comcross.de/de/job/projektcontrolling",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.comcross.de/de/job/netzplanermwd",
+      "final_url": "https://www.comcross.de/de/job/netzplanermwd",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.comcross.de/en/job/mitarbeiter-controlling",
+      "final_url": "https://www.comcross.de/en/job/mitarbeiter-controlling",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.comcross.de/en/job/monteur-mobilfunk",
+      "final_url": "https://www.comcross.de/en/job/monteur-mobilfunk",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.comcross.de/en/job/servicetechniker-mwd",
+      "final_url": "https://www.comcross.de/en/job/servicetechniker-mwd",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.comcross.de/en/job/ausbildung-zum-it-systemelektroniker-mwd",
+      "final_url": "https://www.comcross.de/en/job/ausbildung-zum-it-systemelektroniker-mwd",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.comcross.de/en/job/ausbildung-zum-metallbauer-mwd---konstruktionstechnik",
+      "final_url": "https://www.comcross.de/en/job/ausbildung-zum-metallbauer-mwd---konstruktionstechnik",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.comcross.de/en/job/ausbildung-zur-kauffrau-mann-fr-bromanagement-mwd",
+      "final_url": "https://www.comcross.de/en/job/ausbildung-zur-kauffrau-mann-fr-bromanagement-mwd",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.comcross.de/en/job/projektcontrolling",
+      "final_url": "https://www.comcross.de/en/job/projektcontrolling",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.comcross.de/en/job/netzplanermwd",
+      "final_url": "https://www.comcross.de/en/job/netzplanermwd",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.comcross.de/de/career/employees",
+      "final_url": "https://www.comcross.de/de/career/employees",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.comcross.de/de/career/zehn-gruende-fuer-eine-karriere-bei-comcross",
+      "final_url": "https://www.comcross.de/de/career/zehn-gruende-fuer-eine-karriere-bei-comcross",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.comcross.de/de/career/top-job",
+      "final_url": "https://www.comcross.de/de/career/top-job",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.comcross.de/en/career",
+      "final_url": "https://www.comcross.de/en/career",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.comcross.de/en/career/employees",
+      "final_url": "https://www.comcross.de/en/career/employees",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.comcross.de/en/career/zehn-gruende-fuer-eine-karriere-bei-comcross",
+      "final_url": "https://www.comcross.de/en/career/zehn-gruende-fuer-eine-karriere-bei-comcross",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.comcross.de/en/career/top-job",
+      "final_url": "https://www.comcross.de/en/career/top-job",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.comcross.de/de/carrernew/offene-stellen",
+      "final_url": "https://www.comcross.de/de/carrernew/offene-stellen",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.comcross.de/en/carrernew/offene-stellen",
+      "final_url": "https://www.comcross.de/en/carrernew/offene-stellen",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.comcross.de/de/carrernew/karriere-bei-comcross",
+      "final_url": "https://www.comcross.de/de/carrernew/karriere-bei-comcross",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.comcross.de/en/carrernew/karriere-bei-comcross",
+      "final_url": "https://www.comcross.de/en/carrernew/karriere-bei-comcross",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    }
+  ],
+  "errors": [
+    {
+      "url": "https://www.comcross.de/en/carrernew/karriere-bei-comcross",
+      "reason": "no_extractable_job_data",
+      "error": "Keine auslesbaren Stellen oder belegte Leermeldung; manuelle Prüfung erforderlich."
+    }
+  ],
+  "excluded": [],
+  "sources": [
+    {
+      "url": "https://www.comcross.de/de",
+      "linked_from": null,
+      "mechanism": "configured"
+    }
+  ],
+  "adapter_attempts": [],
+  "coverage": {
+    "scope": "configured_sites_and_linked_career_portals",
+    "complete": false,
+    "pending_pages": 0,
+    "page_limit_reached": false,
+    "job_limit_reached": false,
+    "request_limit_reached": false,
+    "pages_attempted": 29,
+    "pages_read": 29,
+    "dynamic_or_unparsed_pages": true,
+    "http": {
+      "requests_attempted": 30,
+      "allocated_requests": 782,
+      "cache_hits": 0
+    }
+  },
+  "pending_urls": [],
+  "jobs_before_keyword_filter": 0,
+  "reason": "search_incomplete"
+}

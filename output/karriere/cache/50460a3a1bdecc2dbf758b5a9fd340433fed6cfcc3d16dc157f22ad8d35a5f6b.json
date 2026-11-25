@@ -1,0 +1,9 @@
+{
+  "url": "https://www.stadt-koeln.de/robots.txt",
+  "final_url": "https://www.stadt-koeln.de/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/plain",
+  "fetched_at": "2026-11-25T16:16:53.483895+00:00",
+  "text": "User-agent: *\nDisallow: /artikel/72139/index.html                     # Styleguide\nDisallow: /start/downloads/downloads                    # Styleguide\nDisallow: /artikel/74182/index.html\nDisallow: /artikel/74579/index.html\nDisallow: 112.html\nDisallow: /wahlen\n"
+}

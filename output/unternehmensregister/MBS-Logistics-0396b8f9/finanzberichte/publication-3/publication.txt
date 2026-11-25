@@ -1,0 +1,120 @@
+MBS Speditionsgesellschaft mbH — Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023
+MBS Speditionsgesellschaft mbH
+
+Köln
+
+Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023
+
+Bilanz
+
+scroll
+
+Aktiva	Aktiva	Aktiva
+	31.12.2023 EUR	31.12.2022 EUR
+A. Anlagevermögen	4.951.090,85	4.525.732,85
+I. Immaterielle Vermögensgegenstände	247,00	536,00
+II. Sachanlagen	191.015,00	165.368,00
+III. Finanzanlagen	4.759.828,85	4.359.828,85
+B. Umlaufvermögen	5.621.443,52	7.236.970,21
+I. Forderungen und sonstige Vermögensgegenstände	5.241.574,22	6.223.278,86
+II. Kassenbestand, Bundesbankguthaben, Guthaben bei Kreditinstituten und Schecks	379.869,30	1.013.691,35
+C. Rechnungsabgrenzungsposten	76.877,32	5.139,96
+Aktiva	10.649.411,69	11.767.843,02
+
+scroll
+
+Passiva	Passiva	Passiva
+	31.12.2023 EUR	31.12.2022 EUR
+A. Eigenkapital	8.740.458,91	8.139.514,37
+I. Gezeichnetes Kapital	255.645,94	255.645,94
+II. Bilanzgewinn	8.484.812,97	7.883.868,43
+B. Rückstellungen	699.819,00	2.292.210,00
+C. Verbindlichkeiten	1.209.133,78	1.336.118,65
+Summe Passiva	10.649.411,69	11.767.843,02
+
+Anhang
+
+I. Allgemeine Angaben zum Jahresabschluss
+
+Die MBS Speditionsgesellschaft mbH hat Ihren Sitz in Köln. Sie ist im Handelsregister des Amtsgerichtes Köln unter HRB 17216 eingetragen.
+
+II. Allgemeine Angaben zu Inhalt und Gliederung des Jahresabschlusses
+
+Die Gesellschaft weist zum Abschlussstichtag die Größenmerkmale einer kleinen Kapitalgesellschaft im Sinne von § 267 II HGB auf.
+
+Der Jahresabschluss wurde nach den Vorschriften des Handelsgesetzbuches in der aktuellen Fassung einschließlich der sich aufgrund des Bilanzrichtlinie-Umsetzungsgesetzes (BilRUG) ergebenden Änderungen aufgestellt.
+
+Der vorliegende Jahresabschluss ist grundsätzlich unter Beibehaltung der für den Vorjahresabschluss angewendeten Gliederungs- und Bewertungsgrundsätzen nach den für kleine Kapitalgesellschaften geltenden Vorschriften des Handelsgesetzbuches aufgestellt worden (§§ 265 I 2, 266 ff HGB).
+
+Die Bilanz wird nach Verwendung des Ergebnisses aufgestellt (§ 268 I HGB).
+
+Größenabhängige Erleichterungen nach §§ 274 a, 288 HGB wurden in Anspruch genommen.
+
+III. Angaben zu Bilanzierungs- und Bewertungsmethoden
+
+Die Bilanzierung der immateriellen Vermögensgegenstände und der Sachanlagen erfolgt zu Anschaffungs- bzw. Herstellungskosten unter Berücksichtigung nutzungsbedingter planmäßiger Abschreibungen (§ 253 III HGB). Grundlage der planmäßigen Abschreibungen ist die voraussichtliche Nutzungsdauer der jeweiligen Vermögensgegenstände (§ 253 I 1, III HGB). Die immateriellen Vermögensgegenstände werden linear abgeschrieben, während die beweglichen Anlagegüter linear und geometrisch-degressiv abgeschrieben werden. Geringwertige Vermögensgegenstände mit Anschaffungskosten bis zu € 800,00 wurden aus Vereinfachungsgründen entsprechend § 6 II EStG im Jahr der Anschaffung voll abgeschrieben, gleichzeitig wird ihr Abgang unterstellt. Für geringwertige Vermögensgegenstände aus Vorjahren wurde der steuerliche Sammelposten nach § 6 IIa EStG fortgeführt.
+
+Die Bewertung der Finanzanlagen erfolgt zu Anschaffungskosten.
+
+Forderungen und sonstige Vermögensgegenstände werden zum Nominalwert angesetzt. Forderungen und Verbindlichkeiten in Fremdwährung werden nach dem zum Entstehungszeitpunkt maßgebenden Umrechnungskurs in Euro bewertet.
+
+Die sonstigen Rückstellungen erfassen alle erkennbaren Risiken und ungewisse Verbindlichkeiten. Sie werden mit dem Erfüllungsbetrag bewertet, der nach vernünftiger kaufmännischer Beurteilung notwendig ist (§ 253 I 2 HGB).
+
+Verbindlichkeiten werden mit ihrem Erfüllungsbetrag (§ 253 I 2 HGB).
+
+Flüssige Mittel werden zu Nominalwerten angesetzt (§ 253 I HGB).
+
+IV. Angaben zur Bilanz
+
+Die Entwicklung des Anlagevermögens (Anlagenspiegel) ist am Ende des Anhangs dargestellt. Hieraus ergeben sich auch die Abschreibungen des Geschäftsjahres (§ 284 III HGB).
+
+Die sonstigen Vermögensgegenstände enthalten Beträge von € 13.950,00, die eine Restlaufzeit von mehr als einem Jahr haben.
+
+Alle übrigen sonstigen Vermögensgegenstände sowie Forderungen aus Lieferungen und Leistungen haben eine Restlaufzeit von bis zu 1 Jahr.
+
+Die Forderungen gegenüber verbundenen Unternehmen betragen zum 31.12.2023 € 2.512.133,02 (31.12.2022 € 4.376.317,20), davon gegenüber Gesellschaftern € 0,00 (31.12.2022 € 0,00).
+
+Die Verbindlichkeiten gegenüber verbundenen Unternehmen betragen zum 31.12.2023 € 185.423,70 (31.12.2022 € 207.095,25), davon gegenüber Gesellschaftern
+€ 0,00 (31.12.2022 € 0,00).
+
+V. Angaben zur Gewinn- und Verlustrechnung
+
+Die Gewinn- und Verlustrechnung wurde nach dem Gesamtkostenverfahren (§ 275 II HGB) aufgestellt.
+
+Die Erträge aus Beteiligungen stammen aus den Ausschüttungen der Jahresergebnisse 2022 der Tochterfirmen, die unter den Finanzanlagen ausgewiesen sind.
+
+VI. Sonstige Pflichtangaben
+
+Zu den Geschäftsführern der MBS Speditionsgesellschaft mbH waren im laufenden Geschäftsjahr die Herren Andreas Janetzko, Speditionskaufmann (Willich), Daniel Steckel, Speditionskaufmann (Köln) und Jörg Röhl, Speditionskaufmann (Zollikon) bestellt.
+
+Herr Janetzko ist mit Datum zum 19.04.2023 aus der Geschäftsleitung ausgeschieden.
+
+Der mit unterzeichnende Herr Jörg Röhl wurde mit Wirkung zum 01.02.2023 zum Geschäftsführer bestellt.
+
+Diese Geschäftsführer sind jeweils berechtigt die Gesellschaft gemeinsam mit einem weiteren Geschäftsführer oder einem Prokuristen zu vertreten.
+
+Ein Konzernabschluss wird wegen Überschreiten der Größenmerkmale aufgestellt.
+Die MBS Speditionsgesellschaft mbH ist Konzernmutter mit Sitz in Köln.
+
+Zum Bilanzstichtag bestanden keine Haftungsverhältnisse im Sinne von § 251 HGB.
+
+Die finanziellen Verpflichtungen aus Kfz-Leasingverträgen betragen insgesamt € 44.152,00. Die Grundmietzeit der Verträge beträgt 36 Monate, endend im Dezember 2025.
+
+Die Geschäftsführung schlägt vor, den Bilanzgewinn in Höhe von € 8.484.812,97 auf neue Rechnung vorzutragen.
+
+Im Berichtszeitraum wurden durchschnittlich 35 (Vorjahr: 31) Arbeitnehmer (Angestellte) beschäftigt.
+
+sonstige Berichtsbestandteile
+
+Köln Porz, den 16.12.2024
+
+gez.
+Jörg Röhl
+Geschäftsführer
+
+gez.
+Daniel Steckel
+Geshäftsführer
+
+Angaben zur Feststellung:
+Der Jahresabschluss wurde am 24.04.2025 festgestellt.

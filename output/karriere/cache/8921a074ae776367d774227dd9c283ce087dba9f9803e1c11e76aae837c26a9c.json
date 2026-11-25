@@ -1,0 +1,9 @@
+{
+  "url": "https://www.seachefs.com/robots.txt",
+  "final_url": "https://www.seachefs.com/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "fetched_at": "2026-11-25T16:35:23.165016+00:00",
+  "text": "User-agent: *\r\nDisallow: /fileadmin/_temp_/\r\nDisallow: /t3lib/\r\nDisallow: /typo3/\r\nDisallow: /typo3_src/\r\nDisallow: /typo3conf/\r\nDisallow: /typo3temp/*\r\nAllow: /typo3temp/*.css\r\nAllow: /typo3temp/*.css.*.gzip\r\nAllow: /typo3temp/*.js\r\nAllow: /typo3temp/*.js.*.gzip\r\nAllow: /typo3temp/*.jpg\r\nAllow: /typo3temp/*.gif\r\nAllow: /typo3temp/*.png\r\nAllow: /typo3/sysext/frontend/Resources/Public/*\r\nAllow: /typo3conf/ext/px_core/Resources/Public/*\r\nAllow: /typo3conf/ext/px_customer_seachefs/Resources/Public/*\r\nSitemap: https://www.seachefs.com/sitemap.xml"
+}

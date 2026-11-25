@@ -1,0 +1,740 @@
+{
+  "provider": "kununu",
+  "backend": "browser",
+  "status": "ok",
+  "query": "Daiichi Sankyo Europe GmbH",
+  "profile": {
+    "url": "https://www.kununu.com/de/daiichi-sankyo-europe",
+    "name": "DAIICHI SANKYO EUROPE GmbH",
+    "overall_score": 3.9,
+    "review_count": 172,
+    "recommendation_percent": 75,
+    "recommendation_period": "last_2_years",
+    "observed_at": "2026-11-25T17:13:50.665242+00:00"
+  },
+  "reviews": [
+    {
+      "id": "b2587149-4015-4aec-b96c-93337b37b365",
+      "url": "https://www.kununu.com/de/daiichi-sankyo-europe/bewertung/b2587149-4015-4aec-b96c-93337b37b365",
+      "title": "Noch deutlich Luft nach oben",
+      "content": "Flexibilität\n\nEs fehlt nach der Umstrukturierung die klare strategische Ausrichtung für die verbleibenden Mitarbeiter im Bereich in dem Personal abgebaut wurde. fühlt sich sehr heads ärmlichen und undurchdacht an\n\nTransparenz und klare Kommunikation und vor allem female leadership deutlich ausbauen.\n\nHängt sehr davon ab in welchem Team man arbeitet\n\nKann besser aber auch schlechter sein\n\nNicht wirklich mehr schein als sein\n\nSteht in den Unternehmenszielen\n\nIm direkten Team absolut gegeben, das liegt auch an der Führungskraft, wenn man zur Seite schaut sieht es anders aus\n\nViele jetzt durch early retirement entsorgt\n\nDie wenigen führenden Frauen sind gut\n\nHohe Flexibilität\n\nIm Umgang mit Umstrukturierung kann man noch viel lernen, es entsteht der Eindruck, dass die rechte nicht weiß was die linke tur\n\nEher nicht, Männer werden stark bevorzugt.\n\nKommt darauf an",
+      "rating": 3.2,
+      "sections": {
+        "positive": "Flexibilität",
+        "negative": "Es fehlt nach der Umstrukturierung die klare strategische Ausrichtung für die verbleibenden Mitarbeiter im Bereich in dem Personal abgebaut wurde. fühlt sich sehr heads ärmlichen und undurchdacht an",
+        "suggestion": "Transparenz und klare Kommunikation und vor allem female leadership deutlich ausbauen."
+      },
+      "factor_comments": {
+        "atmosphere": "Hängt sehr davon ab in welchem Team man arbeitet",
+        "workLife": "Kann besser aber auch schlechter sein",
+        "career": "Nicht wirklich mehr schein als sein",
+        "environment": "Steht in den Unternehmenszielen",
+        "teamwork": "Im direkten Team absolut gegeben, das liegt auch an der Führungskraft, wenn man zur Seite schaut sieht es anders aus",
+        "oldColleagues": "Viele jetzt durch early retirement entsorgt",
+        "leadership": "Die wenigen führenden Frauen sind gut",
+        "workConditions": "Hohe Flexibilität",
+        "communication": "Im Umgang mit Umstrukturierung kann man noch viel lernen, es entsteht der Eindruck, dass die rechte nicht weiß was die linke tur",
+        "equality": "Eher nicht, Männer werden stark bevorzugt.",
+        "tasks": "Kommt darauf an"
+      },
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 3.0,
+        "communication": 2.0,
+        "workConditions": 5.0,
+        "leadership": 3.0,
+        "teamwork": 4.0,
+        "oldColleagues": 3.0,
+        "equality": 2.0,
+        "career": 2.0,
+        "salary": 5.0,
+        "image": 3.0,
+        "environment": 3.0,
+        "tasks": 4.0
+      },
+      "published_at": "2026-10-30T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "2e8d744a-47ea-44f3-8d41-dfc789221991",
+      "url": "https://www.kununu.com/de/daiichi-sankyo-europe/bewertung/2e8d744a-47ea-44f3-8d41-dfc789221991",
+      "title": "Empfehlenswert, trotzdem aus persönlicher Sicht bewerten",
+      "content": "Hohe Arbeitsbelastung\n\nAndere Meinungen erwünscht, hört zu",
+      "rating": 4.7,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "workLife": "Hohe Arbeitsbelastung",
+        "leadership": "Andere Meinungen erwünscht, hört zu"
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 4.0,
+        "communication": 4.0,
+        "workConditions": 4.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 4.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": null
+      },
+      "published_at": "2026-09-02T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "94ae672c-b80b-424a-bec2-48d0d88afe67",
+      "url": "https://www.kununu.com/de/daiichi-sankyo-europe/bewertung/94ae672c-b80b-424a-bec2-48d0d88afe67",
+      "title": "Transformation überall",
+      "content": "Wichtiges erst über Flurfunk, Medien",
+      "rating": 2.7,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "communication": "Wichtiges erst über Flurfunk, Medien"
+      },
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 3.0,
+        "communication": 1.0,
+        "workConditions": 3.0,
+        "leadership": 3.0,
+        "teamwork": 4.0,
+        "oldColleagues": 2.0,
+        "equality": 2.0,
+        "career": 1.0,
+        "salary": 3.0,
+        "image": 2.0,
+        "environment": 3.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-07-08T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "81921c1f-6763-4369-bff6-dd81fc4344ab",
+      "url": "https://www.kununu.com/de/daiichi-sankyo-europe/bewertung/81921c1f-6763-4369-bff6-dd81fc4344ab",
+      "title": "Solala",
+      "content": "Junge, dynamische Truppe\n\nMan wird als Mitarbeiter nicht gehört/verstanden\n\nBessere Bezahlung /Gehälter\n\nKollegial und auf Augenhöhe, wertschätzend\n\nWenig bekannt in der öffentlichen Wahrnehmung\n\nWird keine Rücksicht drauf genommen, immer mehr Arbeit wird auf uns abgewälzt\n\nMuss aktiv angesprochen werden\n\nAndere unternehmen zahlen besser\n\nKann ich schlecht beurteilen\n\nUnser Team arbeitet gut zusammen\n\nKein Nachteil gegenüber jüngeren\n\nSehr gut\n\nZuviel Druck und Erwartungshaltung\n\nIntransparenz\n\nMänner bekommen bei gleicher Qualifikation mehr Gehalt\n\nFokus etc",
+      "rating": 3.4,
+      "sections": {
+        "positive": "Junge, dynamische Truppe",
+        "negative": "Man wird als Mitarbeiter nicht gehört/verstanden",
+        "suggestion": "Bessere Bezahlung /Gehälter"
+      },
+      "factor_comments": {
+        "atmosphere": "Kollegial und auf Augenhöhe, wertschätzend",
+        "image": "Wenig bekannt in der öffentlichen Wahrnehmung",
+        "workLife": "Wird keine Rücksicht drauf genommen, immer mehr Arbeit wird auf uns abgewälzt",
+        "career": "Muss aktiv angesprochen werden",
+        "salary": "Andere unternehmen zahlen besser",
+        "environment": "Kann ich schlecht beurteilen",
+        "teamwork": "Unser Team arbeitet gut zusammen",
+        "oldColleagues": "Kein Nachteil gegenüber jüngeren",
+        "leadership": "Sehr gut",
+        "workConditions": "Zuviel Druck und Erwartungshaltung",
+        "communication": "Intransparenz",
+        "equality": "Männer bekommen bei gleicher Qualifikation mehr Gehalt",
+        "tasks": "Fokus etc"
+      },
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 3.0,
+        "communication": 2.0,
+        "workConditions": 3.0,
+        "leadership": 5.0,
+        "teamwork": 4.0,
+        "oldColleagues": 5.0,
+        "equality": 3.0,
+        "career": 3.0,
+        "salary": 2.0,
+        "image": 3.0,
+        "environment": 3.0,
+        "tasks": 4.0
+      },
+      "published_at": "2026-06-11T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "1f851471-230e-4d48-b7ae-f66123fd2858",
+      "url": "https://www.kununu.com/de/daiichi-sankyo-europe/bewertung/1f851471-230e-4d48-b7ae-f66123fd2858",
+      "title": "Guter Arbeitgeber, den ich gerne weiterempfehle.",
+      "content": "Gemeinsames arbeiten auf Augenhöhe.\n\nFlexible Working - wird auch gelebt. Klar je nach Abteilung und Stelle unterschiedlich flexibel nutzbar.\n\nWeiterbildungsportal und Sprachkurse\n\nTarifvertrag mit weiteren Benefits\n\nSehr guter Zusammenhalt unter den Kollegen.\n\nDa der Standort wächst somit ist viel zu tun, das sollte einem klar sein, wenn man hier anfangen will. Motivation und Durchhaltevermögen sind wichtig. Dadurch kann man natürlich auch viel lernen und sich weiterentwickeln.\n\nTeilweise manchmal ein bisschen spät und Kommunikation Europaweit sollte verbessert werden.\n\nEigene Ideen können immer eingebracht werden und es gibt ständig neue Aufgabenfelder.",
+      "rating": 4.5,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Gemeinsames arbeiten auf Augenhöhe.",
+        "workLife": "Flexible Working - wird auch gelebt. Klar je nach Abteilung und Stelle unterschiedlich flexibel nutzbar.",
+        "career": "Weiterbildungsportal und Sprachkurse",
+        "salary": "Tarifvertrag mit weiteren Benefits",
+        "teamwork": "Sehr guter Zusammenhalt unter den Kollegen.",
+        "workConditions": "Da der Standort wächst somit ist viel zu tun, das sollte einem klar sein, wenn man hier anfangen will. Motivation und Durchhaltevermögen sind wichtig. Dadurch kann man natürlich auch viel lernen und sich weiterentwickeln.",
+        "communication": "Teilweise manchmal ein bisschen spät und Kommunikation Europaweit sollte verbessert werden.",
+        "tasks": "Eigene Ideen können immer eingebracht werden und es gibt ständig neue Aufgabenfelder."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 4.0,
+        "communication": 3.0,
+        "workConditions": 5.0,
+        "leadership": 3.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 4.0,
+        "image": 4.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-05-22T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "b0402572-b994-4e5a-a138-0ef360e419db",
+      "url": "https://www.kununu.com/de/daiichi-sankyo-europe/bewertung/b0402572-b994-4e5a-a138-0ef360e419db",
+      "title": "Was ist schon GMP.",
+      "content": "Offen zu seinen Mitarbeiter sein. Nicht solange mit Entscheidungen prokrastinieren\n\nToxisch\n\nNach außen gut. Innen kocht es über.\n\n9 to 5\n\nKaum\n\nTarif z.T. ungerecht verteilt in den einzelnen Abteilungen\n\nBedingt gut\n\nEntscheidung werden kaum oder zu spät getroffen\n\nSchlecht\n\nJeden Tag das Gleiche",
+      "rating": 1.0,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": "Offen zu seinen Mitarbeiter sein. Nicht solange mit Entscheidungen prokrastinieren"
+      },
+      "factor_comments": {
+        "atmosphere": "Toxisch",
+        "image": "Nach außen gut. Innen kocht es über.",
+        "workLife": "9 to 5",
+        "career": "Kaum",
+        "salary": "Tarif z.T. ungerecht verteilt in den einzelnen Abteilungen",
+        "teamwork": "Bedingt gut",
+        "leadership": "Entscheidung werden kaum oder zu spät getroffen",
+        "communication": "Schlecht",
+        "tasks": "Jeden Tag das Gleiche"
+      },
+      "factor_scores": {
+        "atmosphere": 1.0,
+        "workLife": 1.0,
+        "communication": 1.0,
+        "workConditions": 1.0,
+        "leadership": 1.0,
+        "teamwork": 1.0,
+        "oldColleagues": 1.0,
+        "equality": 1.0,
+        "career": 1.0,
+        "salary": 1.0,
+        "image": 1.0,
+        "environment": 1.0,
+        "tasks": 1.0
+      },
+      "published_at": "2026-05-04T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "42f02828-33e5-4e56-884a-e7c1f5165a9e",
+      "url": "https://www.kununu.com/de/daiichi-sankyo-europe/bewertung/42f02828-33e5-4e56-884a-e7c1f5165a9e",
+      "title": "als regionaler Arbeitgeber in Pfaffenhofen in Ordnung",
+      "content": "Mit einem Wort: toxisch!\n\nNormalerweise tarifliche Arbeitszeiten (37,5 Stunden) nach IGBCE\n\nKarriere nur mit Vitamin B innerhalb der Firma\n\nWettbewerbsfähig nach IGBCE-Tarif\n\nHohes Bewußtsein für Nachhaltigkeit, wenn es auch nicht immer so gelebt wird.\n\nVereinzelt sehr guter Zusammenhalt, aber überwiegend sehr ellenbogenlastig um die Sichtbarkeit in der Karriereentwicklung zu erhöhen.\n\nIm Rahmen der letzten Umorganisationen leider sehr schlecht, nachdem viel Durchgriff aus Japan stattfindet.\n\nViele Townhalls, aber wirkliche Neuigkeiten kommen eher über die Medien bzw. Google Bot.\n\nViel Routine, die meisten spannenden Themen wurden mittlerweile nach Japan gezogen.",
+      "rating": 2.5,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Mit einem Wort: toxisch!",
+        "workLife": "Normalerweise tarifliche Arbeitszeiten (37,5 Stunden) nach IGBCE",
+        "career": "Karriere nur mit Vitamin B innerhalb der Firma",
+        "salary": "Wettbewerbsfähig nach IGBCE-Tarif",
+        "environment": "Hohes Bewußtsein für Nachhaltigkeit, wenn es auch nicht immer so gelebt wird.",
+        "teamwork": "Vereinzelt sehr guter Zusammenhalt, aber überwiegend sehr ellenbogenlastig um die Sichtbarkeit in der Karriereentwicklung zu erhöhen.",
+        "leadership": "Im Rahmen der letzten Umorganisationen leider sehr schlecht, nachdem viel Durchgriff aus Japan stattfindet.",
+        "communication": "Viele Townhalls, aber wirkliche Neuigkeiten kommen eher über die Medien bzw. Google Bot.",
+        "tasks": "Viel Routine, die meisten spannenden Themen wurden mittlerweile nach Japan gezogen."
+      },
+      "factor_scores": {
+        "atmosphere": 1.0,
+        "workLife": 3.0,
+        "communication": 1.0,
+        "workConditions": 3.0,
+        "leadership": 2.0,
+        "teamwork": 2.0,
+        "oldColleagues": 2.0,
+        "equality": 3.0,
+        "career": 1.0,
+        "salary": 4.0,
+        "image": 4.0,
+        "environment": 4.0,
+        "tasks": 2.0
+      },
+      "published_at": "2026-04-22T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "4db9f98c-c5aa-4f0c-87cd-8ab410afd168",
+      "url": "https://www.kununu.com/de/daiichi-sankyo-europe/bewertung/4db9f98c-c5aa-4f0c-87cd-8ab410afd168",
+      "title": "Modernes Unternehmen mit einigen sozialen Schwachstellen",
+      "content": "Modernes und internationales Unternehmen mit guter Work-Life-Balance\n\nDie unstrukturierten Arbeitsvorgänge und patriarchische Verhaltensweisen mancher Mitarbeiter.\n\nHört auf eure Mitarbeiter, denn auch die Zufriedenheit der \"kleinen Leute\" im Unternehmen ist wichtig. Die machen die meiste Arbeit. Compliance Meldungen sollten sofort ernstgenommen und nicht erst nach mehrfachem Nachfragen bearbeitet werden.\n\nAngespannte Arbeitsatmosphäre. Mehrere Reibungspunkte zwischen Kollegen und Abteilungen, die nicht angesprochen und einfach ignoriert werden, anstatt eine vernünftige Lösung zu finden. Es kommt einen so vor, als würde arbeitstechnische Leistung soziales Fehlverhalten entschuldigen.\n\nImage nach außen hin sehr gut, aber meiner Meinung nach in Wahrheit verbesserungswürdig.\n\nDurch Flexible Work sehr gute Balance.\n\nEs gibt viele Schulungen und durchaus Möglichkeiten sich weiterzubilden.\n\nSehr gut\n\nUmweltbewusstsein ist vorhanden. Am Sozialverhalten muss aus meiner Sicht mehr gearbeitet werden.\n\nViele direkte Kollegen sind super nett und hilfsbereit. Zwischen den Abteilungen gibt es allerdings Reibungspunkte die einfach so hingenommen werden.\n\nManche nutzen hier Ihre Position aus und leider wird auch nicht viel dagegen unternommen. Man hat das Gefühl Beschwerden und Compliance Meldungen werden nicht ernst genommen. (siehe auch Punkt Gleichberechtigung) Es muss erst Druck gemacht werden. Außerdem werden aus meiner Sicht Mitarbeiter auf einzelne Fehler reduziert, sodass eine Möglichkeit des Verbesserns nicht mehr gegeben ist.\n\nEinarbeitung war leider kaum vorhanden. Abläufe sind unstrukturiert und undurchsichtig. Hatte das Gefühl, dass selbst langjährige Kollegen nicht wirklich mit der Struktur klargekommen sind, da in letzter Zeit viel in der Organisation geändert wurde. Sowohl in der Ablage-Struktur, als auch bei Arbeitsvorgängen.\nEinen Stern gibt es mehr, da das Arbeitsmaterial und die meisten Büros auf gutem technischen Stand sind. Kantine leider viel zu klein und Essen nur ok, dafür super Preis.\n\nSchwierig wenn es schon zwischen Abteilungen kriselt und gleich in Konfrontation gegangen wird. Als eine Firma sollte man versuchen so gut wie möglich zusammen zu arbeiten und sich unterstützen, nicht die Fehler bei anderen Abteilungen zu suchen und einzelne Menschen darauf zu reduzieren.\n\nEs sind zwar viele weibliche Mitarbeiter und auch Führungspositionen am Standort, dennoch muss man sich hier viel gefallen lassen. (u.a. Kommentare zu Aussehen und degradierende Bemerkungen usw.)\n\nAbwechslungsreiche Aufgabengebiete",
+      "rating": 2.9,
+      "sections": {
+        "positive": "Modernes und internationales Unternehmen mit guter Work-Life-Balance",
+        "negative": "Die unstrukturierten Arbeitsvorgänge und patriarchische Verhaltensweisen mancher Mitarbeiter.",
+        "suggestion": "Hört auf eure Mitarbeiter, denn auch die Zufriedenheit der \"kleinen Leute\" im Unternehmen ist wichtig. Die machen die meiste Arbeit. Compliance Meldungen sollten sofort ernstgenommen und nicht erst nach mehrfachem Nachfragen bearbeitet werden."
+      },
+      "factor_comments": {
+        "atmosphere": "Angespannte Arbeitsatmosphäre. Mehrere Reibungspunkte zwischen Kollegen und Abteilungen, die nicht angesprochen und einfach ignoriert werden, anstatt eine vernünftige Lösung zu finden. Es kommt einen so vor, als würde arbeitstechnische Leistung soziales Fehlverhalten entschuldigen.",
+        "image": "Image nach außen hin sehr gut, aber meiner Meinung nach in Wahrheit verbesserungswürdig.",
+        "workLife": "Durch Flexible Work sehr gute Balance.",
+        "career": "Es gibt viele Schulungen und durchaus Möglichkeiten sich weiterzubilden.",
+        "salary": "Sehr gut",
+        "environment": "Umweltbewusstsein ist vorhanden. Am Sozialverhalten muss aus meiner Sicht mehr gearbeitet werden.",
+        "teamwork": "Viele direkte Kollegen sind super nett und hilfsbereit. Zwischen den Abteilungen gibt es allerdings Reibungspunkte die einfach so hingenommen werden.",
+        "leadership": "Manche nutzen hier Ihre Position aus und leider wird auch nicht viel dagegen unternommen. Man hat das Gefühl Beschwerden und Compliance Meldungen werden nicht ernst genommen. (siehe auch Punkt Gleichberechtigung) Es muss erst Druck gemacht werden. Außerdem werden aus meiner Sicht Mitarbeiter auf einzelne Fehler reduziert, sodass eine Möglichkeit des Verbesserns nicht mehr gegeben ist.",
+        "workConditions": "Einarbeitung war leider kaum vorhanden. Abläufe sind unstrukturiert und undurchsichtig. Hatte das Gefühl, dass selbst langjährige Kollegen nicht wirklich mit der Struktur klargekommen sind, da in letzter Zeit viel in der Organisation geändert wurde. Sowohl in der Ablage-Struktur, als auch bei Arbeitsvorgängen.\nEinen Stern gibt es mehr, da das Arbeitsmaterial und die meisten Büros auf gutem technischen Stand sind. Kantine leider viel zu klein und Essen nur ok, dafür super Preis.",
+        "communication": "Schwierig wenn es schon zwischen Abteilungen kriselt und gleich in Konfrontation gegangen wird. Als eine Firma sollte man versuchen so gut wie möglich zusammen zu arbeiten und sich unterstützen, nicht die Fehler bei anderen Abteilungen zu suchen und einzelne Menschen darauf zu reduzieren.",
+        "equality": "Es sind zwar viele weibliche Mitarbeiter und auch Führungspositionen am Standort, dennoch muss man sich hier viel gefallen lassen. (u.a. Kommentare zu Aussehen und degradierende Bemerkungen usw.)",
+        "tasks": "Abwechslungsreiche Aufgabengebiete"
+      },
+      "factor_scores": {
+        "atmosphere": 2.0,
+        "workLife": 5.0,
+        "communication": 1.0,
+        "workConditions": 2.0,
+        "leadership": 1.0,
+        "teamwork": 2.0,
+        "oldColleagues": 5.0,
+        "equality": 1.0,
+        "career": 4.0,
+        "salary": 5.0,
+        "image": 3.0,
+        "environment": 3.0,
+        "tasks": 4.0
+      },
+      "published_at": "2026-03-25T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "24f0b8cc-af39-40c2-aa19-cfdb168dd0f5",
+      "url": "https://www.kununu.com/de/daiichi-sankyo-europe/bewertung/24f0b8cc-af39-40c2-aa19-cfdb168dd0f5",
+      "title": "Standort mit Zukunft",
+      "content": "Es wird sich auf dem Gang gegrüßt, unabhängig von der Hierarchieebene. Aufgrund des großen Wachstums der Firma ist es sicherlich manchmal anstrengend, aber insgesamt empfinde ich die Atmosphäre dennoch sehr positiv\n\nIn Pfaffenhofen gut, aber vielleicht als Arbeitgeber noch nicht so präsent\n\nTarifvertrag, flexible Work. Die Möglichkeiten sind da auf die work Life Balance zu achten. Ist aber auch selbstverantwortung gefragt…\n\nDurch den Aufbau in Pfaffenhofen und die Entwicklung gehen immer wieder Türen auf. Chancen gibt es genug\n\nPharma Chemiebranche grundsätzlich gut\n\nEnergieintensives Unternehmen, welches versucht durch lokale Initiativen (Beteiligung an Windräder) was gutes für die energiebilanz zu tun\n\nIn meinem Team top, ich habe schon andere Erfahrungen bei anderen Firmen gesammelt und habe noch keine erlebt, die soviel in Team und Zusammenhalt investiert. Ich denke das wird zunehmend schwieriger und herausfordernder für die Teams auf Grund des Wachstums\n\nEs gibt Mitarbeiter die schon 30-40 Jahre im Unternehmen sind. Auf sie wird Rücksicht genommen in dem Rahmen der Möglichkeiten (Aufbau, Veränderung, Wachstum). Ist sicherlich nicht immer einfach für die älteren Mitarbeiter\n\nIn meinem Team top\n\nEs gibt neue Gebäude mit neuer moderner büroeinrichtung aber auch ältere Ecken in Pfaffenhofen, die mal sanieren bräuchten. Es geht aber nicht alles gleichzeitig…\n\nDU-Kultur, Begegnung auf Augenhöhe.\n\nEs wird viel Wert darauf gelegt. So weit ich weiß arbeiten in Pfaffenhofen ungefähr gleich viele Männer wie Frauen.\n\nDurch die Veränderung und den Aufbau in Pfaffenhofen auf alle Fälle vorhanden",
+      "rating": 4.5,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Es wird sich auf dem Gang gegrüßt, unabhängig von der Hierarchieebene. Aufgrund des großen Wachstums der Firma ist es sicherlich manchmal anstrengend, aber insgesamt empfinde ich die Atmosphäre dennoch sehr positiv",
+        "image": "In Pfaffenhofen gut, aber vielleicht als Arbeitgeber noch nicht so präsent",
+        "workLife": "Tarifvertrag, flexible Work. Die Möglichkeiten sind da auf die work Life Balance zu achten. Ist aber auch selbstverantwortung gefragt…",
+        "career": "Durch den Aufbau in Pfaffenhofen und die Entwicklung gehen immer wieder Türen auf. Chancen gibt es genug",
+        "salary": "Pharma Chemiebranche grundsätzlich gut",
+        "environment": "Energieintensives Unternehmen, welches versucht durch lokale Initiativen (Beteiligung an Windräder) was gutes für die energiebilanz zu tun",
+        "teamwork": "In meinem Team top, ich habe schon andere Erfahrungen bei anderen Firmen gesammelt und habe noch keine erlebt, die soviel in Team und Zusammenhalt investiert. Ich denke das wird zunehmend schwieriger und herausfordernder für die Teams auf Grund des Wachstums",
+        "oldColleagues": "Es gibt Mitarbeiter die schon 30-40 Jahre im Unternehmen sind. Auf sie wird Rücksicht genommen in dem Rahmen der Möglichkeiten (Aufbau, Veränderung, Wachstum). Ist sicherlich nicht immer einfach für die älteren Mitarbeiter",
+        "leadership": "In meinem Team top",
+        "workConditions": "Es gibt neue Gebäude mit neuer moderner büroeinrichtung aber auch ältere Ecken in Pfaffenhofen, die mal sanieren bräuchten. Es geht aber nicht alles gleichzeitig…",
+        "communication": "DU-Kultur, Begegnung auf Augenhöhe.",
+        "equality": "Es wird viel Wert darauf gelegt. So weit ich weiß arbeiten in Pfaffenhofen ungefähr gleich viele Männer wie Frauen.",
+        "tasks": "Durch die Veränderung und den Aufbau in Pfaffenhofen auf alle Fälle vorhanden"
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 4.0,
+        "communication": 4.0,
+        "workConditions": 4.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 4.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 4.0,
+        "environment": 4.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-03-15T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "f646a2a2-f585-4b26-8c93-8c694ade9304",
+      "url": "https://www.kununu.com/de/daiichi-sankyo-europe/bewertung/f646a2a2-f585-4b26-8c93-8c694ade9304",
+      "title": "Tolles Unternehmen, aber als Mitarbeiter nicht empfehlenswert (Pfaffenhofen)",
+      "content": "Das Produkt an sich\n\nDas toxische Miteinander.\n\nLebt eure Werte. Arbeitnehmer sind das höchste Gut eines Unternehmens.\nFührungskräfte sollten führen können. Fachwissen ist nicht ausreichend um zu führen\n\nDie Atmosphäre ist nicht überall gleich. Hervorzuheben ist, dass es sich dabei um Pfaffenhofen handelt.\n\nImage in der Theorie ist super\n\nDiese wird bei der Einstellung hoch bewertet, jedoch keineswegs umgesetzt in ther Praxis. Kein Vertrauen gegenüber den Angestellten\n\nNicht erwünscht.. mache deinen Job und komme klar\n\nZahlen gut\n\nKönnte besser sein\n\nKollegen in einzelnen Bereichen halten zusammen. Im generellen sehr toxisch. Führungskräfte führen nicht und es kommt auch zu Mobbing\n\nRücksicht wird nicht genommen\n\nSehr toxisch. Von herab. Kein Vertrauen. Fehlende FührungsKapazitäten\n\nMeist gut\n\nKeine durchgängige Kommunikation Business zum Mitarbeiter.\n\nNur bedingt gelebt\n\nDas Produkt und die Firma sind sehr interessant",
+      "rating": 2.9,
+      "sections": {
+        "positive": "Das Produkt an sich",
+        "negative": "Das toxische Miteinander.",
+        "suggestion": "Lebt eure Werte. Arbeitnehmer sind das höchste Gut eines Unternehmens.\nFührungskräfte sollten führen können. Fachwissen ist nicht ausreichend um zu führen"
+      },
+      "factor_comments": {
+        "atmosphere": "Die Atmosphäre ist nicht überall gleich. Hervorzuheben ist, dass es sich dabei um Pfaffenhofen handelt.",
+        "image": "Image in der Theorie ist super",
+        "workLife": "Diese wird bei der Einstellung hoch bewertet, jedoch keineswegs umgesetzt in ther Praxis. Kein Vertrauen gegenüber den Angestellten",
+        "career": "Nicht erwünscht.. mache deinen Job und komme klar",
+        "salary": "Zahlen gut",
+        "environment": "Könnte besser sein",
+        "teamwork": "Kollegen in einzelnen Bereichen halten zusammen. Im generellen sehr toxisch. Führungskräfte führen nicht und es kommt auch zu Mobbing",
+        "oldColleagues": "Rücksicht wird nicht genommen",
+        "leadership": "Sehr toxisch. Von herab. Kein Vertrauen. Fehlende FührungsKapazitäten",
+        "workConditions": "Meist gut",
+        "communication": "Keine durchgängige Kommunikation Business zum Mitarbeiter.",
+        "equality": "Nur bedingt gelebt",
+        "tasks": "Das Produkt und die Firma sind sehr interessant"
+      },
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 2.0,
+        "communication": 2.0,
+        "workConditions": 3.0,
+        "leadership": 1.0,
+        "teamwork": 3.0,
+        "oldColleagues": 2.0,
+        "equality": 3.0,
+        "career": 2.0,
+        "salary": 4.0,
+        "image": 5.0,
+        "environment": 4.0,
+        "tasks": 4.0
+      },
+      "published_at": "2026-03-12T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "7b497ae1-3500-42b6-8ec3-f9f34a1dcf94",
+      "url": "https://www.kununu.com/de/daiichi-sankyo-europe/bewertung/7b497ae1-3500-42b6-8ec3-f9f34a1dcf94",
+      "title": "Super Arbeitgeber",
+      "content": "Je nachdem wen man fragt",
+      "rating": 4.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Je nachdem wen man fragt"
+      },
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 5.0,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": 5.0,
+        "oldColleagues": null,
+        "equality": null,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 4.0,
+        "environment": 5.0,
+        "tasks": null
+      },
+      "published_at": "2026-03-06T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "bb2105e8-b471-4dc9-8ba2-b913fd85809d",
+      "url": "https://www.kununu.com/de/daiichi-sankyo-europe/bewertung/bb2105e8-b471-4dc9-8ba2-b913fd85809d",
+      "title": "Trend ins negative. LEIDER!!!!",
+      "content": "Druck, unterirdischer Umgangston.\n\nKommt darauf an in welcher Abteilung man arbeitet .\n\nMan hat sein kleines Team, welches immer zusammen hält das wars dann aber auch schon .\n\nMeinung und Erfahrung interessiert hier nicht.\n\nMittlerweile Katastrophe, zuviel Wechsel und teilweise interessiert sich niemand für einen.\n\nMan muss sich alles zusammen suchen,man wird von a nach b geschickt.\n\nVieles wird zu spät kommuniziert oder überhaupt nicht.\n\nWer gut schleimen kann ist im Vorteil.\n\nAufgaben sind teilweise sehr interessant.",
+      "rating": 1.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Druck, unterirdischer Umgangston.",
+        "workLife": "Kommt darauf an in welcher Abteilung man arbeitet .",
+        "teamwork": "Man hat sein kleines Team, welches immer zusammen hält das wars dann aber auch schon .",
+        "oldColleagues": "Meinung und Erfahrung interessiert hier nicht.",
+        "leadership": "Mittlerweile Katastrophe, zuviel Wechsel und teilweise interessiert sich niemand für einen.",
+        "workConditions": "Man muss sich alles zusammen suchen,man wird von a nach b geschickt.",
+        "communication": "Vieles wird zu spät kommuniziert oder überhaupt nicht.",
+        "equality": "Wer gut schleimen kann ist im Vorteil.",
+        "tasks": "Aufgaben sind teilweise sehr interessant."
+      },
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": 1.0,
+        "workConditions": 1.0,
+        "leadership": 1.0,
+        "teamwork": 2.0,
+        "oldColleagues": 1.0,
+        "equality": 1.0,
+        "career": 3.0,
+        "salary": 3.0,
+        "image": 1.0,
+        "environment": 3.0,
+        "tasks": 3.0
+      },
+      "published_at": "2026-03-03T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "7f461019-bfc3-4e0b-b32e-2b1684f06118",
+      "url": "https://www.kununu.com/de/daiichi-sankyo-europe/bewertung/7f461019-bfc3-4e0b-b32e-2b1684f06118",
+      "title": "Toller Arbeitgeber!",
+      "content": "Das Gesamtpaket stimmt einfach Gehalt, Weiterentwicklungsmöglichkeiten, Benefits und vor allem das tolle Team!\n\nDer Bewerbungsprozess bis hin zur Einstellung ist doch sehr langwierig und manchmal intransparent. Das ist teilweise ziemlich demotivierend für den Bewerber.\n\nDas Onboarding neuer Mitarbeiter könnte man noch ausbauen - je nach Fachbereich wird das Thema unterschiedlich (wenig) intensiv gelebt und umgesetzt.\n\nTolles Kollegiales Umfeld - ich fühle mich super wohl in der Abteilung. Das erste Mal dass ich wirklich gerne ins Büro gehe Modernes Office mit schöner Kantine und super Essen!\n\nEs wird viel fürs Image gemacht - tolle Programme und Social Media Beiträge\n\nHybrides Arbeitsmodell - perfekt umgesetzt! Nicht nur auf dem Papier\n\nBin sehr zufrieden - Gehalt eher überdurchschnittlich\n\nTolles Office, gute IT-Hardware, Lokaler IT Support\n\nMan kann sich in vielen Themen/Bereichen weiterentwickeln, wenn man möchte.",
+      "rating": 4.9,
+      "sections": {
+        "positive": "Das Gesamtpaket stimmt einfach Gehalt, Weiterentwicklungsmöglichkeiten, Benefits und vor allem das tolle Team!",
+        "negative": "Der Bewerbungsprozess bis hin zur Einstellung ist doch sehr langwierig und manchmal intransparent. Das ist teilweise ziemlich demotivierend für den Bewerber.",
+        "suggestion": "Das Onboarding neuer Mitarbeiter könnte man noch ausbauen - je nach Fachbereich wird das Thema unterschiedlich (wenig) intensiv gelebt und umgesetzt."
+      },
+      "factor_comments": {
+        "atmosphere": "Tolles Kollegiales Umfeld - ich fühle mich super wohl in der Abteilung. Das erste Mal dass ich wirklich gerne ins Büro gehe Modernes Office mit schöner Kantine und super Essen!",
+        "image": "Es wird viel fürs Image gemacht - tolle Programme und Social Media Beiträge",
+        "workLife": "Hybrides Arbeitsmodell - perfekt umgesetzt! Nicht nur auf dem Papier",
+        "salary": "Bin sehr zufrieden - Gehalt eher überdurchschnittlich",
+        "workConditions": "Tolles Office, gute IT-Hardware, Lokaler IT Support",
+        "tasks": "Man kann sich in vielen Themen/Bereichen weiterentwickeln, wenn man möchte."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 4.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-02-03T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "2ea507e1-ca27-49f6-a9da-581b6ad82211",
+      "url": "https://www.kununu.com/de/daiichi-sankyo-europe/bewertung/2ea507e1-ca27-49f6-a9da-581b6ad82211",
+      "title": "Super Arbeitgeber mit einem tollen Team",
+      "content": "Schichtarbeit",
+      "rating": 4.5,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "workLife": "Schichtarbeit"
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 3.0,
+        "communication": 4.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 4.0,
+        "salary": 4.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 3.0
+      },
+      "published_at": "2026-01-23T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "5a85e844-6db5-49dc-859d-21482939959f",
+      "url": "https://www.kununu.com/de/daiichi-sankyo-europe/bewertung/5a85e844-6db5-49dc-859d-21482939959f",
+      "title": "Ich arbeite hier einfach sehr gerne!",
+      "content": "Ich kann hier so sein, wie ich bin\n\nHome Office ist kein Problem\n\nja\n\ntop\n\nimbedingt\n\nsehr hilfsbereit\n\nabsolut\n\nUnterstützung\n\nsehr modern\n\nja\n\nimmer wieder was neues",
+      "rating": 4.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Ich kann hier so sein, wie ich bin",
+        "workLife": "Home Office ist kein Problem",
+        "career": "ja",
+        "salary": "top",
+        "environment": "imbedingt",
+        "teamwork": "sehr hilfsbereit",
+        "oldColleagues": "absolut",
+        "leadership": "Unterstützung",
+        "workConditions": "sehr modern",
+        "equality": "ja",
+        "tasks": "immer wieder was neues"
+      },
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-01-22T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    }
+  ],
+  "review_limit": 15,
+  "review_period": {
+    "since": "2024-11-25T00:00:00+00:00",
+    "until": "2026-11-25T17:13:48.271561+00:00",
+    "date_field": "published_at",
+    "missing_dates": "excluded"
+  },
+  "factor_scores_aggregated": {
+    "atmosphere": {
+      "mean": 3.54,
+      "count": 13
+    },
+    "workLife": {
+      "mean": 3.46,
+      "count": 13
+    },
+    "communication": {
+      "mean": 2.31,
+      "count": 13
+    },
+    "workConditions": {
+      "mean": 3.38,
+      "count": 13
+    },
+    "leadership": {
+      "mean": 3.08,
+      "count": 13
+    },
+    "teamwork": {
+      "mean": 3.71,
+      "count": 14
+    },
+    "oldColleagues": {
+      "mean": 3.46,
+      "count": 13
+    },
+    "equality": {
+      "mean": 3.15,
+      "count": 13
+    },
+    "career": {
+      "mean": 3.21,
+      "count": 14
+    },
+    "salary": {
+      "mean": 3.93,
+      "count": 14
+    },
+    "image": {
+      "mean": 3.5,
+      "count": 14
+    },
+    "environment": {
+      "mean": 3.79,
+      "count": 14
+    },
+    "tasks": {
+      "mean": 3.75,
+      "count": 12
+    }
+  },
+  "coverage": "bounded_employee_review_sample_last_2_years_not_all_reviews",
+  "diagnostics": {
+    "pages": [
+      {
+        "page": "reviews",
+        "page_number": 1,
+        "load_more_clicks": 0,
+        "requested_url": "https://www.kununu.com/de/daiichi-sankyo-europe/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Daiichi-Sankyo-Europe-fd95d50e\\browser\\reviews.html",
+        "browser_step": 10,
+        "final_url": "https://www.kununu.com/de/daiichi-sankyo-europe/kommentare",
+        "observed_at": "2026-11-25T17:13:50.119133+00:00",
+        "http_status": 200,
+        "factor_cards_expanded": 5,
+        "reviews_collected": 10
+      },
+      {
+        "page": "reviews",
+        "page_number": 2,
+        "load_more_clicks": 1,
+        "requested_url": "https://www.kununu.com/de/daiichi-sankyo-europe/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Daiichi-Sankyo-Europe-fd95d50e\\browser\\reviews-2.html",
+        "browser_step": 11,
+        "final_url": "https://www.kununu.com/de/daiichi-sankyo-europe/kommentare",
+        "observed_at": "2026-11-25T17:13:52.033853+00:00",
+        "actions_complete": true,
+        "factor_cards_expanded": 4,
+        "reviews_collected": 15
+      }
+    ]
+  },
+  "source_url": "https://www.kununu.com/de/daiichi-sankyo-europe",
+  "profile_source": "https://www.kununu.com/de/daiichi-sankyo-europe/kommentare",
+  "review_stop_reason": "sample_limit_reached",
+  "factor_score_coverage": {
+    "reviews_with_scores": 14,
+    "reviews_without_scores": 1,
+    "reviews_with_all_known_scores": 11,
+    "status": "partial"
+  },
+  "request_limits": {
+    "max_browser_steps": 295,
+    "browser_steps": 11,
+    "zyte_requests": 0
+  },
+  "reason": null
+}

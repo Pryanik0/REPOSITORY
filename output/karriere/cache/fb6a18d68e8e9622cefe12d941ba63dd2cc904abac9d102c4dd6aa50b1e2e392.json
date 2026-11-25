@@ -1,0 +1,9 @@
+{
+  "url": "https://careers-kyowa-kirin.icims.com/jsDisabledError.jsp",
+  "final_url": "https://careers-kyowa-kirin.icims.com/jsDisabledError.jsp",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/html;charset=UTF-8",
+  "fetched_at": "2026-11-25T16:00:55.292254+00:00",
+  "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<!DOCTYPE html>\n<html>\n<head>\n<title>iCIMS Portal</title>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"https://cdn02.icims.com/a/images.icims.com/content/platform_190.0.1.261120-662648c29b2-11-pg-0/css/icims.blue.css\" />\n<link rel=\"stylesheet\" type=\"text/css\" href=\"https://cdn02.icims.com/a/images.icims.com/content/platform_190.0.1.261120-662648c29b2-11-pg-0/css/bootstrap.blue.css\" />\n<style>\n.logo {\nmargin-bottom: 20px;\n}\n.form-control, .btn {\nwidth: 240px;\n}\nbody {\nbackground-color: #e6e6e6;\n}\nlabel {\nfont-weight: normal;\n}\n</style>\n</head>\n<body>\n<div class=\"jumbotron\">\n<div class=\"container\">\n<div class=\"row\">\n<div class=\"col-sm-6 col-sm-offset-3\">\n<div class=\"panel panel-default\">\n<div class=\"panel-body\">\n<div class=\"logo\">\n\n\n\n<img src=\"https://cdn02.icims.com/a/images.icims.com/content/platform_190.0.1.261120-662648c29b2-11-pg-0/images/nothemes/default/logo-tagline.png\" alt=\"This browser is no longer supported. For an optimal experience, please upgrade to a supported browser. Visit &lt;a href=&quot; http://media.icims.com/training/Training/Documentation/iCIMS_Browser_Support_Policy.pdf&quot; target=&quot;_blank&quot;&gt;iCIMS Browser Support Policy&lt;/a&gt; to learn more.\" />\n\n\n</div>\n<div class=\"alert alert-danger\">Please enable JavaScript to access this site.</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</body>\n</html>"
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=n9q9paBXimAOpjok3jnblvM7cMGXSb_AbkeYIpwnnYmiyPqKqLvKifQf6WGH8Yyk8hKLhISHPMx_jrMJcZiTVoq6J0YaBlVGwIfxMKVF7bzx3Km4hwNPmFMCzEz49wuzcbpmYQmI1gLKmyMN2icyZqvQN4QcgJf5rbYinQCvPk25RJfRXaTZ248Lorb7UqhktusYZjuNoOFWpzdiGHJJ5OWyRP8gs4yptjMxuvmUALVVn5pz",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Medicon-c17557a5\\finanzberichte\\publication-1\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Medicon-c17557a5\\finanzberichte\\publication-1\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Medicon-c17557a5\\finanzberichte\\publication-1\\publication.txt",
+    "index": 1,
+    "category": "finanzberichte",
+    "company": "Medicon eG. Chirurgiemechaniker-Genossenschaft, Tuttlingen",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+    "documents_path": "output\\unternehmensregister\\Medicon-c17557a5\\finanzberichte\\publication-1\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=2CRHm_EYRBj_mzd9LGVRPpW7VqhMnUSL0wzX4Lsih-D4orWtMLeSYJsNEIZAf5abVJFL7eYRWV7AliIWLKeJrsxWhPsxElDdteXU3pg2o0NfvwGu5WhtqoSs4LY8vEP3RSc-eGFrWWtrsYl8EwMpnXkkwkX7qLxaX178bDV1-lAy-uytZOxhS3YTssILpX3950UNirGE4MrFmll6EQFAqsJPVKrcGwOCJES6tZQfheRI3KjT",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Medicon-c17557a5\\finanzberichte\\publication-2\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Medicon-c17557a5\\finanzberichte\\publication-2\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Medicon-c17557a5\\finanzberichte\\publication-2\\publication.txt",
+    "index": 2,
+    "category": "finanzberichte",
+    "company": "Medicon eG. Chirurgiemechaniker-Genossenschaft, Tuttlingen",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+    "documents_path": "output\\unternehmensregister\\Medicon-c17557a5\\finanzberichte\\publication-2\\documents.json"
+  }
+]

@@ -1,0 +1,2184 @@
+Scheidt & Bachmann GmbH — Jahres- und Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023
+Scheidt & Bachmann GmbH
+
+Mönchengladbach
+
+Jahres- und Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023
+
+KONZERNBILANZ zum 31. Dezember 2023
+
+Scheidt & Bachmann GmbH, Mönchengladbach
+
+AKTIVA
+
+scroll
+
+	31.12.2023	31.12.2022
+	€	€
+A. Anlagevermögen		
+I. Immaterielle Vermögensgegenstände		
+1. Entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Werte sowie Lizenzen an solchen Rechten und Werten	338.630,89	616.088,64
+2. Firmenwerte aus Kapitalkonsolidierung	1.971.428,80	0,00
+	2.310.059,69	616.088,64
+II. Sachanlagen		
+1. Grundstücke und Bauten	31.030.905,23	26.597.170,00
+2. Technische Anlagen und Maschinen	17.285.112,40	18.458.472,58
+3. Andere Anlagen, Betriebs- und Geschäftsausstattung	8.469.907,00	7.730.067,49
+4. Geleistete Anzahlungen und Anlagen im Bau	15.160.308,47	8.754.652,93
+	71.946.233,10	61.540.363,00
+III. Finanzanlagen		
+1. Beteiligungen an assoziierten Unternehmen	84.945,54	3.746.070,60
+2. Andere Beteiligungen	5.112,92	5.112,92
+3. Wertpapiere des Anlagevermögens	162.089,67	162.089,67
+4. Sonstige Ausleihungen	558.381,02	601.597,99
+	810.529,15	4.514.871,18
+	75.066.821,94	66.671.322,82
+B. Umlaufvermögen		
+I. Vorräte		
+1. Roh-, Hilfs- und Betriebsstoffe	43.118.984,45	36.744.382,25
+2. Unfertige Erzeugnisse, unfertige Leistungen	34.227.056,89	27.552.702,48
+3. Fertige Erzeugnisse und Waren	25.476.546,34	30.845.702,99
+4. Geleistete Anzahlungen	1.234.559,19	842.577,98
+	104.057.146,87	95.985.365,70
+II. Forderungen und sonstige Vermögensgegenstände		
+1. Forderungen aus Lieferungen und Leistungen	94.371.970,10	99.946.302,09
+2. Forderungen gegen assoziierte Unternehmen	442.695,08	1.302.898,74
+3. Sonstige Vermögensgegenstände	20.795.374,45	5.423.086,29
+	115.610.039,63	106.672.287,12
+III. Sonstige Wertpapiere	151.526,96	0,00
+IV. Kassenbestand und Guthaben bei Kreditinstituten	152.811.597,50	135.315.285,67
+	372.630.310,96	337.972.938,49
+C. Rechnungsabgrenzungsposten	5.584.700,66	4.032.058,64
+D. Aktive latente Steuern	8.381.074,65	7.570.591,04
+	461.662.908,21	416.246.910,99
+
+PASSIVA
+
+scroll
+
+	31.12.2023	31.12.2022
+	€	€
+A. Eigenkapital		
+I. Gezeichnetes Kapital	20.475.000,00	20.475.000,00
+II. Gewinnrücklagen	139.454.497,91	138.966.905,70
+III. Nicht beherrschende Anteile	823.701,80	44.856,66
+IV. Eigenkapitaldifferenzen aus Währungsumrechnung	826.054,10	838.976,03
+V. Konzerngewinn	57.885.789,32	39.267.334,73
+	219.465.043,13	199.593.073,12
+B. Rückstellungen		
+1. Rückstellungen für Pensionen und ähnliche Verpflichtungen	9.199.591,89	10.014.576,50
+2. Steuerrückstellungen	3.803.643,28	1.552.785,95
+3. Sonstige Rückstellungen	76.413.593,97	81.928.047,60
+	89.416.829,14	93.495.410,05
+C. Verbindlichkeiten		
+1. Verbindlichkeiten gegenüber Kreditinstituten	29.251.602,57	30.255.956,00
+2. Erhaltene Anzahlungen auf Bestellungen	76.460.744,30	71.093.774,21
+3. Verbindlichkeiten aus Lieferungen und Leistungen	17.396.207,30	15.313.310,60
+4. Verbindlichkeiten gegenüber assoziierten Unternehmen	235.111,27	153.688,16
+5. Sonstige Verbindlichkeiten	24.682.724,68	3.080.795,72
+	148.026.390,12	119.897.524,69
+D. Rechnungsabgrenzungsposten	4.754.645,82	3.260.903,13
+	461.662.908,21	416.246.910,99
+
+KONZERN-GEWINN- UND VERLUSTRECHNUNG vom 1. Januar 2023 bis 31. Dezember 2023
+
+Scheidt & Bachmann GmbH, Mönchengladbach
+
+scroll
+
+	2023	2022
+	€	€
+1. Umsatzerlöse	478.796.254,04	449.586.557,12
+2. Veränderung des Bestandes an fertigen und unfertigen Erzeugnissen	9.578.260,00	657.608,04
+3. Andere aktivierte Eigenleistungen	4.047.329,32	15.467.869,08
+4. Sonstige betriebliche Erträge	28.681.838,59	12.809.403,40
+5. Materialaufwand		
+a) Aufwendungen für Roh-, Hilfs- und Betriebsstoffe und für bezogene Waren	-85.064.487,76	-82.597.405,83
+b) Aufwendungen für bezogene Leistungen	-64.965.789,92	-73.502.826,35
+	371.073.404,27	322.421.205,46
+6. Personalaufwand		
+a) Löhne und Gehälter	-191.152.837,43	-174.001.850,26
+b) Soziale Abgaben und Aufwendungen für Altersvorsorge und für Unterstützung	-38.185.918,09	-34.441.302,04
+7. Abschreibungen auf immaterielle Vermögensgegenstände des Anlagevermögens und Sachanlagen	-11.245.869,38	-9.414.261,61
+8. Sonstige betriebliche Aufwendungen	-87.966.632,01	-73.332.760,22
+9. Ergebnis aus assoziierten Unternehmen	71.719,47	2.091.846,84
+10. Erträge aus anderen Wertpapieren und Ausleihungen des Finanzanlagevermögens	16.769,93	30.493,38
+11. Sonstige Zinsen und ähnliche Erträge	2.696.749,14	440.543,05
+12. Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufvermögens	-160.814,15	-38.251,32
+13. Zinsen und ähnliche Aufwendungen	-1.137.617,80	-1.486.131,45
+14. Steuern vom Einkommen und vom Ertrag	-16.722.067,45	-11.968.839,87
+15. Ergebnis nach Steuern	27.286.886,50	20.300.691,96
+16. Sonstige Steuern	-673.749,50	-912.419,45
+17. Konzernjahresüberschuss	26.613.137,00	19.388.272,51
+18. Auf nicht beherrschende Anteile entfallender Gewinn	-231.055,10	4.143,34
+19. Konzerngewinnvortrag	31.991.299,63	24.694.488,13
+20. Einstellungen in andere Gewinnrücklagen	-487.592,21	-4.819.569,25
+21. Konzerngewinn	57.885.789,32	39.267.334,73
+
+KONZERNANHANG für das Geschäftsjahr 2023
+
+Scheidt & Bachmann GmbH, Mönchengladbach
+
+Vorbemerkungen
+
+Die Konzernmutter wird beim Amtsgericht Mönchengladbach mit der Firma Scheidt & Bachmann GmbH unter der Handelsregisternummer HRB 2125 geführt. Der Firmensitz ist in der Breite Straße 132, 41238 Mönchengladbach.
+
+Der Konzernabschluss für das Geschäftsjahr 2023 wurde nach den Vorschriften in §§ 290 ff. HGB erstellt.
+
+Die Gewinn- und Verlustrechnung ist nach dem Gesamtkostenverfahren aufgestellt.
+
+Von der Möglichkeit, Berichtspflichten im Anhang anstatt in der Bilanz/Gewinn- und Verlustrechnung zu erfüllen, wurde Gebrauch gemacht. Insbesondere wurden sämtliche gesetzlich vorgesehenen „davon-Vermerke“ bei den Posten der Bilanz und Gewinn- und Verlustrechnung in den Anhang übernommen.
+
+Konsolidierungskreis
+
+In den Konzernabschluss sind neben der Scheidt & Bachmann GmbH 14 inländische und 23 ausländische Tochterunternehmen (davon zwei at Equity konsolidiert) einbezogen.
+
+Die nachstehenden Tochterunternehmen sind im Wege der Vollkonsolidierung einbezogen (in alphabetischer Reihenfolge):
+
+scroll
+
+Name	Anteil am Kapital
+	%
+AVISTA Sp.z.o.o. Warschau/Polen	100,00
+Gesellschaft für Apparate mechanischer Art GAMA mbH, Mönchengladbach *	100,00
+EVOPARK GmbH, Köln *	100,00
+IoT Business Solutions GmbH, Aachen	51,00
+MCity GmbH, Mönchengladbach *	100,00
+Scheidt & Bachmann BV, Mechelen/Belgien	100,00
+Scheidt & Bachmann (Canada) Inc., Kitchener, Ontario/Kanada	100,00
+Scheidt & Bachmann Fare Collection Systems GmbH, Mönchengladbach *	100,00
+Scheidt & Bachmann FCS Italia Srl., Bruneck/Italien	100,00
+Scheidt & Bachmann France SAS, Montmagny/Frankreich	100,00
+Scheidt & Bachmann Fuel Retail Solutions GmbH, Mönchengladbach *	100,00
+Scheidt & Bachmann Iberica S.L.U., Alcobendas/Spanien	100,00
+Scheidt & Bachmann IoT Solutions GmbH, Aachen *	100,00
+Scheidt & Bachmann (Ireland) Limited, Dublin/Irland	100,00
+Scheidt & Bachmann (Israel) GmbH, Ramat-Hasharon/Israel	100,00
+Scheidt & Bachmann Maghreb S.A.R.L., Tunis/Tunesien	100,00
+Scheidt & Bachmann Nederland B.V., Utrecht/Niederlande	100,00
+Scheidt & Bachmann Österreich GmbH, Linz/Österreich	100,00
+Scheidt & Bachmann Parkeersystemen B.V., Zoetermeer/Niederlande	100,00
+Scheidt & Bachmann Parking Solutions GmbH, Mönchengladbach *	100,00
+Scheidt & Bachmann Parking Solutions Germany GmbH, Mönchengladbach *	100,00
+Scheidt & Bachmann Parking Solutions Österreich GmbH, Wien/Österreich	100,00
+Scheidt & Bachmann Polska Spolka z.o.o., Poznan/Polen	100,00
+Scheidt & Bachmann Rus GmbH, Moskau/Russland	100,00
+Scheidt & Bachmann (Schweiz) GmbH, Bern/Schweiz	100,00
+Scheidt & Bachmann Service GmbH, Mönchengladbach *	100,00
+Scheidt & Bachmann Slovensko s.r.o., Zilina/Slowakei	100,00
+Scheidt & Bachmann Signalling Systems GmbH, Mönchengladbach *	100,00
+Scheidt & Bachmann System Technik GmbH, Melsdorf *	100,00
+Scheidt & Bachmann Sverige AB, Malmö/Schweden	100,00
+Scheidt & Bachmann System Service GmbH, Mönchengladbach *	100,00
+Scheidt & Bachmann (UK) Limited, Kent/Großbritannien	100,00
+Scheidt & Bachmann Ukraine GmbH, Kiew/Ukraine	100,00
+Scheidt & Bachmann USA Inc., Lowell/Massachusetts/USA	100,00
+SCHENK Systeme AG, Küssnacht/Schweiz	75,43
+
+An der SCHENK Systeme AG bestand bereits eine Beteiligung in Höhe von 45,20 %, so dass die Gesellschaft in den Vorjahren nach der at Equity-Methode einbezogen wurde. Im Geschäftsjahr wurde die Beteiligung auf 75,43 % aufgestockt, so dass die Gesellschaft in 2023 erstmalig im Wege der Vollkonsolidierung in den Konzernabschluss einbezogen wurde.
+
+Folgende Unternehmen wurden nach der at Equity-Methode einbezogen:
+
+scroll
+
+Name	Anteil am Kapital
+	%
+Entervo-Access GmbH, Willich	45,00
+Parktech Oy, Helsinki/Finnland	50,00
+
+Auf die Einbeziehung der S&B U-Kasse wurde gemäß § 296 Abs. 2 HGB verzichtet.
+
+Die mit * gekennzeichneten inländischen Tochtergesellschaften nehmen die sich aus § 264 Abs. 3 HGB ergebenden Erleichterungsmöglichkeiten in Anspruch und veröffentlichen ihren Jahresabschluss nicht, da sie in den Konzernabschluss einbezogen werden.
+
+Konsolidierungsgrundsätze
+
+In der Konzernbilanz erfolgte die Konsolidierung durch Zusammenfassung der in den Einzelbilanzen ausgewiesenen Vermögens- und Schuldposten.
+
+Die Buchwerte für die Beteiligungen werden mit dem entsprechenden anteiligen Eigenkapital der Tochtergesellschaften zum jeweiligen Erwerbszeitpunkt verrechnet; bei Sukzessiverwerb zum Zeitpunkt des jeweils letzten Anteilserwerbs.
+
+Konzerninterne Umsätze, Aufwendungen und Erträge sowie alle Forderungen und Verbindlichkeiten zwischen den konsolidierten Gesellschaften haben wir gegeneinander verrechnet. Zwischenergebnisse wurden eliminiert.
+
+Bilanzierungs- und Bewertungsgrundsätze
+
+Die nachstehend beschriebenen Bilanzierungs- und Bewertungsgrundsätze sind gegenüber dem Vorjahr unverändert.
+
+Entgeltlich erworbene immaterielle Vermögensgegenstände sind mit den Anschaffungskosten ausgewiesen und werden ihrer voraussichtlichen Nutzungsdauer entsprechend linear abgeschrieben.
+
+Sachanlagen sind zu Anschaffungs- oder Herstellungskosten, teilweise vermindert um in Vorjahren gewährte Investitionszuschüsse, angesetzt sowie um planmäßige Abschreibungen nach der betriebsgewöhnlichen Nutzungsdauer vermindert. Bei den planmäßigen Abschreibungen wurde je nach Abnutzungsart sowohl die lineare als auch die degressive Methode angewandt.
+
+Die Finanzanlagen werden zu den Anschaffungskosten oder dem niedrigeren beizulegenden Wert bilanziert.
+
+Die Bewertung der Vorräte erfolgte bei den Roh-, Hilfs- und Betriebsstoffen auf der Basis der Einstandspreise. Die unfertigen und fertigen Erzeugnisse und Leistungen wurden von Ausnahmen abgesehen zu Herstellungskosten bewertet. Der Grad der Verwertbarkeit wurde ebenso berücksichtigt wie der Umstand, dass in Einzelfällen niedrigere erzielbare Verkaufserlöse als Basis für die Bewertung anzusetzen waren.
+
+Bei der Bewertung von Lagerbeständen, die der EDV-mäßigen Verwaltung unterliegen, wird die gemäß § 6 Abs. 1 Nr. 2a EStG auch steuerlich zulässige Verbrauchsfolgefiktion des „last in - first out“ angewandt. Das Niederstwertprinzip (verlustfreie Bewertung) wurde beachtet.
+
+Die geleisteten Anzahlungen sind mit dem Nennwert angesetzt.
+
+Die Forderungen und sonstigen Vermögensgegenstände sowie die liquiden Mittel sind mit dem Nominalwert, die Wertpapiere des Umlaufvermögens sind zu Anschaffungskosten oder den niedrigeren Kurswerten aktiviert. Die Wertberichtigungen zu Lieferungsforderungen werden aktivisch abgesetzt.
+
+Die Rechnungsabgrenzungsposten sind zum Nominalwert angesetzt.
+
+Aktive und passive latente Steuern werden gemäß § 306 HGB i.V. m. § 274 HGB für sämtliche temporäre Differenzen zwischen den steuerlichen und handelsrechtlichen Wertansätzen, für ergebniswirksame Konsolidierungsmaßnahmen sowie steuerliche Verlustvorträge gebildet. Soweit die Voraussetzungen erfüllt sind, erfolgt eine Saldierung aktiver und passiver Differenzen.
+
+Die Rückstellungen für Pensionen und ähnliche Verpflichtungen betreffen Pensionsverpflichtungen gegen- über Mitarbeitern und Geschäftsführern (Anwartschaften und laufende Renten) sowie mittelbare Verpflichtungen aus Versorgungszusagen der Unterstützungseinrichtung. Den Rückstellungen liegen versicherungsmathematische Gutachten zugrunde. Der Ausweis der Pensionsverpflichtungen erfolgt unter Anwendung der Richttafeln 2018 von Dr. Klaus Heubeck zu nach der projected-unit-credit-method bewerteten Anwartschaftsbarwerten. Der gemäß Rückstellungsabzinsungsverordnung (RückAbzinsV) zugrunde gelegte Zinssatz beträgt 1,82 (Vorjahr: 1,78) entsprechend § 253 Abs. 2 HGB wurde hierbei der durchschnittliche Marktzins zugrunde gelegt, der sich auf der Basis der letzten 10 Geschäftsjahre ermittelt. Bei der Bewertung sind darüber hinaus Steigerungen im Gehalts- (5,0 %) und Rententrend (1,0 %, 1,7 % und 2,0 %) berücksichtigt worden.
+
+Für die mittelbaren Verpflichtungen aus Zusagen der Unterstützungseinrichtung wurde der Unterschied zwischen dem versicherungsmathematischen Sollwert der Verpflichtung (Zinsfuß 1,82 %; Berücksichtigung der Steigerungen im Rententrend von 2,0 %) und dem Vermögen der Unterstützungseinrichtung zurückgestellt.
+
+Die Steuerrückstellungen und sonstigen Rückstellungen werden in Höhe des voraussichtlichen Erfüllungsbetrags ausgewiesen. Sämtlichen erkennbaren Risiken wurde Rechnung getragen.
+
+Langfristige Rückstellungen wurden mit den sich aus der RückAbzinV ergebenden maßgeblichen Zinssätzen (Durchschnitt über 7 Jahre) abgezinst. Zukünftige Kosten- und Preissteigerungen werden berücksichtigt.
+
+Die Verbindlichkeiten sind mit dem Erfüllungsbetrag passiviert.
+
+Währungsumrechnung
+
+Im Konzern sind die Forderungen und Verbindlichkeiten in fremder Währung zum Tages-Geld (-Brief) -Kurs eingebucht unter Berücksichtigung des ggf. niedrigeren (höheren) Stichtagskurses zum 31. Dezember bei der Bewertung von Gegenständen des Umlaufvermögens und Schulden.
+
+Die Bilanzen der ausländischen Beteiligungsgesellschaften wurden bezüglich des Anlagevermögens mit dem historischen Kurs und hinsichtlich der übrigen Vermögenswerte und Schulden mit dem Stichtagskurs umgerechnet. Die Kapitalkonsolidierung erfolgte mit dem historischen Kurs. Die Zu- und Abgänge sowie Abschreibungen beim Anlagevermögen wurden zum Durchschnittskurs umgerechnet. Dies gilt ebenso für die Posten der Gewinn- und Verlustrechnungen. Für die Umrechnung werden die Kurse gemäß Veröffentlichung der Deutsche Bundesbank herangezogen.
+
+Erläuterungen zur Konzernbilanz
+
+Die Entwicklung der immateriellen Vermögensgegenstände sowie der Sachanlagen und der Finanzanlagen im Geschäftsjahr 2023 ist aus dem auf Seite 15 beigefügten Konzern-Anlagenspiegel ersichtlich.
+
+Zu den innerhalb der Finanzanlagen ausgewiesenen Unterschiedsbeträgen aus der Erstkonsolidierung geben wir folgende Erläuterungen:
+
+An der Schenk Systeme AG wurde im Dezember 2009 eine Beteiligung in Höhe von 26,1 % erworben, die im April 2014 auf 45,2 % aufgestockt wurde. Die Beteiligung wurde at equity im Konzernabschluss berücksichtigt. Zum 31. Dezember 2022 belief sich der fortgeschriebenen Beteiligungsbuchwert auf T€ 3.968.
+
+Im März 2023 erfolgte der Erwerb weiterer Anteile, so dass nunmehr 75,43 % am Stammkapital der Beteiligungsgesellschaft gehalten werden. Die Beteiligung war somit erstmalig im Wege der Vollkonsolidierung im Konzernabschluss einzubeziehen.
+
+Die Anschaffungskosten für die Beteiligung setzen sich aus dem bisherigen at Equity-Ansatz und dem zusätzlichen Kaufpreis für den Erwerb der Mehrheitsbeteiligung zusammen. Aus der Erstkonsolidierung resultiert ein Firmenwert in Höhe von T€ 2.464, der linear über 5 Jahre abgeschrieben wird, somit jährlich mit T€ 493. Die voraussichtliche Nutzungsdauer orientiert sich hierbei an den erworbenen langfristigen Marktchancen.
+
+Die Scheidt & Bachmann Oy in Finnland wurde mit Wirkung zum 31. Oktober 2014 auf die Suomen Pysäköintipalvelu Oy (jetzt: Parktech Oy) verschmolzen. Aus dieser Transaktion ist ein aktiver Unterschiedsbetrag von T€ 58 entstanden, für den eine Nutzungsdauer von 5 Jahren angenommen wurde. Der Firmenwert ist inzwischen abgeschrieben.
+
+Der fortgeschriebene Beteiligungsbuchwert beträgt zum Stichtag T€ 85.
+
+Die entervo-access GmbH wurde am 29. April 2019 mit einem Stammkapital von T€ 200 gegründet; hiervon hält Scheidt & Bachmann GmbH 45 %. Der fortgeschriebene Beteiligungsbuchwert beträgt zum Stichtag T€ -235.
+
+Die Forderungen aus Lieferungen und Leistungen haben eine Restlaufzeit von unter einem Jahr.
+
+In den übrigen Forderungen sind Forderungen mit einer Restlaufzeit von über einem Jahr in Höhe von T€ 3.812 (Vorjahr: T€ 4.230) enthalten.
+
+Die Rechnungsabgrenzungsposten enthalten keine Damnumbeträge. Steuerabgrenzungen nach § 306 HGB sind in Höhe von T€ 6.126 (Vorjahr: T€ 6.037) gebildet worden.
+
+Die aktiven latenten Steuern entfallen auf folgende wesentliche Bilanzposten und Verlustvorträge:
+
+scroll
+
+	2023	2023	2022	2022
+	Aktive Latente Steuern	Passive Latente Steuern	Aktive Latente Steuern	Passive Latente Steuern
+	T€	T€	T€	T€
+Anlagevermögen	2.676	323	2.009	265
+Umlaufvermögen	9.371	13.111	5.540	12.892
+Pensionsrückstellungen	10.408	0	10.883	0
+Sonstige Rückstellungen	13.482	177	13.956	247
+	35.937	13.611	32.388	13.404
+Verlustvorträge				
+Tochtergesellschaften	3.071	0	3.957	0
+	39.008	13.611	36.345	13.404
+Saldierung	-13.611	-13.611	-13.404	-13.404
+Gesamt	25.397	0	22.941	0
+
+Von der Saldierungsmöglichkeit von aktiven und passiven Latenzen wurde Gebrauch gemacht.
+
+Auf bestehende Verlustvorträge der Tochtergesellschaften sind Wertberichtigungen in Höhe von T€ 6.390 vorgenommen worden.
+
+Der anzuwendende durchschnittliche Steuersatz für die laufende Besteuerung sowie die Ermittlung auf die Steuerlatenzen setzt sich wie folgt zusammen:
+
+scroll
+
+	2023	2022
+Gewerbesteuer	17,15%	17,15%
+Körperschaftsteuer	15,00%	15,00%
+Solidaritätszuschlag	0,83%	0,83%
+	32,98%	32,98%
+
+Das gezeichnete Kapital beträgt unverändert T€ 20.475.
+
+Unter den Gewinnrücklagen sind ausschließlich „Andere Gewinnrücklagen“ ausgewiesen. Die Veränderungen resultieren aus Rücklagendotierungen von Tochtergesellschaften sowie von Konsolidierungsbuchungen. Der für Ausschüttungen zur Verfügung stehende Bilanzgewinn beträgt gemäß Einzelabschluss der Muttergesellschaft T€ 42.481.
+
+Im Übrigen wird auf den Konzern-Eigenkapitalspiegel in Anlage 5 verwiesen.
+
+Rückstellungen für Pensionen und ähnliche Verpflichtungen enthalten T€ 4.361 (Vorjahr: T€ 4.227) noch bestehende mittelbare Verpflichtungen aus Unterstützungskassenzusagen.
+
+Der ausschüttungsgesperrte Betrag gemäß § 253 Abs. 6 HGB beträgt zum Stichtag T€ 57 (Vorjahr: T€ 280).
+
+Im Rahmen des Verrechnungsgebots nach § 246 Abs. 2 HGB wurden bestehende Verpflichtungen aus Versorgungszusagen und Rückstellungen für Altersteilzeitverpflichtungen mit Deckungsvermögen sowie entsprechende Aufwendungen und Erträge wie folgt verrechnet:
+
+scroll
+
+	Beizulegender Wert *	verrechnete Aufwendungen (-) und Erträge (+)
+	T€	T€
+Pensionsrückstellungen		
+a) Direkte Zusagen	14.165	-722
+Verpfändete Rückdeckungsversicherungen	-9.326	334
+	4.839	-388
+b) Mittelbare Zusagen	4.361	370
+	9.200	-18
+
+* Die beizulegenden Werte entsprechen den Anschaffungswerten.
+
+Die „Sonstigen Rückstellungen“ beinhalten im Wesentlichen Verpflichtungen aus Gewährleistungen, aus dem Personalkostenbereich sowie dem Bereich des Lieferverkehrs.
+
+In Höhe von T€ 6.057 haben die sonstigen Rückstellungen eine Laufzeit von mehr als einem Jahr und wurden mit dem laufzeitäquivalenten Zinssatz gemäß RückAbzinsV abgezinst.
+
+Innerhalb der sonstigen Rückstellungen wurden Verpflichtungen aus Altersteilzeitverträgen in Höhe von T€ 1.042 mit dem entsprechenden Deckungsvermögen von T€ 617 saldiert ausgewiesen.
+
+Die Zusammensetzung der Verbindlichkeiten, deren Restlaufzeiten sowie die weiteren gesetzlich geforderten Angaben gehen aus dem Konzern-Verbindlichkeitenspiegel auf Seite 16 hervor.
+
+Erläuterungen zur Gewinn- und Verlustrechnung
+
+Von den Außenumsatzerlösen in Höhe von 478,8 Mio. € (Vorjahr: 449,6 Mio. €) wurden 60,8 % (Vorjahr: 57,7%) im Ausland erzielt. Der Auslandsanteil entfiel wiederum mit 60,5 % (Vorjahr: 59,8 %) auf die EURO-Länder inklusive sonstiges Westeuropa, zu 5,7 % (Vorjahr: 6,5 %) auf Osteuropa, 30,2 % (Vorjahr: 28,7 %) auf USA und Nordamerika, 0,2 % (Vorjahr: 0,4 %) auf Asien, 2,7 % (Vorjahr: 3,2 %) auf Israel und Afrika, 0,6 % (Vorjahr: 1,1 %) auf Australien/Neuseeland sowie mit 0,1 % (Vorjahr: 0,3 %) auf Südamerika.
+
+Gegliedert nach Tätigkeitsbereichen entfallen 51,5 % (Vorjahr: 53,7 %) der Außenumsatzerlöse auf das Neuanlagengeschäft sowie 48,5 % (Vorjahr: 46,3 %) auf das After-Sales-Geschäft.
+
+Die sonstigen betrieblichen Erträge umfassen im Wesentlichen Erträge aus der Auflösung von Rückstellungen und aus Währungsumrechnungen. Die Erträge aus der Umrechnung von Fremdwährungen belaufen sich auf T€ 4.950 (Vorjahr: T€ 5.452).
+
+Innerhalb der Personalaufwendungen sind Aufwendungen für Altersversorgung in Höhe von T€-680 (Vorjahr: T€ -231) enthalten.
+
+Innerhalb der Personalaufwendungen wurden wie im Vorjahr keine Erträge aus dem Deckungsvermögen für die Altersteilzeitverpflichtungen saldiert.
+
+Die sonstigen betrieblichen Aufwendungen enthalten auch Verluste aus Anlageabgängen sowie Wertverluste von Gegenständen des Umlaufvermögens (im Wesentlichen aus der Erhöhung von Wertberichtigungen zu Forderungen und Kursverlusten). Die Aufwendungen aus der Umrechnung von Fremdwährungen betragen T€ 6.153 (Vorjahr: T€ 3.569).
+
+Das innerhalb der sonstigen betrieblichen Aufwendungen erfasste Gesamthonorar des Abschlussprüfers für alle von ihm geprüften Gruppenunternehmen setzt sich wie folgt zusammen:
+
+scroll
+
+	2023	2022
+	T€	T€
+Abschlussprüferleistungen	274	236
+Sonstige Bestätigungsleistungen	3	25
+Steuerberatungsleistungen	82	75
+Sonstige Leistungen	27	58
+	386	394
+
+Das für 2023 erfolgswirksam verbuchte anteilige Ergebnis der assoziierten Unternehmen betrug T€ 72.
+
+Die Abschreibungen auf Finanzanlagen und Wertpapiere des Umlaufvermögens betreffen ausschließlich Finanzanlagen.
+
+In den Zinsen und ähnlichen Aufwendungen sind Zinsen aus der Aufzinsung von Rückstellungen in Höhe von T€ 476 (Vorjahr: T€ 398) enthalten.
+
+Die Steuern vom Einkommen und vom Ertrag erfassen sowohl die unmittelbar zu entrichtenden Steuern vom Einkommen und Ertrag als auch die latenten Steuern. Aktive und passive latente Steuern werden für temporäre Differenzen zwischen Wertansätzen in der Konzernbilanz und Steuerbilanz sowie für steuerliche Verlustvorträge angesetzt.
+
+Nach Steueraufwendungen ergibt sich folgende Aufteilung:
+
+scroll
+
+	2023	2022
+	T€	T€
+Tatsächliche Steueraufwendungen lfd. Jahr	15.792	10.566
+Periodenfremde Steuererträge (-) und Aufwendungen (+)	841	742
+Latente Steuererträge (-) und Aufwendungen (+) lfd. Jahr	89	661
+Gesamt	16.722	11.969
+
+Nachfolgend wird die Überleitung vom erwarteten Ertragssteueraufwand auf den in der Konzern-Gewinn- und Verlustrechnung ausgewiesenen Ertragssteueraufwand dargestellt.
+
+Die Berechnung des erwarteten Ertragsteueraufwands basiert auf der Anwendung des deutschen Gesamtsteuersatzes (Körperschaftsteuer zzgl. Solidaritätszuschlag und Gewerbesteuer) von 32,95 % (Vorjahr: 32,95 %), da dieser Steuersatz für das Konzernergebnis von wesentlicher Bedeutung ist.
+
+scroll
+
+	2023	2022
+	T€	T€
+Erwarteter Ertragsteueraufwand	14.301	10.348
+Erhöhung/Verminderung Ertragsteuern durch nicht abzugsfähige Betriebsausgaben	99	169
+Steuern Vorjahre	841	742
+Steuersatzunterschiede Ausland	-256	-1.516
+Verlustvorträge Tochtergesellschaften	1.013	907
+Sonstiges	635	658
+	16.633	11.308
+Veränderung latenter Steueransprüche	89	661
+Ausgewiesener Steueraufwand	16.722	11.969
+
+Sonstige Angaben
+
+Die Konzernkapitalflussrechnung gemäß Anlage 4 wurde in Übereinstimmung mit DRS 21 erstellt, wobei der Finanzmittelfonds ausschließlich liquide Mittel ersten Grades umfasst (Bilanzposten: Kassenbestand und Guthaben bei Kreditinstituten).
+
+Haftungsverhältnisse und finanzielle Verpflichtungen
+
+Finanzielle Verpflichtungen aus Miet- und Leasingverträgen bestanden am 31. Dezember 2023 in folgendem nicht abgezinsten Umfang:
+
+scroll
+
+	fällig in	fällig in	
+	2024	Folgejahren	Gesamt
+	T€	T€	T€
+Leasingverträge	3.318	4.541	7.859
+Mietverträge	7.003	23.397	30.400
+	10.321	27.938	38.259
+
+Die Laufzeiten der Miet- und Leasingverträge reichen bis ins Jahr 2038.
+
+Neben den dargestellten Haftungsverhältnissen und den sonstigen finanziellen Verpflichtungen bestehen keine außerbilanziellen Geschäfte, die für die Finanzlage der Gesellschaft von Bedeutung wären.
+
+Währungssicherungsgeschäfte
+
+Zur Absicherung von auf Fremdwährungen lautende Zahlungsströme im Bereich der Forderungen bzw. Verbindlichkeiten aus Lieferungen und Leistungen bestanden zum Stichtag diverse Sicherungsgeschäfte.
+
+scroll
+
+	Währung	Gesamtvolumen in Landeswährung	Kurs	Laufzeit
+Devisentermingeschäfte Optionsgeschäfte	CHF	3.000.000,00	0,9584-0,9750	12.2024-06.2025
+- Put-Optionen	CHF	6.000.000,00	1,0300-1,1000	03.2024-12.2025
+- Call-Optionen	CHF	6.000.000,00	0,8475-0,9635	03.2024-12.2025
+Devisentermingeschäfte Optionsgeschäfte	CAD	20.000.000,00	1,4698-1,5086	09.2024-12.2025
+- Put-Optionen	CAD	24.000.000,00	1,5500-1,6000	03.2024-06.2025
+- Call-Optionen	CAD	24.000.000,00	1,3995-1,4250	03.2024-06.2025
+Devisentermingeschäfte Optionsgeschäfte	GBP	13.500.000,00	0,8853-0,9031	03.2024-12.2025
+- Put-Optionen	GBP	22.500.000,00	0,9500	03.2024-12.2025
+- Call-Optionen	GBP	22.500.000,00	0,825-0,8810	03.2024-12.2025
+
+Die in den sonstigen Vermögensgegenständen erfassten Optionsprämien von T€ 1.008 haben zum Stichtag einen Marktwert von T€ -748. Der Marktwert für die in den sonstigen Verbindlichkeiten erfassten Optionsprämien von T€ 1.008 beläuft sich auf T€ 249.
+
+Organe und Mitarbeiter
+
+Die Geschäftsführung obliegt
+
+scroll
+
+Dr. Ing. Norbert Miller, Mönchengladbach	Vorsitzender
+Martin Kammler, Mönchengladbach	
+Dipl.-Oec. Uwe Brünner, Mönchengladbach	
+Dipl.-Ing. Jörg Heilingbrunner, Düsseldorf	
+Dr. Ing. Michael Lenders, Schwalmtal	
+Andreas Räschmeier, Buch am Buchrain	
+
+Der Aufsichtsrat setzte sich im Geschäftsjahr 2023 aus folgenden Herren zusammen:
+
+Vertreter der Anteilseigner:
+
+scroll
+
+Andreas Schmitz, Düsseldorf	Vorsitzender
+(Wahrnehmung von Aufsichtsratsmandaten)	
+Dr. Jürgen Vutz, Greven	stellvertretender Vorsitzender
+(Unternehmer und selbständiger Berater)	
+Frank Elsenbruch, Mönchengladbach	
+(selbständiger Kaufmann)	
+Jörg Miller, Viersen	
+(Geschäftsführer)	
+
+Arbeitnehmervertreter:
+
+Marcus Leyendeckers, Mönchengladbach
+
+(technischer Angestellter)
+
+Stefan Herten, Jüchen
+
+(technischer Angestellter)
+
+Die Vertreter der Anteilseigner wurden durch die Gesellschafterversammlung vom 24. Juni 2022 gewählt. Die Berufung der Arbeitnehmervertreter erfolgte durch Belegschaftswahl am 1. Juni 2022.
+
+Die Vergütung der Geschäftsführer erfolgt nach einem einheitlichen Regelungsprinzip. Da deshalb die Vergütung eines einzelnen Geschäftsführers abgeleitet werden könnte, wird von der Befreiungsvorschrift des § 286 Abs. 4 HGB Gebrauch gemacht.
+
+Der Aufsichtsrat erhielt für seine Tätigkeit Bezüge von insgesamt T€ 160 (Vorjahr: T€ 160).
+
+Frühere Mitglieder der bezeichneten Organe und ihre Hinterbliebenen (derzeit sechs Berechtigte) bezogen im Geschäftsjahr insgesamt T€ 607 (Vorjahr: T€ 648).
+
+Der Betrag der zum 31. Dezember 2023 für frühere Organmitglieder gebildeten Pensionsrückstellungen umfasst T€ 6.014 (Vorjahr: T€ 6.202). Nicht bilanzierte Verpflichtungen bestehen darüber hinaus nicht.
+
+Die durchschnittliche Beschäftigtenzahl (ohne Geschäftsführer Muttergesellschaft) betrug:
+
+scroll
+
+	2023	2022
+Arbeitnehmer gesamt	3.291	3.165
+Davon:		
+Systembereiche	2.291	2.203
+Produktion	740	721
+Querschnitt Technik / Kaufmännisch	260	241
+
+Anteilsbesitz
+
+Für die Angaben gemäß § 285 Nr. 11 HGB wird zulässigerweise die Schutzklausel gemäß § 286 Abs. 3 Nr. 2 HGB in Anspruch genommen.
+
+Für die inländischen Tochtergesellschaften werden die Offenlegungserleichterungen gemäß § 264 Abs. 3 HGB in Anspruch genommen. Die Offenlegung der Beschlüsse ist im Unternehmensregister erfolgt.
+
+Nachtragsbericht
+
+Arbitration Prozess BKK (Budapest)
+
+In 2014 hat Scheidt & Bachmann von der BKK im Rahmen einer öffentlichen Ausschreibung einen Vertrag über die Entwicklung, Fertigung, Installation sowie 5 Jahre Service und Operation eines vollständigen Fahrgeldmanagementsystems (Smart-Card basierten geschlossenen AFC-Systems) für den Großraum Budapest zugesprochen bekommen. Das Vertragsvolumen bei Abschluss lag bei ca. 44,4 Mio. € für die Lieferphase und ca. 46,9 Mio. € für den Operation & Maintenance-Vertrag.
+
+Bereits in den ersten Monaten nach Projektbeginn hat sich herausgestellt, dass es zusätzliche Projektanforderungen gibt (außerhalb des Vertrages), deren vertragliche Umsetzungen sich negativ auf die ersten Projektphasen ausgewirkt haben.
+
+Diese für beide Parteien unbefriedigende Situation hat die BKK zum Anlass genommen, den Vertrag im November 2018 zu kündigen und im September 2021 Klage einzureichen. Aufgrund der vertraglichen Regelungen wurden diese Klagen im Rahmen einer Arbitration durchgeführt (die Richter wurden von den beiden Parteien bestimmt).
+
+Am 23. Januar 2024 hat das Tribunal die Parteien nach Budapest eingeladen und ihnen ihre Einschätzungen der Sachlage mündlich vorgetragen. Auf Basis dieser Einschätzungen haben die Parteien sich zusammengesetzt und einen Vergleich geschlossen.
+
+Der International Court of Arbitration hat diesen Vergleich am 1. März 2024 genehmigt und Scheidt & Bachmann GmbH am 6. März 2024 den vereinbarten Vergleichsbetrag in Höhe von 5,95 Mio. € an die BKK überwiesen. Damit sind alle gegenseitigen Ansprüche abgegolten
+
+Im April 2024 hat die S&B PS GmbH ihren 45 % Anteil an der entervo-access GmbH an den Partner HKS Systeme GmbH verkauft. Der Verkauf ist rückwirkend auf den 1. Januar 2024 vereinbart worden. Im Rahmen eines Kooperationsvertrages werden die PS GmbH und die Scheidt & Bachmann Parking Solutions Germany GmbH weiterhin Leistungen für die HKS erbringen.
+
+Darüber hinaus sind nach Buchungsschluss und Erstellung des Jahresabschlusses keine Vorgänge eingetreten, die die Ertrags-, Finanz- oder Vermögenslage der Gesellschaft maßgeblich beeinflusst haben.
+
+KONZERN-ANLAGENSPIEGEL zum 31. Dezember 2023
+
+Scheidt & Bachmann GmbH, Mönchengladbach
+
+scroll
+
+	Anschaffungs-/Herstellungskosten	Anschaffungs-/Herstellungskosten	Anschaffungs-/Herstellungskosten	Anschaffungs-/Herstellungskosten
+	Stand 31.12.2022	Veränd. Konsolidierungkr.	Währungsdifferenzen	Zugänge
+	€	€	€	€
+I. Immaterielle Vermögensgegenstände				
+1. Entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Werte sowie Lizenzen an an solchen Rechten und Werten	12.489.515,86	2,16	4.232,93	0,00
+2. Firmenwerte aus Kapitalkonsolidierung	12.275.005,15	0,00	0,00	2.464.286,00
+	24.764.521,01	2,16	4.232,93	2.464.286,00
+II. Sachanlagen				
+1. Grundstücke und Bauten	48.277.665,11	0,00	3.488,30	5.255.191,65
+2. Technische Anlagen und Maschinen	47.812.372,81	1,08	144.395,64	2.573.259,48
+3. Andere Anlagen, Betriebs- und Geschäftsausstattung	43.067.757,69	286.070,08	-104.470,78	4.517.676,39
+4. Geleistete Anzahlungen und Anlagen im Bau	8.758.251,00	0.00	-230,61	8.844.386,03
+	147.916.046,61	286.070,08	43.182,55	21.190.513,55
+III. Finanzanlagen				
+1. Beteiligungen an assoziierten Unternehmen	1.932.995,86	0,00	0,00	0,00
+2. Andere Beteiligungen	5.112,92	0,00	0,00	0,00
+3. Wertpapiere des Anlagevermögens	162.089,67	0,00	0,00	0,00
+4. Sonstige Ausleihungen	619.923,02	0,00	-1.095,06	172.840,47
+	2.720.121,47	0,00	-1.095,06	172.840,47
+	175.400.689.09	286.072,24	46.320.42	23.827.640,02
+
+scroll
+
+	Anschaffungs-/Herstellungskosten	Anschaffungs-/Herstellungskosten	Anschaffungs-/Herstellungskosten
+	Abgänge	Umbuchungen	Stand 31.12.2023
+	€	€	€
+I. Immaterielle Vermögensgegenstände			
+1. Entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Werte sowie Lizenzen an an solchen Rechten und Werten	1.383.331,52	0,00	11.110.419,43
+2. Firmenwerte aus Kapitalkonsolidierung	0,00	0,00	14.739.291,15
+	1.383.331,52	0,00	25.849.710,58
+II. Sachanlagen			
+1. Grundstücke und Bauten	203.950,26	671.002,35	54.003.397,15
+2. Technische Anlagen und Maschinen	512.338,89	1.341.747,72	51.359.437,84
+3. Andere Anlagen, Betriebs- und Geschäftsausstattung	1.282.765,83	417.717,37	46.901.984,92
+4. Geleistete Anzahlungen und Anlagen im Bau	7.885,63	-2.430.467,44	15.164.053,35
+	2.006.940,61	0,00	167.428.873,26
+III. Finanzanlagen			
+1. Beteiligungen an assoziierten Unternehmen	1.864.043,86	0,00	68.952,00
+2. Andere Beteiligungen	0,00	0,00	5.112,92
+3. Wertpapiere des Anlagevermögens	0,00	0,00	162.089,67
+4. Sonstige Ausleihungen	215.628,52	0,00	576.039.91
+	2.079.672,38	0,00	812.194,50
+	5.469.944,51	0,00	194.090.778.34
+
+scroll
+
+	kumulierte Abschreibungen	kumulierte Abschreibungen	kumulierte Abschreibungen	kumulierte Abschreibungen
+	Stand 31.12.2022	Währungsdifferenzen	Zugänge	Abgänge
+	€	€	€	€
+I. Immaterielle Vermögensgegenstände				
+1. Entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Werte sowie Lizenzen an an solchen Rechten und Werten	11.873.427,22	4.443,55	175.530,32	1.281.612,55
+2. Firmenwerte aus Kapitalkonsolidierung	12.275.005,15	0.00	492.857,20	0,00
+	24.148.432,37	4.443,55	668.387,52	1.281.612,55
+II. Sachanlagen				
+1. Grundstücke und Bauten	21.680.495,11	5.593,45	1.274.219,15	-12.184,21
+2. Technische Anlagen und Maschinen	29.353.900,23	111.189,45	5.104.539,15	495.303,39
+3. Andere Anlagen, Betriebs- und Geschäftsausstattung	35.337.690,20	-78.325,47	4.198.325,23	1.037.468,50
+4. Geleistete Anzahlungen und Anlagen im Bau	3.5.98,07	-251,52	398,33	0,00
+	86.375.683,61	38.205,91	10.577.481,86	1.520.587,68
+III. Finanzanlagen				
+1. Beteiligungen an assoziierten Unternehmen	-1.813.074,74	0,00	153.791,58	-1.715.009,09
+2. Andere Beteiligungen	0,00	0,00	0,00	0,00
+3. Wertpapiere des Anlagevermögens	0,00	0,00	0,00	0,00
+4. Sonstige Ausleihungen	18.325,03	0,00	7.022,57	7.688,71
+	-1.794.749,71	0,00	160.814,15	-1.707.320,38
+	108.729.366.27	42.649,46	11.406.683,53	1,094,879,85
+
+scroll
+
+	kumulierte Abschreibungen	kumulierte Abschreibungen	kumulierte Abschreibungen
+	Zuschreibungen	Umbuchungen	Stand 31.12.2023
+	€	€	€
+I. Immaterielle Vermögensgegenstände			
+1. Entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Werte sowie Lizenzen an an solchen Rechten und Werten	0,00	0,00	10.771.788,54
+2. Firmenwerte aus Kapitalkonsolidierung	0.00	0,00	12.767.862,35
+	0,00	0,00	23.539.650,89
+II. Sachanlagen			
+1. Grundstücke und Bauten	0,00	0,00	22.972.491,92
+2. Technische Anlagen und Maschinen	0,00	0,00	34.074.325,44
+3. Andere Anlagen, Betriebs- und Geschäftsausstattung	0,00	11.856,46	38.432.077,92
+4. Geleistete Anzahlungen und Anlagen im Bau	0,00	0,00	3.744,88
+	0,00	11.856,46	95.482.640,16
+III. Finanzanlagen			
+1. Beteiligungen an assoziierten Unternehmen	71.719,47	0,00	-15.993,54
+2. Andere Beteiligungen	0,00	0,00	0,00
+3. Wertpapiere des Anlagevermögens	0,00	0,00	0,00
+4. Sonstige Ausleihungen	0,00	0,00	17.658,89
+	71.719,47	0,00	1.665,35
+	71.719,47	11.856,46	119.023.955,40
+
+scroll
+
+	Restbuchwerte	Restbuchwerte
+	Stand 31.12.2023	Stand 31.12.2022
+	€	€
+I. Immaterielle Vermögensgegenstände		
+1. Entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Werte sowie Lizenzen an an solchen Rechten und Werten	338.630,89	616.088,64
+2. Firmenwerte aus Kapitalkonsolidierung	1.971.428,80	0,00
+	2.310.059,69	616.088,64
+II. Sachanlagen		
+1. Grundstücke und Bauten	31.030.905,23	26.597.170,00
+2. Technische Anlagen und Maschinen	17.285.112,40	18.458.472,58
+3. Andere Anlagen, Betriebs- und Geschäftsausstattung	8.469.907,00	7.730.067,49
+4. Geleistete Anzahlungen und Anlagen im Bau	15.160.308,47	8.754.652.93
+	71.946.233,10	61.540.363,00
+III. Finanzanlagen		
+1. Beteiligungen an assoziierten Unternehmen	84.945,54	3.746.070,60
+2. Andere Beteiligungen	5.112,92	5.112,92
+3. Wertpapiere des Anlagevermögens	162.089,67	162.089,67
+4. Sonstige Ausleihungen	558.381,02	601.597,99
+	810.529,15	4.514.871,18
+	75.055.821,94	66.671.322,82
+
+KONZERN-VERBINDLICHKEITENSPIEGEL zum 31. Dezember 2023
+
+Scheidt & Bachmann GmbH, Mönchengladbach
+
+scroll
+
+	RESTLAUFZEITEN	RESTLAUFZEITEN	RESTLAUFZEITEN	RESTLAUFZEITEN
+	bis zu einem Jahr	bis zu einem Jahr	zwischen einem und fünf Jahren	zwischen einem und fünf Jahren
+	31.12.2023	31.12.2022	31.12.2023	31.12.2022
+	€	€	€	€
+1. Verbindlichkeiten gegenüber Kreditinstituten	5.876.602,57	6.005.956,00	16.625.000,00	16.750.000,00
+2. Erhaltene Anzahlungen auf Bestellungen	76.460.744,30	71.093.774,21	0,00	0,00
+3. Verbindlichkeiten aus Lieferungen und Leistungen	17.396.207,30	15.313.310,60	0,00	0,00
+4. Verbindlichkeiten gegenüber assoziierten Unternehmen	235.111,27	153.688,16	0,00	0,00
+5. Sonstige Verbindlichkeiten	24.271.376,68	2.436.745,72	411.348,00	644.050,00
+davon aus Steuern	(9.168.683,20)	(2.235.425,44)	(0,00)	(0,00)
+davon im Rahmen der sozialen Sicherheit	(1.604.078,18)	(1.398.809,09)	(0,00)	(0,00)
+davon gegenüber Gesellschaftern	(72.222,18)	(72.042,46)	(0,00)	(0,00)
+	124.240.042,12	95.003.474,69	17.036.348,00	17.394.050,00
+
+scroll
+
+	RESTLAUFZEITEN	RESTLAUFZEITEN	GESAMTBETRAG	GESAMTBETRAG
+	von mehr als fünf Jahren	von mehr als fünf Jahren	Gesamtbetrag	Gesamtbetrag
+	31.12.2023	31.12.2022	31.12.2023	31.12.2022
+	€	€	€	€
+1. Verbindlichkeiten gegenüber Kreditinstituten	6.750.000,00	7.500.000,00	29.251.602,57	30.255.956,00
+2. Erhaltene Anzahlungen auf Bestellungen	0,00	0,00	76.460.744,30	71.093.774,21
+3. Verbindlichkeiten aus Lieferungen und Leistungen	0,00	0,00	17.396.207,30	15.313.310,60
+4. Verbindlichkeiten gegenüber assoziierten Unternehmen	0,00	0,00	235.111,27	153.688,16
+5. Sonstige Verbindlichkeiten	0,00	0,00	24.682.724,68	3.080.795,72
+davon aus Steuern	(0,00)	(0,00)	(9.168.683,20)	(2.235.425,44)
+davon im Rahmen der sozialen Sicherheit	(0,00)	(0,00)	(1.604.078,18)	(1.398.809,09)
+davon gegenüber Gesellschaftern	(0,00)	(0,00)	(72.222,18)	(72.042,46)
+	6.750.000,00	7.500.000,00	148.026.390,12	119.897.524,69
+
+Gewinnverwendung
+
+Die Geschäftsführung schlägt der Gesellschafterversammlung vor, aus dem Bilanzgewinn zum 31. Dezember 2023 eine Zuführung zu den Gewinnrücklagen in Höhe von € 10.000.000,00 vorzunehmen sowie eine Ausschüttung an die Gesellschafter*innen in Höhe von € 16.014.948,00 zu tätigen. Der verbleibenden Bilanzgewinn in Höhe von € 16.466.129,79 soll auf neue Rechnung vorgetragen werden.
+
+Mönchengladbach, den 27. Mai 2024
+
+Die Geschäftsführung
+
+gez. Dr. Norbert Miller
+
+gez. Martin Kammler
+
+gez. Uwe Brünner
+
+gez. Jörg Heilingbrunner
+
+gez. Dr. Michael Lenders
+
+gez. Andreas Räschmeier
+
+KONZERNKAPITALFLUSSRECHNUNG für das Geschäftsjahr 2023
+
+Scheidt & Bachmann GmbH, Mönchengladbach
+
+scroll
+
+	2023	2022	Veränderung	Veränderung
+	T€	T€	T€	%
+Laufende Geschäftstätigkeit				
+Konzernjahresüberschuss	+ 26.613	+ 19.388	+ 7.225	
++ Abschreibungen auf Firmenwert	+ 493	+ 0	+ 493	
++ Abschreibungen auf übriges Anlagevermögen	+ 10.914	+ 9.414	+ 1.500	
+- Zuschreibungen auf Anlagevermögen	- 72	- 325	+ 253	
+- Gewinn/Verlust aus Anlagenabgängen (Saldo)	+ 123	+ 54	+ 69	
+-/+ Veränderung von Wertberichtigungen	- 1.131	+ 367	- 1.498	
+-/+ Latente Steuern	- 810	+ 316	- 1.126	
+-/+ Ab-/Zunahme der Pensionsrückstellungen	- 815	+ 317	- 1.132	
++/- Zu-/ Abnahme der sonstigen langfristigen Rückstellungen	+ 439	- 33	+ 472	
++/- Sonstige zahlungsunwirksame Veränderungen	+ 246	+ 88	+ 158	
+Brutto-Cashflow aus laufender Geschäftstätigkeit	+ 36.000	+ 29.586	+ 6.414	21,7
+Veränderung Netto-Umlaufvermögen				
+- Zunahme der Vorräte	- 8.071	+ 7.227	- 15.298	
+- Zunahme der Forderungen und sonstigen Vermögensgegenstände	- 9.360	- 14.554	+ 5.194	
+- Abnahme der kurzfristigen Rückstellungen	- 3.702	- 8.007	+ 4.305	
++/- Zu-/Abnahme der Verbindlichkeiten	+ 30.625	- 25.833	+ 56.458	
+Veränderung Netto-Umlaufvermögen	+ 9.492	- 41.167	+ 50.659	-123,1
+Cashflow nach Veränderung Netto- Umlaufvermögen	+ 45.492	- 11.581	+ 57.073	-492,8
+Investitionstätigkeit				
++ Einzahlungen aus Abgängen von Anlagevermögen	+ 4.295	+ 750	+ 3.545	
+- Auszahlungen für Investitionen in das Anlagevermögen	- 24.148	- 31.122	+ 6.974	
+Cashflow aus Investitionstätigkeit	- 19.853	- 30.372	+ 10.519	-34,6
+Finanzierung				
++/- Ein-/Auszahlungen aus der Aufnahme/Tilgung von Bankdarlehen (Saldo)	- 1.004	- 2.248	+ 1.244	
+- Ausschüttungen an die Gesellschafter	- 6.986	- 12.064	+ 5.078	
+Cashflow aus Finanzierungstätigkeit	- 7.990	- 14.312	+ 6.322	-44,2
+Zahlungsmittelwirksame Veränderungen des Finanzmittelbestands	+ 17.649	- 56.265	+ 73.914	
+Finanzmittelbestand am Anfang des Jahres	+ 135.315	+ 191.580	- 56.265	
+Liquide Mittel am Ende des Jahres	+ 152.964	+ 135.315	+ 17.649	13,0
+Zusammensetzung der Finanzmittel:				
+	2023	2022	Veränderung	ung
+	T€	T€	T€	%
+Wertpapiere des Umlaufvermögens	152	0	+ 152	
+Kassenbestand und Guthaben Kreditinstitute	152.812	135.315	+ 17.497	
+	152.964	135.315	+ 17.649	13,0
+
+KONZERN-EIGENKAPITALSPIEGEL für die Zeit vom 31. Dezember 2021 bis 31. Dezember 2023
+
+Scheidt & Bachmann GmbH, Mönchengladbach
+
+scroll
+
+	Gezeichnetes Kapital	Erwirtschaftetes Konzern eigenkapital	Währungskursdifferenzen	nicht beherrschende Anteile	Konzerneigenkapital
+	T€	T€	T€	T€	T€
+Stand am 31.12.2021	20.475	171.099	607	0	192.181
+Änderung des Konsolidierungskreises		-193	42	49	-102
+Konsolidierungbuchungen					0
+Währungskursdifferenzen					
+Eigenkapital laufendes Jahr			190		190
+Ausschüttung S&B		-12.064			-12.064
+Konzernjahresüberschuss 2022		19.392		-4	19.388
+Stand am 31.12.2022	20.475	178.234	839	45	199.593
+Änderung des Konsolidierungskreises		-290		536	246
+Konsolidierungbuchungen					0
+Währungskursdifferenzen					
+Eigenkapital laufendes Jahr			-13	12	-1
+Ausschüttung S&B		-6.986			-6.986
+Konzernjahresüberschuss 2023		26.382		231	26.613
+Stand am 31.12.2023	20.475	197.340	826	824	219.465
+
+KONZERNLAGEBERICHT für das Geschäftsjahr 2023
+
+Scheidt & Bachmann GmbH, Mönchengladbach
+
+Vorbemerkung
+
+Der Lagebericht der Scheidt & Bachmann GmbH und der Konzernlagebericht für das Geschäftsjahr 2023 sind nach § 315 Abs. 3 in Verbindung mit § 298 Abs. 3 HGB zusammengefasst. Der Jahresabschluss der Scheidt & Bachmann GmbH und der zusammengefasste Lagebericht werden zeitgleich im Bundesanzeiger offengelegt.
+
+Die nachstehenden Ausführungen beziehen sich in erster Linie auf die Scheidt & Bachmann Gruppe. Soweit erforderlich wird auf die Scheidt & Bachmann GmbH gesondert eingegangen.
+
+1. Grundlagen des Konzerns
+
+a.) Geschäftsmodell des Konzerns/Unternehmens
+
+Der Konzern entwickelt, produziert und vertreibt Systemlösungen auf den Märkten für Signalling Systems (SIGNALLING), Parking Solutions (PS), Fare Collections Systems (FCS) sowie Fuel Retail Solutions (FRS).
+
+Im Mittelpunkt der Geschäftstätigkeit steht die Systementwicklung mit der Erstellung umfangreicher Softwarepakete. Die dabei je Geschäftsbereich vom Unternehmen konzipierte Softwarestruktur bietet - ausgehend von einer geschützten Kern-Architektur, die ein Maximum an Stabilität garantiert - eine hohe Flexibilität bei der Erweiterung eines Systems um neue Funktionen und damit einen hohen Anwendernutzen.
+
+Der Scheidt & Bachmann-Konzern umfasst eine Gruppe von 36 nationalen und internationalen Gesellschaften (einschließlich der Muttergesellschaft), die unter Führung der Scheidt & Bachmann GmbH stehen. Im Konsolidierungskreis befinden sich zwei Gesellschaften von nachrangiger Bedeutung. Als wesentliche Beteiligungen außerhalb des Konsolidierungskreises sind die Beteiligung an der Parktech Finland Oy sowie der entervo-access GmbH zu nennen.
+
+Die Konzerngesellschaften (einschließlich Muttergesellschaft) sind:
+
+National:
+
+Scheidt & Bachmann GmbH
+
+Scheidt & Bachmann Signalling Systems GmbH
+
+Scheidt & Bachmann Parking Solutions GmbH
+
+Scheidt & Bachmann Fare Collection Systems GmbH
+
+Scheidt & Bachmann Fuel Retail Solutions GmbH
+
+evopark GmbH
+
+IoT Business Solutions GmbH
+
+Scheidt & Bachmann loT Solutions GmbH
+
+Scheidt & Bachmann Parking Solutions Germany GmbH
+
+Scheidt & Bachmann Service GmbH
+
+Scheidt & Bachmann System Service GmbH
+
+Scheidt & Bachmann System Technik GmbH
+
+International:
+
+AVISTA Sp. z o.o.
+
+Scheidt & Bachmann Belgien
+
+Scheidt & Bachmann Canada Inc.
+
+Scheidt & Bachmann FCS Italia Srl.
+
+Scheidt & Bachmann France S.A.S.
+
+Scheidt & Bachmann Iberica S.L.U.
+
+Scheidt & Bachmann Ireland Ltd.
+
+Scheidt & Bachmann Israel Ltd.
+
+Scheidt & Bachmann Maghreb S.A.R.L.
+
+Scheidt & Bachmann Nederland B.V.
+
+Scheidt & Bachmann Österreich GmbH
+
+Scheidt & Bachmann Parkeersystemen B.V.
+
+Scheidt & Bachmann Parking Solutions Österreich GmbH
+
+Scheidt & Bachmann Polska Spölka z.o.o.
+
+Scheidt & Bachmann Rus, LLC
+
+Scheidt & Bachmann Schweiz GmbH
+
+Scheidt & Bachmann Slovensko s.r.o.
+
+Scheidt & Bachmann Sverige AB
+
+Scheidt & Bachmann UK Ltd.
+
+Scheidt & Bachmann Ukraine, LLC
+
+Scheidt & Bachmann USA Inc.
+
+SCHENK Systeme AG
+
+Sonstige:
+
+Gesellschaft für Apparate mechanischer Art GAMA mbH
+
+mcity GmbH
+
+b.) Ziele und Strategien
+
+b1.) Allgemeine Zielsetzung
+
+Zentrales Ziel der Scheidt & Bachmann Gruppe ist das kontinuierliche und profitable Wachstum aller Unternehmensbereiche. In unseren aktiven Märkten streben wir eine Marktposition mindestens unter den ersten drei Anbietern an.
+
+Wir machen uns zur Aufgabe, den Kundennutzen unserer Systemlösungen klar zu vermitteln, Neukunden zu gewinnen und international zu wachsen.
+
+Unser Geschäftsmodell, basierend auf Erweiterung der Kundenbasis durch Neuinstallationen, der Lieferung von neuen Softwarelösungen sowie der Ausweitung von Service-Leistungen, ist Grundlage für dieses Wachstum.
+
+Ein wesentliches Unternehmensziel zum Erhalt und Ausbau des Unternehmenswertes ist die Aufrechterhaltung der internationalen Wettbewerbsfähigkeit und damit verbunden die Erschließung konkurrenzfähiger Kostenstrukturen.
+
+Hierbei spielen die Tochtergesellschaften eine ganz wesentliche Rolle. Grundsätzlich sind zwei Zielrichtungen mit der Gründung von Tochtergesellschaften verbunden:
+
+―
+
+Gesellschaften für Vertrieb/Projektierung und Service (Aufgaben, die langfristig erfolgreich nur vor Ort ausgeführt werden können),
+
+―
+
+Gesellschaften zur Erschließung wirtschaftlicher Ressourcen (Nutzung des internationalen Kostengefälles).
+
+b2.) Gesetz für die gleichberechtigte Teilhabe von Frauen und Männern an Führungspositionen (in Kraft getreten 1. Mai 2015)
+
+Aus der Anwendung des oben genannten Gesetzes ergibt sich für die Scheidt & Bachmann GmbH die Verpflichtung, Zielgrößen zur Erhöhung des Frauenanteils und Fristen zu deren Erreichung in Aufsichtsrat, Geschäftsführung und den oberen Managementebenen festzulegen.
+
+Dabei ist aus Sicht der Gesellschafter der Scheidt & Bachmann GmbH das Unternehmen im besonderen Maße darauf angewiesen, die Führungskräfte für sich zu gewinnen, die neben den fachlichen Qualifikationen auch die menschlichen und persönlichen Voraussetzungen mitbringen, um im Umfeld eines Familienunternehmens richtungsgebende Akzente zur weiteren Unternehmensentwicklung beitragen zu können.
+
+Es ist der ausdrückliche Wunsch der Gesellschafter*innen, dass dieser Grundsatz unverändert bei der Besetzung von Führungspositionen innerhalb der Scheidt & Bachmann GmbH und den im Rahmen einer Ausgliederung in 2021 entstandenen selbständigen operativen Bereichsobergesellschaften zur Anwendung kommt. Denn nur so kann sichergestellt werden, dass Scheidt & Bachmann als Familienunternehmen fortbestehen kann.
+
+Die Gesellschafter*innen der Scheidt & Bachmann GmbH haben sich dafür ausgesprochen, keine von dem bisherigen Status Quo abweichenden Zielgrößen für den Frauenanteil im Aufsichtsrat und in der Geschäftsführung der Scheidt & Bachmann GmbH festzulegen.
+
+Die Geschäftsführung der Scheidt & Bachmann GmbH wiederum hat für die beiden folgenden Führungsebenen F2 und F3 (konsolidiert für die Gesellschaften Scheidt & Bachmann GmbH, Scheidt & Bachmann Signalling Systems GmbH, Scheidt & Bachmann Parking Solutions GmbH, Scheidt & Bachmann Fare Collection Systems GmbH und Scheidt & Bachmann Fuel Retail Solutions GmbH) folgende Zielgrößen festgelegt, die bis zur Gesellschafterversammlung im Juni 2025 eingehalten werden sollen:
+
+scroll
+
+Führungsebene	Anzahl 31.12.2023	davon weiblich	Frauenanteil 31.12.2023	Zielgröße Juni 2025
+F2	25	1	3,8 %	10,0 %
+F3	71	6	8,5 %	10,0 %
+
+c.) Steuerungssystem
+
+Wesentliches Steuerungssystem der Gruppe ist die 5-Jahresplanung.
+
+Die Kernelemente der 5-Jahresplanung sind die vom jeweiligen Geschäftsbereich erarbeiteten Planungsrechnungen. Hierbei wird jeweils unter Berücksichtigung der eigenen Kernkompetenzen und unter Zugrundelegung von Analysen der Markt- und Wettbewerbssituationen eine detaillierte Planung der einzelnen Jahre des Betrachtungszeitraums vorgenommen.
+
+d.) Forschung und Entwicklung
+
+Die Gesellschaft betreibt umfangreiche Entwicklungsarbeiten, insbesondere im Bereich der Neuentwicklungen, der permanenten Verbesserungen der Prozesssicherheit, der Energieeffizienz sowie des Umweltschutzes. Im Geschäftsjahr 2023 wurden mehrere Förderanträge bewilligt mit eine Forschungszulage in der Summe von ca. 1,1 Mio. €.
+
+Zur Umsetzung dieser Arbeiten beschäftigt die S&B Gruppe ca. 559 Mitarbeiter und Freelancer (ca. 18 % der Gesamtmitarbeiterzahl) im Bereich der Software-Entwicklung. In den vergangenen Jahren wurde die Erbringung dieser Entwicklungsleistungen konsequent weiter auf mehrere Länder verteilt. Dadurch wurden neue Arbeitsmärkte mit anderen Kostenstrukturen erschlossen und die Abhängigkeit vom Arbeitsmarkt Deutschland begrenzt. Neben Deutschland werden die Entwicklungsleistungen in der Slowakei, Ukraine und Tunesien erbracht. Trotz des schwierigen wirtschaftlichen Umfelds werden die Entwicklungsleistungen auf dem hohen Niveau bleiben.
+
+2. Wirtschaftsbericht
+
+a.) Gesamtwirtschaftliche und branchenbezogene Rahmenbedingungen mit Ausblick auf 2024
+
+Im Jahr 2023 bewies die Weltkonjunktur eine überraschende Widerstandsfähigkeit gegenüber dem Inflationsschock und der strikten Geldpolitik, wobei das Wachstum allerdings moderat ausfiel. Die Maschinenbau- und Elektronikindustrie (M+E-Industrie) erlebte einen beschleunigten Abschwung, gekennzeichnet durch ein sinkendes Auftragsvolumen, eine rückläufige Produktion sowie einen Absatz- und Umsatzrückgang. Die Beschäftigtenzahlen in der M+E-Industrie blieben zwar stabil, aber der konjunkturelle (Wieder-)Aufbau war durch die schwächere Wirtschaftslage gedämpft. Die Erwartungen der M+E-Firmen waren aufgrund von Unsicherheiten in der Haushaltspolitik und rückläufiger Logistikaktivität pessimistisch. Wirtschaftsprognosen wurden signifikant nach unten korrigiert, da sich die Hoffnungsträger wie Konsum, Investitionen und Welthandel/Exporte nicht belebten. Die Inflationsraten gingen durch Basiseffekte zurück, allerdings befürchtete die Bundesbank, dass die Kerninflation durch eine starke Lohndynamik auf hohem Niveau gehalten wurde.
+
+In Deutschland war die wirtschaftliche Entwicklung im Jahr 2023 von einer Stagnation geprägt, während die Inflationsraten langsam sanken. Dies wurde vor allem durch die Folgen der Energiepreiskrise, die den privaten Konsum beeinträchtigte, sowie durch geopolitische Spannungen und eine verhaltene globale Wirtschaftsdynamik verursacht. Trotz eines leichten BIP-Rückgangs im dritten Quartal und der Aussicht auf eine Abschwächung der Investitionen zeigten einige Stimmungsindikatoren wie das ifo Geschäftsklima und das GfK-Konsumklima eine leichte Verbesserung der wirtschaftlichen Aussichten, obwohl Risiken wie geopolitische Krisen und Unsicherheiten in der Haushaltspolitik bestehen blieben.
+
+Die Aussichten für 2024 und die Folgejahre deuten auf eine allmähliche Verbesserung der Weltkonjunktur hin, obwohl die wirtschaftliche Lage in Deutschland zu Beginn des Jahres 2024 schwach war. Die Abwärtstrends bei der Inflation, kombiniert mit steigenden Reallöhnen und einer langsamen Belebung der Weltwirtschaft, könnten die wesentlichen Belastungsfaktoren für die deutsche Wirtschaft reduzieren und eine vorwiegend binnenwirtschaftliche Erholung unterstützen. Obwohl die Produktion im Produzierenden Gewerbe weiterhin rückläufig war und die Auslandsnachfrage schwach blieb, zeigten die Auftragseingänge aus dem Inland Stabilisierungstendenzen. Eine Erholung der Industriekonjunktur wird jedoch erst später im Jahr erwartet, begünstigt durch eine Belebung der Binnenwirtschaft und anziehende Exporte.
+
+Die Konsumstimmung zeigte Anzeichen einer Verbesserung, was auf eine mögliche Erholung des privaten Konsums im Laufe des Jahres hindeutet, obwohl der Einzelhandel noch keine deutliche Trendwende verzeichnete. Ein Anstieg der Inflationsrate gegen Jahresende war erwartet worden, doch wird die Inflationsentwicklung voraussichtlich durch steuerliche und fiskalische Maßnahmen sowie durch inflationssenkende Faktoren wie sinkende Energie- und Erzeugerpreise beeinflusst. Der Arbeitsmarkt blieb trotz eines saisonbedingten leichten Anstiegs der Arbeitslosigkeit robust. Günstigere Frühindikatoren deuten auf eine allmähliche Verbesserung der Wirtschaftsaussichten hin, besonders ab dem Frühjahr, wenn erwartet wird, dass die Wirtschaft wieder Fahrt aufnimmt.
+
+Die Unternehmensinsolvenzen sind zwar leicht zurückgegangen, bleiben aber auf einem erhöhten Niveau, wobei größere Unternehmen stärker betroffen sind. Die Prognosen internationaler Organisationen deuten auf eine moderate Erholung des Welthandelsvolumens und ein leichtes Anziehen der Weltkonjunktur hin, obwohl geopolitische Risiken und Handelsunsicherheiten weiterhin bestehen. Insgesamt zeigen die Aussichten für 2024 und darüber hinaus, dass trotz anhaltender Herausforderungen eine allmähliche wirtschaftliche Erholung in Sicht ist.
+
+Quellen:
+
+•
+
+Bundesministerium für Wirtschaft und Klimaschutz: Konjunktur und Wachstum.
+
+•
+
+Kiel Institut für Wirtschaft
+
+•
+
+Arbeitgeberverband Metall- und Elektroindustrie
+
+b.) Geschäftsverlauf 2023
+
+Der Lagebericht der Scheidt & Bachmann GmbH und der Konzernlagebericht für das Geschäftsjahr 2023 sind nach § 315 Abs. 3 in Verbindung mit § 298 Abs. 3 HGB zusammengefasst. Der Jahresabschluss der Scheidt & Bachmann GmbH und der zusammengefasste Lagebericht werden zeitgleich im Unternehmensregister offengelegt.
+
+Die nachstehenden Ausführungen beziehen sich in erster Linie auf die Scheidt & Bachmann Gruppe. Soweit erforderlich wird auf die Scheidt & Bachmann GmbH gesondert eingegangen.
+
+Im Oktober 2023 ist es in dem Software-Entwicklungs- und Test-Center in Zilina (Slowakei) zu einem Brandschaden gekommen. Es gab keine Personenschäden, allerdings sind die vorhandenen Arbeitsplätze der Software-Entwickler als auch die Test-Geräte, insbesondere durch Löschwasser, Rauch und Ruß, vollständig unbrauchbar geworden. Auch das Dach und die Inneneinrichtungen sind stark in Mitleidenschaft gezogen worden und müssen erneuert werden. Es wurde eine Task Force eingesetzt, um die Aufräum- und Reinigungsarbeiten sowie die Wiederherstellung des Gebäudes in enger Absprache mit den involvierten Versicherungen zu steuern. Der Fokus lag in der Wiederaufnahme der Software-Entwicklungs- und Testarbeiten durch die Mitarbeiter in Zilina. Durch die zur Verfügungstellung von mobilen Arbeitsgeräten waren die Software-Entwickler innerhalb weniger Tage wieder voll einsatzfähig. Die Testtätigkeiten wurden temporär von Zilina verlagert, z.B. in unsere Standorte USA und Canada und/oder zu unseren Kunden, wo die Mitarbeiter*innen aus Zilina dann ihre Testtätigkeiten durchführen. Gleichzeitig wurden die beschädigten Testgeräte zu einem Brandsanierer nach Deutschland verbracht. Es wurden in Zilina externe Räumlichkeiten angemietet und dort wird der Testbetrieb sukzessive (nach Rücklauf der gereinigten Testgeräte) wieder aufgenommen. Bisher ist es gelungen, negative Auswirkungen auf unsere Kundenprojekte zu verhindern. Erklärtes Ziel ist es, dass die ursprünglichen Räumlichkeiten des Software-Entwicklungs- und Test-Center Ende 2024 wieder voll funktionsfähig sind und der komplette Betrieb wieder in Zilina durchgeführt wird.
+
+Die Scheidt & Bachmann Gruppe hat sich operativ gegenüber dem Vorjahr positiv entwickelt. Bei allen Kennzahlen ist zu berücksichtigen, dass die SCHENK Systeme AG in 2023 erstmalig anteilig in den Konzernabschluss einbezogen wurde.
+
+b1.) Umsatz
+
+Die Scheidt & Bachmann Gruppe lag mit einer Umsatzleistung in Höhe von 478,8 Mio. € um 29,2 Mio. € über dem Vorjahreswert, was einem Anstieg von 6,5 % entspricht.
+
+Dabei stellte sich der Inlandsmarkt weiterhin sehr stabil dar. Der nach wie vor sehr bedeutende Export lag im Jahr 2023 mit 60,4 % etwas über Vorjahresniveau (57,5 %).
+
+Der Nahostkonflikt im Gaza-Streifen hat dazu geführt, dass bis auf weiteres ein jährliches Umsatzpotential in Israel im mittleren einstelligen Millionenbereich mit guten Margen weggebrochen ist.
+
+b2.) Personal
+
+Die durchschnittliche Mitarbeiterzahl ist mit insgesamt 3.291 im Vergleich zum Jahr 2022 um 126 Mitarbeiter (ca. 4 %) gestiegen, wobei dem heutigen Kerngeschäft folgend, die Personalmaßnahmen im Wesentlichen auf die Bereiche Projektmanagement/Entwicklung/Produktmanagement/Service ausgerichtet sind.
+
+Aufgrund der demographischen Entwicklung in Deutschland wird es eine der wichtigsten Herausforderungen sein, ausreichend qualifiziertes Personal zu gewinnen und im Unternehmen zu halten. Diesem Risiko vorbeugend baut Scheidt & Bachmann neben der traditionellen innerbetrieblichen Berufsausbildung und dem erweiterten Angebot an technischen und kaufmännischen dualen Studiengängen auf eine enge Kooperation mit Hochschulen sowie verstärkte Netzwerkaktivitäten im Bereich Schule und Wirtschaft.
+
+Zukünftig wird die Positionierung von Scheidt & Bachmann als attraktiver Arbeitgeber eine entscheidende Rolle spielen. Durch gezielte Personalentwicklungsmaßnahmen, moderne Arbeitsbedingungen, zeitgemäße Entlohnungsformen und Handlungs- und Entscheidungsfreiheiten sollen Mitarbeiter (vorhandene und neue) an das Unternehmen gebunden werden.
+
+b3.) Ergebnis
+
+Der Konzernjahresüberschuss in Höhe von 26,6 Mio. € liegt 7,2 Mio. € über dem Vorjahr (19,4 Mio. €).
+
+c.) Lage: Ertragslage, Vermögens- und Finanzlage
+
+Die Scheidt & Bachmann Gruppe hat sich im Geschäftsjahr 2023 erfolgreich am Markt behauptet.
+
+Die gesteckten Ziele beim Umsatz und Ergebnis konnten 2023 erreicht werden. Das Unternehmen verfügt nach wie vor über eine gute Eigenkapitalausstattung. Die Eigenkapitalquote liegt unverändert auf hohem Niveau. Zusammen mit einer weiter soliden finanziellen Basis ist Scheidt & Bachmann damit sehr gut aufgestellt, um den nach wie vor bestehenden Risiken der Gesamtwirtschaft erfolgreich zu begegnen.
+
+c1.) Ertragslage
+
+Der Umsatz in 2023 in Höhe von 478,8 Mio. € lag 29,2 Mio. € über Vorjahresniveau (449,6 Mio. €). Bei den Materialien und bezogenen Leistungen zeigt sich gegenüber dem Vorjahr ein Rückgang von 6,1 Mio. €. Absolut liegt das Rohergebnis im Jahre 2023 um 32,8 Mio. € über dem Ergebnis des Vorjahres, bezogen auf die Gesamtleistung macht es 69,5 % nach 66,5 % im Vorjahr aus.
+
+Die Betriebsaufwendungen sind im Vergleich zum Jahr 2022 um 11,5 % gestiegen.
+
+Das Zinsergebnis (inkl. ähnliche Erträge/Aufwendungen) hat sich gegenüber dem Vorjahr um rd. 0,5 Mio. € verbessert. Das Ergebnis aus Beteiligungen an assoziierten Unternehmen liegt mit 0,1 Mio. € rd. 2,0 Mio. € unter dem Vorjahr.
+
+c2.) Vermögens- und Finanzlage
+
+Die Bilanzsumme wurde gegenüber dem Vorjahr von 416,2 Mio. € um 45,5 Mio. € auf 461,7 Mio. € aufgebaut.
+
+Der Anteil des Sachanlagevermögens am Gesamtvermögen liegt um 0,9 %-Punkte über dem entsprechenden Vorjahresniveau.
+
+Das Vorratsvermögen wurde um insgesamt 8,1 Mio. € aufgebaut. Die Lieferungsforderungen haben um insgesamt 5,5 Mio. € abgenommen und die Forderungen gegen assoziierte Unternehmen haben sich um 0,8 Mio. € verringert. Die sonstigen Vermögensgegenstände haben um 11,0 Mio. € zugenommen.
+
+Mit einem Gesamtvolumen von 219,5 Mio. € und einer Eigenkapitalquote von 47,5 % ist die Eigenkapitalbasis weiterhin sehr solide.
+
+Das kurzfristige Fremdkapital hat insgesamt um rd. 33 Mio. € zugenommen.
+
+Mit 153,0 Mio. € liquiden Mitteln (ohne langfristige Anlagen) und einem Anteil von 33,1 % am Gesamtvermögen ist nach wie vor eine sehr stabile Finanzierung gegeben.
+
+Der erwirtschaftete Brutto-Cashflow vor Änderung des Nettoumlaufvermögens von 36,0 Mio. € liegt 6,4 Mio. € über dem Niveau des Vorjahres.
+
+c3.) Investitionen
+
+Im Bereich des bilanziellen Anlagevermögens betreffen die wesentlichen Erweiterungsinvestitionen das heutige Kerngeschäft (Technik, Projektierung und After-Sales-Service). Daneben werden weiterhin Ersatzbeschaffungen für ausgewählte Technologiegruppen in der Produktion getätigt.
+
+c4.) Liquidität
+
+Die Finanzierung der laufenden Geschäfte sowie die Durchführung der geplanten Investitionen waren zu jederzeit sichergestellt. Neben den vorhandenen liquiden Mitteln stehen ausreichend verbindliche und derzeit nicht in Anspruch genommene Kreditzusagen zur Verfügung. Die finanzielle Lage der Gruppe ist somit als ausgesprochen gut einzustufen.
+
+c5.) Scheidt & Bachmann GmbH
+
+Die in 2021 beschlossene Ausgliederung des operativen Kundenendgeschäftes der Geschäftsbereiche Signalling Systems, Parking Solutions, Fare Collection Systems und Fuel Retail Solutions aus der Scheidt & Bachmann GmbH in vier eigenständige GmbHs wurde in 2023 weiter konsequent umgesetzt.
+
+Die Scheidt & Bachmann GmbH erbringt für die operativen Geschäftsbereiche Dienstleistungen im Bereich der Produktion (u.a. Fertigung, QS, Materialwirtschaft, Versand) und der zentralen Dienste (u.a. Personal, IT, Finanzbuchhaltung, Controlling, Versicherungen).
+
+Im abgelaufenen Geschäftsjahr konnte die Scheidt & Bachmann GmbH Umsätze in Höhe von 162,1 Mio. € erzielen. Dies entspricht einem Rückgang gegenüber Vorjahr um 2 %.
+
+Der Einsatz an Materialien und bezogenen Leistungen liegt mit 71,2 Mio. € unter Vorjahresniveau (81,1 Mio. €). Bezogen auf die Gesamtleistung von 163,0 Mio. € liegt das Rohergebnis von 91,8 Mio. € bei 56,2 % (Vorjahr 51,6 %). Die Personalaufwendungen sind um 2,4 Mio. € gestiegen. Die sonstigen betrieblichen Aufwendungen haben um 5,1 Mio. € im Vorjahresvergleich abgenommen.
+
+Die Beteiligungserträge (inkl. assoziierte Beteiligungen) sind in 2023 um 0,1 Mio. € auf insgesamt 10,1 Mio. € gestiegen. Die sonstigen Zinserträge weisen einen Anstieg um 3,8 Mio. € auf sowie die Zinsaufwendungen um 0,3 Mio. €. Die Abschreibungen auf Finanzanlagen und Wertpapiere des Umlaufvermögens liegen um 5,5 Mio. € unter Vorjahresniveau.
+
+Der Jahresüberschuss der GmbH wird zum Stichtag mit 31,4 Mio. € (Vorjahr 11,0 Mio. €) ausgewiesen.
+
+Die durchschnittliche Mitarbeiterzahl ist um 31 gegenüber dem Vorjahr gestiegen und beträgt 654.
+
+Die Bilanzsumme ist bei der Scheidt & Bachmann GmbH um rd. 26,0 Mio. € oder 9,6 % gestiegen. Der Anstieg entfällt auf das Anlagevermögen mit insgesamt 3,6 Mio. € und auf das Umlaufvermögen mit 22,4 Mio. €.
+
+Das Eigenkapital weist ein Gesamtvolumen von 201,7 Mio. € aus und entspricht einer Eigenkapitalquote von 67,4 % nach 64,9 % im Vorjahr. Das mittel- und langfristige Fremdkapital ist um rd. 6 % und das kurzfristige Fremdkapital um 5 % gestiegen.
+
+Der erwirtschaftete Brutto-Cashflow vor Änderung des Nettoumlaufvermögens belief sich auf 35,8 Mio. € nach 22,1 Mio. € in 2022.
+
+c6.) Ausblick 2024
+
+Der russische Überfall auf die Ukraine vom 24. Februar 2022 wirkt sich immer noch auf unser Wirtschaftsleben aus.
+
+Nach wie vor werden unsere Mitarbeiter*innen in der Ukraine täglich durch Bombenangriffe aus Russland bedroht. Daher steht für uns weiterhin der Schutz des Lebens unserer Mitarbeiter*innen und deren Familien in der Ukraine und der Umgang mit unseren russischen Mitarbeitern*innen im Vordergrund. Die von uns direkt nach Kriegsbeginn initiierten umfangreichen Maßnahmen, um unsere Mitarbeiter*innen und deren Familien in der Ukraine in Sicherheit zu bringen und mit dem Nötigsten zu versorgen, werden so lange wie erforderlich aufrechterhalten.
+
+Die S&B-Gruppe hat die Belieferung der Kunden in Russland eingestellt.
+
+Die durch den Ukraine-Krieg sprunghaft gestiegenen Energie- und Materialpreise sowie die nachgelagerten Lohnerhöhungen konnten bisher noch nicht vollständig an die Kunden weitergegeben werden. Wir erwarten, dass es dadurch auch 2024 noch Auswirkungen in der S&B Gruppe geben wird.
+
+Wir analysieren die Entwicklungen laufend und werden alle erforderlichen Maßnahmen ergreifen, um die wirtschaftliche Entwicklung der S&B-Gruppe positiv zu beeinflussen.
+
+D Auftragsbücher weisen zum 1. Januar 2024 einen Bestand von 804,6 Mio. € auf. Aufgrund der oben beschriebenen Auswirkungen erwarten wir eine Umsatz- und Ergebnisentwicklung unter dem Niveau des Vorjahres.
+
+Im Rechtsstreit mit der BKK Budapest konnte Anfang 2024 eine Einigung erzielt werden. Der International Court of Arbitration hat den Vergleich am 1. März 2024 genehmigt und Scheidt & Bachmann GmbH am 6. März 2024 den vereinbarten Vergleichsbetrag in Höhe von 5,95 Mio. € an die BKK überwiesen. Damit sind alle gegenseitigen Ansprüche abgegolten.
+
+3. Prognosen-, Chancen- und Risikobericht
+
+Wesentliche Chancen liegen in der erfolgreichen Positionierung unseres Unternehmens als Anbieter in den Märkten für qualitativ hochwertige Systemlösungen in den jeweiligen Geschäftsbereichen.
+
+Zur Nutzung dieser Chancen und zur Bewältigung der vielfältigen internen und externen Risikogruppen besteht bei der Scheidt & Bachmann-Gruppe ein Risikomanagementsystem, das so ausgelegt ist, dass Risiken möglichst frühzeitig erkannt und identifiziert werden können. Das Risikomanagementsystem ist integraler Bestandteil des gesamten Planungs-, Steuerungs- und Berichterstattungsprozesses. Hierbei kommt dem Controlling eine wesentliche Bedeutung zu. Durch ein transparentes Berichtswesen werden frühzeitig Abweichungen bei wesentlichen Eckdaten erkannt, so dass notwendige Maßnahmen eingeleitet bzw. durchgeführt werden können. Mit einer regelmäßigen Berichterstattung an Geschäftsführung und Aufsichtsrat ist sichergestellt, dass die Entscheidungsträger umfassend über die Unternehmensentwicklung informiert sind.
+
+Trotz derartiger Maßnahmen können Risiken nicht vollständig ausgeschlossen werden. Wesentliche Einzelrisiken werden im Folgenden beschrieben:
+
+Technologische Differenzierungpotentiale bzw. Alleinstellungsmerkmale
+
+Eine nachhaltige und glaubhafte Positionierung im Markt setzt voraus, dass wesentliche Eigenschaften der Geräte und Anlagen im Wettbewerbsvergleich positiv beurteilt werden. Sollte dieses über einen längeren Zeitraum nicht überzeugend gelingen, besteht das Risiko, dass sich dies auf erzielbare Preise und Absatzpotenziale negativ auswirkt. Im Entwicklungsbereich besteht das Risiko, dass nicht genügend Ressourcen zur Verfügung stehen, um technische Differenzierungspotenziale nachhaltig zu generieren. Produkte, Märkte sowie insbesondere erforderliche Mitarbeiter werden daher von Scheidt & Bachmann im Rahmen langfristiger Planungen abgeglichen.
+
+Scheidt & Bachmann konzentriert sich dabei auf Technikbereiche, die dem Kunden Mehrwert bieten und Differenzierungspotenziale eröffnen.
+
+Beschaffungskonditionen und Materialverfügbarkeit
+
+Hierbei besteht das Risiko, dass zukünftige Kostensenkungen auf der Einkaufsseite nicht ausreichen, um die negativen Effekte geringerer Verkaufspreise auszugleichen oder Kostenerhöhungen nicht an den Markt weitergegeben werden können. Ebenso können Volatilitäten bei den Rohstoffen, z.B. Nickel, Kupfer und Öl, oder eine Allocation-Situation (temporäre Verknappung des Angebots) die Kostenseite und/oder die Lieferfähigkeit beeinflussen. Scheidt & Bachmann begegnet dieser Problematik durch konsequente Bündelung von Volumen auf Schlüssellieferanten, Reduktion der Teilevielfalt und der Weiterentwicklung elektronischer Beschaffungssysteme.
+
+Produktqualität und Haftungsrisiken
+
+Die erfolgreiche und nachhaltige Positionierung am Markt setzt ein hohes Qualitätsniveau voraus. Dabei gelten für die Zuverlässigkeit und Sicherheit der Produkte hohe Standards. Sollten diese Standards verfehlt werden, besteht das Risiko, dass der Name Scheidt & Bachmann Schaden nimmt und sich dies nachhaltig auf die Ertragskraft der Gesellschaft auswirkt.
+
+Scheidt & Bachmann überwacht ständig die Qualität ihrer Produkte und analysiert das Qualitätsniveau der im Markt befindlichen Geräte und Anlagen.
+
+Finanzierungssituation
+
+Die Finanzierung der Gesellschaft ist langfristig gesichert. Die Scheidt & Bachmann-Gruppe verfügt über eine solide Kapitalstruktur. Darüber hinaus bestehen Finanzierungsvereinbarungen, die ein Wachstum in den nächsten Jahren nicht begrenzen sollten.
+
+Währungsrisiken
+
+Im Rahmen von größeren Projektabschlüssen in Fremdwährungen betreibt die Gesellschaft in ausreichendem Maße Kurssicherungen. Hierzu wurde ein Währungsmanagement konzipiert auf dessen Basis die Detailplanung erfolgt. Das zu erwartende Fremdwährungsvolumen wird ermittelt und mittels Devisentermingeschäften und Währungs-Optionsgeschäften vorwiegend im US-Dollar-, CAD-, CHF- sowie GBP-Raum gesichert.
+
+Rechtliche Risiken
+
+Rechtliche Risiken ergeben sich im Wesentlichen aus Reklamations- und Garantieansprüchen, Schadensersatzforderungen sowie Rechtsstreitigkeiten. Erkennbare rechtliche Risiken werden entweder durch Versicherungen oder - soweit bereits erkennbare Verpflichtungen bestehen - in ausreichendem Maße durch Rückstellungen abgedeckt. Es können jedoch trotzdem Schäden entstehen, die nicht oder nicht ausreichend versichert sind bzw. die gebildeten Rückstellungen deutlich übersteigen. Diesem Risiko wirkt Scheidt & Bachmann durch stringente Projektabwicklung bei gleichzeitiger Kontrolle der Qualität und Vertragskonformität aller zu erbringenden Leistungen frühzeitig entgegen.
+
+Mönchengladbach, den 27. Mai 2024
+
+Die Geschäftsführung
+
+gez. Dr. Norbert Miller
+
+gez. Martin Kammler
+
+gez. Uwe Brünner
+
+gez. Jörg Heilingbrunner
+
+gez. Dr. Michael Lenders
+
+gez. Andreas Räschmeier
+
+BESTÄTIGUNGSVERMERK DES UNABHÄNGIGEN ABSCHLUSSPRÜFERS
+
+An die Scheidt & Bachmann GmbH
+
+Prüfungsurteile
+
+Wir haben den Konzernabschluss der Scheidt & Bachmann GmbH und ihrer Tochtergesellschaften (der Konzern) - bestehend aus der Konzernbilanz zum 31. Dezember 2023, der Konzern-Gewinn- und Verlustrechnung, dem Konzern-Eigenkapitalspiegel und der Konzernkapitalflussrechnung für das Geschäftsjahr vom 1. Januar 2023 bis zum 31. Dezember 2023 sowie dem Konzernanhang, einschließlich der Darstellung der Bilanzierungs- und Bewertungsmethoden - geprüft. Darüber hinaus haben wir den mit dem Konzernlagebericht zusammengefassten Lagebericht (nachfolgend Lagebericht) der Scheidt & Bachmann GmbH für das Geschäftsjahr vom 1. Januar 2023 bis zum 31. Dezember 2023 geprüft.
+
+Nach unserer Beurteilung aufgrund der bei der Prüfung gewonnenen Erkenntnisse
+
+•
+
+entspricht der beigefügte Konzernabschluss in allen wesentlichen Belangen den deutschen handelsrechtlichen Vorschriften und vermittelt unter Beachtung der deutschen Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens- und Finanzlage des Konzerns zum 31. Dezember 2023 sowie seiner Ertragslage für das Geschäftsjahr vom 1. Januar 2023 bis zum 31. Dezember 2023 und
+
+•
+
+vermittelt der beigefügte Lagebericht insgesamt ein zutreffendes Bild von der Lage des Konzerns. In allen wesentlichen Belangen steht dieser Lagebericht in Einklang mit dem Konzernabschluss, entspricht den deutschen gesetzlichen Vorschriften und stellt die Chancen und Risiken der zukünftigen Entwicklung zutreffend dar.
+
+Gemäß § 322 Abs. 3 Satz 1 HGB erklären wir, dass unsere Prüfung zu keinen Einwendungen gegen die Ordnungsmäßigkeit des Konzernabschlusses und des Lageberichts geführt hat.
+
+Grundlage für die Prüfungsurteile
+
+Wir haben unsere Prüfung des Konzernabschlusses und des Lageberichts in Übereinstimmung mit § 317 HGB unter Beachtung der vom Institut der Wirtschaftsprüfer (IDW) festgestellten deutschen Grundsätze ordnungsmäßiger Abschlussprüfung durchgeführt. Unsere Verantwortung nach diesen Vorschriften und Grundsätzen ist im Abschnitt „Verantwortung des Abschlussprüfers für die Prüfung des Konzernabschlusses und des Lageberichts“ unseres Bestätigungsvermerks weitergehend beschrieben. Wir sind von den Konzernunternehmen unabhängig in Übereinstimmung mit den deutschen handelsrechtlichen und berufsrechtlichen Vorschriften und haben unsere sonstigen deutschen Berufspflichten in Übereinstimmung mit diesen Anforderungen erfüllt. Wir sind der Auffassung, dass die von uns erlangten Prüfungsnachweise ausreichend und geeignet sind, um als Grundlage für unsere Prüfungsurteile zum Konzernabschluss und zum Lagebericht zu dienen.
+
+Hinweis auf einen sonstigen Sachverhalt
+
+Unter Inanspruchnahme der Erleichtungsvorschrift des § 298 Abs. 2 Satz 1 HGB wurde der Lagebericht der Scheidt & Bachmann GmbH mit dem Konzernlagebericht zusammengefasst. Im Zeitpunkt der Beendigung unserer Abschlussprüfung konnte nicht abschließend beurteilt werden, ob die Befreiungsvorschrift des § 298 Abs. 2 Satz 1 HGB zu Recht in Anspruch genommen worden ist, weil die Voraussetzung nach § 298 Abs. 2 Satz 2 HGB ihrer Art nach erst zu einem späteren Zeitpunkt erfüllt werden kann. Unser Prüfungsurteil zum Jahresabschluss ist diesbezüglich nicht modifiziert.
+
+Verantwortung der gesetzlichen Vertreter und des Aufsichtsrats für den Konzernabschluss und den Lagebericht
+
+Die gesetzlichen Vertreter sind verantwortlich für die Aufstellung des Konzernabschlusses, der den deutschen handelsrechtlichen Vorschriften in allen wesentlichen Belangen entspricht, und dafür, dass der Konzernabschluss unter Beachtung der deutschen Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage des Konzerns vermittelt. Ferner sind sind die gesetzlichen Vertreter verantwortlich für die internen Kontrollen, die sie in Übereinstimmung mit den deutschen Grundsätzen ordnungsmäßiger Buchführung als notwendig bestimmt haben, um die Aufstellung eines Konzernabschlusses zu ermöglichen, der frei von wesentlichen - beabsichtigten oder unbeabsichtigten - falschen Darstellungen ist.
+
+Bei der Aufstellung des Konzernabschlusses sind sind die gesetzlichen Vertreter dafür verantwortlich, die Fähigkeit des Konzerns zur Fortführung der Unternehmenstätigkeit zu beurteilen. Des Weiteren haben sie die Verantwortung, Sachverhalte in Zusammenhang mit der Fortführung der Unternehmenstätigkeit, sofern einschlägig, anzugeben. Darüber hinaus sind sie dafür verantwortlich, auf der Grundlage des Rechnungslegungsgrundsatzes der Fortführung der Unternehmenstätigkeit zu bilanzieren, sofern dem nicht tatsächliche oder rechtliche Gegenheiten entgegenstehen.
+
+Außerdem sind sind die gesetzlichen Vertreter verantwortlich für die Aufstellung des Lageberichts, der insgesamt ein zutreffendes Bild von der Lage des Konzerns vermittelt sowie in allen wesentlichen Belangen mit dem Konzernabschluss in Einklang steht, den deutschen gesetzlichen Vorschriften entspricht und die Chancen und Risiken der zukünftigen Entwicklung zutreffend darstellt. Ferner sind die gesetzlichen Vertreter verantwortlich für die Vorkehrungen und Maßnahmen (Systeme), die sie als notwendig erachtet haben, um die Aufstellung eines Lageberichts in Übereinstimmung mit den anzuwendenden deutschen gesetzlichen Vorschriften zu ermöglichen, und um ausreichende geeignete Nachweise für die Aussagen im Lagebericht erbringen zu können.
+
+Der Aufsichtsrat ist verantwortlich für die Überwachung des Rechnungslegungsprozesses des Konzerns zur Aufstellung des Konzernabschlusses und des Lageberichts.
+
+Verantwortung des Abschlussprüfers für die Prüfung des Konzernabschlusses und des Lageberichts
+
+Unsere Zielsetzung ist, hinreichende Sicherheit darüber zu erlangen, ob der Konzernabschluss als Ganzes frei von wesentlichen - beabsichtigten oder unbeabsichtigten - falschen Darstellungen ist, und ob der Lagebericht insgesamt ein zutreffendes Bild von der Lage des Konzerns vermittelt sowie in allen wesentlichen Belangen mit dem Konzernabschluss sowie mit den bei der Prüfung gewonnenen Erkenntnissen in Einklang steht, den deutschen gesetzlichen Vorschriften entspricht und die Chancen und Risiken der zukünftigen Entwicklung zutreffend darstellt, sowie einen Bestätigungsvermerk zu erteilen, der unsere Prüfungsurteile zum Konzernabschluss und zum Lagebericht beinhaltet.
+
+Hinreichende Sicherheit ist ein hohes Maß an Sicherheit, aber keine Garantie dafür, dass eine in Übereinstimmung mit § 317 HGB unter Beachtung der vom Institut der Wirtschaftsprüfer (IDW) festgestellten deutschen Grundsätze ordnungsmäßiger Abschlussprüfung durchgeführte Prüfung eine wesentliche falsche Darstellung stets aufdeckt. Falsche Darstellungen können aus Verstößen oder Unrichtigkeiten resultieren und werden als wesentlich angesehen, wenn vernünftigerweise erwartet werden könnte, dass sie einzeln oder insgesamt die auf der Grundlage dieses Konzernabschlusses und Lageberichts getroffenen wirtschaftlichen Entscheidungen von Adressaten beeinflussen.
+
+Während der Prüfung üben wir pflichtgemäßes Ermessen aus und bewahren eine kritische Grundhaltung. Darüber hinaus
+
+•
+
+identifizieren und beurteilen wir die Risiken wesentlicher - beabsichtigter oder unbeabsichtigter - falscher Darstellungen im Konzernabschluss und im Lagebericht, planen und führen Prüfungshandlungen als Reaktion auf diese Risiken durch sowie erlangen Prüfungsnachweise, die ausreichend und geeignet sind, um als Grundlage für unsere Prüfungsurteile zu dienen. Das Risiko, dass wesentliche falsche Darstellungen nicht aufgedeckt werden, ist bei Verstößen höher als bei Unrichtigkeiten, da Verstöße betrügerisches Zusammenwirken, Fälschungen, beabsichtigte Unvollständigkeiten, irreführende Darstellungen bzw. das Außerkraftsetzen interner Kontrollen beinhalten können.
+
+•
+
+gewinnen wir ein Verständnis von dem für die Prüfung des Konzernabschlusses relevanten internen Kontrollsystem und den für die Prüfung des Lageberichts relevanten Vorkehrungen und Maßnahmen, um Prüfungshandlungen zu planen, die unter den gegebenen Umständen angemessen sind, jedoch nicht mit dem Ziel, ein Prüfungsurteil zur Wirksamkeit dieser Systeme abzugeben.
+
+•
+
+beurteilen wir die Angemessenheit der von den gesetzlichen Vertretern angewandten Rechnungslegungsmethoden sowie die Vertretbarkeit der von den gesetzlichen Vertretern dargestellten geschätzten Werte und damit zusammenhängenden Angaben.
+
+•
+
+ziehen wir Schlussfolgerungen über die Angemessenheit des von den gesetzlichen Vertretern angewandten Rechnungslegungsgrundsatzes der Fortführung der Unternehmenstätigkeit sowie, auf der Grundlage der erlangten Prüfungsnachweise, ob eine wesentliche Unsicherheit im Zusammenhang mit Ereignissen oder Gegebenheiten besteht, die bedeutsame Zweifel an der Fähigkeit des Konzerns zur Fortführung der Unternehmenstätigkeit aufwerfen können. Falls wir zu dem Schluss kommen, dass eine wesentliche Unsicherheit besteht, sind wir verpflichtet, im Bestätigungsvermerk auf die dazugehörigen Angaben im Konzernabschluss und im Lagebericht aufmerksam zu machen oder, falls diese Angaben unangemessen sind, unser jeweiliges Prüfungsurteil zu modifizieren. Wir ziehen unsere Schlussfolgerungen auf der Grundlage der bis zum Datum unseres Bestätigungsvermerks erlangten Prüfungsnachweise. Zukünftige Ereignisse oder Gegebenheiten können jedoch dazu führen, dass der Konzern seine Unternehmenstätigkeit nicht mehr fortführen kann.
+
+•
+
+beurteilen wir die Gesamtdarstellung, den Aufbau und den Inhalt des Konzernabschlusses einschließlich der Angaben sowie ob der Konzernabschluss die zugrunde liegenden Geschäftsvorfälle und Ereignisse so darstellt, dass der Konzernabschluss unter Beachtung der deutschen Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage des Konzerns vermittelt.
+
+•
+
+holen wir ausreichende geeignete Prüfungsnachweise für die Rechnungslegungsinformationen der Unternehmen oder Geschäftstätigkeiten innerhalb des Konzerns ein, um Prüfungsurteile zum Konzernabschluss und zum Lagebericht abzugeben. Wir sind verantwortlich für die Anleitung, Überwachung und Durchführung der Konzernabschlussprüfung. Wir tragen die alleinige Verantwortung für unsere Prüfungsurteile.
+
+•
+
+beurteilen wir den Einklang des Lageberichts mit dem Konzernabschluss, seine Gesetzesentsprechung und das von ihm vermittelte Bild von der Lage des Konzerns.
+
+•
+
+führen wir Prüfungshandlungen zu den von den gesetzlichen Vertretern dargestellten zukunftsorientierten Angaben im Lagebericht durch. Auf Basis ausreichender geeigneter Prüfungsnachweise vollziehen wir dabei insbesondere die den zukunftsorientierten Angaben von den gesetzlichen Vertretern zugrunde gelegten bedeutsamen Annahmen nach und beurteilen die sachgerechte Ableitung der zukunftsorientierten Angaben aus diesen Annahmen. Ein eigenständiges Prüfungsurteil zu den zukunftsorientierten Angaben sowie zu den zugrunde liegenden Annahmen geben wir nicht ab. Es besteht ein erhebliches unvermeidbares Risiko, dass künftige Ereignisse wesentlich von den zukunftsorientierten Angaben abweichen.
+
+Wir erörtern mit den für die Überwachung Verantwortlichen unter anderem den geplanten Umfang und die Zeitplanung der Prüfung sowie bedeutsame Prüfungsfeststellungen, einschließlich etwaiger Mängel im internen Kontrollsystem, die wir während unserer Prüfung feststellen.
+
+Mönchengladbach, den 27. Mai 2024
+
+Abstoß & Wolters GmbH & Co. KG
+Wirtschaftsprüfungsgesellschaft
+Steuerberatungsgesellschaft
+
+gez. Ludwig Quacken, Wirtschaftsprüfer
+
+gez. Anna Elisabeth Braun, Wirtschaftsprüferin
+
+BILANZ zum 31. Dezember 2023
+
+Scheidt & Bachmann GmbH, Mönchengladbach
+
+AKTIVA
+
+scroll
+
+	31.12.2023	31.12.2022
+	€	€
+A. Anlagevermögen		
+I. Immaterielle Vermögensgegenstände		
+Entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten	163.491,00	285.589,00
+II. Sachanlagen		
+1. Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken	28.274.322,07	24.482.869,89
+2. Technische Anlagen und Maschinen	6.728.769,00	5.240.012,00
+3. Andere Anlagen, Betriebs- und Geschäftsausstattung	3.085.962,00	3.047.483,00
+4. Geleistete Anzahlungen und Anlagen im Bau	1.046.960,20	2.685.306,59
+	39.136.013,27	35.455.671,48
+III. Finanzanlagen		
+1. Anteile an verbundenen Unternehmen	21.286.563,47	19.467.871,10
+2. Beteiligungen	5.112,92	1.779.156,78
+3. Wertpapiere des Anlagevermögens	162.089,67	162.089,67
+4. Sonstige Ausleihungen	155.790,08	170.268,88
+	21.609.556,14	21.579.386,43
+	60.909.060,41	57.320.646,91
+B. Umlaufvermögen		
+I. Vorräte		
+1. Roh-, Hilfs- und Betriebsstoffe	27.049.587,63	29.508.667,88
+2. Unfertige Erzeugnisse, unfertige Leistungen	14.990.043,36	17.254.653,15
+3. Fertige Erzeugnisse und Waren	2.941.157,11	123.849,21
+4. Geleistete Anzahlungen	17.139,56	11.664,00
+	44.997.927,66	46.898.834,24
+II. Forderungen und sonstige Vermögensgegenstände		
+1. Forderungen aus Lieferungen und Leistungen	2.510.066,29	2.939.926,87
+2. Forderungen gegen verbundene Unternehmen	75.729.972,27	62.214.985,07
+3. Sonstige Vermögensgegenstände	9.945.814,07	9.287.240,70
+	88.185.852,63	74.442.152,64
+III. Kassenbestand, Guthaben bei Kreditinstituten	102.662.412,77	92.580.480,26
+	235.846.193,06	213.921.467,14
+C. Rechnungsabgrenzungsposten	2.190.309,15	1.609.789,19
+	298.945.562,62	272.851.903,24
+
+PASSIVA
+
+scroll
+
+	31.12.2023	31.12.2022
+	€	€
+A. Eigenkapital		
+I. Gezeichnetes Kapital	20.475.000,00	20.475.000,00
+II. Gewinnrücklagen		
+Andere Gewinnrücklagen	138.740.000,00	138.740.000,00
+III. Gewinnvortrag	11.125.669,81	7.129.126,70
+IV. Jahresüberschuss	31.355.407,98	10.982.301,11
+	201.696.077,79	177.326.427,81
+B. Rückstellungen		
+1. Rückstellungen für Pensionen und ähnliche Verpflichtungen	8.202.841,00	9.012.463,00
+2. Steuerrückstellungen	1.838.445,53	780.645,53
+3. Sonstige Rückstellungen	5.873.896,50	6.868.679,55
+	15.915.183,03	16.661.788,08
+C. Verbindlichkeiten		
+1. Verbindlichkeiten gegenüber Kreditinstituten	29.250.000,00	30.250.000,00
+2. Verbindlichkeiten aus Lieferungen und Leistungen	5.116.027,31	5.854.918,07
+3. Verbindlichkeiten gegenüber verbundenen Unternehmen	42.682.999,41	39.833.436,73
+4. Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht	0,00	69.575,80
+5. Sonstige Verbindlichkeiten	4.250.499,95	2.820.981,62
+	81.299.526,67	78.828.912,22
+	97.214.709,70	95.490.700,30
+D. Rechnungsabgrenzungsposten	34.775,13	34.775,13
+	298.945.562,62	272.851.903,24
+
+GEWINN- UND VERLUSTRECHNUNG vom 1. Januar 2023 bis 31. Dezember 2023
+
+Scheidt & Bachmann GmbH, Mönchengladbach
+
+scroll
+
+	Geschäftsjahr	Vorjahr
+	€	€
+1. Umsatzerlöse	162.143.781,73	165.511.220,38
+2. Erhöhung des Bestands an fertigen und unfertigen Erzeugnissen	552.698,11	1.913.418,76
+3. Andere aktivierte Eigenleistungen	350.157,02	330.306,60
+4. Sonstige betriebliche Erträge	9.276.251,81	4.767.190,04
+5. Materialaufwand		
+a) Aufwendungen für Roh-, Hilfs- und Betriebsstoffe und für bezogene Waren	55.259.557,92	65.438.005,18
+b) Aufwendungen für bezogene Leistungen	15.948.488,24	15.702.083,94
+	71.208.046,16	81.140.089,12
+6. Personalaufwand		
+a) Löhne und Gehälter	40.885.794,71	38.858.302,48
+b) Soziale Abgaben und Aufwendungen für Altersversorgung	6.631.736,49	6.238.866,28
+	47.517.531,20	45.097.168,76
+7. Abschreibungen		
+auf immaterielle Vermögensgegenstände des Anlagevermögens und Sachanlagen	4.082.462,84	3.287.702,10
+8. Sonstige betriebliche Aufwendungen	17.581.164,86	22.664.789,84
+9. Erträge aus Beteiligungen	10.153.789,42	10.026.756,32
+10. Erträge aus Ausleihungen des Finanzanlagevermögens	16.493,33	28.503,68
+11. Sonstige Zinsen und ähnliche Erträge	4.152.623,56	384.912,08
+12. Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufvermögens	2.203.232,13	7.702.202,80
+13. Zinsen und ähnliche Aufwendungen	1.450.323,70	1.117.798,10
+14. Aufwendungen aus Verlustübernahme	2.288.959,49	3.870.634,38
+15. Steuern vom Einkommen und vom Ertrag	8.481.950,53	6.464.434,90
+16. Ergebnis nach Steuern	31.832.124,07	11.617.487,86
+17. Sonstige Steuern	476.716,09	635.186,75
+18. Jahresüberschuss	31.355.407,98	10.982.301,11
+
+ANHANG für das Geschäftsjahr 2023
+
+Scheidt & Bachmann GmbH, Mönchengladbach
+
+Vorbemerkungen
+
+Die Gesellschaft wird beim Amtsgericht Mönchengladbach mit der Firma Scheidt & Bachmann GmbH unter der Handelsregisternummer HRB 2125 geführt. Der Sitz der Gesellschaft ist in der Breite Straße 132, 41238 Mönchengladbach.
+
+Der Jahresabschluss für das Geschäftsjahr 2023 wurde nach den Vorschriften in §§ 242 ff. HGB unter Beachtung der ergänzenden Bestimmungen für Kapitalgesellschaften in §§ 264 ff. HGB erstellt.
+
+Die Gewinn- und Verlustrechnung ist nach dem Gesamtkostenverfahren aufgestellt.
+
+Die Schlussbilanzwerte des Vorjahres wurden unverändert übernommen.
+
+Von der Möglichkeit, Berichtspflichten im Anhang anstatt in der Bilanz/Gewinn- und Verlustrechnung zu erfüllen, wurde Gebrauch gemacht. Insbesondere wurden sämtliche gesetzlich vorgesehenen „davon-Vermerke“ bei den Posten der Bilanz und Gewinn- und Verlustrechnung in den Anhang übernommen.
+
+Die Bewertung wurde unter Berücksichtigung der Fortführung des Unternehmens durchgeführt (going-concern-Prinzip).
+
+Bilanzierungs- und Bewertungsgrundsätze
+
+Die nachstehend beschriebenen Bilanzierungs- und Bewertungsgrundsätze sind gegenüber dem Vorjahr unverändert.
+
+Entgeltlich erworbene immaterielle Vermögensgegenstände sind mit den Anschaffungskosten ausgewiesen und werden ihrer voraussichtlichen Nutzungsdauer entsprechend linear abgeschrieben.
+
+Sachanlagen sind zu Anschaffungs- oder Herstellungskosten, teilweise vermindert um in Vorjahren gewährte Investitionszuschüsse, angesetzt sowie um planmäßige Abschreibungen nach der betriebsgewöhnlichen Nutzungsdauer vermindert. Bei den planmäßigen Abschreibungen wurde je nach Abnutzungsart sowohl die lineare als auch die degressive Methode angewandt.
+
+Die Finanzanlagen werden zu den Anschaffungskosten oder dem niedrigeren beizulegenden Wert bilanziert.
+
+Die Bewertung der Vorräte erfolgte bei den Roh-, Hilfs- und Betriebsstoffen auf der Basis der Einstandspreise. Die unfertigen und fertigen Erzeugnisse und Leistungen wurden - von Ausnahmen abgesehen - zu Herstellungskosten bewertet. Der Grad der Verwertbarkeit wurde ebenso berücksichtigt wie der Umstand, dass in Einzelfällen niedrigere erzielbare Verkaufserlöse als Basis für die Bewertung anzusetzen waren.
+
+Bei der Bewertung von Lagerbeständen, die der EDV-mäßigen Verwaltung unterliegen, wird die gemäß § 6 Abs. 1 Nr. 2a EStG auch steuerlich zulässige Verbrauchsfolgefiktion des „last in - first out“ angewandt. Das Niederstwertprinzip (verlustfreie Bewertung) wurde beachtet.
+
+Die geleisteten Anzahlungen sind mit dem Nennwert unter Kürzung von Einzelwertberichtigungen angesetzt.
+
+Die Forderungen und sonstigen Vermögensgegenstände sowie die liquiden Mittel sind mit dem Nominalwert, die Wertpapiere des Umlaufvermögens sind zu Anschaffungskosten oder den niedrigeren Kurswerten aktiviert. Die Wertberichtigungen zu Lieferungsforderungen werden aktivisch abgesetzt.
+
+Der Jahresabschluss enthält auf fremde Währungen lautende Sachverhalte, die in Euro umgerechnet wurden. Forderungen und Verbindlichkeiten mit einer Restlaufzeit von unter einem Jahr wurden mit dem Devisenkassamittelkurs am Bilanzstichtag bewertet.
+
+Die Rückstellungen für Pensionen und ähnliche Verpflichtungen betreffen Pensionsverpflichtungen gegen- über Mitarbeitern und Geschäftsführern (Anwartschaften und laufende Renten) sowie mittelbare Verpflichtungen aus Versorgungszusagen der Unterstützungseinrichtung. Den Rückstellungen liegen versicherungsmathematische Gutachten zugrunde. Der Ausweis der Pensionsverpflichtungen erfolgt unter Anwendung der Richttafeln 2018 G von Dr. Klaus Heubeck zu nach der projected-unit-credit-method bewerteten Anwartschaftsbarwerten. Der gemäß RückAbzinsV zugrunde gelegte Zinssatz beträgt 1,82 %. Entsprechend § 253 Abs. 2 HGB wurde hierbei der durchschnittliche Marktzins zugrunde gelegt, der sich auf der Basis der letzten 10 Geschäftsjahre ermittelt. Bei der Bewertung sind darüber hinaus Steigerungen im Gehalts- (5,0 %) und Rententrend (1,0 %, 1,7 % und 2,0 %) berücksichtigt worden.
+
+Für die mittelbaren Verpflichtungen aus Zusagen der Unterstützungseinrichtung wurde der Unterschied zwischen dem versicherungsmathematischen Sollwert der Verpflichtung (Zinsfuß 1,82 %; Berücksichtigung der Steigerungen im Rententrend von 2,0 %) und dem Vermögen der Unterstützungseinrichtung zurückgestellt.
+
+Die Steuerrückstellungen und sonstigen Rückstellungen werden in Höhe des voraussichtlichen Erfüllungsbetrags ausgewiesen. Sämtlichen erkennbaren Risiken wurde Rechnung getragen.
+
+Langfristige Rückstellungen wurden mit den sich aus der RückAbzinV ergebenden maßgeblichen Zinssätzen abgezinst. Zukünftige Kosten- und Preissteigerungen werden berücksichtigt.
+
+Die Verbindlichkeiten sind mit dem Erfüllungsbetrag passiviert.
+
+Annahme und Schätzungen
+
+Die Erstellung des Jahresabschlusses nach HGB erfordert, dass für einige Positionen Annahmen getroffen und Schätzungen vorgenommen werden. Diese Annahmen und Schätzungen wirken sich auf die Höhe und den Ausweis der zu bilanzierenden Vermögensgegenstände und Schulden, der Erträge und Aufwendungen in der Berichtsperiode aus. Durch die mit diesen Annahmen und Schätzungen verbundene Unsicherheit können die tatsächlichen Ergebnisse in künftigen Perioden zu Anpassungen des Buchwertes der betroffenen Vermögenswerte und Schulden führen. Annahmen und Schätzungen beziehen sich insbesondere auf folgende Sachverhalte:
+
+•
+
+Im Bereich des abnutzbaren Sachanlagevermögens sowie der immateriellen Vermögensgegenstände sind Schätzungen und Annahmen zur Bestimmung der wirtschaftlichen Nutzungsdauer der Anlagen zu treffen.
+
+•
+
+Im Bereich des Finanzanlagevermögens sind Annahmen und Schätzungen über die zukünftig zu generierenden Zahlungsströme erforderlich.
+
+•
+
+Die Ermittlung von Wertberichtigungen auf Forderungen basiert auf Schätzungen und Annahmen hinsichtlich der Bonität der Kunden und des möglichen Ausfallrisikos.
+
+•
+
+Die Vorratsbewertung erfordert Annahmen und Schätzungen hinsichtlich der Nettoveräußerungswerte und der Lebenszyklen von Produktlinien.
+
+•
+
+Rückstellungen für Pensionen und ähnliche Verpflichtungen werden mit Hilfe versicherungsmathematischer Verfahren bewertet. Hierzu sind Annahmen zur Lebenserwartung, künftigen Gehaltsentwicklung, Rentendynamik und Abzinsungsfaktor erforderlich.
+
+•
+
+Ansatz und Bewertung sonstiger Rückstellungen beruhen auf Schätzungen hinsichtlich Höhe und Eintrittswahrscheinlichkeit künftiger Ereignisse.
+
+Wenn möglich werden für diese Annahmen und Schätzungen Erfahrungen aus der Vergangenheit zugrunde gelegt. Die Schätzungen und Annahmen werden regelmäßig überprüft und soweit erforderlich angepasst. Die bei der Erstellung des Jahresabschlusses 2023 herangezogenen Annahmen und Schätzungen für die Bilanzierung und Bewertung, haben keine wesentlichen Auswirkungen auf die Vermögens-, Finanz- und Ertragslage unserer Gesellschaft.
+
+Erläuterungen zur Bilanz
+
+Die Entwicklung der immateriellen Vermögensgegenstände sowie der Sachanlagen und der Finanzanlagen im Jahre 2023 ist aus dem auf Seite 12 beigefügten Anlagenspiegel ersichtlich.
+
+Die Unterschiedsbeträge bei den Vorräten aus der Anwendung der LIFO-Bewertung im Vergleich zur Bewertung mit dem letzten bekannten Börsen-/Marktpreis im Bereich der Lagerbestände, die der EDV-mäßigen Verwaltung unterliegen, betragen für:
+
+scroll
+
+	31.12.2023	31.12.2022
+	T€	T€
+Roh-, Hilfs- und Betriebsstoffe	2.799	1.326
+Unfertige Erzeugnisse	1.919	1.238
+Fertige Erzeugnisse und Waren	18	27
+	4.736	2.591
+
+Die Forderungen aus Lieferungen und Leistungen haben eine Restlaufzeit bis zu einem Jahr.
+
+Die Forderungen gegen verbundene Unternehmen in Höhe von T€ 75.730 (Vorjahr: T€ 62.445) betreffen im Wesentlichen solche aus Lieferungen und Leistungen T€ 15.116, (Vorjahr: T€ 19.686) sowie in Höhe von T€ 63.587 (Vorjahr: T€ 49.291) sonstige Forderungen. Innerhalb dieses Bilanzpostens sind Lieferungsverbindlichkeiten in Höhe von T€ 69 (Vorjahr: T€ 101), Umsatzsteuerverbindlichkeiten von T€ 0 (Vorjahr: T€ 2.114) und sonstige Verbindlichkeiten von T€ 2.904 (Vorjahr:T€ 4.317) gekürzt worden.
+
+In Höhe von T€ 1.700 (Vorjahr: T€ 700) sind die Fordrungen durch Rangrücktrittserklärung nachrangig.
+
+In den übrigen Forderungen sind Forderungen mit einer Restlaufzeit von mehr als einem Jahr in Höhe von € 3.812 (Vorjahr: T€ 3.831) enthalten.
+
+Die Rechnungsabgrenzungsposten enthalten keine Damnumbeträge.
+
+Aus den unterschiedlichen Wertansätzen zwischen der Handels- und der Steuerbilanz bei den Bilanzposten:
+
+―
+
+Anteile an verbundenen Unternehmen,
+
+―
+
+Forderungen verbundene Unternehmen,
+
+―
+
+Sonstige Ausleihungen,
+
+―
+
+Pensions- und sonstige Rückstellungen,
+
+sowie bei den Posten, die der Fremdwährungsumrechnung zum Bilanzstichtag unterlegen haben, ergeben sich saldiert aktive steuerliche Latenzen. Auf die Aktivierung der entsprechenden aktiven latenten Steuern wurde aufgrund des gegebenen Wahlrechts verzichtet.
+
+Das gezeichnete Kapital wird unverändert mit T€ 20.475 ausgewiesen.
+
+Die Gewinnrücklagen werden unverändert mit T€ 138.740 ausgewiesen.
+
+Die Rückstellungen für Pensionen und ähnliche Verpflichtungen enthalten T€ 3.907 (Vorjahr: T€ 4.629) für noch bestehende mittelbare Verpflichtungen aus Zusagen an Unterstützungskassen.
+
+Im Rahmen des Verrechnungsgebots nach § 246 Abs. 2 HGB wurden bestehende Verpflichtungen aus Versorgungszusagen mit Deckungsvermögen, sowie entsprechende Aufwendungen und Erträge wie folgt verrechnet:
+
+scroll
+
+	Beizulegender Wert *	verrechnete Aufwendungen (-) und Erträge (+)
+	T€	T€
+1. Pensionsrückstellungen		
+a) Direkte Zusagen	13.622	-362
+Rückdeckungsversicherungen	-9.326	334
+	4.296	-28
+b) Mittelbare Zusagen	3.907	370
+	8.203	342
+2. Altersteilzeitverpflichtungen	615	-30
+Festgeldguthaben	-408	0
+	207	-30
+
+* Die beizulegenden Werte entsprechen den Anschaffungswerten.
+
+Der ausschüttungsgesperrte Betrag gemäß § 253 Abs. 6 HGB beläuft sich zum Bilanzstichtag auf T€ 57 (Vorjahr: T€ 280).
+
+Die sonstigen Rückstellungen beinhalten im Wesentlichen Verpflichtungen aus dem Personalkostenbereich, dem Bereich des Lieferverkehrs sowie aus Einzel- und Pauschalgewährleistungen.
+
+scroll
+
+	2023	2022
+	T€	T€
+Rückstellungen im Personalbereich	4.655	5.766
+Sonstige Rückstellungen	1.219	1.103
+	5.874	6.869
+
+Innerhalb der sonstigen Rückstellungen wurden Verpflichtungen aus Altersteilzeitverträgen in Höhe von T€ 615 mit dem entsprechenden Deckungsvermögen von T€ 408 saldiert ausgewiesen.
+
+Die Zusammensetzung der Verbindlichkeiten, deren Restlaufzeiten sowie die weiteren gesetzlich geforderten Angaben, gehen aus dem Verbindlichkeitenspiegel auf Seite 13 hervor.
+
+Von den Verbindlichkeiten gegenüber verbundenen Unternehmen mit insgesamt T€ 42.683 (Vorjahr: T€ 39.833) betreffen T€ 871 (Vorjahr: T€ 6.209) solche aus Lieferungen und Leistungen sowie sonstige Verbindlichkeiten von T€ 48.838 (Vorjahr: T€ 53.298). Innerhalb des Bilanzpostens sind Forderungen aus Lieferungen und Leistungen in Höhe von T€ 7.026 (Vorjahr: T€ 15.815) und Umsatzsteuerforderungen von T€ 0 (Vorjahr: T€ 3.859) saldiert.
+
+Erläuterungen zur Gewinn- und Verlustrechnung
+
+Die Umsatzerlöse nach Abzug von Skonto in Höhe von T€ 162.144 (Vorjahr: T€ 165.511) entfallen aufgrund der Ausgliederung der Geschäftsbereiche im Wesentlichen auf das Inland.
+
+Die sonstigen betrieblichen Erträge umfassen im Wesentlichen Erträge aus der Auflösung von Rückstellungen sowie Kursgewinne und Kostenerstattungen von Tochtergesellschaften. Erträge aus der Währungsumrechnung sind in Höhe von T€ 1 (Vorjahr: T€ 3.030) erfasst.
+
+Innerhalb der Personalaufwendungen sind Aufwendungen für Altersversorgung in Höhe von T€ -710 (Vorjahr: T€ -314) enthalten.
+
+Innerhalb der Personalaufwendungen wurden wie im Vorjahr keine Erträge aus dem Deckungsvermögen für die Altersteilzeitverpflichtungen saldiert.
+
+Die sonstigen betrieblichen Aufwendungen enthalten auch Verluste aus Anlageabgängen sowie Wertverluste von Gegenständen des Umlaufvermögens. Die hierunter erfassten Aufwendungen aus der Währungsumrechnung betragen T€ 2 (Vorjahr: T€ 2.925).
+
+Das Gesamthonorar des Abschlussprüfers wird im Konzernanhang angegeben.
+
+Die Beteiligungserträge aus verbundenen Unternehmen belaufen sich im Geschäftsjahr auf insgesamt T€ 8.114 (Vorjahr: T€ 8.259). Auf Gesellschaften mit denen ein Beteiligungsverhältnis besteht enfallen Erträge in Höhe von T€ 2.040 (Vorjahr: T€ 1.768).
+
+Innerhalb der Zinsen und ähnlichen Erträge sind T€ 1.785 (Vorjahr: T€ 114) aus verbundenen Unternehmen erfasst.
+
+Die Abschreibungen auf Finanzanlagen und Wertpapiere des Umlaufvermögens betreffen wie im Vorjahr außerplanmäßige Abschreibungen auf Finanzanlagen.
+
+In den Zinsen und ähnlichen Aufwendungen sind Zinsen an verbundene Unternehmen in Höhe von T€ 606 (Vorjahr: T€ 0) sowie Zinsen aus der Aufzinsung von Rückstellungen in Höhe von T€ 367 (Vorjahr: T€ 348) enthalten.
+
+Aufgrund des Ergebnisabführungsvertrags mit der Scheidt &Bachmann Parking Solutions GmbH wurde der Verlust der Gesellschaft in Höhe von T€ 2.289 übernommen.
+
+Der Aufwand aus Steuern vom Einkommen und vom Ertrag entfällt in Höhe von T€ -988 (Vorjahr: T€ -330) auf Vorjahre.
+
+Aufgrund der partiellen Steuerfreiheit der Beteiligungserträge sowie der Abweichungen zwischen der Handels- und der Steuerbilanz aufgrund unterschiedlicher Bewertungsansätze insbesondere bei den Rückstellungen, ist die steuerliche Bemessungsgrundlage um T€ 12.412 geringer als das sich nach Handelsrecht ergebende Ergebnis.
+
+Die sonstigen Steuern in Höhe von insgesamt T€ 477 (Vorjahr: T€ 635) entfallen im Wesentlichen auf Grundsteuer, Lohnsteuer sowie Umsatzsteuer.
+
+Der Bilanzgewinn entwickelt sich wie folgt:
+
+scroll
+
+	T€
+Der Jahresüberschuss für das Geschäftsjahr 2023 beträgt	31.355,4
+Unter Einbeziehung des Gewinnvortrags aus dem Vorjahr in Höhe von	11.125,7
+ergibt sich der Bilanzgewinn 2023 mit	42.481,1
+
+Sonstige Angaben
+
+Haftungsverhältnisse und finanzielle Verpflichtungen
+
+Am Bilanzstichtag bestanden Bürgschaftserklärungen zugunsten von Tochtergesellschaften in Höhe von rd. T€ 4.229 [TGBP 218; TUSD 831; TILS 170; € 3.184] (Vorjahr: T€ 7.554 [TGBP 218; TUSD 831; TILS 170 € 6.484]).
+
+Zugunsten nahestehender Unternehmen bestanden Bürgschaftserklärungen in Höhe von insgesamt T€ 2.083 (Vorjahr: T€ 3.000).
+
+Finanzielle Verpflichtungen aus Miet- und Leasingverträgen bestanden am 31. Dezember 2023 in folgendem - nicht abgezinsten - Umfang:
+
+scroll
+
+	2024	fällig in Folgejahren	Gesamt
+	T€	T€	T€
+Leasingverträge	859	983	1.842
+Mietverträge	542	0	542
+	1.401	983	2.384
+nachrichtlich: davon gegen verbundene Unternehmen	0	0	0
+
+Neben den dargestellten Haftungsverhältnissen und den sonstigen finanziellen Verpflichtungen bestehen keine außerbilanziellen Geschäfte, die für die Finanzlage der Gesellschaft von Bedeutung wären.
+
+Währungssicherungsgeschäfte
+
+Zur Absicherung von auf Fremdwährungen lautende Zahlungsströme im Bereich der Forderungen bzw. Verbindlichkeiten aus Lieferungen und Leistungen bestanden zum Stichtag diverse Sicherungsgeschäfte.
+
+scroll
+
+	Währung	Gesamtvolumen in Landeswährung	Kurs	Laufzeit
+Devisentermingeschäfte	CHF	3.000.000,00	0,9584-0,9750	12.2024-06.2025
+Optionsgeschäfte				
+- Put-Optionen	CHF	6.000.000,00	1,0300-1,1000	03.2024-12.2025
+- Call-Optionen	CHF	6.000.000,00	0,8475-0,9635	03.2024-12.2025
+Devisentermingeschäfte	CAD	20.000.000,00	1,4698-1,5086	09.2024-12.2025
+Optionsgeschäfte				
+- Put-Optionen	CAD	24.000.000,00	1,5500-1,6000	03.2024-06.2025
+- Call-Optionen	CAD	24.000.000,00	1,3995-1,4250	03.2024-06.2025
+Devisentermingeschäfte	GBP	13.500.000,00	0,8853-0,9031	03.2024-12.2025
+Optionsgeschäfte				
+- Put-Optionen	GBP	22.500.000,00	0,9500	03.2024-12.2025
+- Call-Optionen	GBP	22.500.000,00	0,825-0,8810	03.2024-12.2025
+
+Die in den sonstigen Vermögensgegenständen erfassten Optionsprämien von T€ 1.008 haben zum Stichtag einen Marktwert von -T€ 748. Der Marktwert für die in den sonstigen Verbindlichkeiten erfassten Optionsprämien von T€ 1.008 beläuft sich auf T€ 249.
+
+Organe und Mitarbeiter
+
+Die Geschäftsführung obliegt
+
+scroll
+
+Dr. Ing. Norbert Miller, Mönchengladbach	Vorsitzender
+Martin Kammler, Mönchengladbach	
+Dipl.-Oec. Uwe Brünner, Mönchengladbach	
+Dipl.-Ing. Jörg Heilingbrunner, Düsseldorf	
+Dr. Ing. Michael Lenders, Schwalmtal	
+Andreas Räschmeier, Buch am Buchrain	
+
+Der Aufsichtsrat setzte sich im Jahre 2023 aus folgenden Herren zusammen:
+
+Vertreter der Anteilseigner:
+
+scroll
+
+Andreas Schmitz, Düsseldorf	Vorsitzender
+(Wahrnehmung von Aufsichtsratsmandaten)	
+Dr. Jürgen Vutz, Greven	stellvertretender Vorsitzender
+(Unternehmer und selbständiger Berater)	
+Frank Elsenbruch, Mönchengladbach	
+(selbständiger Kaufmann)	
+Jörg Miller, Viersen	
+(Geschäftsführer)	
+Arbeitnehmervertreter:	
+Marcus Leyendeckers, Mönchengladbach	
+(technischer Angestellter)	
+Stefan Herten, Jüchen	
+(technischer Angestellter)	
+
+Die Vertreter der Anteilseigner wurden durch die Gesellschafterversammlung vom 24. Juni 2022 gewählt. Die Berufung der Arbeitnehmervertreter erfolgte durch Belegschaftswahl am 1. Juni 2022.
+
+Die Vergütung der Geschäftsführer erfolgt nach einem einheitlichen Regelungsprinzip. Da deshalb die Vergütung eines einzelnen Geschäftsführers abgeleitet werden könnte, wird von der Befreiungsvorschrift des § 286 Abs. 4 HGB Gebrauch gemacht.
+
+Der Aufsichtsrat erhielt für seine Tätigkeit Bezüge von insgesamt T€ 160 (Vorjahr: T€ 160).
+
+Frühere Mitglieder der bezeichneten Organe und ihre Hinterbliebenen (derzeit sechs Berechtigte) bezogen im Geschäftsjahr insgesamt T€ 607 (Vorjahr: T€ 648).
+
+Der Betrag der zum 31. Dezember 2023 für frühere Organmitglieder gebildeten Pensionsrückstellungen umfasst T€ 6.014 (Vorjahr: T€ 6.202). Nicht bilanzierte Verpflichtungen bestehen darüber hinaus nicht.
+
+Die durchschnittliche Beschäftigtenzahl (ohne Geschäftsführer) betrug:
+
+scroll
+
+	2023	2022
+Arbeitnehmer gesamt	654	623
+Davon:		
+Produktion	475	455
+Querschnitt Technik / Kaufmännisch	179	168
+
+Anteilsbesitz
+
+Für die Angaben gemäß § 285 Nr. 11 HGB wird zulässigerweise die Schutzklausel gemäß § 286 Abs. 3 Nr. 2 HGB in Anspruch genommen.
+
+Für das Geschäftsjahr 2023 hat die Gesellschaft einen Konzernabschluss erstellt.
+
+Nachtragsbericht
+
+Arbitration Prozess BKK (Budapest)
+
+In 2014 hat Scheidt & Bachmann von der BKK im Rahmen einer öffentlichen Ausschreibung einen Vertrag über die Entwicklung, Fertigung, Installation sowie 5 Jahre Service und Operation eines vollständigen Fahrgeldmanagementsystems (Smart-Card basierten geschlossenen AFC-Systems) für den Großraum Budapest zugesprochen bekommen. Das Vertragsvolumen bei Abschluss lag bei ca. 44,4 Mio. € für die Lieferphase und ca. 46,9 Mio. € für den Operation & Maintenance-Vertrag.
+
+Bereits in der ersten Monaten nach Projektbeginn hat sich herausgestellt, dass es zusätzliche Projektanforderungen gibt (außerhalb des Vertrages) deren vertragliche Umsetzungen sich negativ auf die ersten Projektphasen ausgewirkt haben.
+
+Diese für beide Parteien unbefriedigende Situation hat die BKK zum Anlass genommen, den Vertrag im November 2018 zu kündigen und im September 2021 Klage einzureichen. Aufgrund der vertraglichen Regelungen wurden diese Klagen im Rahmen einer Arbitration durchgeführt (die Richter wurden von den beiden Parteien bestimmt).
+
+Am 23. Januar 2024 hat das Tribunal die Parteien nach Budapest eingeladen und ihnen ihre Einschätzungen der Sachlage mündlich vortragen. Auf Basis dieser Einschätzung haben die Parteien sich zusammengesetzt und einen Vergleich geschlossen.
+
+Der International Court of Arbitration hat diesen Vergleich am 1. März 2024 genehmigt und Scheidt & Bachmann GmbH am 6. März 2024 den vereinbarten Vergleichsbetrag in Höhe von 5,95 Mio. an die BKK überwiesen. Damit sind alle gegenseitigen Ansprüche abgegolten.
+
+Darüber hinaus sind nach Buchungsschluss und Erstellung des Jahresabschlusses keine Vorgänge eingetreten, die die Ertrags-, Finanz- oder Vermögenslage der Gesellschaft maßgeblich beeinflusst haben.
+
+ANLAGENSPIEGEL zum 31. Dezember 2023
+
+Scheidt & Bachmann GmbH, Mönchengladbach
+
+scroll
+
+	Anschaffungs-/ Herstellungskosten	Anschaffungs-/ Herstellungskosten	Anschaffungs-/ Herstellungskosten	Anschaffungs-/ Herstellungskosten	Anschaffungs-/ Herstellungskosten
+	Stand 01.01.2023	Zugänge	Abgänge	Umbuchungen	Stand 31.12.2023
+Anlagevermögen	€	€	€	€	€
+I. Immaterielle Vermögensgegenstände					
+Entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten	7.818.933,87	41.544,00	80.763,84	0,00	7.779.714,03
+Summe immaterielle Vermögensgegenstände	7.818.933,87	41.544,00	80.763,84	0,00	7.779.714,03
+II. Sachanlagen					
+1. Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken	44.876.540,38	4.199.917,68	0,00	653.950,41	49.730.408,47
+2. Technische Anlagen	20.630.592,08	1.257.179,13	362.065,21	1.341.747,72	22.867.453,72
+3. Andere Anlagen, Betriebs- und Geschäftsausstattung	23.380.408,63	1.490.188,91	221.790,66	313.672,17	24.962.479,05
+4. Geleistete Anzahlungen und Anlagen im Bau	2.685.306,59	671.888,97	865,06	-2.309.370,30	1.046.960,20
+Summe Sachanlagen	91.572.847,68	7.619.174,69	584.720,93	0,00	98.607.301,44
+III. Finanzanlagen					
+1. Anteile an verbundenen Unternehmen	27.867.871,10	2.244.648,51	0,00	1.774.043,86	31.886.563,47
+2. Beteiligungen	1.779.156,78	0,00	0,00	-1.774.043,86	5.112,92
+3. Wertpapiere des Anlagevermögens	162.089,67	0,00	0,00	0,00	162.089,67
+4. Sonstige Ausleihungen	175.450,00	45.000,00	56.950,00		163.500,00
+Summe Finanzanlagen	29.984.567,55	2.289.648,51	56.950,00	0,00	32.217.266,06
+Summe Anlagevermögen	129.376.349,10	9.950.367,20	722.434,77	0,00	138.604.281,53
+
+scroll
+
+	Abschreibungen	Abschreibungen	Abschreibungen	Abschreibungen	Abschreibungen
+	Stand 01.01.2023	Geschäftsjahr	Abgänge	Zuschreibung Geschäftsjahr	Stand 31.12.2023
+Anlagevermögen	€	€	€	€	€
+I. Immaterielle Vermögensgegenstände					
+Entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten	7.533.344,87	163.642,00	80.763,84	0,00	7.616.223,03
+Summe immaterielle Vermögensgegenstände	7.533.344,87	163.642,00	80.763,84	0,00	7.616.223,03
+II. Sachanlagen					
+1. Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken	20.393.670,49	1.050.815,91	0,00	-11.600,00	21.456.086,40
+2. Technische Anlagen	15.390.580,08	1.095.603,85	347.499,21	0,00	16.138.684,72
+3. Andere Anlagen, Betriebs- und Geschäftsausstattung	20.332.925,63	1.760.801,08	217.209,66	0,00	21.876.517,05
+4. Geleistete Anzahlungen und Anlagen im Bau	0,00	0,00	0,00	0,00	0,00
+Summe Sachanlagen	56.117.176,20	3.907.220,84	564.708,87	-11.600,00	59.471.288,17
+III. Finanzanlagen					
+1. Anteile an verbundenen Unternehmen	8.400.000,00	2.200.000,00	0,00	0,00	10.600.000,00
+2. Beteiligungen	0,00	0,00	0,00	0,00	0,00
+3. Wertpapiere des Anlagevermögens	0,00	0,00	0,00	0,00	0,00
+4. Sonstige Ausleihungen	5.181,12	3.232,13	0,00	703,33	7.709,92
+Summe Finanzanlagen	8.405.181,12	2.203.232,13	0,00	703,33	10.607.709,92
+Summe Anlagevermögen	72.055.702,19	6.274.094,97	645.472,71	-10.896,67	77.695.221,12
+
+scroll
+
+	Buchwerte	Buchwerte
+	Stand 31.12.2023	Stand 31.12.2022
+Anlagevermögen	€	€
+I. Immaterielle Vermögensgegenstände		
+Entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten	163.491,00	285.589,00
+Summe immaterielle Vermögensgegenstände	163.491,00	285.589,00
+II. Sachanlagen		
+1. Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken	28.274.322,07	24.482.869,89
+2. Technische Anlagen	6.728.769,00	5.240.012,00
+3. Andere Anlagen, Betriebs- und Geschäftsausstattung	3.085.962,00	3.047.483,00
+4. Geleistete Anzahlungen und Anlagen im Bau	1.046.960,20	2.685.306,59
+Summe Sachanlagen	39.136.013,27	35.455.671,48
+III. Finanzanlagen		
+1. Anteile an verbundenen Unternehmen	21.286.563,47	19.467.871,10
+2. Beteiligungen	5.112,92	1.779.156,78
+3. Wertpapiere des Anlagevermögens	162.089,67	162.089,67
+4. Sonstige Ausleihungen	155.790,08	170.268,88
+Summe Finanzanlagen	21.609.556,14	21.579.386,43
+Summe Anlagevermögen	60.909.060,41	57.320.646,91
+
+VERBINDLICHKEITENSPIEGEL zum 31. Dezember 2023
+
+Scheidt & Bachmann GmbH, Mönchengladbach
+
+scroll
+
+	RESTLAUFZEITEN	RESTLAUFZEITEN	RESTLAUFZEITEN	RESTLAUFZEITEN
+	bis zu einem Jahr	bis zu einem Jahr	zwischen einem und fünf Jahren	zwischen einem und fünf Jahren
+	31.12.2023	31.12.2022	31.12.2023	31.12.2022
+	€	€	€	€
+1. Verbindlichkeiten gegenüber Kreditinstituten	5.875.000,00	6.000.000,00	16.625.000,00	16.750.000,00
+2. Verbindlichkeiten aus Lieferungen und Leistungen	5.116.027,31	5.854.918,07	0,00	0,00
+3. Verbindlichkeiten gegenüber verbundenen Unternehmen	42.682.999,41	39.833.436,73	0,00	0,00
+4. Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht	0,00	69.575,80	0,00	0,00
+5. Sonstige Verbindlichkeiten	3.839.151,95	2.176.931,62	411.348,00	644.050,00
+davon aus Steuern	(2.569.477,79)	(957.460,13)	(0,00)	(0,00)
+davon im Rahmen der sozialen Sicherheit	(2.907,34)	(2.537,92)	(0,00)	(0,00)
+davon gegenüber Gesellschaftern	(72.222,18)	(72.042,46)	(0,00)	(0,00)
+	57.513.178,67	53.934.862,22	17.036.348,00	17.394.050,00
+
+scroll
+
+	RESTLAUFZEITEN	RESTLAUFZEITEN	GESAMTBETRAG	GESAMTBETRAG
+	von mehr als fünf Jahren	von mehr als fünf Jahren	Gesamtbetrag	Gesamtbetrag
+	31.12.2023	31.12.2022	31.12.2023	31.12.2022
+	€	€	€	€
+1. Verbindlichkeiten gegenüber Kreditinstituten	6.750.000,00	7.500.000,00	29.250.000,00	30.250.000,00
+2. Verbindlichkeiten aus Lieferungen und Leistungen	0,00	0,00	5.116.027,31	5.854.918,07
+3. Verbindlichkeiten gegenüber verbundenen Unternehmen	0,00	0,00	42.682.999,41	39.833.436,73
+4. Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht	0,00	0,00	0,00	69.575,80
+5. Sonstige Verbindlichkeiten	0,00	0,00	4.250.499,95	2.820.981,62
+davon aus Steuern	(0,00)	(0,00)	(2.569.477,79)	(957.460,13)
+davon im Rahmen der sozialen Sicherheit	(0,00)	(0,00)	(2.907,34)	(2.537,92)
+davon gegenüber Gesellschaftern	(0,00)	(0,00)	(72.222,18)	(72.042,46)
+	6.750.000,00	7.500.000,00	81.299.526,67	78.828.912,22
+
+ANHANG für das Geschäftsjahr 2023
+
+Scheidt & Bachmann GmbH, Mönchengladbach
+
+Gewinnverwendung
+
+Die Geschäftsführung schlägt der Gesellschafterversammlung vor, aus dem Bilanzgewinn zum 31. Dezember 2023 eine Zuführung zu den Gewinnrücklagen in Höhe von € 10.000.000,00 vorzunehmen sowie eine Ausschüttung an die Gesellschafter*innen in Höhe von € 16.014.948,00 zu tätigen. Der verbleibenden Bilanzgewinn in Höhe von € 16.466.129,79 soll auf neue Rechnung vorgetragen werden.
+
+Mönchengladbach, den 27. Mai 2024
+
+Die Geschäftsführung
+
+gez. Dr. Norbert Miller
+
+gez. Martin Kammler
+
+gez. Uwe Brünner
+
+gez. Jörg Heilingbrunner
+
+gez. Dr. Michael Lenders
+
+gez. Andreas Räschmeier
+
+ZUSAMMENGEFASSTER LAGEBERICHT für das Geschäftsjahr 2023
+
+Scheidt & Bachmann GmbH, Mönchengladbach
+
+Vorbemerkung
+
+Der Lagebericht der Scheidt & Bachmann GmbH und der Konzernlagebericht für das Geschäftsjahr 2023 sind nach § 315 Abs. 3 in Verbindung mit § 298 Abs. 3 HGB zusammengefasst. Der Jahresabschluss der Scheidt & Bachmann GmbH und der zusammengefasste Lagebericht werden zeitgleich im Bundesanzeiger offengelegt.
+
+Die nachstehenden Ausführungen beziehen sich in erster Linie auf die Scheidt & Bachmann Gruppe. Soweit erforderlich wird auf die Scheidt & Bachmann GmbH gesondert eingegangen.
+
+1. Grundlagen des Konzerns
+
+a.) Geschäftsmodell des Konzerns/Unternehmens
+
+Der Konzern entwickelt, produziert und vertreibt Systemlösungen auf den Märkten für Signalling Systems (SIGNALLING), Parking Solutions (PS), Fare Collections Systems (FCS) sowie Fuel Retail Solutions (FRS).
+
+Im Mittelpunkt der Geschäftstätigkeit steht die Systementwicklung mit der Erstellung umfangreicher Softwarepakete. Die dabei je Geschäftsbereich vom Unternehmen konzipierte Softwarestruktur bietet - ausgehend von einer geschützten Kern-Architektur, die ein Maximum an Stabilität garantiert - eine hohe Flexibilität bei der Erweiterung eines Systems um neue Funktionen und damit einen hohen Anwendernutzen.
+
+Der Scheidt & Bachmann-Konzern umfasst eine Gruppe von 36 nationalen und internationalen Gesellschaften (einschließlich der Muttergesellschaft), die unter Führung der Scheidt & Bachmann GmbH stehen. Im Konsolidierungskreis befinden sich zwei Gesellschaften von nachrangiger Bedeutung. Als wesentliche Beteiligungen außerhalb des Konsolidierungskreises sind die Beteiligung an der Parktech Finland Oy sowie der entervo-access GmbH zu nennen.
+
+Die Konzerngesellschaften (einschließlich Muttergesellschaft) sind:
+
+National:
+
+Scheidt & Bachmann GmbH
+
+Scheidt & Bachmann Signalling Systems GmbH
+
+Scheidt & Bachmann Parking Solutions GmbH
+
+Scheidt & Bachmann Fare Collection Systems GmbH
+
+Scheidt & Bachmann Fuel Retail Solutions GmbH
+
+evopark GmbH
+
+loT Business Solutions GmbH
+
+Scheidt & Bachmann loT Solutions GmbH
+
+Scheidt & Bachmann Parking Solutions Germany GmbH
+
+Scheidt & Bachmann Service GmbH
+
+Scheidt & Bachmann System Service GmbH
+
+Scheidt & Bachmann System Technik GmbH
+
+International:
+
+AVISTA Sp. z o.o.
+
+Scheidt & Bachmann Belgien
+
+Scheidt & Bachmann Canada Inc.
+
+Scheidt & Bachmann FCS Italia Srl.
+
+Scheidt & Bachmann France S.A.S.
+
+Scheidt & Bachmann Iberica S.L.U.
+
+Scheidt & Bachmann Ireland Ltd.
+
+Scheidt & Bachmann Israel Ltd.
+
+Scheidt & Bachmann Maghreb S.A.R.L.
+
+Scheidt & Bachmann Nederland B.V.
+
+Scheidt & Bachmann Österreich GmbH
+
+Scheidt & Bachmann Parkeersystemen B.V.
+
+Scheidt & Bachmann Parking Solutions Österreich GmbH
+
+Scheidt & Bachmann Polska Spólka z.o.o.
+
+Scheidt & Bachmann Rus, LLC
+
+Scheidt & Bachmann Schweiz GmbH
+
+Scheidt & Bachmann Slovensko s.r.o.
+
+Scheidt & Bachmann Sverige AB
+
+Scheidt & Bachmann UK Ltd.
+
+Scheidt & Bachmann Ukraine, LLC
+
+Scheidt & Bachmann USA Inc.
+
+SCHENK Systeme AG
+
+Sonstige:
+
+Gesellschaft für Apparate mechanischer Art GAMA mbH
+
+mcity GmbH
+
+b.) Ziele und Strategien
+
+b1.) Allgemeine Zielsetzung
+
+Zentrales Ziel der Scheidt & Bachmann Gruppe ist das kontinuierliche und profitable Wachstum aller Unternehmensbereiche. In unseren aktiven Märkten streben wir eine Marktposition mindestens unter den ersten drei Anbietern an.
+
+Wir machen uns zur Aufgabe, den Kundennutzen unserer Systemlösungen klar zu vermitteln, Neukunden zu gewinnen und international zu wachsen.
+
+Unser Geschäftsmodell, basierend auf Erweiterung der Kundenbasis durch Neuinstallationen, der Lieferungen von neuen Softwarelösungen sowie der Ausweitung von Service-Leistungen, ist Grundlage für dieses Wachstum.
+
+Ein wesentliches Unternehmensziel zum Erhalt und Ausbau des Unternehmenswertes ist die Aufrechterhaltung der internationalen Wettbewerbsfähigkeit und damit verbunden die Erschließung konkurrenzfähiger Kostenstrukturen.
+
+Hierbei spielen die Tochtergesellschaften eine ganz wesentliche Rolle. Grundsätzlich sind zwei Zielrichtungen mit der Gründung von Tochtergesellschaften verbunden:
+
+―
+
+Gesellschaften für Vertrieb/Projektierung und Service (Aufgaben, die langfristig erfolgreich nur vor Ort ausgeführt werden können),
+
+―
+
+Gesellschaften zur Erschließung wirtschaftlicher Ressourcen (Nutzung des internationalen Kostengefälles).
+
+b2.) Gesetz für die gleichberechtigte Teilhabe von Frauen und Männern an Führungspositionen (in Kraft getreten 1. Mai 2015)
+
+Aus der Anwendung des oben genannten Gesetzes ergibt sich für die Scheidt & Bachmann GmbH die Verpflichtung, Zielgrößen zur Erhöhung des Frauenanteils und Fristen zu deren Erreichung in Aufsichtsrat, Geschäftsführung und den oberen Managementebenen festzulegen.
+
+Dabei ist aus Sicht der Gesellschafter*innen der Scheidt & Bachmann GmbH das Unternehmen im besonderen Maße darauf angewiesen die Führungskräfte für sich zu gewinnen, die neben den fachlichen Qualifikationen auch die menschlichen und persönlichen Voraussetzungen mitbringen, um im Umfeld eines Familienunternehmens richtungsgebende Akzente zur weiteren Unternehmensentwicklung beitragen zu können.
+
+Es ist der ausdrückliche Wunsch der Gesellschafter*innen, dass dieser Grundsatz unverändert bei der Besetzung von Führungspositionen innerhalb der Scheidt & Bachmann GmbH und den im Rahmen einer Ausgliederung in 2021 entstandenen selbständigen operativen Bereichsobergesellschaften zur Anwendung kommt. Denn nur so kann sichergestellt werden, dass Scheidt & Bachmann als Familienunternehmen fortbestehen kann.
+
+Die Gesellschafter*innen der Scheidt & Bachmann GmbH haben sich dafür ausgesprochen, keine von dem bisherigen Status Quo abweichenden Zielgrößen für den Frauenanteil im Aufsichtsrat und in der Geschäftsführung der Scheidt & Bachmann GmbH festzulegen.
+
+Die Geschäftsführung der Scheidt & Bachmann GmbH wiederum hat für die beiden folgenden Führungsebenen F2 und F3 (konsolidiert für die Gesellschaften Scheidt & Bachmann GmbH, Scheidt & Bachmann Signalling Systems GmbH, Scheidt & Bachmann Parking Solutions GmbH, Scheidt & Bachmann Fare Collection Systems GmbH und Scheidt & Bachmann Fuel Retail Solutions GmbH) folgende Zielgrößen festgelegt, die bis zur Gesellschafterversammlung im Juni 2025 eingehalten werden sollen:
+
+scroll
+
+Führungsbene	Anzahl 31.12.2023	davon weiblich	Frauenanteil 31.12.2023	Zielgröße Juni 2025
+F2	25	1	3,8 %	10,0 %
+F3	71	6	8,5 %	10,0 %
+
+c.) Steuerungssystem
+
+Wesentliches Steuerungssystem der Gruppe ist die 5-Jahresplanung.
+
+Die Kernelemente der 5-Jahresplanung sind die vom jeweiligen Geschäftsbereich erarbeiteten Planungsrechnungen. Hierbei wird jeweils unter Berücksichtigung der eigenen Kernkompetenzen und unter Zugrundelegung von Analysen der Markt- und Wettbewerbssituationen eine detaillierte Planung der einzelnen Jahre des Betrachtungszeitraums vorgenommen.
+
+d.) Forschung und Entwicklung
+
+Die S&B Gruppe betreibt umfangreiche Entwicklungsarbeiten, insbesondere im Bereich der Neuentwicklungen, der permanenten Verbesserungen der Prozesssicherheit, der Energieeffizienz sowie dem Umweltschutz. Im Geschäftsjahr 2023 wurden mehrere Förderanträge bewilligt mit eine Forschungszulage in der Summe von ca. 1,1 Mio €.
+
+Zur Umsetzung dieser Arbeiten beschäftigt die S&B Gruppe ca. 559 Mitarbeiter und Freelancer (ca. 18 % der Gesamtmitarbeiterzahl) im Bereich der Software-Entwicklung. In den vergangenen Jahren wurde die Erbringung dieser Entwicklungsleistungen konsequent weiter auf mehrere Länder verteilt. Dadurch wurden neue Arbeitsmärkte mit anderen Kostenstrukturen erschlossen und die Abhängigkeit vom Arbeitsmarkt Deutschland begrenzt. Neben Deutschland werden die Entwicklungsleistungen in der Slowakei, Ukraine und Tunesien erbracht. Trotz des schwierigen wirtschaftlichen Umfelds werden die Entwicklungsleistungen auf dem hohen Niveau bleiben.
+
+2. Wirtschaftsbericht
+
+a.) Gesamtwirtschaftliche und branchenbezogene Rahmenbedingungen mit Ausblick auf 2024
+
+Im Jahr 2023 bewies die Weltkonjunktur eine überraschende Widerstandsfähigkeit gegenüber dem Inflationsschock und der strikten Geldpolitik, wobei das Wachstum allerdings moderat ausfiel. Die Maschinenbau- und Elektronikindustrie (M+E-Industrie) erlebte einen beschleunigten Abschwung, gekennzeichnet durch ein sinkendes Auftragsvolumen, eine rückläufige Produktion, sowie einen Absatz- und Umsatzrückgang. Die Beschäftigtenzahlen in der M+E-Industrie blieben zwar stabil, aber der konjunkturelle (Wieder-)Aufbau war durch die schwächere Wirtschaftslage gedämpft. Die Erwartungen der M+E-Firmen waren aufgrund von Unsicherheiten in der Haushaltspolitik und rückläufiger Logistikaktivität pessimistisch. Wirtschaftsprognosen wurden signifikant nach unten korrigiert, da sich die Hoffnungsträger wie Konsum, Investitionen und Welthandel/Exporte nicht belebten. Die Inflationsraten gingen durch Basiseffekte zurück, allerdings befürchtete die Bundesbank, dass die Kerninflation durch eine starke Lohndynamik auf hohem Niveau gehalten wurde.
+
+In Deutschland war die wirtschaftliche Entwicklung im Jahr 2023 von einer Stagnation geprägt, während die Inflationsraten langsam sanken. Dies wurde vor allem durch die Folgen der Energiepreiskrise, die den privaten Konsum beeinträchtigte, sowie durch geopolitische Spannungen und eine verhaltene globale Wirtschaftsdynamik verursacht. Trotz eines leichten BIP-Rückgangs im dritten Quartal und der Aussicht auf eine Abschwächung der Investitionen zeigten einige Stimmungsindikatoren wie das ifo Geschäftsklima und das GfK-Konsumklima eine leichte Verbesserung der wirtschaftlichen Aussichten, obwohl Risiken wie geopolitische Krisen und Unsicherheiten in der Haushaltspolitik bestehen blieben.
+
+Die Aussichten für 2024 und die Folgejahre deuten auf eine allmähliche Verbesserung der Weltkonjunktur hin, obwohl die wirtschaftliche Lage in Deutschland zu Beginn des Jahres 2024 schwach war. Die Abwärtstrends bei der Inflation, kombiniert mit steigenden Reallöhnen und einer langsamen Belebung der Weltwirtschaft, könnten die wesentlichen Belastungsfaktoren für die deutsche Wirtschaft reduzieren und eine vorwiegend binnenwirtschaftliche Erholung unterstützen. Obwohl die Produktion im Produzierenden Gewerbe weiterhin rückläufig war und die Auslandsnachfrage schwach blieb, zeigten die Auftragseingänge aus dem Inland Stabilisierungstendenzen. Eine Erholung der Industriekonjunktur wird jedoch erst später im Jahr erwartet, begünstigt durch eine Belebung der Binnenwirtschaft und anziehende Exporte.
+
+Die Konsumstimmung zeigte Anzeichen einer Verbesserung, was auf eine mögliche Erholung des privaten Konsums im Laufe des Jahres hindeutet, obwohl der Einzelhandel noch keine deutliche Trendwende verzeichnete. Ein Anstieg der Inflationsrate gegen Jahresende war erwartet worden, doch wird die Inflationsentwicklung voraussichtlich durch steuerliche und fiskalische Maßnahmen sowie durch inflationssenkende Faktoren wie sinkende Energie- und Erzeugerpreise beeinflusst. Der Arbeitsmarkt blieb trotz eines saisonbedingten leichten Anstiegs der Arbeitslosigkeit robust. Günstigere Frühindikatoren deuten auf eine allmähliche Verbesserung der Wirtschaftsaussichten hin, besonders ab dem Frühjahr, wenn erwartet wird, dass die Wirtschaft wieder Fahrt aufnimmt.
+
+Die Unternehmensinsolvenzen sind zwar leicht zurückgegangen, bleiben aber auf einem erhöhten Niveau, wobei größere Unternehmen stärker betroffen sind. Die Prognosen internationaler Organisationen deuten auf eine moderate Erholung des Welthandelsvolumens und ein leichtes Anziehen der Weltkonjunktur hin, obwohl geopolitische Risiken und Handelsunsicherheiten weiterhin bestehen. Insgesamt zeigen die Aussichten für 2024 und darüber hinaus, dass trotz anhaltender Herausforderungen eine allmähliche wirtschaftliche Erholung in Sicht ist.
+
+Quellen:
+
+•
+
+Bundesministerium für Wirtschaft und Klimaschutz: Konjunktur und Wachstum.
+
+•
+
+Kiel Institut für Wirtschaft
+
+•
+
+Arbeitgeberverband Metall- und Elektroindustrie
+
+b.) Geschäftsverlauf 2023
+
+Der Lagebericht der Scheidt & Bachmann GmbH und der Konzernlagebericht für das Geschäftsjahr 2023 sind nach § 315 Abs. 3 in Verbindung mit § 298 Abs. 3 HGB zusammengefasst. Der Jahresabschluss der Scheidt & Bachmann GmbH und der zusammengefasste Lagebericht werden zeitgleich im Bundesanzeiger offengelegt.
+
+Die nachstehenden Ausführungen beziehen sich in erster Linie auf die Scheidt & Bachmann Gruppe. Soweit erforderlich wird auf die Scheidt & Bachmann GmbH gesondert eingegangen.
+
+Im Oktober 2023 ist es in dem Software-Entwicklungs- und Test-Center in Zilina (Slowakei) zu einem Brandschaden gekommen. Es gab keine Personenschäden, allerdings sind die vorhandenen Arbeitsplätze der Software-Entwickler als auch die Test-Geräte, insbesondere durch Löschwasser, Rauch und Ruß, vollständig unbrauchbar geworden. Auch das Dach und die Inneneinrichtungen sind stark in Mitleidenschaft gezogen worden und müssen erneuert werden. Es wurde eine Task Force eingesetzt, um die Aufräum- und Reinigungsarbeiten sowie die Wiederherstellung des Gebäudes in enger Absprache mit den involvierten Versicherungen zu steuern. Der Fokus lag in der Wiederaufnahme der Software-Entwicklungs- und Testarbeiten durch die Mitarbeiter in Zilina. Durch die zur Verfügungstellung von mobilen Arbeitsgeräten waren die Software-Entwickler innerhalb weniger Tage wieder voll einsatzfähig. Die Testtätigkeiten wurden temporär von Zilina verlagert, z.B. in unsere Standorte USA und Canada und/oder zu unseren Kunden, wo die Mitarbeiter*innen aus Zilina dann ihren Testtätigkeiten durchführen. Gleichzeitig wurden die beschädigten Testgeräte zu einem Brandsanierer nach Deutschland verbracht. Es wurden in Zilina externe Räumlichkeiten angemietet und dort wird der Testbetrieb sukzessive (nach Rücklauf der gereinigten Testgeräte) wieder aufgenommen. Bisher ist es gelungen, negative Auswirkungen auf unsere Kundenprojekte zu verhindern. Erklärtes Ziel ist es, dass die ursprünglichen Räumlichkeiten des Software-Entwicklungs- und Test-Center Ende 2024 wieder voll funktionsfähig sind und der komplette Betrieb wieder in Zilina durchgeführt wird.
+
+Die Scheidt & Bachmann Gruppe hat sich operativ gegenüber dem Vorjahr positiv entwickelt. Bei allen Kennzahlen ist zu berücksichtigen, dass die SCHENK Systeme AG in 2023 erstmalig anteilig in den Konzernabschluss einbezogen wurde.
+
+b1.) Umsatz
+
+Die Scheidt & Bachmann Gruppe lag mit einer Umsatzleistung in Höhe von 478,8 Mio. € um 29,2 Mio. € über dem Vorjahreswert, was einem Anstieg von % entspricht.
+
+Dabei stellte sich der Inlandsmarkt weiterhin sehr stabil dar. Der nach wie vor sehr bedeutende Export lag im Jahr 2023 mit 60,4 % etwas über Vorjahresniveau (57,5 %).
+
+Der Nahostkonflikt im Gaza-Streifen hat dazu geführt, dass bis auf weiteres ein jährliches Umsatzpotential in Israel im mittleren einstelligen Millionenbereich mit guten Margen weggebrochen ist.
+
+b2.) Personal
+
+Die durchschnittliche Mitarbeiterzahl ist mit insgesamt 3.291 im Vergleich zum Jahr 2022 um 126 Mitarbeiter (ca. 4 %) gestiegen, wobei dem heutigen Kerngeschäft folgend, die Personalmaßnahmen im Wesentlichen auf die Bereiche Projektmanagement/Entwicklung/Produktmanagement/Service ausgerichtet sind.
+
+Aufgrund der demographischen Entwicklung in Deutschland wird es eine der wichtigsten Herausforderungen sein, ausreichend qualifiziertes Personal zu gewinnen und im Unternehmen zu halten. Diesem Risiko vorbeugend baut Scheidt & Bachmann neben der traditionellen innerbetrieblichen Berufsausbildung und dem erweiterten Angebot an technischen und kaufmännischen dualen Studiengängen auf eine enge Kooperation mit Hochschulen sowie verstärkte Netzwerkaktivitäten im Bereich Schule und Wirtschaft.
+
+Zukünftig wird die Positionierung von Scheidt & Bachmann als attraktiver Arbeitgeber eine entscheidende Rolle spielen. Durch gezielte Personalentwicklungsmaßnahmen, moderne Arbeitsbedingungen, zeitgemäße Entlohnungsformen und Handlungs- und Entscheidungsfreiheiten sollen Mitarbeiter (vorhandene und neue) an das Unternehmen gebunden werden.
+
+b3.) Ergebnis
+
+Der Konzernjahresüberschuss in Höhe von 26,6 Mio. € liegt 7,2 Mio. € über dem Vorjahr (19,4 Mio. €).
+
+c.) Lage: Ertragslage, Vermögens- und Finanzlage
+
+Die Scheidt & Bachmann Gruppe hat sich im Geschäftsjahr 2023 erfolgreich am Markt behauptet.
+
+Die gesteckten Ziele beim Umsatz und Ergebnis konnten 2023 erreicht werden. Das Unternehmen verfügt nach wie vor über eine gute Eigenkapitalausstattung. Die Eigenkapitalquote liegt unverändert auf hohem Niveau. Zusammen mit einer weiter soliden finanziellen Basis ist Scheidt & Bachmann damit sehr gut aufgestellt, um den nach wie vor bestehenden Risiken der Gesamtwirtschaft erfolgreich zu begegnen.
+
+c1.) Ertragslage
+
+Der Umsatz in 2023 in Höhe von 478,8 Mio. € lag 29,2 Mio. € über Vorjahresniveau (449,6 Mio. €). Bei den Materialien und bezogenen Leistungen zeigt sich gegenüber dem Vorjahr ein Rückgang von 6,1 Mio. €. Absolut liegt das Rohergebnis im Jahre 2023 um 32,8 Mio. € über dem Ergebnis des Vorjahres, bezogen auf die Gesamtleistung macht es 69,5 % nach 66,5 % im Vorjahr aus.
+
+Die Betriebsaufwendungen sind im Vergleich zum Jahr 2022 um 11,5 % gestiegen.
+
+Das Zinsergebnis (inkl. ähnliche Erträge/Aufwendungen) hat sich gegenüber dem Vorjahr um rd. 0,5 Mio. € verbessert. Das Ergebnis aus Beteiligungen an assoziierten Unternehmen liegt mit 0,1 Mio. € rd. 2,0 Mio. € unter dem Vorjahr.
+
+c2.) Vermögens- und Finanzlage
+
+Die Bilanzsumme wurde gegenüber dem Vorjahr von 416,2 Mio. € um 45,5 Mio. € auf 461,7 Mio. € abgebaut.
+
+Der Anteil des Sachanlagevermögens am Gesamtvermögen liegt um 0,9 %-Punkte über dem entsprechenden Vorjahresniveau.
+
+Das Vorratsvermögen wurde um insgesamt 8,1 Mio. € aufgebaut. Die Lieferungsforderungen haben um insgesamt 5,5 Mio. € abgenommen und die Forderungen gegen assoziierte Unternehmen haben sich um 0,8 Mio. € verringert. Die sonstigen Vermögensgegenstände haben um 11,0 Mio. € zugenommen.
+
+Mit einem Gesamtvolumen von 219,5 Mio. € und einer Eigenkapitalquote von 47,5 % ist die Eigenkapitalbasis weiterhin sehr solide.
+
+Das kurzfristige Fremdkapital hat insgesamt um rd. 33,1 Mio. € zugenommen.
+
+Mit 153,0 Mio. € liquiden Mitteln (ohne langfristige Anlagen) und einem Anteil von 33,1 % am Gesamtvermögen ist nach wie vor eine sehr stabile Finanzierung gegeben.
+
+Der erwirtschaftete Brutto-Cashflow vor Änderung des Nettoumlaufvermögens von 36,0 Mio. € liegt 6,4 Mio. € über dem Niveau des Vorjahres.
+
+c3.) Investitionen
+
+Im Bereich des bilanziellen Anlagevermögens betreffen die wesentlichen Erweiterungsinvestitionen das heutige Kerngeschäft (Technik, Projektierung und After-Sales-Service). Daneben werden weiterhin Ersatzbeschaffungen für ausgewählte Technologiegruppen in der Produktion getätigt.
+
+c4.) Liquidität
+
+Die Finanzierung der laufenden Geschäfte sowie die Durchführung der geplanten Investitionen waren zu jederzeit sichergestellt. Neben den vorhandenen liquiden Mitteln, stehen ausreichend verbindliche und derzeit nicht in Anspruch genommene Kreditzusagen zur Verfügung. Die finanzielle Lage der Gruppe ist somit als ausgesprochen gut einzustufen.
+
+c5.) Scheidt & Bachmann GmbH
+
+Die in 2021 beschlossene Ausgliederung des operativen Kundenendgeschäftes der Geschäftsbereiche Signalling Systems, Parking Solutions, Fare Collection Systems und Fuel Retail Solutions aus der Scheidt & Bachmann GmbH in vier eigenständige GmbHs wurde in 2023 weiter konsequent umgesetzt.
+
+Die Scheidt & Bachmann GmbH erbringt für die operativen Geschäftsbereiche Dienstleistungen im Bereich der Produktion (u.a. Fertigung, QS, Materialwirtschaft, Versand) und der zentralen Dienste (u.a. Personal, IT, Finanzbuchhaltung, Controlling, Versicherungen).
+
+Im abgelaufenen Geschäftsjahr konnte die Scheidt & Bachmann GmbH Umsätze in Höhe von 162,1 Mio. € erzielen. Dies entspricht einem Rückgang gegenüber Vorjahr um 2 %.
+
+Der Einsatz an Materialien und bezogenen Leistungen liegt mit 71,2 Mio. € unter Vorjahresniveau (81,1 Mio. €). Bezogen auf die Gesamtleistung von 163,0 Mio. € liegt das Rohergebnis von 91,8 Mio. € bei 56,2 % (Vorjahr 51,6 %). Die Personalaufwendungen sind um 2,4 Mio. € gestiegen. Die sonstigen betrieblichen Aufwendungen haben um 5,1 Mio. € im Vorjahresvergleich abgenommen.
+
+Die Beteiligungserträge (inkl. assoziierte Beteiligungen) sind in 2023 um 0,1 Mio. € auf insgesamt 10,1 Mio. € gestiegen. Die sonstigen Zinserträge weisen einen Anstieg um 3,8 Mio. € auf sowie die Zinsaufwendungen um 0,3 Mio. €. Die Abschreibungen auf Finanzanlagen und Wertpapiere des Umlaufvermögens liegen um 5,5 Mio. € unter Vorjahresniveau.
+
+Der Jahresüberschuss der GmbH wird zum Stichtag mit 31,4 Mio. € (Vorjahr 11,0 Mio. €) ausgewiesen.
+
+Die durchschnittliche Mitarbeiterzahl ist um 31 gegenüber dem Vorjahr gestiegen und beträgt 654.
+
+Die Bilanzsumme ist bei der Scheidt & Bachmann GmbH um rd. 26,0 Mio. € oder 9,6 % gestiegen. Der Anstieg entfällt auf das Anlagevermögen mit insgesamt 3,6 Mio. € und auf das Umlaufvermögen mit 22,4 Mio. €.
+
+Das Eigenkapital weist ein Gesamtvolumen von 201,7 Mio. € aus und entspricht einer Eigenkapitalquote von 67,4 % nach 64,9 % im Vorjahr. Das mittel- und langfristige Fremdkapital ist um rd. 6 % und das kurzfristige Fremdkapital um 5 % gestiegen.
+
+Der erwirtschaftete Brutto-Cashflow vor Änderung des Nettoumlaufvermögens belief sich auf 35,8 Mio. € nach 22,1 Mio. € in 2022.
+
+c6.) Ausblick 2024
+
+Der russische Überfall auf die Ukraine vom 24. Februar 2022 wirkt sich immer noch auf unser Wirtschaftsleben aus.
+
+Nach wie vor werden unsere Mitarbeiter*innen in der Ukraine täglich durch Bombenangriffe aus Russland bedroht. Daher steht für uns weiterhin der Schutz des Lebens unserer Mitarbeiter*innen und deren Familien in der Ukraine und der Umgang mit unseren russischen Mitarbeitern*innen im Vordergrund. Die von uns direkt nach Kriegsbeginn initiierten umfangreichen Maßnahmen, um unsere Mitarbeiter*innen und deren Familien in der Ukraine in Sicherheit zu bringen und mit dem Nötigsten zu versorgen, werden so lange wie erforderlich aufrechterhalten.
+
+Die S&B-Gruppe hat die Belieferung der Kunden in Russland eingestellt.
+
+Die durch den Ukraine-Krieg sprunghaft gestiegenen Energie- und Materialpreise sowie die nachgelagerten Lohnerhöhungen konnten bisher noch nicht vollständig an die Kunden weitergegeben werden. Wir erwarten, dass es dadurch auch 2024 noch Auswirkungen in der S&B Gruppe geben wird.
+
+Wir analysieren die Entwicklungen laufend und werden alle erforderlichen Maßnahmen ergreifen, um die wirtschaftliche Entwicklung der S&B-Gruppe positiv zu beeinflussen.
+
+Die Auftragsbücher weisen zum 1. Januar 2024 einen Bestand von 804,6 Mio. € auf. Aufgrund der oben beschriebenen Auswirkungen erwarten wir eine Umsatz- und Ergebnisentwicklung unter dem Niveau des Vorjahres.
+
+Im Rechtsstreit mit der BKK Budapest konnte Anfang 2024 eine Einigung erzielt werden. Der International Court of Arbitration hat den Vergleich am 01.03.2024 genehmigt und Scheidt & Bachmann GmbH am 06.03.2024 den vereinbarten Vergleichsbetrag in Höhe von 5,95 Mio. an die BKK überwiesen. Damit sind alle gegenseitigen Ansprüche abgegolten.
+
+3. Prognosen-, Chancen und Risikobericht
+
+Wesentliche Chancen liegen in der erfolgreichen Positionierung unseres Unternehmens als Anbieter in den Märkten für qualitativ hochwertige Systemlösungen in den jeweiligen Geschäftsbereichen.
+
+Zur Nutzung dieser Chancen und zur Bewältigung der vielfältigen internen und externen Risikogruppen besteht bei der Scheidt & Bachmann Gruppe ein Risikomanagementsystem, das so ausgelegt ist, dass Risiken möglichst frühzeitig erkannt und identifiziert werden können. Das Risikomanagementsystem ist integrale Bestandteil des gesamten Planungs-, Steuerungs- und Berichterstattungsprozesses. Hierbei kommt dem Controlling eine wesentliche Bedeutung zu. Durch ein transparentes Berichtswesen werden frühzeitig Abweichungen bei wesentlichen Eckdaten erkannt, so dass notwendige Maßnahmen eingeleitet bzw. durchgeführt werden können. Mit einer regelmäßigen Berichterstattung an Geschäftsführung und Aufsichtsrat ist sichergestellt, dass die Entscheidungsträger umfassend über die Unternehmensentwicklung informiert sind.
+
+Trotz derartiger Maßnahmen können Risiken nicht vollständig ausgeschlossen werden. Wesentliche Einzelrisiken werden im Folgenden beschrieben:
+
+Technologische Differenzierungpotentiale bzw. Alleinstellungsmerkmale
+
+Eine nachhaltige und glaubhafte Positionierung im Markt setzt voraus, dass wesentliche Eigenschaften der Geräte und Anlagen im Wettbewerbsvergleich positiv beurteilt werden. Sollte dieses über einen längeren Zeitraum nicht überzeugend gelingen, besteht das Risiko, dass sich dies auf erzielbare Preise und Absatzpotenziale negativ auswirkt. Im Entwicklungsbereich besteht das Risiko, dass nicht genügend Ressourcen zur Verfügung stehen, um technische Differenzierungspotenziale nachhaltig zu generieren. Produkte, Märkte sowie insbesondere erforderliche Mitarbeiter werden daher von Scheidt & Bachmann im Rahmen langfristiger Planungen abgeglichen.
+
+Scheidt & Bachmann konzentriert sich dabei auf Technikbereiche, die dem Kunden Mehrwert bieten und Differenzierungspotenziale eröffnen.
+
+Beschaffungskonditionen und Materialverfügbarkeit
+
+Hierbei besteht das Risiko, dass zukünftige Kostensenkungen auf der Einkaufsseite nicht ausreichen, um die negativen Effekte geringerer Verkaufspreise auszugleichen oder Kostenerhöhungen nicht an den Markt weitergegeben werden können. Ebenso können Volatilitäten bei den Rohstoffen, z.B. Nickel, Kupfer und Öl, oder eine Allocation-Situation (temporäre Verknappung des Angebots) die Kostenseite und/oder die Lieferfähigkeit beeinflussen. Scheidt & Bachmann begegnet dieser Problematik durch konsequente Bündelung von Volumen auf Schlüssellieferanten, Reduktion der Teilevielfalt und der Weiterentwicklung elektronischer Beschaffungssysteme.
+
+Produktqualität und Haftungsrisiken
+
+Die erfolgreiche und nachhaltige Positionierung am Markt setzt ein hohes Qualitätsniveau voraus. Dabei gelten für die Zuverlässigkeit und Sicherheit der Produkte hohe Standards. Sollten diese Standards verfehlt werden, besteht das Risiko, dass der Name Scheidt & Bachmann Schaden nimmt und sich dies nachhaltig auf die Ertragskraft der Gesellschaft auswirkt.
+
+Scheidt & Bachmann überwacht ständig die Qualität ihrer Produkte und analysiert das Qualitätsniveau der im Markt befindlichen Geräte und Anlagen.
+
+Finanzierungssituation
+
+Die Finanzierung der Gesellschaft ist langfristig gesichert. Die Scheidt & Bachmann Gruppe verfügt über eine solide Kapitalstruktur. Darüber hinaus bestehen Finanzierungsvereinbarungen, die ein Wachstum in den nächsten Jahren nicht begrenzen sollten.
+
+Währungsrisiken
+
+Im Rahmen von größeren Projektabschlüssen in Fremdwährungen betreibt die Gesellschaft in ausreichendem Maße Kurssicherungen. Hierzu wurde ein Währungsmanagement konzipiert auf dessen Basis die Detailplanung erfolgt. Das zu erwartende Fremdwährungsvolumen wird ermittelt und mittels Devisentermingeschäften und Währungs-Optionsgeschäften vorwiegend im US-Dollar-, CAD-, CHF- sowie GBP-Raum gesichert.
+
+Rechtliche Risiken
+
+Rechtliche Risiken ergeben sich im Wesentlichen aus Reklamations- und Garantieansprüchen, Schadensersatzforderungen sowie Rechtsstreitigkeiten. Erkennbare rechtliche Risiken werden entweder durch Versicherungen oder - soweit bereits erkennbare Verpflichtungen bestehen - in ausreichendem Maße durch Rückstellungen abgedeckt. Es können jedoch trotzdem Schäden entstehen, die nicht oder nicht ausreichend versichert sind bzw. die gebildeten Rückstellungen deutlich übersteigen. Diesem Risiko wirkt Scheidt & Bachmann durch stringente Projektabwicklung bei gleichzeitiger Kontrolle der Qualität und Vertragskonformität aller zu erbringenden Leistungen frühzeitig entgegen.
+
+Mönchengladbach, den 27. Mai 2024
+
+Die Geschäftsführung
+
+gez. Dr. Norbert Miller
+
+gez. Martin Kammler
+
+gez. Uwe Brünner
+
+gez. Jörg Heilingbrunner
+
+gez. Dr. Michael Lenders
+
+gez. Andreas Räschmeier
+
+BESTÄTIGUNGSVERMERK DES UNABHÄNGIGEN ABSCHLUSSPRÜFERS
+
+An die Scheidt & Bachmann GmbH
+
+Prüfungsurteile
+
+Wir haben den Jahresabschluss der Scheidt & Bachmann GmbH - bestehend aus der Bilanz zum 31. Dezember 2023 und der Gewinn- und Verlustrechnung für das Geschäftsjahr vom 1. Januar 2023 bis zum 31. Dezember 2023 sowie dem Anhang, einschließlich der Darstellung der Bilanzierungs- und Bewertungsmethoden - geprüft. Darüber hinaus haben wir den Lagebericht der Scheidt & Bachmann GmbH für das Geschäftsjahr vom 1. Januar 2023 bis zum 31. Dezember 2023 geprüft.
+
+Nach unserer Beurteilung aufgrund der bei der Prüfung gewonnenen Erkenntnisse
+
+•
+
+entspricht der beigefügte Jahresabschluss in allen wesentlichen Belangen den deutschen, für Kapitalgesellschaften geltenden handelsrechtlichen Vorschriften und vermittelt unter Beachtung der deutschen Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens- und Finanzlage der Gesellschaft zum 31. Dezember 2023 sowie ihrer Ertragslage für das Geschäftsjahr vom 1. Januar 2023 bis zum 31. Dezember 2023 und
+
+•
+
+vermittelt der beigefügte Lagebericht insgesamt ein zutreffendes Bild von der Lage der Gesellschaft. In allen wesentlichen Belangen steht dieser Lagebericht in Einklang mit dem Jahresabschluss, entspricht den deutschen gesetzlichen Vorschriften und stellt die Chancen und Risiken der zukünftigen Entwicklung zutreffend dar.
+
+Gemäß § 322 Abs. 3 Satz 1 HGB erklären wir, dass unsere Prüfung zu keinen Einwendungen gegen die Ordnungsmäßigkeit des Jahresabschlusses und des Lageberichts geführt hat.
+
+Grundlage für die Prüfungsurteile
+
+Wir haben unsere Prüfung des Jahresabschlusses und des Lageberichts in Übereinstimmung mit § 317 HGB unter Beachtung der vom Institut der Wirtschaftsprüfer (IDW) festgestellten deutschen Grundsätze ordnungsmäßiger Abschlussprüfung durchgeführt. Unsere Verantwortung nach diesen Vorschriften und Grundsätzen ist im Abschnitt „Verantwortung des Abschlussprüfers für die Prüfung des Jahresabschlusses und des Lageberichts“ unseres Bestätigungsvermerks weitergehend beschrieben. Wir sind von dem Unternehmen unabhängig in Übereinstimmung mit den deutschen handelsrechtlichen und berufsrechtlichen Vorschriften und haben unsere sonstigen deutschen Berufspflichten in Übereinstimmung mit diesen Anforderungen erfüllt. Wir sind der Auffassung, dass die von uns erlangten Prüfungsnachweise ausreichend und geeignet sind, um als Grundlage für unsere Prüfungsurteile zum Jahresabschluss und zum Lagebericht zu dienen.
+
+Hinweis auf einen sonstigen Sachverhalt
+
+Unter Inanspruchnahme der Erleichterungsvorschrift des § 298 Abs. 2 Satz 1 HGB wurde der Lagebericht mit dem Konzernlagebericht zusammengefasst. Im Zeitpunkt der Beendigung unserer Abschlussprüfung konnte nicht abschließend beurteilt werden, ob die Befreiungsvorschrift des § 298 Abs. 2 Satz 1 HGB zu Recht in Anspruch genommen worden ist, weil die Voraussetzung nach § 298 Abs. 2 Satz 2 HGB ihrer Art nach erst zu einem späteren Zeitpunkt erfüllt werden kann. Unser Prüfungsurteil zum Jahresabschluss ist diesbezüglich nicht modifiziert.
+
+Verantwortung der gesetzlichen Vertreter und des Aufsichtsrats für den Jahresabschluss und den Lagebericht
+
+Die gesetzlichen Vertreter verantwortlich für die Aufstellung des Jahresabschlusses, der den deutschen, für Kapitalgesellschaften geltenden handelsrechtlichen Vorschriften in allen wesentlichen Belangen entspricht, und dafür, dass der Jahresabschluss unter Beachtung der deutschen Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage der Gesellschaft vermittelt. Ferner sind die gesetzlichen Vertreter verantwortlich für die internen Kontrollen, die sie in Übereinstimmung mit den deutschen Grundsätzen ordnungsmäßiger Buchführung als notwendig bestimmt haben, um die Aufstellung eines Jahresabschlusses zu ermöglichen, der frei von wesentlichen falschen Darstellungen aufgrund von dolosen Handlungen (d.h. Manipulationen der Rechnungslegung und Vermögensschädigungen) oder Irrtümern ist.
+
+Bei der Aufstellung des Jahresabschlusses sind die gesetzlichen Vertreter dafür verantwortlich, die Fähigkeit der Gesellschaft zur Fortführung der Unternehmenstätigkeit zu beurteilen. Des Weiteren haben sie die Verantwortung, Sachverhalte in Zusammenhang mit der Fortführung der Unternehmenstätigkeit, sofern einschlägig, anzugeben. Darüber hinaus sind sie dafür verantwortlich, auf der Grundlage des Rechnungslegungsgrundsatzes der Fortführung der Unternehmenstätigkeit zu bilanzieren, sofern dem nicht tatsächliche oder rechtliche Gegebenheiten entgegenstehen.
+
+Außerdem sind die gesetzlichen Vertreter verantwortlich für die Aufstellung des Lageberichts, der insgesamt ein zutreffendes Bild von der Lage der Gesellschaft vermittelt sowie in allen wesentlichen Belangen mit dem Jahresabschluss in Einklang steht, den deutschen gesetzlichen Vorschriften entspricht und die Chancen und Risiken der zukünftigen Entwicklung zutreffend darstellt. Ferner sind die gesetzlichen Vertreter verantwortlich für die Vorkehrungen und Maßnahmen (Systeme), die sie als notwendig erachtet haben, um die Aufstellung eines Lageberichts in Übereinstimmung mit den anzuwendenden deutschen gesetzlichen Vorschriften zu ermöglichen, und um ausreichende geeignete Nachweise für die Aussagen im Lagebericht erbringen zu können.
+
+Der Aufsichtsrat ist verantwortlich für die Überwachung des Rechnungslegungsprozesses der Gesellschaft zur Aufstellung des Jahresabschlusses und des Lageberichts.
+
+Verantwortung des Abschlussprüfers für die Prüfung des Jahresabschlusses und des Lageberichts
+
+Unsere Zielsetzung ist, hinreichende Sicherheit darüber zu erlangen, ob der Jahresabschluss als Ganzes frei von wesentlichen falschen Darstellungen aufgrund von dolosen Handlungen oder Irrtümern ist, und ob der Lagebericht insgesamt ein zutreffendes Bild von der Lage der Gesellschaft vermittelt sowie in allen wesentlichen Belangen mit dem Jahresabschluss sowie mit den bei der Prüfung gewonnenen Erkenntnissen in Einklang steht, den deutschen gesetzlichen Vorschriften entspricht und die Chancen und Risiken der zukünftigen Entwicklung zutreffend darstellt, sowie einen Bestätigungsvermerk zu erteilen, der unsere Prüfungsurteile zum Jahresabschluss und zum Lagebericht beinhaltet.
+
+Hinreichende Sicherheit ist ein hohes Maß an Sicherheit, aber keine Garantie dafür, dass eine in Übereinstimmung mit § 317 HGB unter Beachtung der vom Institut der Wirtschaftsprüfer (IDW) festgestellten deutschen Grundsätze ordnungsmäßiger Abschlussprüfung durchgeführte Prüfung eine wesentliche falsche Darstellung stets aufdeckt. Falsche Darstellungen können aus dolosen Handlungen oder Irrtümern resultieren und werden als wesentlich angesehen, wenn vernünftigerweise erwartet werden könnte, dass sie einzeln oder insgesamt die auf der Grundlage dieses Jahresabschlusses und Lageberichts getroffenen wirtschaftlichen Entscheidungen von Adressaten beeinflussen.
+
+Während der Prüfung üben wir pflichtgemäßes Ermessen aus und bewahren eine kritische Grundhaltung. Darüber hinaus
+
+•
+
+identifizieren und beurteilen wir die Risiken wesentlicher falscher Darstellungen im Jahresabschluss und im Lagebericht aufgrund von dolosen Handlungen oder Irrtümern, planen und führen Prüfungshandlungen als Reaktion auf diese Risiken durch sowie erlangen Prüfungsnachweise, die ausreichend und geeignet sind, um als Grundlage für unsere Prüfungsurteile zu dienen. Das Risiko, dass aus dolosen Handlungen resultierende wesentliche falsche Darstellungen nicht aufgedeckt werden, ist höher als das Risiko, dass aus Irrtümern resultierende wesentliche falsche Darstellungen nicht aufgedeckt werden, da dolose Handlungen kollusives Zusammenwirken, Fälschungen, beabsichtigte Unvollständigkeiten, irreführende Darstellungen bzw. das Außerkraftsetzen interner Kontrollen beinhalten können.
+
+•
+
+gewinnen wir ein Verständnis von dem für die Prüfung des Jahresabschlusses relevanten internen Kontrollsystem und den für die Prüfung des Lageberichts relevanten Vorkehrungen und Maßnahmen, um Prüfungshandlungen zu planen, die unter den gegebenen Umständen angemessen sind, jedoch nicht mit dem Ziel, ein Prüfungsurteil zur Wirksamkeit dieser Systeme der Gesellschaft abzugeben.
+
+•
+
+beurteilen wir die Angemessenheit der von den gesetzlichen Vertretern angewandten Rechnungslegungsmethoden sowie die Vertretbarkeit der von den gesetzlichen Vertretern dargestellten geschätzten Werte und damit zusammenhängenden Angaben.
+
+•
+
+ziehen wir Schlussfolgerungen über die Angemessenheit des von den gesetzlichen Vertretern angewandten Rechnungslegungsgrundsatzes der Fortführung der Unternehmenstätigkeit sowie, auf der Grundlage der erlangten Prüfungsnachweise, ob eine wesentliche Unsicherheit im Zusammenhang mit Ereignissen oder Gegebenheiten besteht, die bedeutsame Zweifel an der Fähigkeit der Gesellschaft zur Fortführung der Unternehmenstätigkeit aufwerfen können. Falls wir zu dem Schluss kommen, dass eine wesentliche Unsicherheit besteht, sind wir verpflichtet, im Bestätigungsvermerk auf die dazugehörigen Angaben im Jahresabschluss und im Lagebericht aufmerksam zu machen oder, falls diese Angaben unangemessen sind, unser jeweiliges Prüfungsurteil zu modifizieren. Wir ziehen unsere Schlussfolgerungen auf der Grundlage der bis zum Datum unseres Bestätigungsvermerks erlangten Prüfungsnachweise. Zukünftige Ereignisse oder Gegebenheiten können jedoch dazu führen, dass die Gesellschaft ihre Unternehmenstätigkeit nicht mehr fortführen kann.
+
+•
+
+beurteilen wir Darstellung, Aufbau und Inhalt des Jahresabschlusses insgesamt einschließlich der Angaben sowie ob der Jahresabschluss die zugrunde liegenden Geschäftsvorfälle und Ereignisse so darstellt, dass der Jahresabschluss unter Beachtung der deutschen Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage der Gesellschaft vermittelt.
+
+•
+
+beurteilen wir den Einklang des Lageberichts mit dem Jahresabschluss, seine Gesetzesentsprechung und das von ihm vermittelte Bild von der Lage der Gesellschaft.
+
+•
+
+führen wir Prüfungshandlungen zu den von den gesetzlichen Vertretern dargestellten zukunftsorientierten Angaben im Lagebericht durch. Auf Basis ausreichender geeigneter Prüfungsnachweise vollziehen wir dabei insbesondere die den zukunftsorientierten Angaben von den gesetzlichen Vertretern zugrunde gelegten bedeutsamen Annahmen nach und beurteilen die sachgerechte Ableitung der zukunftsorientierten Angaben aus diesen Annahmen. Ein eigenständiges Prüfungsurteil zu den zukunftsorientierten Angaben sowie zu den zugrunde liegenden Annahmen geben wir nicht ab. Es besteht ein erhebliches unvermeidbares Risiko, dass künftige Ereignisse wesentlich von den zukunftsorientierten Angaben abweichen.
+
+Wir erörtern mit den für die Überwachung Verantwortlichen unter anderem den geplanten Umfang und die Zeitplanung der Prüfung sowie bedeutsame Prüfungsfeststellungen, einschließlich etwaiger bedeutsamer Mängel im internen Kontrollsystem, die wir während unserer Prüfung feststellen.
+
+Mönchengladbach, den 27. Mai 2024
+
+Abstoß & Wolters GmbH & Co. KG
+Wirtschaftsprüfungsgesellschaft
+Steuerberatungsgesellschaft
+
+gez. Ludwig Quacken, Wirtschaftsprüfer
+
+gez. Anna Elisabeth Braun, Wirtschaftsprüferin
+
+Bericht des Aufsichtsrats
+
+Der Aufsichtsrat der Scheidt & Bachmann GmbH ist während des Geschäftsjahres 2023 regelmäßig über die Entwicklung und die Lage des Unternehmens sowie der Scheidt & Bachmann-Gruppe umfassend unterrichtet worden. Er traf sich zu vier ordnungsgemäß einberufenen Sitzungen. Durch die Monatsberichte, die detaillierte Jahresplanung 2023 mit Soll-/Ist-Vergleich, eine fortgeschriebene Fünfjahresplanung (2023-2027) einschließlich der dazugehörigen Personal-, Investitions- und Finanzplanungen und die mündlichen Berichte und Auskünfte insbesondere zu Fragen des Krisenmanagements (auch Finanz- und Währungsmanagement) hatte er die Möglichkeit, die Geschäftsführung zu überwachen. Die Aufgabenstellung an die Wirtschaftsprüfungsgesellschaft nach KonTraG ist ebenfalls überprüft worden.
+
+Der Aufsichtsrat der Scheidt & Bachmann GmbH hat in der Aufsichtsratssitzung vom 20.06.2024 den Jahresabschluss der Scheidt & Bachmann GmbH und den Konzernabschluss zum 31.12.2023 eingehend mit dem zuständigen Wirtschaftsprüfer erörtert.
+
+Der von der Geschäftsführung aufgestellte Jahresabschluss für die Scheidt & Bachmann GmbH sowie der Konzernabschluss zum 31.12.2023 nebst zusammengefasstem Lagebericht sind von der Wirtschaftsprüfungsgesellschaft Abstoß & Wolters, Mönchengladbach, geprüft und jeweils mit dem uneingeschränkten Bestätigungsvermerk versehen worden. Der Aufsichtsrat hat sich dem Ergebnis dieser Prüfung zustimmend angeschlossen.
+
+Den von der Geschäftsführung vorgelegten Jahresabschluss der Scheidt & Bachmann GmbH nebst zusammengefasstem Lagebericht sowie den Vorschlag für die Verwendung des Bilanzgewinnes und den Konzernabschluss hat der Aufsichtsrat geprüft. Es wurden keine Einwände erhoben. Der Aufsichtsrat billigte den von der Geschäftsführung vorgelegten Jahresabschluss der Scheidt & Bachmann GmbH zum 31.12.2023, der damit festgestellt ist. Auch der Konzernabschluss wurde vom Aufsichtsrat gebilligt.
+
+Der besondere Dank gilt wiederum der Geschäftsführung, dem Betriebsrat sowie allen Mitarbeiterinnen und Mitarbeitern, durch deren Engagement der wirtschaftliche Erfolg des Familienunternehmens auch im abgelaufenen Jahr 2023 ermöglicht worden ist.
+
+Mönchengladbach, den 20.06.2024
+
+Der Aufsichtsrat
+
+Andreas Schmitz, Vorsitzender

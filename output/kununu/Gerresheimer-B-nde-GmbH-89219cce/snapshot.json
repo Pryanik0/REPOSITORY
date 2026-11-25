@@ -1,0 +1,691 @@
+{
+  "provider": "kununu",
+  "backend": "browser",
+  "status": "ok",
+  "query": "Gerresheimer Bünde GmbH",
+  "profile": {
+    "url": "https://www.kununu.com/de/gerresheimer",
+    "name": "Gerresheimer",
+    "overall_score": 3.0,
+    "review_count": 726,
+    "recommendation_percent": 44,
+    "recommendation_period": "last_2_years",
+    "observed_at": "2026-11-25T17:19:20.563878+00:00"
+  },
+  "reviews": [
+    {
+      "id": "c839c082-be21-4c71-b8eb-b15b38e9cbac",
+      "url": "https://www.kununu.com/de/gerresheimer/bewertung/c839c082-be21-4c71-b8eb-b15b38e9cbac",
+      "title": "Es geht stetig bergab, das dafür mit Sicherheit.",
+      "content": "Wird jeden Tag schlechter.\n\nNicht mit diesem Schichtsystem.\n\nKarriere macht nur der mit der richtigen Nase und langer Schleimspurr.\n\nImmerhin gibt es noch Gehalt.\n\nEs gibt einzelne Grübchen.\n\nÄltere müssen genau so ran.\n\nImmer von oben herab.\n\nHeiß und kein Sauerstoff in der Halle. Imme\n\nSehr spärlich\n\nWenn die Nase passt, hast du Vorteile.\n\nNein. Sture Fließband Arbeit.",
+      "rating": 1.1,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Wird jeden Tag schlechter.",
+        "workLife": "Nicht mit diesem Schichtsystem.",
+        "career": "Karriere macht nur der mit der richtigen Nase und langer Schleimspurr.",
+        "salary": "Immerhin gibt es noch Gehalt.",
+        "teamwork": "Es gibt einzelne Grübchen.",
+        "oldColleagues": "Ältere müssen genau so ran.",
+        "leadership": "Immer von oben herab.",
+        "workConditions": "Heiß und kein Sauerstoff in der Halle. Imme",
+        "communication": "Sehr spärlich",
+        "equality": "Wenn die Nase passt, hast du Vorteile.",
+        "tasks": "Nein. Sture Fließband Arbeit."
+      },
+      "factor_scores": {
+        "atmosphere": 1.0,
+        "workLife": 1.0,
+        "communication": 1.0,
+        "workConditions": 1.0,
+        "leadership": 1.0,
+        "teamwork": 1.0,
+        "oldColleagues": 1.0,
+        "equality": 1.0,
+        "career": 1.0,
+        "salary": 2.0,
+        "image": 1.0,
+        "environment": 1.0,
+        "tasks": 1.0
+      },
+      "published_at": "2026-11-22T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "00cbd0a6-bc86-4c71-9c8a-3fa55fec35d7",
+      "url": "https://www.kununu.com/de/gerresheimer/bewertung/00cbd0a6-bc86-4c71-9c8a-3fa55fec35d7",
+      "title": "Ungleiche arbeitsverteilung",
+      "content": "Schlecht\n\nWeniger Arbeiten\n\nAls Schichtarbeiter haben keine\n\nViel Plastikmüll halt\n\nGibt auch nette Kollegen mit gute Zusammenarbeit\n\nNormal\n\nWarm und sauber\n\nGerresheimer ist sehr gut für immer Kranke. Wenn du nix arbeiten wollen bleib zuhause bei familie oder couch. Fällt nicht auf. Bekommst irgendwann mal ein gespräch wo du immer neue geschichte erzählen und kommst auf andere Schicht oder Abteilung. Leute ziehen das seit jahren durch weil keinen Lust auf Arbeit. Wenn arbeit da dann nur fehler und pause. Ist auch überall bekannt. Keiner will die Kollege haben weil nie da und nur lügen. Wenn du fleissig sein und mit Schmerzen in die Schicht gehst, kriegst kein danke. Du darfst dafür anhören wie schlecht es den immer kranken geht und musst arbeit mitmachen weil morgen liefern. Kenne das in meiner neuen Arbeit nicht- gut dass ich weg bin.",
+      "rating": 2.6,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "image": "Schlecht",
+        "workLife": "Weniger Arbeiten",
+        "career": "Als Schichtarbeiter haben keine",
+        "environment": "Viel Plastikmüll halt",
+        "teamwork": "Gibt auch nette Kollegen mit gute Zusammenarbeit",
+        "oldColleagues": "Normal",
+        "workConditions": "Warm und sauber",
+        "equality": "Gerresheimer ist sehr gut für immer Kranke. Wenn du nix arbeiten wollen bleib zuhause bei familie oder couch. Fällt nicht auf. Bekommst irgendwann mal ein gespräch wo du immer neue geschichte erzählen und kommst auf andere Schicht oder Abteilung. Leute ziehen das seit jahren durch weil keinen Lust auf Arbeit. Wenn arbeit da dann nur fehler und pause. Ist auch überall bekannt. Keiner will die Kollege haben weil nie da und nur lügen. Wenn du fleissig sein und mit Schmerzen in die Schicht gehst, kriegst kein danke. Du darfst dafür anhören wie schlecht es den immer kranken geht und musst arbeit mitmachen weil morgen liefern. Kenne das in meiner neuen Arbeit nicht- gut dass ich weg bin."
+      },
+      "factor_scores": {
+        "atmosphere": 2.0,
+        "workLife": 5.0,
+        "communication": 3.0,
+        "workConditions": 4.0,
+        "leadership": 3.0,
+        "teamwork": 4.0,
+        "oldColleagues": 3.0,
+        "equality": 1.0,
+        "career": 1.0,
+        "salary": 3.0,
+        "image": 1.0,
+        "environment": 2.0,
+        "tasks": 2.0
+      },
+      "published_at": "2026-11-19T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "4970bf08-448a-495b-ac5b-33715e61d8c8",
+      "url": "https://www.kununu.com/de/gerresheimer/bewertung/4970bf08-448a-495b-ac5b-33715e61d8c8",
+      "title": "Mobbing im QC Abteilung.",
+      "content": "Eigentlich nichts\n\nUmgang mit Leiharbeiter,egal ob du deine Arbeit gut machst wenn dich jemand von Stammpersonal nicht leiden kann,bist raus.\n\nDer Mobbing nicht dulden\n\nSehr schlecht\n\nEs gibt kein Kollegenzusammenhalt\n\nNicht korrekt\n\nMann würde nicht ernst genommen\n\nDa gibt keine Gleichberechtigung, Zeitarbeiter ist dort was minderwertig. Wenn Zeitarbeiter gemobbt wird,wird das unter Teppich gekehrt.",
+      "rating": 1.0,
+      "sections": {
+        "positive": "Eigentlich nichts",
+        "negative": "Umgang mit Leiharbeiter,egal ob du deine Arbeit gut machst wenn dich jemand von Stammpersonal nicht leiden kann,bist raus.",
+        "suggestion": "Der Mobbing nicht dulden"
+      },
+      "factor_comments": {
+        "atmosphere": "Sehr schlecht",
+        "teamwork": "Es gibt kein Kollegenzusammenhalt",
+        "leadership": "Nicht korrekt",
+        "communication": "Mann würde nicht ernst genommen",
+        "equality": "Da gibt keine Gleichberechtigung, Zeitarbeiter ist dort was minderwertig. Wenn Zeitarbeiter gemobbt wird,wird das unter Teppich gekehrt."
+      },
+      "factor_scores": {
+        "atmosphere": 1.0,
+        "workLife": 1.0,
+        "communication": 1.0,
+        "workConditions": 1.0,
+        "leadership": 1.0,
+        "teamwork": 1.0,
+        "oldColleagues": 1.0,
+        "equality": 1.0,
+        "career": 1.0,
+        "salary": 1.0,
+        "image": 1.0,
+        "environment": 1.0,
+        "tasks": 1.0
+      },
+      "published_at": "2026-11-10T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "49142e75-e054-4fd7-b0f6-2f59a63bb719",
+      "url": "https://www.kununu.com/de/gerresheimer/bewertung/49142e75-e054-4fd7-b0f6-2f59a63bb719",
+      "title": "Traurig aber wahr",
+      "content": "In wertheim sollte Mal die eine Chance bekommen die auch wollen und nicht auf die alten Pferde setzen\n\nGeht gar nicht\n\nGeht so\n\nJa Sager\n\nNur bla bla\n\nNiemals",
+      "rating": 2.0,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": "In wertheim sollte Mal die eine Chance bekommen die auch wollen und nicht auf die alten Pferde setzen"
+      },
+      "factor_comments": {
+        "atmosphere": "Geht gar nicht",
+        "teamwork": "Geht so",
+        "leadership": "Ja Sager",
+        "communication": "Nur bla bla",
+        "equality": "Niemals"
+      },
+      "factor_scores": {
+        "atmosphere": 2.0,
+        "workLife": 1.0,
+        "communication": 3.0,
+        "workConditions": 2.0,
+        "leadership": 1.0,
+        "teamwork": 2.0,
+        "oldColleagues": 1.0,
+        "equality": 1.0,
+        "career": 2.0,
+        "salary": 3.0,
+        "image": 2.0,
+        "environment": 3.0,
+        "tasks": 3.0
+      },
+      "published_at": "2026-10-29T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "be45e362-cdbd-4f82-a351-fe4aa8d92abe",
+      "url": "https://www.kununu.com/de/gerresheimer/bewertung/be45e362-cdbd-4f82-a351-fe4aa8d92abe",
+      "title": "Es kann vieles besser werden",
+      "content": "Das Geld kommt immer pünktlich.\n\nDas Loga 3 Zeitprotokoll ist nie wirklich aktuell. Man muss immer bis zum nächsten Tag warten bis alle Zeiten passen. Wenn die Firma doch durchgehend den ganzen Tag arbeitet, sollten die Zeitprotokolle mehrmals am Tag aktualisiert werden, mindestens jedoch unmittelbar nach jedem Schichtwechsel und nicht nur einmal täglich.\n\nDer 4 Schichtplan sollte verboten werden. Fast 14 Tage werden durchgearbeitet. Vorallem die 7 Frühschichten sind eine riesen Belastung für den Körper und den Geist. Seit Jahren werden Beschwerden ignoriert. Aber zum Krankheitsgespräch einladen.\n\nDie Mitarbeiter in der Produktion sind in vielen Betrieblichen Bereichen schlechter gestellt.",
+      "rating": 2.2,
+      "sections": {
+        "positive": "Das Geld kommt immer pünktlich.",
+        "negative": "Das Loga 3 Zeitprotokoll ist nie wirklich aktuell. Man muss immer bis zum nächsten Tag warten bis alle Zeiten passen. Wenn die Firma doch durchgehend den ganzen Tag arbeitet, sollten die Zeitprotokolle mehrmals am Tag aktualisiert werden, mindestens jedoch unmittelbar nach jedem Schichtwechsel und nicht nur einmal täglich.",
+        "suggestion": null
+      },
+      "factor_comments": {
+        "workLife": "Der 4 Schichtplan sollte verboten werden. Fast 14 Tage werden durchgearbeitet. Vorallem die 7 Frühschichten sind eine riesen Belastung für den Körper und den Geist. Seit Jahren werden Beschwerden ignoriert. Aber zum Krankheitsgespräch einladen.",
+        "equality": "Die Mitarbeiter in der Produktion sind in vielen Betrieblichen Bereichen schlechter gestellt."
+      },
+      "factor_scores": {
+        "atmosphere": 2.0,
+        "workLife": 1.0,
+        "communication": 2.0,
+        "workConditions": 2.0,
+        "leadership": 3.0,
+        "teamwork": 3.0,
+        "oldColleagues": 2.0,
+        "equality": 1.0,
+        "career": 2.0,
+        "salary": 1.0,
+        "image": 3.0,
+        "environment": 3.0,
+        "tasks": 3.0
+      },
+      "published_at": "2026-10-14T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "015e5aac-969b-4703-8bf2-46981c2e5c98",
+      "url": "https://www.kununu.com/de/gerresheimer/bewertung/015e5aac-969b-4703-8bf2-46981c2e5c98",
+      "title": "Komische Beförderungen, sonst gut",
+      "content": "Bisher das meiste OK, aber jetzt werden Führungskräfte befördert, die schon als Abteilungsleiter sich hauptsächlich durch Klatsch, Tratsch und Unprofessionalität ausgezeichnet haben.\nUnd das gleich über Ebenen hinweg und in globale Rollen - total unverständlich.\nWarum?",
+      "rating": 4.2,
+      "sections": {
+        "positive": null,
+        "negative": "Bisher das meiste OK, aber jetzt werden Führungskräfte befördert, die schon als Abteilungsleiter sich hauptsächlich durch Klatsch, Tratsch und Unprofessionalität ausgezeichnet haben.\nUnd das gleich über Ebenen hinweg und in globale Rollen - total unverständlich.\nWarum?",
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 4.0,
+        "communication": 5.0,
+        "workConditions": 4.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 4.0,
+        "equality": 4.0,
+        "career": 4.0,
+        "salary": 3.0,
+        "image": 4.0,
+        "environment": 4.0,
+        "tasks": 4.0
+      },
+      "published_at": "2026-10-02T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "b2a60b68-80d3-4cc9-9074-004814d1174b",
+      "url": "https://www.kununu.com/de/gerresheimer/bewertung/b2a60b68-80d3-4cc9-9074-004814d1174b",
+      "title": "Alles gut außer die 4 schichtarbeit",
+      "content": "Man hat alles was man am Arbeitsplatz benötigt. Aber das 4 Schichtsystem ist sehr mies.",
+      "rating": 3.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "workConditions": "Man hat alles was man am Arbeitsplatz benötigt. Aber das 4 Schichtsystem ist sehr mies."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 1.0,
+        "communication": 5.0,
+        "workConditions": 1.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 2.0,
+        "image": 5.0,
+        "environment": 1.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-09-23T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "72dcfe74-a879-4339-bb54-c80e051940bb",
+      "url": "https://www.kununu.com/de/gerresheimer/bewertung/72dcfe74-a879-4339-bb54-c80e051940bb",
+      "title": "Selbstbedienungsladen",
+      "content": "In letzter Zeit behandeln insbesondere die Schichtleiter das Unternehmen zunehmend wie einen Selbstbedienungsladen. Sie kommen früher, gehen später und sammeln so zusätzliche Minuten. Früher dauerte die Schichtübergabe höchstens 15 Minuten pro Tag, während man jetzt von bis zu 60 Minuten hört. Dabei wird während dieser Zeit teilweise im Pausenraum geplaudert und Kaffee getrunken oder die Arbeitszeit wird einfach nur so in die Länge gezogen. Auch die Raucherpausen der Schichtleiter nehmen überhand. Von Disziplin und der konsequenten Einhaltung der Arbeitszeiten ist kaum etwas zu sehen. Gerade Führungskräfte sollten mit gutem Beispiel vorangehen. Es sollte nicht sein, dass Regeln für einige gelten und für andere nicht. Ein einheitlicher Maßstab und gleiche Regeln sollten für alle gelten – unabhängig von der Position.",
+      "rating": 2.4,
+      "sections": {
+        "positive": null,
+        "negative": "In letzter Zeit behandeln insbesondere die Schichtleiter das Unternehmen zunehmend wie einen Selbstbedienungsladen. Sie kommen früher, gehen später und sammeln so zusätzliche Minuten. Früher dauerte die Schichtübergabe höchstens 15 Minuten pro Tag, während man jetzt von bis zu 60 Minuten hört. Dabei wird während dieser Zeit teilweise im Pausenraum geplaudert und Kaffee getrunken oder die Arbeitszeit wird einfach nur so in die Länge gezogen. Auch die Raucherpausen der Schichtleiter nehmen überhand. Von Disziplin und der konsequenten Einhaltung der Arbeitszeiten ist kaum etwas zu sehen. Gerade Führungskräfte sollten mit gutem Beispiel vorangehen. Es sollte nicht sein, dass Regeln für einige gelten und für andere nicht. Ein einheitlicher Maßstab und gleiche Regeln sollten für alle gelten – unabhängig von der Position.",
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 2.0,
+        "workLife": 1.0,
+        "communication": 2.0,
+        "workConditions": 3.0,
+        "leadership": 1.0,
+        "teamwork": 3.0,
+        "oldColleagues": 3.0,
+        "equality": 1.0,
+        "career": 3.0,
+        "salary": 2.0,
+        "image": 3.0,
+        "environment": 3.0,
+        "tasks": 4.0
+      },
+      "published_at": "2026-09-10T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "b7433c59-9793-4eb0-b716-d28ccdbea400",
+      "url": "https://www.kununu.com/de/gerresheimer/bewertung/b7433c59-9793-4eb0-b716-d28ccdbea400",
+      "title": "Wo ist mein Jobrad?",
+      "content": "Jobrad und Firmenfitness anbieten.\n\nLeider keine guten Benefits vorhanden. Früher gab es wenigstens noch Jobrad jetzt auch nicht mehr. Warum?",
+      "rating": 3.0,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": "Jobrad und Firmenfitness anbieten."
+      },
+      "factor_comments": {
+        "salary": "Leider keine guten Benefits vorhanden. Früher gab es wenigstens noch Jobrad jetzt auch nicht mehr. Warum?"
+      },
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 3.0,
+        "communication": 2.0,
+        "workConditions": 4.0,
+        "leadership": 4.0,
+        "teamwork": 3.0,
+        "oldColleagues": 4.0,
+        "equality": 3.0,
+        "career": 3.0,
+        "salary": 1.0,
+        "image": 3.0,
+        "environment": 3.0,
+        "tasks": 3.0
+      },
+      "published_at": "2026-08-28T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "6a3bae30-10e7-43c3-94a0-288671980252",
+      "url": "https://www.kununu.com/de/gerresheimer/bewertung/6a3bae30-10e7-43c3-94a0-288671980252",
+      "title": "Kann man machen muss man aber nicht",
+      "content": "War mal besser und wird immer schlechter\n\nDurch Gleitzeit top\n\nBei einer \"Broziehung\" mit den richtigen Leuten möglich\n\nViele denken an sich, großer Konkurrenzkampf unter manchen Kollegen.\n\nGab auch interessante Aufgaben",
+      "rating": 2.5,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "image": "War mal besser und wird immer schlechter",
+        "workLife": "Durch Gleitzeit top",
+        "career": "Bei einer \"Broziehung\" mit den richtigen Leuten möglich",
+        "teamwork": "Viele denken an sich, großer Konkurrenzkampf unter manchen Kollegen.",
+        "tasks": "Gab auch interessante Aufgaben"
+      },
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 4.0,
+        "communication": 2.0,
+        "workConditions": 3.0,
+        "leadership": 2.0,
+        "teamwork": 2.0,
+        "oldColleagues": 2.0,
+        "equality": 2.0,
+        "career": 1.0,
+        "salary": 3.0,
+        "image": 2.0,
+        "environment": 3.0,
+        "tasks": 4.0
+      },
+      "published_at": "2026-08-14T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "f9ffbf14-d451-4ae3-ac71-5e81b10441d8",
+      "url": "https://www.kununu.com/de/gerresheimer/bewertung/f9ffbf14-d451-4ae3-ac71-5e81b10441d8",
+      "title": "Das Umfeld und die Buchhaltung schaden der Firma",
+      "content": "Durch die aktuelle Lage leider sehr angespannt. Der Standort selbst würde gut da stehen, wird aber mit zu Abgrund gespart\n\nLeider aktuell nicht gut. Der Standortt Pfreimd ist aber nach wie vor stabil.\n\nWird angepriesen, die Realität zeigt anderes. Überstunden werden einfach hingenommen.\n\nNicht gegeben.\n\nDie einen verdienen viel zu viel, die Leistungsträger gehen unter.\n\n-\n\nInnerhalb der Abteilung / Projekt sehr gut\n\nKann nicht beurteilt werden.\n\nWelcher Vorgesetzte?\n\nKlimatisiert, wenn diese ordnungsgemäß funktioniert.\n\nSchwierig, am besten informiert man sich in den öffentlichen Medien über die aktuelle Lage\n\nOk. Natürlich gibt es Lieblinge, ist aber in jedem Unternehmen so. Leider werden aber die Dampfplauderer als die Highperformer angesehen.\n\nDie Aufgaben sind mehr als Abwechlungsreich. Man muss ja auch alles erledigen, ohne Ausnahme.",
+      "rating": 2.7,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Durch die aktuelle Lage leider sehr angespannt. Der Standort selbst würde gut da stehen, wird aber mit zu Abgrund gespart",
+        "image": "Leider aktuell nicht gut. Der Standortt Pfreimd ist aber nach wie vor stabil.",
+        "workLife": "Wird angepriesen, die Realität zeigt anderes. Überstunden werden einfach hingenommen.",
+        "career": "Nicht gegeben.",
+        "salary": "Die einen verdienen viel zu viel, die Leistungsträger gehen unter.",
+        "environment": "-",
+        "teamwork": "Innerhalb der Abteilung / Projekt sehr gut",
+        "oldColleagues": "Kann nicht beurteilt werden.",
+        "leadership": "Welcher Vorgesetzte?",
+        "workConditions": "Klimatisiert, wenn diese ordnungsgemäß funktioniert.",
+        "communication": "Schwierig, am besten informiert man sich in den öffentlichen Medien über die aktuelle Lage",
+        "equality": "Ok. Natürlich gibt es Lieblinge, ist aber in jedem Unternehmen so. Leider werden aber die Dampfplauderer als die Highperformer angesehen.",
+        "tasks": "Die Aufgaben sind mehr als Abwechlungsreich. Man muss ja auch alles erledigen, ohne Ausnahme."
+      },
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 2.0,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": 2.0,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-08-13T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "696f55d2-87db-4e4d-a179-9d30a0d59978",
+      "url": "https://www.kununu.com/de/gerresheimer/bewertung/696f55d2-87db-4e4d-a179-9d30a0d59978",
+      "title": "Erst die Flasche dann der Mensch",
+      "content": "Das ich nicht weit fahren muss\n\nFührungskräfte ersetzten und nicht auf eigengewächse vertrauen. Bei Fehlverhalten von Mitarbeitern, die wissentlich des Öfteren gegen Regeln verstoßen, härter durchgreifen\n\nDer ganze Lohrer Talkessel weiß, dass das Arbeiten hier nicht wirklich lohnenswert ist\n\nKommt sehr auf die einzelnen Kollegen an.\n\nKaum Möglichkeiten für ältere Menschen, früher aus der Schichtarbeit auszutreten\n\nKeine Ausstrahlung und wenig Kompetenz. Das Wort „Äh“ ist eindeutig das Lieblingswort.\n\nLaut, heiß, unrein. Kaum Möglichkeiten um sich im Sommer abzukühlen. Selbst in der Kantine hat es im Sommer 35 Grad.",
+      "rating": 2.4,
+      "sections": {
+        "positive": "Das ich nicht weit fahren muss",
+        "negative": null,
+        "suggestion": "Führungskräfte ersetzten und nicht auf eigengewächse vertrauen. Bei Fehlverhalten von Mitarbeitern, die wissentlich des Öfteren gegen Regeln verstoßen, härter durchgreifen"
+      },
+      "factor_comments": {
+        "image": "Der ganze Lohrer Talkessel weiß, dass das Arbeiten hier nicht wirklich lohnenswert ist",
+        "teamwork": "Kommt sehr auf die einzelnen Kollegen an.",
+        "oldColleagues": "Kaum Möglichkeiten für ältere Menschen, früher aus der Schichtarbeit auszutreten",
+        "leadership": "Keine Ausstrahlung und wenig Kompetenz. Das Wort „Äh“ ist eindeutig das Lieblingswort.",
+        "workConditions": "Laut, heiß, unrein. Kaum Möglichkeiten um sich im Sommer abzukühlen. Selbst in der Kantine hat es im Sommer 35 Grad."
+      },
+      "factor_scores": {
+        "atmosphere": 2.0,
+        "workLife": 3.0,
+        "communication": 1.0,
+        "workConditions": 3.0,
+        "leadership": 1.0,
+        "teamwork": 3.0,
+        "oldColleagues": 3.0,
+        "equality": 2.0,
+        "career": 3.0,
+        "salary": 3.0,
+        "image": 1.0,
+        "environment": 3.0,
+        "tasks": 3.0
+      },
+      "published_at": "2026-08-06T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "3ada0d29-ee75-4747-8166-df08752a26a8",
+      "url": "https://www.kununu.com/de/gerresheimer/bewertung/3ada0d29-ee75-4747-8166-df08752a26a8",
+      "title": "Aufpassen.",
+      "content": "Gerresheimer ist an sich einer sehr vielfältigen Firma. Wäre nicht die schlechte Entscheidung manchen . Das widerspiegelt gerade stark in shopfloor, der nichts dafür kann.\n\nGeschäftsführer raus. In der Werk ansässiger Kontroller raus. Personal ober Leiter raus.\n\nSehr Chaotisch. Keiner weiß genau was die Ziele und Kpi's zu erreichen seien. Der Geschäftsführer ist selten anwesend und gibt keine klaren Vorgaben.\n\nKrotenschlecht in der Region\n\nAnstrengeng\n\nNull\n\nNur dank der Tarifvertrag\n\nLässt sich stark zu wünschen übrig\n\nWir tun was wir können. Gib oft reibereien\n\nEinigen könnten in vorgezogene Rente gehen, wegen Auftragslage\n\nDer Produktionsleiter ist bemüht alles zu tun um Ausbringung zu verbessern und Ausschuss zu reduzieren. Ist teilweise 10 Stunden täglich da, während der Geschäftsführer 6 oder 7\n\nWenn kalt dann zu kalt, wenn warm dann zu heiß und wenn es regnet, regnet es hinein weil der zuständiger für das Gebäude nicht in der Lage ist eine Reparatur zu beantragen oder ausführen\n\nUm so mehr direktioniert auf Geschäftsleitung, da er nicht sagt oder einer Vorgabe erteilt, bleibt die interner abteilungskommunikationen auf der Strecke\n\nGleich null\n\nMir tut es leid die Motivation zu verlieren",
+      "rating": 2.2,
+      "sections": {
+        "positive": null,
+        "negative": "Gerresheimer ist an sich einer sehr vielfältigen Firma. Wäre nicht die schlechte Entscheidung manchen . Das widerspiegelt gerade stark in shopfloor, der nichts dafür kann.",
+        "suggestion": "Geschäftsführer raus. In der Werk ansässiger Kontroller raus. Personal ober Leiter raus."
+      },
+      "factor_comments": {
+        "atmosphere": "Sehr Chaotisch. Keiner weiß genau was die Ziele und Kpi's zu erreichen seien. Der Geschäftsführer ist selten anwesend und gibt keine klaren Vorgaben.",
+        "image": "Krotenschlecht in der Region",
+        "workLife": "Anstrengeng",
+        "career": "Null",
+        "salary": "Nur dank der Tarifvertrag",
+        "environment": "Lässt sich stark zu wünschen übrig",
+        "teamwork": "Wir tun was wir können. Gib oft reibereien",
+        "oldColleagues": "Einigen könnten in vorgezogene Rente gehen, wegen Auftragslage",
+        "leadership": "Der Produktionsleiter ist bemüht alles zu tun um Ausbringung zu verbessern und Ausschuss zu reduzieren. Ist teilweise 10 Stunden täglich da, während der Geschäftsführer 6 oder 7",
+        "workConditions": "Wenn kalt dann zu kalt, wenn warm dann zu heiß und wenn es regnet, regnet es hinein weil der zuständiger für das Gebäude nicht in der Lage ist eine Reparatur zu beantragen oder ausführen",
+        "communication": "Um so mehr direktioniert auf Geschäftsleitung, da er nicht sagt oder einer Vorgabe erteilt, bleibt die interner abteilungskommunikationen auf der Strecke",
+        "equality": "Gleich null",
+        "tasks": "Mir tut es leid die Motivation zu verlieren"
+      },
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-07-28T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "20d54559-dabe-4e4d-85e6-9c553ee57b27",
+      "url": "https://www.kununu.com/de/gerresheimer/bewertung/20d54559-dabe-4e4d-85e6-9c553ee57b27",
+      "title": "Ein guter Arbeitgeber im Bünder Umland",
+      "content": "Gleitzeit\nUrlaubsgeld\nWeihnachtsgeld\nKantine\nParkplätze\nGute Zusammenarbeit im Team\n\nRenovierungsbedürftige Sanitäteranlagen\n\nIch hätte eine kleine Anmerkung zum Standort des Kaffeeautomaten in der Halle 12. Der Weg vom Pausenraum dorthin ist doch recht weit – man könnte fast scherzhaft fragen, warum der Automat nicht gleich auf dem Parkplatz steht. Auf dem Weg zurück in den Pausenraum wird doch immer mal wieder etwas Kaffee verschüttet. Das bedeutet zusätzlichen Reinigungsaufwand, die Reinigungskräfte können da einem Leid tun. Vielleicht gibt es ja die Möglichkeit, den Kaffeeautomaten irgendwo im Pausenraum oder zumindest näher am Pausenraum zu platzieren. Das würde den Weg deutlich angenehmer machen und gleichzeitig dazu beitragen, den Boden sauberer zu halten. In den anderen Hallen wurde das schon gut gelöst, da sich die Kaffeeautomaten direkt im Pausenraum befinden. Vielen Dank fürs Prüfen und viele Grüße",
+      "rating": 3.8,
+      "sections": {
+        "positive": "Gleitzeit\nUrlaubsgeld\nWeihnachtsgeld\nKantine\nParkplätze\nGute Zusammenarbeit im Team",
+        "negative": "Renovierungsbedürftige Sanitäteranlagen",
+        "suggestion": "Ich hätte eine kleine Anmerkung zum Standort des Kaffeeautomaten in der Halle 12. Der Weg vom Pausenraum dorthin ist doch recht weit – man könnte fast scherzhaft fragen, warum der Automat nicht gleich auf dem Parkplatz steht. Auf dem Weg zurück in den Pausenraum wird doch immer mal wieder etwas Kaffee verschüttet. Das bedeutet zusätzlichen Reinigungsaufwand, die Reinigungskräfte können da einem Leid tun. Vielleicht gibt es ja die Möglichkeit, den Kaffeeautomaten irgendwo im Pausenraum oder zumindest näher am Pausenraum zu platzieren. Das würde den Weg deutlich angenehmer machen und gleichzeitig dazu beitragen, den Boden sauberer zu halten. In den anderen Hallen wurde das schon gut gelöst, da sich die Kaffeeautomaten direkt im Pausenraum befinden. Vielen Dank fürs Prüfen und viele Grüße"
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-07-25T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "69e42d66-4ee3-4207-9896-3c6f18c27450",
+      "url": "https://www.kununu.com/de/gerresheimer/bewertung/69e42d66-4ee3-4207-9896-3c6f18c27450",
+      "title": "Vorbild für Benefits und Unternehmenskultur",
+      "content": "Grundsätzlich wird auf die Bedürfnisse der Mitarbeiter geachtet. Man kann seine Arbeiten bzw Abläufe selbst einteilen, solange das Ergebnis passt.\n\nTeilweise hoher Anspruch und entsprechend hohe Arbeitsauslastung\n\nDu-Kultur wird in allen Ebenen gelebt, top Zusammenarbeit auf persönlicher Ebene\n\nVerständnisvoll\n\nAllgemein kurze Wege, nur manchmal wird um den heißen Brei geredet.",
+      "rating": 4.4,
+      "sections": {
+        "positive": "Grundsätzlich wird auf die Bedürfnisse der Mitarbeiter geachtet. Man kann seine Arbeiten bzw Abläufe selbst einteilen, solange das Ergebnis passt.",
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "workLife": "Teilweise hoher Anspruch und entsprechend hohe Arbeitsauslastung",
+        "teamwork": "Du-Kultur wird in allen Ebenen gelebt, top Zusammenarbeit auf persönlicher Ebene",
+        "leadership": "Verständnisvoll",
+        "communication": "Allgemein kurze Wege, nur manchmal wird um den heißen Brei geredet."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 3.0,
+        "communication": 4.0,
+        "workConditions": 4.0,
+        "leadership": 4.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 4.0,
+        "salary": 4.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 4.0
+      },
+      "published_at": "2026-07-22T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    }
+  ],
+  "review_limit": 15,
+  "review_period": {
+    "since": "2024-11-25T00:00:00+00:00",
+    "until": "2026-11-25T17:19:17.923787+00:00",
+    "date_field": "published_at",
+    "missing_dates": "excluded"
+  },
+  "factor_scores_aggregated": {
+    "atmosphere": {
+      "mean": 2.69,
+      "count": 13
+    },
+    "workLife": {
+      "mean": 2.31,
+      "count": 13
+    },
+    "communication": {
+      "mean": 2.58,
+      "count": 12
+    },
+    "workConditions": {
+      "mean": 2.67,
+      "count": 12
+    },
+    "leadership": {
+      "mean": 2.58,
+      "count": 12
+    },
+    "teamwork": {
+      "mean": 3.08,
+      "count": 12
+    },
+    "oldColleagues": {
+      "mean": 2.83,
+      "count": 12
+    },
+    "equality": {
+      "mean": 2.25,
+      "count": 12
+    },
+    "career": {
+      "mean": 2.5,
+      "count": 12
+    },
+    "salary": {
+      "mean": 2.33,
+      "count": 12
+    },
+    "image": {
+      "mean": 2.54,
+      "count": 13
+    },
+    "environment": {
+      "mean": 2.67,
+      "count": 12
+    },
+    "tasks": {
+      "mean": 3.08,
+      "count": 12
+    }
+  },
+  "coverage": "bounded_employee_review_sample_last_2_years_not_all_reviews",
+  "diagnostics": {
+    "pages": [
+      {
+        "page": "reviews",
+        "page_number": 1,
+        "load_more_clicks": 0,
+        "requested_url": "https://www.kununu.com/de/gerresheimer/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Gerresheimer-B-nde-GmbH-89219cce\\browser\\reviews.html",
+        "browser_step": 159,
+        "final_url": "https://www.kununu.com/de/gerresheimer/kommentare",
+        "observed_at": "2026-11-25T17:19:19.903806+00:00",
+        "http_status": 200,
+        "factor_cards_expanded": 7,
+        "reviews_collected": 10
+      },
+      {
+        "page": "reviews",
+        "page_number": 2,
+        "load_more_clicks": 1,
+        "requested_url": "https://www.kununu.com/de/gerresheimer/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Gerresheimer-B-nde-GmbH-89219cce\\browser\\reviews-2.html",
+        "browser_step": 160,
+        "final_url": "https://www.kununu.com/de/gerresheimer/kommentare",
+        "observed_at": "2026-11-25T17:19:21.780750+00:00",
+        "actions_complete": true,
+        "factor_cards_expanded": 2,
+        "reviews_collected": 15
+      }
+    ]
+  },
+  "source_url": "https://www.kununu.com/de/gerresheimer",
+  "profile_source": "https://www.kununu.com/de/gerresheimer/kommentare",
+  "review_stop_reason": "sample_limit_reached",
+  "factor_score_coverage": {
+    "reviews_with_scores": 13,
+    "reviews_without_scores": 2,
+    "reviews_with_all_known_scores": 12,
+    "status": "partial"
+  },
+  "request_limits": {
+    "max_browser_steps": 295,
+    "browser_steps": 160,
+    "zyte_requests": 0
+  },
+  "reason": null
+}

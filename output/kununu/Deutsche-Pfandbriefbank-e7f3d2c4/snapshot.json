@@ -1,0 +1,706 @@
+{
+  "provider": "kununu",
+  "backend": "browser",
+  "status": "partial",
+  "query": "Deutsche Pfandbriefbank AG",
+  "profile": {
+    "url": "https://www.kununu.com/de/deutsche-pfandbriefbank",
+    "name": "Deutsche Pfandbriefbank AG",
+    "overall_score": 4.1,
+    "review_count": 107,
+    "recommendation_percent": 75,
+    "recommendation_period": "last_2_years",
+    "observed_at": "2026-11-25T17:15:30.674596+00:00"
+  },
+  "reviews": [
+    {
+      "id": "90d8abac-2428-49c2-80d3-92f42fc42190",
+      "url": "https://www.kununu.com/de/deutsche-pfandbriefbank/bewertung/90d8abac-2428-49c2-80d3-92f42fc42190",
+      "title": "Super hier zu arbeiten",
+      "content": "Alles\n\nNichts",
+      "rating": 5.0,
+      "sections": {
+        "positive": "Alles",
+        "negative": "Nichts",
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-08-05T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "e1a7d82e-1a27-4f2a-b9ab-43ec7b21bafb",
+      "url": "https://www.kununu.com/de/deutsche-pfandbriefbank/bewertung/e1a7d82e-1a27-4f2a-b9ab-43ec7b21bafb",
+      "title": "Umstrukturierung bringt viel Unruhe. Unzufrieden ist gewachsen dieses Jahr",
+      "content": "Gerade ist alles im Umbruch, es gibt einen neuen CIO, der zusammen mit KPMG umstrukturiert, ein paar Leute abbaut und externe in Madrid internalisieren will. Auf die Belegschaft wirkt alles eher planlos und als ob wir alle die Transformation so nebenbei noch während der eigentlichen Arbeit wuppen sollen.\n\nViele kennen die PBB gar nicht, daher würde ich denken eher mittel mit Hang zum Abrutschen nachdem die Bank ziemlich geshortet wird.\n\nHäufig sehr in Ordnung. Es gibt Spitzenzeiten in denen alle überlastet sind aber es findet Freizeitausgleich statt.\n\nAlso das Budget das mir meine Führungskraft zur Verfügung gestellt hat reicht ehrlich gesagt nicht Mal für eine einzige Schulung, die man irgendwo buchen könnte.\n\nDie Bezahlung ist branchengerecht und gut.\n\nDie Bank bemüht sich um ein grüneres Image mit Green Bonds etc aber im Kleinen würde mehr Aktionismus gut tun. Kollegen, die mit dem Auto anreisen werden zum Beispiel stärker subventioniert als Kollegen die öffentlich oder mit dem Rad anreisen. Aber immerhin gibt es seit letztem Jahr Jobräder.\n\nDer Kollegenzusammenhalt ist (noch) gut. Hoffe dass die Umstrukturierung nicht dazu führt, dass es kippt.\n\nFrüher hätte ich gesagt gut aber ich weiss von einigen Kollegen der Stellen verjüngt werden sollen die keine konkreten Aussagen von Vorgesetzten oder HR bekommen wie sich die Bank das vorstellt (zB mit einem Altersteilzeitangebot)\n\nSehr durchwachsen. Es ist auch nicht stringent was einem von Vorgesetzten mitgeteilt wird.\n\nDie Räume sind in Ordnung, die Ausstattung modern.\n\nMan bekommt spät Bescheid und es gibt auch irgendwie gemischte Botschaften. Einerseits geht es der Bank nicht gut und es muss geschaut mehr zu sparen aber dann hört man was von einer Leadership Konferenz die größer denn je war mit Keynote Speaker die wahrscheinlich fünfstellige Beträge plus Spesen aufrufen.\n\nEs wurden jetzt auch ein paar zusätzliche Frauen auf Führungspositionen gesetzt und man ist durchaus bemüht da mehr Parität zu schaffen.\n\nDir Arbeit an sich ist herausfordern aber macht durchaus auch Spaß",
+      "rating": 3.2,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Gerade ist alles im Umbruch, es gibt einen neuen CIO, der zusammen mit KPMG umstrukturiert, ein paar Leute abbaut und externe in Madrid internalisieren will. Auf die Belegschaft wirkt alles eher planlos und als ob wir alle die Transformation so nebenbei noch während der eigentlichen Arbeit wuppen sollen.",
+        "image": "Viele kennen die PBB gar nicht, daher würde ich denken eher mittel mit Hang zum Abrutschen nachdem die Bank ziemlich geshortet wird.",
+        "workLife": "Häufig sehr in Ordnung. Es gibt Spitzenzeiten in denen alle überlastet sind aber es findet Freizeitausgleich statt.",
+        "career": "Also das Budget das mir meine Führungskraft zur Verfügung gestellt hat reicht ehrlich gesagt nicht Mal für eine einzige Schulung, die man irgendwo buchen könnte.",
+        "salary": "Die Bezahlung ist branchengerecht und gut.",
+        "environment": "Die Bank bemüht sich um ein grüneres Image mit Green Bonds etc aber im Kleinen würde mehr Aktionismus gut tun. Kollegen, die mit dem Auto anreisen werden zum Beispiel stärker subventioniert als Kollegen die öffentlich oder mit dem Rad anreisen. Aber immerhin gibt es seit letztem Jahr Jobräder.",
+        "teamwork": "Der Kollegenzusammenhalt ist (noch) gut. Hoffe dass die Umstrukturierung nicht dazu führt, dass es kippt.",
+        "oldColleagues": "Früher hätte ich gesagt gut aber ich weiss von einigen Kollegen der Stellen verjüngt werden sollen die keine konkreten Aussagen von Vorgesetzten oder HR bekommen wie sich die Bank das vorstellt (zB mit einem Altersteilzeitangebot)",
+        "leadership": "Sehr durchwachsen. Es ist auch nicht stringent was einem von Vorgesetzten mitgeteilt wird.",
+        "workConditions": "Die Räume sind in Ordnung, die Ausstattung modern.",
+        "communication": "Man bekommt spät Bescheid und es gibt auch irgendwie gemischte Botschaften. Einerseits geht es der Bank nicht gut und es muss geschaut mehr zu sparen aber dann hört man was von einer Leadership Konferenz die größer denn je war mit Keynote Speaker die wahrscheinlich fünfstellige Beträge plus Spesen aufrufen.",
+        "equality": "Es wurden jetzt auch ein paar zusätzliche Frauen auf Führungspositionen gesetzt und man ist durchaus bemüht da mehr Parität zu schaffen.",
+        "tasks": "Dir Arbeit an sich ist herausfordern aber macht durchaus auch Spaß"
+      },
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 3.0,
+        "communication": 2.0,
+        "workConditions": 4.0,
+        "leadership": 2.0,
+        "teamwork": 4.0,
+        "oldColleagues": 3.0,
+        "equality": 4.0,
+        "career": 2.0,
+        "salary": 5.0,
+        "image": 3.0,
+        "environment": 3.0,
+        "tasks": 4.0
+      },
+      "published_at": "2026-07-23T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "3c5fdb71-c195-49cd-a67c-50d3961c5f89",
+      "url": "https://www.kununu.com/de/deutsche-pfandbriefbank/bewertung/3c5fdb71-c195-49cd-a67c-50d3961c5f89",
+      "title": "Vertrauen, Entwicklungsmöglichkeiten und ein starkes Miteinander – vom Werkstudentenjob zum Berufseinstieg",
+      "content": "Besonders schätze ich die wertschätzende Unternehmenskultur, das Vertrauen in die Mitarbeitenden und die Möglichkeit, Verantwortung zu übernehmen. Eigene Ideen werden gehört und man erhält die Chance, sich fachlich und persönlich weiterzuentwickeln. Zudem habe ich die Zusammenarbeit mit Kolleginnen, Kollegen und Führungskräften stets als offen und respektvoll erlebt.\n\nWertschätzender Umgang, hilfsbereite Kolleginnen und Kollegen sowie ein angenehmes Arbeitsumfeld.\n\nIch bin als Werkstudentin ins Unternehmen eingestiegen und hatte anschließend die Möglichkeit, meine berufliche Laufbahn dort fortzusetzen. Diese Entwicklung zeigt das Vertrauen in Mitarbeitende und die Chancen, die sich bei entsprechender Leistung und Engagement bieten.\n\nIch habe mich von Anfang an willkommen gefühlt und konnte mich jederzeit auf mein Team verlassen.\n\nVertrauen, Offenheit und ein respektvoller Umgang haben die Zusammenarbeit geprägt.\n\nVon der Planung bis zur Umsetzung konnte ich viele Themen eigenständig begleiten. Es war motivierend zu sehen, dass eigene Ideen aufgegriffen wurden und einen spürbaren Beitrag leisten konnten.",
+      "rating": 5.0,
+      "sections": {
+        "positive": "Besonders schätze ich die wertschätzende Unternehmenskultur, das Vertrauen in die Mitarbeitenden und die Möglichkeit, Verantwortung zu übernehmen. Eigene Ideen werden gehört und man erhält die Chance, sich fachlich und persönlich weiterzuentwickeln. Zudem habe ich die Zusammenarbeit mit Kolleginnen, Kollegen und Führungskräften stets als offen und respektvoll erlebt.",
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Wertschätzender Umgang, hilfsbereite Kolleginnen und Kollegen sowie ein angenehmes Arbeitsumfeld.",
+        "career": "Ich bin als Werkstudentin ins Unternehmen eingestiegen und hatte anschließend die Möglichkeit, meine berufliche Laufbahn dort fortzusetzen. Diese Entwicklung zeigt das Vertrauen in Mitarbeitende und die Chancen, die sich bei entsprechender Leistung und Engagement bieten.",
+        "teamwork": "Ich habe mich von Anfang an willkommen gefühlt und konnte mich jederzeit auf mein Team verlassen.",
+        "leadership": "Vertrauen, Offenheit und ein respektvoller Umgang haben die Zusammenarbeit geprägt.",
+        "tasks": "Von der Planung bis zur Umsetzung konnte ich viele Themen eigenständig begleiten. Es war motivierend zu sehen, dass eigene Ideen aufgegriffen wurden und einen spürbaren Beitrag leisten konnten."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-06-19T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "dd0e00b1-a4f9-477a-ac3e-637416abf539",
+      "url": "https://www.kununu.com/de/deutsche-pfandbriefbank/bewertung/dd0e00b1-a4f9-477a-ac3e-637416abf539",
+      "title": "Insgesamt sehr zufrieden - ein Arbeitgeber, den ich weiterempfehlen kann",
+      "content": "Angenehme und wertschätzende Arbeitsatmosphäre, in der man sich sehr wohlfühlt.\n\nDas Unternehmen hat trotz geringem Bekanntheitsgrad ein positives Image und wird auch von außen sehr geschätzt.\n\nGute Balance zwischen Arbeit und Privatleben, flexible Lösungen werden ermöglicht. Auf private Umstände wird Rücksicht genommen.\n\nGute Möglichkeiten zur persönlichen und fachlichen Weiterentwicklung.\n\nFaire Bezahlung und attraktive Zusatzleistungen.\n\nDas Unternehmen achtet auf nachhaltiges Handeln und übernimmt soziale Verantwortung.\n\nDer Zusammenhalt im Team ist stark, man unterstützt sich gegenseitig und verfolgt ein gemeinsames Ziel.\n\nErfahrung wird sehr geschätzt und ältere Kollegen werden respektvoll eingebunden.\n\nDie Führungskräfte sind respektvoll, fair und haben immer ein offenes Ohr.\n\nFlexible Arbeitszeitmodelle, moderne Arbeitsplätze und gute Ausstattung sorgen für ein angenehmes Arbeiten.\n\nRegelmäßiger Austausch und flache Hierarchien ermöglichen eine offene und transparente Kommunikation. Wichtige Informationen werden klar weitergegeben und eigene Gedanken werden geschätzt und gehört.\n\nVielfalt wird geschätzt und alle werden unabhängig von Hintergrund gleich behandelt.\n\nDie Aufgaben sind abwechslungsreich und bieten immer wieder neue Herausforderungen.",
+      "rating": 5.0,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Angenehme und wertschätzende Arbeitsatmosphäre, in der man sich sehr wohlfühlt.",
+        "image": "Das Unternehmen hat trotz geringem Bekanntheitsgrad ein positives Image und wird auch von außen sehr geschätzt.",
+        "workLife": "Gute Balance zwischen Arbeit und Privatleben, flexible Lösungen werden ermöglicht. Auf private Umstände wird Rücksicht genommen.",
+        "career": "Gute Möglichkeiten zur persönlichen und fachlichen Weiterentwicklung.",
+        "salary": "Faire Bezahlung und attraktive Zusatzleistungen.",
+        "environment": "Das Unternehmen achtet auf nachhaltiges Handeln und übernimmt soziale Verantwortung.",
+        "teamwork": "Der Zusammenhalt im Team ist stark, man unterstützt sich gegenseitig und verfolgt ein gemeinsames Ziel.",
+        "oldColleagues": "Erfahrung wird sehr geschätzt und ältere Kollegen werden respektvoll eingebunden.",
+        "leadership": "Die Führungskräfte sind respektvoll, fair und haben immer ein offenes Ohr.",
+        "workConditions": "Flexible Arbeitszeitmodelle, moderne Arbeitsplätze und gute Ausstattung sorgen für ein angenehmes Arbeiten.",
+        "communication": "Regelmäßiger Austausch und flache Hierarchien ermöglichen eine offene und transparente Kommunikation. Wichtige Informationen werden klar weitergegeben und eigene Gedanken werden geschätzt und gehört.",
+        "equality": "Vielfalt wird geschätzt und alle werden unabhängig von Hintergrund gleich behandelt.",
+        "tasks": "Die Aufgaben sind abwechslungsreich und bieten immer wieder neue Herausforderungen."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-04-28T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "4ed1e04b-5293-40eb-8406-3bb34f2948b2",
+      "url": "https://www.kununu.com/de/deutsche-pfandbriefbank/bewertung/4ed1e04b-5293-40eb-8406-3bb34f2948b2",
+      "title": "Kein gutes Arbeitgeber mehr.",
+      "content": "Nichts.\n\nAlles, siehe oben.\nAktuell wird sehr viel in Madrid investiert und aufgebaut - viele billige Stellen werden dort aufgebaut, dafür finden Kürzungen in Deutschland statt.\n\nEin neuer ehrlicher CEO, der seine Mitarbeiter tatsächlich wertschätzt. Es wird viel versprochen, allerdings wenig umgesetzt. Die Unternehmenswerte werden durch das Management nicht wirklich gelebt, die Mitarbeiter sind sehr unzufrieden. Das aktuelle Arbeitsklima ist nicht zu ertragen.\n\nSchlechte Stimmung durch den neuen CEO, der seine Mitarbeiter nicht wertschätzt.\n\nNegativ.\n\nGeht so.\n\nKeine Entwicklungsmöglichkeiten.\n\nNiedriges Gehalt, keine Lohnerhöhung, sehr viele Sparmaßnahmen.\n\nNicht gegeben, jeder arbeitet gegen jeden.\n\nEher arrogant.\n\nkeine Entwicklungsmöglichkeiten.\n\nKeine wertschänzende Kommunikation vorhanden. Es wird immer versprochen aber am Ende kommt nichts.\n\nNein, Vitamin B spielt eine grosse Rolle.",
+      "rating": 1.1,
+      "sections": {
+        "positive": "Nichts.",
+        "negative": "Alles, siehe oben.\nAktuell wird sehr viel in Madrid investiert und aufgebaut - viele billige Stellen werden dort aufgebaut, dafür finden Kürzungen in Deutschland statt.",
+        "suggestion": "Ein neuer ehrlicher CEO, der seine Mitarbeiter tatsächlich wertschätzt. Es wird viel versprochen, allerdings wenig umgesetzt. Die Unternehmenswerte werden durch das Management nicht wirklich gelebt, die Mitarbeiter sind sehr unzufrieden. Das aktuelle Arbeitsklima ist nicht zu ertragen."
+      },
+      "factor_comments": {
+        "atmosphere": "Schlechte Stimmung durch den neuen CEO, der seine Mitarbeiter nicht wertschätzt.",
+        "image": "Negativ.",
+        "workLife": "Geht so.",
+        "career": "Keine Entwicklungsmöglichkeiten.",
+        "salary": "Niedriges Gehalt, keine Lohnerhöhung, sehr viele Sparmaßnahmen.",
+        "teamwork": "Nicht gegeben, jeder arbeitet gegen jeden.",
+        "leadership": "Eher arrogant.",
+        "workConditions": "keine Entwicklungsmöglichkeiten.",
+        "communication": "Keine wertschänzende Kommunikation vorhanden. Es wird immer versprochen aber am Ende kommt nichts.",
+        "equality": "Nein, Vitamin B spielt eine grosse Rolle."
+      },
+      "factor_scores": {
+        "atmosphere": 1.0,
+        "workLife": 2.0,
+        "communication": 1.0,
+        "workConditions": 1.0,
+        "leadership": 1.0,
+        "teamwork": 1.0,
+        "oldColleagues": 1.0,
+        "equality": 1.0,
+        "career": 1.0,
+        "salary": 1.0,
+        "image": 1.0,
+        "environment": 1.0,
+        "tasks": 1.0
+      },
+      "published_at": "2026-04-02T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "a04013dd-f435-4c8e-b036-2e12102fdbeb",
+      "url": "https://www.kununu.com/de/deutsche-pfandbriefbank/bewertung/a04013dd-f435-4c8e-b036-2e12102fdbeb",
+      "title": "Auf dem Abstieg",
+      "content": "Durch den Wechsel im Seniormanagement, ist es nicht mehr das gleiche Institut wie vor ein paar Jahren. Die Einfallslosigkeit in Bezug auf notwendige Änderungen manifestiert sich durch Top-Beratungshäuser die sich die Klinke in die Hand geben. Daraus resultierend Vorschläge, die uninspiriert sind und mit Sicherheit keinen Beitrag zu einer guten Atmosphäre leisten.\n\nKünstlicher Stress, neben den notwendigen Dingen beschäftigt sich die Bank mit sich selbst und erzeugt so neue Aufgaben, die Druck erzeugen. Dieser Druck sollte ehe auf Dinge gelenkt werden, die Mehrwert erzeugen.\n\nDas ist Top. Tolle Kollegen und gerade wenn es haarig wird, rückt man näher zusammen.\n\nBis vor einiger Zeit ganz gut, neuer Boss bringt meist neue Ideen. Leider nicht alle gut. Oberflächlich Respektvoll und der Mensch steht im Mittelpunkt, unter der Haube egozentrisch und unauthentisch, mehr Schein als Sein.\n\nTownhalls sind meist CEO Monologe, die selten eine neue Botschaft haben. Immer die gleichen Durchhalteparolen.\n\nEs gäbe viel zu tun.",
+      "rating": 3.5,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Durch den Wechsel im Seniormanagement, ist es nicht mehr das gleiche Institut wie vor ein paar Jahren. Die Einfallslosigkeit in Bezug auf notwendige Änderungen manifestiert sich durch Top-Beratungshäuser die sich die Klinke in die Hand geben. Daraus resultierend Vorschläge, die uninspiriert sind und mit Sicherheit keinen Beitrag zu einer guten Atmosphäre leisten.",
+        "workLife": "Künstlicher Stress, neben den notwendigen Dingen beschäftigt sich die Bank mit sich selbst und erzeugt so neue Aufgaben, die Druck erzeugen. Dieser Druck sollte ehe auf Dinge gelenkt werden, die Mehrwert erzeugen.",
+        "teamwork": "Das ist Top. Tolle Kollegen und gerade wenn es haarig wird, rückt man näher zusammen.",
+        "leadership": "Bis vor einiger Zeit ganz gut, neuer Boss bringt meist neue Ideen. Leider nicht alle gut. Oberflächlich Respektvoll und der Mensch steht im Mittelpunkt, unter der Haube egozentrisch und unauthentisch, mehr Schein als Sein.",
+        "communication": "Townhalls sind meist CEO Monologe, die selten eine neue Botschaft haben. Immer die gleichen Durchhalteparolen.",
+        "tasks": "Es gäbe viel zu tun."
+      },
+      "factor_scores": {
+        "atmosphere": 2.0,
+        "workLife": 3.0,
+        "communication": 2.0,
+        "workConditions": 4.0,
+        "leadership": 1.0,
+        "teamwork": 5.0,
+        "oldColleagues": 4.0,
+        "equality": 4.0,
+        "career": 2.0,
+        "salary": 4.0,
+        "image": 4.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-03-19T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "ff3a301b-8d53-45dd-ad5c-20f9e57beef1",
+      "url": "https://www.kununu.com/de/deutsche-pfandbriefbank/bewertung/ff3a301b-8d53-45dd-ad5c-20f9e57beef1",
+      "title": "Guter Arbeitgeber",
+      "content": "Zusammenhalt mit den Kollegen\n\nKommunikation der Führungskräfte\n\nMehr Weiterbildung für die IT",
+      "rating": 4.2,
+      "sections": {
+        "positive": "Zusammenhalt mit den Kollegen",
+        "negative": "Kommunikation der Führungskräfte",
+        "suggestion": "Mehr Weiterbildung für die IT"
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 4.0,
+        "communication": 3.0,
+        "workConditions": 5.0,
+        "leadership": 3.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 3.0,
+        "salary": 4.0,
+        "image": 3.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-01-28T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "6781f2f8-eb10-4d92-9c08-95704ec82d52",
+      "url": "https://www.kununu.com/de/deutsche-pfandbriefbank/bewertung/6781f2f8-eb10-4d92-9c08-95704ec82d52",
+      "title": "Toller Einstellungsprozess, gute Unternehmenskultur, tolle Kollegen",
+      "content": "Sehr schneller, verbindlicher Einstellungsprozess. Vielfältige Aufgabe mit Gestsltungsspielraum. Sehr offene, herzliche und unterstützende Kultur sowohl in Eschborn als auch zu den Kollegen in Garching.\n\nOffene und unterstützende Kollegen\n\ngutes Teamgefühl\n\nOffen",
+      "rating": 4.8,
+      "sections": {
+        "positive": "Sehr schneller, verbindlicher Einstellungsprozess. Vielfältige Aufgabe mit Gestsltungsspielraum. Sehr offene, herzliche und unterstützende Kultur sowohl in Eschborn als auch zu den Kollegen in Garching.",
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Offene und unterstützende Kollegen",
+        "teamwork": "gutes Teamgefühl",
+        "communication": "Offen"
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 4.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 4.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-09-19T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "3fe92236-8091-4288-b17d-5f0ad0bd8f79",
+      "url": "https://www.kununu.com/de/deutsche-pfandbriefbank/bewertung/3fe92236-8091-4288-b17d-5f0ad0bd8f79",
+      "title": "Zukunftsorientiertes Unternehmen mit starkem Teamgeist",
+      "content": "Sehr nettes und kollegiales Team.\n\nEine Vielzahl an Weiterbildungsmöglichkeiten.\n\nSehr unterstützender und enger Zusammenhalt.\n\nModerne Büros, gelegen in einem sehr ansprechenden Business Campus.\n\nDurch die größe der Bank, breites und sehr spannendes Aufgabengebiet.",
+      "rating": 4.9,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Sehr nettes und kollegiales Team.",
+        "career": "Eine Vielzahl an Weiterbildungsmöglichkeiten.",
+        "teamwork": "Sehr unterstützender und enger Zusammenhalt.",
+        "workConditions": "Moderne Büros, gelegen in einem sehr ansprechenden Business Campus.",
+        "tasks": "Durch die größe der Bank, breites und sehr spannendes Aufgabengebiet."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 4.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-08-04T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "457fb75d-faf9-4bc0-a31e-3e54bfbec688",
+      "url": "https://www.kununu.com/de/deutsche-pfandbriefbank/bewertung/457fb75d-faf9-4bc0-a31e-3e54bfbec688",
+      "title": "Toller Arbeitgeber, ich bin begeistert",
+      "content": "Klare und transparente Informationen vor und nach Einstellung\n\nSehr vielfältig",
+      "rating": 4.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "communication": "Klare und transparente Informationen vor und nach Einstellung",
+        "tasks": "Sehr vielfältig"
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 4.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 4.0,
+        "salary": 5.0,
+        "image": 4.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-07-25T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "542fb3fe-378e-4803-b92c-6aa554fe397b",
+      "url": "https://www.kununu.com/de/deutsche-pfandbriefbank/bewertung/542fb3fe-378e-4803-b92c-6aa554fe397b",
+      "title": "Top Arbeitgeber!",
+      "content": "Richtig nette und fachlich herausragende Kollegen*innen.\n\nSpannende, abwechslungsreiche Themen!",
+      "rating": 4.6,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "teamwork": "Richtig nette und fachlich herausragende Kollegen*innen.",
+        "tasks": "Spannende, abwechslungsreiche Themen!"
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 4.0,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": 5.0,
+        "oldColleagues": null,
+        "equality": null,
+        "career": 4.0,
+        "salary": 5.0,
+        "image": 4.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-07-15T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "02b91182-358a-4a0a-a519-dfacb145e014",
+      "url": "https://www.kununu.com/de/deutsche-pfandbriefbank/bewertung/02b91182-358a-4a0a-a519-dfacb145e014",
+      "title": "Schlimmste Führungskraft aller Zeiten",
+      "content": "An sich finde ich den Arbeitgeber schon gut, aber die direkte Führungskraft hat den meisten Impact.\n\nNach der Bankenkrise wurden zu viele Externe eingekauft anstatt Interne aufzubauen.\n\nArbeitsatmosphäre war stark von Druck und Angst geprägt. Besonders das Führungsverhalten meiner direkten Führungskraft wirkt häufig einschüchternd und herabwürdigend. In regelmäßigen Gesprächen werden Mitarbeitende nicht zu Information und Zusammenarbeit eingeladen, sondern unter Druck gesetzt – mit dem offensichtlichen Ziel, Unsicherheit und Überforderung zu erzeugen.\nGesten wie das wortlose Wegschicken per Handzeichen, das Klopfen an die Wand als „Rufzeichen“ oder das absichtliche Werfen von Gegenständen, die dann auf den Boden fallen, wirken respektlos und stellen die Mitarbeitenden öffentlich bloß. Das Verhalten im Umgang mit einfachen Arbeitshilfen, wie dem Mitführen eines Blocks oder Stifts, wird übermäßig streng und emotional sanktioniert.\nIn seiner Art der Kommunikation und Körpersprache zeigt die Führungskraft wiederholt dominante und hierarchisch geprägte Verhaltensmuster, wie sie manchmal mit traditionell autoritären Führungsstilen in Verbindung gebracht werden. Diese Form des Umgangs fördert jedoch keine konstruktive Zusammenarbeit in einem modernen, mitteleuropäischen Arbeitsumfeld.\n\nNach dem ich den Betriebsrat und die Führungskraft von meinem Chef eingeschaltet hatte, wurde die \"soziale Maske\" fallen gelassen und er hat sein wahres Gesicht gezeigt.\n\nTechnik, Arbeitsbedingung ist in Ordnung, Infrastruktur und ok.\n\nAnteil von Frauen ist gering, kann aber an der IT liegen.",
+      "rating": 1.6,
+      "sections": {
+        "positive": "An sich finde ich den Arbeitgeber schon gut, aber die direkte Führungskraft hat den meisten Impact.",
+        "negative": "Nach der Bankenkrise wurden zu viele Externe eingekauft anstatt Interne aufzubauen.",
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Arbeitsatmosphäre war stark von Druck und Angst geprägt. Besonders das Führungsverhalten meiner direkten Führungskraft wirkt häufig einschüchternd und herabwürdigend. In regelmäßigen Gesprächen werden Mitarbeitende nicht zu Information und Zusammenarbeit eingeladen, sondern unter Druck gesetzt – mit dem offensichtlichen Ziel, Unsicherheit und Überforderung zu erzeugen.\nGesten wie das wortlose Wegschicken per Handzeichen, das Klopfen an die Wand als „Rufzeichen“ oder das absichtliche Werfen von Gegenständen, die dann auf den Boden fallen, wirken respektlos und stellen die Mitarbeitenden öffentlich bloß. Das Verhalten im Umgang mit einfachen Arbeitshilfen, wie dem Mitführen eines Blocks oder Stifts, wird übermäßig streng und emotional sanktioniert.\nIn seiner Art der Kommunikation und Körpersprache zeigt die Führungskraft wiederholt dominante und hierarchisch geprägte Verhaltensmuster, wie sie manchmal mit traditionell autoritären Führungsstilen in Verbindung gebracht werden. Diese Form des Umgangs fördert jedoch keine konstruktive Zusammenarbeit in einem modernen, mitteleuropäischen Arbeitsumfeld.",
+        "leadership": "Nach dem ich den Betriebsrat und die Führungskraft von meinem Chef eingeschaltet hatte, wurde die \"soziale Maske\" fallen gelassen und er hat sein wahres Gesicht gezeigt.",
+        "workConditions": "Technik, Arbeitsbedingung ist in Ordnung, Infrastruktur und ok.",
+        "equality": "Anteil von Frauen ist gering, kann aber an der IT liegen."
+      },
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-07-15T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "d99fea7a-bb36-442f-bc01-7755e42d5fa9",
+      "url": "https://www.kununu.com/de/deutsche-pfandbriefbank/bewertung/d99fea7a-bb36-442f-bc01-7755e42d5fa9",
+      "title": "seit 4 Jahren bin ich bei PBB tätig und bin wirklich immer begeistert.",
+      "content": "Besonders hervorzuheben ist die ausgezeichnete Unternehmens, die von Offenheit und Wertschätzung geprägt ist.\n\nDas Arbeotsklima ist überwiegend gut.\n\nDie ist dank flexible und der Möglichkeiten zum HO sehr gut\n\ndie Kollegen sind unglaublich hilfsbereit und, es herrscht ein echter Teamgeist\n\nDie von Seiten ist transparent und regelmäßig. Man fühlt sich über wichtige Entscheidungen gut informiert",
+      "rating": 5.0,
+      "sections": {
+        "positive": "Besonders hervorzuheben ist die ausgezeichnete Unternehmens, die von Offenheit und Wertschätzung geprägt ist.",
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Das Arbeotsklima ist überwiegend gut.",
+        "workLife": "Die ist dank flexible und der Möglichkeiten zum HO sehr gut",
+        "teamwork": "die Kollegen sind unglaublich hilfsbereit und, es herrscht ein echter Teamgeist",
+        "communication": "Die von Seiten ist transparent und regelmäßig. Man fühlt sich über wichtige Entscheidungen gut informiert"
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-06-25T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "c234c37a-af4d-45a2-b7a4-dda2fa7da851",
+      "url": "https://www.kununu.com/de/deutsche-pfandbriefbank/bewertung/c234c37a-af4d-45a2-b7a4-dda2fa7da851",
+      "title": "Konsequentes und an Verantwortlichkeiten orientierte Führung und Entscheidung -Fehlanzeige-",
+      "content": "Fangt endlich an, die veralteten und auf Understatement und Titelkultur fokussierten Personen zu entsorgen und lasst das vorhandene frische Personal den Weg zu einer erfolgreichen Immobilienbank mitgestalten.\n\nAufgrund des akuten Spannungsfeldes, bei gleichzeitig nicht nachvollziehbarer weiterer Ausrichtung der PBB, litt die Gesamtsituation massiv.\n\nVerlässliches Image leidet unter den aktuellen herausfordernden Zeiten\n\nBreite Palette an Instrumenten\n\nWird groß nach außen geschrieben, jedoch aufgrund der Sparzwänge nur rudimentär und vor allem wohlwollend personenbezogen vorhanden.\n\nPBB zahlt sehr gut, muss sie auch\n\nPunktuell vorhanden, im Großen und Ganzen macht jeder sein Ding und versucht nach oben hin \"immer schön da zu stehen\"\n\nFokus liegt auf junge, talentierte Arbeitskräfte, deren \"Wachstum\" größtenteils durch verkrustete Strukturen gehemmt wird.\n\nGroßraumbüro\n\nAktive Kommunikation nach CEO-Wechsel spürbar, jedoch nicht ausreichend in der gesamtheitlichen Betrachtung\n\nGrundsätzlich vorhanden, neue Ideen nicht gewollt, werden teils durch den Vorgesetzten negiert. Hängt im Wesentlichen an der Struktur des Führungsgremiums, welches seit Jahren in den verschiedensten Vorgängerinstituten schon tätig war und aktuell noch immer ist.",
+      "rating": 2.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": "Fangt endlich an, die veralteten und auf Understatement und Titelkultur fokussierten Personen zu entsorgen und lasst das vorhandene frische Personal den Weg zu einer erfolgreichen Immobilienbank mitgestalten."
+      },
+      "factor_comments": {
+        "atmosphere": "Aufgrund des akuten Spannungsfeldes, bei gleichzeitig nicht nachvollziehbarer weiterer Ausrichtung der PBB, litt die Gesamtsituation massiv.",
+        "image": "Verlässliches Image leidet unter den aktuellen herausfordernden Zeiten",
+        "workLife": "Breite Palette an Instrumenten",
+        "career": "Wird groß nach außen geschrieben, jedoch aufgrund der Sparzwänge nur rudimentär und vor allem wohlwollend personenbezogen vorhanden.",
+        "salary": "PBB zahlt sehr gut, muss sie auch",
+        "teamwork": "Punktuell vorhanden, im Großen und Ganzen macht jeder sein Ding und versucht nach oben hin \"immer schön da zu stehen\"",
+        "oldColleagues": "Fokus liegt auf junge, talentierte Arbeitskräfte, deren \"Wachstum\" größtenteils durch verkrustete Strukturen gehemmt wird.",
+        "workConditions": "Großraumbüro",
+        "communication": "Aktive Kommunikation nach CEO-Wechsel spürbar, jedoch nicht ausreichend in der gesamtheitlichen Betrachtung",
+        "equality": "Grundsätzlich vorhanden, neue Ideen nicht gewollt, werden teils durch den Vorgesetzten negiert. Hängt im Wesentlichen an der Struktur des Führungsgremiums, welches seit Jahren in den verschiedensten Vorgängerinstituten schon tätig war und aktuell noch immer ist."
+      },
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-05-27T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    }
+  ],
+  "review_limit": 15,
+  "review_period": {
+    "since": "2024-11-25T00:00:00+00:00",
+    "until": "2026-11-25T17:15:28.443422+00:00",
+    "date_field": "published_at",
+    "missing_dates": "excluded"
+  },
+  "factor_scores_aggregated": {
+    "atmosphere": {
+      "mean": 4.25,
+      "count": 12
+    },
+    "workLife": {
+      "mean": 4.08,
+      "count": 12
+    },
+    "communication": {
+      "mean": 3.91,
+      "count": 11
+    },
+    "workConditions": {
+      "mean": 4.45,
+      "count": 11
+    },
+    "leadership": {
+      "mean": 3.82,
+      "count": 11
+    },
+    "teamwork": {
+      "mean": 4.58,
+      "count": 12
+    },
+    "oldColleagues": {
+      "mean": 4.36,
+      "count": 11
+    },
+    "equality": {
+      "mean": 4.45,
+      "count": 11
+    },
+    "career": {
+      "mean": 3.83,
+      "count": 12
+    },
+    "salary": {
+      "mean": 4.5,
+      "count": 12
+    },
+    "image": {
+      "mean": 3.92,
+      "count": 12
+    },
+    "environment": {
+      "mean": 4.5,
+      "count": 12
+    },
+    "tasks": {
+      "mean": 4.58,
+      "count": 12
+    }
+  },
+  "coverage": "bounded_employee_review_sample_last_2_years_not_all_reviews",
+  "diagnostics": {
+    "pages": [
+      {
+        "page": "reviews",
+        "page_number": 1,
+        "load_more_clicks": 0,
+        "requested_url": "https://www.kununu.com/de/deutsche-pfandbriefbank/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Deutsche-Pfandbriefbank-e7f3d2c4\\browser\\reviews.html",
+        "browser_step": 60,
+        "final_url": "https://www.kununu.com/de/deutsche-pfandbriefbank/kommentare",
+        "observed_at": "2026-11-25T17:15:30.272210+00:00",
+        "http_status": 200,
+        "factor_cards_expanded": 5,
+        "reviews_collected": 10
+      },
+      {
+        "page": "reviews",
+        "page_number": 2,
+        "load_more_clicks": 1,
+        "requested_url": "https://www.kununu.com/de/deutsche-pfandbriefbank/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Deutsche-Pfandbriefbank-e7f3d2c4\\browser\\reviews-2.html",
+        "browser_step": 61,
+        "final_url": "https://www.kununu.com/de/deutsche-pfandbriefbank/kommentare",
+        "observed_at": "2026-11-25T17:15:31.765874+00:00",
+        "actions_complete": true,
+        "factor_cards_expanded": 2,
+        "reviews_collected": 14
+      },
+      {
+        "page": "reviews",
+        "page_number": 3,
+        "load_more_clicks": 2,
+        "requested_url": "https://www.kununu.com/de/deutsche-pfandbriefbank/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Deutsche-Pfandbriefbank-e7f3d2c4\\browser\\reviews-3.html",
+        "browser_step": 62,
+        "final_url": "https://www.kununu.com/de/deutsche-pfandbriefbank/kommentare",
+        "observed_at": "2026-11-25T17:15:33.240757+00:00",
+        "actions_complete": true,
+        "reviews_collected": 14
+      },
+      {
+        "page": "reviews",
+        "page_number": 4,
+        "load_more_clicks": 3,
+        "requested_url": "https://www.kununu.com/de/deutsche-pfandbriefbank/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Deutsche-Pfandbriefbank-e7f3d2c4\\browser\\reviews-4.html",
+        "browser_step": 63,
+        "final_url": "https://www.kununu.com/de/deutsche-pfandbriefbank/kommentare",
+        "observed_at": "2026-11-25T17:15:35.037232+00:00",
+        "actions_complete": true,
+        "reviews_collected": 14
+      },
+      {
+        "page": "reviews",
+        "page_number": 5,
+        "load_more_clicks": 4,
+        "requested_url": "https://www.kununu.com/de/deutsche-pfandbriefbank/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Deutsche-Pfandbriefbank-e7f3d2c4\\browser\\reviews-5.html",
+        "browser_step": 64,
+        "final_url": "https://www.kununu.com/de/deutsche-pfandbriefbank/kommentare",
+        "observed_at": "2026-11-25T17:15:37.037252+00:00",
+        "actions_complete": true,
+        "reviews_collected": 14,
+        "status": "error",
+        "reason": "review_page_limit_reached",
+        "error": "Maximal fünf Bewertungsabrufe je Firma erreicht; Stichprobe unvollständig."
+      }
+    ]
+  },
+  "source_url": "https://www.kununu.com/de/deutsche-pfandbriefbank",
+  "profile_source": "https://www.kununu.com/de/deutsche-pfandbriefbank/kommentare",
+  "review_stop_reason": "review_page_limit_reached",
+  "reason": "review_page_limit_reached",
+  "error": "reviews: Maximal fünf Bewertungsabrufe je Firma erreicht; Stichprobe unvollständig.",
+  "factor_score_coverage": {
+    "reviews_with_scores": 12,
+    "reviews_without_scores": 2,
+    "reviews_with_all_known_scores": 11,
+    "status": "partial"
+  },
+  "request_limits": {
+    "max_browser_steps": 295,
+    "browser_steps": 64,
+    "zyte_requests": 0
+  }
+}

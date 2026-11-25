@@ -1,0 +1,1512 @@
+{
+  "provider": "karriere",
+  "company": {
+    "key": "MAC IT-Solutions",
+    "name": "MAC IT-Solutions GmbH",
+    "location": "Flensburg",
+    "name_source": "company_name",
+    "urls": [
+      "https://www.mac-its.com/"
+    ],
+    "kununu_url": "https://www.kununu.com/de/mac-it-solutions1",
+    "branches": [
+      "IT & Telekommunikation"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "24941",
+    "street": "Lise-Meitner-Straße 14",
+    "region": "Schleswig-Holstein",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:13:41.958406+00:00",
+  "status": "partial",
+  "jobs": [
+    {
+      "title": "Senior Softwareentwickler (m/w/d) mit FiBu-Knowhow",
+      "url": "https://macits.jobs.personio.com/job/2594698",
+      "description": "Deine Mission Du hast eine Leidenschaft für gut strukturierte Softwareentwicklung in Kombination mit Finanzbuchhaltung? Du kommunizierst professionell mit Kunden und die Arbeit im Team macht dir Spaß? Dann sollten wir uns unterhalten. Wir suchen ab sofort neue Kolleg:innen für unsere Teams in der Softwareentwicklung an unserem Standort Flensburg. Als Softwareentwickler:in treibst Du die Weiterentwicklung unserer erfolgreichen ERP-Lösung DiVA stetig voran; vor allem das Modul zur Finanzbuchhaltung. Außerdem betreust Du unsere Bestandskunden und unterstützt bei Neueinführungen. Unser Team freut sich über Deine Bewerbung! Unsere Teams arbeiten remote. Wenn es für eine Phase der Zusammenarbeit sinnvoll ist, kommen die Teammitglieder in den Räumen der MAC zusammen. Dabei entscheidet jedes Team eigenständig, wie oft und in welchem Umfang solche Team-Tage Sinn ergeben. Du solltest daher generell die Möglichkeit haben, in unser Büro in Flensburg zu kommen. Deine Aufgaben Im Team bist Du für die Weiterentwicklung, Pflege und Dokumentation unserer ERP-Anwendung für Online- und Multichannel-Händler verantwortlich. Insbesondere für die Entwicklung von Anwendungen & Modulen mit AL & C#. Dabei legst Du deinen Fokus vor allem auf das Modul für die Finanzbuchhaltung. Du programmierst und optimierst Anwendungslösungen in unseren ERP-, CRM- und Kassenlösungen inklusive aller Schnittstellen zu Fremdsystemen. Du stehst im stetigen Kontakt mit unseren Kunden, stimmst individuelle Changes mit ihnen ab und setzt diese im Team um. Du nimmst neue fachliche Anforderungen professionell auf und sorgst für eine detaillierte Analyse & Konzeption. Das bringst Du mit Du verfügst über ein abgeschlossenes Studium (Informatik, Wirtschaftsinformatik, Technische Informatik bzw. ähnliche Fachrichtungen) oder eine vergleichbare IT-Ausbildung. Du bringst mehrjährige Erfahrungen in den Bereichen von Java, C# und .NET-Technologien oder anderen C-basierten Sprachen mit. Außerdem besitzt Du fundiertes Knowhow im Bereich der Finanzbuchhaltung, bspw. durch Arbeits-Erfahrungen in einer Steuerberatung. Pluspunkte sammelst Du mit Erfahrungen in SQL Server Technologien und SharePoint. Du überzeugst durch Deine analytische und konzeptionelle Arbeitsweise. Du bist teamfähig, engagiert, stressresistent und scheust Dich nicht, Verantwortung zu übernehmen. Du hast Interesse an komplexen und anspruchsvollen E-Commerce-Projekten. Erfahrungen im Online- oder Versandhandel und idealerweise auch mit ERP-Systemen sind wünschenswert. Du bringst Reisebereitschaft zu unseren Kunden im DACH-Raum mit. Du kannst nicht alle Punkte mit einem Haken versehen? Macht nichts, bewirb Dich trotzdem! Zusammen finden wir dann eine Lösung. Warum wir? Du gehst in Deinem Job auf, während wir uns um das passende Wohlfühl-Umfeld kümmern, inklusive Verantwortung, Freiräumen und deinem persönlichen Karriereweg. Wir bieten Dir genau die Konditionen, die Du brauchst – und noch ein bisschen mehr: flexible Arbeitszeitmodelle, ergonomisch und technisch bestens ausgestattete Arbeitsplätze und Zugang zu subventionierten KiTa-Plätzen. Bei uns kannst Du Dich in Deiner Mittagspause massieren lassen, von unseren organisierten Sport- und Fitnessangeboten profitieren und Deine Altersvorsorge mit uns sozial und nachhaltig organisieren. Bei uns wird auch frisch und lecker gekocht. Und einen Kuchenmittwoch haben wir auch!Mit uns wächst Du über Dich hinaus und bewegst richtig was! Der Kompass unserer gemeinsamen Arbeit ist die gegenseitige Wertschätzung. Die Gemeinschaft steht bei uns ganz oben und Du im Mittelpunkt. Werde Teil unseres wertschätzenden, agil arbeitenden Teams, realisiere engagiert neuen Ideen und gestalte den E-Commerce von morgen. Bei uns findest Du genau die richtige Rolle für Dich – mit genau den richtigen Perspektiven. Wie wir sind – kurz & knackig: Nordisch bodenständig und dennoch in der deutschen Bundesliga, sehr werteorientiert und dennoch Innovationstreiber, viele engagierte Köpfe und dennoch zu Hause in kleinen agilen Teams. Falls Du es noch nicht gemacht hast: Schau Dir auch auf unserem Karriereportal an, wer wir sind und wie wir arbeiten. Unsere Recruiterin Julia  freut sich auf Deine Bewerbung. Wenn Du Fragen zum Bewerbungsprozess hast, schreib gerne eine Mail an julia.gerdes@collana.com oder schaue auf unser Karriereportal, wie Deine Bewerbung in 5 Schritten abläuft. Wir sind derzeit an mehreren Standorten und auf verschiedenen Positionen nach Verstärkung für unsere Softwareentwicklung. Teile uns in deiner Bewerbung gerne alle Stellen mit, die Dich interessieren. Eine Bewerbung genügt dabei.",
+      "locations": [
+        "Flensburg",
+        "Hamburg, DE"
+      ],
+      "employment_type": "FULL_TIME",
+      "remote": "",
+      "employer": "MAC IT-Solutions GmbH",
+      "date_posted": "2026-04-08",
+      "valid_through": null,
+      "reference": "MAC IT-Solutions GmbH",
+      "extraction": "schema_org_jobposting",
+      "source_url": "https://macits.jobs.personio.com/job/2594698",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:13:44.743790+00:00",
+      "id": "d5b3f518f19309dc4d3f",
+      "company_key": "MAC IT-Solutions"
+    },
+    {
+      "title": "Duales Studium Informationstechnik",
+      "url": "https://www.develappers.de/job/duales-studium-informationstechnologie-2027",
+      "description": "Entwickle interne Tools für effiziente Unternehmensabläufe. Übernehme erste Teilprojekte in spannenden Kundenprojekten aus Branchen wie Medizin, Finanzen oder Wirtschaft. Lerne die Arbeit nach agilen Methoden wie z. B. Scrum kennen. Sammle Erfahrung in der Arbeit mit und der Beratung von Kunden. Wachse mit Unterstützung Deines persönlichen Mentors über Dich hinaus. Werde Teil des Teams und bringe Deine Ideen und Vorschläge ein.",
+      "locations": [
+        "Dresden, DE"
+      ],
+      "employment_type": "FULL_TIME",
+      "remote": "",
+      "employer": "",
+      "date_posted": "2026-04-07",
+      "valid_through": null,
+      "reference": null,
+      "extraction": "schema_org_jobposting",
+      "source_url": "https://www.develappers.de/de/jobs/offers",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:14:12.373572+00:00",
+      "id": "b28f84f3d63ed0950b36",
+      "company_key": "MAC IT-Solutions"
+    },
+    {
+      "title": "Duales Studium Medieninformatik",
+      "url": "https://www.develappers.de/job/duales-studium-medieninformatik-2027",
+      "description": "Entwickle interne Tools für effiziente Unternehmensabläufe. Übernehme erste Teilprojekte in spannenden Kundenprojekten aus Branchen wie Medizin, Finanzen oder Wirtschaft. Lerne die Arbeit nach agilen Methoden wie z. B. Scrum kennen. Sammle Erfahrung in der Arbeit mit und der Beratung von Kunden. Wachse mit Unterstützung Deines persönlichen Mentors über Dich hinaus. Werde Teil des Teams und bringe Deine Ideen und Vorschläge ein.",
+      "locations": [
+        "Dresden, DE"
+      ],
+      "employment_type": "FULL_TIME",
+      "remote": "",
+      "employer": "",
+      "date_posted": "2026-04-07",
+      "valid_through": null,
+      "reference": null,
+      "extraction": "schema_org_jobposting",
+      "source_url": "https://www.develappers.de/de/jobs/offers",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:14:12.373572+00:00",
+      "id": "6eb1c7422999fac77835",
+      "company_key": "MAC IT-Solutions"
+    },
+    {
+      "title": "Duales Studium Wirtschaftsinformatik",
+      "url": "https://www.develappers.de/job/duales-studium-wirtschaftsinformatik-2027",
+      "description": "Entwickle interne Tools für effiziente Unternehmensabläufe. Übernehme erste Teilprojekte in spannenden Kundenprojekten aus Branchen wie Medizin, Finanzen oder Wirtschaft. Lerne die Arbeit nach agilen Methoden wie z. B. Scrum kennen. Sammle Erfahrung in der Arbeit mit und der Beratung von Kunden. Wachse mit Unterstützung Deines persönlichen Mentors über Dich hinaus. Werde Teil des Teams und bringe Deine Ideen und Vorschläge ein.",
+      "locations": [
+        "Dresden, DE"
+      ],
+      "employment_type": "FULL_TIME",
+      "remote": "",
+      "employer": "",
+      "date_posted": "2026-04-07",
+      "valid_through": null,
+      "reference": null,
+      "extraction": "schema_org_jobposting",
+      "source_url": "https://www.develappers.de/de/jobs/offers",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:14:12.373572+00:00",
+      "id": "8d3b2858e75ba95693b2",
+      "company_key": "MAC IT-Solutions"
+    },
+    {
+      "title": "Consultant Business Central (m/w/d) für den Groß- und Außenhandel",
+      "url": "https://collana.jobs.personio.de/job/2894528",
+      "description": "Deine Mission\n\n                Du hast Spaß daran, Kundenprojekte in der Warenwirtschaft vom Kick-off bis zum Go-live zum Erfolg zu bringen? Du arbeitest gern im Team, und Gestaltungsfreiräume motivieren dich? Dann werde Teil der VISIONDATA als Consultant für den Groß- und Außenhandel. In dieser Rolle begleitest du die Einführung effizienter und innovativer Softwarelösungen auf Basis von Microsoft Dynamics 365 Business Central, zugeschnitten auf die individuellen Anforderungen unserer Kunden. Unser gemeinsames Ziel: Organisation und Systeme unserer Kunden nachhaltig zu optimieren.\n            \n\nDeine Aufgaben Du berätst unsere Kunden bei Planung, Implementierung und Prozessoptimierung mit Microsoft Dynamics 365 Business Central. Im Mittelpunkt stehen die Kernprozesse des Außenhandels wie beispielsweise Einkauf, Verkauf, Kontrakte, Partien, Import, Export, Logistik. Als Projektverantwortliche:r steuerst du Projekte vom Kick-off bis zum Go-live und bist die Schnittstelle zwischen Kunden und unserem Entwicklungsteam. Kundenworkshops und Key-User-Schulungen leitest du eigenständig. Bei Präsentationen im Presales-Prozess unterstützt du unseren Vertrieb mit deiner Fachexpertise. Das bringst Du mit Eine Ausbildung als Kaufmann oder Kauffrau im Groß- und Außenhandel, ein Studium der Informatik oder Betriebswirtschaft oder eine vergleichbare Qualifikation Mehrjährige Berufserfahrung und Know-how im Groß- und Außenhandel sowie ein ausgeprägtes Prozessverständnis Erfahrung mit Microsoft Dynamics 365 Business Central oder Navision (NAV) Idealerweise bringst du Erfahrung als Consultant oder Key-User mit Du arbeitest strukturiert und eigenverantwortlich Kunden- und Dienstleistungsorientierung sind für dich selbstverständlich, und du übernimmst gern Verantwortung Deutsch sprichst du fließend, Englisch gut Du erfüllst nicht jede Anforderung? Bewirb dich trotzdem, denn Motivation und Lernbereitschaft zählen für uns genauso. Warum wir? Arbeitsumfeld: ein moderner, vielseitiger Arbeitsplatz in einem erfolgreichen Unternehmen Team : abwechslungsreiche Aufgaben in einem engagierten Team Entwicklung : gezielte Weiterbildungen und Entwicklungsprogramme Work-Life-Balance: flexible Arbeitszeiten, Möglichkeit des mobilen Arbeitens und 30 Tage Urlaub im Jahr Mobilität : Zuschuss zur Monatskarte, gute Verkehrsanbindung und kostenlose Parkplätze Standort : ein modernes Office im Herzen von Hamburg-Ottensen Klingt nach dir? Dann freuen wir uns auf deine Bewerbung mit Gehaltsvorstellung und frühestmöglichem Eintrittstermin. Bei Fragen melde dich gern bei Julia (julia.gerdes@collana.com)",
+      "locations": [
+        "Hamburg",
+        "Hybrid"
+      ],
+      "employment_type": "permanent, full-or-part-time",
+      "remote": "",
+      "employer": "VISIONDATA GmbH",
+      "date_posted": null,
+      "valid_through": null,
+      "reference": "2894528",
+      "extraction": "personio_feed",
+      "source_url": "https://collana.jobs.personio.de/xml",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:14:30.007951+00:00",
+      "id": "8802d5b839ec05c6e4bc",
+      "company_key": "MAC IT-Solutions"
+    },
+    {
+      "title": "Consultant Finanzbuchhaltung (m/w/d) Dynamics 365 Business Central",
+      "url": "https://collana.jobs.personio.de/job/2894444",
+      "description": "Deine Mission\n\n                Finanzbuchhaltung ist deine Leidenschaft, und du möchtest moderne Accounting-Prozesse aktiv mitgestalten? Dann bist du bei uns richtig. Bei der VISIONDATA entwickeln wir auf Basis von Microsoft Dynamics 365 Business Central effiziente und innovative Softwarelösungen für die individuellen Anforderungen unserer Kunden. Unser gemeinsames Ziel: Organisation und Systeme unserer Kunden nachhaltig zu optimieren. Als Consultant Finanzbuchhaltung begleitest du die Einführung und Weiterentwicklung von Warenwirtschafts- und Finanzbuchhaltungssystemen in den unterschiedlichsten Branchen. Eine Rolle mit echtem Impact und viel Gestaltungsspielraum.\n            \n\nDeine Aufgaben Du berätst Kunden aus dem Handel sowie aus Dienstleistungsunternehmen bei der Einführung von Business Central, von der Analyse bis zum Go-live. In Workshops nimmst du Anforderungen auf, analysierst Accounting-Prozesse und entwickelst praxisnahe Lösungskonzepte. Auch nach dem Go-live begleitest du Kunden bei der Weiterentwicklung ihrer Systeme und Prozesse. Schulungen und Trainings für Key-User und Anwender bereitest du vor und führst sie eigenständig durch. In zukunftsweisenden Themen wie Automatisierung oder KI-gestützten Finanzprozessen bringst du deine Ideen aktiv ein. Das bringst Du mit Du bist geprüfter Bilanzbuchhalter oder hast einen vergleichbaren kaufmännischen bzw. betriebswirtschaftlichen Abschluss. Berufserfahrung in der Haupt-, Bilanz-, Kreditoren- und Debitorenbuchhaltung sowie Controlling bildet deine fachliche Basis. Im HGB kennst du dich sehr gut aus, Kenntnisse in IFRS sind ein Plus. Mit Microsoft Dynamics 365 Business Central oder Navision (NAV) hast du bereits gearbeitet. Idealerweise hast du die Einführung von Business Central /NAV aktiv begleitet, als Consultant oder als Key-User. Die Zusammenarbeit mit Kunden und im Team macht dir Spaß. Du arbeitest strukturiert und lösungsorientiert und bist offen für neue Wege. Deutsch sprichst du fließend, Englisch gut. Warum wir? Arbeitsumfeld: ein moderner, vielseitiger Arbeitsplatz in einem erfolgreichen Unternehmen Team: abwechslungsreiche Aufgaben in einem kollegialen und engagierten Team Entwicklung : gezielte Weiterbildungen und Entwicklungsprogramme Work-Life-Balance: flexible Arbeitszeiten, Möglichkeit des mobilen Arbeitens und 30 Tage Urlaub im Jahr Mobilität: Zuschuss zur Monatskarte im Nahverkehr und kostenlose Parkplätze Standort: ein modernes Office mit guter Verkehrsanbindung im Herzen von Hamburg-Ottensen Klingt nach dir? Dann freuen wir uns auf deine Bewerbung mit Gehaltsvorstellung und frühestmöglichem Eintrittstermin. Du erfüllst nicht jede Anforderung? Bewirb dich trotzdem, denn Motivation und Lernbereitschaft zählen für uns genauso. Bei Fragen melde dich gern bei deiner Recruiterin Julia ( julia.gerdes@collana.com ).",
+      "locations": [
+        "Hamburg",
+        "Hybrid"
+      ],
+      "employment_type": "permanent, full-or-part-time",
+      "remote": "",
+      "employer": "VISIONDATA GmbH",
+      "date_posted": null,
+      "valid_through": null,
+      "reference": "2894444",
+      "extraction": "personio_feed",
+      "source_url": "https://collana.jobs.personio.de/xml",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:14:30.007951+00:00",
+      "id": "47cf5ca91f198ce155ca",
+      "company_key": "MAC IT-Solutions"
+    },
+    {
+      "title": "EDI / B2B Consultant (m/w/d) 80-100%",
+      "url": "https://collana.jobs.personio.de/job/2860245",
+      "description": "Deine Mission\n\n                Du möchtest dein EDI-Know-how in vielseitigen Kundenprojekten einsetzen und Kunden auf ihrem Weg zur digitalen Integration begleiten? Zur Verstärkung unseres EDI-Teams in Ittigen/Bern suchen wir dich: Eine erfahrene, lösungsorientierte Persönlichkeit, die EDI-Projekte selbständig umsetzt. Du begleitest unsere Kunden bei ihren EDI-Projekten mit Kunden und Lieferanten und verantwortest die Projektumsetzung der gängigsten Belegtypen (Bestellungen, Auftragsbestätigungen, Lieferscheine und Rechnungen) vom Kick-off bis zur produktiven Inbetriebnahme.\n            \n\nDeine Aufgaben Technische Anbindung und Durchführung der EDI- und INVOIC - Projekte mit unseren Geschäftspartnern im In- und Ausland Analyse, Konzeption und Implementierung neuer EDI-Anbindungen einschliesslich der Kommunikationsverbindungen EDI Mapping von verschiedenen elektronischen Datenformaten nach Standards von UN/EDIFACT, ZUGFeRD oder GS1 Sicherstellen des reibungslosen Betriebes unserer produktiven Umgebung, inkl. Überwachung und Fehleranalyse von EDI-Nachrichten Nationaler- und Internationaler Kundenkontakt im First- und Second-Level Support Dokumentation von Schnittstellen, Mappings und EDI-Prozessen Durchführung von Tests sowie Begleitung von Releases- und Systemänderungen Das bringst Du mit Du bringst fundiertes Fachwissen im Bereich EDI/B2B mit Du verfügst über mehrjährige Berufserfahrung im Bereich EDI, Schnittstellenmanagement oder Integration Du kennst gängige EDI-Standards und -Formate, insbesondere EDIFACT und XML Kommunikationsprotokolle wie AS2, SFTP oder HTTPS sind dir vertraut Idealerweise verfügst du über Erfahrung im Bereich Support oder bist motiviert dich in diesen Bereich einzuarbeiten Dank deiner analytischen Denkweise und schnellen Auffassungsgabe findest du dich rasch in neue Themen ein Du arbeitest selbstständig, zuverlässig und lösungsorientiert Du bist kommunikationsstark und die Zusammenarbeit mit internen und externen Ansprechpersonen macht dir Freude Du sprichst fliessend Deutsch und hast gute bis sehr gute Englischkenntnisse Warum wir? Dich erwarten spannende Projekte rund um den elektronischen Datenaustausch Abwechslungsreiche Aufgaben mit viel Eigenverantwortung und Raum für deine Ideen Kurze Entscheidungswegen und eine kollegialen Unternehmenskultur Flexible Arbeitsmodelle und die Möglichkeit zum Homeoffice Moderne Arbeitsmittel und gezielte Weiterbildung unterstützen dich in deiner persönlichen und fachlichen Entwicklung Attraktive Lohn- und Sozialleistungen",
+      "locations": [
+        "collana solutions | Ittigen"
+      ],
+      "employment_type": "permanent, full-or-part-time",
+      "remote": "",
+      "employer": "collana solutions AG",
+      "date_posted": null,
+      "valid_through": null,
+      "reference": "2860245",
+      "extraction": "personio_feed",
+      "source_url": "https://collana.jobs.personio.de/xml",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:14:30.007951+00:00",
+      "id": "048eab3ddd2b13cbaff7",
+      "company_key": "MAC IT-Solutions"
+    },
+    {
+      "title": "ERP Head of Sales (m/w/d) Dynamics 365",
+      "url": "https://collana.jobs.personio.de/job/2772411",
+      "description": "Deine Mission\n\n                Wir sind ein stark wachsendes mittelständiges Beratungsunternehmen im Bereich Microsoft Dynamics 365 Finance & Supply Chain Management (F&SCM) und begleiten Kunden aus der Fertigung bei der digitalen Transformation ihrer zentralen Geschäftsprozesse. Um unsere Marktposition weiter auszubauen und unser Vertriebsteam auf das nächste Level zu heben, suchen wir einen ambitionierten Head of Sales (m/w/d). In dieser Rolle übernimmst du die Gesamtverantwortung für unsere Marktpositionierung, Pipeline-Entwicklung und Umsatzsteigerung im ERP-Umfeld. An der Schnittstelle zwischen Geschäftsführung, Consulting und externen Partnern und treibst du aktiv die Weiterentwicklung unserer Go-to-Market-Strategie voran.\n            \n\nDeine Aufgaben Dein Fokus : Du verantwortest den kontinuierlichen Auf- und Ausbau von nachhaltigen Neu- und Bestandskunden-Beziehungen im ERP (F&SCM) Umfeld Go-to-Market-Strategie: Du konzipierst neue Vertriebsstrategien zur Erschließung neuer Marktsegmente und Kundengruppen und arbeitest eng mit der Geschäftsführung zur Erreichung der Wachstumsziele zusammen Teamführung: Du leitest, coachst und entwickelst unser Sales-Team (4 Personen) operativ und strategisch weiter Hands-on Mentalität: Gemeinsam mit deinem Team baust du die End-to-End Sales-Pipeline aktiv aus, verantwortest Angebots- und Presales-prozesse und baust Partnerschaften aus (z. B. Microsoft, Partnernetzwerke) Prozessoptimierung & Umsatzverantwortung: Du analysierst und optimierst bestehende Prozesse und baust skalierbare Vertriebsprozesse auf. Dabei überwachst du relevante Sales-KPIs und erstellst regelmäßige Reports für die Geschäftsführung. Zudem steuerst du die Erreichung der Vertriebsziele und verantwortest die Umsatzpipeline. Das bringst Du mit Erfahrung: Mehrjährige, nachweisbare Erfolge im Vertrieb im ERP-Umfeld (idealerweise mit Fokus auf Microsoft Dynamics F&SCM / D365 F&O / Dynamics AX oder Business Central) Strategisches Denken: Ein ausgeprägtes Verständnis für KPIs, Vertriebsprozesse und zielgerichtetes Pipeline-Management Umsetzungsstärke: Hands-on-Mentalität verbunden mit einem guten Gefühl für pragmatische Lösungen Kommunikationsstärke: Verhandlungsgeschick, Kundenorientierung und ein souveränes Auftreten auf C-Level Leadership-Skills: Erste Erfahrung in der (fachlichen) Führung, dem Aufbau oder der Motivation von Vertriebsteams Sprachen: Verhandlungssichere Deutschkenntnisse (C1/C2) und gute Englischkenntnisse Warum wir? Werde aktiver Teil einer Erfolgsgeschichte: Einer wachsenden Boutique-Beratung mit flachen Hierarchien und Gestaltungsmöglichkeiten Impact: Schlüsselrolle mit direktem Einfluss auf die Unternehmensstrategie Mobilität: Firmenfahrzeug auch zur privaten Nutzung Wir verbinden das Beste aus zwei Welten: Flexibles Homeoffice (30-40% virtuelles Arbeiten möglich) und persönlicher Austausch beim Kunden (deutschlandweit) und im b4dynamics Büro in Hüfingen Gesundheit: Fahrrad-Leasing und Hansefit Zusatzleistungen: Vermögenswirksame Leistungen, betriebliche Altersvorsorge und Kita-Zuschuss Corporate Benefits: Exklusive Rabattaktionen und Firmenspecials",
+      "locations": [
+        "Hüfingen",
+        "Hybrid",
+        "Dortmund"
+      ],
+      "employment_type": "permanent, full-time",
+      "remote": "",
+      "employer": "b4dynamics GmbH",
+      "date_posted": null,
+      "valid_through": null,
+      "reference": "2772411",
+      "extraction": "personio_feed",
+      "source_url": "https://collana.jobs.personio.de/xml",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:14:30.007951+00:00",
+      "id": "6a4139189a5ac4134de6",
+      "company_key": "MAC IT-Solutions"
+    },
+    {
+      "title": "ERP Projektleiter (m/w/d) Microsoft Dynamics 365 FSCM / FO",
+      "url": "https://collana.jobs.personio.de/job/2713430",
+      "description": "Deine Mission\n\n                Du möchtest Kunden bei der digitalen Transformation ihrer zentralen Geschäftsprozess begleiten? Dich motiviert es Verantwortung zu übernehmen und aktiv Verbesserungen voranzutreiben? Bei uns übernimmst du die fachliche Leitung von Projekten im Bereich Microsoft Dynamics 365 Finance & Supply Chain Management (F&SCM). Gemeinsam mit deinem Team führst du anspruchsvolle ERP-Projekte für unsere Kunden in der Fertigungsindustrie End-to-End zum Erfolg. Wir bieten dir einen Mix aus Homeoffice und persönlichem Austausch im Büro und beim Kunden - deinen Wohnort kannst du daher deutschlandweit wählen. Deine Aufgaben Dein Fokus: Leitung und Verantwortung für die Umsetzung komplexer ERP-Projekte mit D 365 F&SCM, von der Planung über die Implementierung bis zum Go-Live, Hypercare und Post-Project-Services Erfassung von Kundenanforderunge n und Umsetzung von lösungsorientierte Projektstrategien Du gewährleistest Qualität und Effizienz unter Berücksichtigung der Kundenanforderungen und interner Standards Festlegung und Monitoring von KPIs zur kontinuierlichen Verbesserung der Effizienz, Qualität und Produktivität während des gesamten Projektablaufs Du übernimmst die f achliche Führung und Koordination eines interdisziplinären Teams und förderst die enge Zusammenarbeit und Kommunikation auf interner und externer Ebene Unterstützung von Presales Veranstaltungen Das bringst Du mit Abg eschlossenes Studium der Wirtschaftsinformatik, BWL oder eine vergleichbare Ausbildung Du hast als Projektleiter ERP-Projekte erfolgreich begleitet Du überzeugst durch f undierte Kenntnisse in Microsoft Dynamics 365 F&SCM ( D365 F&O, Dynamics AX) Idealerweise verbindest Du fachliche Erfahrung (als FSCM Berater oder Solution Architect) mit mehrjähriger Erfahrung im Projektmanagement im FSCM Bereich Sicherer Umgang mit PM - Tools ( z.B. JIRA, MS Projekt, De v Ops) Idealerweise verfügst du über Erfahrung in der Fertigung oder im validierten Umfeld (Pharma, Medizintechnik) Du verbindest tiefe Fachkenntnis, Kundenorientierung und Problemlösungskompetenzen Du suchst stets nach pragmatischen Wegen, um Prozesse zu digitalisieren, zu automatisieren und zu standardisieren Reisebereitschaft sowie v erhandlungssichere Deutsch- und Englischkenntnisse runden dein Profil ab Warum wir? Werde aktiver Teil einer Erfolgsgeschichte : Einer schnell wachsenden Boutique -B eratun g mit flachen Hierarchien und Gestaltungsmöglichkeiten Mobilität : Firmenfahrzeug auch zur privaten Nutzung Wir verbinden das Beste aus zwei Welten : Flexibles Homeoffice (ca. 50%) und persönlicher Austausch beim Kunden und in den Büros der b4dynamics in Hüfingen oder Dortmund. Fitness & Freizeit : Fahrrad-Leasing und Hansefit Zusatzleistungen : Vermögenswirksame Leistungen, betriebliche Altersvorsorge und Kita-Zuschuss Entwicklung : collana learning hub – interne und externe Weiterbildungen u.a. Sprachkurse Teamspirit : Regelmäßige Mitarbeiterevents und Teamaktivitäten Corporate Benefits : Exklusive Rabattaktionen und Firmenspecials",
+      "locations": [
+        "Hüfingen",
+        "Remote",
+        "Dortmund"
+      ],
+      "employment_type": "permanent, full-time",
+      "remote": "",
+      "employer": "b4dynamics GmbH",
+      "date_posted": null,
+      "valid_through": null,
+      "reference": "2713430",
+      "extraction": "personio_feed",
+      "source_url": "https://collana.jobs.personio.de/xml",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:14:30.007951+00:00",
+      "id": "44888d6b070cf99086d8",
+      "company_key": "MAC IT-Solutions"
+    },
+    {
+      "title": "ERP SCM Consultant (m/w/d) Microsoft Dynamics 365",
+      "url": "https://collana.jobs.personio.de/job/2659873",
+      "description": "Deine Mission\n\n                Du bist erfahren in Microsoft Dynamics 365 Supply Chain Management und möchtest Unternehmen bei der Optimierung ihrer Wertschöpfungs- und Logistikprozesse begleiten? Wir suchen einen Consultant (m/w/d) Dynamics 365 SCM mit Fokus auf Einkauf, Verkauf, Lager oder Logistik. Deine Aufgaben Beratung und Implementierung von Microsoft Dynamics 365 F&SCM-Lösungen. Analyse und Optimierung von Supply-Chain- und Geschäftsprozessen. Entwicklung nachhaltiger Lösungskonzepte und Einführungsstrategien. Schulung und Betreuung von Key Usern. Enge Zusammenarbeit mit Entwicklungsteams und Kunden. Das bringst Du mit +5 Jahre Erfahrung als Berater im ERP-Umfeld mit Fokus auf MS Dynamics 365 F&SCM, Dynamics 365 F&O, Dynamics AX oder vergleichbaren ERP Systemen Besonders spannend: Auch erfahrene Key User aus Dynamics-365- oder AX-Projekten, die den nächsten Schritt in Richtung Consulting gehen möchten, sind willkommen. Expertise in Lager, Logistik, Einkauf, Verkauf Idealerweise Erfahrungen in der Prozessfertigung (Pharma, Chemie & Life Sciences) oder der diskreten Fertigung (Textil, Maschinenbau, Medizintechnik & Anlagenbau) Sehr gute Deutsch- und Englischkenntnisse Beratungsstärke und Freude an Kundenprojekten Warum wir? Boutique Beratung mit flachen Hierarchien, kurzen Entscheidungswegen und Gestaltungsfreiräumen. Netzwerk von sehr erfahrenen KollegInnen, die in thematisch anspruchsvollen Projekten einen Mehrwert setzen. Wir verbinden das Beste aus zwei Welten: Flexibles Homeoffice und persönlicher Austausch im Büro oder beim Kunden. Fitness & Freizeit: Fahrrad-Leasing und Hansefit Zusatzleistungen: Vermögenswirksame Leistungen, betriebliche Altersvorsorge und Kita-Zuschuss Mobilität: Firmenfahrzeug auch zur privaten Nutzung Entwicklung: c ollana learning hub – interne und externe Weiterbildungen u.a. Sprachkurse Teamspirit: Regelmäßige Mitarbeiterevents und Teamaktivitäten Corporate Benefits: Exklusive Rabattaktionen und Firmenspecials",
+      "locations": [
+        "Hüfingen",
+        "Remote",
+        "Dortmund"
+      ],
+      "employment_type": "permanent, full-time",
+      "remote": "",
+      "employer": "b4dynamics GmbH",
+      "date_posted": null,
+      "valid_through": null,
+      "reference": "2659873",
+      "extraction": "personio_feed",
+      "source_url": "https://collana.jobs.personio.de/xml",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:14:30.007951+00:00",
+      "id": "663aedea344c27c21553",
+      "company_key": "MAC IT-Solutions"
+    },
+    {
+      "title": "Finance Consultant Microsoft Dynamics 365 F&O (m/w/d)",
+      "url": "https://collana.jobs.personio.de/job/2879131",
+      "description": "Deine Mission Enterprise Systems Transformation. Simplified and empowered . Das ist unser Anspruch, und du machst ihn bei unseren Kunden greifbar. Bei der b4dynamics begleitest du Fertigungsunternehmen durch die gesamte ERP-Reise: von der Klärung der Ziele und Prozesse über die Einführung von Microsoft Dynamics 365 Finance & Supply Chain Management (F&SCM) bis zum stabilen Betrieb und dem Einsatz von KI im Tagesgeschäft. Als Finance Consultant sorgst du dafür, dass die Finanzprozesse unserer Kunden effizient, transparent und zukunftssicher werden. Dabei bewegst du dich in zwei Welten: der diskreten Fertigung (Maschinen- und Anlagenbau, Textil und Medizintechnik) sowie der Prozessfertigung (Pharma, Chemie und Life Sciences).\n            \n\nDeine Aufgaben Du berätst Kunden bei der Einführung intelligenter ERP-Lösungen auf Basis von Microsoft Dynamics 365 F&O / F&SCM Im Bereich Finance und Controlling analysierst du Anforderungen und Prozesse, erkennst Optimierungspotenziale und erarbeitest Lösungskonzepte, Detailspezifikationen und Einführungsstrategien Anwenderschulungen führst du eigenständig durch und bist fachliche Ansprechperson für die Key-User Bei Programmanpassungen arbeitest du eng mit unserer Entwicklung zusammen Gemeinsam mit dem Vertrieb schaffst du in der Pre-Sales-Phase echten Mehrwert für unsere Kunden Das bringst Du mit Du bringst mindestens 3 Jahre Beratungserfahrung im ERP-Umfeld mit Fokus auf Microsoft Dynamics 365 F&O / F&SCM oder Dynamics AX mit Fundiertes Know-how in Finanzbuchhaltung und Controlling bildet deine fachliche Basis Erfahrung in der Prozessfertigung ( Pharma , Chemie, Life Sciences) oder der diskreten Fertigung (Maschinen- und Anlagenbau, Textil, Medizintechnik) ist ein Plus, ebenso Kenntnisse im validierten Umfeld Du hast erste Erfahrung als Teilprojektleiter sammeln können und übernimmst proaktiv Verantwortung Deutsch und Englisch sprichst du sicher, jeweils mindestens auf C1-Niveau Bei uns gilt: Einer für alle, alle für einen. Du arbeitest pragmatisch, packst gern mit an und hast den Mut, neue Wege zu gehen. Persönlicher Austausch ist uns wichtig. Deshalb bist du gern bei Kunden vor Ort und regelmäßig in unserem Office in Hüfingen im Schwarzwald. Deinen Wohnort kannst du deutschlandweit wählen. Warum wir? Empowering people: Wir geben dir Raum, Vertrauen und die Werkzeuge, um zu wachsen Flache Hierarchien: ein wachsendes mittelständisches Unternehmen mit kurzen Entscheidungswegen und Raum für deine Ideen Work-Life-Balance: flexible Arbeitszeiten und Möglichkeit zum virtuellen Arbeiten Mobilität: Firmenwagen , auch zur privaten Nutzung Fitness & Freizeit : Fahrrad -Leasing und Hansefit Zusatzleistungen: vermögenswirksame Leistungen , betriebliche Altersvorsorge und Kita- Zuschuss Entwicklung : collana learning hub mit internen und externen Weiterbildungen, unter anderem Sprachkursen und KI-Trainings Teamspirit : regelmäßige Mitarbeiterevents und Teamaktivitäten Corporate Benefits : exklusive Rabatte und Firmenangebote Klingt nach dir? Dann freuen wir uns auf deine Online-Bewerbung mit Gehaltsvorstellung und frühestmöglichem Eintrittstermin. Du erfüllst nicht jede Anforderung? Bewirb dich trotzdem, denn Motivation und Lernbereitschaft zählen für uns genauso. Bei Fragen kannst du dich gerne bei deiner Recruiterin Julia ( julia.gerdes@collana.com) melden. Enterprise Systems Transformation. Simplified and empowered . #MutigHandeln #VerantwortungÜbernehmen",
+      "locations": [
+        "Hüfingen",
+        "Hybrid"
+      ],
+      "employment_type": "permanent, full-time",
+      "remote": "",
+      "employer": "b4dynamics GmbH",
+      "date_posted": null,
+      "valid_through": null,
+      "reference": "2879131",
+      "extraction": "personio_feed",
+      "source_url": "https://collana.jobs.personio.de/xml",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:14:30.007951+00:00",
+      "id": "f76e9c91a4739f5efd68",
+      "company_key": "MAC IT-Solutions"
+    },
+    {
+      "title": "Professional Consultant Healthcare (w/m/d) 60-100%",
+      "url": "https://collana.jobs.personio.de/job/2716986",
+      "description": "Deine Mission\n\n                Du suchst nach einer Rolle mit Impact im Gesundheitswesen? Bringe deine Expertise dort ein, wo sie wirklich gebraucht wird. Werde Teil der collana health und begleite Spitäler, Kliniken und Gesundheitsinstitutionen in allen Phasen der Digitalisierung – von strategischer Beratung über Prozessoptimierung bis zur Implementierung und zum Betrieb von IT-Lösungen. Unsere gemeinsame Mission: Komplexe Herausforderungen im Gesundheitswesen durch smarte, integrierte und nachhaltige digitale Lösungen zu entschärfen. Wir streben danach, Effizienz zu steigern, Prozesse zu harmonisieren und die Qualität der Versorgungsleistung zu verbessern, unter Einhaltung höchster Standards in Datenschutz und Interoperabilität.\n            \n\nDeine Aufgaben\n\n                Als Professional Consultant Healthcare bist du eine Schlüsselperson in unserem Beratungsteam und agierst in folgenden Verantwortungsbereichen: Teilprojektleitung in Digitalisierungs- und IT-Transformationsprojekten im Gesundheitswesen Operative Beratung von Kunden (Spitäler, Kliniken, Pflegeinstitutionen etc.) entlang der gesamten Wertschöpfungskette Anforderungsanalyse, Prozessdesign und Konzeption von IT-Lösungen (ERP, Schnittstellen, Systemintegration) Begleitung und Steuerung der Einführung von Standardsoftware, insbesondere im ERP-Umfeld (z. B. Dynamics 365 Business Central) Sicherstellung der technischen und fachlichen Qualität, inkl. Testmanagement, Change- und Betriebsüberführung Schnittstellenfunktion zwischen Fachseite, IT/Architektur, Entwicklung und Betrieb Kontinuierliche Weiterentwicklung unseres Beratungsportfolios und Mitwirkung an internen Innovationen Das bringst Du mit\n\n                Fachliche Qualifikationen: Abgeschlossenes Studium oder Weiterbildung auf Stufe höhere Fachschule oder Hochschule in Betriebswirtschaft, Wirtschaftsinformatik, Medizininformatik, Gesundheitsmanagement oder einer vergleichbaren Fachrichtung Mehrjährige Berufserfahrung im Gesundheitswesen, idealerweise in der Projektleitung, Teilprojektleitung oder Beratung mit Fokus auf Organisations-, IT- oder Digitalisierungsprojekte Fundiertes Verständnis der Prozesse und Abläufe in Gesundheitsinstitutionen, insbesondere in den administrativen und betriebswirtschaftlichen Bereichen Erfahrung in der Analyse, Optimierung und Digitalisierung von Geschäftsprozessen sowie in der Konzeption und Einführung von ERP-Systemen oder modularen IT-Lösungen Ausgeprägte analytische und konzeptionelle Fähigkeiten sowie die Fähigkeit, komplexe Anforderungen in praktikable Lösungen zu überführen Methodische und persönliche Kompetenzen Ausgeprägte analytische und konzeptionelle Fähigkeiten sowie die Fähigkeit, komplexe Fragestellungen rasch zu erfassen und pragmatische Lösungen zu entwickeln Strukturierte, selbstständige und ergebnisorientierte Arbeitsweise mit hohem Qualitätsanspruch Ausgeprägte Kunden- und Dienstleistungsorientierung sowie ein sicheres und professionelles Auftreten gegenüber unterschiedlichen Anspruchsgruppen Starke Kommunikations- und Präsentationsfähigkeiten sowie die Fähigkeit, Fach- und IT-Themen adressatengerecht zu vermitteln Hohe Eigenverantwortung, Zuverlässigkeit und Integrität im Umgang mit Kunden und Projekten Freude an der Zusammenarbeit in interdisziplinären Teams sowie an der Mitgestaltung von Veränderungs- und Innovationsprozessen Sehr gute Deutschkenntnisse in Wort und Schrift sowie gute Englischkenntnisse Reisebereitschaft (Einsätze schweizweit) Warum wir? Viel Gestaltungsfreiheit und Eigenverantwortung in einem wachsenden Beratungsunternehmen mit unternehmerischem Spirit Anspruchsvolle Projekte an der Schnittstelle von Gesundheitswesen, Digitalisierung und Organisationsentwicklung Direkte Zusammenarbeit mit Entscheidungsträgern sowie die Möglichkeit, die Zukunft unserer Kunden aktiv mitzugestalten Kurze Entscheidungswege, flache Hierarchien und ein kollegiales Team mit hoher Fachkompetenz Individuelle Weiterbildungs- und Entwicklungsmöglichkeiten sowie Zugang zu einem breiten Expertennetzwerk innerhalb des collana Netzwerks Ein modernes Arbeitsumfeld mit flexiblen Arbeitszeitmodellen und der Möglichkeit, hybrid zu arbeiten Attraktive Anstellungsbedingungen und die Flexibilität, Beruf, Familie und Freizeit miteinander zu verbinden Raum für eigene Ideen, Mitgestaltung und persönliche Weiterentwicklung Rahmenbedingungen Arbeitspensum: 80-100% Standort: Büro in Bern und Winterthur , Einsätze schweizweit Eintrittstermin: nach Vereinbarung Wenn dich die Aufgabe reizt, mit uns die Zukunft des Gesundheitswesens mit digitalen Lösungen mitzugestalten, freuen wir uns über deine vollständigen Unterlagen (Motivationsschreiben, Lebenslauf, Zeugnisse). Bei Fragen melde dich gerne bei deiner Recruiterin Julia (julia.gerdes@collana.com).",
+      "locations": [
+        "Winterthur"
+      ],
+      "employment_type": "permanent, full-time",
+      "remote": "",
+      "employer": "collana health AG",
+      "date_posted": null,
+      "valid_through": null,
+      "reference": "2716986",
+      "extraction": "personio_feed",
+      "source_url": "https://collana.jobs.personio.de/xml",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:14:30.007951+00:00",
+      "id": "9c62d79e66ee0d654e3e",
+      "company_key": "MAC IT-Solutions"
+    },
+    {
+      "title": "Projektleiter (m/w/d) Finanzbuchhaltung BC",
+      "url": "https://collana.jobs.personio.de/job/2782333",
+      "description": "Deine Mission\n\n                Zahlen sind deine Leidenschaft und Du möchtest aktiv an der Weiterentwicklung moderner Accounting-Prozesse mitwirken? Du hast Spaß an einer Schnittstellenfunktion zwischen Finanzbuchhaltung, IT und dem Fachbereich bei unseren Kunden? Dich motiviert es Verantwortung zu übernehmen und aktiv Verbesserungen in relevante Branchen voranzutreiben? Werde Teil der DATA DYNAMIC AG als Projektleiter (m/w/d) Finanzbuchhaltung. In dieser Position begleitest du die Einführung und Weiterentwicklung von Softwarelösungen beim Kunden auf Basis von Dynamics 365 Business Central (BC) mit Fokus auf die Finanzbuchhaltung - Eine Rolle mit Impact und Gestaltungsspielraum.\n            \n\nDeine Aufgaben Beratung bei der Einführung von Business-Lösungen auf Basis von D365 BC bei Kunden aus den Branchen Gesundheitswesen, NPOs, soziale Institutionen und Handel Fachliche Begleitung und Beratung bei der Einführung und Weiterentwicklung von Systemen und Prozessen Optimierung von Accounting-Prozessen und Umsetzung praxisnaher Beratungslösungen Vorbereitung und Durchführung von Schulungen und Trainings Aktive Mitarbeit an zukunftsweisenden Projekten Das bringst Du mit Eidgenössischer Fachausweis im Finanz- und Rechnungswesen, abgeschlossenes Studium mit Schwerpunkt Finance/Controlling oder vergleichbare Ausbildung Mehrjährige Berufserfahrung in der Finanzbuchhaltung und Kostenrechnung Fundierte Erfahrung im Umgang mit einem gängigen ERP-System (z.B. Microsoft Dynamics 365 Business Central) Idealerweise hast Du bereits D365 BC Einführungen aktiv begleitet (z.B. als Key-User oder externer Berater). Spaß an einer vertrauensvollen Zusammenarbeit mit Kunden und im Team Fließende Deutsch- und gute Englischkenntnisse Warum wir? Ein kollegiales, wertschätzendes Umfeld mit kurzen Entscheidungswegen und viel Gestaltungsspielraum Ein vielseitiges Aufgabengebiet an der Schnittstelle zwischen den diversen Branchen unserer Kunden und IT Moderne Arbeitsbedingungen, flexible Arbeitszeiten und die Möglichkeit zu Homeoffice im Rahmen der Funktion Attraktive Anstellungsbedingungen und sehr guten Sozialleistungen",
+      "locations": [
+        "Bern"
+      ],
+      "employment_type": "permanent, full-or-part-time",
+      "remote": "",
+      "employer": "Data Dynamic AG",
+      "date_posted": null,
+      "valid_through": null,
+      "reference": "2782333",
+      "extraction": "personio_feed",
+      "source_url": "https://collana.jobs.personio.de/xml",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:14:30.007951+00:00",
+      "id": "95daa4cf5e2d193703c0",
+      "company_key": "MAC IT-Solutions"
+    },
+    {
+      "title": "Projektleiter (m/w/d) Patientenadministration 80-100%",
+      "url": "https://collana.jobs.personio.de/job/2685208",
+      "description": "Deine Mission\n\n                Du bist auf der Suche nach einer Rolle mit Impact im Gesundheitswesen? Du hast Spaß an einer Schnittstellenfunktion zwischen Fachbereich und IT? Dich motiviert es Verantwortung zu übernehmen und aktiv Verbesserungen voranzutreiben? Werde Teil der DATA DYNAMIC AG als Projektleiter (m/w/d) Patientenadministration. In dieser Position berätst du unsere Kunden im Spital-/Klinikumfeld bei der Einführung und Weiterentwicklung von Patientenadministrationslösung auf Basis von Dynamics 365 Business Central.\n            \n\nDeine Aufgaben Einführung unserer Patientenadministrationslösung bei Neukunden – von der Anforderungsanalyse bis zum Go-Live. Betreuung, Weiterentwicklung und Teilprojektleitung bei bestehenden Kundenprojekten im Bereich Patientenadministration. Leitung von Upgrades auf neue Dynamics NAV / 365 Business Central Versionen (inkl. SwissDRG , TARDOC). Mitarbeit im Produktmanagement: Einbringen und Spezifizieren von Kundenanforderungen. Konzeption, Testing und Dokumentation individueller Lösungen sowie Durchführung von Schulungen und Präsentationen. 2nd Level Support bei komplexen Fragestellungen der Patientenadministration und Tarifierung. Das bringst Du mit Abgeschlossene Ausbildung im Gesundheits- oder kaufmännischen Bereich mit Weiterbildung im Spital-/Klinikumfeld. Mehrjährige Erfahrung in Patientenadministration oder medizinischem Controlling, idealerweise mit Tarifierungswissen. Erfahrung in (Teil-)Projektleitung, idealerweise im ERP-/Applikationsumfeld (Dynamics NAV / D 365 Business Central). IT-affin, analytisch, selbstständig und serviceorientiert mit Freude an Prozessgestaltung im Gesundheitswesen. Kommunikationsstarke Persönlichkeit mit sehr guten Deutschkenntnissen; weitere Landessprachen von Vorteil. Warum wir? Ein vielseitiges Aufgabengebiet an der Schnittstelle zwischen Gesundheitswesen und IT. Moderne Arbeitsbedingungen, flexible Arbeitszeiten und die Möglichkeit zu Homeoffice im Rahmen der Funktion. Ein kollegiales, wertschätzendes Umfeld mit kurzen Entscheidungswegen und viel Gestaltungsspielraum. Attraktive Anstellungsbedingungen und zeitgemä ss e Sozialleistungen.",
+      "locations": [
+        "Bern"
+      ],
+      "employment_type": "permanent, full-or-part-time",
+      "remote": "",
+      "employer": "Data Dynamic AG",
+      "date_posted": null,
+      "valid_through": null,
+      "reference": "2685208",
+      "extraction": "personio_feed",
+      "source_url": "https://collana.jobs.personio.de/xml",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:14:30.007951+00:00",
+      "id": "4d4236f9fd92c1596804",
+      "company_key": "MAC IT-Solutions"
+    },
+    {
+      "title": "Senior Consultant Healthcare (w/m/d) 80-100%",
+      "url": "https://collana.jobs.personio.de/job/2803159",
+      "description": "Deine Mission\n\n                Die collana health AG fungiert als digitales Kompetenzzentrum für das schweizerische Gesundheitswesen. Wir begleiten Spitäler, Kliniken und Gesundheitsinstitutionen in allen Phasen der Digitalisierung – von strategischer Beratung über Prozessoptimierung bis zur Implementierung und zum Betrieb von IT-Lösungen. Als Teil der collana Gruppe verbinden wir Branchenexpertise im Gesundheitswesen mit technologischem Know-how. Unsere Mission: Komplexe Herausforderungen im Gesundheitswesen durch smarte, integrierte und nachhaltige digitale Lösungen zu entschärfen. Wir streben danach, Effizienz zu steigern, Prozesse zu harmonisieren und die Qualität der Versorgungsleistung zu verbessern, unter Einhaltung höchster Standards in Datenschutz und Interoperabilität.\n            \n\nDeine Aufgaben\n\n                Als Senior Consultant Health bist du eine Schlüsselperson in unserem Beratungsteam und agierst in folgenden Verantwortungsbereichen: Projektleitung und Teilprojektleitung in Digitalisierungs- und IT-Transformationsprojekten im Gesundheitswesen Strategische und operative Beratung von Kunden (Spitäler, Kliniken, Pflegeinstitutionen etc.) entlang der gesamten Wertschöpfungskette Anforderungsanalyse, Prozessdesign und Konzeption von IT-Lösungen (ERP, Schnittstellen, Systemintegration) Begleitung und Steuerung der Einführung von Standardsoftware, insbesondere im ERP-Umfeld (z. B. Dynamics 365 Business Central) Sicherstellung der technischen und fachlichen Qualität, inkl. Testmanagement, Change- und Betriebsüberführung Verantwortung für Pre-Sales, Angebotsentwicklung und Beteiligung an Akquisitionsaktivitäten Schnittstellenfunktion zwischen Fachseite, IT/Architektur, Entwicklung und Betrieb Kontinuierliche Weiterentwicklung unseres Beratungsportfolios und Mitwirkung an internen Innovationen Oder Führung von komplexen Transformationsprogrammen (klassisch oder agil) im Gesundheitswesen Strategieberatung für Kunden – Entwicklung von Digitalisierungsstrategien mit Fokus auf Governance, Interoperabilität, Datenschutz und Effizienz Analyse von Prozessen entlang der Patient Journey, Tarifsystemen, Abrechnungssystemen, Supply Chain im Gesundheitsbereich Konzeption von modularen IT-Lösungen, E-Health-Szenarien, Systemintegrationen und Datenarchitekturen Verantwortung für Pre-Sales, Angebotsentwicklung, Kundenworkshops und Stakeholder-Management Steuerung der Umsetzung: Teil- oder Gesamtprojektleitung, Qualitätssicherung, Änderungsmanagement, Testbegleitung Übergabe in Betrieb / Managed Services, Sicherstellung eines nachhaltigen Handovers Mitwirkung in der Weiterentwicklung des Leistungsportfolios, Einführung neuer Services / Lösungen Das bringst Du mit Hochschulabschluss (z. B. Informatik, Betriebswirtschaft, Wirtschaftsinformatik, Medizininformatik, Gesundheitsmanagement oder vergleichbar) Mehrjährige Berufserfahrung in der Beratung oder Umsetzung von IT- bzw. Digitalisierungsprojekten, idealerweise im Gesundheitswesen Erfahrung in Prozessanalyse, Konzeption und Einführung von ERP-Systemen bzw. modularen IT-Lösungen Vertrautheit mit Schnittstellen, IT-Architekturen und Integrationskonzepten Idealerweise Kenntnisse von Standards und Technologien im Gesundheitswesen (z. B. HL7, FHIR, IHE) Erfahrung in Pre-Sales, Angebotserstellung oder Akquise wünschenswert Ausgeprägtes analytisches Denkvermögen, pragmatische und strukturierte Arbeitsweise Hohe Kundenorientierung und überzeugende Kommunikationsfähigkeiten Selbstständige und vertrauenswürdige Arbeitsweise mit Verantwortungsübernahme Freude an interdisziplinärer Teamarbeit und Innovationsprojekten Sehr gute Deutsch- und gute Englischkenntnisse (Italienisch und Französisch von Vorteil) Warum wir? Verantwortung und Gestaltungsspielraum in einem dynamischen, wachsenden Unternehmen Ein professionelles Umfeld mit spannenden Projekten im Schweizer Gesundheitswesen Flache Hierarchien, kurze Entscheidungswege und direkte Einbindung in strategische Themen Weiterbildungsmöglichkeiten, Zugang zu Innovationen und Austausch im collana IT Netzwerk Attraktive Anstellungsbedingungen, Teilzeitmodelle möglich Moderne Arbeitsumgebung mit der Option auf hybrides Arbeiten Rahmenbedingungen: Arbeitspensum: 80-100% Standort: Büro in Bern und Winterthur, Einsätze schweizweit Eintrittstermin: nach Vereinbarung Wenn dich die Aufgabe reizt, mit uns die Zukunft des Gesundheitswesens mit digitalen Lösungen mitzugestalten, freuen wir uns über deine vollständigen Unterlagen (Motivationsschreiben, Lebenslauf, Zeugnisse).Für Fragen steht dir deine Recruiterin Julia julia.gerdes @collana.com gerne zur Verfügung.",
+      "locations": [
+        "Bern",
+        "Winterthur"
+      ],
+      "employment_type": "permanent, full-or-part-time",
+      "remote": "",
+      "employer": "collana health AG",
+      "date_posted": null,
+      "valid_through": null,
+      "reference": "2803159",
+      "extraction": "personio_feed",
+      "source_url": "https://collana.jobs.personio.de/xml",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:14:30.007951+00:00",
+      "id": "c52df093b94882561486",
+      "company_key": "MAC IT-Solutions"
+    },
+    {
+      "title": "Senior Softwareentwickler (m/w/d) mit FiBu-Knowhow",
+      "url": "https://collana.jobs.personio.de/job/2594698",
+      "description": "Deine Mission Du hast eine Leidenschaft für gut strukturierte Softwareentwicklung in Kombination mit Finanzbuchhaltung? Du kommunizierst professionell mit Kunden und die Arbeit im Team macht dir Spaß? Dann sollten wir uns unterhalten. Wir suchen ab sofort neue Kolleg:innen für unsere Teams in der Softwareentwicklung an unserem Standort Flensburg. Als Softwareentwickler:in treibst Du die Weiterentwicklung unserer erfolgreichen ERP-Lösung DiVA stetig voran; vor allem das Modul zur Finanzbuchhaltung. Außerdem betreust Du unsere Bestandskunden und unterstützt bei Neueinführungen. Unser Team freut sich über Deine Bewerbung! Unsere Teams arbeiten remote. Wenn es für eine Phase der Zusammenarbeit sinnvoll ist, kommen die Teammitglieder in den Räumen der MAC zusammen. Dabei entscheidet jedes Team eigenständig, wie oft und in welchem Umfang solche Team-Tage Sinn ergeben. Du solltest daher generell die Möglichkeit haben, in unser Büro in Flensburg zu kommen. Deine Aufgaben Im Team bist Du für die Weiterentwicklung, Pflege und Dokumentation unserer ERP-Anwendung für Online- und Multichannel-Händler verantwortlich. Insbesondere für die Entwicklung von Anwendungen & Modulen mit AL & C#. Dabei legst Du deinen Fokus vor allem auf das Modul für die Finanzbuchhaltung. Du programmierst und optimierst Anwendungslösungen in unseren ERP-, CRM- und Kassenlösungen inklusive aller Schnittstellen zu Fremdsystemen. Du stehst im stetigen Kontakt mit unseren Kunden, stimmst individuelle Changes mit ihnen ab und setzt diese im Team um. Du nimmst neue fachliche Anforderungen professionell auf und sorgst für eine detaillierte Analyse & Konzeption. Das bringst Du mit Du verfügst über ein abgeschlossenes Studium (Informatik, Wirtschaftsinformatik, Technische Informatik bzw. ähnliche Fachrichtungen) oder eine vergleichbare IT-Ausbildung. Du bringst mehrjährige Erfahrungen in den Bereichen von Java, C# und .NET-Technologien oder anderen C-basierten Sprachen mit. Außerdem besitzt Du fundiertes Knowhow im Bereich der Finanzbuchhaltung, bspw. durch Arbeits-Erfahrungen in einer Steuerberatung. Pluspunkte sammelst Du mit Erfahrungen in SQL Server Technologien und SharePoint. Du überzeugst durch Deine analytische und konzeptionelle Arbeitsweise. Du bist teamfähig, engagiert, stressresistent und scheust Dich nicht, Verantwortung zu übernehmen. Du hast Interesse an komplexen und anspruchsvollen E-Commerce-Projekten. Erfahrungen im Online- oder Versandhandel und idealerweise auch mit ERP-Systemen sind wünschenswert. Du bringst Reisebereitschaft zu unseren Kunden im DACH-Raum mit. Du kannst nicht alle Punkte mit einem Haken versehen? Macht nichts, bewirb Dich trotzdem! Zusammen finden wir dann eine Lösung. Warum wir? Du gehst in Deinem Job auf, während wir uns um das passende Wohlfühl-Umfeld kümmern, inklusive Verantwortung, Freiräumen und deinem persönlichen Karriereweg. Wir bieten Dir genau die Konditionen, die Du brauchst – und noch ein bisschen mehr: flexible Arbeitszeitmodelle, ergonomisch und technisch bestens ausgestattete Arbeitsplätze und Zugang zu subventionierten KiTa-Plätzen. Bei uns kannst Du Dich in Deiner Mittagspause massieren lassen, von unseren organisierten Sport- und Fitnessangeboten profitieren und Deine Altersvorsorge mit uns sozial und nachhaltig organisieren. Bei uns wird auch frisch und lecker gekocht. Und einen Kuchenmittwoch haben wir auch! Mit uns wächst Du über Dich hinaus und bewegst richtig was! Der Kompass unserer gemeinsamen Arbeit ist die gegenseitige Wertschätzung. Die Gemeinschaft steht bei uns ganz oben und Du im Mittelpunkt. Werde Teil unseres wertschätzenden, agil arbeitenden Teams, realisiere engagiert neuen Ideen und gestalte den E-Commerce von morgen. Bei uns findest Du genau die richtige Rolle für Dich – mit genau den richtigen Perspektiven. Wie wir sind – kurz & knackig: Nordisch bodenständig und dennoch in der deutschen Bundesliga, sehr werteorientiert und dennoch Innovationstreiber, viele engagierte Köpfe und dennoch zu Hause in kleinen agilen Teams. Falls Du es noch nicht gemacht hast: Schau Dir auch auf unserem Karriereportal an, wer wir sind und wie wir arbeiten . Unsere Recruiterin Julia  freut sich auf Deine Bewerbung. Wenn Du Fragen zum Bewerbungsprozess hast, schreib gerne eine Mail an julia.gerdes@collana.com oder schaue auf unser Karriereportal, wie Deine Bewerbung in 5 Schritten abläuft. Wir sind derzeit an mehreren Standorten und auf verschiedenen Positionen nach Verstärkung für unsere Softwareentwicklung. Teile uns in deiner Bewerbung gerne alle Stellen mit, die Dich interessieren. Eine Bewerbung genügt dabei.",
+      "locations": [
+        "Hamburg",
+        "Flensburg"
+      ],
+      "employment_type": "permanent, full-time",
+      "remote": "",
+      "employer": "MAC IT-Solutions GmbH",
+      "date_posted": null,
+      "valid_through": null,
+      "reference": "2594698",
+      "extraction": "personio_feed",
+      "source_url": "https://collana.jobs.personio.de/xml",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:14:30.007951+00:00",
+      "id": "c050e1566a308c405c0b",
+      "company_key": "MAC IT-Solutions"
+    },
+    {
+      "title": "System Engineer (m/w/d)",
+      "url": "https://collana.jobs.personio.de/job/2891858",
+      "description": "Deine Mission\n\n                Die Data Dynamic AG ist schweizweit führender Partner für integrierte Business-Gesamtlösungen auf Basis von Microsoft Dynamics 365 Business Central und Dynamics NAV. Zur Verstärkung unseres Teams suchen wir dich ab sofort als engagierten System Engineer (m/w/d). In dieser Rolle betreust und entwickelst du unsere interne Infrastruktur auf höchstem Niveau weiter und unterstützt unsere Kunden mit deinem technischen Know-how.\n            \n\nDeine Aufgaben\n\n                Interne Infrastruktur: Verwaltung und Optimierung unserer internen IT-Infrastruktur (Windows und Linux Server, Hyper-V, VMware und Kubernetes ) Überwachung der Systemleistung, um eine hohe Verfügbarkeit der Entwicklungsumgebung zu gewährleisten Fehlerbehebung bei auftretenden IT-Störungen Pflege und Verwaltung unserer Veeam-Backup-Lösung Betrieb, Verwaltung und Weiterentwicklung unserer internen Client-Infrastruktur Zusammenarbeit mit externen Dienstleistern zur Weiterentwicklung der IT-Landschaft Erstellung und Pflege technischer Dokumentationen und Anleitungen Kundenbetreuung und Software-Support: Unterstützung des 2nd Level Supports bei komplexen Problemen auf Kundenseite, die unsere auf Business Central/NAV basierende Software einsetzen Installation und Betriebsbetreuung unserer Software bei den Kunden Das bringst Du mit Du verfügst über eine abgeschlossene Ausbildung als Informatiker:in EFZ, Fachrichtung Plattformentwicklung (ehemals Systemtechnik), oder eine vergleichbare Qualifikation. Du überzeugst mit fundierten Kenntnissen in Virtualisierung und Containerisierung. Im Netzwerkmanagement und in der Verwaltung von Clientgeräten hast du bereits Erfahrung gesammelt. Mit der Installation und Betreuung von Softwarelösungen kennst du dich aus, idealerweise auf Basis von Business Central/NAV. Du arbeitest strukturiert und gehst Probleme analytisch und lösungsorientiert an. Teamgeist, Kommunikationsstärke und eine ausgeprägte Dienstleistungsorientierung zeichnen dich aus. Deutsch und Englisch beherrschst du sehr gut in Wort und Schrift. Warum wir? Teamkultur: ein kollegiales, wertschätzendes Umfeld mit kurzen Entscheidungswegen und Raum für deine eigenen Ideen Flexibilität : Gleitzeit bei einer 42-Stunden-Woche und Homeoffice im Rahmen deiner Funktion Weiterbildung & Vorsorge : attraktive Anstellungsbedingungen, überdurchschnittliche Sozialleistungen und die Finanzierung berufsrelevanter Aus- und Weiterbildungen Arbeitsumfeld : ein modernes Büro und aktuelle Hardware Mobilität: gute Anbindung an den öffentlichen Verkehr in Bern und ein kostenloser Parkplatz in der Einstellhalle",
+      "locations": [
+        "Data Dynamic | Bern",
+        "Hybrid"
+      ],
+      "employment_type": "permanent, full-time",
+      "remote": "",
+      "employer": "Data Dynamic AG",
+      "date_posted": null,
+      "valid_through": null,
+      "reference": "2891858",
+      "extraction": "personio_feed",
+      "source_url": "https://collana.jobs.personio.de/xml",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:14:30.007951+00:00",
+      "id": "4d123662e5f072a3bbc8",
+      "company_key": "MAC IT-Solutions"
+    },
+    {
+      "title": "Werkstudierende Financial Controlling & BI (w/m/d)",
+      "url": "https://collana.jobs.personio.de/job/2822814",
+      "description": "Deine Mission Die collana Gruppe wächst, und damit wachsen auch die Anforderungen an unser Finance & Performance Management. Als Werkstudent (m/w/d) unterstützt du unseren Financial Controlling & BI Manager im Tagesgeschäft und bei laufenden Projekten. Dabei erhältst du spannende Einblicke in die finanzielle Steuerung einer Unternehmensgruppe, übernimmst früh Verantwortung für eigene Themen und bringst dein Wissen direkt in die Praxis ein. Deine Aufgaben Du unterstützt bei der Erstellung der monatlichen Reportings, indem du Daten sammelst, prüfst und aufbereitest. Du analysierst Kennzahlen, erstellst aussagekräftige Auswertungen und Dashboards und unterstützt bei der kontinuierlichen Weiterentwicklung unseres Reportings Du hilfst bei der Vorbereitung von Forecasts und Budgets, zum Beispiel durch das Zusammenstellen von Zahlen aus den Gesellschaften. Du übernimmst kleinere Ad-hoc-Analysen und bereitest Ergebnisse übersichtlich in Excel, Power BI oder PowerPoint auf. Du dokumentierst Reporting- und Controllingprozesse und hilfst dabei, wiederkehrende Abläufe zu vereinfachen. Du unterstützt bei laufenden Projekten im Finanzbereich, zum Beispiel bei der Einführung neuer Auswertungen. Das bringst Du mit Du studierst Betriebswirtschaft, Wirtschaftsinformatik, Finance, Wirtschaftsmathematik oder etwas Vergleichbares und bist noch mindestens 12 Monate eingeschrieben. Du hast Spaß an Zahlen und willst verstehen, was hinter ihnen steckt. Du arbeitest sicher mit Excel. Erste Erfahrungen mit Power BI oder anderen BI-Tools sind von Vorteil, Kenntnisse in Lucanet oder anderen ERP-Systemen ein Plus. Du hast idealerweise bereits Erfahrung mit KI-Tools wie Copilot oder Claude. Du arbeitest sorgfältig und strukturiert und fragst nach, wenn etwas nicht schlüssig ist. Du kommunizierst sicher auf Deutsch und Englisch. Du kannst 15 bis 20 Stunden pro Woche arbeiten, in den Semesterferien gern auch mehr. Du wohnst in Hamburg oder kannst in einem hybriden Arbeitsmodell regelmäßig in unserem Büro in Hamburg-Ottensen arbeiten. Warum wir? Wir sind eine dynamisch wachsende Unternehmensgruppe im IT-Bereich mit Fokus auf die DACH-Region. Deine Arbeitszeiten stimmst du flexibel auf dein Studium ab, Prüfungsphasen haben Vorrang. Arbeiten im Homeoffice ist in einem sinnvollen Umfang möglich. Du arbeitest eng mit unserem Financial Controlling & BI Manager zusammen und bekommst dabei Einblicke in die Finanzsteuerung der Gruppe. Du lernst moderne Tools wie Lucanet und Power BI im echten Einsatz kennen. Durch corporate benefits erhältst du exklusive Rabatte bei zahlreichen Onlineshops. Dienstags und donnerstags wird bei uns frisch gekocht, und unser Kühlschrank ist immer bestens gefüllt. Und nicht zuletzt: ein Team, das gemeinsam anpackt und etwas bewegen will.",
+      "locations": [
+        "collana | Hamburg",
+        "Remote"
+      ],
+      "employment_type": "working_student, part-time",
+      "remote": "",
+      "employer": "collana GmbH",
+      "date_posted": null,
+      "valid_through": null,
+      "reference": "2822814",
+      "extraction": "personio_feed",
+      "source_url": "https://collana.jobs.personio.de/xml",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:14:30.007951+00:00",
+      "id": "e029b2080f89b488f797",
+      "company_key": "MAC IT-Solutions"
+    },
+    {
+      "title": "ERP Head of Sales (m/w/d) Dynamics 365",
+      "url": "https://b4dynamics.jobs.personio.com/job/2772411",
+      "description": "Deine Mission Wir sind ein stark wachsendes mittelständiges Beratungsunternehmen im Bereich Microsoft Dynamics 365 Finance & Supply Chain Management (F&SCM) und begleiten Kunden aus der Fertigung bei der digitalen Transformation ihrer zentralen Geschäftsprozesse. Um unsere Marktposition weiter auszubauen und unser Vertriebsteam auf das nächste Level zu heben, suchen wir einen ambitionierten Head of Sales (m/w/d). In dieser Rolle übernimmst du die Gesamtverantwortung für unsere Marktpositionierung, Pipeline-Entwicklung und Umsatzsteigerung im ERP-Umfeld. An der Schnittstelle zwischen Geschäftsführung, Consulting und externen Partnern und treibst du aktiv die Weiterentwicklung unserer Go-to-Market-Strategie voran. Deine Aufgaben Dein Fokus : Du verantwortest den kontinuierlichen Auf- und Ausbau von nachhaltigen Neu- und Bestandskunden-Beziehungen im ERP (F&SCM) Umfeld Go-to-Market-Strategie: Du konzipierst neue Vertriebsstrategien zur Erschließung neuer Marktsegmente und Kundengruppen und arbeitest eng mit der Geschäftsführung zur Erreichung der Wachstumsziele zusammen Teamführung: Du leitest, coachst und entwickelst unser Sales-Team (4 Personen) operativ und strategisch weiter Hands-on Mentalität: Gemeinsam mit deinem Team baust du die End-to-End Sales-Pipeline aktiv aus, verantwortest Angebots- und Presales-prozesse und baust Partnerschaften aus (z. B. Microsoft, Partnernetzwerke) Prozessoptimierung & Umsatzverantwortung: Du analysierst und optimierst bestehende Prozesse und baust skalierbare Vertriebsprozesse auf. Dabei überwachst du relevante Sales-KPIs und erstellst regelmäßige Reports für die Geschäftsführung. Zudem steuerst du die Erreichung der Vertriebsziele und verantwortest die Umsatzpipeline. Das bringst Du mit Erfahrung: Mehrjährige, nachweisbare Erfolge im Vertrieb im ERP-Umfeld (idealerweise mit Fokus auf Microsoft Dynamics F&SCM / D365 F&O / Dynamics AX oder Business Central) Strategisches Denken: Ein ausgeprägtes Verständnis für KPIs, Vertriebsprozesse und zielgerichtetes Pipeline-Management Umsetzungsstärke: Hands-on-Mentalität verbunden mit einem guten Gefühl für pragmatische Lösungen Kommunikationsstärke: Verhandlungsgeschick, Kundenorientierung und ein souveränes Auftreten auf C-Level Leadership-Skills: Erste Erfahrung in der (fachlichen) Führung, dem Aufbau oder der Motivation von Vertriebsteams Sprachen: Verhandlungssichere Deutschkenntnisse (C1/C2) und gute Englischkenntnisse Warum wir? Werde aktiver Teil einer Erfolgsgeschichte: Einer wachsenden Boutique-Beratung mit flachen Hierarchien und Gestaltungsmöglichkeiten Impact: Schlüsselrolle mit direktem Einfluss auf die Unternehmensstrategie Mobilität: Firmenfahrzeug auch zur privaten Nutzung Wir verbinden das Beste aus zwei Welten: Flexibles Homeoffice (30-40% virtuelles Arbeiten möglich) und persönlicher Austausch beim Kunden (deutschlandweit) und im b4dynamics Büro in Hüfingen Gesundheit: Fahrrad-Leasing und Hansefit Zusatzleistungen: Vermögenswirksame Leistungen, betriebliche Altersvorsorge und Kita-Zuschuss Corporate Benefits: Exklusive Rabattaktionen und Firmenspecials",
+      "locations": [
+        "Hüfingen, Baden-Württemberg, DE",
+        "Dortmund"
+      ],
+      "employment_type": "FULL_TIME",
+      "remote": "",
+      "employer": "b4dynamics",
+      "date_posted": "2026-08-28",
+      "valid_through": null,
+      "reference": "b4dynamics",
+      "extraction": "schema_org_jobposting",
+      "source_url": "https://b4dynamics.jobs.personio.com/job/2772411",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:14:31.692926+00:00",
+      "id": "753a730ae5f05d1dde2e",
+      "company_key": "MAC IT-Solutions"
+    },
+    {
+      "title": "ERP Projektleiter (m/w/d) Microsoft Dynamics 365 FSCM / FO",
+      "url": "https://b4dynamics.jobs.personio.com/job/2713430",
+      "description": "Deine Mission Du möchtest Kunden bei der digitalen Transformation ihrer zentralen Geschäftsprozess begleiten? Dich motiviert es Verantwortung zu übernehmen und aktiv Verbesserungen voranzutreiben? Bei uns übernimmst du die fachliche Leitung von Projekten im Bereich Microsoft Dynamics 365 Finance & Supply Chain Management (F&SCM). Gemeinsam mit deinem Team führst du anspruchsvolle ERP-Projekte für unsere Kunden in der Fertigungsindustrie End-to-End zum Erfolg. Wir bieten dir einen Mix aus Homeoffice und persönlichem Austausch im Büro und beim Kunden - deinen Wohnort kannst du daher deutschlandweit wählen. Deine Aufgaben Dein Fokus: Leitung und Verantwortung für die Umsetzung komplexer ERP-Projekte mit D365 F&SCM, von der Planung über die Implementierung bis zum Go-Live, Hypercare und Post-Project-Services Erfassung von Kundenanforderungen und Umsetzung von lösungsorientierte Projektstrategien Du gewährleistest Qualität und Effizienz unter Berücksichtigung der Kundenanforderungen und interner Standards Festlegung und Monitoring von KPIs zur kontinuierlichen Verbesserung der Effizienz, Qualität und Produktivität während des gesamten Projektablaufs Du übernimmst die fachliche Führung und Koordination eines interdisziplinären Teams und förderst die enge Zusammenarbeit und Kommunikation auf interner und externer Ebene Unterstützung von Presales Veranstaltungen Das bringst Du mit Abgeschlossenes Studium der Wirtschaftsinformatik, BWL oder eine vergleichbare Ausbildung Du hast als Projektleiter ERP-Projekte erfolgreich begleitet Du überzeugst durch fundierte Kenntnisse in Microsoft Dynamics 365 F&SCM (D365 F&O, Dynamics AX) Idealerweise verbindest Du fachliche Erfahrung (als FSCM Berater oder Solution Architect) mit mehrjähriger Erfahrung im Projektmanagement im FSCM Bereich Sicherer Umgang mit PM-Tools (z.B. JIRA, MS Projekt, DevOps) Idealerweise verfügst du über Erfahrung in der Fertigung oder im validierten Umfeld (Pharma, Medizintechnik) Du verbindest tiefe Fachkenntnis, Kundenorientierung und Problemlösungskompetenzen Du suchst stets nach pragmatischen Wegen, um Prozesse zu digitalisieren, zu automatisieren und zu standardisieren Reisebereitschaft sowie verhandlungssichere Deutsch- und Englischkenntnisse runden dein Profil ab Warum wir? Werde aktiver Teil einer Erfolgsgeschichte : Einer schnell wachsenden Boutique-Beratung mit flachen Hierarchien und Gestaltungsmöglichkeiten Mobilität : Firmenfahrzeug auch zur privaten Nutzung Wir verbinden das Beste aus zwei Welten : Flexibles Homeoffice (ca. 50%) und persönlicher Austausch beim Kunden und in den Büros der b4dynamics in Hüfingen oder Dortmund. Fitness & Freizeit : Fahrrad-Leasing und Hansefit Zusatzleistungen : Vermögenswirksame Leistungen, betriebliche Altersvorsorge und Kita-Zuschuss Entwicklung : collana learning hub – interne und externe Weiterbildungen u.a. Sprachkurse Teamspirit : Regelmäßige Mitarbeiterevents und Teamaktivitäten Corporate Benefits : Exklusive Rabattaktionen und Firmenspecials",
+      "locations": [
+        "Remote, Bayern, DE",
+        "Hüfingen, Baden-Württemberg, DE",
+        "Dortmund"
+      ],
+      "employment_type": "FULL_TIME",
+      "remote": "",
+      "employer": "b4dynamics",
+      "date_posted": "2026-07-15",
+      "valid_through": null,
+      "reference": "b4dynamics",
+      "extraction": "schema_org_jobposting",
+      "source_url": "https://b4dynamics.jobs.personio.com/job/2713430",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:14:32.206815+00:00",
+      "id": "efdb9b2d0325ba23b31f",
+      "company_key": "MAC IT-Solutions"
+    },
+    {
+      "title": "ERP SCM Consultant (m/w/d) Microsoft Dynamics 365",
+      "url": "https://b4dynamics.jobs.personio.com/job/2659873",
+      "description": "Deine Mission Du bist erfahren in Microsoft Dynamics 365 Supply Chain Management und möchtest Unternehmen bei der Optimierung ihrer Wertschöpfungs- und Logistikprozesse begleiten? Wir suchen einen Consultant (m/w/d) Dynamics 365 SCM mit Fokus auf Einkauf, Verkauf, Lager oder Logistik. Deine Aufgaben Beratung und Implementierung von Microsoft Dynamics 365 F&SCM-Lösungen. Analyse und Optimierung von Supply-Chain- und Geschäftsprozessen. Entwicklung nachhaltiger Lösungskonzepte und Einführungsstrategien. Schulung und Betreuung von Key Usern. Enge Zusammenarbeit mit Entwicklungsteams und Kunden. Das bringst Du mit +5 Jahre Erfahrung als Berater im ERP-Umfeld mit Fokus auf MS Dynamics 365 F&SCM, Dynamics 365 F&O, Dynamics AX oder vergleichbaren ERP Systemen Besonders spannend: Auch erfahrene Key User aus Dynamics-365- oder AX-Projekten, die den nächsten Schritt in Richtung Consulting gehen möchten, sind willkommen. Expertise in Lager, Logistik, Einkauf, Verkauf Idealerweise Erfahrungen in der Prozessfertigung (Pharma, Chemie & Life Sciences) oder der diskreten Fertigung (Textil, Maschinenbau, Medizintechnik & Anlagenbau) Sehr gute Deutsch- und Englischkenntnisse Beratungsstärke und Freude an Kundenprojekten Warum wir? Boutique Beratung mit flachen Hierarchien, kurzen Entscheidungswegen und Gestaltungsfreiräumen. Netzwerk von sehr erfahrenen KollegInnen, die in thematisch anspruchsvollen Projekten einen Mehrwert setzen. Wir verbinden das Beste aus zwei Welten: Flexibles Homeoffice und persönlicher Austausch im Büro oder beim Kunden. Fitness & Freizeit: Fahrrad-Leasing und Hansefit Zusatzleistungen: Vermögenswirksame Leistungen, betriebliche Altersvorsorge und Kita-Zuschuss Mobilität: Firmenfahrzeug auch zur privaten Nutzung Entwicklung: collana learning hub – interne und externe Weiterbildungen u.a. Sprachkurse Teamspirit: Regelmäßige Mitarbeiterevents und Teamaktivitäten Corporate Benefits: Exklusive Rabattaktionen und Firmenspecials",
+      "locations": [
+        "Remote, Bayern, DE",
+        "Hüfingen, Baden-Württemberg, DE",
+        "Dortmund"
+      ],
+      "employment_type": "FULL_TIME",
+      "remote": "",
+      "employer": "b4dynamics",
+      "date_posted": "2026-06-05",
+      "valid_through": null,
+      "reference": "b4dynamics",
+      "extraction": "schema_org_jobposting",
+      "source_url": "https://b4dynamics.jobs.personio.com/job/2659873",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:14:32.714032+00:00",
+      "id": "682ae9c93377d8f0ffe1",
+      "company_key": "MAC IT-Solutions"
+    },
+    {
+      "title": "Finance Consultant Microsoft Dynamics 365 F&O (m/w/d)",
+      "url": "https://b4dynamics.jobs.personio.com/job/2879131",
+      "description": "Deine Mission Enterprise Systems Transformation. Simplified and empowered . Das ist unser Anspruch, und du machst ihn bei unseren Kunden greifbar. Bei der b4dynamics begleitest du Fertigungsunternehmen durch die gesamte ERP-Reise: von der Klärung der Ziele und Prozesse über die Einführung von Microsoft Dynamics 365 Finance & Supply Chain Management (F&SCM) bis zum stabilen Betrieb und dem Einsatz von KI im Tagesgeschäft. Als Finance Consultant sorgst du dafür, dass die Finanzprozesse unserer Kunden effizient, transparent und zukunftssicher werden. Dabei bewegst du dich in zwei Welten: der diskreten Fertigung (Maschinen- und Anlagenbau, Textil und Medizintechnik) sowie der Prozessfertigung (Pharma, Chemie und Life Sciences). Deine Aufgaben Du berätst Kunden bei der Einführung intelligenter ERP-Lösungen auf Basis von Microsoft Dynamics 365 F&O / F&SCM Im Bereich Finance und Controlling analysierst du Anforderungen und Prozesse, erkennst Optimierungspotenziale und erarbeitest Lösungskonzepte, Detailspezifikationen und Einführungsstrategien Anwenderschulungen führst du eigenständig durch und bist fachliche Ansprechperson für die Key-User Bei Programmanpassungen arbeitest du eng mit unserer Entwicklung zusammen Gemeinsam mit dem Vertrieb schaffst du in der Pre-Sales-Phase echten Mehrwert für unsere Kunden Das bringst Du mit Du bringst mindestens 3 Jahre Beratungserfahrung im ERP-Umfeld mit Fokus auf Microsoft Dynamics 365 F&O / F&SCM oder Dynamics AX mit Fundiertes Know-how in Finanzbuchhaltung und Controlling bildet deine fachliche Basis Erfahrung in der Prozessfertigung (Pharma, Chemie, Life Sciences) oder der diskreten Fertigung (Maschinen- und Anlagenbau, Textil, Medizintechnik) ist ein Plus, ebenso Kenntnisse im validierten Umfeld Du hast erste Erfahrung als Teilprojektleiter sammeln können und übernimmst proaktiv Verantwortung Deutsch und Englisch sprichst du sicher, jeweils mindestens auf C1-Niveau Bei uns gilt: Einer für alle, alle für einen. Du arbeitest pragmatisch, packst gern mit an und hast den Mut, neue Wege zu gehen. Persönlicher Austausch ist uns wichtig. Deshalb bist du gern bei Kunden vor Ort und regelmäßig in unserem Office in Hüfingen im Schwarzwald. Deinen Wohnort kannst du deutschlandweit wählen. Warum wir? Empowering people: Wir geben dir Raum, Vertrauen und die Werkzeuge, um zu wachsen Flache Hierarchien: ein wachsendes mittelständisches Unternehmen mit kurzen Entscheidungswegen und Raum für deine Ideen Work-Life-Balance: flexible Arbeitszeiten und Möglichkeit zum virtuellen Arbeiten Mobilität: Firmenwagen, auch zur privaten Nutzung Fitness & Freizeit : Fahrrad-Leasing und Hansefit Zusatzleistungen: vermögenswirksame Leistungen, betriebliche Altersvorsorge und Kita-Zuschuss Entwicklung : collana learning hub mit internen und externen Weiterbildungen, unter anderem Sprachkursen und KI-Trainings Teamspirit : regelmäßige Mitarbeiterevents und Teamaktivitäten Corporate Benefits : exklusive Rabatte und Firmenangebote Klingt nach dir? Dann freuen wir uns auf deine Online-Bewerbung mit Gehaltsvorstellung und frühestmöglichem Eintrittstermin. Du erfüllst nicht jede Anforderung? Bewirb dich trotzdem, denn Motivation und Lernbereitschaft zählen für uns genauso. Bei Fragen kannst du dich gerne bei deiner Recruiterin Julia (julia.gerdes@collana.com) melden. Enterprise Systems Transformation. Simplified and empowered . #MutigHandeln #VerantwortungÜbernehmen",
+      "locations": [
+        "Hüfingen, Baden-Württemberg, DE"
+      ],
+      "employment_type": "FULL_TIME",
+      "remote": "",
+      "employer": "b4dynamics",
+      "date_posted": "2026-11-06",
+      "valid_through": null,
+      "reference": "b4dynamics",
+      "extraction": "schema_org_jobposting",
+      "source_url": "https://b4dynamics.jobs.personio.com/job/2879131",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:14:33.198781+00:00",
+      "id": "903861d28ea9022e2341",
+      "company_key": "MAC IT-Solutions"
+    }
+  ],
+  "pages": [
+    {
+      "url": "https://www.mac-its.com/",
+      "final_url": "https://www.mac-its.com/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/",
+      "final_url": "https://karriere.mac-its.com/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://macits.jobs.personio.com/",
+      "final_url": "https://macits.jobs.personio.com/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://macits.jobs.personio.com/job/2594698",
+      "final_url": "https://macits.jobs.personio.com/job/2594698",
+      "redirects": [],
+      "jobs_found": 1,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com//",
+      "final_url": "https://karriere.mac-its.com//",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/bugs-change-requests-gut-geschaetzte-detektiv-arbeit",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/bugs-change-requests-gut-geschaetzte-detektiv-arbeit",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/unsere-teams-bunt-gemischt-und-reich-an-erfahrung",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/unsere-teams-bunt-gemischt-und-reich-an-erfahrung",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/die-umfangreiche-organisation-eines-neukundenprojektes",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/die-umfangreiche-organisation-eines-neukundenprojektes",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/eine-neue-form-des-neukundenprojektes",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/eine-neue-form-des-neukundenprojektes",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/die-perfekten-ergaenzungen-fuer-ein-erp-system",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/die-perfekten-ergaenzungen-fuer-ein-erp-system",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/unsere-produkte-services",
+      "final_url": "https://www.mac-its.com/e-commerce-loesungen/",
+      "redirects": [
+        {
+          "source": "https://karriere.mac-its.com/unsere-produkte-services",
+          "target": "https://www.mac-its.com/e-commerce-loesungen/",
+          "status": 303
+        }
+      ],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/arbeiten-bei-der-mac",
+      "final_url": "https://karriere.mac-its.com/arbeiten-bei-der-mac",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog-data/unser-buero-in-hamburg",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/unser-buero-in-hamburg",
+      "redirects": [
+        {
+          "source": "https://karriere.mac-its.com/karriere-blog-data/unser-buero-in-hamburg",
+          "target": "https://karriere.mac-its.com/karriere-blog/unser-buero-in-hamburg",
+          "status": 307
+        }
+      ],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/direkteinstieg-bei-der-mac-was-dich-wirklich-erwartet",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/direkteinstieg-bei-der-mac-was-dich-wirklich-erwartet",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/kategorien?tx_blog_category%5Baction%5D=listPostsByCategory&tx_blog_category%5Bcategory%5D=8&tx_blog_category%5Bcontroller%5D=Post&cHash=69d717786c45c7745834c5603fd7d0ad",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/kategorien?tx_blog_category%5Baction%5D=listPostsByCategory&tx_blog_category%5Bcategory%5D=8&tx_blog_category%5Bcontroller%5D=Post&cHash=69d717786c45c7745834c5603fd7d0ad",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/dein-einstieg-in-die-softwareentwicklung",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/dein-einstieg-in-die-softwareentwicklung",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/kategorien?tx_blog_category%5Baction%5D=listPostsByCategory&tx_blog_category%5Bcategory%5D=9&tx_blog_category%5Bcontroller%5D=Post&cHash=67fb76245f806d9612c989b9f55ed6ec",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/kategorien?tx_blog_category%5Baction%5D=listPostsByCategory&tx_blog_category%5Bcategory%5D=9&tx_blog_category%5Bcontroller%5D=Post&cHash=67fb76245f806d9612c989b9f55ed6ec",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/kategorien?tx_blog_category%5Baction%5D=listPostsByCategory&tx_blog_category%5Bcategory%5D=10&tx_blog_category%5Bcontroller%5D=Post&cHash=214ae59c93735b26710d9a0744da0d9d",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/kategorien?tx_blog_category%5Baction%5D=listPostsByCategory&tx_blog_category%5Bcategory%5D=10&tx_blog_category%5Bcontroller%5D=Post&cHash=214ae59c93735b26710d9a0744da0d9d",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/unsere-schwesterunternehmen-in-der-collana-gruppe",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/unsere-schwesterunternehmen-in-der-collana-gruppe",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/faq",
+      "final_url": "https://karriere.mac-its.com/faq",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/bewerbungsprozess",
+      "final_url": "https://karriere.mac-its.com/bewerbungsprozess",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/das-sind-wir",
+      "final_url": "https://karriere.mac-its.com/das-sind-wir",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/kategorien?tx_blog_category%5Baction%5D=listPostsByCategory&tx_blog_category%5Bcategory%5D=7&tx_blog_category%5Bcontroller%5D=Post&cHash=5c689e7909c6b4df0c642c9d6c8c1991",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/kategorien?tx_blog_category%5Baction%5D=listPostsByCategory&tx_blog_category%5Bcategory%5D=7&tx_blog_category%5Bcontroller%5D=Post&cHash=5c689e7909c6b4df0c642c9d6c8c1991",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/kategorien?tx_blog_category%5Baction%5D=listPostsByCategory&tx_blog_category%5Bcategory%5D=11&tx_blog_category%5Bcontroller%5D=Post&cHash=72b6140f6536bc84992a82ec43fe2073",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/kategorien?tx_blog_category%5Baction%5D=listPostsByCategory&tx_blog_category%5Bcategory%5D=11&tx_blog_category%5Bcontroller%5D=Post&cHash=72b6140f6536bc84992a82ec43fe2073",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/kategorien?tx_blog_category%5Baction%5D=listPostsByCategory&tx_blog_category%5Bcategory%5D=12&tx_blog_category%5Bcontroller%5D=Post&cHash=8c6a67e5735b0385ecf40b852f12c520",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/kategorien?tx_blog_category%5Baction%5D=listPostsByCategory&tx_blog_category%5Bcategory%5D=12&tx_blog_category%5Bcontroller%5D=Post&cHash=8c6a67e5735b0385ecf40b852f12c520",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/wie-wir-unsere-feste-feiern",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/wie-wir-unsere-feste-feiern",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/warum-wir-dein-neuer-arbeitgeber-sind",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/warum-wir-dein-neuer-arbeitgeber-sind",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/unser-projektvorgehen",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/unser-projektvorgehen",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/werte-die-wir-leben",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/werte-die-wir-leben",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/unsere-geschaeftsfuehrung",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/unsere-geschaeftsfuehrung",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/unser-headquarter-in-flensburg-1",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/unser-headquarter-in-flensburg-1",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/archiv/?tx_blog_archive%5Baction%5D=listPostsByDate&tx_blog_archive%5Bcontroller%5D=Post&tx_blog_archive%5Byear%5D=2026&cHash=304ef0e38ed0ab36570f6ee602068d9b",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/archiv/?tx_blog_archive%5Baction%5D=listPostsByDate&tx_blog_archive%5Bcontroller%5D=Post&tx_blog_archive%5Byear%5D=2026&cHash=304ef0e38ed0ab36570f6ee602068d9b",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/archiv/?tx_blog_archive%5Baction%5D=listPostsByDate&tx_blog_archive%5Bcontroller%5D=Post&tx_blog_archive%5Byear%5D=2025&cHash=7fe3cf861ae38223354708b36962f2ea",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/archiv/?tx_blog_archive%5Baction%5D=listPostsByDate&tx_blog_archive%5Bcontroller%5D=Post&tx_blog_archive%5Byear%5D=2025&cHash=7fe3cf861ae38223354708b36962f2ea",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/archiv/?tx_blog_archive%5Baction%5D=listPostsByDate&tx_blog_archive%5Bcontroller%5D=Post&tx_blog_archive%5Byear%5D=2024&cHash=182ee9a9f2a92dfd41a06ee1cd0719ec",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/archiv/?tx_blog_archive%5Baction%5D=listPostsByDate&tx_blog_archive%5Bcontroller%5D=Post&tx_blog_archive%5Byear%5D=2024&cHash=182ee9a9f2a92dfd41a06ee1cd0719ec",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/archiv/?tx_blog_archive%5Baction%5D=listPostsByDate&tx_blog_archive%5Bcontroller%5D=Post&tx_blog_archive%5Byear%5D=2023&cHash=6c5f847c6b172268d65c153a35c78ceb",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/archiv/?tx_blog_archive%5Baction%5D=listPostsByDate&tx_blog_archive%5Bcontroller%5D=Post&tx_blog_archive%5Byear%5D=2023&cHash=6c5f847c6b172268d65c153a35c78ceb",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/archiv/?tx_blog_archive%5Baction%5D=listPostsByDate&tx_blog_archive%5Bcontroller%5D=Post&tx_blog_archive%5Byear%5D=2022&cHash=2a4d858be4db0426d996dbc2f059d547",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/archiv/?tx_blog_archive%5Baction%5D=listPostsByDate&tx_blog_archive%5Bcontroller%5D=Post&tx_blog_archive%5Byear%5D=2022&cHash=2a4d858be4db0426d996dbc2f059d547",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog-data/arbeiten-in-der-softwareentwicklung-support-beratung",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/arbeiten-in-der-softwareentwicklung-support-beratung",
+      "redirects": [
+        {
+          "source": "https://karriere.mac-its.com/karriere-blog-data/arbeiten-in-der-softwareentwicklung-support-beratung",
+          "target": "https://karriere.mac-its.com/karriere-blog/arbeiten-in-der-softwareentwicklung-support-beratung",
+          "status": 307
+        }
+      ],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog-data/die-mac-auf-einen-blick-struktur-organisation",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/die-mac-auf-einen-blick-struktur-organisation",
+      "redirects": [
+        {
+          "source": "https://karriere.mac-its.com/karriere-blog-data/die-mac-auf-einen-blick-struktur-organisation",
+          "target": "https://karriere.mac-its.com/karriere-blog/die-mac-auf-einen-blick-struktur-organisation",
+          "status": 307
+        }
+      ],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog-data/bugs-change-requests-gut-geschaetzte-detektiv-arbeit",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/bugs-change-requests-gut-geschaetzte-detektiv-arbeit",
+      "redirects": [
+        {
+          "source": "https://karriere.mac-its.com/karriere-blog-data/bugs-change-requests-gut-geschaetzte-detektiv-arbeit",
+          "target": "https://karriere.mac-its.com/karriere-blog/bugs-change-requests-gut-geschaetzte-detektiv-arbeit",
+          "status": 307
+        }
+      ],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog-data/arbeiten-in-der-softwareentwicklung-neukundenprojekte",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/arbeiten-in-der-softwareentwicklung-neukundenprojekte",
+      "redirects": [
+        {
+          "source": "https://karriere.mac-its.com/karriere-blog-data/arbeiten-in-der-softwareentwicklung-neukundenprojekte",
+          "target": "https://karriere.mac-its.com/karriere-blog/arbeiten-in-der-softwareentwicklung-neukundenprojekte",
+          "status": 307
+        }
+      ],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog-data/jobsmac-sales-manager-in-der-it-branche",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/jobsmac-sales-manager-in-der-it-branche",
+      "redirects": [
+        {
+          "source": "https://karriere.mac-its.com/karriere-blog-data/jobsmac-sales-manager-in-der-it-branche",
+          "target": "https://karriere.mac-its.com/karriere-blog/jobsmac-sales-manager-in-der-it-branche",
+          "status": 307
+        }
+      ],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/unsere-arbeitswelt/collana",
+      "final_url": "https://karriere.mac-its.com/unsere-arbeitswelt/collana",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/jobsmac-was-macht-eigentlich-ein-business-consultant",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/jobsmac-was-macht-eigentlich-ein-business-consultant",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/jobsmac-was-macht-eigentlich-ein-data-engineer",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/jobsmac-was-macht-eigentlich-ein-data-engineer",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/cultural-fit-check",
+      "final_url": "https://karriere.mac-its.com/cultural-fit-check",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/ausbildung",
+      "final_url": "https://karriere.mac-its.com/ausbildung",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/werkstudium",
+      "final_url": "https://karriere.mac-its.com/werkstudium",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/it-ausbildung-mit-zukunft-bei-der-mac",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/it-ausbildung-mit-zukunft-bei-der-mac",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/inside-mac-berufserfahrung-im-studium",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/inside-mac-berufserfahrung-im-studium",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.collana.com/collana-als-arbeitgeber/",
+      "final_url": "https://www.collana.com/collana-als-arbeitgeber/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.develappers.de/de/jobs/offers",
+      "final_url": "https://www.develappers.de/de/jobs/offers",
+      "redirects": [],
+      "jobs_found": 3,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.develappers.de/de/job/duales-studium-informationstechnologie-2027",
+      "final_url": "https://www.develappers.de/de/job/duales-studium-informationstechnologie-2027",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.develappers.de/de/job/duales-studium-medieninformatik-2027",
+      "final_url": "https://www.develappers.de/de/job/duales-studium-medieninformatik-2027",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.develappers.de/de/job/duales-studium-wirtschaftsinformatik-2027",
+      "final_url": "https://www.develappers.de/de/job/duales-studium-wirtschaftsinformatik-2027",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.develappers.de/de/job/initiativ",
+      "final_url": "https://www.develappers.de/de/job/initiativ",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog-data/it-ausbildung-mit-zukunft-bei-der-mac",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/it-ausbildung-mit-zukunft-bei-der-mac",
+      "redirects": [
+        {
+          "source": "https://karriere.mac-its.com/karriere-blog-data/it-ausbildung-mit-zukunft-bei-der-mac",
+          "target": "https://karriere.mac-its.com/karriere-blog/it-ausbildung-mit-zukunft-bei-der-mac",
+          "status": 307
+        }
+      ],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/psychologische-unterstuetzung",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/psychologische-unterstuetzung",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/als-aussteller-auf-dem-itcs-2024",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/als-aussteller-auf-dem-itcs-2024",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/die-arbeit-am-erp-system-des-jahres-2023",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/die-arbeit-am-erp-system-des-jahres-2023",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/20-jahre-mac-als-arbeitgeber",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/20-jahre-mac-als-arbeitgeber",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/helfen-koennen-erste-hilfe-schulung-bei-der-mac",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/helfen-koennen-erste-hilfe-schulung-bei-der-mac",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/heide-park-soltau-die-mac-auf-klassenfahrt",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/heide-park-soltau-die-mac-auf-klassenfahrt",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/fussball-verbindet-die-welt",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/fussball-verbindet-die-welt",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog-data/eine-neue-form-des-neukundenprojektes",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/eine-neue-form-des-neukundenprojektes",
+      "redirects": [
+        {
+          "source": "https://karriere.mac-its.com/karriere-blog-data/eine-neue-form-des-neukundenprojektes",
+          "target": "https://karriere.mac-its.com/karriere-blog/eine-neue-form-des-neukundenprojektes",
+          "status": 307
+        }
+      ],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/erfolgsgeschichten",
+      "final_url": "https://karriere.mac-its.com/erfolgsgeschichten",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog-data/jobsmac-als-agile-coaches-im-it-unternehmen",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/jobsmac-als-agile-coaches-im-it-unternehmen",
+      "redirects": [
+        {
+          "source": "https://karriere.mac-its.com/karriere-blog-data/jobsmac-als-agile-coaches-im-it-unternehmen",
+          "target": "https://karriere.mac-its.com/karriere-blog/jobsmac-als-agile-coaches-im-it-unternehmen",
+          "status": 307
+        }
+      ],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog-data/jobsmac-arbeiten-in-der-qualitaetssicherung",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/jobsmac-arbeiten-in-der-qualitaetssicherung",
+      "redirects": [
+        {
+          "source": "https://karriere.mac-its.com/karriere-blog-data/jobsmac-arbeiten-in-der-qualitaetssicherung",
+          "target": "https://karriere.mac-its.com/karriere-blog/jobsmac-arbeiten-in-der-qualitaetssicherung",
+          "status": 307
+        }
+      ],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog-data/arbeiten-in-der-softwareentwicklung-teil-1",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/arbeiten-in-der-softwareentwicklung-teil-1",
+      "redirects": [
+        {
+          "source": "https://karriere.mac-its.com/karriere-blog-data/arbeiten-in-der-softwareentwicklung-teil-1",
+          "target": "https://karriere.mac-its.com/karriere-blog/arbeiten-in-der-softwareentwicklung-teil-1",
+          "status": 307
+        }
+      ],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog-data/arbeiten-in-der-softwareentwicklung-server-oder-cloud",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/arbeiten-in-der-softwareentwicklung-server-oder-cloud",
+      "redirects": [
+        {
+          "source": "https://karriere.mac-its.com/karriere-blog-data/arbeiten-in-der-softwareentwicklung-server-oder-cloud",
+          "target": "https://karriere.mac-its.com/karriere-blog/arbeiten-in-der-softwareentwicklung-server-oder-cloud",
+          "status": 307
+        }
+      ],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog-data/die-perfekten-ergaenzungen-fuer-ein-erp-system",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/die-perfekten-ergaenzungen-fuer-ein-erp-system",
+      "redirects": [
+        {
+          "source": "https://karriere.mac-its.com/karriere-blog-data/die-perfekten-ergaenzungen-fuer-ein-erp-system",
+          "target": "https://karriere.mac-its.com/karriere-blog/die-perfekten-ergaenzungen-fuer-ein-erp-system",
+          "status": 307
+        }
+      ],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/jobsmac-marketing-fuer-uns-als-arbeitgeber",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/jobsmac-marketing-fuer-uns-als-arbeitgeber",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/nur-unter-druck-mich-zur-weiterbildung-gezwungen",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/nur-unter-druck-mich-zur-weiterbildung-gezwungen",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/arbeiten-in-der-softwareentwicklung-kasse-versand",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/arbeiten-in-der-softwareentwicklung-kasse-versand",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/mac-trifft-auf-evp-wie-entwickelt-man-eine-neue-arbeitgebermarke",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/mac-trifft-auf-evp-wie-entwickelt-man-eine-neue-arbeitgebermarke",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog-data/jobsmac-was-macht-eigentlich-ein-business-consultant",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/jobsmac-was-macht-eigentlich-ein-business-consultant",
+      "redirects": [
+        {
+          "source": "https://karriere.mac-its.com/karriere-blog-data/jobsmac-was-macht-eigentlich-ein-business-consultant",
+          "target": "https://karriere.mac-its.com/karriere-blog/jobsmac-was-macht-eigentlich-ein-business-consultant",
+          "status": 307
+        }
+      ],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog-data/arbeiten-in-der-softwareentwicklung-kasse-versand",
+      "final_url": "https://karriere.mac-its.com/karriere-blog/arbeiten-in-der-softwareentwicklung-kasse-versand",
+      "redirects": [
+        {
+          "source": "https://karriere.mac-its.com/karriere-blog-data/arbeiten-in-der-softwareentwicklung-kasse-versand",
+          "target": "https://karriere.mac-its.com/karriere-blog/arbeiten-in-der-softwareentwicklung-kasse-versand",
+          "status": 307
+        }
+      ],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://karriere.mac-its.com/benefits",
+      "final_url": "https://karriere.mac-its.com/benefits",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://collana.jobs.personio.de/",
+      "final_url": "https://collana.jobs.personio.de/xml",
+      "redirects": [],
+      "jobs_found": 14,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://b4dynamics.jobs.personio.com/",
+      "final_url": "https://b4dynamics.jobs.personio.com/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://b4dynamics.jobs.personio.com/job/2772411",
+      "final_url": "https://b4dynamics.jobs.personio.com/job/2772411",
+      "redirects": [],
+      "jobs_found": 1,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://b4dynamics.jobs.personio.com/job/2713430",
+      "final_url": "https://b4dynamics.jobs.personio.com/job/2713430",
+      "redirects": [],
+      "jobs_found": 1,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://b4dynamics.jobs.personio.com/job/2659873",
+      "final_url": "https://b4dynamics.jobs.personio.com/job/2659873",
+      "redirects": [],
+      "jobs_found": 1,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://b4dynamics.jobs.personio.com/job/2879131",
+      "final_url": "https://b4dynamics.jobs.personio.com/job/2879131",
+      "redirects": [],
+      "jobs_found": 1,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://collanaapps.jobs.personio.com/",
+      "final_url": "https://collanaapps.jobs.personio.com/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": true
+    },
+    {
+      "url": "https://www.visiondata.de/karriere/",
+      "final_url": "https://www.visiondata.de/karriere/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    }
+  ],
+  "errors": [
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog-data/unser-headquarter-in-flensburg-1",
+      "reason": "fetch_failed",
+      "error": "HTTP 404: https://karriere.mac-its.com/karriere-blog-data/unser-headquarter-in-flensburg-1"
+    },
+    {
+      "url": "https://mac-its.jobs.personio.de/job/315378?language=de&display=de",
+      "reason": "fetch_failed",
+      "error": "Durch robots.txt gesperrt."
+    },
+    {
+      "url": "https://mac-its.jobs.personio.de/job/1076515?language=de&display=de",
+      "reason": "fetch_failed",
+      "error": "Durch robots.txt gesperrt."
+    },
+    {
+      "url": "https://mac-its.jobs.personio.de/",
+      "reason": "fetch_failed",
+      "error": "Durch robots.txt gesperrt."
+    }
+  ],
+  "excluded": [],
+  "sources": [
+    {
+      "url": "https://www.mac-its.com/",
+      "linked_from": null,
+      "mechanism": "configured"
+    },
+    {
+      "url": "https://karriere.mac-its.com/",
+      "linked_from": "https://www.mac-its.com/",
+      "mechanism": "employer_link"
+    },
+    {
+      "url": "https://macits.jobs.personio.com/",
+      "linked_from": "https://karriere.mac-its.com/",
+      "mechanism": "employer_link"
+    },
+    {
+      "url": "https://macits.jobs.personio.com/xml",
+      "linked_from": "https://macits.jobs.personio.com/",
+      "mechanism": "public_job_feed",
+      "adapter": "personio"
+    },
+    {
+      "url": "https://www.mac-its.com/e-commerce-loesungen/",
+      "linked_from": "https://karriere.mac-its.com/unsere-produkte-services",
+      "mechanism": "http_redirect"
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/unser-buero-in-hamburg",
+      "linked_from": "https://karriere.mac-its.com/karriere-blog-data/unser-buero-in-hamburg",
+      "mechanism": "http_redirect"
+    },
+    {
+      "url": "https://mac-its.jobs.personio.de/job/315378?language=de&display=de",
+      "linked_from": "https://karriere.mac-its.com/karriere-blog/unser-buero-in-hamburg",
+      "mechanism": "employer_link"
+    },
+    {
+      "url": "https://mac-its.jobs.personio.de/xml",
+      "linked_from": "https://mac-its.jobs.personio.de/job/315378?language=de&display=de",
+      "mechanism": "public_job_feed",
+      "adapter": "personio"
+    },
+    {
+      "url": "https://www.collana.com/collana-als-arbeitgeber/",
+      "linked_from": "https://karriere.mac-its.com/karriere-blog/unsere-schwesterunternehmen-in-der-collana-gruppe",
+      "mechanism": "employer_link"
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/arbeiten-in-der-softwareentwicklung-support-beratung",
+      "linked_from": "https://karriere.mac-its.com/karriere-blog-data/arbeiten-in-der-softwareentwicklung-support-beratung",
+      "mechanism": "http_redirect"
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/die-mac-auf-einen-blick-struktur-organisation",
+      "linked_from": "https://karriere.mac-its.com/karriere-blog-data/die-mac-auf-einen-blick-struktur-organisation",
+      "mechanism": "http_redirect"
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/bugs-change-requests-gut-geschaetzte-detektiv-arbeit",
+      "linked_from": "https://karriere.mac-its.com/karriere-blog-data/bugs-change-requests-gut-geschaetzte-detektiv-arbeit",
+      "mechanism": "http_redirect"
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/arbeiten-in-der-softwareentwicklung-neukundenprojekte",
+      "linked_from": "https://karriere.mac-its.com/karriere-blog-data/arbeiten-in-der-softwareentwicklung-neukundenprojekte",
+      "mechanism": "http_redirect"
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/jobsmac-sales-manager-in-der-it-branche",
+      "linked_from": "https://karriere.mac-its.com/karriere-blog-data/jobsmac-sales-manager-in-der-it-branche",
+      "mechanism": "http_redirect"
+    },
+    {
+      "url": "https://collana.jobs.personio.de/",
+      "linked_from": "https://www.collana.com/collana-als-arbeitgeber/",
+      "mechanism": "employer_link"
+    },
+    {
+      "url": "https://b4dynamics.jobs.personio.com/",
+      "linked_from": "https://www.collana.com/collana-als-arbeitgeber/",
+      "mechanism": "employer_link"
+    },
+    {
+      "url": "https://collanaapps.jobs.personio.com/",
+      "linked_from": "https://www.collana.com/collana-als-arbeitgeber/",
+      "mechanism": "employer_link"
+    },
+    {
+      "url": "https://www.develappers.de/de/jobs/offers",
+      "linked_from": "https://www.collana.com/collana-als-arbeitgeber/",
+      "mechanism": "employer_link"
+    },
+    {
+      "url": "https://www.visiondata.de/karriere/",
+      "linked_from": "https://www.collana.com/collana-als-arbeitgeber/",
+      "mechanism": "employer_link"
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/it-ausbildung-mit-zukunft-bei-der-mac",
+      "linked_from": "https://karriere.mac-its.com/karriere-blog-data/it-ausbildung-mit-zukunft-bei-der-mac",
+      "mechanism": "http_redirect"
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/eine-neue-form-des-neukundenprojektes",
+      "linked_from": "https://karriere.mac-its.com/karriere-blog-data/eine-neue-form-des-neukundenprojektes",
+      "mechanism": "http_redirect"
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/jobsmac-als-agile-coaches-im-it-unternehmen",
+      "linked_from": "https://karriere.mac-its.com/karriere-blog-data/jobsmac-als-agile-coaches-im-it-unternehmen",
+      "mechanism": "http_redirect"
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/jobsmac-arbeiten-in-der-qualitaetssicherung",
+      "linked_from": "https://karriere.mac-its.com/karriere-blog-data/jobsmac-arbeiten-in-der-qualitaetssicherung",
+      "mechanism": "http_redirect"
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/arbeiten-in-der-softwareentwicklung-teil-1",
+      "linked_from": "https://karriere.mac-its.com/karriere-blog-data/arbeiten-in-der-softwareentwicklung-teil-1",
+      "mechanism": "http_redirect"
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/arbeiten-in-der-softwareentwicklung-server-oder-cloud",
+      "linked_from": "https://karriere.mac-its.com/karriere-blog-data/arbeiten-in-der-softwareentwicklung-server-oder-cloud",
+      "mechanism": "http_redirect"
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/die-perfekten-ergaenzungen-fuer-ein-erp-system",
+      "linked_from": "https://karriere.mac-its.com/karriere-blog-data/die-perfekten-ergaenzungen-fuer-ein-erp-system",
+      "mechanism": "http_redirect"
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/jobsmac-was-macht-eigentlich-ein-business-consultant",
+      "linked_from": "https://karriere.mac-its.com/karriere-blog-data/jobsmac-was-macht-eigentlich-ein-business-consultant",
+      "mechanism": "http_redirect"
+    },
+    {
+      "url": "https://karriere.mac-its.com/karriere-blog/arbeiten-in-der-softwareentwicklung-kasse-versand",
+      "linked_from": "https://karriere.mac-its.com/karriere-blog-data/arbeiten-in-der-softwareentwicklung-kasse-versand",
+      "mechanism": "http_redirect"
+    },
+    {
+      "url": "https://collana.jobs.personio.de/xml",
+      "linked_from": "https://collana.jobs.personio.de/",
+      "mechanism": "public_job_feed",
+      "adapter": "personio"
+    },
+    {
+      "url": "https://b4dynamics.jobs.personio.com/xml",
+      "linked_from": "https://b4dynamics.jobs.personio.com/",
+      "mechanism": "public_job_feed",
+      "adapter": "personio"
+    },
+    {
+      "url": "https://collanaapps.jobs.personio.com/xml",
+      "linked_from": "https://collanaapps.jobs.personio.com/",
+      "mechanism": "public_job_feed",
+      "adapter": "personio"
+    }
+  ],
+  "adapter_attempts": [
+    {
+      "provider": "personio",
+      "portal_url": "https://macits.jobs.personio.com/",
+      "url": "https://macits.jobs.personio.com/xml",
+      "status": "fallback_html",
+      "error": "HTTP 404: https://macits.jobs.personio.com/xml"
+    },
+    {
+      "provider": "personio",
+      "portal_url": "https://mac-its.jobs.personio.de/job/315378?language=de&display=de",
+      "url": "https://mac-its.jobs.personio.de/xml",
+      "status": "fallback_html",
+      "error": "Durch robots.txt gesperrt."
+    },
+    {
+      "provider": "personio",
+      "portal_url": "https://collana.jobs.personio.de/",
+      "url": "https://collana.jobs.personio.de/xml",
+      "status": "ok",
+      "jobs_found": 14
+    },
+    {
+      "provider": "personio",
+      "portal_url": "https://b4dynamics.jobs.personio.com/",
+      "url": "https://b4dynamics.jobs.personio.com/xml",
+      "status": "fallback_html",
+      "error": "HTTP 404: https://b4dynamics.jobs.personio.com/xml"
+    },
+    {
+      "provider": "personio",
+      "portal_url": "https://collanaapps.jobs.personio.com/",
+      "url": "https://collanaapps.jobs.personio.com/xml",
+      "status": "fallback_html",
+      "error": "HTTP 404: https://collanaapps.jobs.personio.com/xml"
+    }
+  ],
+  "coverage": {
+    "scope": "configured_sites_and_linked_career_portals",
+    "complete": false,
+    "pending_pages": 0,
+    "page_limit_reached": false,
+    "job_limit_reached": false,
+    "request_limit_reached": false,
+    "pages_attempted": 90,
+    "pages_read": 86,
+    "dynamic_or_unparsed_pages": false,
+    "http": {
+      "requests_attempted": 116,
+      "allocated_requests": 567,
+      "cache_hits": 0
+    }
+  },
+  "pending_urls": [],
+  "jobs_before_keyword_filter": 22
+}

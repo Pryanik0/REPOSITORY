@@ -1,0 +1,180 @@
+{
+  "company": {
+    "key": "LINK",
+    "name": "Waldemar Link GmbH & Co. KG",
+    "location": "Hamburg",
+    "name_source": "company_name",
+    "urls": [
+      "https://www.link-ortho.com/"
+    ],
+    "kununu_url": "https://www.kununu.com/de/waldemar-link",
+    "branches": [
+      "Pharma & Medizintechnik"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "22339",
+    "street": "Barkhausenweg 10",
+    "region": "Hamburg",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:41:35.553532+00:00",
+  "searches": [
+    {
+      "accounting_only": true,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=Waldemar+Link+GmbH+%26+Co.+KG&companyLocation=Hamburg&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ACCOUNTING&drilldownFilter=22&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": false
+    },
+    {
+      "accounting_only": false,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=Waldemar+Link+GmbH+%26+Co.+KG&companyLocation=Hamburg&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ALL_AREAS&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": false
+    }
+  ],
+  "excluded_company_matches": [
+    {
+      "company": "Link Holding GmbH, Hamburg",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-08-05",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=-Xn3ybd3PqsetHXC-nUa5gvvbAGOdS7DZL1RqVJxsnBp6aeE024PxhPf2Rc36qkylPrnqNTUIREmj7OKe6ztap7ze3HIrJdTtXC8ty5ZXsVRHcSVpZLI03dL_UkNDnCt4ZbFlBgWpZPnJyFtN5w5xWb5J-Dbky42rxUsYXCKaNSlsq8TPlstP89iVz0HJ8H-1LQQtvZmVE0yPNWucGaB8mHRjN7ZFqA_eyYpic7csPbTKNk",
+      "metadata": "Link Holding GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 05.08.2026 Sprache: Deutsch Befreite Unternehmen anzeigen WALDEMAR LINK GmbH & Co. KG, Hamburg DERU GmbH, Norderstedt Vacucast Feinguß GmbH & Co. Metall KG, Berlin",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Link Holding GmbH, Hamburg",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-10-09",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=t6J5woLNpoN00EcHAhdVs1oZbFgig_NgkPLSUyzWUY-siacjnMX44ZwnuUI0P348uj1jbP95GxN4jjYKb5adPQdEMFQnfgrZ1KuMtalGjgd92xD7oMwNiamzIHLnfzmE3h4WfwI7fMqzlZwd3Kx-wq0sW9Me7yXVVyhEp4qYrGgtPryOmxIkhiQrXKdr60tWpXL-tvZFzuDeA6qC3QdiJWxqPZplb42MydTQ4xZVfCDIex8",
+      "metadata": "Link Holding GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 09.10.2025 Sprache: Deutsch Befreite Unternehmen anzeigen WALDEMAR LINK GmbH & Co. KG, Hamburg Vacucast Feinguß GmbH & Co. Metall KG, Berlin",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Link Holding GmbH, Hamburg",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-02-05",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=EvnzDJR9ZvxTAQVjVHLP7swkw1-PvDVQ25cn_qSdLycBCZxPvpkOjvmJ0Q1ZR2MV16VIhdqDGjmJPJGX2zLn_-R-KHEP5hP-STCsz6MpTgsBFER78SilfEXh3YaChDftqUTDUlwRy46MrX3pqSCC_9VcU5NbI9AwB5C65cxoGud2wI5eL_8939RajsfqXpKcCJjzFYV6LiXpCHbP9s1I6EvWrjwDDl2oxUpjePKR90D4WjM",
+      "metadata": "Link Holding GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 05.02.2025 Sprache: Deutsch Befreite Unternehmen anzeigen WALDEMAR LINK GmbH & Co. KG, Hamburg Vacucast Feinguß GmbH & Co. Metall KG, Berlin",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Link Holding GmbH, Hamburg",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-05-06",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=OM7B8wo8SkaKJ1CH2OIJSlixre09t-R4zI9xSf0X5hJ2YIZG1s3w0zS7rEn_ClYGsgnuh1z7e8CUTCfFOS4_-ELkZLPQZ2VY975pxA7VK-ozG58y5fxNDYQ1U-ZluBLE_p79ZcrZpFPL2l5OHndGdWN-BpniLv_bK9Zhz9FVJQIkzskkefN4Z62c0i7c3xnESngSv9y7p5oeoQVbfHLaxnXyA3sFHpmKDgRuwmfJTIjjkJQ",
+      "metadata": "Link Holding GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 06.05.2024 Sprache: Deutsch Befreite Unternehmen anzeigen WALDEMAR LINK GmbH & Co. KG, Hamburg Vacucast Feinguß GmbH & Co. Metall KG, Berlin",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Link Holding GmbH, Hamburg",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-08-05",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=q2IJIEWd-W0Kjz5zchnS2lCtJuKuhOusHI_8akk_dLofdVQ73op3bW1vQ1jwlfjkXINU82XnNwIpfM8jDJuvSKmIXwT4TRYkZtq28V3pZbb34US8fSAwzL4uUPXqZDKWKIDvRTQwPwUnju_n27pI7xBn7_LVyfvFO7-bcLdY4z6xqHGvO92pz0_qgmk2xAUrGSLnQbqJSoFF7UUECzbmEXZ22ALEV50Q4tK5y13FAkfpNfc",
+      "metadata": "Link Holding GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 05.08.2026 Sprache: Deutsch Befreite Unternehmen anzeigen WALDEMAR LINK GmbH & Co. KG, Hamburg DERU GmbH, Norderstedt Vacucast Feinguß GmbH & Co. Metall KG, Berlin",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Link Holding GmbH, Hamburg",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-10-09",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=Z6f5M_LCpKJuODEzYeRYtA-BT0fHs_b9oBCW91ELC-XEkhrUBufd4pVQvNcIqwGjik9kyiwRGd_2m4VegLloqxmrmi35mS5bzTtAF5AycWld6d2-b9uyKxvv4b3q1opt5z5GqJidW5INbgvvBdDHGIzEq6TlMkc-pumAQpUxiLTzKRP52aCNKBqr--_xzqpps9ZsJQCfUnNRityMG8rJW9wadIY-m7O4X6jmQKrc8MBdyig",
+      "metadata": "Link Holding GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 09.10.2025 Sprache: Deutsch Befreite Unternehmen anzeigen WALDEMAR LINK GmbH & Co. KG, Hamburg Vacucast Feinguß GmbH & Co. Metall KG, Berlin",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Link Holding GmbH, Hamburg",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-02-05",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=LRwcKOWGYMmqkbAdXeCH-svEu4icurvapv1ux0SO0bFSXg8j7-iKxMUI6apPT5QDV0k7E_4iPOmxZ5tfWqOZHg1Ixlj94GWxJO6uzGil7q9MoWcVq9nHthDUzg7Yf6IEetmsCcUAINw7_-5VMWpjsuLa8R5kVUcFOoRxtjWT1xIDpTIstf0lt-JNwkrk5onc7C9-Pl3IKsXSDkspA_cPN5S1eFPA72eG8mV2iVTzQJVUVJ0",
+      "metadata": "Link Holding GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 05.02.2025 Sprache: Deutsch Befreite Unternehmen anzeigen WALDEMAR LINK GmbH & Co. KG, Hamburg Vacucast Feinguß GmbH & Co. Metall KG, Berlin",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Link Holding GmbH, Hamburg",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-05-06",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=wDGxBJZUUXJjN_tIGs_vLYfVEHm59VslQaJ5WKJilTdCmTEznmZx7m0Qj14xVlj9gIVrB0wxCrVh-XDo8yLT3i9X7_wgsAuSadSxsFxizD-nUhLUUxtxrtteAb7nqmidcCCijngTDeT78fDEOqKX1TJFikdQmohSl8ztfeSmU3NudMr5Ga2uYZg2tpKt6x0tvhfkO8zx1tGUecvGPrkyAW2KhsFN3nRWUG9HVCrDM5vOgO8",
+      "metadata": "Link Holding GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 06.05.2024 Sprache: Deutsch Befreite Unternehmen anzeigen WALDEMAR LINK GmbH & Co. KG, Hamburg Vacucast Feinguß GmbH & Co. Metall KG, Berlin",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    }
+  ],
+  "date_from": "2024-01-01",
+  "date_to": "2026-11-25",
+  "excluded_dates": [],
+  "max_publications": 30,
+  "truncated": false,
+  "coverage": {
+    "search_complete": true,
+    "more_pages": false,
+    "publication_limit_reached": false,
+    "downloads_selected": 3,
+    "downloads_succeeded": 3,
+    "download_limit_reached": true,
+    "downloads_complete": false,
+    "text_complete": true
+  },
+  "publications": [
+    {
+      "company": "WALDEMAR LINK GmbH & Co. KG, Hamburg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-07-27",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=HwMVvfp3YOlDPbcnl9rl4Q2lOrTo2qdTUGv3ifG5ney8k0jwnkcCUupilcyyeIc4hkm944iwWUTa4JUnem1iAPQaek_Fnku97S0LzHciwBrt7KWNH3j7A8thUIfUo1tLhaYA-mempLoYOxIB3CfbvDpSxAgswTUx70MeC-e1nr7d6AkzoGeq2-4CW95WSNKOfKHhCADApzNGrhYiJJNEs2wri3bsY8ENaRk5dWKqpwKL0FI",
+      "metadata": "WALDEMAR LINK GmbH & Co. KG, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Link Holding GmbH, Hamburg Datum: 27.07.2026 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "bekanntmachungen",
+      "index": 1
+    },
+    {
+      "company": "WALDEMAR LINK GmbH & Co. KG, Hamburg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-10-07",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=icWG7-3n4hH5w9G_L_UILWmP904pJ7qnaNEyGvtym7Yk1PthwfA7ws3AFEaoaC74ze614oJmGF6lFZRH6N1qvt7aZwRrSKCSesCJrna38Ma9MVsV-IYCDpKnYsusZAWQ6miRflDhWljS_SGd-KYgAS1VvvVkIxnooF-7RBkiZmHNcLb2DM9gsgav3Gn5a9GokOH9F3dFkeM-uYQ59QODa4qiCuWiy9dwFWE7HHDme5AJ0EE",
+      "metadata": "WALDEMAR LINK GmbH & Co. KG, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Link Holding GmbH, Hamburg Datum: 07.10.2025 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "bekanntmachungen",
+      "index": 2
+    },
+    {
+      "company": "WALDEMAR LINK GmbH & Co. KG, Hamburg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-03-05",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=UaKbksiZ7MgEas5uHHWtOsZsOalnD6duZhhzEYohwVEidiDA3hdCD1-OF0Fn0MgV_W_V-1xl4wcxQjTNy5xoeo1pupYQjDBSBF2fAY_sFxFJjBfiJj-p7vf9obXuo3kKlaIJ1QkvUW-bFvZLQ2f7v93NVvxDuuc28TzuTB1QYTL4fAsg2K3M2VMPoA6aMvLqZRsUqi7VAKOs81VWbgjztjgInagsY_4QniV--jNR8oKLijs",
+      "metadata": "WALDEMAR LINK GmbH & Co. KG, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Link Holding GmbH, Hamburg Datum: 05.03.2025 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "bekanntmachungen",
+      "index": 3
+    },
+    {
+      "company": "WALDEMAR LINK GmbH & Co. KG, Hamburg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-04-25",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=4mvgt4jeaThwqFpaTstY3lVJ52JQw6sbMS9uom-NA2UMD47viA3gMjGU8GN2zrWs-yjWcWXlpZZxyr-E8T6O2qxYPCEFa1Ce0M8PfpjuBJFstoyiId_73LMadfbtx6T-ESeaj7rFLxfjI5zmZjyso-qK0BIigb527PFwRqshJSL6OY4trAmSowbWk4gtrq9KchJ2oqpzisr2U1htlpE1gMd3ZJtbmybLKMOdRpsB9mr9SYQ",
+      "metadata": "WALDEMAR LINK GmbH & Co. KG, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Link Holding GmbH, Hamburg Datum: 25.04.2024 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "bekanntmachungen",
+      "index": 4
+    }
+  ]
+}

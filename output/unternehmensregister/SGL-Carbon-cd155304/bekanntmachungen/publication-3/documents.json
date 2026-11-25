@@ -1,0 +1,204 @@
+[
+  {
+    "name": "publication.html",
+    "original_name": "publication.html",
+    "title": "publication.html",
+    "company": "",
+    "format": "html",
+    "text": "Betreff:\tHinweis auf Quartalsfinanzbericht vom 01.01.2026 bis 30.09.2026\n\nAngaben zum Emittenten:\n\nName:\tSGL Carbon SE\nAdresse:\tSöhnleinstraße 8, 65201 Wiesbaden, Deutschland\n\nDer Finanzbericht steht zur Verfügung:\n\nIm Internet unter:\thttps://www.sglcarbon.com/investor-relations/publikationen-news-kennzahlen/\nIm Internet am:\t05.11.2026\n\nAngaben zur Pflichtmitteilung:\n\nPflichtveröffentlichung in/über:\tEQS Group GmbH, veröffentlicht über Bloomberg, Infront und Reuters\nPflichtveröffentlichung am:\t29.10.2026\nSprachen der Veröffentlichung:\tDeutsch",
+    "tables": [
+      {
+        "index": 1,
+        "title": "Veröffentlichungsdaten",
+        "rows": [
+          [
+            "Betreff:",
+            "Hinweis auf Quartalsfinanzbericht vom 01.01.2026 bis 30.09.2026"
+          ]
+        ],
+        "cells": [
+          [
+            {
+              "text": "Betreff:",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "Hinweis auf Quartalsfinanzbericht vom 01.01.2026 bis 30.09.2026",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ]
+        ]
+      },
+      {
+        "index": 2,
+        "title": "Veröffentlichungsdaten",
+        "rows": [
+          [
+            "Name:",
+            "SGL Carbon SE"
+          ],
+          [
+            "Adresse:",
+            "Söhnleinstraße 8, 65201 Wiesbaden, Deutschland"
+          ]
+        ],
+        "cells": [
+          [
+            {
+              "text": "Name:",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "SGL Carbon SE",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ],
+          [
+            {
+              "text": "Adresse:",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "Söhnleinstraße 8, 65201 Wiesbaden, Deutschland",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ]
+        ]
+      },
+      {
+        "index": 3,
+        "title": "Veröffentlichungsdaten",
+        "rows": [
+          [
+            "Im Internet unter:",
+            "https://www.sglcarbon.com/investor-relations/publikationen-news-kennzahlen/"
+          ],
+          [
+            "Im Internet am:",
+            "05.11.2026"
+          ]
+        ],
+        "cells": [
+          [
+            {
+              "text": "Im Internet unter:",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "https://www.sglcarbon.com/investor-relations/publikationen-news-kennzahlen/",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ],
+          [
+            {
+              "text": "Im Internet am:",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "05.11.2026",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ]
+        ]
+      },
+      {
+        "index": 4,
+        "title": "Veröffentlichungsdaten",
+        "rows": [
+          [
+            "Pflichtveröffentlichung in/über:",
+            "EQS Group GmbH, veröffentlicht über Bloomberg, Infront und Reuters"
+          ],
+          [
+            "Pflichtveröffentlichung am:",
+            "29.10.2026"
+          ],
+          [
+            "Sprachen der Veröffentlichung:",
+            "Deutsch"
+          ]
+        ],
+        "cells": [
+          [
+            {
+              "text": "Pflichtveröffentlichung in/über:",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "EQS Group GmbH, veröffentlicht über Bloomberg, Infront und Reuters",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ],
+          [
+            {
+              "text": "Pflichtveröffentlichung am:",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "29.10.2026",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ],
+          [
+            {
+              "text": "Sprachen der Veröffentlichung:",
+              "column": 0,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            },
+            {
+              "text": "Deutsch",
+              "column": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "header": false
+            }
+          ]
+        ]
+      }
+    ]
+  }
+]

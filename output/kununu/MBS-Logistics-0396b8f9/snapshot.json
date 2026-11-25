@@ -1,0 +1,534 @@
+{
+  "provider": "kununu",
+  "backend": "browser",
+  "status": "partial",
+  "query": "MBS Speditionsgesellschaft mbH",
+  "profile": {
+    "url": "https://www.kununu.com/de/mbs-logistics",
+    "name": "MBS Logistics GmbH",
+    "overall_score": 3.6,
+    "review_count": 54,
+    "recommendation_percent": 69,
+    "recommendation_period": "last_2_years",
+    "observed_at": "2026-11-25T17:15:50.075331+00:00"
+  },
+  "reviews": [
+    {
+      "id": "243684da-0039-4179-b36e-971ff86fe4a6",
+      "url": "https://www.kununu.com/de/mbs-logistics/bewertung/243684da-0039-4179-b36e-971ff86fe4a6",
+      "title": "Finger weg v diesem Arbeitgeber, teilweise unsozial/ schikanös",
+      "content": "Die Lage des Büros\n\nDass sie unbedingt Menschen auf verachtende Weise loswerden wollen. Firma wurde verkauft, es läuft schlecht, also geht es darum Mitarbeiter loswerden zu wollen\n\nMitarbeiter schätzen, statt schikanieren u Mobbing.\n\nMan möchte Leute loswerden\n\nNicht vorhanden, sei bitte immer erreichbar ist die Devise\n\nKollegen hauen einen aus Angst vor Arbeitsplatzverlust in die Pfanne\n\nKlassisches Autoritärsgebahren, Rangelei unter viel zu vielen Vorgesetzen die alle was anweisen möchten\n\nOft wird nicht ausreichend kommuniziert",
+      "rating": 1.4,
+      "sections": {
+        "positive": "Die Lage des Büros",
+        "negative": "Dass sie unbedingt Menschen auf verachtende Weise loswerden wollen. Firma wurde verkauft, es läuft schlecht, also geht es darum Mitarbeiter loswerden zu wollen",
+        "suggestion": "Mitarbeiter schätzen, statt schikanieren u Mobbing."
+      },
+      "factor_comments": {
+        "atmosphere": "Man möchte Leute loswerden",
+        "workLife": "Nicht vorhanden, sei bitte immer erreichbar ist die Devise",
+        "teamwork": "Kollegen hauen einen aus Angst vor Arbeitsplatzverlust in die Pfanne",
+        "leadership": "Klassisches Autoritärsgebahren, Rangelei unter viel zu vielen Vorgesetzen die alle was anweisen möchten",
+        "communication": "Oft wird nicht ausreichend kommuniziert"
+      },
+      "factor_scores": {
+        "atmosphere": 1.0,
+        "workLife": 1.0,
+        "communication": 1.0,
+        "workConditions": 1.0,
+        "leadership": 1.0,
+        "teamwork": 1.0,
+        "oldColleagues": 1.0,
+        "equality": 1.0,
+        "career": 1.0,
+        "salary": 2.0,
+        "image": 1.0,
+        "environment": 2.0,
+        "tasks": 4.0
+      },
+      "published_at": "2026-07-13T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "4b11a41a-fa0f-453e-8843-02870d368856",
+      "url": "https://www.kununu.com/de/mbs-logistics/bewertung/4b11a41a-fa0f-453e-8843-02870d368856",
+      "title": "Unternehmen im Wandel, mutig sein wird belohnt",
+      "content": "Ich habe in den letzten zehn Jahren immer – und ich sage es noch einmal – immer pünktlich mein Gehalt auf dem Konto gehabt. Egal, wie schwer das Fahrwasser war.\n\nKommunikation innerhalb der Abteilung und der Firma könnte verbessert werden.\n\nDie Stimmung unter den Kollegen ist wertschätzend und sehr gut bis gut. Ausnahmen gibt es immer und überall, sind jedoch nicht der Rede wert. Mit Kollegen meine ich auch alle Vorgesetzten, denn auch diese benehmen sich gegenüber anderen Angestellten wie ein Team Mitglied und sprechen per „Du“ auf Augenhöhe mit ihren Mitarbeitern. Alle sind immer und dauernd ansprechbar - wenn auch nicht immer persönlich.\n\nBesser, als man selbst denkt! MBS ist und bleibt eine Wucht auf dem Markt, was sie in vielen Teilen zu wenig nach außen präsentieren, zeigen und einfordern.\n\nIn der Regel hat man die Freiheit, sich selbst zu strukturieren. Man hat seine Ruhe, wenn die Arbeit getan ist. Es gibt Tage mit mehr, aber auch wieder Tage mit weniger Arbeit- es liegt an einem selbst wie man sich organisiert und was man aus den Tagen macht.\n\nWer fragt den wird geholfen. Wer nicht fragt eben nicht.\n\nFair und gerecht-aber mehr geht natürlich immer :)\n\nMan findet immer Hilfe und Unterstützung. Eines ist man sicher nicht: alleine!\n\nJubilare werden gefeiert und honoriert, insgesamt gerade mit älteren Kollegen sehr wertschätzender Umgang.\n\nMan arbeitet aktiv daran, die interne Kommunikation zu verbessern. Es ist spürbar besser geworden, jedoch gibt es doch immer wieder Themen, von denen man als Mitarbeiter (positiv wie negativ) überrascht wird.\n\nsuper abwechslungsreich",
+      "rating": 4.3,
+      "sections": {
+        "positive": "Ich habe in den letzten zehn Jahren immer – und ich sage es noch einmal – immer pünktlich mein Gehalt auf dem Konto gehabt. Egal, wie schwer das Fahrwasser war.",
+        "negative": null,
+        "suggestion": "Kommunikation innerhalb der Abteilung und der Firma könnte verbessert werden."
+      },
+      "factor_comments": {
+        "atmosphere": "Die Stimmung unter den Kollegen ist wertschätzend und sehr gut bis gut. Ausnahmen gibt es immer und überall, sind jedoch nicht der Rede wert. Mit Kollegen meine ich auch alle Vorgesetzten, denn auch diese benehmen sich gegenüber anderen Angestellten wie ein Team Mitglied und sprechen per „Du“ auf Augenhöhe mit ihren Mitarbeitern. Alle sind immer und dauernd ansprechbar - wenn auch nicht immer persönlich.",
+        "image": "Besser, als man selbst denkt! MBS ist und bleibt eine Wucht auf dem Markt, was sie in vielen Teilen zu wenig nach außen präsentieren, zeigen und einfordern.",
+        "workLife": "In der Regel hat man die Freiheit, sich selbst zu strukturieren. Man hat seine Ruhe, wenn die Arbeit getan ist. Es gibt Tage mit mehr, aber auch wieder Tage mit weniger Arbeit- es liegt an einem selbst wie man sich organisiert und was man aus den Tagen macht.",
+        "career": "Wer fragt den wird geholfen. Wer nicht fragt eben nicht.",
+        "salary": "Fair und gerecht-aber mehr geht natürlich immer :)",
+        "teamwork": "Man findet immer Hilfe und Unterstützung. Eines ist man sicher nicht: alleine!",
+        "oldColleagues": "Jubilare werden gefeiert und honoriert, insgesamt gerade mit älteren Kollegen sehr wertschätzender Umgang.",
+        "communication": "Man arbeitet aktiv daran, die interne Kommunikation zu verbessern. Es ist spürbar besser geworden, jedoch gibt es doch immer wieder Themen, von denen man als Mitarbeiter (positiv wie negativ) überrascht wird.",
+        "tasks": "super abwechslungsreich"
+      },
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 4.0,
+        "communication": 4.0,
+        "workConditions": 4.0,
+        "leadership": 4.0,
+        "teamwork": 4.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 3.0,
+        "salary": 4.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-10-29T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "4240e90b-2b02-4144-b365-2422f0131bf7",
+      "url": "https://www.kununu.com/de/mbs-logistics/bewertung/4240e90b-2b02-4144-b365-2422f0131bf7",
+      "title": "Mein Eindruck vom Arbeitsalltag bei MBS Logistics",
+      "content": "Die persönliche und familiäre Atmosphäre bei MBS ist für mich ein großer Pluspunkt. Als familiengeführtes Unternehmen herrscht ein respektvoller und wertschätzender Umgang miteinander. Eigene Meinungen und Ideen werden gehört und ernst genommen. Man kann sich aktiv einbringen und mitgestalten. Besonders positiv finde ich auch, dass Mehrarbeit und Überstunden nicht untergehen, sondern anerkannt und wertgeschätzt werden. Wer Einsatz zeigt, hat bei MBS echte Aufstiegsmöglichkeiten. Hier kann man sich vom Einstieg bis in verantwortungsvolle Positionen entwickeln.\nZusätzlich wird der Teamzusammenhalt gezielt gefördert, z. B. durch große Mitarbeiterevents wie das Sommerfest oder die Weihnachtsfeier, die jedes Jahr mit viel Engagement organisiert werden.",
+      "rating": 4.4,
+      "sections": {
+        "positive": "Die persönliche und familiäre Atmosphäre bei MBS ist für mich ein großer Pluspunkt. Als familiengeführtes Unternehmen herrscht ein respektvoller und wertschätzender Umgang miteinander. Eigene Meinungen und Ideen werden gehört und ernst genommen. Man kann sich aktiv einbringen und mitgestalten. Besonders positiv finde ich auch, dass Mehrarbeit und Überstunden nicht untergehen, sondern anerkannt und wertgeschätzt werden. Wer Einsatz zeigt, hat bei MBS echte Aufstiegsmöglichkeiten. Hier kann man sich vom Einstieg bis in verantwortungsvolle Positionen entwickeln.\nZusätzlich wird der Teamzusammenhalt gezielt gefördert, z. B. durch große Mitarbeiterevents wie das Sommerfest oder die Weihnachtsfeier, die jedes Jahr mit viel Engagement organisiert werden.",
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 4.0,
+        "communication": 4.0,
+        "workConditions": 4.0,
+        "leadership": 4.0,
+        "teamwork": 4.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 4.0,
+        "salary": 4.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-08-04T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "5e9cb2e4-6186-49d3-b6c1-616da03d8a08",
+      "url": "https://www.kununu.com/de/mbs-logistics/bewertung/5e9cb2e4-6186-49d3-b6c1-616da03d8a08",
+      "title": "Undurchsichtig, kaum Kommunikation",
+      "content": "Vernünftiges Gehalt, gute Arbeitszeiten\n\nEhrlichkeit, Transparenz und direkte (ehrliche)Gespräche mit Mitarbeitern.\n\nMit den direkten Kollegen und vermeintlich auch mit der Führung hat man sich verstanden. Im Nachgang hörte ich dem war nicht so!?\n\nKann man haben, es gibt aber eine gewisse Erwartung ...\n\nIm Nachgang schwer zu bewerten, da ich ein gutes Gefühl hatte im Nachgang aber viel Negatives über meine Person gehört habe, was man mir NIE gesagt hat!?\n\nHier fehlt leider jegliche Ehrlichkeit & Transparenz\n\nKeine Einarbeitung, keine Kommunikation zum Stand der Dinge, unehrliches Antworten / bewusste Lügen auf direkte Fragen.",
+      "rating": 2.6,
+      "sections": {
+        "positive": "Vernünftiges Gehalt, gute Arbeitszeiten",
+        "negative": null,
+        "suggestion": "Ehrlichkeit, Transparenz und direkte (ehrliche)Gespräche mit Mitarbeitern."
+      },
+      "factor_comments": {
+        "atmosphere": "Mit den direkten Kollegen und vermeintlich auch mit der Führung hat man sich verstanden. Im Nachgang hörte ich dem war nicht so!?",
+        "workLife": "Kann man haben, es gibt aber eine gewisse Erwartung ...",
+        "teamwork": "Im Nachgang schwer zu bewerten, da ich ein gutes Gefühl hatte im Nachgang aber viel Negatives über meine Person gehört habe, was man mir NIE gesagt hat!?",
+        "leadership": "Hier fehlt leider jegliche Ehrlichkeit & Transparenz",
+        "communication": "Keine Einarbeitung, keine Kommunikation zum Stand der Dinge, unehrliches Antworten / bewusste Lügen auf direkte Fragen."
+      },
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 2.0,
+        "communication": 1.0,
+        "workConditions": 3.0,
+        "leadership": 1.0,
+        "teamwork": 3.0,
+        "oldColleagues": 3.0,
+        "equality": 1.0,
+        "career": 4.0,
+        "salary": 3.0,
+        "image": 5.0,
+        "environment": 1.0,
+        "tasks": 4.0
+      },
+      "published_at": "2025-07-01T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "d2ccf95f-8afd-478f-a911-3a46a55629fd",
+      "url": "https://www.kununu.com/de/mbs-logistics/bewertung/d2ccf95f-8afd-478f-a911-3a46a55629fd",
+      "title": "Sehr guter Arbeitgeber",
+      "content": "Sehr gute Atmosphäre und sehr nette Mitarbeiter im Haus. Man fühlt sich schnell als Teil des Teams.\n\nDie Atmosphäre im Büro ist zum absoluten Großteil sehr gut. Man hat Freude daran im Büro zu sein.\n\nMan arbeitet teilweise mehr Stunden als erforderlich, allerdings nicht übermäßig.\n\nKann ich persönlich bisher leider nicht viel zu sagen.\n\nPapierloses arbeiten wird sehr geschätzt, allerdings klappt es nicht immer.\n\nKann ich persönlich leider nicht viel zu sagen, es scheint aber als wäre der Umgang mit älteren Kollegen gut und als würde man diese zu schätzen wissen.\n\nDie direkten Vorgesetzten in dem Haus sind sehr kommunikativ und nett.\n\nEs gibt regelmäßig Meeting über den aktuellen Stand in den Abteilungen.\n\nIm Büro Düsseldorf findet man ein diverses Team an Abteilungsleitern.",
+      "rating": 4.2,
+      "sections": {
+        "positive": "Sehr gute Atmosphäre und sehr nette Mitarbeiter im Haus. Man fühlt sich schnell als Teil des Teams.",
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Die Atmosphäre im Büro ist zum absoluten Großteil sehr gut. Man hat Freude daran im Büro zu sein.",
+        "workLife": "Man arbeitet teilweise mehr Stunden als erforderlich, allerdings nicht übermäßig.",
+        "career": "Kann ich persönlich bisher leider nicht viel zu sagen.",
+        "environment": "Papierloses arbeiten wird sehr geschätzt, allerdings klappt es nicht immer.",
+        "oldColleagues": "Kann ich persönlich leider nicht viel zu sagen, es scheint aber als wäre der Umgang mit älteren Kollegen gut und als würde man diese zu schätzen wissen.",
+        "leadership": "Die direkten Vorgesetzten in dem Haus sind sehr kommunikativ und nett.",
+        "communication": "Es gibt regelmäßig Meeting über den aktuellen Stand in den Abteilungen.",
+        "equality": "Im Büro Düsseldorf findet man ein diverses Team an Abteilungsleitern."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 3.0,
+        "communication": 4.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 4.0,
+        "equality": 5.0,
+        "career": 3.0,
+        "salary": 4.0,
+        "image": 4.0,
+        "environment": 3.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-04-17T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "64efc12a-93c7-4aeb-9f7b-66d7cd823409",
+      "url": "https://www.kununu.com/de/mbs-logistics/bewertung/64efc12a-93c7-4aeb-9f7b-66d7cd823409",
+      "title": "Arbeiten mit Freude – ein Unternehmen, das Innovation und Respekt vereint.",
+      "content": "Das Unternehmen hat uns von Anfang an ein hohes Maß an Professionalität und Ergebnisorientierung gezeigt. Die Führungskräfte auf allen Ebenen sind offen für den Dialog, und die Kollegen sind echte Fachleute. Die Organisation der Prozesse ist beeindruckend strukturiert, was die Arbeit im Unternehmen nicht nur produktiv, sondern auch angenehm macht.\n\nEs wurde nichts Negatives entdeckt.\n\nEs wäre großartig, wenn das Unternehmen die Entwicklung flexibler Arbeitsmodelle weiter vorantreiben würde, um die Bedürfnisse der Mitarbeiter noch besser zu berücksichtigen, sowie Weiterbildungsprogramme im Bereich neuer Technologien und Trends anzubieten, um die Mitarbeiter besser auf zukünftige Herausforderungen vorzubereiten. Insgesamt bin ich jedoch sehr zufrieden mit der Arbeitsatmosphäre und den Entwicklungsmöglichkeiten.\n\nDie Arbeitsatmosphäre ist sehr angenehm und geprägt von gegenseitigem Respekt. Man fühlt sich wohl und motiviert, jeden Tag zur Arbeit zu kommen.\n\nMBS Logistics genießt einen exzellenten Ruf sowohl in der Branche als auch bei den Kunden. Es wird als innovativ, zuverlässig und verantwortungsbewusst wahrgenommen, was auch die Mitarbeitermotivation und -bindung stärkt.\n\nDie Work-Life-Balance wird hier wirklich ernst genommen. Flexible Arbeitszeiten ermöglichen es, Beruf und Privatleben gut zu vereinbaren.\n\nEs gibt zahlreiche Möglichkeiten zur beruflichen Weiterentwicklung und Weiterbildung. Das Unternehmen unterstützt seine Mitarbeiter aktiv dabei, neue Fähigkeiten zu erwerben und ihre Karriereziele zu erreichen, sei es durch Fortbildungsprogramme oder Mentoring.\n\nDas Gehalt ist wettbewerbsfähig.\n\nDie starke Verpflichtung zu Umwelt- und Sozialfragen ist ein wesentlicher Bestandteil der Unternehmenskultur.\n\nDie Kollegen unterstützen sich gegenseitig und arbeiten wie ein Team zusammen. In einem solchen Team möchte man wachsen und neue Ziele erreichen.\n\nDer respektvolle und wertschätzende Umgang mit älteren Kollegen ist ein wichtiger Bestandteil der Unternehmenskultur. Ihre Erfahrungen und Fachkenntnisse werden hoch geschätzt, und sie werden aktiv in Entscheidungsprozesse eingebunden.\n\nDie Vorgesetzten sind immer zugänglich und unterstützen die Mitarbeiter bei ihren Aufgaben. Sie zeigen Verständnis und fördern individuelle Entwicklung der Teammitglieder und des Unternehmens als Ganzes bei.\n\nEs gibt eine angenehme Arbeitsumgebung, moderne Ausstattung und flexible Arbeitszeiten, die es den Mitarbeitern ermöglichen, ihre Aufgaben effizient und ohne Stress zu erledigen.\n\nDie Kommunikation im Unternehmen ist klar und offen. Anliegen und Fragen werden schnell und effektiv behandelt.\n\nAuf Gleichberechtigung und Chancengleichheit wird großer Wert gelegt. Unabhängig von Geschlecht, Herkunft oder anderen persönlichen Merkmalen erhalten alle Mitarbeiter die gleichen Bedingungen und Möglichkeiten zur Weiterentwicklung.\n\nDie Aufgaben sind abwechslungsreich und herausfordernd, was die Arbeit spannend und lehrreich macht, aber das ist Logistik und es kann nicht anders sein. Man bekommt die Möglichkeit, sich fachlich weiterzuentwickeln.",
+      "rating": 5.0,
+      "sections": {
+        "positive": "Das Unternehmen hat uns von Anfang an ein hohes Maß an Professionalität und Ergebnisorientierung gezeigt. Die Führungskräfte auf allen Ebenen sind offen für den Dialog, und die Kollegen sind echte Fachleute. Die Organisation der Prozesse ist beeindruckend strukturiert, was die Arbeit im Unternehmen nicht nur produktiv, sondern auch angenehm macht.",
+        "negative": "Es wurde nichts Negatives entdeckt.",
+        "suggestion": "Es wäre großartig, wenn das Unternehmen die Entwicklung flexibler Arbeitsmodelle weiter vorantreiben würde, um die Bedürfnisse der Mitarbeiter noch besser zu berücksichtigen, sowie Weiterbildungsprogramme im Bereich neuer Technologien und Trends anzubieten, um die Mitarbeiter besser auf zukünftige Herausforderungen vorzubereiten. Insgesamt bin ich jedoch sehr zufrieden mit der Arbeitsatmosphäre und den Entwicklungsmöglichkeiten."
+      },
+      "factor_comments": {
+        "atmosphere": "Die Arbeitsatmosphäre ist sehr angenehm und geprägt von gegenseitigem Respekt. Man fühlt sich wohl und motiviert, jeden Tag zur Arbeit zu kommen.",
+        "image": "MBS Logistics genießt einen exzellenten Ruf sowohl in der Branche als auch bei den Kunden. Es wird als innovativ, zuverlässig und verantwortungsbewusst wahrgenommen, was auch die Mitarbeitermotivation und -bindung stärkt.",
+        "workLife": "Die Work-Life-Balance wird hier wirklich ernst genommen. Flexible Arbeitszeiten ermöglichen es, Beruf und Privatleben gut zu vereinbaren.",
+        "career": "Es gibt zahlreiche Möglichkeiten zur beruflichen Weiterentwicklung und Weiterbildung. Das Unternehmen unterstützt seine Mitarbeiter aktiv dabei, neue Fähigkeiten zu erwerben und ihre Karriereziele zu erreichen, sei es durch Fortbildungsprogramme oder Mentoring.",
+        "salary": "Das Gehalt ist wettbewerbsfähig.",
+        "environment": "Die starke Verpflichtung zu Umwelt- und Sozialfragen ist ein wesentlicher Bestandteil der Unternehmenskultur.",
+        "teamwork": "Die Kollegen unterstützen sich gegenseitig und arbeiten wie ein Team zusammen. In einem solchen Team möchte man wachsen und neue Ziele erreichen.",
+        "oldColleagues": "Der respektvolle und wertschätzende Umgang mit älteren Kollegen ist ein wichtiger Bestandteil der Unternehmenskultur. Ihre Erfahrungen und Fachkenntnisse werden hoch geschätzt, und sie werden aktiv in Entscheidungsprozesse eingebunden.",
+        "leadership": "Die Vorgesetzten sind immer zugänglich und unterstützen die Mitarbeiter bei ihren Aufgaben. Sie zeigen Verständnis und fördern individuelle Entwicklung der Teammitglieder und des Unternehmens als Ganzes bei.",
+        "workConditions": "Es gibt eine angenehme Arbeitsumgebung, moderne Ausstattung und flexible Arbeitszeiten, die es den Mitarbeitern ermöglichen, ihre Aufgaben effizient und ohne Stress zu erledigen.",
+        "communication": "Die Kommunikation im Unternehmen ist klar und offen. Anliegen und Fragen werden schnell und effektiv behandelt.",
+        "equality": "Auf Gleichberechtigung und Chancengleichheit wird großer Wert gelegt. Unabhängig von Geschlecht, Herkunft oder anderen persönlichen Merkmalen erhalten alle Mitarbeiter die gleichen Bedingungen und Möglichkeiten zur Weiterentwicklung.",
+        "tasks": "Die Aufgaben sind abwechslungsreich und herausfordernd, was die Arbeit spannend und lehrreich macht, aber das ist Logistik und es kann nicht anders sein. Man bekommt die Möglichkeit, sich fachlich weiterzuentwickeln."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2024-12-08T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "d7ca1e21-8c77-4b0d-ab2b-d19747a03a15",
+      "url": "https://www.kununu.com/de/mbs-logistics/bewertung/d7ca1e21-8c77-4b0d-ab2b-d19747a03a15",
+      "title": "Solider & fairer Arbeitgeber",
+      "content": "",
+      "rating": 4.2,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-08-14T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "6e40b499-6631-4ab5-95c4-531c2b955f14",
+      "url": "https://www.kununu.com/de/mbs-logistics/bewertung/6e40b499-6631-4ab5-95c4-531c2b955f14",
+      "title": "Arbeitgeberbewertung",
+      "content": "",
+      "rating": 3.9,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-08-14T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "35e3ad81-d867-4661-a3da-5f243ce11afe",
+      "url": "https://www.kununu.com/de/mbs-logistics/bewertung/35e3ad81-d867-4661-a3da-5f243ce11afe",
+      "title": "Im Großen und Ganzen sehr zufrieden",
+      "content": "",
+      "rating": 4.4,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-05-20T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "d1dbfc3c-7b21-413a-8a4f-59d7b525bfbe",
+      "url": "https://www.kununu.com/de/mbs-logistics/bewertung/d1dbfc3c-7b21-413a-8a4f-59d7b525bfbe",
+      "title": "Sehr zufrieden mit Tätigkeit und Unternehmen. Tolles Team, unterstützende Führungskraft, interessante Aufgaben.",
+      "content": "",
+      "rating": 4.9,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-01-05T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    }
+  ],
+  "review_limit": 15,
+  "review_period": {
+    "since": "2024-11-25T00:00:00+00:00",
+    "until": "2026-11-25T17:15:47.590658+00:00",
+    "date_field": "published_at",
+    "missing_dates": "excluded"
+  },
+  "factor_scores_aggregated": {
+    "atmosphere": {
+      "mean": 3.67,
+      "count": 6
+    },
+    "workLife": {
+      "mean": 3.17,
+      "count": 6
+    },
+    "communication": {
+      "mean": 3.17,
+      "count": 6
+    },
+    "workConditions": {
+      "mean": 3.67,
+      "count": 6
+    },
+    "leadership": {
+      "mean": 3.33,
+      "count": 6
+    },
+    "teamwork": {
+      "mean": 3.67,
+      "count": 6
+    },
+    "oldColleagues": {
+      "mean": 3.83,
+      "count": 6
+    },
+    "equality": {
+      "mean": 3.67,
+      "count": 6
+    },
+    "career": {
+      "mean": 3.33,
+      "count": 6
+    },
+    "salary": {
+      "mean": 3.67,
+      "count": 6
+    },
+    "image": {
+      "mean": 4.17,
+      "count": 6
+    },
+    "environment": {
+      "mean": 3.5,
+      "count": 6
+    },
+    "tasks": {
+      "mean": 4.67,
+      "count": 6
+    }
+  },
+  "coverage": "bounded_employee_review_sample_last_2_years_not_all_reviews",
+  "diagnostics": {
+    "pages": [
+      {
+        "page": "reviews",
+        "page_number": 1,
+        "load_more_clicks": 0,
+        "requested_url": "https://www.kununu.com/de/mbs-logistics/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\MBS-Logistics-0396b8f9\\browser\\reviews.html",
+        "browser_step": 70,
+        "final_url": "https://www.kununu.com/de/mbs-logistics/kommentare",
+        "observed_at": "2026-11-25T17:15:49.489281+00:00",
+        "http_status": 200,
+        "factor_cards_expanded": 6,
+        "reviews_collected": 6
+      },
+      {
+        "page": "reviews",
+        "page_number": 2,
+        "load_more_clicks": 1,
+        "requested_url": "https://www.kununu.com/de/mbs-logistics/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\MBS-Logistics-0396b8f9\\browser\\reviews-2.html",
+        "browser_step": 71,
+        "final_url": "https://www.kununu.com/de/mbs-logistics/kommentare",
+        "observed_at": "2026-11-25T17:15:51.033495+00:00",
+        "actions_complete": true,
+        "factor_cards_expanded": 1,
+        "reviews_collected": 6
+      },
+      {
+        "page": "reviews",
+        "page_number": 3,
+        "load_more_clicks": 2,
+        "requested_url": "https://www.kununu.com/de/mbs-logistics/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\MBS-Logistics-0396b8f9\\browser\\reviews-3.html",
+        "browser_step": 72,
+        "final_url": "https://www.kununu.com/de/mbs-logistics/kommentare",
+        "observed_at": "2026-11-25T17:15:52.758243+00:00",
+        "actions_complete": true,
+        "reviews_collected": 9
+      },
+      {
+        "page": "reviews",
+        "page_number": 4,
+        "load_more_clicks": 3,
+        "requested_url": "https://www.kununu.com/de/mbs-logistics/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\MBS-Logistics-0396b8f9\\browser\\reviews-4.html",
+        "browser_step": 73,
+        "final_url": "https://www.kununu.com/de/mbs-logistics/kommentare",
+        "observed_at": "2026-11-25T17:15:54.676979+00:00",
+        "actions_complete": true,
+        "reviews_collected": 10
+      },
+      {
+        "page": "reviews",
+        "page_number": 5,
+        "load_more_clicks": 4,
+        "requested_url": "https://www.kununu.com/de/mbs-logistics/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\MBS-Logistics-0396b8f9\\browser\\reviews-5.html",
+        "browser_step": 74,
+        "final_url": "https://www.kununu.com/de/mbs-logistics/kommentare",
+        "observed_at": "2026-11-25T17:15:56.895075+00:00",
+        "actions_complete": true,
+        "reviews_collected": 10,
+        "status": "error",
+        "reason": "review_page_limit_reached",
+        "error": "Maximal fünf Bewertungsabrufe je Firma erreicht; Stichprobe unvollständig."
+      }
+    ]
+  },
+  "source_url": "https://www.kununu.com/de/mbs-logistics",
+  "profile_source": "https://www.kununu.com/de/mbs-logistics/kommentare",
+  "review_stop_reason": "review_page_limit_reached",
+  "reason": "review_page_limit_reached",
+  "error": "reviews: Maximal fünf Bewertungsabrufe je Firma erreicht; Stichprobe unvollständig.",
+  "factor_score_coverage": {
+    "reviews_with_scores": 6,
+    "reviews_without_scores": 4,
+    "reviews_with_all_known_scores": 6,
+    "status": "partial"
+  },
+  "request_limits": {
+    "max_browser_steps": 295,
+    "browser_steps": 74,
+    "zyte_requests": 0
+  }
+}

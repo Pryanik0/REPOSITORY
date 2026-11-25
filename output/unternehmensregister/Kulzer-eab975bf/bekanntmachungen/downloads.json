@@ -1,0 +1,56 @@
+[
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=o8E2p6dIFScyQqZN-jRj8pH2tWAInkULdGaaN1kL9lfzCU19LwHETu8gFx-r6-_RUawN-WKqQEQ1D1hQa2F1TDeunYuod1eb1BYJTS1tWNqXXp5J98CC-bt1uQCcyXKFl_xQv_ArxgrAD4Zn4l6eea0lBkGIjqlMw4LhJOnsxw7rV-Wjj-xFp0F7vve4g9LST-6_yl5Bt6E_oveRwJu5y_3PHI8eJXT8tslENzCHSokv8RE",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Kulzer-eab975bf\\bekanntmachungen\\publication-1\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Kulzer-eab975bf\\bekanntmachungen\\publication-1\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Kulzer-eab975bf\\bekanntmachungen\\publication-1\\publication.txt",
+    "index": 1,
+    "category": "bekanntmachungen",
+    "company": "Kulzer GmbH, Hanau",
+    "title": "Aufsichtsrat",
+    "documents_path": "output\\unternehmensregister\\Kulzer-eab975bf\\bekanntmachungen\\publication-1\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=ENdmrzdVUyKJaNS9bQ6SsmgafpKqsmFtCxFGXRWI3_ZmGjzcmGfQ_EYrblMXDf8_q1OEyiJgCCdZt3HzcgCJrj4wESMv-kYjK6owVc3xIx66IUGgWA_dJ7CRmmp71Pc_V3pJq2yObn-00f_AMwfw55ag22vPCEG7slEVHZlQ8IBlKbmxeo5Bek4KU2keyaPuJqmEMcoa4OrIYkUxxjhrVQ-084NYGIlD3Z1r15pPdcUxgfw",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Kulzer-eab975bf\\bekanntmachungen\\publication-2\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Kulzer-eab975bf\\bekanntmachungen\\publication-2\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Kulzer-eab975bf\\bekanntmachungen\\publication-2\\publication.txt",
+    "index": 2,
+    "category": "bekanntmachungen",
+    "company": "Kulzer GmbH, Hanau",
+    "title": "Einreichung neuer Dokumente",
+    "documents_path": "output\\unternehmensregister\\Kulzer-eab975bf\\bekanntmachungen\\publication-2\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=tQAr_0ubCP0FhXZRm3w5Ycew3gJggJuzakeaTmGPleZt4dlmiAl4RDWpGBJ2g6ywnEX6QZpYzcr2e_Z1QhWwEWOip-7FgJojOjt5qPH6WsOrv2KePwYnC02K4E7FFG1yB3Ck843QhQJB_uQviiIgpyqny6Ymm104-7K2Az5fOae6sT8gWwdCyFnjzA-0nMbfNg8uWs3ctTVVO8Z2Y4aS0xA5G5iBr9wOKZNvCrV8vuNXxNI",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Kulzer-eab975bf\\bekanntmachungen\\publication-4\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Kulzer-eab975bf\\bekanntmachungen\\publication-4\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Kulzer-eab975bf\\bekanntmachungen\\publication-4\\publication.txt",
+    "index": 4,
+    "category": "bekanntmachungen",
+    "company": "Kulzer GmbH, Hanau",
+    "title": "Aufsichtsrat",
+    "documents_path": "output\\unternehmensregister\\Kulzer-eab975bf\\bekanntmachungen\\publication-4\\documents.json"
+  }
+]

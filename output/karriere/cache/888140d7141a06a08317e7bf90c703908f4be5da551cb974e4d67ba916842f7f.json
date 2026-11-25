@@ -1,0 +1,9 @@
+{
+  "url": "https://karriere.mac-its.com/robots.txt",
+  "final_url": "https://karriere.mac-its.com/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "fetched_at": "2026-11-25T16:13:42.632359+00:00",
+  "text": "# Website Sitemap\r\nSitemap: https://karriere.mac-its.com/sitemap.xml\r\n\r\n# Crawlers Setup\r\nUser-agent: *\r\nDisallow: /typo3/\r\nDisallow: /typo3_src/\r\nAllow: /typo3/sysext/frontend/Resources/Public/*"
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=Hd7cUN9vhwrWAwGt7ATbSitQa1vj_fBwYnEgUh2aJH0n4g-A5YipmAw9MH3g_r9jWvnv16sFcCZKJYNJcrJbKmHdTtQP25DgLYdAeE4vK7D7o9wO5jiFueR1RvLyaAkkxu7fnvEir1z6omY_-aOMYYOKNZ7qrHyN_VMXIyAdefAdEC_hxX5TuevCyzoYjiUZ9KEf0nN5tCkqhSC4Nm-7CfuW4AFts23tDuhpSe064hB-UQFs",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Recor-Medical-63f8737a\\finanzberichte\\publication-1\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Recor-Medical-63f8737a\\finanzberichte\\publication-1\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Recor-Medical-63f8737a\\finanzberichte\\publication-1\\publication.txt",
+    "index": 1,
+    "category": "finanzberichte",
+    "company": "Recor Medical Europe GmbH, Frankfurt am Main",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+    "documents_path": "output\\unternehmensregister\\Recor-Medical-63f8737a\\finanzberichte\\publication-1\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=aJ8i__hvBuNWnvGIU6i2tt2E72MCDLrbV5MtHWL85xxhHz3WRh7SR5jgphcMhmyYaJdflczm7Ov-zTWdDK35MRZvJWot7j4DgN4OUPPbJBC8Vy9vvPhJKgQmeLo2-T5_i8XlLrOudFE4RCRuZs0_QP80YmZEAaYsWQKJx35q2SFb6Dx9S4DhxU99fUOlaH-6aFw-LDaVO7zCnxeyYeqnywtHesi4201_vGxFnxKLUajvTw8o",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Recor-Medical-63f8737a\\finanzberichte\\publication-2\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Recor-Medical-63f8737a\\finanzberichte\\publication-2\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Recor-Medical-63f8737a\\finanzberichte\\publication-2\\publication.txt",
+    "index": 2,
+    "category": "finanzberichte",
+    "company": "Recor Medical Europe GmbH, Frankfurt am Main",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+    "documents_path": "output\\unternehmensregister\\Recor-Medical-63f8737a\\finanzberichte\\publication-2\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=6yuBYUGdIpYeAYZlEy66TBPlvg1jP__iPfzISf2eH_u7tKKTC73nZqR-E8P1JPRaN5j6Y4DDGMM07eN_oJ8rpbjiCjBmdsYuFiYLP6HCJIv4DRMrxhUPjLchOMdesTKQkdP9jDA8RZ5h6yrBavnEqlJMLz1aQ-gX5CKxn7gBP_coi4unumC1-Ye3nX7kREts_KxApgFk5eQdP2zCWJBlTPtkXaV-9-X0Y3bPkaiR1vd2Hd_E",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Recor-Medical-63f8737a\\finanzberichte\\publication-3\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Recor-Medical-63f8737a\\finanzberichte\\publication-3\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Recor-Medical-63f8737a\\finanzberichte\\publication-3\\publication.txt",
+    "index": 3,
+    "category": "finanzberichte",
+    "company": "Recor Medical Europe GmbH, Frankfurt am Main",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+    "documents_path": "output\\unternehmensregister\\Recor-Medical-63f8737a\\finanzberichte\\publication-3\\documents.json"
+  }
+]

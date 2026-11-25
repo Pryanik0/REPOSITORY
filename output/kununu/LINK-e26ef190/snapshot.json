@@ -1,0 +1,706 @@
+{
+  "provider": "kununu",
+  "backend": "browser",
+  "status": "ok",
+  "query": "Waldemar Link GmbH & Co. KG",
+  "profile": {
+    "url": "https://www.kununu.com/de/waldemar-link",
+    "name": "WALDEMAR LINK GmbH & Co.KG",
+    "overall_score": 2.8,
+    "review_count": 197,
+    "recommendation_percent": 50,
+    "recommendation_period": "last_2_years",
+    "observed_at": "2026-11-25T17:14:08.540274+00:00"
+  },
+  "reviews": [
+    {
+      "id": "56168215-faf3-458a-a1e0-e9c2f09a2b15",
+      "url": "https://www.kununu.com/de/waldemar-link/bewertung/56168215-faf3-458a-a1e0-e9c2f09a2b15",
+      "title": "Schon ganz okay",
+      "content": "Bezahlung und Arbeitszeit ist okay.\nEs wird sich eigentlich immer ein Ohr genommen.\n\nDas viele Sachen, die sich vorgenommen werden, im Sande verlaufen.\nAußerdem missfällt mir persönlich dieser immer mehr zulegen der Augen, nur noch auf die \"Zahlen\". Das war gefühlt wesentlich \"familiärer\" damals.\n\nPrämien System könnte vielleicht angeglichen werden.\nLadesäulen für E Autos.\nZwei Mal im Jahr Betriebsversammlung.\nHierarchien Abbauen/Zusammenfassen um vielleicht Zeit beim Umsetzen zu sparen.\nVielleicht mehr Transparenz bei Gehältern (soweit das zulässig ist).\n\nMan merkt schon, dass es wesentlich anzieht, im Gegensatz zu früher. Man wird immer mehr Richtung Stückzahl gedrückt z.b.\n\nDas Image ist gefühlt nicht mehr so gut, wie damals. Aber möchte nichts falsches sagen...\n\n37,5 Stunden Woche find ich stark. Plus dann natürlich, nicht immer, aber doch oft, dass man auch kurzfristig Mal nem Tag frei bekommen kann.\n\nEs gab vor kurzen wohl sogar richtig ein Zusammenschluss von Leuten, die Konzepte zum Umweltschutz ausarbeiten etc. Da wird insgesamt wohl schon drauf geachtet. Trotzdem sind einige Entscheidungen (Konuskappen z.b.) nicht sehr Umweltfreundlich z.b.. vielleicht aber auch zu verkraften.\n\nKann ich nicht viel negatives sagen. Zumindest bei mir. Es gibt natürlich immer Mal wieder Neider/Querulanten oder so. Genauso, wie Leute mit denen man wirklich Pferde Stehlen könnte. Bei so einer großen Firma wohl normal. Insgesamt aber definitiv noch gut! Bis auf manchmal zwischen den Schichten;)\n\nBisschen komisch manchmal, was heutzutage so an Prämien für Leute da sind, die schon zig Jahre in der Firma arbeiten. Und manchmal gibt's sogar Kugelschreiber dazu.\n\nWenn man was auf dem Herzen hat, wurde sich eigentlich immer auch Zeit für einen genommen! Oder auch wenn man Mal angemerkt hat, dass sich Mal ein Vorgesetzter im Ton vergriffen hat, wurde sich dann dafür entschuldigt etc.\n\nEs ist dem Tätigkeitenbereich von mir soweit immer gut. Manchmal bisschen zu warm, manchmal bisschen zu kalt - aber bei so vielen Kollegen ist auch schwer, alle zufrieden zu stellen.\nMan darf teilweise Kühlschränke in der Nähe haben und Kaffeemaschinen gibt es auch immer in der Gegend. Unsere Maschinen gehen von alt bis neu. Solange sie aber ihre Arbeit tun, ist doch nichts auszusetzen (WENN).\n\nSo gesehen passiert da schon ordentlich was, auch wenn ich persönlich viele Sachen übertrieben finde. JEDEN Tag zu erfahren, wie es mit den Stückzahlen, Krankheiten etc aussieht, bringt einem gefühlt nichts. Ei. Mal die Woche würde ich vielleicht verstehen. Außerdem gibt es noch ein \"schwarzes Brett\", auch in digitaler Form. Und ein ziemlich informatives Intranet.\n\nDa Medizintechnik und Hamburg-Nähe glaub ich schon, dass die Bezahlung OK ist. Mehr kann man immer gebrauchen!\nWas man ändern sollte in nächstes Zeit, ist, dass Gehälter in gleichen Abteilungen angeglichen werden sollten ;)\n\nIn der Firma gibt es wirklich viele Positionen, die von Frauen besetzt sind. Also Glaube ich, das soweit alles okay ist.\n\nEigentlich durch die Bank weg viele interessante Tätigkeiten..",
+      "rating": 3.8,
+      "sections": {
+        "positive": "Bezahlung und Arbeitszeit ist okay.\nEs wird sich eigentlich immer ein Ohr genommen.",
+        "negative": "Das viele Sachen, die sich vorgenommen werden, im Sande verlaufen.\nAußerdem missfällt mir persönlich dieser immer mehr zulegen der Augen, nur noch auf die \"Zahlen\". Das war gefühlt wesentlich \"familiärer\" damals.",
+        "suggestion": "Prämien System könnte vielleicht angeglichen werden.\nLadesäulen für E Autos.\nZwei Mal im Jahr Betriebsversammlung.\nHierarchien Abbauen/Zusammenfassen um vielleicht Zeit beim Umsetzen zu sparen.\nVielleicht mehr Transparenz bei Gehältern (soweit das zulässig ist)."
+      },
+      "factor_comments": {
+        "atmosphere": "Man merkt schon, dass es wesentlich anzieht, im Gegensatz zu früher. Man wird immer mehr Richtung Stückzahl gedrückt z.b.",
+        "image": "Das Image ist gefühlt nicht mehr so gut, wie damals. Aber möchte nichts falsches sagen...",
+        "workLife": "37,5 Stunden Woche find ich stark. Plus dann natürlich, nicht immer, aber doch oft, dass man auch kurzfristig Mal nem Tag frei bekommen kann.",
+        "environment": "Es gab vor kurzen wohl sogar richtig ein Zusammenschluss von Leuten, die Konzepte zum Umweltschutz ausarbeiten etc. Da wird insgesamt wohl schon drauf geachtet. Trotzdem sind einige Entscheidungen (Konuskappen z.b.) nicht sehr Umweltfreundlich z.b.. vielleicht aber auch zu verkraften.",
+        "teamwork": "Kann ich nicht viel negatives sagen. Zumindest bei mir. Es gibt natürlich immer Mal wieder Neider/Querulanten oder so. Genauso, wie Leute mit denen man wirklich Pferde Stehlen könnte. Bei so einer großen Firma wohl normal. Insgesamt aber definitiv noch gut! Bis auf manchmal zwischen den Schichten;)",
+        "oldColleagues": "Bisschen komisch manchmal, was heutzutage so an Prämien für Leute da sind, die schon zig Jahre in der Firma arbeiten. Und manchmal gibt's sogar Kugelschreiber dazu.",
+        "leadership": "Wenn man was auf dem Herzen hat, wurde sich eigentlich immer auch Zeit für einen genommen! Oder auch wenn man Mal angemerkt hat, dass sich Mal ein Vorgesetzter im Ton vergriffen hat, wurde sich dann dafür entschuldigt etc.",
+        "workConditions": "Es ist dem Tätigkeitenbereich von mir soweit immer gut. Manchmal bisschen zu warm, manchmal bisschen zu kalt - aber bei so vielen Kollegen ist auch schwer, alle zufrieden zu stellen.\nMan darf teilweise Kühlschränke in der Nähe haben und Kaffeemaschinen gibt es auch immer in der Gegend. Unsere Maschinen gehen von alt bis neu. Solange sie aber ihre Arbeit tun, ist doch nichts auszusetzen (WENN).",
+        "communication": "So gesehen passiert da schon ordentlich was, auch wenn ich persönlich viele Sachen übertrieben finde. JEDEN Tag zu erfahren, wie es mit den Stückzahlen, Krankheiten etc aussieht, bringt einem gefühlt nichts. Ei. Mal die Woche würde ich vielleicht verstehen. Außerdem gibt es noch ein \"schwarzes Brett\", auch in digitaler Form. Und ein ziemlich informatives Intranet.",
+        "salary": "Da Medizintechnik und Hamburg-Nähe glaub ich schon, dass die Bezahlung OK ist. Mehr kann man immer gebrauchen!\nWas man ändern sollte in nächstes Zeit, ist, dass Gehälter in gleichen Abteilungen angeglichen werden sollten ;)",
+        "equality": "In der Firma gibt es wirklich viele Positionen, die von Frauen besetzt sind. Also Glaube ich, das soweit alles okay ist.",
+        "tasks": "Eigentlich durch die Bank weg viele interessante Tätigkeiten.."
+      },
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 4.0,
+        "communication": 4.0,
+        "workConditions": 4.0,
+        "leadership": 4.0,
+        "teamwork": 5.0,
+        "oldColleagues": 3.0,
+        "equality": 4.0,
+        "career": null,
+        "salary": 4.0,
+        "image": 3.0,
+        "environment": 3.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-11-16T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "de435ff5-6ade-4a50-a146-3b02131fb277",
+      "url": "https://www.kununu.com/de/waldemar-link/bewertung/de435ff5-6ade-4a50-a146-3b02131fb277",
+      "title": "Tradition vs. Digitalisierung vs. Umstrukturierung",
+      "content": "Betriebsrat, pünktliche Bezahlung, 13,5 Gehälter, Jährliche Weihnachtsfeier im großem Stil\n\nVerbesserungsvorschläge werden nicht ausreichend gehört, bzw. finden keine Anwendung, Wandel dauert sehr lange, vieles ist noch nicht digital und altmodisch\n\nMehr Transparenz im Bezug auf Produktionsziele und Umsatz, Gewinnentwicklung\n\nHoher Qualitätsanspruch\n\nWechselschichten\n\nKommt auf die Abteilung an\n\nKommt auf die Abteilung an\n\nViele Wiederholungen",
+      "rating": 2.8,
+      "sections": {
+        "positive": "Betriebsrat, pünktliche Bezahlung, 13,5 Gehälter, Jährliche Weihnachtsfeier im großem Stil",
+        "negative": "Verbesserungsvorschläge werden nicht ausreichend gehört, bzw. finden keine Anwendung, Wandel dauert sehr lange, vieles ist noch nicht digital und altmodisch",
+        "suggestion": "Mehr Transparenz im Bezug auf Produktionsziele und Umsatz, Gewinnentwicklung"
+      },
+      "factor_comments": {
+        "atmosphere": "Hoher Qualitätsanspruch",
+        "workLife": "Wechselschichten",
+        "teamwork": "Kommt auf die Abteilung an",
+        "leadership": "Kommt auf die Abteilung an",
+        "tasks": "Viele Wiederholungen"
+      },
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 2.0,
+        "communication": 3.0,
+        "workConditions": 3.0,
+        "leadership": 2.0,
+        "teamwork": 4.0,
+        "oldColleagues": 3.0,
+        "equality": 3.0,
+        "career": 2.0,
+        "salary": 3.0,
+        "image": 4.0,
+        "environment": 2.0,
+        "tasks": 3.0
+      },
+      "published_at": "2026-10-28T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "9f2727c8-b878-488d-9831-970605bd2fe0",
+      "url": "https://www.kununu.com/de/waldemar-link/bewertung/9f2727c8-b878-488d-9831-970605bd2fe0",
+      "title": "Da geht mehr",
+      "content": "Pünktliche bezahlung\n\nSchlechte Stimmung fördern\n\nMehr Gutes für die Mitarbeiter",
+      "rating": 2.2,
+      "sections": {
+        "positive": "Pünktliche bezahlung",
+        "negative": "Schlechte Stimmung fördern",
+        "suggestion": "Mehr Gutes für die Mitarbeiter"
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 2.0,
+        "workLife": 4.0,
+        "communication": 2.0,
+        "workConditions": 3.0,
+        "leadership": 1.0,
+        "teamwork": 3.0,
+        "oldColleagues": 4.0,
+        "equality": 1.0,
+        "career": 2.0,
+        "salary": 2.0,
+        "image": 2.0,
+        "environment": 1.0,
+        "tasks": 2.0
+      },
+      "published_at": "2026-09-25T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "ae002be2-a209-4bf9-97f7-7185ae97f779",
+      "url": "https://www.kununu.com/de/waldemar-link/bewertung/ae002be2-a209-4bf9-97f7-7185ae97f779",
+      "title": "Nicht gut",
+      "content": "Schlecht\n\nNaja\n\nWäre schön\n\nNegativ\n\nSchlecht\n\nNicht vorhanden\n\nFindet nicht statt\n\nSchlecht\n\nSchlecht\n\nSchlecht\n\nGar keine\n\nNormal\n\nNegativ",
+      "rating": 1.0,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Schlecht",
+        "image": "Naja",
+        "workLife": "Wäre schön",
+        "career": "Negativ",
+        "salary": "Schlecht",
+        "environment": "Nicht vorhanden",
+        "teamwork": "Findet nicht statt",
+        "oldColleagues": "Schlecht",
+        "leadership": "Schlecht",
+        "workConditions": "Schlecht",
+        "communication": "Gar keine",
+        "equality": "Normal",
+        "tasks": "Negativ"
+      },
+      "factor_scores": {
+        "atmosphere": 1.0,
+        "workLife": 1.0,
+        "communication": 1.0,
+        "workConditions": 1.0,
+        "leadership": 1.0,
+        "teamwork": 1.0,
+        "oldColleagues": 1.0,
+        "equality": 1.0,
+        "career": 1.0,
+        "salary": 1.0,
+        "image": 1.0,
+        "environment": 1.0,
+        "tasks": 1.0
+      },
+      "published_at": "2026-05-21T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "76752e6c-04a5-4a6b-a6a1-34fbcb2d11cf",
+      "url": "https://www.kununu.com/de/waldemar-link/bewertung/76752e6c-04a5-4a6b-a6a1-34fbcb2d11cf",
+      "title": "IT in den Vordergrund stellen.",
+      "content": "Investitionen werden getätigt.\n\nIT Abteilung, keine Kantine\n\nZeiterfassung verbessern. Mehr Digitalisierung wagen. IT-Themen fokussieren. Da passiert viel zu wenig.\n\nGrundsätzlich ganz gut. Die Anforderungen an die Ausbringung steigen an.\n\n37,5 Stundenwoche. Schichten sind weit im voraus geplant. Wunschschichten werden weitestgehend berücksichtigt.\n\nPünktlich. Ich bin gespannt auf die neue Entgeltstruktur und wann sie eineingeführt wird.\n\nKeine echte Mülltrennung.\n\nAlles dabei. Ein gesunder Schnitt durch die Gesellschaft. Natürlich sind nicht alle beste Freunde. Was erwartest du?\n\nAuch ältere Kolleginnen werden eingestellt und werden berücksichtigt.\n\nFair. Unangenehme Entscheidungen werden erklärt. Probleme können offen besprochen werden.\n\nMaschinenpark wird immer weiter modernisiert. Werk 3 wird aktuell ausgebaut. Dachsanierungen werden durchgeführt. Es wird also besser.\nIT Themen in der Produktion bleiben ewig liegen. Gibt es die Abteilung noch?\n\nGrundsätzlich bietet das neue Intranet jetzt eine bessere Kommunikationsmöglichkeit.\n\nFrauen und Männer werden in meiner Abteilung gleichberechtigt.\n\nGroße Produktvielfalt. Aber Aufgaben wiederholen sich mit der Zeit. Ist aber kein großer Nachteil.",
+      "rating": 4.3,
+      "sections": {
+        "positive": "Investitionen werden getätigt.",
+        "negative": "IT Abteilung, keine Kantine",
+        "suggestion": "Zeiterfassung verbessern. Mehr Digitalisierung wagen. IT-Themen fokussieren. Da passiert viel zu wenig."
+      },
+      "factor_comments": {
+        "atmosphere": "Grundsätzlich ganz gut. Die Anforderungen an die Ausbringung steigen an.",
+        "workLife": "37,5 Stundenwoche. Schichten sind weit im voraus geplant. Wunschschichten werden weitestgehend berücksichtigt.",
+        "salary": "Pünktlich. Ich bin gespannt auf die neue Entgeltstruktur und wann sie eineingeführt wird.",
+        "environment": "Keine echte Mülltrennung.",
+        "teamwork": "Alles dabei. Ein gesunder Schnitt durch die Gesellschaft. Natürlich sind nicht alle beste Freunde. Was erwartest du?",
+        "oldColleagues": "Auch ältere Kolleginnen werden eingestellt und werden berücksichtigt.",
+        "leadership": "Fair. Unangenehme Entscheidungen werden erklärt. Probleme können offen besprochen werden.",
+        "workConditions": "Maschinenpark wird immer weiter modernisiert. Werk 3 wird aktuell ausgebaut. Dachsanierungen werden durchgeführt. Es wird also besser.\nIT Themen in der Produktion bleiben ewig liegen. Gibt es die Abteilung noch?",
+        "communication": "Grundsätzlich bietet das neue Intranet jetzt eine bessere Kommunikationsmöglichkeit.",
+        "equality": "Frauen und Männer werden in meiner Abteilung gleichberechtigt.",
+        "tasks": "Große Produktvielfalt. Aber Aufgaben wiederholen sich mit der Zeit. Ist aber kein großer Nachteil."
+      },
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 4.0,
+        "leadership": 4.0,
+        "teamwork": 4.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 4.0,
+        "salary": 4.0,
+        "image": 4.0,
+        "environment": 4.0,
+        "tasks": 4.0
+      },
+      "published_at": "2026-05-14T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "78949184-5b2c-4516-823b-f146fee15fe2",
+      "url": "https://www.kununu.com/de/waldemar-link/bewertung/78949184-5b2c-4516-823b-f146fee15fe2",
+      "title": "Potenzial muss besser genutzt werden",
+      "content": "Gehalt kommt immer pünktlich\n\nKaum Weiterbildungen, keine Aufstiegschancen, teilweise respektloser Umgang\n\nWertschätzung gegenüber den Mitarbeitern",
+      "rating": 3.1,
+      "sections": {
+        "positive": "Gehalt kommt immer pünktlich",
+        "negative": "Kaum Weiterbildungen, keine Aufstiegschancen, teilweise respektloser Umgang",
+        "suggestion": "Wertschätzung gegenüber den Mitarbeitern"
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 3.0,
+        "communication": 2.0,
+        "workConditions": 4.0,
+        "leadership": 2.0,
+        "teamwork": 4.0,
+        "oldColleagues": 3.0,
+        "equality": 3.0,
+        "career": 2.0,
+        "salary": 3.0,
+        "image": 4.0,
+        "environment": 3.0,
+        "tasks": 4.0
+      },
+      "published_at": "2026-04-01T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "3ec9f781-62be-42ea-807e-2ed44a7c6535",
+      "url": "https://www.kununu.com/de/waldemar-link/bewertung/3ec9f781-62be-42ea-807e-2ed44a7c6535",
+      "title": "Besser geht immer.",
+      "content": "Die Anzahl der Gehälter und es kommt immer pünktlich.\nParkplätze vorm Werk.\n\nKeine Gute Arbeitskleidung.\n\nMehr auf die Leute hören die Tag für Tag an den Maschinen arbeiten.\nBessere Arbeitskleidung. Hosen mit besserem Schnitt, damit man sich auch\nmit bücken kann und in einigen Abteilung en werden private Sachen getragen, da die Firma keine Pullover anbietet. Nur die Arbeitskittel sind einfach zu dünn.\n\nIst gut.\n\nIst in den letzten Jahren etwas besser geworden.\n\nMüll Trennung ist nur ein Fabelwesen, existiert nicht.\n\nMal besser und mal schlechter.\n\nViele älter sind nur am meckern über alles und jeden. Und wenn man Fragen hat. Wird leider nur das mindeste gezeigt und erklärt.\n\nSehr gut.\n\nWir langsam besser.\n\nEigentlich immer das gleich, nur in anderen Größen.",
+      "rating": 2.6,
+      "sections": {
+        "positive": "Die Anzahl der Gehälter und es kommt immer pünktlich.\nParkplätze vorm Werk.",
+        "negative": "Keine Gute Arbeitskleidung.",
+        "suggestion": "Mehr auf die Leute hören die Tag für Tag an den Maschinen arbeiten.\nBessere Arbeitskleidung. Hosen mit besserem Schnitt, damit man sich auch\nmit bücken kann und in einigen Abteilung en werden private Sachen getragen, da die Firma keine Pullover anbietet. Nur die Arbeitskittel sind einfach zu dünn."
+      },
+      "factor_comments": {
+        "workLife": "Ist gut.",
+        "salary": "Ist in den letzten Jahren etwas besser geworden.",
+        "environment": "Müll Trennung ist nur ein Fabelwesen, existiert nicht.",
+        "teamwork": "Mal besser und mal schlechter.",
+        "oldColleagues": "Viele älter sind nur am meckern über alles und jeden. Und wenn man Fragen hat. Wird leider nur das mindeste gezeigt und erklärt.",
+        "leadership": "Sehr gut.",
+        "communication": "Wir langsam besser.",
+        "tasks": "Eigentlich immer das gleich, nur in anderen Größen."
+      },
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 4.0,
+        "communication": 3.0,
+        "workConditions": 3.0,
+        "leadership": 5.0,
+        "teamwork": 2.0,
+        "oldColleagues": 2.0,
+        "equality": 3.0,
+        "career": 1.0,
+        "salary": 3.0,
+        "image": 2.0,
+        "environment": 1.0,
+        "tasks": 2.0
+      },
+      "published_at": "2026-03-05T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "4d226a84-6185-459c-924b-1c9b0a9019da",
+      "url": "https://www.kununu.com/de/waldemar-link/bewertung/4d226a84-6185-459c-924b-1c9b0a9019da",
+      "title": "Mehr Schein als Sein. Der aktuelle Betriebsrat vertritt vorwiegend nur eigenne Interessen.",
+      "content": "Gehalt kommt pünklich\n\nDas Leitbild auch mal leben",
+      "rating": 2.4,
+      "sections": {
+        "positive": "Gehalt kommt pünklich",
+        "negative": null,
+        "suggestion": "Das Leitbild auch mal leben"
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 2.0,
+        "workLife": 2.0,
+        "communication": 3.0,
+        "workConditions": 2.0,
+        "leadership": 2.0,
+        "teamwork": 3.0,
+        "oldColleagues": 3.0,
+        "equality": 3.0,
+        "career": 2.0,
+        "salary": 3.0,
+        "image": null,
+        "environment": 1.0,
+        "tasks": 3.0
+      },
+      "published_at": "2026-02-19T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "ead38388-e5fa-418d-8ccd-41d5b7f86e7a",
+      "url": "https://www.kununu.com/de/waldemar-link/bewertung/ead38388-e5fa-418d-8ccd-41d5b7f86e7a",
+      "title": "Mehr Schein als sein",
+      "content": "Waldemar Link versucht neu und modern zu wirken, dabei ist der Laden sehr konservativ und eingestaubt.\n\nModernere Arbeitsplätze, Offenheit für neue Ideen/Arbeitswege\n\nDas Team selbst bezeichnet sich als toll und aufgeschlossen gegenüber neuen Kollegen. Ich musste allerdings schnell feststellen, dass ich als neue nicht erwünscht war.\n\n37,5 Wochenstunden, die man sich flexibel einteilen kann.\n\nDie Leistungen auf dem Papier stimmen.\n\nMeine Teamleitung hat sich lediglich 5min für mich Zeit genommen für eine Einführung in die Abteilung und Arbeitsweise. Nach ein paar Wochen war man dann schnell unzufrieden mit meiner Arbeitsweise, da diese nicht den Vorstellungen der Abteilung entsprach.\n\nZu niedriger Schreibtisch, der angeblich nicht verstellbar ist.",
+      "rating": 1.8,
+      "sections": {
+        "positive": null,
+        "negative": "Waldemar Link versucht neu und modern zu wirken, dabei ist der Laden sehr konservativ und eingestaubt.",
+        "suggestion": "Modernere Arbeitsplätze, Offenheit für neue Ideen/Arbeitswege"
+      },
+      "factor_comments": {
+        "atmosphere": "Das Team selbst bezeichnet sich als toll und aufgeschlossen gegenüber neuen Kollegen. Ich musste allerdings schnell feststellen, dass ich als neue nicht erwünscht war.",
+        "workLife": "37,5 Wochenstunden, die man sich flexibel einteilen kann.",
+        "salary": "Die Leistungen auf dem Papier stimmen.",
+        "leadership": "Meine Teamleitung hat sich lediglich 5min für mich Zeit genommen für eine Einführung in die Abteilung und Arbeitsweise. Nach ein paar Wochen war man dann schnell unzufrieden mit meiner Arbeitsweise, da diese nicht den Vorstellungen der Abteilung entsprach.",
+        "workConditions": "Zu niedriger Schreibtisch, der angeblich nicht verstellbar ist."
+      },
+      "factor_scores": {
+        "atmosphere": 1.0,
+        "workLife": 5.0,
+        "communication": 1.0,
+        "workConditions": 1.0,
+        "leadership": 2.0,
+        "teamwork": 1.0,
+        "oldColleagues": 2.0,
+        "equality": 2.0,
+        "career": 1.0,
+        "salary": 4.0,
+        "image": 2.0,
+        "environment": 1.0,
+        "tasks": 1.0
+      },
+      "published_at": "2026-01-09T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "f335d5d0-ec26-4485-83cd-452d93fee723",
+      "url": "https://www.kununu.com/de/waldemar-link/bewertung/f335d5d0-ec26-4485-83cd-452d93fee723",
+      "title": "Es hat sich einiges getan",
+      "content": "Gehalt pünktlich, Kollegen zusammen, mobiles arbeiten. Schwer, alles in Worte zu fassen.\n\nWertschätzung leben. Hier bleibt man ein wenig auf der Strecke. Weiter an der internen Kommunikation arbeiten.\n\nInnerhalb der Verwaltung ist die Stimmung gut.\n\n2 Tage die Woche mobiles arbeiten möglich, 37,5 Stunden Wochenarbeitszeit, Gleitzeit.\n\nGeht bestimmt besser, aber auch auf alle Fälle schlechter. Gehalt kommt extrem pünktlich. Gehaltserhöhung als Wertschätzung halte ich für sehr motivierend.\n\nWird immer mehr drauf geachtet.\n\nSehr gut. Man unterstützt sich gegenseitig, auch abteilungsübergreifend.\n\nSehr gut. Jederzeit ansprechbar.\n\nIst o.k. nichts besonderes\n\nIst schon viel besser geworden, allerdings könnte die Kommunikation noch etwas verbessert werden, da häufig \"nur\" an die Führungskräfte kommuniziert aber von dort nicht immer weiter gegeben wird.\n\nSehr vielseitig, aber auch immer wiederkehrende Aufgaben. Man weiß nie, was am Tag rein kommt.",
+      "rating": 4.6,
+      "sections": {
+        "positive": "Gehalt pünktlich, Kollegen zusammen, mobiles arbeiten. Schwer, alles in Worte zu fassen.",
+        "negative": null,
+        "suggestion": "Wertschätzung leben. Hier bleibt man ein wenig auf der Strecke. Weiter an der internen Kommunikation arbeiten."
+      },
+      "factor_comments": {
+        "atmosphere": "Innerhalb der Verwaltung ist die Stimmung gut.",
+        "workLife": "2 Tage die Woche mobiles arbeiten möglich, 37,5 Stunden Wochenarbeitszeit, Gleitzeit.",
+        "salary": "Geht bestimmt besser, aber auch auf alle Fälle schlechter. Gehalt kommt extrem pünktlich. Gehaltserhöhung als Wertschätzung halte ich für sehr motivierend.",
+        "environment": "Wird immer mehr drauf geachtet.",
+        "teamwork": "Sehr gut. Man unterstützt sich gegenseitig, auch abteilungsübergreifend.",
+        "leadership": "Sehr gut. Jederzeit ansprechbar.",
+        "workConditions": "Ist o.k. nichts besonderes",
+        "communication": "Ist schon viel besser geworden, allerdings könnte die Kommunikation noch etwas verbessert werden, da häufig \"nur\" an die Führungskräfte kommuniziert aber von dort nicht immer weiter gegeben wird.",
+        "tasks": "Sehr vielseitig, aber auch immer wiederkehrende Aufgaben. Man weiß nie, was am Tag rein kommt."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 4.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 3.0,
+        "salary": 5.0,
+        "image": 3.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-09-15T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "3f74c8ec-e546-4a4b-8b79-f67fb01d1494",
+      "url": "https://www.kununu.com/de/waldemar-link/bewertung/3f74c8ec-e546-4a4b-8b79-f67fb01d1494",
+      "title": "Guter Arbeitgeber mit Potenzial zur Entwicklung",
+      "content": "Regelmäßigere Informationen durch das Top-Management ausserhalb der Betriebsversammlung wären super. Gab es mal, ist aber eingeschlafen.\n\nHier ist jeder selbst verantwortlich\n\nVerbesserungswürdig, wenn es um das Top-Management geht",
+      "rating": 4.3,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": "Regelmäßigere Informationen durch das Top-Management ausserhalb der Betriebsversammlung wären super. Gab es mal, ist aber eingeschlafen."
+      },
+      "factor_comments": {
+        "workLife": "Hier ist jeder selbst verantwortlich",
+        "communication": "Verbesserungswürdig, wenn es um das Top-Management geht"
+      },
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 4.0,
+        "communication": 4.0,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": 4.0,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-09-15T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "24fcf305-7717-4c1f-81c0-9485e9343d14",
+      "url": "https://www.kununu.com/de/waldemar-link/bewertung/24fcf305-7717-4c1f-81c0-9485e9343d14",
+      "title": "Arbeitsklima belastet durch schlechte Kommunikation und Führung",
+      "content": "Der Vorarbeiter ist respektvoll und unterstützt das Team. Außerdem gibt es viele Kollegen, mit denen die Zusammenarbeit angenehm und hilfsbereit ist.\n\nDie Bezahlung ist im Verhältnis zu Erfahrung und Verantwortung teilweise nicht ausgewogen. Zwischen den Abteilungen fehlt es an klarer und strukturierter Kommunikation, was zusätzlichen Aufwand verursacht. Außerdem ist das Verhalten mancher Führungskräfte problematisch. Fehlende Wertschätzung und ein teils unangemessener Umgang führen dazu, dass einige Mitarbeiter über eine Kündigung nachdenken oder das Unternehmen bereits verlassen.\n\nMehr Transparenz und Offenheit in der Kommunikation sowie ein respektvollerer Umgang würden das Arbeitsklima deutlich verbessern. Führungskräfte sollten stärker auf die Mitarbeiter eingehen, konstruktives Feedback fördern und Konflikte aktiv ansprechen. Zudem wäre es sinnvoll, erfahrene Mitarbeiter mehr einzubeziehen und ihre Kenntnisse stärker zu nutzen. Auch Maßnahmen für Nachhaltigkeit, etwa Mülltrennung oder Investitionen in erneuerbare Energien, könnten das Unternehmen langfristig voranbringen.\n\nDie Stimmung im Team ist derzeit sehr angespannt. Der Zusammenhalt könnte deutlich besser sein, da Zusammenarbeit oft von Misstrauen und internen Spannungen überschattet wird. Teilweise entsteht der Eindruck von starker Kontrolle, was das Vertrauen beeinträchtigt und die Motivation hemmt.\n\nDie Work-Life-Balance ist insgesamt sehr gut. Bei der Schichtplanung wird in den meisten Fällen Rücksicht auf private Situationen genommen, sodass sich meist eine passende Lösung findet. In der Regel kommt man so zu einem positiven Ergebnis.\n\nIn Bezug auf Nachhaltigkeit gibt es noch deutliches Verbesserungspotenzial. Müll wird aktuell nicht getrennt, und auch Initiativen in Richtung erneuerbare Energien, wie etwa Solaranlagen, sind bislang nicht erkennbar. Ein stärkeres Engagement in diesen Bereichen wäre wünschenswert.\n\nEs gibt gelegentlich Schulungen, die man mitnehmen kann. Diese bieten eine gewisse Möglichkeit zur Weiterbildung, könnten aber häufiger und gezielter stattfinden.\n\nEs gibt viele Kollegen, mit denen die Zusammenarbeit angenehm ist und die jederzeit hilfsbereit sind. Der Austausch in solchen Teams verläuft meist konstruktiv. Allerdings gibt es auch einzelne Mitarbeiter, die eher negativ auftreten, andere schlechtreden oder für Spannungen sorgen. Man kann da schon von Mobbing reden. Leider greifen die Führungskräfte in solchen Situationen selten aktiv ein, wodurch Konflikte oft bestehen bleiben.\n\nDer direkte Vorarbeiter tritt in der Regel positiv und unterstützend auf. Im Umgang mit der höheren Führungsebene fehlt es jedoch teilweise an Wertschätzung und Rücksichtnahme. In einzelnen Situationen kommt es zu einem rauen Tonfall oder unangemessener Lautstärke, was das Arbeitsklima belastet.\n\nDie allgemeine Moral im Unternehmen ist derzeit sehr niedrig. Kompetente Mitarbeiter fühlen sich nicht ausreichend einbezogen, stattdessen entsteht der Eindruck von Misstrauen und Kontrolle. Konstruktive Verbesserungsvorschläge finden selten Gehör, was das Engagement und die Motivation deutlich hemmt.\n\nDer direkte Austausch mit dem Vorarbeiter ist angenehm . Er verhält sich respektvoll und unterstützt die Mitarbeitenden. Zwischen den Abteilungen gibt es jedoch deutliche Reibungen. Informationen gehen oft verloren oder werden nicht rechtzeitig weitergegeben, sodass man viel nachfragen und organisatorisch hin- und herlaufen muss. Das erschwert die Abläufe und kostet zusätzliche Zeit.\n\nIn Bezug auf die Bezahlung gibt es teilweise große Unterschiede. Neu eingestellte Mitarbeiter erhalten mitunter ein höheres Gehalt als langjährig Beschäftigte mit mehr Erfahrung. Das sorgt bei einigen für Unzufriedenheit und hat bereits dazu geführt, dass Kollegen über Kündigungen nachdenken oder das Unternehmen verlassen haben.\n\nGrundsätzlich gibt es viele faire Strukturen, allerdings kommt es in einzelnen Fällen vor, dass neue, noch unerfahrene Mitarbeiter bevorzugt werden, während erfahrene Kollegen weniger Beachtung finden. Das sorgt teilweise für Unzufriedenheit, betrifft jedoch nicht alle Bereiche oder Situationen.\n\nDie Aufgaben sind je nach Einsatzbereich sehr unterschiedlich. In manchen Bereichen wiederholen sich Tätigkeiten stark, was mit der Zeit eintönig sein kann. An anderen Stellen gibt es jedoch abwechslungsreiche und produktive Aufgaben, die die Arbeit interessanter machen.",
+      "rating": 2.5,
+      "sections": {
+        "positive": "Der Vorarbeiter ist respektvoll und unterstützt das Team. Außerdem gibt es viele Kollegen, mit denen die Zusammenarbeit angenehm und hilfsbereit ist.",
+        "negative": "Die Bezahlung ist im Verhältnis zu Erfahrung und Verantwortung teilweise nicht ausgewogen. Zwischen den Abteilungen fehlt es an klarer und strukturierter Kommunikation, was zusätzlichen Aufwand verursacht. Außerdem ist das Verhalten mancher Führungskräfte problematisch. Fehlende Wertschätzung und ein teils unangemessener Umgang führen dazu, dass einige Mitarbeiter über eine Kündigung nachdenken oder das Unternehmen bereits verlassen.",
+        "suggestion": "Mehr Transparenz und Offenheit in der Kommunikation sowie ein respektvollerer Umgang würden das Arbeitsklima deutlich verbessern. Führungskräfte sollten stärker auf die Mitarbeiter eingehen, konstruktives Feedback fördern und Konflikte aktiv ansprechen. Zudem wäre es sinnvoll, erfahrene Mitarbeiter mehr einzubeziehen und ihre Kenntnisse stärker zu nutzen. Auch Maßnahmen für Nachhaltigkeit, etwa Mülltrennung oder Investitionen in erneuerbare Energien, könnten das Unternehmen langfristig voranbringen."
+      },
+      "factor_comments": {
+        "atmosphere": "Die Stimmung im Team ist derzeit sehr angespannt. Der Zusammenhalt könnte deutlich besser sein, da Zusammenarbeit oft von Misstrauen und internen Spannungen überschattet wird. Teilweise entsteht der Eindruck von starker Kontrolle, was das Vertrauen beeinträchtigt und die Motivation hemmt.",
+        "workLife": "Die Work-Life-Balance ist insgesamt sehr gut. Bei der Schichtplanung wird in den meisten Fällen Rücksicht auf private Situationen genommen, sodass sich meist eine passende Lösung findet. In der Regel kommt man so zu einem positiven Ergebnis.",
+        "environment": "In Bezug auf Nachhaltigkeit gibt es noch deutliches Verbesserungspotenzial. Müll wird aktuell nicht getrennt, und auch Initiativen in Richtung erneuerbare Energien, wie etwa Solaranlagen, sind bislang nicht erkennbar. Ein stärkeres Engagement in diesen Bereichen wäre wünschenswert.",
+        "career": "Es gibt gelegentlich Schulungen, die man mitnehmen kann. Diese bieten eine gewisse Möglichkeit zur Weiterbildung, könnten aber häufiger und gezielter stattfinden.",
+        "teamwork": "Es gibt viele Kollegen, mit denen die Zusammenarbeit angenehm ist und die jederzeit hilfsbereit sind. Der Austausch in solchen Teams verläuft meist konstruktiv. Allerdings gibt es auch einzelne Mitarbeiter, die eher negativ auftreten, andere schlechtreden oder für Spannungen sorgen. Man kann da schon von Mobbing reden. Leider greifen die Führungskräfte in solchen Situationen selten aktiv ein, wodurch Konflikte oft bestehen bleiben.",
+        "leadership": "Der direkte Vorarbeiter tritt in der Regel positiv und unterstützend auf. Im Umgang mit der höheren Führungsebene fehlt es jedoch teilweise an Wertschätzung und Rücksichtnahme. In einzelnen Situationen kommt es zu einem rauen Tonfall oder unangemessener Lautstärke, was das Arbeitsklima belastet.",
+        "workConditions": "Die allgemeine Moral im Unternehmen ist derzeit sehr niedrig. Kompetente Mitarbeiter fühlen sich nicht ausreichend einbezogen, stattdessen entsteht der Eindruck von Misstrauen und Kontrolle. Konstruktive Verbesserungsvorschläge finden selten Gehör, was das Engagement und die Motivation deutlich hemmt.",
+        "communication": "Der direkte Austausch mit dem Vorarbeiter ist angenehm . Er verhält sich respektvoll und unterstützt die Mitarbeitenden. Zwischen den Abteilungen gibt es jedoch deutliche Reibungen. Informationen gehen oft verloren oder werden nicht rechtzeitig weitergegeben, sodass man viel nachfragen und organisatorisch hin- und herlaufen muss. Das erschwert die Abläufe und kostet zusätzliche Zeit.",
+        "salary": "In Bezug auf die Bezahlung gibt es teilweise große Unterschiede. Neu eingestellte Mitarbeiter erhalten mitunter ein höheres Gehalt als langjährig Beschäftigte mit mehr Erfahrung. Das sorgt bei einigen für Unzufriedenheit und hat bereits dazu geführt, dass Kollegen über Kündigungen nachdenken oder das Unternehmen verlassen haben.",
+        "equality": "Grundsätzlich gibt es viele faire Strukturen, allerdings kommt es in einzelnen Fällen vor, dass neue, noch unerfahrene Mitarbeiter bevorzugt werden, während erfahrene Kollegen weniger Beachtung finden. Das sorgt teilweise für Unzufriedenheit, betrifft jedoch nicht alle Bereiche oder Situationen.",
+        "tasks": "Die Aufgaben sind je nach Einsatzbereich sehr unterschiedlich. In manchen Bereichen wiederholen sich Tätigkeiten stark, was mit der Zeit eintönig sein kann. An anderen Stellen gibt es jedoch abwechslungsreiche und produktive Aufgaben, die die Arbeit interessanter machen."
+      },
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-09-11T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "0e294dbe-fe76-47d4-b913-7f5b021fdfbf",
+      "url": "https://www.kununu.com/de/waldemar-link/bewertung/0e294dbe-fe76-47d4-b913-7f5b021fdfbf",
+      "title": "Immer schlimmer",
+      "content": "Der Kaffee schmeckt zwar nicht, aber er ist sehr günstig\n\nVom hohen Ross steigen und die Mitarbeiter anfangen wertzuschätzen\n\nDa von oben immer mehr Druck kommt und die Arbeit in keinster Weise wertgeschätzt wird, ist die Stimmung unter den Kollegen mittlerweile durch Frust schlecht\n\nUnter durchschnittlich und nicht tarifgebunden.\n\nNach 40 Jahren gibt es einmalig 5 Tage Sonderurlaub. Mehr braucht man dazu nicht sagen.\n\nVeraltete Strukturen\n\nKommt auf das Werk an. Je höher die Zahl des Werks, desto schlechter wird's\n\nWird sich alles angehört, aber nichts ernstgenommen\n\nEs wird mit zweierlei Maß gemessen",
+      "rating": 1.8,
+      "sections": {
+        "positive": "Der Kaffee schmeckt zwar nicht, aber er ist sehr günstig",
+        "negative": null,
+        "suggestion": "Vom hohen Ross steigen und die Mitarbeiter anfangen wertzuschätzen"
+      },
+      "factor_comments": {
+        "atmosphere": "Da von oben immer mehr Druck kommt und die Arbeit in keinster Weise wertgeschätzt wird, ist die Stimmung unter den Kollegen mittlerweile durch Frust schlecht",
+        "salary": "Unter durchschnittlich und nicht tarifgebunden.",
+        "oldColleagues": "Nach 40 Jahren gibt es einmalig 5 Tage Sonderurlaub. Mehr braucht man dazu nicht sagen.",
+        "leadership": "Veraltete Strukturen",
+        "workConditions": "Kommt auf das Werk an. Je höher die Zahl des Werks, desto schlechter wird's",
+        "communication": "Wird sich alles angehört, aber nichts ernstgenommen",
+        "equality": "Es wird mit zweierlei Maß gemessen"
+      },
+      "factor_scores": {
+        "atmosphere": 1.0,
+        "workLife": 3.0,
+        "communication": 1.0,
+        "workConditions": 2.0,
+        "leadership": 1.0,
+        "teamwork": 2.0,
+        "oldColleagues": 1.0,
+        "equality": 1.0,
+        "career": 1.0,
+        "salary": 2.0,
+        "image": 2.0,
+        "environment": 3.0,
+        "tasks": 3.0
+      },
+      "published_at": "2025-09-02T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "e590339d-65bb-4707-9739-9483a73471d4",
+      "url": "https://www.kununu.com/de/waldemar-link/bewertung/e590339d-65bb-4707-9739-9483a73471d4",
+      "title": "Geht es auch besser als in Werk 2?",
+      "content": "Der Kaffee ist günstig und das Gehalt kommt am Monatsende pünktlich.\n\nWurden oben schon genannt.\n\nVerbesserung in der Kommunikation, schnelle Umsetzung der Gehaltsstruktur,\nDigitalisierung vorantreiben,\nFeedback für Führungskräfte (Mitarbeiter beurteilen den Vorgesetzten) einführen.\n\nDie Arbeitsatmosphäre hat sich in den letzten Monaten, nach dem Wechsel des Vorgesetzten, signifikant verschlechtert.\n\nWelche Weiterbildung?\n\nUngleiche Behandlung der Mitarbeiter bei dem Thema Schichtarbeit. Mit der Genehmigung des Vorgesetzten können einige Mitarbeiter nur Frühschicht gehen wohingegen die anderen sich weiterhin mit der 3-Schicht plagen müssen.\n\nIm Sommer sind in der Halle schon mal 35 Grad Celsius möglich. Aber der Kaffee ist ja günstig und ein Wasserspender ist vorhanden.\n\nBuschtrommel und Gerüchteküche.\n\nKeine Gehaltsstruktur. Neuankömmlinge fangen teilweise mit einem höheren Gehalt an als langjährige Mitarbeiter.",
+      "rating": 1.8,
+      "sections": {
+        "positive": "Der Kaffee ist günstig und das Gehalt kommt am Monatsende pünktlich.",
+        "negative": "Wurden oben schon genannt.",
+        "suggestion": "Verbesserung in der Kommunikation, schnelle Umsetzung der Gehaltsstruktur,\nDigitalisierung vorantreiben,\nFeedback für Führungskräfte (Mitarbeiter beurteilen den Vorgesetzten) einführen."
+      },
+      "factor_comments": {
+        "atmosphere": "Die Arbeitsatmosphäre hat sich in den letzten Monaten, nach dem Wechsel des Vorgesetzten, signifikant verschlechtert.",
+        "career": "Welche Weiterbildung?",
+        "leadership": "Ungleiche Behandlung der Mitarbeiter bei dem Thema Schichtarbeit. Mit der Genehmigung des Vorgesetzten können einige Mitarbeiter nur Frühschicht gehen wohingegen die anderen sich weiterhin mit der 3-Schicht plagen müssen.",
+        "workConditions": "Im Sommer sind in der Halle schon mal 35 Grad Celsius möglich. Aber der Kaffee ist ja günstig und ein Wasserspender ist vorhanden.",
+        "communication": "Buschtrommel und Gerüchteküche.",
+        "salary": "Keine Gehaltsstruktur. Neuankömmlinge fangen teilweise mit einem höheren Gehalt an als langjährige Mitarbeiter."
+      },
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-08-24T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "26201ecb-8b67-4553-9353-d550358baea9",
+      "url": "https://www.kununu.com/de/waldemar-link/bewertung/26201ecb-8b67-4553-9353-d550358baea9",
+      "title": "Tip Top",
+      "content": "Work life balance\n\nGanze Abteilungen im Homeoffice oder Krank.Das kann nicht funktionieren.\n\nArbeitssicherheit verbessern, unbedingt investieren",
+      "rating": 3.6,
+      "sections": {
+        "positive": "Work life balance",
+        "negative": "Ganze Abteilungen im Homeoffice oder Krank.Das kann nicht funktionieren.",
+        "suggestion": "Arbeitssicherheit verbessern, unbedingt investieren"
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-08-05T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    }
+  ],
+  "review_limit": 15,
+  "review_period": {
+    "since": "2024-11-25T00:00:00+00:00",
+    "until": "2026-11-25T17:14:06.366015+00:00",
+    "date_field": "published_at",
+    "missing_dates": "excluded"
+  },
+  "factor_scores_aggregated": {
+    "atmosphere": {
+      "mean": 2.67,
+      "count": 12
+    },
+    "workLife": {
+      "mean": 3.5,
+      "count": 12
+    },
+    "communication": {
+      "mean": 2.75,
+      "count": 12
+    },
+    "workConditions": {
+      "mean": 2.91,
+      "count": 11
+    },
+    "leadership": {
+      "mean": 2.64,
+      "count": 11
+    },
+    "teamwork": {
+      "mean": 3.09,
+      "count": 11
+    },
+    "oldColleagues": {
+      "mean": 2.91,
+      "count": 11
+    },
+    "equality": {
+      "mean": 2.82,
+      "count": 11
+    },
+    "career": {
+      "mean": 1.9,
+      "count": 10
+    },
+    "salary": {
+      "mean": 3.09,
+      "count": 11
+    },
+    "image": {
+      "mean": 2.82,
+      "count": 11
+    },
+    "environment": {
+      "mean": 2.27,
+      "count": 11
+    },
+    "tasks": {
+      "mean": 3.0,
+      "count": 11
+    }
+  },
+  "coverage": "bounded_employee_review_sample_last_2_years_not_all_reviews",
+  "diagnostics": {
+    "pages": [
+      {
+        "page": "reviews",
+        "page_number": 1,
+        "load_more_clicks": 0,
+        "requested_url": "https://www.kununu.com/de/waldemar-link/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\LINK-e26ef190\\browser\\reviews.html",
+        "browser_step": 18,
+        "final_url": "https://www.kununu.com/de/waldemar-link/kommentare",
+        "observed_at": "2026-11-25T17:14:08.017840+00:00",
+        "http_status": 200,
+        "factor_cards_expanded": 4,
+        "reviews_collected": 10
+      },
+      {
+        "page": "reviews",
+        "page_number": 2,
+        "load_more_clicks": 1,
+        "requested_url": "https://www.kununu.com/de/waldemar-link/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\LINK-e26ef190\\browser\\reviews-2.html",
+        "browser_step": 19,
+        "final_url": "https://www.kununu.com/de/waldemar-link/kommentare",
+        "observed_at": "2026-11-25T17:14:09.702287+00:00",
+        "actions_complete": true,
+        "factor_cards_expanded": 2,
+        "reviews_collected": 15
+      }
+    ]
+  },
+  "source_url": "https://www.kununu.com/de/waldemar-link",
+  "profile_source": "https://www.kununu.com/de/waldemar-link/kommentare",
+  "review_stop_reason": "sample_limit_reached",
+  "factor_score_coverage": {
+    "reviews_with_scores": 12,
+    "reviews_without_scores": 3,
+    "reviews_with_all_known_scores": 9,
+    "status": "partial"
+  },
+  "request_limits": {
+    "max_browser_steps": 295,
+    "browser_steps": 19,
+    "zyte_requests": 0
+  },
+  "reason": null
+}

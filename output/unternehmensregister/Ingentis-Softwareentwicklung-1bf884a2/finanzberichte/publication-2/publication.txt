@@ -1,0 +1,447 @@
+INGENTIS Softwareentwicklung GmbH — Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024
+INGENTIS Softwareentwicklung GmbH
+
+Nürnberg
+
+Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024
+
+Lagebericht für das Geschäftsjahr 2024
+
+A. Darstellung des Geschäftsverlaufs
+
+1. Entwicklung von Gesamtwirtschaft und Branche
+
+Das Jahr 2024 war weltweit geprägt durch erhöhte Unsicherheit aufgrund von Inflation, geopolitischen Spannungen und Konflikte. Die in Europa erwartete Energiekrise und schwere Auswirkungen der Probleme der Silicon Valley Bank und der Credit Suisse auf den Bankensektor blieben jedoch ebenso aus, wie die befürchtete Rezession in den USA. In Summe wird das Wachstum der Weltwirtschaft in 2024 wieder um 3,2% (Vorjahr 3,1%; Quelle: statista.de), in der EU um +0,8% geschätzt. Deutschland dagegen verzeichnete in 2024 ein Minus von 0,2% ggü dem Vorjahr.
+
+Aufgrund der globalen Trends in den Bereichen Demografischer Wandel, De-Karbonisierung, Digitalisierung und De-Globalisierung ist der Druck auf Unternehmen, ihr Business Modell zukunftssicher zu machen und zeitgleich die Prozesse effizienter zu gestalten, weiterhin groß. Davon profitiert der HR-Softwaremarkt insbesondere für Anbieter, die die digitale Transformation unterstützen. Entsprechend sind die Aussichten im HR-Umfeld weiterhin sehr positiv, was auch die Herbststudie des Wirtschaftsinstituts Wolfgang Witte belegt.
+
+2. Umsatz, Auftragslage und Auftragsentwicklung
+
+a) Umsatz und Auftragslage
+
+Durch einen weiteren Ausbau und Professionalisierung unserer Sales- und Marketing-Aktivitäten konnten wir sowohl Sichtbarkeit und Kundenanfragen als auch Auftragseingang deutlich steigern. Es wurde ein Umsatzwachstum von 7% erzielt (Prognose aus dem Vorjahr: zweistellig). Ursächlich für die Unterschreitung der Prognose im Geschäftsjahr war die Ausgliederung des Kanzlei-Geschäfts in eine eigene Gesellschaft (Kanzlei.Suite GmbH). Auch die gute Auftragslage, das Jahresendgeschäft in Q4/2024 betreffend, wird uns positiv ins Jahr 2025 begleiten.
+
+b) Produktpolitik
+
+In 2024 lag der Fokus auf der Entwicklung von Modulen als Hebel zur Skalierung des Software-Portfolios, um so den Kunden aktuell noch schnellere und umfassendere Analysen zu ermöglichen, damit diese ihre Strukturen, Herausforderungen und Opportunitäten transparent analysieren und die Konzeption und Umsetzung ihrer künftigen Aufstellung einleiten können. Dies ist insbesondere für mittelständische und Großunternehmen interessant, da sie aufgrund ihrer globalen Aufstellungen verbunden mit fragmentierten Systemarchitekturen hier häufig vor großen Herausforderungen stehen.
+
+3. Investitionen
+
+Während des Geschäftsjahres 2024 haben wir kontinuierlich in den Ausbau unserer Modul-Erweiterung investiert. Beispielhaft können Transformationsprozesse oder Post-Merger-Integration simuliert und in verschiedenen Szenarien und Milestone-Pläne dargestellt werden. Zudem wurden verschiedene Boards für unterschiedliche Hierarchie-Ebenen und Business-Bereicht designed, die je nach Anforderungen des Kunden komfortabel und ohne Code-Eingriff konfiguriert & ausgeliefert werden können.
+
+4. Personal- und Sozialbereich
+
+Die Mitarbeiterzahl ist im Geschäftsjahr 2024 deutlich ausgebaut worden. Wir beschäftigten im Geschäftsjahr 2024 im Durchschnitt betriebswirtschaftlich 103,5 (i.V. 96) Mitarbeiter, inklusive Aushilfen und Teilzeitkräften.
+
+B. Darstellung der Lage
+
+Bei dem Lagebericht in der vorliegenden Form handelt es sich um eine geänderte Fassung. Es haben sich folgende Änderungen ergeben:
+
+Die Eigenkapitalrentabilität hat sich von 172 % auf 158 % verringert.
+
+Der Netto-Cash-Flow hat sich von TEUR 4.250 auf TEUR 3.911.
+
+Das Jahresergebnis vor Gewinnabführung hat sich von TEUR 4.079 auf TEUR 3.738 reduziert.
+
+Bei dem Lagebericht in der vorliegenden Form handelt es sich um eine geänderte Fassung. Es haben sich folgende Änderungen ergeben:
+
+Die Eigenkapitalrentabilität hat sich von 129 % auf 118 % verringert.
+
+Der Netto-Cash-Flow hat sich von TEUR 3.216 auf TEUR 2.877 verringert.
+
+Das Jahresergebnis vor Gewinnabführung hat sich von TEUR 2.839 auf TEUR 2.597 reduziert.
+
+1. Vermögenslage
+
+Die Eigenkapitalrentabilität (Jahresüberschuss vor Ergebnisabführung * 100 durch Eigenkapital) beträgt 158 % (i. V.118 %). Bereits seit dem Geschäftsjahr 2022 wurden selbstgeschaffene Wirtschaftsgüter bilanziert. Zum einen im Geschäftsfeld Ingentis org.manager, zum anderen auch für das Kanzlei-Geschäft. Die Ingentis Softwareentwicklung GmbH verfügt über kein langfristiges Fremdkapital.
+
+2. Finanzlage
+
+Der Netto-Cash-Flow (Jahresüberschuss vor Ergebnisabführung plus Abschreibungen) beträgt TEUR 3.911 (i.V. TEUR 2.877). Die Liquidität war aufgrund der langfristigen Finanzplanung voll gegeben. Unser Finanzmanagement nutzt ein Rechnungsstellungstool mit integriertem Forderungsmanagement und führt den Zahllauf mit DATEV durch.
+
+2. Ertragslage
+
+Die Ertragslage wird primär durch unseren monatlich wiederkehrenden Mietumsatz bestimmt. Dieser bestimmt sich durch Nutzeranzahl * Preis. Die Ertragslage hat die Erwartungen übertroffen. Es entstand ein Jahresergebnis vor Gewinnabführung in Höhe von TEUR 3.738 (i.V. TEUR 2.597). Die Aufwendungen sind in Relation zur Gesamtleistungen als relativ stabil einzustufen.
+
+C. Voraussichtliche Entwicklung sowie wesentliche Chancen und Risiken der künftigen Entwicklung
+
+1. Voraussichtliche Entwicklung
+
+Die kontinuierliche Weiterentwicklung unserer Softwarelösung entlang von Kundenbedürfnissen wird es uns ermöglichen, auch weiterhin nachhaltig am Markt positiv zu agieren. Das weltweite Marktumfeld scheint sich aus heutiger Sicht auch im Jahr 2025 weiterhin positiv fortzusetzen.
+
+2. Wesentliche Chancen
+
+Die Erweiterung unserer Software um weitere substanzielle Zusatzfunktionalitäten und Module ermöglicht es uns zukünftig, diese gesondert zu bepreisen, was zu einem Mehrumsatz führen sollte. Die Anwendung der Software auf unterschiedliche Lebenszyklus- und Unternehmensphasen (Restrukturierung, Wachstum, Merger, etc.) machen Portfolio und Geschäft robust gegen wirtschaftliche Hochs und Tiefs.
+
+3. Geschäftsrisiko
+
+Die Softwarebranche ist durch eine hohe Innovationskraft mit kurzen Entwicklungszyklen gekennzeichnet. Hierbei ist es aufgrund begrenzter Entwicklungskapazitäten wichtig, die richtige Priorisierung zu treffen, um Wettbewerbsnachteile zu vermeiden. Direkte Auswirkungen aufgrund des Ukraine-Krieges und des Nahost-Konflikts gibt es aktuell keine nennenswerten. Allerdings nehmen die Insolvenzen in Europa wieder zu, zudem befinden sie viele Unternehmen in einem Transformationsprozess, bei dem die Software optimal unterstützt, aber aufgrund von Budgetrestriktionen eventuell nicht mehr so einfach freigegeben werden. Ein potenzielles Risiko für einen Anbieter einer cloud-basierten Softwarelösung sind Cyber Security Angriffe, die vorübergehend unsere bereitgestellten Dienste außer Kraft setzen könnten. Dem Risiko wird durch die Tisax-Zertifizierung begegnet.
+
+Weitere unternehmensspezifische Risiken sind der Fachkräftemangel sowie steigende Energiekosten.
+
+4. Finanzrisiko
+
+Das bestehende Risiko durch Zahlungsausfall schätzen wir aktuell als gering ein. Dem wird durch eine laufende Überwachung, durch eine enge Abstimmung zwischen Vertrieb, Consulting und Finance sowie einem vollautomatisierten Mahnprozess begegnet. Die Liquiditätssituation wird über eine monatliche Finanzplanung gesteuert und kontrolliert. Die Steuerung der Gesellschaft erfolgt durch ein KPI basiertes Management Monitoring System. Währungsrisiken sind vorhanden, werden aber als gering eingestuft. Die überwiegende Fakturierung erfolgt in EUR. Bezüglich der Finanzanlagen besteht ein Risiko der Werthaltigkeit in Bezug auf die zukünftige wirtschaftliche Entwicklung der Tochterunternehmen.
+
+5. Marktentwicklung
+
+Der HR-Markt unterliegt nach wie vor einer kontinuierlichen Digitalisierungsdynamik. Auch im Jahr 2025 gehen wir davon aus, dass diese positive Marktentwicklung weiterhin anhalten wird und wir weiterhin in der Lage sein werden, substanzielles Neukundenwachstum zu generieren. Im Geschäftsjahr 2025 planen wir erneut mit einem zweistelligen Umsatzwachstum, bei einer leicht ansteigenden Ertragslage bezogen auf den Jahresüberschuss vor Ergebnisabführung.
+
+Nürnberg, den 10. Juli 2025
+
+gez. Joachim Rotzinger
+
+gez. Tobias Weiß
+
+Bilanz zum 31.12.2024
+
+AKTIVA
+
+scroll
+
+			Vorjahr
+	EUR	EUR	TEUR
+A. Anlagevermögen			
+I. Immaterielle Vermögensgegenstände		2.355.781,57	1.990
+II. Sachanlagen		15.920,00	18
+III. Finanzanlagen		4.528.363,22	2.565
+B. Umlaufvermögen			
+I. Forderungen und sonstige Vermögensgegenstände		4.708.730,93	2.342
+- davon Forderungen gegen verbundene Unternehmen: EUR 943.922,88 (i.V. TEUR 113)			
+II. Kassenbestand, Guthaben bei Kreditinstituten und Schecks		727.687,70	2.344
+C. Rechnungsabgrenzungsposten		372.885,48	328
+		12.709.368,90	9.587
+
+PASSIVA
+
+scroll
+
+A. Eigenkapital			
+I. Gezeichnetes Kapital	26.000,00		26
+II. Gewinnrücklage	171.676,36		0
+II. Gewinnvortrag	-		2.175
+III. Jahresüberschuss	-		0
+IV. Bilanzgewinn	2.174.797,16		-
+		2.372.473,52	(2.201)
+B. Rückstellungen		674.202,36	664
+C. Verbindlichkeiten		4.332.278,43	3.212
+- davon gegenüber verbundenen Unternehmen: EUR 3.353.155,65 (i.V. TEUR 2.597)			
+D. Rechnungsabgrenzungsposten		5.330.414,59	3.510
+		12.709.368,90	9.587
+
+Gewinn- und Verlustrechnung für die Zeit vom 01.01. bis 31.12.2024
+
+scroll
+
+		Vorjahr
+	EUR	TEUR
+1. Rohergebnis	16.838.642,72	16.035
+2. Personalaufwand	6.206.986,71	6.999
+3. Abschreibungen aus immaterielle Vermögensgegenstände des Anlagevermögens und Sachanlagen	170.964,00	280
+4. Sonstige betriebliche Aufwendungen	7.742.481,70	6.252
+Auf Grund einer Gewinnabführungsvertrags 5. enthaltene Gewinne	894.400,88	0
+6. Sonstige Zinsen und ähnliche Erträge	164.692,43	108
+7. Steuern vom Einkommen und vom Ertrag	36.891,06	11
+7. Ergebnis nach Steuern	3.740.412,56	2.601
+8. Sonstige Steuern	2.767,01	4
+9. Auf Grund eines Gewinnabführungsvertrags		
+Abgeführte Gewinne	3.565.969,19	2.597
+10. Jahresüberschuss	171.676,36	0
+11. Gewinnvortrag aus dem Vorjahr	2.174.797,16	0
+12. Einstellung in die Gewinnrücklage	171.676,36	0
+13. Bilanzgewinn	2.174.797,16	0
+
+Anhang für das Geschäftsjahr 2024
+
+Allgemeine Angaben zum Jahresabschluss
+
+Der Jahresabschluss für das Geschäftsjahr vom 01. Januar 2024 bis zum 31. Dezember 2024 ist nach den einschlägigen Vorschriften des Handelsgesetzbuches und des GmbHG sowie des Gesellschaftsvertrages aufgestellt worden. Das Wirtschaftsjahr entspricht dem Kalenderjahr.
+
+Die Gesellschaft weist zum Abschlussstichtag die Größenmerkmale einer mittelgroßen Gesellschaft i.S.d. § 267 Abs. 2 HGB auf. Bei der Aufstellung des Jahresabschlusses wird von den Erleichterungsvorschriften gemäß §§ 276, 286 sowie 288 Abs. 2 HGB teilweise Gebrauch gemacht.
+
+Auf die Gliederung der Bilanz sowie der Gewinn- und Verlustrechnung finden die Vorschriften der § 266 und § 275 HGB sowie § 42 GmbHG Anwendung. Die Gewinn- und Verlustrechnung wird entsprechend dem Gesamtkostenverfahren dargestellt.
+
+Bei dem Jahresabschluss in der vorliegenden Form handelt es sich um eine geänderte Fassung. Es haben sich folgende Änderungen ergeben:
+
+Die Umsatzerlöse haben sich im Jahr 2024 um TEUR 334 reduziert. Dem entsprechend, hat sich ebenfalls der Posten „Auf Grund einer Gewinngemeinschaft, eines Gewinnabführungs- oder Teilgewinnabführungsvertrags abgeführte Gewinne“ um die Umsatzreduktion, inklusive der für diese Umsätze gebuchten Währungsdifferenzen um TEUR 341 verringert. Die sonstigen betrieblichen Erträge haben sich um TEUR 1 auf TEUR 178 aufgrund von veränderten Währungsdifferenzen aus der Anpassung der Umsatzerlöse erhöht. Die sonstigen betrieblichen Aufwendungen haben sich um TEUR 8 auf TEUR 7.742 aufgrund von veränderten Währungsdifferenzen aus der Anpassung der Umsatzerlöse erhöht. In der Bilanz haben sich sowohl die Forderungen aus Lieferungen und Leistungen zum 31. Dezember 2024 als auch die Verbindlichkeiten gegenüber verbundenen Unternehmen jeweils um TEUR 583 reduziert. Die Bilanzsumme hat sich um TEUR 583 gekürzt. Weitere Änderungen haben sich nicht ergeben.
+
+Angaben zur Identifikation der Gesellschaft laut Registergericht
+
+scroll
+
+Firmenname laut Registergericht	Ingentis Softwareentwicklung GmbH
+Firmensitz laut Registergericht	Nürnberg
+Registereintrag	Handelsregister
+Registergericht	Amtsgericht Nürnberg
+Registernummer	HRB 14491
+
+Bilanzierungs- und Bewertungsgrundsätze
+
+Die auf den vorhergehenden Jahresabschluss angewendeten Ansatz- und Bewertungsmethoden werden stetig angewendet. Die Erstellung des Jahresabschlusses erfolgt unter der Annahme der Unternehmensfortführung (§ 252 Abs. 1 Nr. 2 HGB).
+
+Selbst geschaffene immaterielle Vermögensgegenstände sind zu Herstellungskosten, vermindert um lineare Abschreibungen entsprechend der betriebsgewöhnlichen Nutzungsdauer von 3 bis 7 Jahren, bewertet.
+
+Die entgeltlich erworbenen immateriellen Vermögensgegenstände sind zu Anschaffungskosten, vermindert um lineare Abschreibungen entsprechend der betriebsgewöhnlichen Nutzungsdauer von 3 bis 15 Jahren, bewertet.
+
+Das Sachanlagevermögen wurde zu Anschaffungskosten, vermindert um lineare Abschreibungen nach der betriebsgewöhnlichen Nutzungsdauer von 4 Jahren, angesetzt. Die im Geschäftsjahr angeschafften geringwertigen Wirtschaftsgüter bis zu einem Wert in Höhe von EUR 250 wurden in Übereinstimmung mit den steuerlichen Vorschriften gemäß § 6 Abs. 2 EStG in voller Höhe als Betriebsausgaben abgesetzt.
+
+Geringwertige Wirtschaftsgüter, deren Anschaffungs- und Herstellungskosten zwischen 250 EUR und 800 EUR liegen, werden im Zugangsjahr voll abgeschrieben.
+
+Finanzanlagen sind zu Anschaffungskosten angesetzt und werden bei voraussichtlich dauernder Wertminderung nach § 253 Abs. 3 HGB auf den niedrigeren beizulegenden Wert abgeschrieben. Bei Wegfall der Gründe für die Wertminderung erfolgt eine Zuschreibung nach § 253 Abs. 5 HGB.
+
+Forderungen und sonstige Vermögensgegenstände werden grundsätzlich zum Nominalwert angesetzt. Bei den Forderungen aus Lieferungen und Leistungen wurden erkennbare Einzelrisiken durch angemessene Wertberichtigungen berücksichtigt.
+
+Die flüssigen Mittel werden mit dem Nenn- bzw. Nominalbetrag angesetzt.
+
+Geschäftsvorfälle in fremder Währung werden zum jeweiligen Tageskurs eingebucht. Forderungen und Verbindlichkeiten in Fremdwährung, deren Restlaufzeit nicht mehr als ein Jahr beträgt, werden mit dem Euroreferenzkurs am Bilanzstichtag bewertet. Beträgt die Restlaufzeit mehr als ein Jahr, sind eventuelle Kursverluste am Bilanzstichtag berücksichtigt. Gewinne und Verluste aus der Umrechnung von Fremdwährungsgeschäften werden erfolgswirksam erfasst und in der Gewinn- und Verlustrechnung unter dem Posten sonstige betriebliche Erträge bzw. sonstige betriebliche Aufwendungen ausgewiesen.
+
+Die aktiven Rechnungsabgrenzungsposten betreffen Ausgaben vor dem Abschlussstichtag, die Aufwand für eine bestimmte Zeit nach diesem Tage darstellen; die Auflösung des Postens erfolgt linear entsprechend dem Zeitablauf.
+
+Die Rückstellungen berücksichtigen alle erkennbaren Risiken (einschließlich drohender Verluste aus schwebenden Geschäften) und ungewissen Verbindlichkeiten und werden mit dem nach vernünftiger kaufmännischer Beurteilung notwendigen Erfüllungsbetrag angesetzt. Rückstellungen mit einer Restlaufzeit von bis zu einem Jahr werden nicht abgezinst.
+
+Aufwendungen und Erträge aus sich ändernden Zinssätzen und Restlaufzeiten wurden im Finanzergebnis ausgewiesen.
+
+Die Verbindlichkeiten sind mit dem Erfüllungsbetrag angesetzt.
+
+Als passiver Rechnungsabgrenzungsposten werden auf der Passivseite Einzahlungen vor dem Stichtag ausgewiesen, soweit sie Erträge für eine bestimmte Zeit nach diesem Tag darstellen.
+
+Erläuterungen und Angaben zu einzelnen Posten der Bilanz und der Gewinn- und Verlustrechnung
+
+Anlagespiegel für die einzelnen Posten des Anlagevermögens
+
+Die Geschäftsjahresabschreibung je Posten der Bilanz ist aus dem Anlagenspiegel zu entnehmen.
+
+Selbst geschaffene immaterielle Vermögensgegenstände
+
+Im Geschäftsjahr hat die Gesellschaft Entwicklungskosten in Höhe von TEUR 143 für betriebsbereite selbst geschaffene Software sowie Entwicklungskosten in Höhe von TEUR 745 für selbst geschaffene Software im Entwicklungsstadium als Herstellungskosten gem. § 255 Abs. 2a HGB aktiviert. Die Ausübung des Wahlrechts der Aktivierung selbsterstellter immaterieller Vermögensgegenstände gem. § 248 Abs. 2 HGB erfolgte zur besseren Vermittlung eines den tatsächlichen Verhältnissen entsprechenden Bildes der Vermögens-, Finanz-, und Ertragslage.
+
+Die Abschreibung der selbst geschaffenen immateriellen Vermögensgegenständen im Anlagevermögen erfolgt bei Neuaktivierungen über eine Nutzungsdauer von sieben Jahren.
+
+In den Vorjahren wurden Neuaktivierungen über eine Nutzungsdauer von 3 Jahren abgeschrieben.
+
+Der Gesamtbetrag der Forderungs- und Entwicklungskosten betrug im Geschäftsjahr TEUR 888, davon entfallen TEUR 888 auf die selbstgeschaffenen immateriellen Vermögensgegenstände.
+
+Ausschüttungssperre gem. § 268 Abs. 8 HGB
+
+Der ausschüttungsgesperrte Gesamtbetrag in Höhe von EUR 2.346.473,52 betrifft ausschließlich den Wert der aktivierten selbst geschaffenen immateriellen Wirtschaftsgüter.
+
+Ausleihungen an verbundene Unternehmen
+
+Die Gesellschaft hat Darlehen in Höhe von insgesamt EUR 3.382.627,42 (Vorjahr: TEUR 1.760) an die Gesellschafterin ausgereicht. Die Darlehen wurden über einen Zeitraum von acht Jahren gewährt und wurden demnach im Anlagevermögen der Gesellschaft erfasst. Der jährliche Zinssatz der Darlehen beträgt 6,55457%. Die Ausleihungen sind in gleicher Höhe Ausleihungen gegen Gesellschafter.
+
+Aufstellung des Anteilsbesitzes
+
+Die Gesellschaft hält 100% der Anteile an der Ingentis Inc. (31. Dezember 2024: Eigenkapital TUSD -2.624; Jahresergebnis 2024: TUSD -1.184) sowie 100% der Anteile an der Kanzlei.Suite GmbH (31. Dezember 2024: Eigenkapital TEUR 1.356; Jahresergebnis 2024: TEUR 1.011).
+
+Forderungen
+
+Die ausgewiesenen Forderungen haben eine Restlaufzeit von bis zu einem Jahr.
+
+In den ausgewiesenen Forderungen sind Forderungen gegen Gesellschafter i.H.v. TEUR 50 enthalten (Vorjahr: TEUR 113). Diese resultieren im Wesentlichen aus Lieferungen und Leistungen.
+
+Von den Forderungen aus Lieferungen und Leistungen betreffen TEUR 2.113 (i.V. TEUR 1.221)
+
+Forderungen gegen verbundene Unternehmen.
+
+Gezeichnetes Kapital
+
+Das Stammkapital in Höhe von EUR 26.000,00 ist voll erbracht.
+
+Verbindlichkeiten
+
+Sämtliche Verbindlichkeiten haben eine Restlaufzeit von bis zu einem Jahr.
+
+In den ausgewiesenen Verbindlichkeiten sind Verbindlichkeiten gegenüber Gesellschaftern in Höhe von TEUR 3.353 enthalten (Vorjahr: TEUR 2.597). Darin enthalten ist eine Verbindlichkeit in Höhe von TEUR 3.324 aus der Ergebnisabführung an die Ingentis Holding GmbH. Die übrigen Verbindlichkeiten sind im Wesentlichen den sonstigen Verbindlichkeiten zugehörig.
+
+Sonstige Angaben
+
+Sonstige finanzielle Verpflichtungen
+
+Es bestehen zum Bilanzstichtag sonstige finanzielle Verpflichtungen aus Kfz-Leasing von TEUR 90 p.a. und aus einer Verwaltungskostenumlage von zur Zeit EUR 4,2 Mio. p.a. gegenüber verbundenen Unternehmen.
+
+Die Gesellschaft hat einen Ergebnisabführungsvertrag mit der Ingentis Holding GmbH geschlossen. Im Geschäftsjahr 2024 sind hierzu EUR 3,6 Mio. abzuführen.
+
+Außergewöhnliche Erträge und Aufwendungen
+
+Im Geschäftsjahr ergaben sich bis auf den Ergebnisabführungsvertrag keine Erträge oder Aufwendungen von außergewöhnlicher Größenordnung, die nicht von untergeordneter Bedeutung sind.
+
+Arbeitnehmer
+
+Im Geschäftsjahr beschäftigte die Gesellschaft durchschnittlich 103,5 Mitarbeiter (Vorjahr: 96 Mitarbeiter). Diese bestehen vollumfänglich aus Angestellten.
+
+Geschäftsführung
+
+Während des abgelaufenen Geschäftsjahrs wurden die Geschäfte des Unternehmens durch folgende Personen geführt:
+
+Joachim Rotzinger, Geschäftsführer Strategie (seit 8. Februar 2023)
+
+Tobias Weiß, Geschäftsführer Operations (seit 8. Februar 2023)
+
+Die Geschäftsführer sind von der Beschränkung des § 181 BGB befreit und befugt, die Gesellschaft allein zu vertreten.
+
+Vergütungen der Geschäftsführer
+
+Die Angabe der Vergütungen der Geschäftsführer wird gemäß § 286 Abs. 4 HGB unterlassen.
+
+Vorgänge von besonderer Bedeutung nach dem Abschlussstichtag
+
+Vorgänge von besonderer Bedeutung nach dem Abschlussstichtag haben sich nicht ergeben.
+
+Vorlage zur Ergebnisverwendung
+
+Zwischen der Gesellschaft und Ihrem Mutterunternehmen Ingentis Holding GmbH besteht ein Ergebnisabführungsvertrag. Das Ergebnis im Geschäftsjahr wurde folglich, bis auf eine Einlage von TEUR 171 in die Gewinnrücklage, an die Ingentis Holding GmbH abgeführt.
+
+Unterschrift der Geschäftsführung
+
+Nürnberg, den 10. Juli 2025
+
+gez. Joachim Rotzinger
+
+gez. Tobias Weiß
+
+Anlagenspiegel zum 31.12.2024
+
+Ingentis Softwareentwicklung GmbH
+
+Nürnberg
+
+scroll
+
+	Anschaffungs-, Herstellungskosten 01.01.2024	Zugänge Abgänge-	Umbuchungen	kumulierte Abschreibungen 31.12.2024	Abschreibungen Zuschreibungen vom 01.01.2024 bis 31.12.2024
+	EUR	EUR	EUR	EUR	EUR
+A. Anlagevermögen					
+I. Immaterielle Vermögensgegenstände					
+1. Selbst geschaffene gewerbliche Schutzrechte und ähnliche Rechte und Werte	849.648,96	142.835,00	0,00	424.315,47	164.075,50
+		-150.154,99			
+2. In der Entwicklung befindliche immaterielle Vermögensgegenstände	1.473.757,02	745.474,00	0,00	0,00	0,00
+		-290.771,00			
+3. entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten	30.253,40	0,00	0,00	20.945,35	4.760,50
+Summe Immaterielle Vermögensgegenstände	2.353.659,38	888.309,00	0,00	445.260,82	168.836,00
+		-440.925,99			
+II. Sachanlagen					
+1. andere Anlagen, Betriebs- und Geschäftsausstattung	21.215,64	0,00	0,00	5.295,64	2.128,00
+Summe Sachanlagen	21.215,64	0,00	0,00	5.295,64	2.128,00
+III. Finanzanlagen					
+1. Anteile an verbundenen Unternehmen	805.331,71	340.404,09	0,00	0,00	0,00
+2. Ausleihungen an verbundene Unternehmen	1.759.508,87	1.623.118,55	0,00	0,00	0,00
+Summe Finanzanlagen	2.564.840,58	1.963.522,64	0,00	0,00	0,00
+Summe Anlagevermögen	4.939.715,60	2.851.831,64	0,00	450.556,46	170.964,00
+		-440.925,99			
+
+scroll
+
+	Buchwert 31.12.2024	Buchwert 31.12.2023
+	EUR	EUR
+A. Anlagevermögen		
+I. Immaterielle Vermögensgegenstände		
+1. Selbst geschaffene gewerbliche Schutzrechte und ähnliche Rechte und Werte	418.013,50	502.372,00
+		
+2. In der Entwicklung befindliche immaterielle Vermögensgegenstände	1.928.460,02	1.473.757,02
+		
+3. entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten	9.308,05	14.068,55
+Summe Immaterielle Vermögensgegenstände	2.355.781,57	1.990.197,57
+		
+II. Sachanlagen		
+1. andere Anlagen, Betriebs- und Geschäftsausstattung	15.920,00	18.048,00
+Summe Sachanlagen	15.920,00	18.048,00
+III. Finanzanlagen		
+1. Anteile an verbundenen Unternehmen	1.145.735,80	805.331,71
+2. Ausleihungen an verbundene Unternehmen	3.382.627,42	1.759.508,87
+Summe Finanzanlagen	4.528.363,22	2.564.840,58
+Summe Anlagevermögen	6.900.064,79	4.573.086,15
+		
+
+Bescheinigung
+
+Nach dem abschließenden Ergebnis unserer Prüfung haben wir dem geänderten Jahresabschluss zum 31. Dezember 2024 (Anlagen 1 bis 3) und dem geänderten Lagebericht für das Geschäftsjahr 2024 (Anlage 4) der Ingentis Softwareentwicklung GmbH, Nürnberg, unter dem Datum vom 14. März 2025 / 10. Juli 2025 den folgenden uneingeschränkten Bestätigungsvermerk erteilt, der hier wiedergegeben wird:
+
+„Bestätigungsvermerk des unabhängigen Abschlussprüfers
+
+An die Ingentis Softwareentwicklung GmbH, Nürnberg
+
+Prüfungsurteile
+
+Wir haben den Jahresabschluss der Ingentis Softwareentwicklung GmbH, Nürnberg, - bestehend aus der Bilanz zum 31. Dezember 2024 und der Gewinn- und Verlustrechnung für das Geschäftsjahr vom 1. Januar 2024 bis zum 31. Dezember 2024 sowie dem Anhang, einschließlich der Darstellung der Bilanzierungs- und Bewertungsmethoden - geprüft. Darüber hinaus haben wir den Lagebericht der Ingentis Softwareentwicklung GmbH, Nürnberg, für das Geschäftsjahr vom 1. Januar 2024 bis zum 31. Dezember 2024 geprüft.
+
+Nach unserer Beurteilung aufgrund der bei der Prüfung gewonnenen Erkenntnisse
+
+―
+
+entspricht der beigefügte Jahresabschluss in allen wesentlichen Belangen den deutschen, für Kapitalgesellschaften geltenden handelsrechtlichen Vorschriften und vermittelt unter Beachtung der deutschen Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens- und Finanzlage der Gesellschaft zum 31. Dezember 2024 sowie ihrer Ertragslage für das Geschäftsjahr vom 1. Januar 2024 bis zum 31. Dezember 2024 und
+
+―
+
+vermittelt der beigefügte Lagebericht insgesamt ein zutreffendes Bild von der Lage der Gesellschaft. In allen wesentlichen Belangen steht dieser Lagebericht in Einklang mit dem Jahresabschluss, entspricht den deutschen gesetzlichen Vorschriften und stellt die Chancen und Risiken der zukünftigen Entwicklung zutreffend dar. Gemäß § 322 Abs. 3 Satz 1 HGB erklären wir, dass unsere Prüfung zu keinen Einwendungen gegen die Ordnungsmäßigkeit des Jahresabschlusses und des Lageberichts geführt hat.
+
+Grundlage für die Prüfungsurteile
+
+Wir haben unsere Prüfung des Jahresabschlusses und des Lageberichts in Übereinstimmung mit § 317 HGB unter Beachtung der vom Institut der Wirtschaftsprüfer (IDW) festgestellten deutschen Grundsätze ordnungsmäßiger Abschlussprüfung durchgeführt. Unsere Verantwortung nach diesen Vorschriften und Grundsätzen ist im Abschnitt „Verantwortung des Abschlussprüfers für die Prüfung des Jahresabschlusses und des Lageberichts" unseres Bestätigungsvermerks weitergehend beschrieben.
+
+Wir sind von dem Unternehmen unabhängig in Übereinstimmung mit den deutschen handelsrechtlichen und berufsrechtlichen Vorschriften und haben unsere sonstigen deutschen Berufspflichten in Übereinstimmung mit diesen Anforderungen erfüllt. Wir sind der Auffassung, dass die von uns erlangten Prüfungsnachweise ausreichend und geeignet sind, um als Grundlage für unsere Prüfungsurteile zum Jahresabschluss und zum Lagebericht zu dienen.
+
+Verantwortung der gesetzlichen Vertreter und des Aufsichtsrats für den Jahresabschluss und den Lagebericht
+
+Die gesetzlichen Vertreter sind verantwortlich für die Aufstellung des Jahresabschlusses, der den deutschen, für Kapitalgesellschaften geltenden handelsrechtlichen Vorschriften in allen wesentlichen Belangen entspricht, und dafür, dass der Jahresabschluss unter Beachtung der deutschen Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage der Gesellschaft vermittelt. Ferner sind die gesetzlichen Vertreter verantwortlich für die internen Kontrollen, die sie in Übereinstimmung mit den deutschen Grundsätzen ordnungsmäßiger Buchführung als notwendig bestimmt haben, um die Aufstellung eines Jahresabschlusses zu ermöglichen, der frei von wesentlichen falschen Darstellungen aufgrund von dolosen Handlungen (d.h. Manipulationen der Rechnungslegung und Vermögensschädigungen) oder Irrtümern ist.
+
+Bei der Aufstellung des Jahresabschlusses sind die gesetzlichen Vertreter dafür verantwortlich, die Fähigkeit der Gesellschaft zur Fortführung der Unternehmenstätigkeit zu beurteilen. Des Weiteren haben sie die Verantwortung, Sachverhalte in Zusammenhang mit der Fortführung der Unternehmenstätigkeit, sofern einschlägig, anzugeben. Darüber hinaus sind sie dafür verantwortlich, auf der Grundlage des Rechnungslegungsgrundsatzes der Fortführung der Unternehmenstätigkeit zu bilanzieren, sofern dem nicht tatsächliche oder rechtliche Gegebenheiten entgegenstehen.
+
+Außerdem sind die gesetzlichen Vertreter verantwortlich für die Aufstellung des Lageberichts, der insgesamt ein zutreffendes Bild von der Lage der Gesellschaft vermittelt sowie in allen wesentlichen Belangen mit dem Jahresabschluss in Einklang steht, den deutschen gesetzlichen Vorschriften entspricht und die Chancen und Risiken der zukünftigen Entwicklung zutreffend darstellt. Ferner sind die gesetzlichen Vertreter verantwortlich für die Vorkehrungen und Maßnahmen (Systeme), die sie als notwendig erachtet haben, um die Aufstellung eines Lageberichts in Übereinstimmung mit den anzuwendenden deutschen gesetzlichen Vorschriften zu ermöglichen, und um ausreichende geeignete Nachweise für die Aussagen im Lagebericht erbringen zu können.
+
+Verantwortung des Abschlussprüfers für die Prüfung des Jahresabschlusses und des Lageberichts
+
+Unsere Zielsetzung ist, hinreichende Sicherheit darüber zu erlangen, ob der Jahresabschluss als Ganzes frei von wesentlichen falschen Darstellungen aufgrund von dolosen Handlungen oder Irrtümern ist, und ob der Lagebericht insgesamt ein zutreffendes Bild von der Lage der Gesellschaft vermittelt sowie in allen wesentlichen Belangen mit dem Jahresabschluss sowie mit den bei der Prüfung gewonnenen Erkenntnissen in Einklang steht, den deutschen gesetzlichen Vorschriften entspricht und die Chancen und Risiken der zukünftigen Entwicklung zutreffend darstellt, sowie einen Bestätigungsvermerk zu erteilen, der unsere Prüfungsurteile zum Jahresabschluss und zum Lagebericht beinhaltet.
+
+Hinreichende Sicherheit ist ein hohes Maß an Sicherheit, aber keine Garantie dafür, dass eine in Übereinstimmung mit § 317 HGB unter Beachtung der vom Institut der Wirtschaftsprüfer (IDW) festgestellten deutschen Grundsätze ordnungsmäßiger Abschlussprüfung durchgeführte Prüfung eine wesentliche falsche Darstellung stets aufdeckt. Falsche Darstellungen können aus dolosen Handlungen oder Irrtümern resultieren und werden als wesentlich angesehen, wenn vernünftigerweise erwartet werden könnte, dass sie einzeln oder insgesamt die auf der Grundlage dieses Jahresabschlusses und Lageberichts getroffenen wirtschaftlichen Entscheidungen von Adressaten beeinflussen.
+
+Während der Prüfung üben wir pflichtgemäßes Ermessen aus und bewahren eine kritische Grundhaltung. Darüber hinaus
+
+- identifizieren und beurteilen wir die Risiken wesentlicher falscher Darstellungen im Jahresabschluss und im Lagebericht aufgrund von dolosen Handlungen oder Irrtümern, planen und führen Prüfungshandlungen als Reaktion auf diese Risiken durch sowie erlangen Prüfungsnachweise, die ausreichend und geeignet sind, um als Grundlage für unsere Prüfungsurteile zu dienen. Das Risiko, dass eine aus dolosen Handlungen resultierende wesentliche falsche Darstellung nicht aufgedeckt wird, ist höher als das Risiko, dass eine aus Irrtümern resultierende wesentliche falsche Darstellung nicht aufgedeckt wird, da dolose Handlungen kollusives Zusammenwirken, Fälschungen, beabsichtigte Unvollständigkeiten, irreführende Darstellungen bzw. das Außer-kraftsetzen interner Kontrollen beinhalten können.
+
+―
+
+erlangen wir ein Verständnis von dem für die Prüfung des Jahresabschlusses relevanten internen Kontrollsystem und den für die Prüfung des Lageberichts relevanten Vorkehrungen und Maßnahmen, um Prüfungshandlungen zu planen, die unter den gegebenen Umständen angemessen sind, jedoch nicht mit dem Ziel, ein Prüfungsurteil zur Wirksamkeit dieser Systeme der Gesellschaft abzugeben.
+
+―
+
+beurteilen wir die Angemessenheit der von den gesetzlichen Vertretern angewandten Rechnungslegungsmethoden sowie die Vertretbarkeit der von den gesetzlichen Vertretern dargestellten geschätzten Werte und damit zusammenhängenden Angaben.
+
+―
+
+ziehen wir Schlussfolgerungen über die Angemessenheit des von den gesetzlichen Vertretern angewandten Rechnungslegungsgrundsatzes der Fortführung der Unternehmenstätigkeit sowie, auf der Grundlage der erlangten Prüfungsnachweise, ob eine wesentliche Unsicherheit im Zusammenhang mit Ereignissen oder Gegebenheiten besteht, die bedeutsame Zweifel an der Fähigkeit der Gesellschaft zur Fortführung der Unternehmenstätigkeit aufwerfen können. Falls wir zu dem Schluss kommen, dass eine wesentliche Unsicherheit besteht, sind wir verpflichtet, im Bestätigungsvermerk auf die dazugehörigen Angaben im Jahresabschluss und im Lagebericht aufmerksam zu machen oder, falls diese Angaben unangemessen sind, unser jeweiliges Prüfungsurteil zu modifizieren. Wir ziehen unsere Schlussfolgerungen auf der Grundlage der bis zum Datum unseres Bestätigungsvermerks erlangten Prüfungsnachweise. Zukünftige Ereignisse oder Gegebenheiten können jedoch dazu führen, dass die Gesellschaft ihre Unternehmenstätigkeit nicht mehr fortführen kann.
+
+―
+
+beurteilen wir die Gesamtdarstellung, den Aufbau und den Inhalt des Jahresabschlusses einschließlich der Angaben sowie ob der Jahresabschluss die zugrunde liegenden Geschäftsvorfälle und Ereignisse so darstellt, dass der Jahresabschluss unter Beachtung der deutschen Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage der Gesellschaft vermittelt.
+
+―
+
+beurteilen wir den Einklang des Lageberichts mit dem Jahresabschluss, seine Gesetzesentsprechung und das von ihm vermittelte Bild von der Lage der Gesellschaft.
+
+―
+
+führen wir Prüfungshandlungen zu den von den gesetzlichen Vertretern dargestellten zukunftsorientierten Angaben im Lagebericht durch. Auf Basis ausreichender geeigneter Prüfungsnachweise vollziehen wir dabei insbesondere die den zukunftsorientierten Angaben von den gesetzlichen Vertretern zugrunde gelegten bedeutsamen Annahmen nach und beurteilen die sachgerechte Ableitung der zukunftsorientierten Angaben aus diesen Annahmen. Ein eigenständiges Prüfungsurteil zu den zukunftsorientierten Angaben sowie zu den zugrunde liegenden Annahmen geben wir nicht ab. Es besteht ein erhebliches unvermeidbares Risiko, dass künftige Ereignisse wesentlich von den zukunftsorientierten Angaben abweichen.
+
+Wir erörtern mit den für die Überwachung Verantwortlichen unter anderem den geplanten Umfang und die Zeitplanung der Prüfung sowie bedeutsame Prüfungsfeststellungen, einschließlich etwaiger bedeutsamer Mängel in internen Kontrollen, die wir während unserer Prüfung feststellen.
+
+Hinweis zur Nachtragsprüfung
+
+Diesen Bestätigungsvermerk erteilen wir zu dem geänderten Jahresabschluss und geänderten Lagebericht aufgrund unserer pflichtgemäßen, am 14. März 2025 abgeschlossenen Prüfung und unserer am 10. Juli 2025 abgeschlossenen Nachtragsprüfung, die sich auf die Änderungen der Forderungen aus Lieferungen und Leistungen, der Verbindlichkeiten gegenüber verbundenen Unternehmen, der Umsatzerlöse, der Sonstigen betrieblichen Erträge sowie der Sonstigen betrieblichen Aufwendungen bezog. Auf die Darstellung der Änderungen durch die gesetzlichen Vertreter im geänderten Anhang, Abschnitt „Allgemeine Angaben zum Jahresabschluss“ sowie im geänderten Lagebericht, Abschnitt „B. Darstellung der Lage“ wird verwiesen.“
+
+Den vorstehenden Prüfungsbericht erstatten wir in Übereinstimmung mit den gesetzlichen Vorschriften und den Grundsätzen ordnungsmäßiger Erstellung von Prüfungsberichten (IDW PS 450 n.F.).
+
+Eine Verwendung des oben wiedergegebenen Bestätigungsvermerks außerhalb dieses Prüfungsberichts bedarf unserer vorherigen Zustimmung. Bei Veröffentlichungen oder Wiedergabe des Jahresabschlusses und/oder des Lageberichts in einer von der bestätigten Fassung abweichenden Form bedarf es zuvor unserer erneuten Stellungnahme, sofern hierbei unser Bestätigungsvermerk zitiert oder auf unsere Prüfung hingewiesen wird; auf § 328 HGB wird verwiesen.
+
+Lahr/Schw., den 14. März 2025 / Begrenzt auf die im Hinweis zur Nachtragsprüfung genannten Änderungen: 10. Juli 2025
+
+BTG
+Badische Treuhand Gesellschaft mbH
+Wirtschaftsprüfungsgesellschaft
+Steuerberatungsgesellschaft
+
+gez. Jochen Schwend, Wirtschaftsprüfer
+
+gez. Patrick Schilli, Wirtschaftsprüfer
+
+Beschluss über die Feststellung des Jahresabschlusses
+
+Die Gesellschafterversammlung der Ingentis Software Entwicklung GmbH, Nürnberg, hat am 29.07.2025 den Jahresabschluss zum 31.12.2024 festgestellt.

@@ -1,0 +1,56 @@
+[
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=M9b4b8jSPo6nuSDgw47bmYbh50ulyNYlihrXnH-RhSqf9tufr4uEg0KdOshs87EUudlCRwnSFYa-lyIq2zscdeSvbPCVPeRieP3qGHdwCuvcYrMHkxOkSFAyRIJoAfR7ti2spbNVhd6CiVSv6HzabohxnibfkhbRfUNtTeoClQJ4h5VWFu_njvrQ1iDP_yTC80EVFdyxSwQnlKGnBHvTh3-mBFQuSHvU6cyJIOu2FTGUNkm6",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Charite-Research-Organisation-6f20409c\\finanzberichte\\publication-1\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Charite-Research-Organisation-6f20409c\\finanzberichte\\publication-1\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Charite-Research-Organisation-6f20409c\\finanzberichte\\publication-1\\publication.txt",
+    "index": 1,
+    "category": "finanzberichte",
+    "company": "Charité Research Organisation GmbH, Berlin",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+    "documents_path": "output\\unternehmensregister\\Charite-Research-Organisation-6f20409c\\finanzberichte\\publication-1\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=Bnn_0P_EHWGgj6ubq_TksqywcLh51x3Tdf8NWnbZAkdlqqov_3qhvAY0geRxLnA1q72DT5v-YoopEoCe80D7PBCuRe1NKJomdEAlmEPA538xCf_aedZVN0T2q7afuTYnc-GguHrIn4iqaCpfeb7-AcSKiWvC3qXsRuWbK50On2_Gy0htJdmrMq1vkaLQzKOHii8_XIoBNvZ12F0EVI6yVxFQTfGwrGbHr13DZpluwbG5quKG",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Charite-Research-Organisation-6f20409c\\finanzberichte\\publication-2\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Charite-Research-Organisation-6f20409c\\finanzberichte\\publication-2\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Charite-Research-Organisation-6f20409c\\finanzberichte\\publication-2\\publication.txt",
+    "index": 2,
+    "category": "finanzberichte",
+    "company": "Charité Research Organisation GmbH, Berlin",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+    "documents_path": "output\\unternehmensregister\\Charite-Research-Organisation-6f20409c\\finanzberichte\\publication-2\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=RUxlQe_PbX6GVcL2l80IRNEux_-e0FlU-GVIOnJ9Q80nqkerYDwJc1MmImuNCHH9ajiIkkGJx17fdq6c5vk8xha-fpr48cthQfT0XGkh4okOAjFUQPi3IUrRWiSOtcrg6T5UffN7bEsPaux3DSbkxFctjBgg4nSUn7GYEoLD7vjCR1UKvkTTxVOu2c-QH-dHTf5cNS0jXvRSwxnrQYoSmVmbbmDPM4zOq3ubaLSb3swNymKp",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Charite-Research-Organisation-6f20409c\\finanzberichte\\publication-3\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Charite-Research-Organisation-6f20409c\\finanzberichte\\publication-3\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Charite-Research-Organisation-6f20409c\\finanzberichte\\publication-3\\publication.txt",
+    "index": 3,
+    "category": "finanzberichte",
+    "company": "Charité Research Organisation GmbH, Berlin",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+    "documents_path": "output\\unternehmensregister\\Charite-Research-Organisation-6f20409c\\finanzberichte\\publication-3\\documents.json"
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "url": "https://www.visiondata.de/robots.txt",
+  "final_url": "https://www.visiondata.de/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "fetched_at": "2026-11-25T16:14:35.326005+00:00",
+  "text": "# START YOAST BLOCK\n# ---------------------------\nUser-agent: *\nDisallow:\n\nSitemap: https://www.visiondata.de/sitemap_index.xml\n# ---------------------------\n# END YOAST BLOCK"
+}

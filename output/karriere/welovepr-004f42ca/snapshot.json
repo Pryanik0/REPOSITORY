@@ -1,0 +1,79 @@
+{
+  "provider": "karriere",
+  "company": {
+    "key": "welovepr",
+    "name": "welovepr",
+    "location": "München",
+    "name_source": "company_name",
+    "urls": [
+      "https://welovepr.de"
+    ],
+    "kununu_url": null,
+    "branches": [
+      "Werbe-/PR-/Marketing-Agentur"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "80805",
+    "street": "Ungererstrasse 129",
+    "region": "Bayern",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:37:12.835563+00:00",
+  "status": "partial",
+  "jobs": [],
+  "pages": [
+    {
+      "url": "https://welovepr.de/",
+      "final_url": "https://welovepr.de/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://welovepr.de/jobs/",
+      "final_url": "https://welovepr.de/jobs/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    }
+  ],
+  "errors": [
+    {
+      "url": "https://welovepr.de/jobs/",
+      "reason": "no_extractable_job_data",
+      "error": "Keine auslesbaren Stellen oder belegte Leermeldung; manuelle Prüfung erforderlich."
+    }
+  ],
+  "excluded": [],
+  "sources": [
+    {
+      "url": "https://welovepr.de/",
+      "linked_from": null,
+      "mechanism": "configured"
+    }
+  ],
+  "adapter_attempts": [],
+  "coverage": {
+    "scope": "configured_sites_and_linked_career_portals",
+    "complete": false,
+    "pending_pages": 0,
+    "page_limit_reached": false,
+    "job_limit_reached": false,
+    "request_limit_reached": false,
+    "pages_attempted": 2,
+    "pages_read": 2,
+    "dynamic_or_unparsed_pages": true,
+    "http": {
+      "requests_attempted": 3,
+      "allocated_requests": 3151,
+      "cache_hits": 0
+    }
+  },
+  "pending_urls": [],
+  "jobs_before_keyword_filter": 0,
+  "reason": "search_incomplete"
+}

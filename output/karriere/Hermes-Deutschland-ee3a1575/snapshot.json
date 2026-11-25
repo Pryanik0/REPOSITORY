@@ -1,0 +1,62 @@
+{
+  "provider": "karriere",
+  "company": {
+    "key": "Hermes Deutschland",
+    "name": "Hermes Germany GmbH",
+    "location": "Hamburg",
+    "name_source": "company_name",
+    "urls": [
+      "https://www.myhermes.de/"
+    ],
+    "kununu_url": "https://www.kununu.com/de/hermesgermany",
+    "branches": [
+      "Logistik"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "22419",
+    "street": "Essener Straße 89",
+    "region": "Hamburg",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:17:39.533532+00:00",
+  "status": "error",
+  "jobs": [],
+  "pages": [],
+  "errors": [
+    {
+      "url": "https://www.myhermes.de/",
+      "reason": "fetch_failed",
+      "error": "robots.txt liefert HTML; Zugriffsberechtigung unklar."
+    }
+  ],
+  "excluded": [],
+  "sources": [
+    {
+      "url": "https://www.myhermes.de/",
+      "linked_from": null,
+      "mechanism": "configured"
+    }
+  ],
+  "adapter_attempts": [],
+  "coverage": {
+    "scope": "configured_sites_and_linked_career_portals",
+    "complete": false,
+    "pending_pages": 0,
+    "page_limit_reached": false,
+    "job_limit_reached": false,
+    "request_limit_reached": false,
+    "pages_attempted": 1,
+    "pages_read": 0,
+    "dynamic_or_unparsed_pages": false,
+    "http": {
+      "requests_attempted": 2,
+      "allocated_requests": 660,
+      "cache_hits": 0
+    }
+  },
+  "pending_urls": [],
+  "jobs_before_keyword_filter": 0,
+  "reason": "search_incomplete"
+}

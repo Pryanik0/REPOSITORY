@@ -1,0 +1,575 @@
+{
+  "company": {
+    "key": "Stadt Köln",
+    "name": "Stadt Köln",
+    "location": "Köln",
+    "name_source": "company_name",
+    "urls": [
+      "https://www.stadt-koeln.de/"
+    ],
+    "kununu_url": "https://www.kununu.com/de/stadt-koeln",
+    "branches": [
+      "Öffentlicher Dienst"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "50679",
+    "street": "Willy-Brandt-Platz 2–3",
+    "region": "Nordrhein-Westfalen",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:52:30.209279+00:00",
+  "searches": [
+    {
+      "accounting_only": true,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=Stadt+K%C3%B6ln&companyLocation=K%C3%B6ln&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ACCOUNTING&drilldownFilter=22&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": true
+    },
+    {
+      "accounting_only": false,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=Stadt+K%C3%B6ln&companyLocation=K%C3%B6ln&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ALL_AREAS&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": true
+    }
+  ],
+  "excluded_company_matches": [
+    {
+      "company": "Stadtentwässerungsbetriebe Köln, Köln",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-07-28",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=JADJmie1VNLGlyGnFXIGQu6F70ktpzWTizARamtt01gi7KoiQJVPRDj8bzlN-GV8C4mrnzpfrGBVeR-fTr5AvwGIkv8SUko0KpkBv-QSQ3b7sATgxZga967-ok7baurfYr6nHqgJWY-RzEVNWABAiuZM3vaMq79Uc5uOa9r61aKeDWogatrDRJ8xyG9D9F6kVBby0NzM4Hqa8fWodJmooXtbgnUhMumoVBn9nPMorAT8-2vK",
+      "metadata": "Stadtentwässerungsbetriebe Köln, Köln Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 28.07.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Stadtentwässerungsbetriebe Köln, Köln",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-07-09",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=1XI34C4XAvJEiBTAiyh2RpOdosq45Ej2qO-Hg3hJV1idCd-Byq5cg98GoE6M3IAw34kTGv31orKZLizs7tS5XLoPAzRbw1K9LN9jB-xdFX7BfjM63-f91P-O04yb8g2wTPQsgWjvMIjuVRhTqbs1G9o1ZwaZK72wMPe8_cdnihmNIgZDg4vM9Q1vzGro-k6R-XPOcRlo-E5mW1TD3UqG9RlLK2WJ07GvOKYJSu2A6GBgVV7U",
+      "metadata": "Stadtentwässerungsbetriebe Köln, Köln Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 09.07.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Stadtentwässerungsbetriebe Köln, Köln",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-01-13",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=wC7Tn5so-HET8IciAowoSuxvI4CB6KpYGtIlnf2Z4PBK98jyOwtfvkOt7_5OgZH_ZSJiLvqIYGqFwrZ-yEP7uj3QN9uHZqGqAwJgT8LbrPeiM0hFI1OBXtWosKbxzr-NFJa6ts3SYumRKKbR1rGV3PtDQYYVsUu_brKRfD0QDp7ezKq8XEALCfgJfujVJJJ2KNRTHr_bvPhZr9GYWLt2FrwxnRRwcTuuuC_MWtCFchKpKlyZ",
+      "metadata": "Stadtentwässerungsbetriebe Köln, Köln Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 13.01.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "\"Stadthalle Köln-Mülheim\" Jülich GmbH, Köln",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-05-06",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=Mc0GPFlnQPKeLCN_H4SZZWT8muz4Wk1ROk9kfgOyVT7542rf9PlVuAfF97hI3u4_1eFd6FzjEv4705kIeHUOYD-_1DeWJbFfop-n74bQWvKlYlcvUnM-35grS-fZzl11QifHqZFqKkowsuSzHPtOzX9TwsASR_HfjhbzLq6tKsZBmTo30DCC0Rhfn5qXGsmcJptJYzPJUeygn283mEknx0F03JJENnEu_rfUW_CP2WROpZY",
+      "metadata": "\"Stadthalle Köln-Mülheim\" Jülich GmbH, Köln Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 06.05.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "\"Stadthalle Köln-Mülheim\" Jülich GmbH, Köln",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-01-02",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=5fvwBucAMbK0yHc6L7gh_McgwHHCXFS6F-2bcMf2ziaLaN3EFE0D_oJ5AhlzUjLij3eTBtw_PNUWPKZGo1ehXYPwi6D7FWV4zRpFXNftojfmgNBaDcCrzQCN7zqYVTGE7vhieOFE_L5u4xMQz4fdqJBKzHtyIFZhowxYoqPu2rRQB_nvTd5kP-sbZ2i68ZSBRzitFIq8zhbDb7hC50e3TJG9VnEa-sYAb-3i2o7CTKK8K9E",
+      "metadata": "\"Stadthalle Köln-Mülheim\" Jülich GmbH, Köln Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 02.01.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "\"Stadthalle Köln-Mülheim\" Jülich GmbH, Köln",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-02-28",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=e3-5zfjvgK8jFE4UsdNYQodRku4WcQVQtstDlWohatCgl4OAC2uQWNe855P15TAXx1wp2l1zsDEkpbRwI16ptG6gFAt0rcT5qclojd4r7gQGKQklgnvGi_B4ceoT8EWzrOT6oEvM2PP70NGiVeyJRUcplSV-IT4KYeD5-ua3Rdcy18U5l-XMg9s7S2m7JcpuAv4Cyj58DPce3aMZez3ZEZdenlAV_pFzoAWifyaSSfnGbh8",
+      "metadata": "\"Stadthalle Köln-Mülheim\" Jülich GmbH, Köln Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 28.02.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Holmes Place Stadthaus Köln GmbH, Köln",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-07-16",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=v6mpjmQ_7Pd2pI3mEd84RbdKVtFpFj42dkiqnUhZFODbMWFVWsBaDXr9rZ7UypQ_K6F4NW-FgWEoOqrv4St72iXtKeuf1hKwp0npOhOtxUK4aXlF51FfJvGSqr5GvEYMxCfuDnAeoQKeUqExlwtRX5Pl6YVMfQnuiM2ek_pbbWN4kS1fm5j0mkXD6tQkeMCpMl79JO91J45NIlazXkbOIQGLk-joKv_aVkB2YCvlRRJKZpIR",
+      "metadata": "Holmes Place Stadthaus Köln GmbH, Köln Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 16.07.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Holmes Place Stadthaus Köln GmbH, Köln",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-09-04",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=WXR9xSTuG9CoclZ-DJxyHEc8oS13Jrd_IpUwBm46EEQzZ1z0sSqWT30uAFH1iD--qTZxk-DenDj0aFeII9aA_LF-D_rJGSl8Z7LOv3q65ZgacGIk0aGpfiN92rpqNq6XjKOm603WFd3XVUUiDMmQBuqOI-q2p2mebjwBnpnxWk2va2OMEq-wuOtj5LMKxPLP6An4IH-ewUVDHGwh0yfKwk0paGhoucdqJXzkZqA6ZFhQzJHq",
+      "metadata": "Holmes Place Stadthaus Köln GmbH, Köln Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 04.09.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Holmes Place Stadthaus Köln GmbH, Köln",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-07-10",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=F__AmWM6IMaGtf-kVyR2jJ1HF0o__m_bVV9VpvCri0cc9RwQ1nN9f0KyVjqCaRJ_qyIphRXIx7STD0i21A_vChVvYnhHnF6bwTXRACt1fCRPuBZ2ynNHV0F3FT8B2FHCN9IZY5To8I0b3f-53xZCS19ET8j2DZb2uO6SfWjvSayVQzZ5gyhZcqYaKINOLKg4HtGMVi-PKzIiF0dFIaUkSBbFN5Q8KJkmg-r2I2MaeadshVe9",
+      "metadata": "Holmes Place Stadthaus Köln GmbH, Köln Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 10.07.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Stadtwerke Köln Gesellschaft mit beschränkter Haftung, Köln",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-11-23",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=YZ085ZHS_VEAqnPYn3li9FPpGjVOnLC61jyDLBwYPGk9B1zqdzYEbZMAobZN6AhuWya-MlQtZRENvi_PuT108U6x-henHtsVkmVFWmdzdICqZaoK9B6uqhkPI6jp8ds9lmWlTHJLQQI1s0HViCDZ6E0qy-PwQnXsLx4LgytPEN0yc1jhN2xGH1mcGWLB8iiQQGY3F5SacLBsmWAmvfw-Mws6yQEn43ErjdxDXfoxWWb5ooU",
+      "metadata": "Stadtwerke Köln Gesellschaft mit beschränkter Haftung, Köln Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 23.11.2026 Sprache: Deutsch Befreite Unternehmen anzeigen METRONA GmbH, Köln BRUNATA-METRONA GmbH, Köln",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Stadtwerke Köln Gesellschaft mit beschränkter Haftung, Köln",
+      "title": "Jahres- und Tätigkeitsabschluss nach EnWG zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-11-03",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=5UmyVCPMkQj-WoBHPZn7_QXB-nALiUrQOkw7TH-H0ItpcQT-8vcXqqIe9zq6GzCbpOsfpEH8tpUk15vzGMDn0aC8EtHqhEDwcCq15wQ1F1movSguzaaRvnJuOEsqaNsj_gIA83XfLdf4H4rdipQJ6u17_OR_FiyXWWaFkB8ECsShBeWj83xQH9uIssFGXrHbad1Ow9UqOzlD9oJDNct5ezObmEZgQSgT5oZHvxCKoEFeO2Y",
+      "metadata": "Stadtwerke Köln Gesellschaft mit beschränkter Haftung, Köln Rechnungslegung / Finanzberichte Unternehmensregister Jahres- und Tätigkeitsabschluss nach EnWG zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 03.11.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "BRUNATA-METRONA GmbH, Köln (vormals: Hürth)",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-08-10",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=snI2AYWcUQbe2UaGW_b87mtp9iChT-NyqlQPf9OS6NMBCGwHAj59pa2sPp836Z8NnVKqrZ2yqUUgQFmNWOhQo3MxqIyNRw-lBVSLNdTMtzodMjgau0HnM0dl7kl4n-UfkXD-93qf6ScBLHEqMEGfQS0nnzmYS_sPdrC2ejk01X38r7HOAfazi_2SG6gSyrJ0m4Ekgt0RbN56-q26bBti5LWOQuFAoW3vi4vmawiZRBOADU8",
+      "metadata": "BRUNATA-METRONA GmbH, Köln (vormals: Hürth) Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Stadtwerke Köln Gesellschaft mit beschränkter Haftung, Köln Datum: 10.08.2026 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Stadtwerke Köln Gesellschaft mit beschränkter Haftung, Köln",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-01-08",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=bvUGTugtoIGG9B32eYx4prWcKrx-L8fEGVeXxIn-zoTvvCRPiVC9lE2ka1YfbF0tnlpO6kj1QiEo-BmKnrwfhcYhepK6-jNj2Tdo7ZM6ajPB0oAGeNzfptxG0JPtngFtJaiDL56sh9LFLkx2e7CZohv4DfG6wayryESe_Azl5r7JX1RijRAwR5rDn-EJD5HSI2xdoDSFH9ETTk4rVqYfUSgs4IsALmeYx6grpLuldA4CPYQ",
+      "metadata": "Stadtwerke Köln Gesellschaft mit beschränkter Haftung, Köln Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 08.01.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Stadtwerke Köln Gesellschaft mit beschränkter Haftung, Köln",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-12-10",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=IR8Gc7OQF58CklN2hcEmJF-614cPAq-TCd5Co8sBDgPq_rrJysOBoSUeNuBq78SjYgvr-EXnhJzUV7nOrvTW8tzF-Ki7uay4SJf1VhUt-vWceKiHWA2Bq5TE81-SQCRHXdhWAahcNG7x91Zx65ixzcC07w7dmp8kPeVM2kKkWnawqqG2VLeC_fxQqiIC5ihs9CeUZXTcJca92OgaADZE1YTSklV6ZZQ8I0k8dz35dNk-Ysw",
+      "metadata": "Stadtwerke Köln Gesellschaft mit beschränkter Haftung, Köln Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 10.12.2025 Sprache: Deutsch Befreite Unternehmen anzeigen METRONA GmbH, Köln BRUNATA-METRONA GmbH, Köln",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "BRUNATA-METRONA GmbH, Hürth",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-07-15",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=Djt4qCBoWFATlu3wre1Xb279JnpM130LIU8NCqPqqgJ7gBXr_cqa70oWmBSpicJpixtWrkD01SoHMfIuk3M_xEFfHNbbN8mFvoJlMSjcl6Al_Ln0HaRFlN8Z8tVb4q8f484wCm_ZvkkevGPmj4_96LjSABmtPLQrYprzKVCIIcamHPcI8CcorpTchZNPYo9e75lwwgBO6plwNSKu3L2K07UvPIRDcHqT7O8EVcoosA6b3AQ",
+      "metadata": "BRUNATA-METRONA GmbH, Hürth Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Stadtwerke Köln Gesellschaft mit beschränkter Haftung, Köln Datum: 15.07.2025 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "METRONA GmbH, Hürth",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-06-24",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=fRexqtgqL-hUMprsTWbron3B2C8BMACnPSTXFDciYTjnBUPIzNCWt4wiEQYu0-9fwFuK5TVROq2oG9Mz3rdG_mjsGhu-visa74ou-QJjda7CGyk7LJ-v8jl4i2Zh3LY_QXVhGAOAhay3avuH_iRvVwWYHaVPVguHCNHWgXu_xdZxjfTswunFIzkAyy2JibbkSIQ-XZ3rrLXxXkdPz5Odeg6YNxBSkmBBGNyS-EY8h7PmICA",
+      "metadata": "METRONA GmbH, Hürth Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Stadtwerke Köln Gesellschaft mit beschränkter Haftung, Köln Datum: 24.06.2025 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Stadtwerke Köln Gesellschaft mit beschränkter Haftung, Köln",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2024-12-17",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=k1HmBsQJQHhx4eJzWn-rJLoHDifWD2PgmshdtGIFy05E4Fq1lG-rvy--uH8nxC9-2cUO2wEVhiwPhI3Q-W9XnYsKOB-jzK1BtAfQt0pDxG6bFaYNEP5PhTgL95bRqXP1s3V95CTNQyf0nHUEsa9Xj1fCRlxdrrcu0vpYHmpf2oAp-LE68Ajr8tdaT--Du5jAtYGZbFM5armFJoLqUQYuQuagkuG45lcmSvxUrhHt5hMDZmE",
+      "metadata": "Stadtwerke Köln Gesellschaft mit beschränkter Haftung, Köln Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 17.12.2024 Sprache: Deutsch Befreite Unternehmen anzeigen METRONA GmbH, Köln BRUNATA-METRONA GmbH, Köln",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Stadtwerke Köln Gesellschaft mit beschränkter Haftung, Köln",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2024-11-26",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=n3si5Je70hy8IPMdLWLBCednWwkEvJLEewirzMuQGIBkRIKYkH79JpsKqNG1ilB2AfpchZ-flBPodj-xKtuDo3hhQw2mMOZQnLq6TQEEC3n2DBGugnRU8Nmqxzk7Id2IBAmlcCAwZm6ktizHgKVhoWB0hlTGOLOw7w8egxoFiLn-P1xkFv8KOhyhzU6tJAJ_RhIutO3hNA2i-yVxxcE3EgUCwn79cO0qrFStJHFsFKnV9qg",
+      "metadata": "Stadtwerke Köln Gesellschaft mit beschränkter Haftung, Köln Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 26.11.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "METRONA GmbH, Hürth",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2024-07-30",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=k8I_IzcGukizxCrHmO9yYyzuGaFZL-gaYyTJcVQWbgG_MW2ZX4X8bg5cuquK9L2x--0Xo0ERumu6xku7cpH4wBMGtelVpTEkanYyXllIGg2jkjQ85U8h5jxfuU_vj9zju1xYgQSkDvimH5OBY2GbaWwTTSo1fWj9eMbxkP_Y2fHctiuM0PV33YXBfskxnloLblbZDvoCuKAJbD8q8tYcXcHxToJ_TmNM8Llvakyq65PaTB4",
+      "metadata": "METRONA GmbH, Hürth Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Stadtwerke Köln Gesellschaft mit beschränkter Haftung, Köln Datum: 30.07.2024 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "BRUNATA-METRONA GmbH, Hürth",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2024-07-26",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=Ub3DoKc8Q7SGdqnF7oZgGVNsHtslWD140mMEjDowAR9xD4wYnT3hlMY8dwoylbkljCSvQgqOIfeNXWtYxbTUjNzK9XaSCZNkV_4GLsu62BGUmKy5uHSm3blb9qJjXfr4K_tfjmG6b0BoNDr7Gs4QDfnfpwOZ1qDYpVAF2jY6fx_uipZleF3AjbZ8urB7lfIH194zfT13QdeMXXE_rTtc9Akc3H79eOAhQJiRJtbQufTdUaM",
+      "metadata": "BRUNATA-METRONA GmbH, Hürth Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Stadtwerke Köln Gesellschaft mit beschränkter Haftung, Köln Datum: 26.07.2024 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Wohnungsgesellschaft der Stadtwerke Köln mit beschränkter Haftung, Köln",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-10-27",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=7RWafkfnjM5e09a4fJvSxmBBy2Wr6WBxnJzK1bG2PDAqD9I5EZfCo3DnkbeOIVg2ZgS6mrDOxQt2e0e-cM3ZNC48tQRrAKb1pnU6B4t44yp393wHdPUc9IZ6KVV-Nk8Hya09rtvtBAgo6X-Nc4LjyNvACOUhI68Xl4FyQBFucRLxWotVDZCF6G4T5H9srbxmy4XV8Ae20_UtzjDb1FH6HOf9wbUvLgTewGTfy1LAtObyEk8",
+      "metadata": "Wohnungsgesellschaft der Stadtwerke Köln mit beschränkter Haftung, Köln Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 27.10.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Stadtentwässerungsbetriebe Köln, Köln",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-07-28",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=COMprva5CTYE5sGCxbapoI_STub3r56dctXXZuALR2gehFEujUUD0S0-82wlX-EQQh7LbDN6HkyEBYHO3z0-xdw3TxyuXGkIL_HXQz5SU4ZTmgO7j3qK-E7mYeo1JeIpSkE_btRuJ34ToZdxzdvwR5rAdYTrhyyHQ3RJbtrsb2KPdO_mk_uLCkD1_LvtFwCZ2bmUUWqlfonbOMoLrzhwqE4M2heJeVI8hcpON7HeElaaQWVF",
+      "metadata": "Stadtentwässerungsbetriebe Köln, Köln Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 28.07.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Stadtentwässerungsbetriebe Köln, Köln",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-07-09",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=MilKSXmeB7iMhluDE68PydKl6sjwmyYWg_uZJf_mv27hkJoPubaCNdlxBaUjAkf-hltsDFoOMqQlHr0NuCcAXWX9moJk9XIKafUAKD4MB007gf79KT4eWrDF_Pg_JGTV0of9tJaCeZhJUbo5N3f2eVGmjie4TDGwHsb7cqgrM-IS-B3Gzf_odtZlAeVZnmneuLFUjq5pHoQgifoRbZQ35m71ggPy3WoABqwrhs7tW83XVJV-",
+      "metadata": "Stadtentwässerungsbetriebe Köln, Köln Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 09.07.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Stadtentwässerungsbetriebe Köln, Köln",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-01-13",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=nRwTJmp-OEMm4haUSEGYXViYFj85Wg3VTV0Kbtdn7A6qhm6tm2bfvWCYw4Yiff7xHFtmf4KA3gN-yOIR6i0y8ub4enmYaDrgrSb7Ml9swf4YrC0LC8RO3HvZFzVdOTzLIZitbIxg69S4ni6ubHNw4IiRjgnHCyzo89z00wKisaDDFUwKdYH5Jv_KeYpM_wUExeRR-20C1UZ2jJNoyiolaBFn1rPAfHgzZJWEANcFWI5O_Mv0",
+      "metadata": "Stadtentwässerungsbetriebe Köln, Köln Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 13.01.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "\"Stadthalle Köln-Mülheim\" Jülich GmbH, Köln",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-05-06",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=Ge3KF-nO-uKOMqm03gCPQ87efDciueif0eBVaSau0hFQzt1derGLzTaclpJFKa9DjrwNMBlbHl4L67IB1lIozxg8-TqxrdPUApTO7LLbHII4G0i-KDLzT2mRvlE1naAsUfejAymyPIHHGR6wTEYg-1wblH7jfVABzVlfT34MsK0wGfQzcgyCYnZWXIkQ3kjKRt5-oTXDuGoBmKi7Q7-jGCr_jHGtj_Ro05iduud7QHbaVR0",
+      "metadata": "\"Stadthalle Köln-Mülheim\" Jülich GmbH, Köln Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 06.05.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "\"Stadthalle Köln-Mülheim\" Jülich GmbH, Köln",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-01-02",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=0dTdvfKRy9Q4sMBigiwUmVEAutsvNr1peQilaVgmo3sO78dt9J9J9EQwUZJWHcFQC8KeUtXauBrnDQUr-5uZAEOlO8AAh37OHJ6sYqMIJ1P1WaHbGUexYJI0tDJkIjrmoUlStNcUNJRuK772Ct9oX0-NLiCHwtJd-2tYKJs_xsJZcW2mNo5WURCNyp3W87JVQcKA65C3EOQ6tRksNRra4l1Qv8HVnCftaFWbdZmIH0tgeos",
+      "metadata": "\"Stadthalle Köln-Mülheim\" Jülich GmbH, Köln Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 02.01.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "\"Stadthalle Köln-Mülheim\" Jülich GmbH, Köln",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-02-28",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=tOa7cUrP5enfFhpMq8ktHWScG1c56x4DP2kj7DpPn9UYYZOi9OfX47KfYa7C5Qj8kSAfE84Ay-o9deWLmMNXHZF7n8DXDTyjeuZ3u_qqSomMzAsBewNifxr28orqubgD6oGSeo0Rtoz59lDevk_Gys18xBwj3D74g4KNxO_pIbtn4QaS7BIejrXu5xun5rVqHVpMCHlubr_8XvVSnvi_HiFeROKUvF1Bv15GzTdJCbIQ1Z8",
+      "metadata": "\"Stadthalle Köln-Mülheim\" Jülich GmbH, Köln Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 28.02.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Holmes Place Stadthaus Köln GmbH, Köln",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-07-16",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=Gf9OaznZpgHVVgspyZiH121lOVrZwuOFIXfz2DX-n9xG1yJK_IL7ncWsdhw-Rbt2WLWjmOYpypYcK4cTke6gdQ34qtECA2NJQKJ0GzX0T2Kbh_i3n-469_fbq1Tkpdf93wdbaBWLfkswdVya3qNCszPR0SDhrAJoOTpszuroaYrTuPAis9WK4u1XtWNb1V8dW7GfP1KhggWQZ2nfvfJBFKXDIxigP_2_VfPHdgaluQUDBKB8",
+      "metadata": "Holmes Place Stadthaus Köln GmbH, Köln Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 16.07.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Holmes Place Stadthaus Köln GmbH, Köln",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-09-04",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=plDuSeroTbeCsepYVnibuK71ExyL1MxwrMeP7hNG0wxcWbb8DBWNQ7xGTcFbt1zaVRYkPrCAG8ZgasnNtzfHQ8tHAF6J3tCDLOInQtVoFVd9sFxJPEISpTGkrG3tWt6Q5BYFoxpVAOpdRYtNVHZgCsTXeVCH5oXrPKDgxg4u0Xf3LOEh2G-lglAhIRR_weltjjdMh82BhjUC4FRdf-CGxw98-S3naEN6e4VGwujNSrHlofF8",
+      "metadata": "Holmes Place Stadthaus Köln GmbH, Köln Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 04.09.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Holmes Place Stadthaus Köln GmbH, Köln",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-07-10",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=I880yv9FaWHplphmJBKIdn4QxyJGiR5l3TiKeuM3uNH4lM_ht1YRymH0ZQHrVMllF9FVAyy0rKQydeYJBzF58EfblivMHsvFtDsUoNhxrsc5bgGVPGKftvO-ZBhXjkjOzjLEMLzKj-ln2oBdO6krUVJYnZ0lZ4RGZK8Z0HAhmQ5s2-MTgNTsWCP3vytTcN2e1C_33va4Wr56EookEFX-nEEbKhoc_IJycd_T53tLh31ObAyt",
+      "metadata": "Holmes Place Stadthaus Köln GmbH, Köln Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 10.07.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Stadtwerke Köln Gesellschaft mit beschränkter Haftung, Köln",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-11-23",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=56ahiWE0LPDbEtqpBUylLyXMrfc8daDxnwIsPk1V20sAEepyXgtPSasR6DIXdFf74p7C7rgDYZNR6YlrEnpZ_QnULwOEaOuSTrIggguzbEH_3cY3YVpBww-G3B60EWkQtIwNS6vh2eNz1gbegqhYOpMCA0SaxllAA94BvtqcoY_ZAySEDYpzNfay-2S7mKim5eZVhCp_4fufH0YZOf7UHgL_NtTNxbZ0GbjeEAp0s_apw2g",
+      "metadata": "Stadtwerke Köln Gesellschaft mit beschränkter Haftung, Köln Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 23.11.2026 Sprache: Deutsch Befreite Unternehmen anzeigen METRONA GmbH, Köln BRUNATA-METRONA GmbH, Köln",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Stadtwerke Köln Gesellschaft mit beschränkter Haftung, Köln",
+      "title": "Jahres- und Tätigkeitsabschluss nach EnWG zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-11-03",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=4N0AwT2GAhyotx9Pz9yRGcNgzCigg187qsEcP-oxl9zXkANcSPXoAJPahHEDzVyQWBoY8SKZpQ5o6HOtx9xxTZjgUZHYpwXPAi5gn3QEoxWkTceYNLb3hw0KnZ2855ekPg8DeDh6tIkaSv0TB4o1A5Ukg2JYw3bKaPPZ5kS3E3HDBkkAoxEcfdHdSbCipAYvXNFNS3PvhYErIutFTDdUOK1Gg11RhG8xZkAqF7FXi_x5HvE",
+      "metadata": "Stadtwerke Köln Gesellschaft mit beschränkter Haftung, Köln Rechnungslegung / Finanzberichte Unternehmensregister Jahres- und Tätigkeitsabschluss nach EnWG zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 03.11.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Stadtwerke Köln Gesellschaft mit beschränkter Haftung, Köln",
+      "title": "Aufsichtsrat",
+      "publication_date": "2026-10-08",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=VrXvlhBlZTSS1ynBBMCszUxig913VTRQ2lK35x5n7ujo879Vlh9Op7KkR4fUmmQ0nZp8C75ZKDVOgyNA-8fgWKNcCQnKiAmg_fvfEhf82VrEc1Wm-0YYcLLtMNkzLI-53iDv60g_QpJ5XZ1Fu_2TLCgO9QLuganefi6dSgrpo_KyjhcBOY8FT1LbWAfxOfeQpDJuWCH5zaBYC7ibprD3plpFyw95RnmKkvP3NhaYNBxCPjY",
+      "metadata": "Stadtwerke Köln Gesellschaft mit beschränkter Haftung, Köln Gesellschaftsbekanntmachungen Bundesanzeiger Aufsichtsrat Datum: 08.10.2026 Sprache: Deutsch",
+      "source_area": "Gesellschaftsbekanntmachungen Bundesanzeiger",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "BRUNATA-METRONA GmbH, Köln (vormals: Hürth)",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-08-10",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=uzTfgoEVaPaZY79kxgk0PdydMlUM2Sfs-j_iL4ku6hU9P-HVt72Gz4gyLLZ5Ah5LIVlylx-rBqHDLjByLvzmJ50Ts2rBe61MAgz4J1zCEuSXeBs_EHPIAvE7ay0CKYlMw0tNdg27f2dVD12xjgxEG8kKgZaEOUTakGsJSmxznzwPXhCuPUj9Nj0LnPiHrkmNB_Di81tmO2vc0twZpaBCaKPNuVBOPf2wlJU9DO5FxWlqh1M",
+      "metadata": "BRUNATA-METRONA GmbH, Köln (vormals: Hürth) Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Stadtwerke Köln Gesellschaft mit beschränkter Haftung, Köln Datum: 10.08.2026 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Stadtwerke Köln Gesellschaft mit beschränkter Haftung, Köln",
+      "title": "Aufsichtsrat",
+      "publication_date": "2026-03-04",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=IkSbKk0_ou2_rCyqfMbc4HbZMxKcxU1nQgvYn34nnn7hWtV7Rgx-hP80PCb9XiAhkmz7YqARQ5AiEGUhGZ53cmwZ0480OemOhuQHQY7-8YSuYow9EXKLyt7mIR5AX7KB5EgDsIXpYoXH2BAgSGCcCll2aQPPJuavzGHJMONXznfOFX804_soaqdB9Ky9r05cK8jb8MPQM5Z45Lkjiynut7k4fNlvmDjEgWoI6rIfgu0pAIY",
+      "metadata": "Stadtwerke Köln Gesellschaft mit beschränkter Haftung, Köln Gesellschaftsbekanntmachungen Bundesanzeiger Aufsichtsrat Datum: 04.03.2026 Sprache: Deutsch",
+      "source_area": "Gesellschaftsbekanntmachungen Bundesanzeiger",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Stadtwerke Köln Gesellschaft mit beschränkter Haftung, Köln",
+      "title": "Einreichung neuer Dokumente",
+      "publication_date": "2026-02-03",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=ANLVnExtu78I7WyWYf98SxRdE10nVp2ENvHU51uAfc9UA36Mfj9jAJm-jfneQLAgp4j6PdIB3djB3HAFGEA5rkcygiA46lzHzpKQEMcpDojyY2CSS2Y6ND4Q-QPI_Pl0ANBaWYo3lmgcEMkLROdcinBH82AvX1H4M9bevIdjMrRyE06W0D9C2swIF-CGBCLkunNXWpL3iEnKCIW3p_l2RvJpmXZ9l_m6aoo5Jqzi4-R3XRs",
+      "metadata": "Stadtwerke Köln Gesellschaft mit beschränkter Haftung, Köln Registerbekanntmachungen Einreichung neuer Dokumente Datum: 03.02.2026 Sprache: Deutsch",
+      "source_area": "Registerbekanntmachungen",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Stadtwerke Köln Gesellschaft mit beschränkter Haftung, Köln",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-01-08",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=UQv6QnGK7LxBwKS5vR5EEFCwXSZHZomSRh6-d5smF62TuWF97AxPW-eERJv3uPJRzjSYLyqsOQfKJIy0amZZQiqCwGzWWxqUKifybn7ZBEXZC0zFqRN_ji3HnrBF71Ru-Tq4EpovPKBUrTXXlPtChLhI8Z2Pa2UIh83Tz4JKltQWsdSRazSetaoYMhWxhWAONzNHXk3LulqbxIKoPDx_wmC04U-ypLuBv-_yQJqLt3UFpqU",
+      "metadata": "Stadtwerke Köln Gesellschaft mit beschränkter Haftung, Köln Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 08.01.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Stadtwerke Köln Gesellschaft mit beschränkter Haftung, Köln",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-12-10",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=F6q28feqfxnTQESoT51uLNz-5tAKggS2C02HngwVnOU5wXYVBIM_gkl7Sg0CyaUill3tmo3mVaFXBzyK0-S8VL0_QDrCnJF7Q-T1FjfUutXl06S2-rxWslnOabOkTZms3VBxp-ZQWSnFu9rQ8y3TWEP0D-C8Hzq4EfEKeocMrkmG_vr5OnAbpizmZbbprLc-wgHD1XkgqctO7zcak02uro49c2E8vZB1hFyQobbCsCGz3Bw",
+      "metadata": "Stadtwerke Köln Gesellschaft mit beschränkter Haftung, Köln Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 10.12.2025 Sprache: Deutsch Befreite Unternehmen anzeigen METRONA GmbH, Köln BRUNATA-METRONA GmbH, Köln",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Stadtwerke Köln Gesellschaft mit beschränkter Haftung, Köln",
+      "title": "Aufsichtsrat",
+      "publication_date": "2025-11-03",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=nqemtaaAi9Igq19_aPKtdDU4hw4vjNtS-tl1L3wkm8mda17K5Sg9gLJ1c6QfDx8p8BIGswkWmW8U0mCVngRtZj69kE7pbgY_GN-uUaOFOmfYiYI-KqkH_n7lvYcOf72nfcSEoI2Cm1kszz1S4bu6xGrjH7QadikrIFWeBpwU4hUVeMuP-deBlMw0JnIT7utt6D8T-NR7yLDo1xlFc1xl7uQDB0w6owQItozRIgId6MHp1rI",
+      "metadata": "Stadtwerke Köln Gesellschaft mit beschränkter Haftung, Köln Gesellschaftsbekanntmachungen Bundesanzeiger Aufsichtsrat Datum: 03.11.2025 Sprache: Deutsch",
+      "source_area": "Gesellschaftsbekanntmachungen Bundesanzeiger",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "BRUNATA-METRONA GmbH, Hürth",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-07-15",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=rbmdFURJP9xTcU4zw8_-lYmea5b3ezFQhYMD3h1_-KgSDrrRM8fQdXKV385DUYkAfb7nfXrapkPjZJTa-WgIyfas_jrmGqDgEwKStQ_9eWq_j8Jsqq86nZDoTDl-4amqexBPSPNG9WHcPjguk1_DDxPF0Qj-A5AB__v3FzMfnWT6u5qnbWne82bXaR2FZSNl01bt-GRb4DK7t9r_xYwjMHqMPvsLrn57kH29uekqHS5e_Xk",
+      "metadata": "BRUNATA-METRONA GmbH, Hürth Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Stadtwerke Köln Gesellschaft mit beschränkter Haftung, Köln Datum: 15.07.2025 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "METRONA GmbH, Hürth",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-06-24",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=_1KqL0TM5QV_e4BFO-DT5Wz8ZiQJEZ8SPKDlwLbA627eI1esLoDGdVa7R04W_WCGMtSghgbGgEN5AOg912-0QHW4gYL69fP61CXB4JRyCO-YwSgCTsKq_qxO6kb6HTZ6YhmmhTfK0pO0LpagUOdrvY1NZy_G_ORj8qfvhobV43X8DUdzDe4spFPtHsK6e2IDFaXWg4XUN48XxGGL8vQ3O3uBYjMuWKtxuI1MbgL7nmHNw5c",
+      "metadata": "METRONA GmbH, Hürth Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Stadtwerke Köln Gesellschaft mit beschränkter Haftung, Köln Datum: 24.06.2025 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Stadtwerke Köln Gesellschaft mit beschränkter Haftung, Köln",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2024-12-17",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=Y9-ySUNw0OgV7pknpEX7f5LgG-h7IZvd61zZYvuwXqyLZoje6bXGDidUEHCjOlohaO8XHQ_N1Jw5jd7Sv2trsfYjKSSo3WaTGN0Y4gbXsfBeJwc0sGqF8QERTGb24WturZwzLmNVvR8KGwIWt15L3Ozyrh3U5T3FhUVBgPbXCq16QMBhEBp56J2L_zgyXaLfsU58Jbu846DLzkjXffCo_B4ozcbk2mjXcy10vwcUzuk6zzk",
+      "metadata": "Stadtwerke Köln Gesellschaft mit beschränkter Haftung, Köln Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 17.12.2024 Sprache: Deutsch Befreite Unternehmen anzeigen METRONA GmbH, Köln BRUNATA-METRONA GmbH, Köln",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    }
+  ],
+  "date_from": "2024-01-01",
+  "date_to": "2026-11-25",
+  "excluded_dates": [],
+  "max_publications": 30,
+  "truncated": true,
+  "coverage": {
+    "search_complete": false,
+    "more_pages": true,
+    "publication_limit_reached": false,
+    "downloads_selected": 3,
+    "downloads_succeeded": 3,
+    "download_limit_reached": true,
+    "downloads_complete": false,
+    "text_complete": true
+  },
+  "publications": [
+    {
+      "company": "Kliniken der Stadt Köln gGmbH, Köln",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-01-15",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=ERtJK9WRccQxvSuWx9O93sXAV3iGrnKs6O1ZbwP5BHkoWVnp7mtXCOzrOTTXg_tr64BTzAy4vCw0-U4l6fBjcbVypOdja5WtoLNjWor7dvI64RXtEuosYjIS-dnuUx-oGgPUeiDDBSMn8_GDwCEpmtBgslNdUVsQWj6H9LqtZSW79FQ1na9lE724kqBrDYQSmV4j9PtT9TRml3f1ZpLSCrEIFhOqjL1xlUSwynPhYuXLxds",
+      "metadata": "Kliniken der Stadt Köln gGmbH, Köln Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Berichtigung der Veröffentlichung vom 08.01.2026 Datum: 15.01.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 1
+    },
+    {
+      "company": "Kliniken der Stadt Köln gGmbH, Köln",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-01-08",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=-pkC8lq4PgLjvH_9x-z4LooPvEvSMeIPJ0li6TJNHX6jFp_8jCUB4izAazHTYs0orNgKdgtFyOYPJuMuTysdbWIhBuEtX98PgXPJEkXpUX-WcS8-FMLVdLKTpvWdzk25FWFFWNWLaqLeVECUj6HOoaMdIZ33uuqhbUdIwpghqn9IhWNNGXqdaQrnI5hPjQ7vJf8DMKYcKLqVb9jenF_xKEcVy_IFzYkYUzkb4BCOXLJBDFA",
+      "metadata": "Kliniken der Stadt Köln gGmbH, Köln Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Berichtigt am 15.01.2026 Datum: 08.01.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 2
+    },
+    {
+      "company": "Kliniken der Stadt Köln gGmbH, Köln",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2024-12-04",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=PC4JrrZmK45RZ42DLpL9b6psddkdYtErgjnNfsxh3esAG3cT121XH4Oaqn9PCkmCERm6aAGIc3yXI_tsnY09wBAjbhBpONsSGS3N65bDMmrk_cy5u8QGRm_JDp5jqQ4mBoq_TFjcOa7FgCgLxNmhcLjXpxPWx8rLUV_ts1Mh6Js8Q5XTcIqYLne7OR8GoAWnbvcfs_RAgPW_SVaJPf3-_tvMk2ESY4oNb8ILzk3PSe60frQ",
+      "metadata": "Kliniken der Stadt Köln gGmbH, Köln Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 04.12.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 3
+    },
+    {
+      "company": "Kliniken der Stadt Köln gGmbH, Köln",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-04-05",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=wzKQ-2VPFYFCpE63Gz_7XEymxNIg4r1Qg7XWRTTsL55sRnK6GgXo43JhDDArIMH1giFaAoif7GgMXipyN3qTf2sVmZP3zTT7X3qSkL_kEpWIatHYsInsv1VQWvO-06E58X5keIMZ7uTiY3BPmFu8bbTG3AH32Mfuf0s7e8DybGgx7IGimTIknr6ToHx5e-cbSixKzbvj8_6-QXlT8w4WbBm7TEivk7nBkIrfObjCYDjT0aA",
+      "metadata": "Kliniken der Stadt Köln gGmbH, Köln Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Ergänzung der Veröffentlichung vom 28.11.2023 Datum: 05.04.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 4
+    },
+    {
+      "company": "Kliniken der Stadt Köln gGmbH, Köln",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2020 bis zum 31.12.2020",
+      "publication_date": "2024-04-05",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=WLmRVuZicdLMLH1YWDQnJwDBBYRS8t5dR7vnJhnGyKUa5IAnUVBkgEEoHBqIY5wsvYeU--bkN3DWL8vspgseJqLouRg9wJyf6oKR1GDMS2XztwI4voJ26_k6uguhc37Sk-LhICggT0HIi-KYfNsMcwhR7VdvVyZX1Dh4zGXDpDXgjZB0nvdIVWXgj5OZ3how-MN1biMv_skNVlX8MAYW-krHo515nN3J7P1C6V_CavXb1Qk",
+      "metadata": "Kliniken der Stadt Köln gGmbH, Köln Rechnungslegung / Finanzberichte Bundesanzeiger Jahresabschluss zum Geschäftsjahr vom 01.01.2020 bis zum 31.12.2020 Ergänzung der Veröffentlichung vom 17.03.2022 Datum: 05.04.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Bundesanzeiger",
+      "category": "finanzberichte",
+      "index": 5
+    },
+    {
+      "company": "Kliniken der Stadt Köln gGmbH, Köln",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2019 bis zum 31.12.2019",
+      "publication_date": "2024-04-05",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=AoVbI6YKF-Ps5-7vrw9qeuMx0Un1WRUKEwR_RKdh7JK_bka77Ap45rUhkT2MMaaCn1wTZKzB1h8NPWBcLSVEUy3tOIZsM52iX9Uvqz4T7dz-rzEK2boU2h06dtH_nSsQcxdPP8lrTSYHnHhZLxSgbLSrNUbOSSiTlDpr-XvaCqORzWHu29oUy88cHzDfD-fMn7yXXbR4eD30yU5EZse5wBpoHzMEq570z16lG_3cgoxvCJk",
+      "metadata": "Kliniken der Stadt Köln gGmbH, Köln Rechnungslegung / Finanzberichte Bundesanzeiger Jahresabschluss zum Geschäftsjahr vom 01.01.2019 bis zum 31.12.2019 Ergänzung der Veröffentlichung vom 27.10.2021 Datum: 05.04.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Bundesanzeiger",
+      "category": "finanzberichte",
+      "index": 6
+    },
+    {
+      "company": "Kliniken der Stadt Köln gGmbH, Köln",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2021 bis zum 31.12.2021",
+      "publication_date": "2024-04-05",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=4luxbo5PvRKxUL6SjbKK2QTkbnm2emKag7VqEpL04_xZ4cGe042HNEOA8XbZ_l742pb_T74t6EjUAJcKIvKo8VSZhKeBYHaeHfmXBQrYWgsvKrUA9ATLDPCMGzQXK8zpujzPwb18g9zZ8AxWMVuSp4mdxLHLCobqKEknGSdxZqQxbrWcMrdZyGFlsasSKVNqBk-XQSwz4_tQN6hfWG4NkN0O2d-tvPmfxAqojLp51RmlFlE",
+      "metadata": "Kliniken der Stadt Köln gGmbH, Köln Rechnungslegung / Finanzberichte Bundesanzeiger Jahresabschluss zum Geschäftsjahr vom 01.01.2021 bis zum 31.12.2021 Ergänzung der Veröffentlichung vom 21.12.2022 Datum: 05.04.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Bundesanzeiger",
+      "category": "finanzberichte",
+      "index": 7
+    },
+    {
+      "company": "Kliniken der Stadt Köln gGmbH, Köln",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2018 bis zum 31.12.2018",
+      "publication_date": "2024-04-04",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=1u5Y_yawyM8UoNic2BpyvnWhdLs_eF_mnQYBDhjdxxq3cn1hocY4zuK_O3bZ2WbgWHosV0ckKdXOtwTiV_ilSqYn8q0NyZmtO0XBZWwJdwM9svwBt0WdJ8tO0E3IRwSEoscrIFrAZ5lbof72faLpjq35T_DaF5MyR0eQtaCBiQ_Zl9UYL4iAMBatPppS-Fq18QOPnrX6ZbQsrTGD7mCO4VkJE0Wimip5SDRrM_u8-by-fb4",
+      "metadata": "Kliniken der Stadt Köln gGmbH, Köln Rechnungslegung / Finanzberichte Bundesanzeiger Jahresabschluss zum Geschäftsjahr vom 01.01.2018 bis zum 31.12.2018 Ergänzung der Veröffentlichung vom 30.04.2021 Datum: 04.04.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Bundesanzeiger",
+      "category": "finanzberichte",
+      "index": 8
+    },
+    {
+      "company": "Kliniken der Stadt Köln gGmbH, Köln",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2017 bis zum 31.12.2017",
+      "publication_date": "2024-01-26",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=YlsUUExN3M7-YTrLp_3mtdxAayjH_e27A2cqxXP0HPaFGRK_4kPx_j2QvZEfkvUjFgjRnxy3IaxzzbU-Ex1H5-Q1CPJVrXoYrdrXwI9eX7ZZI1l6E7sbs_cnbjCtIeLnusxc3BrBwDs3v7swuctHHIbxUfVoMqjkIo9jLbQmn-EVoyr_wg_dGwKCRomMeG3uYs6TolfhUh7pqP9JIdcczTogIcsK81XrJvzxttAP1ByQRzQ",
+      "metadata": "Kliniken der Stadt Köln gGmbH, Köln Rechnungslegung / Finanzberichte Bundesanzeiger Jahresabschluss zum Geschäftsjahr vom 01.01.2017 bis zum 31.12.2017 Ergänzung der Veröffentlichung vom 17.02.2021 Datum: 26.01.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Bundesanzeiger",
+      "category": "finanzberichte",
+      "index": 9
+    }
+  ]
+}

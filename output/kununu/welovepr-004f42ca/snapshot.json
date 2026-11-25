@@ -1,0 +1,254 @@
+{
+  "provider": "kununu",
+  "backend": "browser",
+  "status": "ok",
+  "query": "welovepr",
+  "profile": {
+    "url": "https://www.kununu.com/de/we-love-pr2",
+    "name": "we love pr GmbH",
+    "overall_score": 4.0,
+    "review_count": 19,
+    "recommendation_percent": 50,
+    "recommendation_period": "last_2_years",
+    "observed_at": "2026-11-25T17:19:11.223574+00:00"
+  },
+  "reviews": [
+    {
+      "id": "bdf843ce-b278-43e2-97ce-49be2d29918b",
+      "url": "https://www.kununu.com/de/we-love-pr2/bewertung/bdf843ce-b278-43e2-97ce-49be2d29918b",
+      "title": "Um Erfahrungen in der PR-Welt zu machen ist es in Ordnung. Für längerfristige Beschäftigung eher nicht.",
+      "content": "Sehr junges und dynamische Kolleg:innen\n\nCoaching für Führungskräfte",
+      "rating": 3.2,
+      "sections": {
+        "positive": "Sehr junges und dynamische Kolleg:innen",
+        "negative": null,
+        "suggestion": "Coaching für Führungskräfte"
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 2.0,
+        "communication": 3.0,
+        "workConditions": 2.0,
+        "leadership": 2.0,
+        "teamwork": 2.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 3.0,
+        "salary": 2.0,
+        "image": 5.0,
+        "environment": 3.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-07-28T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "19cf88be-2099-4881-b3f1-c20b9a31bc3d",
+      "url": "https://www.kununu.com/de/we-love-pr2/bewertung/19cf88be-2099-4881-b3f1-c20b9a31bc3d",
+      "title": "Professionalism in Practice: Working as a freelance English trainer with we love pr GmbH",
+      "content": "The professionalism of the staff working at we love pr, their high level of open and honest communication with each other and myself. The variety of clients and pr events that staff are able to work with and on.\n\nNothing\n\nFrom my perspective, as a freelance English trainer, there is nothing that could be improved.",
+      "rating": 5.0,
+      "sections": {
+        "positive": "The professionalism of the staff working at we love pr, their high level of open and honest communication with each other and myself. The variety of clients and pr events that staff are able to work with and on.",
+        "negative": "Nothing",
+        "suggestion": "From my perspective, as a freelance English trainer, there is nothing that could be improved."
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-09-09T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "ee886efa-2b8e-496b-bc69-4ba99445034a",
+      "url": "https://www.kununu.com/de/we-love-pr2/bewertung/ee886efa-2b8e-496b-bc69-4ba99445034a",
+      "title": "als Praktikant gute erste Berufserfahrung, alles darüber wird schwierig",
+      "content": "",
+      "rating": 2.5,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-07-06T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "d7f7e943-bf09-4f6d-b529-0517d9b1a2e3",
+      "url": "https://www.kununu.com/de/we-love-pr2/bewertung/d7f7e943-bf09-4f6d-b529-0517d9b1a2e3",
+      "title": "Tolle Kunden, nettes Team",
+      "content": "",
+      "rating": 3.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-06-10T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    }
+  ],
+  "review_limit": 15,
+  "review_period": {
+    "since": "2024-11-25T00:00:00+00:00",
+    "until": "2026-11-25T17:19:09.780736+00:00",
+    "date_field": "published_at",
+    "missing_dates": "excluded"
+  },
+  "factor_scores_aggregated": {
+    "atmosphere": {
+      "mean": 4.0,
+      "count": 2
+    },
+    "workLife": {
+      "mean": 3.5,
+      "count": 2
+    },
+    "communication": {
+      "mean": 4.0,
+      "count": 2
+    },
+    "workConditions": {
+      "mean": 3.5,
+      "count": 2
+    },
+    "leadership": {
+      "mean": 3.5,
+      "count": 2
+    },
+    "teamwork": {
+      "mean": 3.5,
+      "count": 2
+    },
+    "oldColleagues": {
+      "mean": 5.0,
+      "count": 2
+    },
+    "equality": {
+      "mean": 5.0,
+      "count": 2
+    },
+    "career": {
+      "mean": 4.0,
+      "count": 2
+    },
+    "salary": {
+      "mean": 3.5,
+      "count": 2
+    },
+    "image": {
+      "mean": 5.0,
+      "count": 2
+    },
+    "environment": {
+      "mean": 4.0,
+      "count": 2
+    },
+    "tasks": {
+      "mean": 5.0,
+      "count": 2
+    }
+  },
+  "coverage": "bounded_employee_review_sample_last_2_years_not_all_reviews",
+  "diagnostics": {
+    "pages": [
+      {
+        "page": "reviews",
+        "page_number": 1,
+        "load_more_clicks": 0,
+        "requested_url": "https://www.kununu.com/de/we-love-pr2/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\welovepr-004f42ca\\browser\\reviews.html",
+        "browser_step": 154,
+        "final_url": "https://www.kununu.com/de/we-love-pr2/kommentare",
+        "observed_at": "2026-11-25T17:19:10.938961+00:00",
+        "http_status": 200,
+        "factor_cards_expanded": 1,
+        "reviews_collected": 2
+      },
+      {
+        "page": "reviews",
+        "page_number": 2,
+        "load_more_clicks": 1,
+        "requested_url": "https://www.kununu.com/de/we-love-pr2/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\welovepr-004f42ca\\browser\\reviews-2.html",
+        "browser_step": 155,
+        "final_url": "https://www.kununu.com/de/we-love-pr2/kommentare",
+        "observed_at": "2026-11-25T17:19:12.231854+00:00",
+        "actions_complete": true,
+        "factor_cards_expanded": 3,
+        "reviews_collected": 4
+      }
+    ]
+  },
+  "source_url": "https://www.kununu.com/de/we-love-pr2",
+  "profile_source": "https://www.kununu.com/de/we-love-pr2/kommentare",
+  "review_stop_reason": "end_of_available_reviews",
+  "factor_score_coverage": {
+    "reviews_with_scores": 2,
+    "reviews_without_scores": 2,
+    "reviews_with_all_known_scores": 2,
+    "status": "partial"
+  },
+  "request_limits": {
+    "max_browser_steps": 295,
+    "browser_steps": 155,
+    "zyte_requests": 0
+  },
+  "reason": null
+}

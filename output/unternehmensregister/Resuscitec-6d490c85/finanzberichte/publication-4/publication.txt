@@ -1,0 +1,315 @@
+Resuscitec GmbH — Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022
+Resuscitec GmbH
+
+Freiburg im Breisgau
+
+Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022
+
+Bilanz zum 31. Dezember 2022
+
+Aktiva
+
+scroll
+
+	31.12.2022	31.12.2022	Vorjahr
+	EUR	EUR	EUR
+A. Anlagevermögen			
+I. Immaterielle Vermögensgegenstände			
+1. Entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten	983.442,63		805.299,32
+2. Geleistete Anzahlungen und Anlagen im Bau	0,00		89.700,80
+		983.442,63	895.000,12
+II. Sachanlagen			
+1. Technische Anlagen und Maschinen	946.337,94		623.404,33
+2. Andere Anlagen, Betriebs- und Geschäftsausstattung	1.003.219,59		899.677,27
+		1.949.557,53	1.523.081,60
+III. Finanzanlagen			
+1 Anteile an verbundenen Unternehmen	25.850,85		25.850,85
+2. Ausleihungen an verbundene Unternehmen	333.183,59		333.183,59
+		359.034,44	359.034,44
+		3.292.034,60	2.777.116,16
+B. Umlaufvermögen			
+I. Vorräte			
+1. Roh-, Hilfs- und Betriebsstoffe	2.016.446,28		1.897.233,54
+2. Unfertige Erzeugnisse, unfertige Leistungen	1.399.228,28		226.549,68
+3. Fertige Erzeugnisse und Waren	2.263.534,70		2.399.950,13
+		5.679.209,26	4.523.733,35
+II. Forderungen und sonstige Vermögensgegenstände			
+1. Forderungen aus Lieferungen und Leistungen	279.564,33		650.454,00
+2. Forderungen gegen verbundene Unternehmen	174.979,15		0,00
+3. Sonstige Vermögensgegenstände	667.981,86		771.922,21
+		1.122.525,34	1.422.376,21
+III. Kassenbestand, Guthaben bei Kreditinstituten		1.748.197,99	3.374.528,35
+		8.549.932,59	9.320.637,91
+C. Rechnungsabgrenzungsposten		2.241.098,03	1.773.059,81
+D. Nicht durch Eigenkapital gedeckter Fehlbetrag		4.565.463,72	0,00
+		18.648.528,94	13.870.813,88
+
+Passiva
+
+scroll
+
+	31.12.2022	31.12.2022	Vorjahr
+	EUR	EUR	EUR
+A. Eigenkapital			
+I. Gezeichnetes Kapital	438.385,00		438.385,00
+II. Kapitalrücklage	37.894.723,24		36.033.301,45
+III. Verlustvortrag	-30. 965.194,85		-23.425.048,09
+IV. Jahresfehlbetrag	-11.933.377,11		-7.540.146,76
+V. Nicht durch Eigenkapital gedeckter Fehlbetrag	4.565.463,72		0,00
+		0,00	5.506.491,60
+B. Rückstellungen			
+Sonstige Rückstellungen		927.663,48	280.530,82
+C. Verbindlichkeiten			
+1. Verbindlichkeiten aus Lieferungen und Leistungen	970.512,35		1.785.977,74
+2. Verbindlichkeiten gegenüber Gesellschaftern	16.609.008,17		6.185.587,99
+davon konvertible Anleihe: EUR 11.503.308,17 (Vj.: EUR 6.185.587,99)			
+3. Verbindlichkeiten gegenüber verbundenen Unternehmen	0,00		10.792,76
+4. Sonstige Verbindlichkeiten	141.344,94		101.432,97
+davon aus Steuern: EUR 108.131,48 (Vj: EUR 77.137,73)			
+davon im Rahmen der sozialen Sicherheit: EUR 12.388,99 (Vj.: EUR 9.689,06)			
+		17.720.865,46	8.083.791,46
+		18.648.528,94	13.870.813,88
+
+Anhang für das Geschäftsjahr 2022
+
+Resuscitec GmbH
+
+Freiburg im Breisgau
+
+I. Angaben zur Identifikation der Gesellschaft
+
+Die Resuscitec GmbH hat ihren Sitz in Freiburg im Breisgau. Sie ist im Registergericht Freiburg unter HRB 707215 eingetragen.
+
+II. Allgemeine Angaben zu Inhalt und Gliederung des Jahresabschlusses
+
+Der Jahresabschluss wurde auf Grundlage der Rechnungslegungsvorschriften des Handelsgesetzbuchs und den ergänzenden Vorschriften des GmbH-Gesetzes aufgestellt.
+
+Die Gesellschaft ist eine kleine Kapitalgesellschaft im Sinne von § 267 Abs. 1 HGB. Größenabhängige Erleichterungen bei der Erstellung des Jahresabschlusses wurden teilweise in Anspruch genommen.
+
+III. Bilanzierungs- und Bewertungsmethoden
+
+Die Bilanzierungs- und Bewertungsmethoden wurden unverändert zum Vorjahr angewandt.
+
+Anlagevermögen
+
+Selbst geschaffene immaterielle Vermögensgegenstände werden im Anlagevermögen der Bilanz nicht ausgewiesen.
+
+Die Bilanzierung der entgeltlich erworbenen, immateriellen Vermögensgegenstände und Sachanlagen erfolgt zu Anschaffungs- bzw. Herstellungskosten, unter Berücksichtigung nutzungsbedingter planmäßiger Abschreibungen. Dabei umfassen die Herstellungskosten neben den direkt zurechenbaren Kosten auch anteilige Material- und Fertigungsgemeinkosten sowie angemessene Teile der allgemeinen Verwaltungskosten. Grundlage der planmäßigen Abschreibungen ist die voraussichtliche Nutzungsdauer des jeweiligen Vermögensgegenstandes. Die Anlagegüter werden linear abgeschrieben.
+
+Die wirtschaftlichen Nutzungsdauern werden wie folgt angesetzt:
+
+scroll
+
+• Immaterielle Vermögensgegenstände	3 bis 17 Jahre
+• Technische Anlagen und Maschinen	3 bis 15 Jahre
+• Andere Anlagen, Betriebs- und Geschäftsausstattung	3 bis 15 Jahre
+
+Die Finanzanlagen werden zu Anschaffungskosten bzw. zu den niedrigeren beizulegenden Werten am Bilanzstichtag angesetzt. Entsprechend dem Wahlrecht nach § 253 Abs. 3 Satz 6 HGB werden Abwertungen auch bei einer voraussichtlich nicht dauernden Wertminderung vorgenommen.
+
+Umlaufvermögen
+
+Bei den Vorräten wurden Roh-, Hilfs- und Betriebsstoffe und die Waren mit den Anschaffungskosten angesetzt, soweit nicht die niedrigeren Wiederbeschaffungskosten anzusetzen waren oder ein niedrigerer Wert beizulegen war. Die unfertigen und fertigen Erzeugnisse wurden mit ihren Herstellungskosten angesetzt, die neben den Material- und Fertigungseinzelkosten angemessene Gemeinkostenzuschläge für Material und Fertigung sowie den Wertverzehr des Anlagevermögens umfassen, soweit nicht der niedrigere Marktpreis oder der niedrigere beizulegende Wert anzusetzen war.
+
+Forderungen und sonstige Vermögensgegenstände sind zum Nennwert angesetzt.
+
+Die Kassen- und Bankbestände sind zu Nominalwerten bilanziert.
+
+Aktive Rechnungsabgrenzung
+
+Geleistete Zahlungen, die Aufwand des Folgejahres darstellen, wurden in den Rechnungsabgrenzungsposten eingestellt.
+
+Unter der aktiven Rechnungsabgrenzung wird daneben ein Agio von T€ 2.025 (Vorjahr: T€ 1.653) ausgewiesen.
+
+Eigenkapital
+
+Das Eigenkapital wurde zum Nennwert angesetzt. Die Darstellung erfolgt nach § 272 HGB.
+
+Im Jahr 2013 hatte der Verlust der Gesellschaft die Hälfte des Stammkapitals erreicht. Die Verlustanzeige wurde vom Geschäftsführer in der Gesellschafterversammlung vom 18.12.2013 gemacht.
+
+Rückstellungen
+
+Die Rückstellungen werden nach vernünftiger kaufmännischer Beurteilung bemessen. Sie berücksichtigen alle erkennbaren Risiken und ungewissen Verbindlichkeiten und sind mit dem Erfüllungsbetrag bewertet. Rückstellungen mit einer Restlaufzeit von mehr als einem Jahr werden mit dem ihrer Restlaufzeit entsprechenden durchschnittlichen Marktzins der vergangenen sieben Geschäftsjahre gemäß § 253 Abs. 2 S. 1 HGB abgezinst.
+
+Verbindlichkeiten
+
+Verbindlichkeiten wurden mit dem Erfüllungsbetrag bilanziert.
+
+IV.ANGABEN ZUR BILANZ
+
+Anlagevermögen
+
+Die Entwicklung des Anlagevermögens ist in der Anlage zum Anhang dargestellt.
+
+Zum Bilanzstichtag besteht eine unter „Ausleihungen an verbundene Unternehmen“ ausgewiesene Darlehensforderung gegenüber der 100 %-igen Tochtergesellschaft RST Systems GmbH in Höhe von ursprünglich € 620.147,35. Diese langfristig gewährte Darlehensforderung wird in Höhe von 3 Prozent über dem Basiszins der Europäischen Zentralbank staffelmäßig verzinst. Im Jahr 2022 wurden Zinsen in Höhe von € 13.658,49 verrechnet. Darlehen und auflaufende Zinsen sind bis zur Fälligkeit bei Veräußerung bzw. Liquidation des Darlehensgebers gestundet. Die Resuscitec GmbH hat zu der Darlehensforderung einen Rangrücktritt erklärt. Da die RST Systems GmbH seit ihrer Gründung nur Verluste erwirtschaftet hat, wurde die Darlehensforderung im Jahr 2020 um € 300.000,00 abgewertet und hat danach zum 31.12.2022 einen Stand von € 333.183,59.
+
+Forderungen und sonstige Vermögensgegenstände
+
+Von den sonstigen Vermögensgegenständen haben T€ 140 (Vorjahr: T€ 51) eine Restlaufzeit von über einem Jahr. Alle übrigen Forderungen und sonstigen Vermögensgegen- stände haben wie im Vorjahr eine Restlaufzeit von bis zu einem Jahr.
+
+Zum Bilanzstichtag besteht eine Forderung aus Lieferungen und Leistungen gegen die 100 %-ige Tochtergesellschaft RST Systems GmbH in Höhe von € 174.979,15 (Vorjahr: € 10.972,76 Verbindlichkeit). Es handelt sich um Forderungen aus der Weiterbelastung von Kosten durch die Resuscitec GmbH, die mit den Forderungen aus anfallenden Lizenzgebühren aus der Lizenzvereinbarung saldiert wurden.
+
+Eigenkapital
+
+Im Geschäftsjahr erfolgten Einlagen in die Kapitalrücklage (§ 272 Abs. 2 Nr. 4 HGB) von T€ 800, die durch Bareinzahlungen erbracht wurden.
+
+Daneben wurde ein Agio von T€ 1.061 aus der Ausgabe von Schuldverschreibungen für Wandlungsrechte zum Erwerb von Geschäftsanteilen in die Kapitalrücklagen eingestellt.
+
+Zum Stichtag besteht ein nicht durch Eigenkapital gedeckter Fehlbetrag. Diesem stehen nach der Planung der Geschäftsführung aber positive Jahresergebnisse in kommenden Jahren sowie eine ausreichende Liquidität gegenüber. Die Wandelschuldverschreibung wurde in 2023 bereits um T€ 7.250 erhöht; weitere Erhöhungen sind in 2023 geplant.
+
+Rückstellungen
+
+Die sonstigen Rückstellungen setzen sich wie folgt zusammen:
+
+scroll
+
+Kosten Erstellung Jahresabschluss 2022	EUR 19.350,00
+Kosten Prüfung Jahresabschluss 2022	20.800,00
+Kosten der Betriebsprüfung 2021+2022	5.000,00
+Erfüllungsbetrag für Rückbauverpflichtung zum Stichtag	108.834,18
+Ausstehende Rechnungen 2022	369.701,55
+Urlaub 2022	131.663,19
+Zeitguthaben aus Überstunden 2022	32.824,56
+Boni Mitarbeiter 2022	197.890,00
+Berufsgenossenschaftsbeiträge 2022	29.700,00
+Schwerbehindertenabgabe 2022	11.900,00
+	EUR 927.663,48
+
+Verbindlichkeiten
+
+Die Laufzeiten der Verbindlichkeiten - gegliedert nach Restlaufzeiten - sind:
+
+scroll
+
+Verbindlichkeiten	bis zu 1 Jahr	von 1 bis zu 5 Jahren	Gesamtbetrag
+	EUR	EUR	EUR
+aus Lieferungen und Leistungen	970.512,35	0,00	970.512,35
+	(Vj.: T€ 1.786)	(Vj.:T€ 0)	(Vj.: T€ 1.786)
+Gegenüber Gesellschafter und verbundene Unternehmen	0,00	16.609.008,17	16.609.008,17
+	(Vj.: T€ 0)	(Vj.: T€ 6.196)	(Vj.:T€ 6.196)
+Sonstige	137.060,10	4.284,84	141.344,94
+	(Vj.: T€ 97)	(Vj.: T€ 5)	(Vj.: T€ 102)
+Gesamt	1.107.572,45	16.613.293,01	17.720.865,46
+	(Vj.: T€ 1.883)	(Vj.: T€ 6.201)	(Vj.: T€ 8.084)
+
+Verbindlichkeiten von T€ 16.613 (Vj.: T€ 6.201) haben eine Restlaufzeit von über einem Jahr.
+
+Die Verbindlichkeiten gegenüber Gesellschaftern beinhalten u.a. eine Verbindlichkeit aus einem Darlehen zur Unterstützung der weiteren Geschäftstätigkeit i.H.v. T€ 5.106 sowie aus der im folgenden erläuterten Wandelschuldverschreibung i.H.v. T€ 10.000 zzgl. aufgelaufener Zinsen von T€ 1.380. Es gibt wie im Vorjahr keine Verbindlichkeiten mit Restlaufzeiten von über fünf Jahren.
+
+Eine Besicherung der Verbindlichkeiten ist nicht erfolgt.
+
+Durch Beschluss des Beirats vom 27.9. 2021 wurde eine Wandelschuldverschreibung von insgesamt T€ 10.000 ausgegeben, wovon in 2021 T€ 6.064 und in 2022 T€ 3.936 eingezahlt wurden. Das Darlehen wird mit einem Jahreszinssatz von 14 % p.a. verzinst. Die Wandelschuldverschreibung verbrieft jedem Darlehensgeber das Recht, den eingezahlten Nominalbetrag samt aufgelaufener Zinsen insgesamt innerhalb der Festlaufzeit des Darlehensvertrags bis 2025 in neue Geschäftsanteile zu wandeln.
+
+Bezogene Leistungen
+
+Die bezogenen Leistungen betreffen vor allem von Dritten durchgeführte Dienstleistungen, die für die derzeitige Fertigung von Geräten für eine verbesserte Therapie zur Reanimation von Patienten mit Herz-Kreislaufstillstand erforderlich sind. Sie stellen damit Leistungen von Dritten für ausgelagerte Fertigungsschritte dar.
+
+V. ERGÄNZENDE ANGABEN
+
+Haftungsverhältnisse
+
+Die RST Systems GmbH hat in 2018 einen Know-how-Vertrag mit einem Vertragsvolumen von T€ 800 abgeschlossen. Hiervon wurden alle Zahlungen geleistet. Die Gesellschaft haftet gesamtschuldnerisch für alle Verpflichtungen aus diesem Vertrag.
+
+Sonstige finanzielle Verpflichtungen
+
+Die Gesellschaft hält 100% der Geschäftsanteile an der im Jahr 2017 gegründeten RST Systems GmbH. Das Stammkapital der RST Systems GmbH beträgt € 25.000,00. Das Stammkapital ist zum Bilanzstichtag vollständig eingefordert und einbezahlt.
+
+Die Resuscitec GmbH hält an der Resuscitec Corp./USA, 100 % der Anteile.
+
+Die Aufwendungen für Mietverpflichtungen per 31.12.2022 und die folgenden Jahre belaufen sich auf T€ 1.363, die Leasingverpflichtungen für diesen Zeitraum auf T€ 9.864 Die Miet- und Leasingverträge enden zwischen 2022 und 2028.
+
+Die Resuscitec GmbH hat aus der Lizenzvereinbarung mit dem verbundenen Unternehmen RST Systems GmbH Zahlungsverpflichtungen in Abhängigkeit von der abgesetzten Anzahl an Sensor Cartridges.
+
+Personal
+
+Die Gesellschaft beschäftigte im Geschäftsjahr 2022 durchschnittlich 82 Mitarbeiter.
+
+Organe der Gesellschaft
+
+Während des abgelaufenen Geschäftsjahres wurden die Geschäfte der Gesellschaft geführt durch
+
+Dr. Thomas Kraft, Überlingen, CEO (ab 24.10.2022)
+
+Prof. Dr. Christoph Benk, Freiburg im Breisgau, CTO
+
+Jörg Ronde, Stuttgart, CFO
+
+Die Gesellschaft hat einen Beirat mit 6 Mitgliedern.
+
+Konzernabschluss
+
+Die Gesellschaft ist nach § 293 HGB von der Pflicht, einen Konzernabschluss zu erstellen, befreit.
+
+VI. ERGEBNISVERWENDUNG
+
+Die Geschäftsführung schlägt der Gesellschafterversammlung vor, den Jahresfehlbetrag auf neue Rechnung vorzutragen.
+
+VII. Nachtragsbericht
+
+Sachverhalte, über die nach Ablauf des Geschäftsjahres zu berichten wäre, haben sich nicht ergeben.
+
+Freiburg im Breisgau, 14. April 2023
+
+Dr. Thomas Kraft
+
+Prof. Dr. Christoph Benk
+
+Jörg Ronde
+
+Entwicklung des Anlagevermögens Im Geschäftsjahr 2022
+
+scroll
+
+	Anschaffungskosten	Anschaffungskosten	Anschaffungskosten	Anschaffungskosten	Anschaffungskosten
+	01.01.2022	Zugänge	Umbuchungen	Abgänge	31.12.2022
+	EUR	EUR	EUR	EUR	EUR
+I. Immaterielle Vermögensgegenstände					
+1. Entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten	956.413,92	280.529,10	89.700,80	0,00	1.326.643,82
+2. Geleistete Anzahlungen und Anlagen Im Bau	89.700,80	0,00	89.700,80	0,00	0,00
+	1.046.114,72	280.529,10	179.401,60	0,00	1.326.643,82
+II. Sachanlagen					
+1. Technische Anlagen und Maschinen	834.188,84	496.601,10	0,00	7.200,00	1.323.589,94
+2. Andere Anlagen, Betriebs- und Geschäftsausstattung	1.268.064,01	480.987,82	0,00	132.512,58	1.616.539,25
+	2.102.252,85	977.588,92	0,00	139.712,58	2.940.129,19
+III. Finanzanlagen					
+1. Anteile an Verbundenen Unternehmen	25.850,85	0,00	0,00	0,00	25.850,85
+2. Ausleihungen an Verbunden Unternehmen	633.183,59	0,00	0,00	0,00	633.183,59
+	659.034,44	0,00	0,00	0,00	659.034,44
+	3.807.402,01	1.258.118,02	179.401,60	139.712,58	4.925.807,45
+
+scroll
+
+	Kumulierte Abschreibungen	Kumulierte Abschreibungen	Kumulierte Abschreibungen	Kumulierte Abschreibungen
+	01.01.2022	Zugänge	Abgänge	31.12.2022
+	EUR	EUR	EUR	EUR
+I. Immaterielle Vermögensgegenstände				
+1. Entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten	151.114,60	192.086,59	0,00	343.201,19
+2. Geleistete Anzahlungen und Anlagen Im Bau	0,00	0,00	0,00	0,00
+	151.114,60	192.086,59	0,00	343.201,19
+II. Sachanlagen				
+1. Technische Anlagen und Maschinen	210.784,51	166.467,49	0,00	377.252,00
+2. Andere Anlagen, Betriebs- und Geschäftsausstattung	368.386,74	245.370,92	438,00	613.319,66
+	579.171,25	411.838,41	438,00	990.571,66
+III. Finanzanlagen				
+1. Anteile an Verbundenen Unternehmen	0,00	0,00	0,00	0,00
+2. Ausleihungen an Verbunden Unternehmen	300.000,00	0,00	0,00	300.000,00
+	300.000,00	0,00	0,00	300.000,00
+	1.030.285,85	603,925,00	438,00	1.633.772,85
+
+scroll
+
+	Nettobuchwarte	Nettobuchwarte
+	31.12.2022	Vorjahr
+	EUR	EUR
+I. Immaterielle Vermögensgegenstände		
+1. Entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten	983.442,63	805.299,32
+2. Geleistete Anzahlungen und Anlagen Im Bau	0,00	89.700,80
+	983.442,63	895.000,12
+II. Sachanlagen		
+1. Technische Anlagen und Maschinen	946.337,94	623.404,33
+2. Andere Anlagen, Betriebs- und Geschäftsausstattung	1.003.219,59	899.677,27
+	1.949.557,53	1.523.081,60
+III. Finanzanlagen		
+1. Anteile an Verbundenen Unternehmen	25.850,85	25.850,85
+2. Ausleihungen an Verbunden Unternehmen	333.183,59	333.183,59
+	359.034,44	359.034,44
+	3.292.034,60	2.777.116,16

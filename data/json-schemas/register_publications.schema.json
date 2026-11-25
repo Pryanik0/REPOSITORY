@@ -1,0 +1,41 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Datenvertrag v0.4: unternehmensregister/<firma>/publications.json",
+  "description": "Liste der Veröffentlichungen einer Firma im Unternehmensregister (Finanzberichte und Bekanntmachungen zusammen), nur die Kopfdaten. Den Text der Dokumente liefert je Veröffentlichung eine eigene Datei (documents.json). Genutzt für die Registerereignisse (E2d), die Jahresabschluss-Zahlen (E2e, E2f) und die Textsignale (E4). Die Veröffentlichung wird über Kategorie und Nummer (category, index) angesprochen. Diese Datei hat kein Statusfeld: Eine leere Liste bedeutet, dass nichts gefunden wurde.",
+  "type": "object",
+  "required": ["company", "date_from", "date_to", "searched_at", "truncated", "publications"],
+  "properties": {
+    "company": {
+      "type": "object",
+      "description": "Die gesuchte Firma laut Scraper",
+      "required": ["key", "name"],
+      "properties": {
+        "key": { "type": "string", "description": "Schlüssel der Firma im Scraper" },
+        "name": { "type": "string", "description": "Firmenname" }
+      }
+    },
+    "date_from": { "type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$", "description": "Beginn des durchsuchten Zeitraums" },
+    "date_to": { "type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$", "description": "Ende des durchsuchten Zeitraums" },
+    "searched_at": { "type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}T[0-9]{2}:[0-9]{2}:[0-9]{2}(\\.[0-9]+)?(Z|[+-][0-9]{2}:[0-9]{2})$", "description": "Zeitpunkt der Suche" },
+    "truncated": { "type": "boolean", "description": "true, wenn die Höchstzahl an Veröffentlichungen erreicht wurde und vielleicht welche fehlen" },
+    "publications": {
+      "type": "array",
+      "description": "Veröffentlichungen im durchsuchten Zeitraum. Leer, wenn keine gefunden wurden",
+      "items": {
+        "type": "object",
+        "required": ["category", "index", "title", "publication_date", "company", "url", "language"],
+        "properties": {
+          "category": { "type": "string", "x-bekannte-werte": ["finanzberichte", "bekanntmachungen"], "description": "finanzberichte: Jahresabschlüsse und Berichte. bekanntmachungen: Bekanntmachungen des Registers, zum Beispiel Änderungen der Geschäftsführung" },
+          "index": { "type": "integer", "minimum": 1, "description": "Laufende Nummer innerhalb der Kategorie. Zusammen mit category der Schlüssel der Veröffentlichung und Teil des Ordnernamens publication-N" },
+          "title": { "type": "string", "description": "Titel der Veröffentlichung, bei Jahresabschlüssen mit Geschäftsjahr" },
+          "publication_date": { "type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$", "description": "Datum der Veröffentlichung im Register" },
+          "company": { "type": "string", "description": "Firmenname mit Sitz, wie im Register geführt. Dient der Zuordnung und der Prüfung auf Namensverwechslung" },
+          "url": { "type": "string", "x-anzeige": "URL", "description": "Adresse der Veröffentlichung im Unternehmensregister" },
+          "language": { "type": "string", "x-bekannte-werte": ["Deutsch", "Englisch"], "description": "Sprache der Veröffentlichung" },
+          "metadata": { "type": ["string", "null"], "description": "Angaben des Registers zur Veröffentlichung als Text, zum Beispiel Rubrik und Registergericht" },
+          "source_area": { "type": ["string", "null"], "description": "Bereich des Registers, aus dem die Veröffentlichung stammt, zum Beispiel Registerbekanntmachungen" }
+        }
+      }
+    }
+  }
+}

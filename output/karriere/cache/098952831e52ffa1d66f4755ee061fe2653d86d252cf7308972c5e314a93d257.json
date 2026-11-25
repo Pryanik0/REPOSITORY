@@ -1,0 +1,15 @@
+{
+  "url": "https://www.novaled.com/robots.txt",
+  "final_url": "https://www.novaled.com/maintenance.html",
+  "redirects": [
+    {
+      "source": "https://www.novaled.com/robots.txt",
+      "target": "https://www.novaled.com/maintenance.html",
+      "status": 307
+    }
+  ],
+  "status": 200,
+  "content_type": "text/html",
+  "fetched_at": "2026-11-25T16:07:40.465233+00:00",
+  "text": "<!doctype html>\n<html lang=\"de\">\n<head>\n  <meta charset=\"utf-8\">\n  <title>Wartungsarbeiten / Maintenance</title>\n  <meta name=\"robots\" content=\"noindex\">\n  <style>\n    body { text-align: center; background-color: #eeeeee;}\n    h1 { font-size: 28px; }\n    body { font: 22px Helvetica, sans-serif; color: #333; }\n    div { display: block; text-align: left; width: 90%; max-width: 600px; padding: 20px; height: 300px; margin: 30px auto; background-color: #fbfaf9; box-shadow: 0px 0px 8px #aaaaaa; border-radius: 5px; }\n    a { color: #f58006; text-decoration: underline; }\n    a:hover { text-decoration: none; }\n  </style>\n</head>\n<body>\n\n<div>\n  <p>Aufgrund von Wartungsarbeiten ist diese Seite momentan nicht erreichbar. Wir bitten Sie um etwas Geduld.</p>\n  <p>Vielen Dank!</p>\n  <hr />\n  <p>Site down due to maintenance. We ask you to be patient.</p>\n  <p>Thank you!</p>\n</div>\n\n</body>\n</html>"
+}

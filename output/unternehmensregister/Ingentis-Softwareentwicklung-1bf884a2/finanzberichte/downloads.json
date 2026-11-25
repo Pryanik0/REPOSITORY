@@ -1,0 +1,56 @@
+[
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=PFoMKj0E4xIbr3hHwjF1zO7sVEji8c5llAIwG_9s-YdmsjCVCyVB4_4CPsODjB3S67pGw2fT6wcOcCllsJMHv_ruKKxOTGjy21hWCc3oa07VyNIqBcKGmGBRVhHfu75Z0REJbonCI2AxnYWPC0S7zG1So2NegCa32jilEg1Ibv5TCYi-30-0uXGq37vRcQr4RkhHzN-woLPfvFzJMwi9gNjCo9xVW6Plv3yGpo_Y_i-GPAIk",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Ingentis-Softwareentwicklung-1bf884a2\\finanzberichte\\publication-1\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Ingentis-Softwareentwicklung-1bf884a2\\finanzberichte\\publication-1\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Ingentis-Softwareentwicklung-1bf884a2\\finanzberichte\\publication-1\\publication.txt",
+    "index": 1,
+    "category": "finanzberichte",
+    "company": "INGENTIS Softwareentwicklung GmbH, Nürnberg",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+    "documents_path": "output\\unternehmensregister\\Ingentis-Softwareentwicklung-1bf884a2\\finanzberichte\\publication-1\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=OhobKQqsE7Nzd5Z37jDu_Whwn-TMIVbEQ4pS_k-G-GvuaDgeKQEYzWMWKOA1tHTCB2LOswy7-mJ16yfozmqYZ5L8YYSaLxxlmo3aYi0k-SHo3zeSGPjjIFbbWF2dfquLin9Ohxc8-iIo-VfJjF30deJ0_aclaYthVc8khHls0BzaaIfH_ujS-JGOLGY4ZZaMsTKkeRm6WWf0cKRsfsyM5X5B73p5c9edlxAUczVoOh7wBHYC",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Ingentis-Softwareentwicklung-1bf884a2\\finanzberichte\\publication-2\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Ingentis-Softwareentwicklung-1bf884a2\\finanzberichte\\publication-2\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Ingentis-Softwareentwicklung-1bf884a2\\finanzberichte\\publication-2\\publication.txt",
+    "index": 2,
+    "category": "finanzberichte",
+    "company": "INGENTIS Softwareentwicklung GmbH, Nürnberg",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+    "documents_path": "output\\unternehmensregister\\Ingentis-Softwareentwicklung-1bf884a2\\finanzberichte\\publication-2\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=VW4yVozJT-7Lz1XvSlBNT7ZjvdQB5uqyVDgw2kTR0Pa_zWbvpeEiexV6cowbRC31voxZUpAhKLWQNzk3WWbjG1BS0SsgW3FdNajz10UDhu7lqvd4lopHbnujYAdKrgOnjWXRweJ7VScwEAaaVkPOpFku1JW9s2EElV-Rowf-QjBoNpchslqGrbUXb6sidal_QTG0uo7pZobEMDs3XvmLFcch4tUsvr4g5BRazWyGiPNEveHg",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Ingentis-Softwareentwicklung-1bf884a2\\finanzberichte\\publication-3\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Ingentis-Softwareentwicklung-1bf884a2\\finanzberichte\\publication-3\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Ingentis-Softwareentwicklung-1bf884a2\\finanzberichte\\publication-3\\publication.txt",
+    "index": 3,
+    "category": "finanzberichte",
+    "company": "INGENTIS Softwareentwicklung GmbH, Nürnberg",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+    "documents_path": "output\\unternehmensregister\\Ingentis-Softwareentwicklung-1bf884a2\\finanzberichte\\publication-3\\documents.json"
+  }
+]

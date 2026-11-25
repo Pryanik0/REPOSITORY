@@ -1,0 +1,677 @@
+{
+  "provider": "kununu",
+  "backend": "browser",
+  "status": "ok",
+  "query": "HERMES PHARMA GmbH",
+  "profile": {
+    "url": "https://www.kununu.com/de/hermes-group",
+    "name": "HERMES Group",
+    "overall_score": 3.8,
+    "review_count": 167,
+    "recommendation_percent": 71,
+    "recommendation_period": "last_2_years",
+    "observed_at": "2026-11-25T17:14:04.391370+00:00"
+  },
+  "reviews": [
+    {
+      "id": "6c39f217-42e7-409d-90f4-402834adeb34",
+      "url": "https://www.kununu.com/de/hermes-group/bewertung/6c39f217-42e7-409d-90f4-402834adeb34",
+      "title": "Ein Arbeitsplatz an dem Motivation verloren geht",
+      "content": "Die Stimmung ist wirklich schlecht. Man fühlt sich nicht wohl und geht irgendwann nur noch arbeiten, weil man muss. Wertschätzung und ein gutes Miteinander fehlen.\n\nKeine Lohnerhöhung\n\nJeder schaut größtenteils auf sich selbst. Wirklicher Zusammenhalt ist nicht immer vorhanden. Unterstützung untereinander könnte deutlich besser sein.\n\nMeiner Meinung nach ist diese Person als Führungskraft völlig fehl am Platz. Es wird ständig herumkommandiert und dieselben Dinge werden immer wieder wiederholt, als hätte man es mit kleinen Kindern zu tun. Statt selbst Verantwortung zu übernehmen, wird lieber anderen gesagt, was sie zu tun haben. Ein respektvoller Umgang auf Augenhöhe sieht definitiv anders aus. Von einer Führungskraft erwarte ich mehr Kompetenz, Vertrauen und vor allem die Fähigkeit, selbst mit anzupacken.\n\nKeine Ergonomie am Arbeitsplatz\n\nDie Kommunikation ist eine Katastrophe. Vieles wird nicht richtig weitergegeben oder man erfährt wichtige Dinge erst viel zu spät. Offen und ehrlich miteinander zu reden scheint nicht selbstverständlich zu sein.",
+      "rating": 1.0,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Die Stimmung ist wirklich schlecht. Man fühlt sich nicht wohl und geht irgendwann nur noch arbeiten, weil man muss. Wertschätzung und ein gutes Miteinander fehlen.",
+        "salary": "Keine Lohnerhöhung",
+        "teamwork": "Jeder schaut größtenteils auf sich selbst. Wirklicher Zusammenhalt ist nicht immer vorhanden. Unterstützung untereinander könnte deutlich besser sein.",
+        "leadership": "Meiner Meinung nach ist diese Person als Führungskraft völlig fehl am Platz. Es wird ständig herumkommandiert und dieselben Dinge werden immer wieder wiederholt, als hätte man es mit kleinen Kindern zu tun. Statt selbst Verantwortung zu übernehmen, wird lieber anderen gesagt, was sie zu tun haben. Ein respektvoller Umgang auf Augenhöhe sieht definitiv anders aus. Von einer Führungskraft erwarte ich mehr Kompetenz, Vertrauen und vor allem die Fähigkeit, selbst mit anzupacken.",
+        "workConditions": "Keine Ergonomie am Arbeitsplatz",
+        "communication": "Die Kommunikation ist eine Katastrophe. Vieles wird nicht richtig weitergegeben oder man erfährt wichtige Dinge erst viel zu spät. Offen und ehrlich miteinander zu reden scheint nicht selbstverständlich zu sein."
+      },
+      "factor_scores": {
+        "atmosphere": 1.0,
+        "workLife": 1.0,
+        "communication": 1.0,
+        "workConditions": 1.0,
+        "leadership": 1.0,
+        "teamwork": 1.0,
+        "oldColleagues": 1.0,
+        "equality": 1.0,
+        "career": 1.0,
+        "salary": 1.0,
+        "image": 1.0,
+        "environment": 1.0,
+        "tasks": 1.0
+      },
+      "published_at": "2026-11-06T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "d1e6d382-f1ec-485e-b9bb-5a1da918c0d8",
+      "url": "https://www.kununu.com/de/hermes-group/bewertung/d1e6d382-f1ec-485e-b9bb-5a1da918c0d8",
+      "title": "Netter Arbeitgeber, aber auf Dauer unterfordernd",
+      "content": "Meinen Anfang bei Hermes habe ich sehr positiv erlebt. Das Umfeld ist sehr freundlich und menschlich, der Umgang miteinander angenehm und die Work-Life-Balance wirklich sehr gut. Gerade zu Beginn habe ich mich deshalb sehr wohlgefühlt.\nNach relativ kurzer Zeit hat sich mein Eindruck jedoch etwas verändert. Ich fühlte mich zunehmend unterfordert, es fehlten fachliche Herausforderungen und wirkliche Entwicklungsmöglichkeiten. Auch die Arbeitskultur empfand ich mit der Zeit als wenig leistungsorientiert. Die großzügigen Freiheiten wurden aus meiner Sicht teilweise so stark ausgereizt, dass bei einigen Kolleg:innen häufig nur ein sehr geringes Arbeitspensum erkennbar war. Dies hängt meiner Wahrnehmung nach aber auch damit zusammen, dass das Unternehmen – oder zumindest meine Abteilung – personell eher überbesetzt war, mit entsprechend geringer Auslastung in einigen Bereichen. In Summe empfand ich das Umfeld auf Dauer als wenig motivierend.\nFür mich führte diese Kombination aus Unterforderung, fehlender Weiterentwicklung und der Arbeitskultur letztendlich dazu, dass ich mich trotz der sehr guten Rahmenbedingungen nach einer neuen Herausforderung umgesehen und das Unternehmen verlassen habe.",
+      "rating": 3.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": "Meinen Anfang bei Hermes habe ich sehr positiv erlebt. Das Umfeld ist sehr freundlich und menschlich, der Umgang miteinander angenehm und die Work-Life-Balance wirklich sehr gut. Gerade zu Beginn habe ich mich deshalb sehr wohlgefühlt.\nNach relativ kurzer Zeit hat sich mein Eindruck jedoch etwas verändert. Ich fühlte mich zunehmend unterfordert, es fehlten fachliche Herausforderungen und wirkliche Entwicklungsmöglichkeiten. Auch die Arbeitskultur empfand ich mit der Zeit als wenig leistungsorientiert. Die großzügigen Freiheiten wurden aus meiner Sicht teilweise so stark ausgereizt, dass bei einigen Kolleg:innen häufig nur ein sehr geringes Arbeitspensum erkennbar war. Dies hängt meiner Wahrnehmung nach aber auch damit zusammen, dass das Unternehmen – oder zumindest meine Abteilung – personell eher überbesetzt war, mit entsprechend geringer Auslastung in einigen Bereichen. In Summe empfand ich das Umfeld auf Dauer als wenig motivierend.\nFür mich führte diese Kombination aus Unterforderung, fehlender Weiterentwicklung und der Arbeitskultur letztendlich dazu, dass ich mich trotz der sehr guten Rahmenbedingungen nach einer neuen Herausforderung umgesehen und das Unternehmen verlassen habe."
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 5.0,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": 5.0,
+        "oldColleagues": null,
+        "equality": null,
+        "career": 2.0,
+        "salary": 4.0,
+        "image": null,
+        "environment": null,
+        "tasks": 3.0
+      },
+      "published_at": "2026-08-11T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "abd5e3d2-8717-40f0-987a-22d54af6af30",
+      "url": "https://www.kununu.com/de/hermes-group/bewertung/abd5e3d2-8717-40f0-987a-22d54af6af30",
+      "title": "Ist ok",
+      "content": "Pünktliche Gehaltszahlung, Parkplatz vor der Tür und die Kantine\n\nMangelnde Kommunikation, Gehaltsmoral der Vorgesetzten und keinerlei Aufstiegschancen im Unternehmen selber.\n\nNicht nur auf Fachkompetenz der FK achten sondern auch auf die Sozialkompetenz des Menschen. K\n\nViele Leute sind von Ihren Vorgesetzten genervt\n\nIst okay, das Gleitzeit Modell wird immer schwieriger zum Nutzen.\n\nUnter den Kollegen herrscht ein gutes Verhältnis\n\nToxisch, Kontrollzwang, will keine Informationen weiter geben\n\nKaum vorhanden, es wird nur das nötigste weiter gegeben. Was viele stört.\n\nIst ok, aber ist auch nur ok.",
+      "rating": 2.6,
+      "sections": {
+        "positive": "Pünktliche Gehaltszahlung, Parkplatz vor der Tür und die Kantine",
+        "negative": "Mangelnde Kommunikation, Gehaltsmoral der Vorgesetzten und keinerlei Aufstiegschancen im Unternehmen selber.",
+        "suggestion": "Nicht nur auf Fachkompetenz der FK achten sondern auch auf die Sozialkompetenz des Menschen. K"
+      },
+      "factor_comments": {
+        "atmosphere": "Viele Leute sind von Ihren Vorgesetzten genervt",
+        "workLife": "Ist okay, das Gleitzeit Modell wird immer schwieriger zum Nutzen.",
+        "teamwork": "Unter den Kollegen herrscht ein gutes Verhältnis",
+        "leadership": "Toxisch, Kontrollzwang, will keine Informationen weiter geben",
+        "communication": "Kaum vorhanden, es wird nur das nötigste weiter gegeben. Was viele stört.",
+        "tasks": "Ist ok, aber ist auch nur ok."
+      },
+      "factor_scores": {
+        "atmosphere": 2.0,
+        "workLife": 3.0,
+        "communication": 1.0,
+        "workConditions": 3.0,
+        "leadership": 1.0,
+        "teamwork": 5.0,
+        "oldColleagues": 3.0,
+        "equality": 3.0,
+        "career": 1.0,
+        "salary": 2.0,
+        "image": 3.0,
+        "environment": 4.0,
+        "tasks": 3.0
+      },
+      "published_at": "2026-05-12T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "0fd31a59-5aad-44e4-b088-2ad1f600c511",
+      "url": "https://www.kununu.com/de/hermes-group/bewertung/0fd31a59-5aad-44e4-b088-2ad1f600c511",
+      "title": "bewertung de Arbeitgebers",
+      "content": "gehaltserhöhungen\n\nMehr alle Mitarbeiter einbinden\n\nganz in Ordnung\n\nkönnte besser sein",
+      "rating": 4.4,
+      "sections": {
+        "positive": "gehaltserhöhungen",
+        "negative": null,
+        "suggestion": "Mehr alle Mitarbeiter einbinden"
+      },
+      "factor_comments": {
+        "atmosphere": "ganz in Ordnung",
+        "communication": "könnte besser sein"
+      },
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 5.0,
+        "communication": 4.0,
+        "workConditions": 5.0,
+        "leadership": 3.0,
+        "teamwork": 4.0,
+        "oldColleagues": 4.0,
+        "equality": 5.0,
+        "career": 4.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 4.0
+      },
+      "published_at": "2026-01-09T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "cf46fdd0-f2ff-4615-9540-e8bd61b78301",
+      "url": "https://www.kununu.com/de/hermes-group/bewertung/cf46fdd0-f2ff-4615-9540-e8bd61b78301",
+      "title": "Toller Arbeitgeber mit sehr gutem Arbeitsklima",
+      "content": "Sehr gutes Arbeitsklima\n\n50% Homeoffice im Monat ideal\n\nSehr stark. Nicht nur bei Firmenveranstaltungen :)\n\nNoch regelmäßiger wäre toll & eine stärkere Vernetzung der einzelnen Gesellschaften wäre wünschenswert.\n\nSehr abwechslungsreiche Tätigkeiten in einem spannenden Umfeld",
+      "rating": 4.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Sehr gutes Arbeitsklima",
+        "workLife": "50% Homeoffice im Monat ideal",
+        "teamwork": "Sehr stark. Nicht nur bei Firmenveranstaltungen :)",
+        "communication": "Noch regelmäßiger wäre toll & eine stärkere Vernetzung der einzelnen Gesellschaften wäre wünschenswert.",
+        "tasks": "Sehr abwechslungsreiche Tätigkeiten in einem spannenden Umfeld"
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 4.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 4.0,
+        "salary": 4.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-11-05T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "2babac4e-8c5e-47f3-a93b-60e28ae19df8",
+      "url": "https://www.kununu.com/de/hermes-group/bewertung/2babac4e-8c5e-47f3-a93b-60e28ae19df8",
+      "title": "Von A bis Z ein Top Arbeitgeber",
+      "content": "Das immer am Ball geblieben wird, in Punto Verbesserungen im Mas der Verhältnisnässigkeit.\n\nNichts\n\nBitte am Leitbild festhalten.",
+      "rating": 5.0,
+      "sections": {
+        "positive": "Das immer am Ball geblieben wird, in Punto Verbesserungen im Mas der Verhältnisnässigkeit.",
+        "negative": "Nichts",
+        "suggestion": "Bitte am Leitbild festhalten."
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-10-29T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "57df867f-e4d0-4b9e-9485-62da82b456ea",
+      "url": "https://www.kununu.com/de/hermes-group/bewertung/57df867f-e4d0-4b9e-9485-62da82b456ea",
+      "title": "Arbeitnehmerfreundliches Traditionsunternehmen mit Entwicklungspotential",
+      "content": "Starker Zusammenhalt, familien- und freizeitfreundlich, tolle Kolleg:innen\n\nNach Probezeit hat man vielseitige Fortbildungsangebote und individuelle Entwicklungen werden ebenso gefördert\n\nViele Zusatzleistungen, Gehalt muss man in Kontext der Arbeitsbedingungen setzen. Unterdurchschnittlich im Pharma-Bereich, aber 37,5h Vollzeit, tolle Brückentagregelung und die subventionierte Kantine gleichen das mehr als aus\n\nTransparente Kommunikation, aber noch Potential zu Verbesserungen",
+      "rating": 4.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Starker Zusammenhalt, familien- und freizeitfreundlich, tolle Kolleg:innen",
+        "career": "Nach Probezeit hat man vielseitige Fortbildungsangebote und individuelle Entwicklungen werden ebenso gefördert",
+        "salary": "Viele Zusatzleistungen, Gehalt muss man in Kontext der Arbeitsbedingungen setzen. Unterdurchschnittlich im Pharma-Bereich, aber 37,5h Vollzeit, tolle Brückentagregelung und die subventionierte Kantine gleichen das mehr als aus",
+        "communication": "Transparente Kommunikation, aber noch Potential zu Verbesserungen"
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 4.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 4.0,
+        "image": 5.0,
+        "environment": 4.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-09-16T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "d33d7fc4-6975-4154-8c4e-22e54a94d314",
+      "url": "https://www.kununu.com/de/hermes-group/bewertung/d33d7fc4-6975-4154-8c4e-22e54a94d314",
+      "title": "TOP Arbeitgeber",
+      "content": "Kurze Entscheidungswege, wertschätzender Umgang mit Angestellten\n\nAufstieg aus den eigenen Reihen müsste besser gefördert werden.\n\nGutes Image in der Branche\n\nNachwuchs selber heranziehen\n\nDa sind wir auf einem guten Weg.\n\nLässt hier und da noch Raum für Verbesserung.",
+      "rating": 4.7,
+      "sections": {
+        "positive": "Kurze Entscheidungswege, wertschätzender Umgang mit Angestellten",
+        "negative": null,
+        "suggestion": "Aufstieg aus den eigenen Reihen müsste besser gefördert werden."
+      },
+      "factor_comments": {
+        "image": "Gutes Image in der Branche",
+        "career": "Nachwuchs selber heranziehen",
+        "environment": "Da sind wir auf einem guten Weg.",
+        "communication": "Lässt hier und da noch Raum für Verbesserung."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 4.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 3.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 4.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-09-15T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "76b5da4e-ff92-46d1-9055-2a017a2ef141",
+      "url": "https://www.kununu.com/de/hermes-group/bewertung/76b5da4e-ff92-46d1-9055-2a017a2ef141",
+      "title": "Zuverlässiger Arbeitgeber mit großen Zielen",
+      "content": "Die Arbeitsatmosphäre ist kollegial und wertschätzend.“\n„Man fühlt sich als Teil des Teams – auch abteilungsübergreifend.“\n„Flexible Arbeitszeiten ermöglichen eine gute Vereinbarkeit von Beruf und Privatleben.“\n„Homeoffice ist möglich und wird unterstützt.“\n\nDie Arbeitsatmosphäre ist sehr angenehm, Ich komme jeden Tag gern zur Arbeit, weil der Umgang untereinander fair und freundlich ist.\n„Man fühlt sich wohl, es herrscht ein vertrauensvolles Miteinander, und es gibt auch Platz für Humor.\n\nHomeoffice ist möglich und wird unterstützt.“\nFlexible Arbeitszeiten ermöglichen eine gute Vereinbarkeit von Beruf und Privatleben.\n\nEs gibt klare Entwicklungsmöglichkeiten.\n\nGehälter werden immer pünktlich ausbezahlt\n\nIch habe ein starkes Wir-Gefühl im Team erlebt. Auch in stressigen Phasen war immer Verlass auf die Kolleginnen und Kollegen\n\nEs gibt keine Altersdiskriminierung – im Gegenteil, langjährige Erfahrung wird geschätzt.\n\nSind auf den neusten Stand\n\nGleichberechtigung wird im Unternehmen aktiv gelebt. Unabhängig von Geschlecht, Alter, Herkunft oder persönlichem Hintergrund erhalten alle die gleichen Chancen. Frauen und Männer sind in Führungspositionen vertreten, Diversität wird wertgeschätzt.\n\nImmer abwechslungsreich",
+      "rating": 5.0,
+      "sections": {
+        "positive": "Die Arbeitsatmosphäre ist kollegial und wertschätzend.“\n„Man fühlt sich als Teil des Teams – auch abteilungsübergreifend.“\n„Flexible Arbeitszeiten ermöglichen eine gute Vereinbarkeit von Beruf und Privatleben.“\n„Homeoffice ist möglich und wird unterstützt.“",
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Die Arbeitsatmosphäre ist sehr angenehm, Ich komme jeden Tag gern zur Arbeit, weil der Umgang untereinander fair und freundlich ist.\n„Man fühlt sich wohl, es herrscht ein vertrauensvolles Miteinander, und es gibt auch Platz für Humor.",
+        "workLife": "Homeoffice ist möglich und wird unterstützt.“\nFlexible Arbeitszeiten ermöglichen eine gute Vereinbarkeit von Beruf und Privatleben.",
+        "career": "Es gibt klare Entwicklungsmöglichkeiten.",
+        "salary": "Gehälter werden immer pünktlich ausbezahlt",
+        "teamwork": "Ich habe ein starkes Wir-Gefühl im Team erlebt. Auch in stressigen Phasen war immer Verlass auf die Kolleginnen und Kollegen",
+        "oldColleagues": "Es gibt keine Altersdiskriminierung – im Gegenteil, langjährige Erfahrung wird geschätzt.",
+        "workConditions": "Sind auf den neusten Stand",
+        "equality": "Gleichberechtigung wird im Unternehmen aktiv gelebt. Unabhängig von Geschlecht, Alter, Herkunft oder persönlichem Hintergrund erhalten alle die gleichen Chancen. Frauen und Männer sind in Führungspositionen vertreten, Diversität wird wertgeschätzt.",
+        "tasks": "Immer abwechslungsreich"
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-09-10T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "739125ea-996f-4dfe-be84-2bf68b2ee420",
+      "url": "https://www.kununu.com/de/hermes-group/bewertung/739125ea-996f-4dfe-be84-2bf68b2ee420",
+      "title": "Jetzt müssen die Angestellten von Pullach schon die Bewertung manipulieren. So was geht gar nicht.",
+      "content": "Die Bezahlung.\n\nIn der Produktion würde nicht schaden wenn ein Vorgesetzter aus der Arbeitswelt von außerhalb eingestellt wird\n\nGeht gar nicht. Personalführung gleich null.",
+      "rating": 1.2,
+      "sections": {
+        "positive": null,
+        "negative": "Die Bezahlung.",
+        "suggestion": "In der Produktion würde nicht schaden wenn ein Vorgesetzter aus der Arbeitswelt von außerhalb eingestellt wird"
+      },
+      "factor_comments": {
+        "leadership": "Geht gar nicht. Personalführung gleich null."
+      },
+      "factor_scores": {
+        "atmosphere": 2.0,
+        "workLife": 1.0,
+        "communication": 1.0,
+        "workConditions": 1.0,
+        "leadership": 1.0,
+        "teamwork": 3.0,
+        "oldColleagues": 1.0,
+        "equality": 1.0,
+        "career": 1.0,
+        "salary": 1.0,
+        "image": 1.0,
+        "environment": 1.0,
+        "tasks": 1.0
+      },
+      "published_at": "2025-09-10T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "e87fcb82-a613-42a6-8973-8d4eb4d13072",
+      "url": "https://www.kununu.com/de/hermes-group/bewertung/e87fcb82-a613-42a6-8973-8d4eb4d13072",
+      "title": "Seid 23 Jahren dabei",
+      "content": "Bin seit 23 Jahren dabei das sagt Alles..\n\nnix",
+      "rating": 5.0,
+      "sections": {
+        "positive": "Bin seit 23 Jahren dabei das sagt Alles..",
+        "negative": "nix",
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-09-10T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "19b8df04-d6e6-4436-8555-3183fb23c6bc",
+      "url": "https://www.kununu.com/de/hermes-group/bewertung/19b8df04-d6e6-4436-8555-3183fb23c6bc",
+      "title": "Mittelständiges Unternehmen gut für den Einstieg",
+      "content": "Leider viel zu gering. Auch bei Beförderungen darf man nicht mit einer guten Anpassung rechnen. Wer wirklich einen Gehaltssprung will, muss leider das Unternehmen wechseln.",
+      "rating": 3.6,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "salary": "Leider viel zu gering. Auch bei Beförderungen darf man nicht mit einer guten Anpassung rechnen. Wer wirklich einen Gehaltssprung will, muss leider das Unternehmen wechseln."
+      },
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 5.0,
+        "communication": 4.0,
+        "workConditions": null,
+        "leadership": 4.0,
+        "teamwork": 4.0,
+        "oldColleagues": 4.0,
+        "equality": 3.0,
+        "career": 3.0,
+        "salary": 2.0,
+        "image": null,
+        "environment": null,
+        "tasks": 3.0
+      },
+      "published_at": "2025-09-03T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "13ba0d81-293e-42f4-a62b-124a06941223",
+      "url": "https://www.kununu.com/de/hermes-group/bewertung/13ba0d81-293e-42f4-a62b-124a06941223",
+      "title": "Mittelständisches Pharmaunternehmen im besten Sinne",
+      "content": "- Sinnstiftender Arbeitsinhalt (Gesundheit)\n- Zusammenarbeit über alle Ebenen auf Augenhöhe\n- Stabiles Arbeitsumfeld\n- Denken und Investieren mit Weitsicht - kein Denken in Quartalszahlen/reportings wie in Großkonzernen",
+      "rating": 4.7,
+      "sections": {
+        "positive": "- Sinnstiftender Arbeitsinhalt (Gesundheit)\n- Zusammenarbeit über alle Ebenen auf Augenhöhe\n- Stabiles Arbeitsumfeld\n- Denken und Investieren mit Weitsicht - kein Denken in Quartalszahlen/reportings wie in Großkonzernen",
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-09-02T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "a4d7e554-ecbb-4043-ad0d-c2cc2771ba66",
+      "url": "https://www.kununu.com/de/hermes-group/bewertung/a4d7e554-ecbb-4043-ad0d-c2cc2771ba66",
+      "title": "Zuverlässiger Arbeitgeber mit großen Zielen",
+      "content": "pünktliche Lohnzahlungen, sicherer und sauberer Arbeitsplatz\n\nweite Wege zur Kantine\n\nTeilzeit auch im Bereich der Produktion anbieten\n\nFreundlich und auf Augenhöhe\n\nMeckerer gibt´s immer, ich bin zufrieden\n\nwenn möglich bekommt man seine Freizeit nach Wunsch\n\nAbteilungsbedingt eingeschränkt\n\nzahlt keine Spitzenlöhne, aber schon über Durchschnitt\n\nwird gelebt\n\nman unterstützt sich gegenseitig\n\nviele langjährige Mitarbeiter, die das Angebot der Alterszeit bekommen\n\nUnterstützung bei Problemen, viel Freiheit im täglichen Arbeitsablauf\n\nalles was man braucht wird gestellt, bei Sonderwünschen oder Bedarf auch nach passenden Optionen gesucht\n\nkommt leider zu kurz, wird aber dran gearbeitet dies zu verbessern\n\nIn dieser Abteilung gut\n\nlangweilig wird es nicht",
+      "rating": 4.4,
+      "sections": {
+        "positive": "pünktliche Lohnzahlungen, sicherer und sauberer Arbeitsplatz",
+        "negative": "weite Wege zur Kantine",
+        "suggestion": "Teilzeit auch im Bereich der Produktion anbieten"
+      },
+      "factor_comments": {
+        "atmosphere": "Freundlich und auf Augenhöhe",
+        "image": "Meckerer gibt´s immer, ich bin zufrieden",
+        "workLife": "wenn möglich bekommt man seine Freizeit nach Wunsch",
+        "career": "Abteilungsbedingt eingeschränkt",
+        "salary": "zahlt keine Spitzenlöhne, aber schon über Durchschnitt",
+        "environment": "wird gelebt",
+        "teamwork": "man unterstützt sich gegenseitig",
+        "oldColleagues": "viele langjährige Mitarbeiter, die das Angebot der Alterszeit bekommen",
+        "leadership": "Unterstützung bei Problemen, viel Freiheit im täglichen Arbeitsablauf",
+        "workConditions": "alles was man braucht wird gestellt, bei Sonderwünschen oder Bedarf auch nach passenden Optionen gesucht",
+        "communication": "kommt leider zu kurz, wird aber dran gearbeitet dies zu verbessern",
+        "equality": "In dieser Abteilung gut",
+        "tasks": "langweilig wird es nicht"
+      },
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-08-29T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "bc689136-b1ee-4160-a1ef-00762f627517",
+      "url": "https://www.kununu.com/de/hermes-group/bewertung/bc689136-b1ee-4160-a1ef-00762f627517",
+      "title": "Wenn man ehrlich ist",
+      "content": "Schlechte Wertschätzung von der Führung\n\nIn der Produktion schlechter als im Büro\n\nGefühlt teilweise überbezahlt\n\nKommt auf die Nationalität drauf an\n\nDie ältern haben meist eine narenfreiheit\n\nSehen einen teilweise nicht\nMan bekommt das Gefühl weniger als eine Nummer zu sein\n\nVon Führung zum Angestellten schlecht\n\nAls junger Kollege hat man es schwer\n\nAm Anfang eine sehr interessante Arbeit aber wird schnell langweilig",
+      "rating": 2.2,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Schlechte Wertschätzung von der Führung",
+        "workLife": "In der Produktion schlechter als im Büro",
+        "salary": "Gefühlt teilweise überbezahlt",
+        "teamwork": "Kommt auf die Nationalität drauf an",
+        "oldColleagues": "Die ältern haben meist eine narenfreiheit",
+        "leadership": "Sehen einen teilweise nicht\nMan bekommt das Gefühl weniger als eine Nummer zu sein",
+        "communication": "Von Führung zum Angestellten schlecht",
+        "equality": "Als junger Kollege hat man es schwer",
+        "tasks": "Am Anfang eine sehr interessante Arbeit aber wird schnell langweilig"
+      },
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": 1.0,
+        "workConditions": 2.0,
+        "leadership": 1.0,
+        "teamwork": 3.0,
+        "oldColleagues": 4.0,
+        "equality": 1.0,
+        "career": 1.0,
+        "salary": null,
+        "image": 3.0,
+        "environment": 3.0,
+        "tasks": 2.0
+      },
+      "published_at": "2025-08-19T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    }
+  ],
+  "review_limit": 15,
+  "review_period": {
+    "since": "2024-11-25T00:00:00+00:00",
+    "until": "2026-11-25T17:14:01.682538+00:00",
+    "date_field": "published_at",
+    "missing_dates": "excluded"
+  },
+  "factor_scores_aggregated": {
+    "atmosphere": {
+      "mean": 3.82,
+      "count": 11
+    },
+    "workLife": {
+      "mean": 4.09,
+      "count": 11
+    },
+    "communication": {
+      "mean": 3.09,
+      "count": 11
+    },
+    "workConditions": {
+      "mean": 3.7,
+      "count": 10
+    },
+    "leadership": {
+      "mean": 3.27,
+      "count": 11
+    },
+    "teamwork": {
+      "mean": 4.17,
+      "count": 12
+    },
+    "oldColleagues": {
+      "mean": 3.82,
+      "count": 11
+    },
+    "equality": {
+      "mean": 3.55,
+      "count": 11
+    },
+    "career": {
+      "mean": 2.92,
+      "count": 12
+    },
+    "salary": {
+      "mean": 3.45,
+      "count": 11
+    },
+    "image": {
+      "mean": 3.8,
+      "count": 10
+    },
+    "environment": {
+      "mean": 3.7,
+      "count": 10
+    },
+    "tasks": {
+      "mean": 3.5,
+      "count": 12
+    }
+  },
+  "coverage": "bounded_employee_review_sample_last_2_years_not_all_reviews",
+  "diagnostics": {
+    "pages": [
+      {
+        "page": "reviews",
+        "page_number": 1,
+        "load_more_clicks": 0,
+        "requested_url": "https://www.kununu.com/de/hermes-group/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\HERMES-PHARMA-f03bf4b2\\browser\\reviews.html",
+        "browser_step": 16,
+        "final_url": "https://www.kununu.com/de/hermes-group/kommentare",
+        "observed_at": "2026-11-25T17:14:03.740400+00:00",
+        "http_status": 200,
+        "factor_cards_expanded": 8,
+        "reviews_collected": 10
+      },
+      {
+        "page": "reviews",
+        "page_number": 2,
+        "load_more_clicks": 1,
+        "requested_url": "https://www.kununu.com/de/hermes-group/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\HERMES-PHARMA-f03bf4b2\\browser\\reviews-2.html",
+        "browser_step": 17,
+        "final_url": "https://www.kununu.com/de/hermes-group/kommentare",
+        "observed_at": "2026-11-25T17:14:05.738706+00:00",
+        "actions_complete": true,
+        "factor_cards_expanded": 2,
+        "reviews_collected": 15
+      }
+    ]
+  },
+  "source_url": "https://www.kununu.com/de/hermes-group",
+  "profile_source": "https://www.kununu.com/de/hermes-group/kommentare",
+  "review_stop_reason": "sample_limit_reached",
+  "factor_score_coverage": {
+    "reviews_with_scores": 12,
+    "reviews_without_scores": 3,
+    "reviews_with_all_known_scores": 9,
+    "status": "partial"
+  },
+  "request_limits": {
+    "max_browser_steps": 295,
+    "browser_steps": 17,
+    "zyte_requests": 0
+  },
+  "reason": null
+}

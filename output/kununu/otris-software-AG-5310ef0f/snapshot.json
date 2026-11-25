@@ -1,0 +1,249 @@
+{
+  "provider": "kununu",
+  "backend": "browser",
+  "status": "ok",
+  "query": "otris software AG",
+  "profile": {
+    "url": "https://www.kununu.com/de/otris-software1",
+    "name": "otris software AG",
+    "overall_score": 4.5,
+    "review_count": 25,
+    "recommendation_percent": 100,
+    "recommendation_period": "last_2_years",
+    "observed_at": "2026-11-25T17:16:52.548524+00:00"
+  },
+  "reviews": [
+    {
+      "id": "46d7b96b-9553-4bff-b9b0-56e085c297f5",
+      "url": "https://www.kununu.com/de/otris-software1/bewertung/46d7b96b-9553-4bff-b9b0-56e085c297f5",
+      "title": "Bester Arbeitgeber in meinem gesamten Berufsleben",
+      "content": "Ich arbeite sehr gerne hier und kann den Arbeitgeber klar empfehlen. Wer ein gutes Team, faire Führung und spannende Aufgaben sucht, ist hier definitiv richtig.\n\nSuper angenehmes Umfeld mit respektvollem Umgang. Kolleg:innen helfen sich gegenseitig und man fühlt sich schnell als Teil des Teams. Keine Ellenbogenmentalität, sondern echtes Miteinander.\n\nMeiner Meinung nach super – intern merkt man, dass hier wirklich Qualität und Teamgeist zählen.\n\nSehr gut. Flexible Arbeitsmodelle und Verständnis für private Themen.\n\nWeiterbildung wird gefördert und nicht nur „versprochen“. Entwicklung ist möglich – sowohl fachlich als auch persönlich.\n\nFaire Bezahlung und transparente Entwicklungsmöglichkeiten. Zusätzliche Benefits sind vorhanden und sinnvoll.\n\nSolide und authentisch, ohne Greenwashing. Es werden sinnvolle Entscheidungen getroffen.\n\neinfach top\n\nSehr respektvoll und selbstverständlich – Erfahrung wird geschätzt, nicht belächelt.\n\nSehr fair und wertschätzend. Führungskräfte sind ansprechbar, hören zu und unterstützen aktiv. Entscheidungen werden nachvollziehbar erklärt.\n\nModerne Ausstattung, gute Tools und ein professionelles Setup. Arbeitszeiten sind flexibel und die Work-Life-Balance wird wirklich gelebt.\n\nOffen, direkt und auf Augenhöhe. Feedback wird ernst genommen und es gibt regelmäßige Abstimmungen – ohne unnötige Bürokratie.\n\nGute, moderne Unternehmenskultur. Leistung zählt, nicht Herkunft, Alter oder sonst etwas.\n\nSpannende Projekte und Aufgaben mit echtem Impact. Man bekommt Verantwortung, darf mitdenken und eigene Ideen einbringen.",
+      "rating": 5.0,
+      "sections": {
+        "positive": "Ich arbeite sehr gerne hier und kann den Arbeitgeber klar empfehlen. Wer ein gutes Team, faire Führung und spannende Aufgaben sucht, ist hier definitiv richtig.",
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Super angenehmes Umfeld mit respektvollem Umgang. Kolleg:innen helfen sich gegenseitig und man fühlt sich schnell als Teil des Teams. Keine Ellenbogenmentalität, sondern echtes Miteinander.",
+        "image": "Meiner Meinung nach super – intern merkt man, dass hier wirklich Qualität und Teamgeist zählen.",
+        "workLife": "Sehr gut. Flexible Arbeitsmodelle und Verständnis für private Themen.",
+        "career": "Weiterbildung wird gefördert und nicht nur „versprochen“. Entwicklung ist möglich – sowohl fachlich als auch persönlich.",
+        "salary": "Faire Bezahlung und transparente Entwicklungsmöglichkeiten. Zusätzliche Benefits sind vorhanden und sinnvoll.",
+        "environment": "Solide und authentisch, ohne Greenwashing. Es werden sinnvolle Entscheidungen getroffen.",
+        "teamwork": "einfach top",
+        "oldColleagues": "Sehr respektvoll und selbstverständlich – Erfahrung wird geschätzt, nicht belächelt.",
+        "leadership": "Sehr fair und wertschätzend. Führungskräfte sind ansprechbar, hören zu und unterstützen aktiv. Entscheidungen werden nachvollziehbar erklärt.",
+        "workConditions": "Moderne Ausstattung, gute Tools und ein professionelles Setup. Arbeitszeiten sind flexibel und die Work-Life-Balance wird wirklich gelebt.",
+        "communication": "Offen, direkt und auf Augenhöhe. Feedback wird ernst genommen und es gibt regelmäßige Abstimmungen – ohne unnötige Bürokratie.",
+        "equality": "Gute, moderne Unternehmenskultur. Leistung zählt, nicht Herkunft, Alter oder sonst etwas.",
+        "tasks": "Spannende Projekte und Aufgaben mit echtem Impact. Man bekommt Verantwortung, darf mitdenken und eigene Ideen einbringen."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-02-19T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "a30ee783-bdd5-423b-a770-738ea04018f7",
+      "url": "https://www.kununu.com/de/otris-software1/bewertung/a30ee783-bdd5-423b-a770-738ea04018f7",
+      "title": "Tolles Team und viel Gestaltungsspielraum",
+      "content": "",
+      "rating": 4.0,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-08-01T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "27ad89fc-ec01-4c8e-b347-30af783bb3c4",
+      "url": "https://www.kununu.com/de/otris-software1/bewertung/27ad89fc-ec01-4c8e-b347-30af783bb3c4",
+      "title": "Hier will man bleiben.",
+      "content": "",
+      "rating": 4.7,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-01-10T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    }
+  ],
+  "review_limit": 15,
+  "review_period": {
+    "since": "2024-11-25T00:00:00+00:00",
+    "until": "2026-11-25T17:16:50.804480+00:00",
+    "date_field": "published_at",
+    "missing_dates": "excluded"
+  },
+  "factor_scores_aggregated": {
+    "atmosphere": {
+      "mean": 5.0,
+      "count": 1
+    },
+    "workLife": {
+      "mean": 5.0,
+      "count": 1
+    },
+    "communication": {
+      "mean": 5.0,
+      "count": 1
+    },
+    "workConditions": {
+      "mean": 5.0,
+      "count": 1
+    },
+    "leadership": {
+      "mean": 5.0,
+      "count": 1
+    },
+    "teamwork": {
+      "mean": 5.0,
+      "count": 1
+    },
+    "oldColleagues": {
+      "mean": 5.0,
+      "count": 1
+    },
+    "equality": {
+      "mean": 5.0,
+      "count": 1
+    },
+    "career": {
+      "mean": 5.0,
+      "count": 1
+    },
+    "salary": {
+      "mean": 5.0,
+      "count": 1
+    },
+    "image": {
+      "mean": 5.0,
+      "count": 1
+    },
+    "environment": {
+      "mean": 5.0,
+      "count": 1
+    },
+    "tasks": {
+      "mean": 5.0,
+      "count": 1
+    }
+  },
+  "coverage": "bounded_employee_review_sample_last_2_years_not_all_reviews",
+  "diagnostics": {
+    "pages": [
+      {
+        "page": "reviews",
+        "page_number": 1,
+        "load_more_clicks": 0,
+        "requested_url": "https://www.kununu.com/de/otris-software1/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\otris-software-AG-5310ef0f\\browser\\reviews.html",
+        "browser_step": 101,
+        "final_url": "https://www.kununu.com/de/otris-software1/kommentare",
+        "observed_at": "2026-11-25T17:16:52.209678+00:00",
+        "http_status": 200,
+        "factor_cards_expanded": 3,
+        "reviews_collected": 1
+      },
+      {
+        "page": "reviews",
+        "page_number": 2,
+        "load_more_clicks": 1,
+        "requested_url": "https://www.kununu.com/de/otris-software1/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\otris-software-AG-5310ef0f\\browser\\reviews-2.html",
+        "browser_step": 102,
+        "final_url": "https://www.kununu.com/de/otris-software1/kommentare",
+        "observed_at": "2026-11-25T17:16:53.712503+00:00",
+        "actions_complete": true,
+        "factor_cards_expanded": 4,
+        "reviews_collected": 3
+      },
+      {
+        "page": "reviews",
+        "page_number": 3,
+        "load_more_clicks": 2,
+        "requested_url": "https://www.kununu.com/de/otris-software1/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\otris-software-AG-5310ef0f\\browser\\reviews-3.html",
+        "browser_step": 103,
+        "final_url": "https://www.kununu.com/de/otris-software1/kommentare",
+        "observed_at": "2026-11-25T17:16:55.207931+00:00",
+        "actions_complete": true,
+        "reviews_collected": 3
+      }
+    ]
+  },
+  "source_url": "https://www.kununu.com/de/otris-software1",
+  "profile_source": "https://www.kununu.com/de/otris-software1/kommentare",
+  "review_stop_reason": "end_of_available_reviews",
+  "factor_score_coverage": {
+    "reviews_with_scores": 1,
+    "reviews_without_scores": 2,
+    "reviews_with_all_known_scores": 1,
+    "status": "partial"
+  },
+  "request_limits": {
+    "max_browser_steps": 295,
+    "browser_steps": 103,
+    "zyte_requests": 0
+  },
+  "reason": null
+}

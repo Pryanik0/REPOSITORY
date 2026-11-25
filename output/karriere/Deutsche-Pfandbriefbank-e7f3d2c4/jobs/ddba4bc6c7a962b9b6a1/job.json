@@ -1,0 +1,20 @@
+{
+  "title": "IT Security Engineer (m/f/d)",
+  "url": "https://jobs-pfandbriefbank.com/IT-Security-Engineer-mfd-de-j1347.html",
+  "description": "Deutsche Pfandbriefbank AG (pbb) is an international specialiced commercial bank with over 800 employees from 37 countries. We offer our customers a wide range of financing and investment solutions for the entire real estate value chain. Our goal is to contribute to a more sustainable world of real estate. For our CIO/COO business area based in Madrid, we are currently seeking to hire, with immediate effect, an IT Security Engineer (m/f/d) Your tasks SIEM Platform Ownership: Manage and optimize the SIEM stack (Cribl, MS Sentinel), including data integration, performance tuning, and log source onboarding. Threat Detection & L3 Response: Design advanced detection use cases and lead deep-dive investigations (Level 3) for complex security incidents. Security Architecture & AppSec: Support application teams with threat modeling, secure design reviews, and the integration of SAST/DAST into SDLC pipelines. Vendor & Service Steering: Act as the primary technical lead for external SOC/MSSP providers, ensuring SLA compliance and high-quality deliverables. Governance & Documentation: Author operational runbooks and define security requirements to ensure compliance and audit-ready documentation. How to convince us Technical Expertise: Extensive hands-on experience with Microsoft Sentinel and Cribl, paired with a solid engineering-level understanding of infrastructure and cloud environments. Coding & Automation: Proficient in Python and shell scripting, with the ability to work with REST APIs and build automation for security tooling. Security Operations: Proven background in L3 incident analysis and formal incident management within a 24/7 SOC environment. AppSec & Compliance: Knowledge of application security (OWASP, threat modeling) and familiarity with regulatory frameworks like DORA or NIS2. Ownership & Mindset: Highly autonomous and solutions-oriented professional who takes full ownership of investigations and technical challenges. Communication: Fluent in English with the ability to bridge the gap between technical engineers and executive leadership through clear communication and rigorous documentation. Only for holder of EU work permit Our values We live our values and expect the same attitude from our employees. Together, we are future-oriented, reliable, and collaborative. What you can expect With us, you will encounter a sustainable corporate culture, diverse and challenging projects, as well as plenty of creative freedom and flexibility. And what else? Compelling compensation & great benefits Family-friendly working conditions with at least two days remote working Attractive, easy-to-reach locations Sounds exciting? So let's shape the future of real estate together. Apply now to join #teampbb in just a few clicks!",
+  "locations": [
+    "Madrid, Madrid, ES"
+  ],
+  "employment_type": "FULL_TIME",
+  "remote": "",
+  "employer": "Deutsche Pfandbriefbank AG",
+  "date_posted": "2026-05-06",
+  "valid_through": "2027-05-01",
+  "reference": null,
+  "extraction": "schema_org_jobposting",
+  "source_url": "https://jobs-pfandbriefbank.com/IT-Security-Engineer-mfd-de-j1347.html",
+  "availability": "advertised",
+  "fetched_at": "2026-11-25T16:11:03.669462+00:00",
+  "id": "ddba4bc6c7a962b9b6a1",
+  "company_key": "Deutsche Pfandbriefbank"
+}

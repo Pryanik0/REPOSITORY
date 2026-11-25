@@ -1,0 +1,1625 @@
+{
+  "status": "partial",
+  "provider": "gewerkschaften",
+  "date_from": "2026-05-25",
+  "pdf_download_policy": "company_in_link_metadata_or_filename",
+  "date_to": "2026-11-25",
+  "articles": [],
+  "visited": [
+    "https://www.dgb.de/",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=mediCAD",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=elderbrook+solutions",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Kyowa+Kirin+International",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Recor+Medical",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Daiichi+Sankyo+Europe",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=WINDSTAR+MEDICAL",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Centrient+Pharmaceuticals",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=HERMES+PHARMA",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=LINK",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Kulzer",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Novaled",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Klosterfrau+Healthcare",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Dr.+Pfleger+Arzneimittel",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Resuscitec",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Medicon",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=XION",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Charite+Research+Organisation",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Finzelberg",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=KOB",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=CEEZER+Software",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Ingentis+Softwareentwicklung",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Eurofiber+Netz",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Deutsche+Pfandbriefbank",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Hamburg+Commercial+Bank",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=MBS+Logistics",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=MSG+Systems",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=agido",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=N%C3%9CRNBERGER+Versicherungsgruppe",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Allgeier+IT+Services",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=MAC+IT-Solutions",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=SGL+Carbon",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Taylor+Wessing",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Diakonie+D%C3%BCsseldorf",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Stadt+K%C3%B6ln",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Hermes+Deutschland",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=otris+software+AG",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Deutsche+R%C3%BCck",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Sparkasse+Vest",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Comcross",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Kreisverwaltung+des+Westerwaldkreises",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Rosenberger",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=OVB+MEDIA",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Sinnwell",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Cybertrading+GmbH",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Berg-Energie",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Adlershorst",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Scheidt-Bachmann",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Schoellershammer",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Hasse",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=tink",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=REISSWOLF+Bayern+GmbH",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Buss+Port+Services+GmbH",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=sea+chefs",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=FINVIA+Family+Office+GmbH",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=welovepr",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=constellr",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=simpleclub",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=bmedx",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Gerresheimer+B%C3%BCnde+GmbH",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=mediCAD+Hectec+GmbH",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=elderbrook+solutions+GmbH",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Kyowa+Kirin+GmbH",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Recor+Medical+Europe+GmbH",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Daiichi+Sankyo+Europe+GmbH",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=WindStar+Medical+GmbH",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Centrient+Pharmaceuticals+Netherlands+B.V.",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=HERMES+PHARMA+GmbH",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Waldemar+Link+GmbH+%26+Co.+KG",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Kulzer+GmbH",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Novaled+GmbH",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Maria+Clementine+Martin+Klosterfrau+Vertriebsgesellschaft+mbH",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Dr.+Pfleger+Arzneimittel+GmbH",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Resuscitec+GmbH",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Medicon+eG.+Chirurgiemechaniker-Genossenschaft",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=XION+GmbH",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Charit%C3%A9+Research+Organisation+GmbH",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Finzelberg+GmbH+%26+Co.+KG",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=KOB+GmbH",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=CEEZER+Software+GmbH",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Ingentis+Softwareentwicklung+GmbH",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Eurofiber+Netz+GmbH",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Deutsche+Pfandbriefbank+AG",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Hamburg+Commercial+Bank+AG",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=MBS+Speditionsgesellschaft+mbH",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=msg+systems+ag",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=agido+GmbH",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=N%C3%9CRNBERGER+Beteiligungs-AG",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=AVENDIS+GmbH",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=MAC+IT-Solutions+GmbH",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=SGL+Carbon+SE",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Taylor+Wessing+Partnerschaftsgesellschaft+von+Rechtsanw%C3%A4lten+und+Steuerberatern+mbB",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Diakonie+D%C3%BCsseldorf+Gemeindedienst+der+evangelischen+Kirchengemeinden+e.V.",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Hermes+Germany+GmbH",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Daiichi+Sankyo+Deutschland+GmbH",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=MCM+Klosterfrau+Vertriebsgesellschaft+mbH",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Medicon+eG",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Karl+Otto+Braun",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Taylor+Wessing+Partnerschaftsgesellschaft+mbB",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Diakonie+D%C3%BCsseldorf+e.V.",
+    "https://www.dgb.de/unsere-rss-feeds/",
+    "https://www.dgb.de/der-dgb/fachabteilungen-und-verbindungsstellen/sozialpolitik/",
+    "https://www.dgb.de/presse/pressemitteilungen/pressemitteilung/breites-buendnis-fordert-aus-fuer-das-wissenschaftszeitvertragsgesetz/",
+    "https://www.dgb.de/service/weiterer-service/tarifmeldungen/tarifmeldung/tarifrunde-bei-privaten-banken-verdi-macht-druck/",
+    "https://www.dgb.de/service/weiterer-service/tarifmeldungen/tarifmeldung/warnstreiks-bei-ikea/",
+    "https://www.dgb.de/service/weiterer-service/tarifmeldungen/tarifmeldung/tarifrunde-textile-dienste-2025-beschaeftigte-starten-warnstreiks-nach-arbeitgeber-minus-angebot/",
+    "https://www.dgb.de/der-dgb/geschaeftsfuehrender-bundesvorstand/ehemalige-vorsitzende/",
+    "https://www.dgb.de/aktuelles/news/wegweisender-tarifvertrag-erfolgsgeschichte-silicon-saxony/",
+    "https://www.dgb.de/presse/pressemitteilungen/pressemitteilung/brueckenstrompreis-lage-wird-immer-dramatischer-koalitionsausschuss-muss-entscheiden/",
+    "https://www.dgb.de/service/weiterer-service/tarifmeldungen/tarifmeldung/spritziger-tarifabschluss-bei-hassia-ost-bis-zu-102-prozent-mehr-lohn-fuer-ost-beschaeftigte/",
+    "https://www.dgb.de/service/weiterer-service/tarifmeldungen/tarifmeldung/tarifrunde-telekom-2026-bimdesweite-warnstreiks-und-kundgebung-in-potsdam/",
+    "https://www.dgb.de/service/weiterer-service/tarifmeldungen/tarifmeldung/streikwoche-bei-der-autobahn-gmbh-erhebliche-einschraenkungen-an-tunneln-und-autobahnmeistereien/",
+    "https://www.dgb.de/aktuelles/news/die-gewinner-des-betriebsraetepreises-2024-stehen-fest/",
+    "https://www.dgb.de/service/weiterer-service/tarifmeldungen/tarifmeldung/verdi-und-lufthansa-einigen-sich-auf-tarifergebnis-fuer-bodenpersonal/",
+    "https://www.dgb.de/service/weiterer-service/tarifmeldungen/tarifmeldung/warnstreik-bei-der-ice-international-copyright-enterprise-germany-gmbh/",
+    "https://www.dgb.de/mitmachen/erster-mai/geschichte-des-ersten-mai/",
+    "https://www.dgb.de/presse/pressemitteilungen/pressemitteilung/sozialstaatsbuendnis-wer-am-sozialen-spart-schwaecht-das-rueckgrat-unserer-demokratie/",
+    "https://www.dgb.de/news-rss-feed.xml",
+    "https://www.dgb.de/aktuelles/news/umfrage-teure-mieten-schaden-wirtschaft-arbeitsmarkt/",
+    "https://www.dgb.de/pressemitteilungen-rss-feed.xml",
+    "https://www.dgb.de/presse/pressemitteilungen/pressemitteilung/dgb-rentenkommission-legt-empfehlungen-fuer-gerechte-alterssicherung-vor/",
+    "https://www.dgb.de/presse/pressemitteilungen/agenturzitat/ezb-zinserhoehung-ist-schwerwiegender-fehler/",
+    "https://www.dgb.de/presse/pressemitteilungen/agenturzitat/ezb-zinserhoehung-waere-schwerer-fehler/",
+    "https://www.dgb.de/presse/pressemitteilungen/agenturzitat/jetzt-ist-die-zeit-zusammenzustehen/",
+    "https://www.dgb.de/tarifmeldungen-rss-feed.xml",
+    "https://www.dgb.de/datenschutzerklaerung/",
+    "https://www.dgb.de/aktuelles/news/bundeshaushalt-nur-gerechte-verteilung-fuehrt-aus-der-krise/",
+    "https://www.dgb.de/aktuelles/news/mega-reiche-nicht-laenger-verschonen/",
+    "https://www.dgb.de/aktuelles/news/klartext-nr-35-2026-mit-tarifvertrag-schliesst-sich-die-ost-west-lohnluecke/",
+    "https://www.dgb.de/aktuelles/news/betriebsraetepreis-2026-das-sind-die-drei-gold-preistraeger/",
+    "https://www.dgb.de/aktuelles/news/nichts-gelernt-aus-den-energiekrisen/",
+    "https://www.dgb.de/aktuelles/news/egovernment-monitor-2026-vertrauen-in-den-staat-erreicht-neuen-tiefpunkt/",
+    "https://www.dgb.de/aktuelles/news/eu-sparpolitik-schadet-wirtschaft-und-gesellschaft/",
+    "https://www.dgb.de/aktuelles/news/sozialabbau-schaedlich-fuer-wirtschaft-und-demokratie/",
+    "https://www.dgb.de/aktuelles/news/bundeshaushalt-2027-zwischen-investitionen-ruestung-und-kuerzungskurs/",
+    "https://www.dgb.de/aktuelles/news/sozialreformen-auf-dem-ruecken-der-frauen-viele-sagen-jetzt-reichts/",
+    "https://www.dgb.de/aktuelles/news/pflege-rente-elterngeld-an-allen-enden-reicht-es-nicht/",
+    "https://www.dgb.de/aktuelles/news/einblick-hart-verdient-deine-arbeit-deine-gesundheit-deine-rente/",
+    "https://www.dgb.de/aktuelles/news/einkommensteuer-entlastung-geht-besser-billiger-und-fairer/",
+    "https://www.dgb.de/aktuelles/news/sozialstaatsdebatte-verunsichert-viele-schraenken-ihren-konsum-ein/",
+    "https://www.dgb.de/aktuelles/news/sparen-am-falschen-ort-dgb-warnt-vor-kuerzungen-bei-der-bundesagentur-fuer-arbeit/",
+    "https://www.dgb.de/aktuelles/news/15-millionen-beschaeftigte-bekommen-mehr-geld/",
+    "https://www.dgb.de/aktuelles/news/local-content-kern-einer-strategischen-foerderpolitik/",
+    "https://www.dgb.de/aktuelles/news/milliardenschaeden-durch-mindestlohnbetrug/",
+    "https://www.dgb.de/aktuelles/news/mit-tarifvertrag-waerst-du-vielleicht-noch-im-urlaub/",
+    "https://www.dgb.de/aktuelles/news/der-acht-stunden-tag-schuetzt-seine-abschaffung-trifft-vor-allem-frauen/",
+    "https://www.dgb.de/aktuelles/news/antikriegstag-2026-friedensfaehig-statt-kriegstuechtig/",
+    "https://www.dgb.de/aktuelles/news/mehr-geld-fuer-mehr-zeit/",
+    "https://www.dgb.de/aktuelles/news/arbeiten-bei-hitze-jeder-dritte-ist-stark-belastet/",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bpage%5D=2&tx_solr%5Bq%5D=Stadt+K%C3%B6ln",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bpage%5D=1&tx_solr%5Bq%5D=otris+software+AG",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bpage%5D=2&tx_solr%5Bq%5D=Deutsche+R%C3%BCck",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bpage%5D=1&tx_solr%5Bq%5D=Rosenberger",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bpage%5D=2&tx_solr%5Bq%5D=Berg-Energie",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bpage%5D=2&tx_solr%5Bq%5D=Hasse",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bpage%5D=1&tx_solr%5Bq%5D=REISSWOLF+Bayern+GmbH",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bpage%5D=2&tx_solr%5Bq%5D=Gerresheimer+B%C3%BCnde+GmbH",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bpage%5D=2&tx_solr%5Bq%5D=LINK",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bpage%5D=2&tx_solr%5Bq%5D=Dr.+Pfleger+Arzneimittel",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bpage%5D=1&tx_solr%5Bq%5D=Charite+Research+Organisation",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bpage%5D=1&tx_solr%5Bq%5D=Hamburg+Commercial+Bank",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bpage%5D=1&tx_solr%5Bq%5D=Allgeier+IT+Services",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bpage%5D=1&tx_solr%5Bq%5D=elderbrook+solutions+GmbH",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bpage%5D=1&tx_solr%5Bq%5D=HERMES+PHARMA+GmbH",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bpage%5D=1&tx_solr%5Bq%5D=Finzelberg+GmbH+%26+Co.+KG",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bpage%5D=1&tx_solr%5Bq%5D=CEEZER+Software+GmbH",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bpage%5D=2&tx_solr%5Bq%5D=Eurofiber+Netz+GmbH",
+    "https://www.dgb.de/suchergebnisse/?tx_solr%5Bpage%5D=2&tx_solr%5Bq%5D=Deutsche+Pfandbriefbank+AG"
+  ],
+  "rejected": [
+    {
+      "url": "https://www.dgb.de/",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=mediCAD",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=elderbrook+solutions",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Kyowa+Kirin+International",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Recor+Medical",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Daiichi+Sankyo+Europe",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=WINDSTAR+MEDICAL",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Centrient+Pharmaceuticals",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=HERMES+PHARMA",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=LINK",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Kulzer",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Novaled",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Klosterfrau+Healthcare",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Dr.+Pfleger+Arzneimittel",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Resuscitec",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Medicon",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=XION",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Charite+Research+Organisation",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Finzelberg",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=KOB",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=CEEZER+Software",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Ingentis+Softwareentwicklung",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Eurofiber+Netz",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Deutsche+Pfandbriefbank",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Hamburg+Commercial+Bank",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=MBS+Logistics",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=MSG+Systems",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=agido",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=N%C3%9CRNBERGER+Versicherungsgruppe",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Allgeier+IT+Services",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=MAC+IT-Solutions",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=SGL+Carbon",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Taylor+Wessing",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Diakonie+D%C3%BCsseldorf",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Stadt+K%C3%B6ln",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Hermes+Deutschland",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=otris+software+AG",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Deutsche+R%C3%BCck",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Sparkasse+Vest",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Comcross",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Kreisverwaltung+des+Westerwaldkreises",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Rosenberger",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=OVB+MEDIA",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Sinnwell",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Cybertrading+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Berg-Energie",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Adlershorst",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Scheidt-Bachmann",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Schoellershammer",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Hasse",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=tink",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=REISSWOLF+Bayern+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Buss+Port+Services+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=sea+chefs",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=FINVIA+Family+Office+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=welovepr",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=constellr",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=simpleclub",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=bmedx",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Gerresheimer+B%C3%BCnde+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=mediCAD+Hectec+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=elderbrook+solutions+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Kyowa+Kirin+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Recor+Medical+Europe+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Daiichi+Sankyo+Europe+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=WindStar+Medical+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Centrient+Pharmaceuticals+Netherlands+B.V.",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=HERMES+PHARMA+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Waldemar+Link+GmbH+%26+Co.+KG",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Kulzer+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Novaled+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Maria+Clementine+Martin+Klosterfrau+Vertriebsgesellschaft+mbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Dr.+Pfleger+Arzneimittel+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Resuscitec+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Medicon+eG.+Chirurgiemechaniker-Genossenschaft",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=XION+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Charit%C3%A9+Research+Organisation+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Finzelberg+GmbH+%26+Co.+KG",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=KOB+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=CEEZER+Software+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Ingentis+Softwareentwicklung+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Eurofiber+Netz+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Deutsche+Pfandbriefbank+AG",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Hamburg+Commercial+Bank+AG",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=MBS+Speditionsgesellschaft+mbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=msg+systems+ag",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=agido+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=N%C3%9CRNBERGER+Beteiligungs-AG",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=AVENDIS+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=MAC+IT-Solutions+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=SGL+Carbon+SE",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Taylor+Wessing+Partnerschaftsgesellschaft+von+Rechtsanw%C3%A4lten+und+Steuerberatern+mbB",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Diakonie+D%C3%BCsseldorf+Gemeindedienst+der+evangelischen+Kirchengemeinden+e.V.",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Hermes+Germany+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Daiichi+Sankyo+Deutschland+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=MCM+Klosterfrau+Vertriebsgesellschaft+mbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Medicon+eG",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Karl+Otto+Braun",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Taylor+Wessing+Partnerschaftsgesellschaft+mbB",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Diakonie+D%C3%BCsseldorf+e.V.",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/unsere-rss-feeds/",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.dgb.de/der-dgb/fachabteilungen-und-verbindungsstellen/sozialpolitik/",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.dgb.de/presse/pressemitteilungen/pressemitteilung/breites-buendnis-fordert-aus-fuer-das-wissenschaftszeitvertragsgesetz/",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dgb.de/service/weiterer-service/tarifmeldungen/tarifmeldung/tarifrunde-bei-privaten-banken-verdi-macht-druck/",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dgb.de/service/weiterer-service/tarifmeldungen/tarifmeldung/warnstreiks-bei-ikea/",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dgb.de/service/weiterer-service/tarifmeldungen/tarifmeldung/tarifrunde-textile-dienste-2025-beschaeftigte-starten-warnstreiks-nach-arbeitgeber-minus-angebot/",
+      "reason": "outside_publication_window"
+    },
+    {
+      "url": "https://www.dgb.de/der-dgb/geschaeftsfuehrender-bundesvorstand/ehemalige-vorsitzende/",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.dgb.de/aktuelles/news/wegweisender-tarifvertrag-erfolgsgeschichte-silicon-saxony/",
+      "reason": "outside_publication_window"
+    },
+    {
+      "url": "https://www.dgb.de/presse/pressemitteilungen/pressemitteilung/brueckenstrompreis-lage-wird-immer-dramatischer-koalitionsausschuss-muss-entscheiden/",
+      "reason": "outside_publication_window"
+    },
+    {
+      "url": "https://www.dgb.de/service/weiterer-service/tarifmeldungen/tarifmeldung/spritziger-tarifabschluss-bei-hassia-ost-bis-zu-102-prozent-mehr-lohn-fuer-ost-beschaeftigte/",
+      "reason": "outside_publication_window"
+    },
+    {
+      "url": "https://www.dgb.de/service/weiterer-service/tarifmeldungen/tarifmeldung/tarifrunde-telekom-2026-bimdesweite-warnstreiks-und-kundgebung-in-potsdam/",
+      "reason": "outside_publication_window"
+    },
+    {
+      "url": "https://www.dgb.de/service/weiterer-service/tarifmeldungen/tarifmeldung/streikwoche-bei-der-autobahn-gmbh-erhebliche-einschraenkungen-an-tunneln-und-autobahnmeistereien/",
+      "reason": "outside_publication_window"
+    },
+    {
+      "url": "https://www.dgb.de/aktuelles/news/die-gewinner-des-betriebsraetepreises-2024-stehen-fest/",
+      "reason": "outside_publication_window"
+    },
+    {
+      "url": "https://www.dgb.de/service/weiterer-service/tarifmeldungen/tarifmeldung/verdi-und-lufthansa-einigen-sich-auf-tarifergebnis-fuer-bodenpersonal/",
+      "reason": "outside_publication_window"
+    },
+    {
+      "url": "https://www.dgb.de/service/weiterer-service/tarifmeldungen/tarifmeldung/warnstreik-bei-der-ice-international-copyright-enterprise-germany-gmbh/",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dgb.de/mitmachen/erster-mai/geschichte-des-ersten-mai/",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.dgb.de/presse/pressemitteilungen/pressemitteilung/sozialstaatsbuendnis-wer-am-sozialen-spart-schwaecht-das-rueckgrat-unserer-demokratie/",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dgb.de/aktuelles/news/umfrage-teure-mieten-schaden-wirtschaft-arbeitsmarkt/",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dgb.de/presse/pressemitteilungen/pressemitteilung/dgb-rentenkommission-legt-empfehlungen-fuer-gerechte-alterssicherung-vor/",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dgb.de/presse/pressemitteilungen/agenturzitat/ezb-zinserhoehung-ist-schwerwiegender-fehler/",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dgb.de/presse/pressemitteilungen/agenturzitat/ezb-zinserhoehung-waere-schwerer-fehler/",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dgb.de/presse/pressemitteilungen/agenturzitat/jetzt-ist-die-zeit-zusammenzustehen/",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dgb.de/datenschutzerklaerung/",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.dgb.de/aktuelles/news/bundeshaushalt-nur-gerechte-verteilung-fuehrt-aus-der-krise/",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dgb.de/aktuelles/news/mega-reiche-nicht-laenger-verschonen/",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dgb.de/aktuelles/news/klartext-nr-35-2026-mit-tarifvertrag-schliesst-sich-die-ost-west-lohnluecke/",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dgb.de/aktuelles/news/betriebsraetepreis-2026-das-sind-die-drei-gold-preistraeger/",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dgb.de/aktuelles/news/nichts-gelernt-aus-den-energiekrisen/",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dgb.de/aktuelles/news/egovernment-monitor-2026-vertrauen-in-den-staat-erreicht-neuen-tiefpunkt/",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dgb.de/aktuelles/news/eu-sparpolitik-schadet-wirtschaft-und-gesellschaft/",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dgb.de/aktuelles/news/sozialabbau-schaedlich-fuer-wirtschaft-und-demokratie/",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dgb.de/aktuelles/news/bundeshaushalt-2027-zwischen-investitionen-ruestung-und-kuerzungskurs/",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dgb.de/aktuelles/news/sozialreformen-auf-dem-ruecken-der-frauen-viele-sagen-jetzt-reichts/",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dgb.de/aktuelles/news/pflege-rente-elterngeld-an-allen-enden-reicht-es-nicht/",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dgb.de/aktuelles/news/einblick-hart-verdient-deine-arbeit-deine-gesundheit-deine-rente/",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dgb.de/aktuelles/news/einkommensteuer-entlastung-geht-besser-billiger-und-fairer/",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dgb.de/aktuelles/news/sozialstaatsdebatte-verunsichert-viele-schraenken-ihren-konsum-ein/",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dgb.de/aktuelles/news/sparen-am-falschen-ort-dgb-warnt-vor-kuerzungen-bei-der-bundesagentur-fuer-arbeit/",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dgb.de/aktuelles/news/15-millionen-beschaeftigte-bekommen-mehr-geld/",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dgb.de/aktuelles/news/local-content-kern-einer-strategischen-foerderpolitik/",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dgb.de/aktuelles/news/milliardenschaeden-durch-mindestlohnbetrug/",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dgb.de/aktuelles/news/mit-tarifvertrag-waerst-du-vielleicht-noch-im-urlaub/",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dgb.de/aktuelles/news/der-acht-stunden-tag-schuetzt-seine-abschaffung-trifft-vor-allem-frauen/",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dgb.de/aktuelles/news/antikriegstag-2026-friedensfaehig-statt-kriegstuechtig/",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dgb.de/aktuelles/news/mehr-geld-fuer-mehr-zeit/",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dgb.de/aktuelles/news/arbeiten-bei-hitze-jeder-dritte-ist-stark-belastet/",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bpage%5D=2&tx_solr%5Bq%5D=Stadt+K%C3%B6ln",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bpage%5D=1&tx_solr%5Bq%5D=otris+software+AG",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bpage%5D=2&tx_solr%5Bq%5D=Deutsche+R%C3%BCck",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bpage%5D=1&tx_solr%5Bq%5D=Rosenberger",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bpage%5D=2&tx_solr%5Bq%5D=Berg-Energie",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bpage%5D=2&tx_solr%5Bq%5D=Hasse",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bpage%5D=1&tx_solr%5Bq%5D=REISSWOLF+Bayern+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bpage%5D=2&tx_solr%5Bq%5D=Gerresheimer+B%C3%BCnde+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bpage%5D=2&tx_solr%5Bq%5D=LINK",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bpage%5D=2&tx_solr%5Bq%5D=Dr.+Pfleger+Arzneimittel",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bpage%5D=1&tx_solr%5Bq%5D=Charite+Research+Organisation",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bpage%5D=1&tx_solr%5Bq%5D=Hamburg+Commercial+Bank",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bpage%5D=1&tx_solr%5Bq%5D=Allgeier+IT+Services",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bpage%5D=1&tx_solr%5Bq%5D=elderbrook+solutions+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bpage%5D=1&tx_solr%5Bq%5D=HERMES+PHARMA+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bpage%5D=1&tx_solr%5Bq%5D=Finzelberg+GmbH+%26+Co.+KG",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bpage%5D=1&tx_solr%5Bq%5D=CEEZER+Software+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bpage%5D=2&tx_solr%5Bq%5D=Eurofiber+Netz+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bpage%5D=2&tx_solr%5Bq%5D=Deutsche+Pfandbriefbank+AG",
+      "reason": "search_results_page"
+    }
+  ],
+  "errors": [],
+  "truncated": true,
+  "searches": [
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=mediCAD",
+      "company_key": "mediCAD",
+      "query": "mediCAD",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=mediCAD+Hectec+GmbH",
+      "company_key": "mediCAD",
+      "query": "mediCAD Hectec GmbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=elderbrook+solutions",
+      "company_key": "elderbrook solutions",
+      "query": "elderbrook solutions",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=elderbrook+solutions+GmbH",
+      "company_key": "elderbrook solutions",
+      "query": "elderbrook solutions GmbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Kyowa+Kirin+International",
+      "company_key": "Kyowa Kirin International",
+      "query": "Kyowa Kirin International",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Kyowa+Kirin+GmbH",
+      "company_key": "Kyowa Kirin International",
+      "query": "Kyowa Kirin GmbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Recor+Medical",
+      "company_key": "Recor Medical",
+      "query": "Recor Medical",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Recor+Medical+Europe+GmbH",
+      "company_key": "Recor Medical",
+      "query": "Recor Medical Europe GmbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Daiichi+Sankyo+Europe",
+      "company_key": "Daiichi Sankyo Europe",
+      "query": "Daiichi Sankyo Europe",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Daiichi+Sankyo+Europe+GmbH",
+      "company_key": "Daiichi Sankyo Europe",
+      "query": "Daiichi Sankyo Europe GmbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Daiichi+Sankyo+Deutschland+GmbH",
+      "company_key": "Daiichi Sankyo Europe",
+      "query": "Daiichi Sankyo Deutschland GmbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=WINDSTAR+MEDICAL",
+      "company_key": "WINDSTAR MEDICAL",
+      "query": "WINDSTAR MEDICAL",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=WindStar+Medical+GmbH",
+      "company_key": "WINDSTAR MEDICAL",
+      "query": "WindStar Medical GmbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Centrient+Pharmaceuticals",
+      "company_key": "Centrient Pharmaceuticals",
+      "query": "Centrient Pharmaceuticals",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Centrient+Pharmaceuticals+Netherlands+B.V.",
+      "company_key": "Centrient Pharmaceuticals",
+      "query": "Centrient Pharmaceuticals Netherlands B.V.",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=HERMES+PHARMA",
+      "company_key": "HERMES PHARMA",
+      "query": "HERMES PHARMA",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=HERMES+PHARMA+GmbH",
+      "company_key": "HERMES PHARMA",
+      "query": "HERMES PHARMA GmbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=LINK",
+      "company_key": "LINK",
+      "query": "LINK",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Waldemar+Link+GmbH+%26+Co.+KG",
+      "company_key": "LINK",
+      "query": "Waldemar Link GmbH & Co. KG",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Kulzer",
+      "company_key": "Kulzer",
+      "query": "Kulzer",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Kulzer+GmbH",
+      "company_key": "Kulzer",
+      "query": "Kulzer GmbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Novaled",
+      "company_key": "Novaled",
+      "query": "Novaled",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Novaled+GmbH",
+      "company_key": "Novaled",
+      "query": "Novaled GmbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Klosterfrau+Healthcare",
+      "company_key": "Klosterfrau Healthcare",
+      "query": "Klosterfrau Healthcare",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Maria+Clementine+Martin+Klosterfrau+Vertriebsgesellschaft+mbH",
+      "company_key": "Klosterfrau Healthcare",
+      "query": "Maria Clementine Martin Klosterfrau Vertriebsgesellschaft mbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=MCM+Klosterfrau+Vertriebsgesellschaft+mbH",
+      "company_key": "Klosterfrau Healthcare",
+      "query": "MCM Klosterfrau Vertriebsgesellschaft mbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Dr.+Pfleger+Arzneimittel",
+      "company_key": "Dr. Pfleger Arzneimittel",
+      "query": "Dr. Pfleger Arzneimittel",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Dr.+Pfleger+Arzneimittel+GmbH",
+      "company_key": "Dr. Pfleger Arzneimittel",
+      "query": "Dr. Pfleger Arzneimittel GmbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Resuscitec",
+      "company_key": "Resuscitec",
+      "query": "Resuscitec",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Resuscitec+GmbH",
+      "company_key": "Resuscitec",
+      "query": "Resuscitec GmbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Medicon",
+      "company_key": "Medicon",
+      "query": "Medicon",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Medicon+eG.+Chirurgiemechaniker-Genossenschaft",
+      "company_key": "Medicon",
+      "query": "Medicon eG. Chirurgiemechaniker-Genossenschaft",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Medicon+eG",
+      "company_key": "Medicon",
+      "query": "Medicon eG",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=XION",
+      "company_key": "XION",
+      "query": "XION",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=XION+GmbH",
+      "company_key": "XION",
+      "query": "XION GmbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Charite+Research+Organisation",
+      "company_key": "Charite Research Organisation",
+      "query": "Charite Research Organisation",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Charit%C3%A9+Research+Organisation+GmbH",
+      "company_key": "Charite Research Organisation",
+      "query": "Charité Research Organisation GmbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Finzelberg",
+      "company_key": "Finzelberg",
+      "query": "Finzelberg",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Finzelberg+GmbH+%26+Co.+KG",
+      "company_key": "Finzelberg",
+      "query": "Finzelberg GmbH & Co. KG",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=KOB",
+      "company_key": "KOB",
+      "query": "KOB",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=KOB+GmbH",
+      "company_key": "KOB",
+      "query": "KOB GmbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Karl+Otto+Braun",
+      "company_key": "KOB",
+      "query": "Karl Otto Braun",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=CEEZER+Software",
+      "company_key": "CEEZER Software",
+      "query": "CEEZER Software",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=CEEZER+Software+GmbH",
+      "company_key": "CEEZER Software",
+      "query": "CEEZER Software GmbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Ingentis+Softwareentwicklung",
+      "company_key": "Ingentis Softwareentwicklung",
+      "query": "Ingentis Softwareentwicklung",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Ingentis+Softwareentwicklung+GmbH",
+      "company_key": "Ingentis Softwareentwicklung",
+      "query": "Ingentis Softwareentwicklung GmbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Eurofiber+Netz",
+      "company_key": "Eurofiber Netz",
+      "query": "Eurofiber Netz",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Eurofiber+Netz+GmbH",
+      "company_key": "Eurofiber Netz",
+      "query": "Eurofiber Netz GmbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Deutsche+Pfandbriefbank",
+      "company_key": "Deutsche Pfandbriefbank",
+      "query": "Deutsche Pfandbriefbank",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Deutsche+Pfandbriefbank+AG",
+      "company_key": "Deutsche Pfandbriefbank",
+      "query": "Deutsche Pfandbriefbank AG",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Hamburg+Commercial+Bank",
+      "company_key": "Hamburg Commercial Bank",
+      "query": "Hamburg Commercial Bank",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Hamburg+Commercial+Bank+AG",
+      "company_key": "Hamburg Commercial Bank",
+      "query": "Hamburg Commercial Bank AG",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=MBS+Logistics",
+      "company_key": "MBS Logistics",
+      "query": "MBS Logistics",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=MBS+Speditionsgesellschaft+mbH",
+      "company_key": "MBS Logistics",
+      "query": "MBS Speditionsgesellschaft mbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=MSG+Systems",
+      "company_key": "MSG Systems",
+      "query": "MSG Systems",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=msg+systems+ag",
+      "company_key": "MSG Systems",
+      "query": "msg systems ag",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=agido",
+      "company_key": "agido",
+      "query": "agido",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=agido+GmbH",
+      "company_key": "agido",
+      "query": "agido GmbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=N%C3%9CRNBERGER+Versicherungsgruppe",
+      "company_key": "NÜRNBERGER Versicherungsgruppe",
+      "query": "NÜRNBERGER Versicherungsgruppe",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=N%C3%9CRNBERGER+Beteiligungs-AG",
+      "company_key": "NÜRNBERGER Versicherungsgruppe",
+      "query": "NÜRNBERGER Beteiligungs-AG",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Allgeier+IT+Services",
+      "company_key": "Allgeier IT Services",
+      "query": "Allgeier IT Services",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=AVENDIS+GmbH",
+      "company_key": "Allgeier IT Services",
+      "query": "AVENDIS GmbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=MAC+IT-Solutions",
+      "company_key": "MAC IT-Solutions",
+      "query": "MAC IT-Solutions",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=MAC+IT-Solutions+GmbH",
+      "company_key": "MAC IT-Solutions",
+      "query": "MAC IT-Solutions GmbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=SGL+Carbon",
+      "company_key": "SGL Carbon",
+      "query": "SGL Carbon",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=SGL+Carbon+SE",
+      "company_key": "SGL Carbon",
+      "query": "SGL Carbon SE",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Taylor+Wessing",
+      "company_key": "Taylor Wessing",
+      "query": "Taylor Wessing",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Taylor+Wessing+Partnerschaftsgesellschaft+von+Rechtsanw%C3%A4lten+und+Steuerberatern+mbB",
+      "company_key": "Taylor Wessing",
+      "query": "Taylor Wessing Partnerschaftsgesellschaft von Rechtsanwälten und Steuerberatern mbB",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Taylor+Wessing+Partnerschaftsgesellschaft+mbB",
+      "company_key": "Taylor Wessing",
+      "query": "Taylor Wessing Partnerschaftsgesellschaft mbB",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Diakonie+D%C3%BCsseldorf",
+      "company_key": "Diakonie Düsseldorf",
+      "query": "Diakonie Düsseldorf",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Diakonie+D%C3%BCsseldorf+Gemeindedienst+der+evangelischen+Kirchengemeinden+e.V.",
+      "company_key": "Diakonie Düsseldorf",
+      "query": "Diakonie Düsseldorf Gemeindedienst der evangelischen Kirchengemeinden e.V.",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Diakonie+D%C3%BCsseldorf+e.V.",
+      "company_key": "Diakonie Düsseldorf",
+      "query": "Diakonie Düsseldorf e.V.",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Stadt+K%C3%B6ln",
+      "company_key": "Stadt Köln",
+      "query": "Stadt Köln",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Hermes+Deutschland",
+      "company_key": "Hermes Deutschland",
+      "query": "Hermes Deutschland",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Hermes+Germany+GmbH",
+      "company_key": "Hermes Deutschland",
+      "query": "Hermes Germany GmbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=otris+software+AG",
+      "company_key": "otris software AG",
+      "query": "otris software AG",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Deutsche+R%C3%BCck",
+      "company_key": "Deutsche Rück",
+      "query": "Deutsche Rück",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Sparkasse+Vest",
+      "company_key": "Sparkasse Vest",
+      "query": "Sparkasse Vest",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Comcross",
+      "company_key": "Comcross",
+      "query": "Comcross",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Kreisverwaltung+des+Westerwaldkreises",
+      "company_key": "Kreisverwaltung des Westerwaldkreises",
+      "query": "Kreisverwaltung des Westerwaldkreises",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Rosenberger",
+      "company_key": "Rosenberger",
+      "query": "Rosenberger",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=OVB+MEDIA",
+      "company_key": "OVB MEDIA",
+      "query": "OVB MEDIA",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Sinnwell",
+      "company_key": "Sinnwell",
+      "query": "Sinnwell",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Cybertrading+GmbH",
+      "company_key": "Cybertrading GmbH",
+      "query": "Cybertrading GmbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Berg-Energie",
+      "company_key": "Berg-Energie",
+      "query": "Berg-Energie",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Adlershorst",
+      "company_key": "Adlershorst",
+      "query": "Adlershorst",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Scheidt-Bachmann",
+      "company_key": "Scheidt-Bachmann",
+      "query": "Scheidt-Bachmann",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Schoellershammer",
+      "company_key": "Schoellershammer",
+      "query": "Schoellershammer",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Hasse",
+      "company_key": "Hasse",
+      "query": "Hasse",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=tink",
+      "company_key": "tink",
+      "query": "tink",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=REISSWOLF+Bayern+GmbH",
+      "company_key": "REISSWOLF Bayern GmbH",
+      "query": "REISSWOLF Bayern GmbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Buss+Port+Services+GmbH",
+      "company_key": "Buss Port Services GmbH",
+      "query": "Buss Port Services GmbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=sea+chefs",
+      "company_key": "sea chefs",
+      "query": "sea chefs",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=FINVIA+Family+Office+GmbH",
+      "company_key": "FINVIA Family Office GmbH",
+      "query": "FINVIA Family Office GmbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=welovepr",
+      "company_key": "welovepr",
+      "query": "welovepr",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=constellr",
+      "company_key": "constellr",
+      "query": "constellr",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=simpleclub",
+      "company_key": "simpleclub",
+      "query": "simpleclub",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=bmedx",
+      "company_key": "bmedx",
+      "query": "bmedx",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Gerresheimer+B%C3%BCnde+GmbH",
+      "company_key": "Gerresheimer Bünde GmbH",
+      "query": "Gerresheimer Bünde GmbH",
+      "mechanism": "get_form",
+      "status": "fetched"
+    }
+  ],
+  "company_keys": [
+    "mediCAD",
+    "elderbrook solutions",
+    "Kyowa Kirin International",
+    "Recor Medical",
+    "Daiichi Sankyo Europe",
+    "WINDSTAR MEDICAL",
+    "Centrient Pharmaceuticals",
+    "HERMES PHARMA",
+    "LINK",
+    "Kulzer",
+    "Novaled",
+    "Klosterfrau Healthcare",
+    "Dr. Pfleger Arzneimittel",
+    "Resuscitec",
+    "Medicon",
+    "XION",
+    "Charite Research Organisation",
+    "Finzelberg",
+    "KOB",
+    "CEEZER Software",
+    "Ingentis Softwareentwicklung",
+    "Eurofiber Netz",
+    "Deutsche Pfandbriefbank",
+    "Hamburg Commercial Bank",
+    "MBS Logistics",
+    "MSG Systems",
+    "agido",
+    "NÜRNBERGER Versicherungsgruppe",
+    "Allgeier IT Services",
+    "MAC IT-Solutions",
+    "SGL Carbon",
+    "Taylor Wessing",
+    "Diakonie Düsseldorf",
+    "Stadt Köln",
+    "Hermes Deutschland",
+    "otris software AG",
+    "Deutsche Rück",
+    "Sparkasse Vest",
+    "Comcross",
+    "Kreisverwaltung des Westerwaldkreises",
+    "Rosenberger",
+    "OVB MEDIA",
+    "Sinnwell",
+    "Cybertrading GmbH",
+    "Berg-Energie",
+    "Adlershorst",
+    "Scheidt-Bachmann",
+    "Schoellershammer",
+    "Hasse",
+    "tink",
+    "REISSWOLF Bayern GmbH",
+    "Buss Port Services GmbH",
+    "sea chefs",
+    "FINVIA Family Office GmbH",
+    "welovepr",
+    "constellr",
+    "simpleclub",
+    "bmedx",
+    "Gerresheimer Bünde GmbH"
+  ],
+  "search_mode": "site_search",
+  "articles_examined": 33,
+  "page_coverage": {
+    "search_pages": 118,
+    "content_pages": 50,
+    "search_page_limit": 118,
+    "content_page_limit": 50,
+    "queued_remaining": 415,
+    "queue_limit_reached": false
+  },
+  "documents": [],
+  "requests_attempted": 169,
+  "gewerkschaft": {
+    "name": "DGB",
+    "branches": [
+      "Branchenübergreifend"
+    ],
+    "urls": [
+      "https://www.dgb.de"
+    ],
+    "news_urls": [],
+    "url_prefixes": [],
+    "query_values": {},
+    "source_note": "",
+    "source_name": "",
+    "site_search": true
+  }
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=LJnAudBmEjxyTWqSoWgfHNsdhtr2rcztmMhEKI1kg1lhv9ebCnJXrHSzi_aOYOx4-kYGL420PtsR59uKlCmoRdGLk26Ppnd3PdfQxV6kRX3eCB-QlsqWgKS8i-xeIh6y81NSXXDkWI_7oPwDDKT5O9TwAvir1r7_b7EW2n1bgn0t1KtTjBMf1zjZ1ZDa5Qg8JesXBYaALn6r2I0Z2W_JtZxg5aIhhFZJzlS3AsZNUw9TZ99c",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\SGL-Carbon-cd155304\\bekanntmachungen\\publication-3\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\SGL-Carbon-cd155304\\bekanntmachungen\\publication-3\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\SGL-Carbon-cd155304\\bekanntmachungen\\publication-3\\publication.txt",
+    "index": 3,
+    "category": "bekanntmachungen",
+    "company": "SGL Carbon SE, Wiesbaden",
+    "title": "Hinweis auf Quartalsfinanzbericht vom 01.01.2026 bis zum 30.09.2026",
+    "documents_path": "output\\unternehmensregister\\SGL-Carbon-cd155304\\bekanntmachungen\\publication-3\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=cMzfTApz2akYMq_6FUL5icilGWrMotYwzsSriHwgTskosZ1RiZ2icW3sE_Z6Mag2eyZ5u0Ilx_Az7dbNkwOidDzZGs_vGRxVyFKpFnIUPkBB8tvsc1UYWtmnuX6MNxY_R9Sel1UpBWbZlkb1MA0UNUOTmtig_cid93MfqWX_QomLsoaE_1o0bdmr80bmkg8MAq_X3x13RJxJNZWV_2XtTYrtIZl3_2aN1xg9Vw2GTJs6cEHb",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\SGL-Carbon-cd155304\\bekanntmachungen\\publication-4\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\SGL-Carbon-cd155304\\bekanntmachungen\\publication-4\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\SGL-Carbon-cd155304\\bekanntmachungen\\publication-4\\publication.txt",
+    "index": 4,
+    "category": "bekanntmachungen",
+    "company": "SGL Carbon SE, Wiesbaden",
+    "title": "Hinweis auf Quartalsfinanzbericht vom 01.01.2026 bis zum 30.09.2026",
+    "documents_path": "output\\unternehmensregister\\SGL-Carbon-cd155304\\bekanntmachungen\\publication-4\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=yiCeixLz1SiABQi6BH1kTF2E0UKpna_SP39H43ZXRWN0NAo76gTXaEKY1pr5YXuV_2NBHgxRpqxSb4ZQmDF-cvPPAP2BP8ZHFQTtpdhYT_XTwb0xmKxf_CF3zi6HFZB2FhLd0lP3geKqw3A7zLBEEJQX80fi7aWLZny4WqFFG7CpodAFx01bC7_54h__nEe4jEWq8GEH2dYkxBqhgn3iopWWEjulj2NIFTxHdt7JNjm8bPsf",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\SGL-Carbon-cd155304\\bekanntmachungen\\publication-5\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\SGL-Carbon-cd155304\\bekanntmachungen\\publication-5\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\SGL-Carbon-cd155304\\bekanntmachungen\\publication-5\\publication.txt",
+    "index": 5,
+    "category": "bekanntmachungen",
+    "company": "SGL Carbon SE, Wiesbaden",
+    "title": "Ad-hoc-Meldung gemäß Art. 17 MAR in Verbindung mit § 4 Abs. 1 S. 1 Nr. 1a WpAV",
+    "documents_path": "output\\unternehmensregister\\SGL-Carbon-cd155304\\bekanntmachungen\\publication-5\\documents.json"
+  }
+]

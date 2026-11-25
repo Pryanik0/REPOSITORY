@@ -1,0 +1,655 @@
+Novaled GmbH — Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022
+Novaled GmbH
+
+Dresden
+
+Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022
+
+Lagebericht für 2022
+
+A. Grundlagen der Gesellschaft
+
+1. Geschäftsmodell
+
+Als Ausgründung der Technischen Universität, Dresden, und der Fraunhofer-Gesellschaft, Dresden, ist die Novaled GmbH (im folgenden Novaled) seit 2003 am Markt aktiv, hat ihren Hauptsitz in Dresden mit einer Außenstelle in Korea und gehört seit Ende 2013 zu Samsung.
+
+Novaled ist ein führender Anbieter eigenentwickelter organischer Materialien und innovativer Technologien für die Herstellung Organischer Leuchtdioden (OLEDs), Organischer Solarzellen (OSCs) und weiterer organischer Elektronik. Die Innovationsstärke und Expertise spiegelt sich in über 1670 erteilten bzw. angemeldeten Patenten und zeigt die bedeutende Position des Unternehmens im Bereich organische Elektronik. Die Novaled PIN OLED Technologie hat sich bei OLED-Herstellern etabliert und ist mittlerweile ein Quasi-Industriestandard.
+
+Die Märkte und Endanwendungen für Novaled sind: Flachdisplays, Festkörper-Beleuchtung und Dünnschicht-Photovoltaik.
+
+Novaled bietet den Kunden als Spezialchemikalienunternehmen und Experte für hocheffiziente, langlebige OLED Strukturen nicht nur Material und Technologie, sondern umfassende Problemlösungen zur Optimierung der organischen Bauteile. Novaleds Dotiertechnologie und -materialien ermöglichen es, OLEDs mit höchster Leistungseffizienz und langer Lebensdauer herzustellen.
+
+Ein weiterer Markt ist für Novaled die Organische Photovoltaik (OPV). Basierend auf den Erfahrungen mit Transport-Materialien für OLEDs hat Novaled-Materialien für den Bereich OPV entwickelt. Die Verwendung der Novaled Materialien und -Technologie ermöglicht für Organische Solarzellen hohe Zelleffizienzen sowie weitere Vorteile und trägt so dazu bei, dass diese konkurrenzfähiger werden.
+
+Darüber hinaus werden Novaleds organische Materialien und Technologien für OLEDs im Beleuchtungsmarkt eingesetzt. OLED-Beleuchtungsanwendungen erfordern hohe Leistungseffizienz, eine lange Lebensdauer bei großer Helligkeit sowie niedrige Produktionskosten. Novaled-Materialien tragen dazu bei, diese Ziele zu erreichen.
+
+2. Forschung und Entwicklung
+
+Novaled forscht an neuen organischen Molekülen und Materialien, die die Effizienz von OLEDs und anderen organisch-elektronischen Bauteilen steigern. Das Forschungsspektrum umfasst neben Dotiermaterialien und Matrixmaterialien auch weitere Materialgruppen. Die eingesetzten Verfahren zur Entwicklung der Spezialchemikalien reichen von Synthese, über Aufreinigung hin zur Charakterisierung. Des Weiteren entwickelt und optimiert Novaled Prozesse zur Validierung der Leistungsfähigkeit von Materialien und zur Integration in die Fertigung. Diese werden von führenden Industrieunternehmen erfolgreich eingesetzt.
+
+Die Forschungs- und Entwicklungskosten betragen EUR 15,0 Millionen gegenüber EUR 13,9 Millionen im Vorjahr.
+
+B. Wirtschaftsbericht
+
+1. Gesamtwirtschaftliche und branchenspezifische Rahmenbedingungen
+
+Die OLED-Technologie ist fest im Displaybereich verankert. Im TV Premiumsegment ist es der Benchmark in Punkto Qualität und Kundenbeliebtheit. Im Bereich der Mobildisplays sind neben den zuerst eingeführten Displays auf starren Glassubstraten auch OLED Displays auf flexiblen Substraten nicht mehr wegzudenken. Letztere ermöglichen die faltbaren Mobil-Telefone, die vom Markt immer mehr angenommen werden.
+
+Im Nachgang der Pandemie ist der Markt für Smartphones, Tablets, Smartwatches, Wearables und AMOLED-TVs unter Druck geraten. Die Hersteller von Displays leiden hierdurch zum einen unter Überkapazitäten und zum anderen unter einem starken Preisdruck, wodurch viele Firmen in die Verlustzone gedrückt wurden.
+
+Insbesondere der Markt für mittlere und große OLED-Displays, welcher von Fernsehern dominiert wird, ist im Jahr 2022 im Vergleich zum Vorjahr geschrumpft (von 6,2 Milliarden US Dollar in 2021 zu 5,7 Milliarden US Dollar in 2022). Für die nächsten Jahre 2023 bis 2026 wird erwartet, dass diese Umsätze aller Hersteller mit Materialien für die AMOLED Display Industrie wieder wachsen werden. Für 2027 ist ein Umsatz von 10,9 Milliarden US Dollar vorhergesagt, 2023 liegt der Jahresumsatz noch bei geschätzten 6,7 Milliarden US Dollar.
+
+Etwa 99% des Gesamtumsatzes von Novaled entfielen im Berichtszeitraum auf OLED Displayanwendungen. Obwohl die Gesamtentwicklung dieses Marktes nicht gut war, ist es Novaled gelungen trotzdem ein sehr gutes Ergebnis zu erzielen.
+
+Große OLED-Display Hersteller vertrauen auf Novaleds Materialien und Technologie, denn diese ermöglichen längere Akkulaufzeiten, längere Produktlebensdauern sowie die Möglichkeit zur Senkung von Fertigungskosten. Das Kerngeschäft Novaleds ist der Verkauf von Dotiermaterialien für die kommerzielle Fertigung von Displays. Die Display-Industrie produziert fast ausschließlich in Asien, somit sind die Kunden für das display-bezogene Angebot von Novaled durchweg auch dort angesiedelt, wie z.B. die großen Displayhersteller in Korea, China, Japan und Taiwan.
+
+Mit unserem Kunden Samsung Display konnten wir im Jahr 2022 unseren Absatz deutlich steigern (von EUR 33,7 Millionen auf EUR 55,5 Millionen). Zum einen haben hierfür erhöhte Absatzmengen unserer Dotanden beigetragen, zum anderen wurden zwei neue Transport-Materialien in den OLED Fernsehern von Samsung eingesetzt.
+
+Für 2023 erwarten wir einen geplanten Umsatz auf Vorjahresniveau.
+
+Nachdem der Umsatz unseres Kunden LG Display insbesondere im Jahr 2021 sehr stark gestiegen ist, wurde im Jahr 2022 ein leichter Umsatzrückgang verzeichnet. LGD hat im Verhältnis zum Jahr zuvor von 171 kg noch 130 kg des Dotanden Materials abgenommen. Bereits im Jahr 2021 wurde Novaled mitgeteilt, dass nicht das ganze Material im Jahr 2021 verbraucht wurde und es eine größere Überhangmenge für das folgende Jahr geben wird. Aufgrund des dennoch starken Absatzes besonders am Ende des Berichtsjahres und die zuvor gebildete Überhangmenge führen nun dazu, dass der Umsatz in 2023 mit dem Kunden stark zurückgehen wird, da der Kunde seine Lagerbestände weitestgehend abbauen möchte.
+
+Das Geschäftsfeld im Bereich der organischen Photovoltaiktechnik hat sich im Jahr 2022 leider nicht positiv entwickelt, da es seitens unseres Kunden nach wie vor Verzögerungen beim Produktionsstart gibt. Unser Kunde plant allerdings in den kommenden Jahren die Produktion weiter zu optimieren, sodass wir positiv ins Jahr 2023 und darüber hinaus blicken können.
+
+Einen weiteren Bereich am Markt bildete der Beleuchtungssektor ab. Im Jahr 2022 erfolgte seitens Novaled ein Verkauf auf stabilem Niveau, allerdings ist der Markt nach wie vor sehr klein und es wird auch zukünftig kein signifikantes Wachstum erwartet. Es ist momentan davon auszugehen, dass OLED im Bereich der Festkörperbeleuchtung fast vollständig verschwinden wird, eventuell verbleiben einzelne Anwendungsnischen, diese würden jedoch für das Geschäftsergebnis Novaleds in Zukunft nur einen marginalen Beitrag leisten.
+
+Im Hinblick auf gegenwärtige vielschichtige wirtschaftliche Unsicherheiten infolge des Russland-Ukraine Konfliktes, den damit einhergehenden Risiken auf den Energiemärkten und den hohen Inflationsraten sieht Novaled derzeit eine mäßige bis starke Auswirkung auf die Umsatzplanung. Alle Faktoren haben einen Einfluss auf die Planung und wirtschaftliche Situation unserer Kunden und damit unmittelbar auch auf die Umsatzplanung Novaleds. So ist für 2023 zum Zeitpunkt der Berichtserstellung von einem deutlichen Umsatzrückgang im Vergleich zum Vorjahr auszugehen.
+
+Dies führt auch dazu, dass die finanzielle Leistungsfähigkeit des Unternehmens im Vergleich zum Vorjahr nachlassen wird.
+
+2. Geschäftsverlauf
+
+Die Vertriebsaktivitäten waren im Jahre 2022 erneut wesentlich geprägt von der starken Nachfrage an Materialien durch die Kunden Samsung und LG in Südkorea. Wie bereits im Vorjahr hat Novaled Dotanten- und Transportmaterialien in deren Massenproduktion für Displays platziert.
+
+Auch der chinesische Markt ist und bleibt einer der wichtigsten Absatzmärkte für Novaled.
+
+Der Umsatz in diesem Jahr wurde nahezu ausschließlich im Bereich des Materialverkaufs erzielt.
+
+3. Leistungsindikatoren
+
+Die Steuerung der Novaled erfolgt im Wesentlichen über die finanziellen Kennzahlen Umsatz und Ergebnis vor Zinsen und Steuern (EBIT).
+
+Neben den finanziellen Kennzahlen existieren auch technische Leistungsindikatoren, im Wesentlichen über Meilensteinvorgaben sowohl bei Kunden- als auch Technologieprojekten.
+
+4. Lage
+
+a) Ertragslage
+
+Der Gesamtumsatz des Unternehmens steigerte sich im Berichtszeitraum gegenüber dem Vorjahr um 13,8 % auf EUR 140,4 Millionen. Dies ist der höchste Umsatzerlös den Novaled in seiner Geschichte bisher erzielt hat.
+
+Somit war das Jahr 2022 für Novaled insgesamt ein wirtschaftlich sehr gutes Jahr.
+
+Im Vergleich zum Vorjahr ist der Umsatz wieder stark gestiegen. Die damit einhergehende positive Entwicklung des EBITs im Vergleich zum Vorjahr (Steigerung um 11,3% auf EUR 97,7 Millionen, im Vorjahr EUR 87,8 Millionen) ist das beste Ergebnis der Firmengeschichte. Während im Jahr 2021 der Gewinn noch bei EUR 60,3 Millionen lag, kam es 2022 zu einer Steigerung um 10,7 % auf EUR 66,7 Millionen.
+
+Im Vergleich zum Vorjahr wurde im Berichtsjahr mehr Umsatz generiert. Dem entgegenstehend sind ebenso alle Kosten gestiegen und dennoch ist es Novaled gelungen das ertragreichste Jahr der Geschichte zu haben. Einen höheren Anstieg der Kosten gab es bei den Materialaufwendungen. Dies wurde durch höhere Materialabsätze als auch die Steigerung der Forschungs- und Entwicklungsaufwendungen in diesem Bereich getrieben.
+
+Die Gesamtkosten des Unternehmens inklusive Abschreibungen (ohne Zinsen) lagen insgesamt bei EUR 47,6 Millionen nach EUR 39,6 Millionen im Vorjahr. Die Erhöhung resultiert im Wesentlichen aus dem Anstieg der Materialaufwendungen (TEUR 15.365, im Vj. TEUR 12.961), gestiegenen Abschreibungskosten (TEUR 4.047, im Vj. TEUR 3.878) sowie leicht gestiegenen Personalkosten (TEUR 11.780, im Vj. TEUR 11.401).
+
+Im Bereich der Wechselkurse gab es aufgrund der Marktentwicklung größere Schwankungen als noch im Jahr zuvor, sodass im Geschäftsjahr 2022 in Summe höhere Aufwendungen aus Währungsumrechnung im Hinblick auf die Ertragslage der Gesellschaft zu verzeichnen waren. Den Erträgen aus der Währungsumrechnung in Höhe von EUR 2,3 Millionen (im Vorjahr EUR 2,5 Millionen) stehen Aufwendungen aus Wechselkursdifferenzen in Höhe von EUR 5,5 Millionen (im Vorjahr EUR 2,0 Millionen) gegenüber.
+
+b) Finanzlage
+
+Der Barmittelbestand betrug zum Ende der Periode EUR 58,5 Millionen gegenüber EUR 46,8 Millionen im Jahr 2021. Die bestehenden Darlehen an ein verbundenes Unternehmen wurden verlängert und die Forderungen somit um EUR 50,3 Millionen erhöht. Einschließlich dem bereits existierenden Darlehen handelt es sich um ein Volumen in Höhe von EUR 280 Millionen zum Stichtag.
+
+Um das Risiko der Wechselkursdifferenzen aufgrund des hohen Forderungsbestandes zu minimieren, wurde ein Darlehen in US-Dollar mit einem Wert (zum Bilanzstichtag) von EUR 5,6 Millionen aufgenommen. Dazu besteht eine weitere Kreditlinie Novaleds (bis zu US-Dollar 14,7 Millionen), welche zum Bilanzstichtag in Höhe von EUR 13,5 Millionen ausgeschöpft wurde. Die Ausschöpfung der Kreditlinie führte ebenso zu einem leichten Anstieg des Barmittelbestandes im Vergleich zum Vorjahr.
+
+Weitere größere Investitionen blieben aus, sodass der Barmittelbestand im Vergleich zum Vorjahr um EUR 11,6 Millionen stieg.
+
+Die Höhe des Barmittelbestandes hat eine jederzeitige Bedienung der Zahlungsverpflichtungen ermöglicht.
+
+c) Vermögenslage
+
+Die Vermögenslage des Unternehmens hat sich zum 31. Dezember 2022 im Vergleich zum Vorjahresstichtag sehr positiv verändert. Die Bilanzsumme erhöhte sich um 18,3 % auf EUR 421,2 Millionen.
+
+Aufgrund der Abschreibungen für Gebäude und technischer Anlagen verringerte sich das Anlagevermögen um EUR 0,4 Millionen.
+
+Eine Erhöhung der Vorräte um EUR 3,5 Millionen sowie die Erweiterung eines ausgereichten Darlehens an ein verbundenes Unternehmen in Höhe von EUR 50,3 Millionen und die Erhöhung der liquiden Mittel um EUR 11,6 Millionen führten im Wesentlichen zu einer Steigerung des Umlaufvermögens um EUR 65,9 Millionen.
+
+Auf der Passivseite gab es aufgrund des positiven Ergebnisses einen großen Anstieg des Eigenkapitals. Die Rückstellungen verringerten sich um EUR 0,6 Millionen. Eine existierende USD Kreditlinie wurde ausgeschöpft, welche einen Anstieg der Verbindlichkeiten gegenüber Kreditinstituten um EUR 0,9 Millionen im Vergleich zum Vorjahr zur Folge hatte. Die Verbindlichkeiten aus Lieferungen und Leistungen haben sich im Vergleich zum Vorjahr um EUR 2,5 Millionen verringert. Somit sanken die Verbindlichkeiten um EUR 0,7 Millionen im Vergleich zum Vorjahr.
+
+Die Eigenkapitalquote hat sich von 92,9 % auf 94,3 % verändert. Die Erhöhung ist im Wesentlichen bedingt durch den Abbau der Verbindlichkeiten sowie der Erhöhung des Eigenkapitals durch den Gewinn des Jahres 2022.
+
+C. Prognose-, Chancen- und Risikobericht
+
+1. Prognosebericht
+
+Basierend auf den vorliegenden Informationen zur geplanten Kapazitätsauslastung unserer Kunden und maßgeblich getrieben durch die Nachfrage nach den von Novaled entwickelten Materialien erwarten wir für das Geschäftsjahr 2023 einen starken Umsatzeinbruch im Vergleich zum Vorjahr. Der Umsatz wird dabei auf das Niveau des Jahres 2019 zurückfallen.
+
+Aufgrund der hohen Lagerbestände auf Seiten unserer Kunden, insbesondere bei LG Display als auch der wirtschaftlichen Gesamtsituation im Jahr 2022 erwarten wir, dass LGD in 2023 seine vorhandenen Fertigungskapazitäten zu einem gewissen Teil ruhen lassen wird.
+
+Bei unserem Kunden Samsung Display erwarten wir im Vergleich zum Vorjahr in 2023 einen leicht erhöhten Bedarf an unseren Materialien als noch im Vorjahr, da im zweiten Halbjahr 2023 eine Produktionssteigerung im Bereich der großen Displays für Fernseher angekündigt worden ist.
+
+Auch der chinesische Markt kämpft aktuell mit Überkapazitäten, wodurch eine Preiserosion der Display-Panels zu verzeichnen ist. Dies wiederum führte bereits im Jahr 2022 auch bei vielen chinesischen Herstellern zu Verlusten.
+
+Darüber hinaus erwarten wir insbesondere im chinesischen Markt zunehmenden Druck durch Konkurrenzanbieter. Aufgrund aktueller wirtschaftlicher Verwerfungen und Handelskonflikte im Halbleiterbereich besteht seitens der chinesischen Regierung auch zunehmend der Wunsch, heimische Display-Produktionsfirmen möglichst unabhängig von Zulieferern aus westlichen Ländern zu machen. Zudem kommt hinzu, dass verstärkt Kopien unserer P-Dotanten in China angeboten werden und dadurch unser Patentschutz verletzt wird. Zwar erwarten wir hierdurch für 2023 keine starken Effekte auf unsere Umsätze, allerdings dürfte der Markt in den Folgejahren deutlich umkämpfter werden.
+
+In Hinblick auf die wirtschaftliche Gesamtlage bleibt abzuwarten, wie sich die Konjunktur im laufenden Jahr entwickelt. Aktuell wird von einer wirtschaftlichen Erholung in der zweiten Jahreshälfte ausgegangen. Gerade im Hinblick auf den Displaymarkt soll es nach dem Rückgang in 2022 wieder ein Wachstum in den nächsten Jahren geben.
+
+Bei Novaled wird auch in 2023 der überwiegende Teil des Gesamtumsatzes erneut der Materialumsatz ausmachen.
+
+Im Hinblick auf die Entwicklung unserer Gesamtkosten ist von einer Steigerung für das Jahr 2023 auszugehen. Hintergrund hierfür sind gestiegene Fixkosten des Unternehmens aufgrund von höheren Wartungsaufwendungen für das Gebäude durch externe Dienstleister, einen Anstieg der Abschreibungen aufgrund einer neuen großen technischen Anlage, sowie höhere Logistikaufwendungen für die Materialherstellung. Ebenso gibt es einen Anstieg der Personalkosten.
+
+Aufgrund der beschriebenen Ursachen erwarten wir für das Jahr 2023 erstmals einen starken Rückgang des Jahresergebnisses aus dem operativen Geschäft (EBIT) im Vergleich zum Vorjahr. Das Gesamtergebnis vor Zinsen und Steuern (EBIT) wird auf einem Niveau wie im Jahr 2020 erwartet.
+
+Die Finanzlage der Gesellschaft wird im Jahre 2023 stabil bleiben.
+
+2. Chancen- und Risikobericht
+
+Unsere wirtschaftlichen Chancen ergeben sich vor allem aus dem erwarteten Wachstum des Displaymarktes, in dem wir unsere etablierten Geschäftsbeziehungen zu den maßgeblichen Produzenten von OLED-Bildschirmen nutzen wollen.
+
+Wir sind gegenwärtig das einzige Unternehmen weltweit, das organische Materialien für die elektrische Dotierung von Transportschichten in OLEDs für die Massenproduktion von OLED-Bildschirmen verkauft sowie die entsprechende Technologie lizensiert. Unsere Geschäftsbeziehung zu den führenden Herstellern Samsung, LG und mittlerweile auch den chinesischen Unternehmen der Branche bringt Novaled in eine gute Position, um von der Ausweitung der Produktionen zu profitieren.
+
+Im Bereich der organischen Photovoltaik-Technologie haben wir einen Kunden, der in den kommenden Jahren in die Massenproduktion einsteigen möchte.
+
+Keine weiteren Wachstumschancen erwarten wir durch die Nutzung der OLED-Technologie im Beleuchtungssektor. Hier ist zum aktuellen Zeitpunkt der Gesamtumsatz in diesem Marktsegment sehr gering.
+
+Die Erkennung und Bewertung von Risiken im Rahmen eines im Unternehmen zentral implementierten Risikomanagementsystems erfolgt sowohl auf Ebene der Geschäftsführung als auch dezentral auf der Ebene der Bereichsleiter. Neu erkannte oder veränderte Risiken werden zeitnah an die Geschäftsführung gemeldet. Die Geschäftsführung informiert sich je nach Bedarf über die Risikosituation im Unternehmen. Hierbei stellen kurze Informationswege, eine offene Kommunikationskultur und flache Hierarchien sicher, dass wichtige Risikoinformationen umgehend an die Geschäftsführung gelangen. Neben der Beobachtung allgemeiner geschäftlicher Risiken findet eine Analyse möglicher Abweichungen von der Unternehmensplanung durch das Controlling statt. Hierbei werden monatlich die Planzahlen mit den tatsächlichen Ergebnissen verglichen und Abweichungen erläutert.
+
+Hauptrisiken, absteigend nach ihrer Bedeutung für das Unternehmen, sieht das Novaled Management in a) aufkommenden Fälschungen unseres Hauptproduktes durch etwaige chinesische Firmen b) dem neu etablierten Prozess des Recyclings von OLED-Materialproduktionsrückständen durch die Kunden und c) der verzögerten Platzierung von neuen Novaled-Materialien aufgrund des erwarteten Wettbewerbes.
+
+Diese Punkte stellen sich im Einzelnen wie folgt dar:
+
+zu a): Durch vermehrte Indikationen wurde unsererseits festgestellt, dass in geringem Umfang illegal gefertigte Kopien von Novaled Materialien am chinesischen Markt erhältlich sind und diese auch in Displays verbaut werden.
+
+Auch wenn nach Möglichkeit Gegenmaßnahmen dagegen ergriffen werden, steigt damit das Risiko der Umsatzminderung, insbesondere in einem stark wachsenden chinesischen Markt.
+
+zu b): Aufgrund der Wiederverwendung von recyceltem OLED-Material für die Display-Herstellung bei unseren Großkunden ergibt sich das Risiko sinkender Umsätze für den Verkauf von OLED-Material. Eine Kompensation des Risikos wird hierbei angestrebt durch die Markteinführung neuer zusätzlicher Produkte sowie die Erschließung neuer Kunden und Märkte.
+
+zu c): Die OLED-Technologie hat sich im Displaybereich weitgehend durchgesetzt und die am Markt platzierten Novaled-Materialien haben sich dabei als Industriestandard erwiesen. Aufgrund verzögerter Platzierungen neuer Novaled-Materialien beim Kunden, besteht sowohl ein Wettbewerbs- als auch ein Verdrängungsrisiko durch andere/ neue Technologien im Displaybereich.
+
+Zusätzlich zu den Risiken die durch das Unternehmen festgestellt werden, gibt es seit Februar 2022 durch den Angriffskrieg von Russland gegen die Ukraine ein weiteres Risiko, welches einen Einfluss auf die Unternehmensentwicklung haben könnte. Durch die internationale Reaktion auf diesen Krieg in Form von Embargos haben sich Lieferwege verschoben oder Lieferzeiten verlängert, die in der Prozesskette bereits berücksichtigt werden müssen.
+
+Der potentiell möglichen Energieknappheit wurde und wird bei Novaled mit einem entsprechenden Notfall-Maßnahmenplan begegnet, der den wesentlichen Geschäftsbetrieb zur Einhaltung der Lieferfähigkeit aufrechterhalten kann. Darüber hinaus wurden nachhaltige Energieeinsparmaßnahmen vorgenommen und als Investition in die Zukunft mit der Planung des Einsatzes von erneuerbaren Energien begonnen.
+
+Aufgrund des Verdachtes der Schädigung der Gesundheit und der Umwelt ist es im Jahr 2018 zu einer Aktualisierung der Chemikalienverordnung REACH gekommen. In dieser aktualisierten Version der Verordnung steht im Fokus die sogenannten Per- und polyfluorierten Alkylverbindungen (kurz PFAS) die in vielen Produkten alltäglich verwendet werden zu verbieten. Der bisher eher abstrakte PFAS-Beschränkungsprozess wurde mit dem 2022 veröffentlichten Beschränkungsvorschlag ernster, was sich auch auf die zukünftige Entwicklung von neuen Produkten auswirken wird. Das derzeitig für den Hauptumsatz relevante Hauptprodukt ist von dem Beschränkungsprozess allerdings nicht betroffen.
+
+3. Zusammenfassende Darstellung
+
+Unsere wirtschaftlichen Chancen ergeben sich vor allem aus dem erwarteten Wachstum des Displaymarktes im Bereich OLED-Bildschirme. Risiken bestehen durch die Fälschung unserer Materialien und das Recycling dieser. Aus Sicht der Geschäftsführung liegen keine bestandsgefährdenden Risiken vor. Dennoch stellen der Russland-Ukraine Konflikt, die Risiken am Energiemarkt und weltweit hohe Inflationsraten eine globale Herausforderung dar, deren Auswirkungen zum derzeitigen Stand noch nicht vollumfänglich absehbar sind.
+
+Dresden, den 12. Juli 2023
+
+Gerd Günther, Geschäftsführer der Novaled GmbH, Dresden
+
+Munho Jang, Geschäftsführer der Novaled GmbH, Dresden
+
+Sangshin Lee, Geschäftsführer der Novaled GmbH, Dresden
+
+Bilanz zum 31. Dezember 2022
+
+Aktiva
+
+scroll
+
+	31.12.2022	31.12.2022	31.12.2021	31.12.2021
+	EUR	EUR	EUR	EUR
+A. Anlagevermögen				
+I. Immaterielle Vermögensgegenstände				
+1. Entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten	2.643.243,00		2.704.239,00	
+2. Geleistete Anzahlungen	279.255,40		357.325,55	
+		2.922.498,40		3.061.564,55
+II. Sachanlagen				
+1. Grundstücke, Bauten und Bauten auf fremden Grundstücken	17.729.055,06		18.240.824,06	
+2. Technische Anlagen und Maschinen	9.473.217,00		11.010.780,00	
+3. Andere Anlagen, Betriebs- und Geschäftsausstattung	3.443.151,00		3.522.620,00	
+4. Geleistete Anzahlungen und Anlagen im Bau	2.091.223,12		247.446,22	
+		32.736.646,18		33.021.670,28
+		35.659.144,58		36.083.234,83
+B. Umlaufvermögen				
+I. Vorräte				
+1. Roh-, Hilfs- und Betriebsstoffe	3.738.551,70		2.182.876,11	
+2. Waren	5.685.484,95		3.741.209,29	
+3. Geleistete Anzahlungen auf Vorräte	0,00		2.438,41	
+		9.424.036,65		5.926.523,81
+II. Forderungen und sonstige Vermögensgegenstände				
+1. Forderungen aus Lieferungen und Leistungen	27.314.209,01		28.772.540,23	
+2. Forderungen gegen Gesellschafter	6.491.185,54		6.657.076,65	
+3. Forderungen gegen verbundene Unternehmen	280.606.473,34		230.257.489,04	
+davon mit einer Restlaufzeit von mehr als einem Jahr EUR 240.000.000 (Vj. TEUR 230.000)				
+4. Sonstige Vermögensgegenstände	2.783.125,66		737.258,20	
+		317.194.993,55		266.424.364,12
+III. Kassenbestand, Guthaben bei Kreditinstituten		58.463.504,44		46.847.696,15
+C. Rechnungsabgrenzungsposten		494.880,33		669.219,79
+		421.236.559,55		355.951.038,70
+Passiva				
+	31.12.2022	31.12.2022	31.12.2021	31.12.2021
+	EUR	EUR	EUR	EUR
+A. Eigenkapital				
+I. Gezeichnetes Kapital	6.181.999,00		6.181.999,00	
+II. Kapitalrücklage	21.231.511,71		21.231.511,71	
+III. Bilanzgewinn	369.970.709,81		303.246.079,09	
+		397.384.220,52		330.659.589,80
+B. Rückstellungen				
+1. Steuerrückstellungen	35.081,87		305.241,40	
+2. Sonstige Rückstellungen	1.766.309,70		2.127.952,91	
+		1.801.391,57		2.433.194,31
+C. Verbindlichkeiten				
+1. Verbindlichkeiten ggü. Kreditinstituten	19.170.218,09		18.285.900,27	
+2. Erhaltene Anzahlungen auf Bestellungen	678.683,32		0,00	
+3. Verbindlichkeiten aus Lieferungen und Leistungen	1.416.546,05		3.930.967,77	
+4. Verbindlichkeiten gegenüber Gesellschafter	101.900,13		67.014,29	
+5. Verbindlichkeiten gegenüber verbundenen Unternehmen	102.272,98		34.697,07	
+6. Sonstige Verbindlichkeiten	581.326,89		427.020,57	
+davon aus Steuern EUR 403.541,95 (Vj. TEUR 367)				
+davon im Rahmen der sozialen Sicherheit EUR 14.595,53 (Vj. TEUR 14)				
+		22.050.947,46		22.745.599,97
+D. Rechnungsabgrenzungsposten		0,00		71.837,85
+E. Passive latente Steuern		0,00		40.816,77
+		421.236.559,55		355.951.038,70
+
+Gewinn- und Verlustrechnung für 2022
+
+scroll
+
+	2022	2022	2021	2021
+	EUR	EUR	EUR	EUR
+1. Umsatzerlöse	140.426.735,43		123.412.373,14	
+2. Andere aktivierte Eigenleistungen	85.142,68		86.375,34	
+3. Sonstige betriebliche Erträge	2.627.266,18		3.018.119,99	
+davon Erträge aus der Währungsumrechnung EUR 2.314.110,30 (Vj. TEUR 2.531)				
+		143.139.144,29		126.516.868,47
+4. Materialaufwand				
+a) Aufwendungen für Roh-, Hilfs- und Betriebsstoffe und für bezogene Waren	14.048.739,06		11.902.050,96	
+b) Aufwendungen für bezogene Leistungen	1.316.101,11	15.364.840,17	1.059.112,06	12.961.163,02
+5. Personalaufwand				
+a) Löhne und Gehälter	9.997.470,46		9.612.842,09	
+b) Soziale Abgaben und Aufwendungen für Altersversorgung	1.782.935,90	11.780.406,36	1.788.157,39	11.400.999,48
+davon für Altersversorgung EUR 73.103,78 (Vj. TEUR 72)				
+6. Abschreibungen				
+a) auf immaterielle Vermögensgegenstände des Anlagevermögens und Sachanlagen	3.983.559,07		3.878.107,96	
+b) auf Vermögensgegenstände des Umlaufvermögens, soweit diese die in der Kapitalgesellschaft üblichen Abschreibungen überschreiten	63.804,09	4.047.363,16	0,00	3.878.107,96
+7. Sonstige betriebliche Aufwendungen	16.391.754,27		11.397.543,43	
+davon Aufwendungen aus der Währungsumrechnung EUR 5.474.046,20 (Vj. TEUR 1.964)				
+		47.584.363,96		39.637.813,89
+8. Sonstige Zinsen und ähnliche Erträge	2.417.345,68		1.242.868,68	
+9. Zinsen und ähnliche Aufwendungen	235.949,84		329.685,13	
+		2.181.395,84		913.183,55
+		97.736.176,17		87.792.238,13
+10. Steuern vom Einkommen und vom Ertrag		30.991.779,05		27.504.054,09
+11. Ergebnis nach Steuern		66.744.397,12		60.288.184,04
+12. Sonstige Steuern		19.766,40		23.095,51
+13. Jahresüberschuss		66.724.630,72		60.265.088,53
+14. Gewinnvortrag aus dem Vorjahr		303.246.079,09		242.980.990,56
+15. Bilanzgewinn		369.970.709,81		303.246.079,09
+
+Anhang für 2022
+
+Allgemeine Hinweise
+
+Der vorliegende Jahresabschluss wurde gemäß §§ 242 ff. und 264 ff. HGB sowie nach den einschlägigen Vorschriften des GmbH-Gesetzes aufgestellt. Es gelten die Vorschriften für große Kapitalgesellschaften.
+
+Für die Gewinn- und Verlustrechnung wurde das Gesamtkostenverfahren gewählt.
+
+Der Jahresabschluss ist in EUR aufgestellt.
+
+Bilanzierungs- und Bewertungsmethoden
+
+Erworbene immaterielle Vermögensgegenstände sind zu Anschaffungskosten bilanziert und werden, sofern sie der Abnutzung unterliegen, entsprechend ihrer Nutzungsdauer um planmäßige lineare Abschreibungen vermindert. Die von der Gesellschaft erworbenen Patente werden über eine Laufzeit von 15 Jahren und die Geschmacksmuster über eine Laufzeit von 10 Jahren linear abgeschrieben.
+
+Das Sachanlagevermögen wurde zu Anschaffungs- bzw. Herstellungskosten angesetzt und soweit abnutzbar, um planmäßige Abschreibungen vermindert. Die Vornahme der Abschreibungen erfolgt linear unter Zugrundelegung der betriebsgewöhnlichen Nutzungsdauer. Die Abschreibung materieller Wirtschaftsgüter ist für Gebäude 30-40 Jahre, Außenanlagen 6-22 Jahre, technische Anlagen und Maschinen 5-10 Jahre, Betriebsvorrichtungen 5-15 Jahre sowie für Betriebs- und Geschäftsausstattung 3-12 Jahre.
+
+Wirtschaftsgüter bis zu Netto-Einzelanschaffungskosten von EUR 800,00 sind im Jahr des Zugangs voll abgeschrieben bzw. als Aufwand erfasst worden; ihr sofortiger Abgang wurde unterstellt.
+
+Die Roh-, Hilfs- und Betriebsstoffe wurden zu Anschaffungskosten unter Beachtung des Niederstwertprinzips bewertet.
+
+Waren betreffen ausschließlich angeschaffte Erzeugnisse. Sie sind zu Anschaffungskosten oder niedrigeren Marktpreisen bilanziert.
+
+Die Forderungen und sonstigen Vermögensgegenstände sind zum Nennwert angesetzt; das allgemeine Kreditrisiko wurde durch pauschale Abschläge berücksichtigt.
+
+Flüssige Mittel sind zum Nennwert bewertet.
+
+Unter den aktiven Rechnungsabgrenzungsposten sind Ausgaben vor dem Abschluss-Stichtag ausgewiesen, soweit sie Aufwendungen für einen bestimmten Zeitraum danach darstellen.
+
+Das gezeichnete Kapital ist zum Nennwert bewertet.
+
+Die Steuerrückstellungen und sonstigen Rückstellungen wurden nach vernünftiger kaufmännischer Beurteilung mit dem notwendigen Erfüllungsbetrag (d.h. einschließlich zukünftiger Kosten- und Preissteigerungen) angesetzt. Sonstige Rückstellungen mit einer Restlaufzeit von mehr als einem Jahr, sofern vorhanden, wurden abgezinst. Die Rückstellungen berücksichtigen alle erkennbaren Risiken und ungewissen Verbindlichkeiten.
+
+Verbindlichkeiten sind zum Erfüllungsbetrag angesetzt.
+
+Unter den passiven Rechnungsabgrenzungsposten sind Einnahmen vor dem Abschluss-Stichtag ausgewiesen, soweit sie Erträge für einen bestimmten Zeitraum danach darstellen.
+
+Für die Ermittlung latenter Steuern aufgrund von temporären oder quasi-permanenten Differenzen zwischen den handelsrechtlichen Wertansätzen von Vermögensgegenständen und ihren steuerlichen Wertansätzen oder aufgrund steuerlicher Verlustvorträge werden die Beträge der sich ergebenden Steuerbe- und -entlastung mit den unternehmensindividuellen Steuersätzen im Zeitpunkt des Abbaus der Differenzen bewertet und nicht abgezinst. Für die Ermittlung wurde ein Steuersatz von 31,58 % verwendet. Aktive latente Steuern resultieren im Wesentlichen aus temporären Differenzen in den Bilanzposten Forderungen aus Lieferungen und Leistungen und Rückstellungen. Diese wurden unter Verzicht der Ausnutzung des Wahlrechts des § 274 Abs. 1 Satz 2 HGB nicht bilanziert.
+
+Auf fremde Währung lautende Vermögensgegenstände und Verbindlichkeiten wurden grundsätzlich mit dem Devisenkassamittelkurs zum Abschlussstichtag umgerechnet. Bei einer Restlaufzeit von mehr als einem Jahr wurde dabei das Realisationsprinzip (§ 252 Abs. 1 Nr. 4 Halbsatz 2 HGB) und das Anschaffungskostenprinzip (§ 253 Abs. 1 Satz 1 HGB) beachtet.
+
+Erläuterungen zur Bilanz
+
+Bruttoanlagespiegel
+
+Die Entwicklung der einzelnen Posten des Anlagevermögens ist unter Angabe der Abschreibungen des Geschäftsjahres im Anlagenspiegel dargestellt.
+
+Forderungen und sonstige Vermögensgegenstände
+
+Die Forderungen gegen Gesellschafter i. H. v. TEUR 6.491 (Vorjahr TEUR 6.657) resultieren aus Lieferungen und Leistungen und sind zugleich Forderungen gegen verbundene Unternehmen.
+
+Forderungen gegen verbundene Unternehmen i. H. v. TEUR 280.606 (Vorjahr TEUR 230.527) betreffen drei ausgereichte Darlehen an verbundene Unternehmen, zwei davon mit einer Restlaufzeit von mehr als einem Jahr in Höhe von TEUR 240.000 (Vorjahr TEUR 230.000) und ein Darlehen mit einer Restlaufzeit von unter einem Jahr in Höhe von TEUR 40.000 (Vorjahr TEUR 0). Diese Forderungen sind mit einer Bürgschaft des Hauptanteileigners besichert.
+
+In den sonstigen Vermögensgegenständen sind Mietkautionen in Höhe von TEUR 15 (Vorjahr TEUR 15) enthalten.
+
+Alle übrigen Forderungen und sonstigen Vermögensgegenstände weisen eine Restlaufzeit wie im Vorjahr bis zu einem Jahr auf.
+
+Eigenkapital
+
+Der Bilanzgewinn zum 31. Dezember 2022 entwickelt sich wie folgt:
+
+scroll
+
+Bilanzgewinn	EUR
+Gewinnvortrag 01.01.2022	303.246.079,09
+Jahresüberschuss	66.724.630,72
+Bilanzgewinn 31.12.2022	369.970.709,81
+
+Kapitalrücklage
+
+Die Kapitalrücklage hat sich zum Vorjahr nicht verändert.
+
+Sonstige Rückstellungen
+
+Die sonstigen Rückstellungen bestehen im Wesentlichen aus Rückstellungen für ungewisse Verbindlichkeiten und ausstehende Rechnungen für Lieferungen und Leistungen von TEUR 754 (Vorjahr TEUR 1.028) sowie personalbezogenen Rückstellungen in Höhe von TEUR 463 (Vorjahr TEUR 401). Des Weiteren beinhalten die sonstigen Rückstellungen ebenso Rückstellungen für Kosten der Abschlusserstellung und -prüfung über TEUR 191 (Vorjahr TEUR 200) sowie Rückstellungen für Erfindervergütungen von TEUR 212 (Vorjahr TEUR 152).
+
+Verbindlichkeiten
+
+Die Restlaufzeiten der Verbindlichkeiten sind im Verbindlichkeitenspiegel im Einzelnen dargestellt.
+
+Verbindlichkeitenspiegel in EUR
+
+scroll
+
+	31.12.2021	31.12.2021	31.12.2021	31.12.2021
+	Restlaufzeit	Restlaufzeit	Restlaufzeit	gesamt
+Art der Verbindlichkeit	Bis 1 Jahr	>1 bis 5 Jahre	über 5 Jahre	
+1. Verbindlichkeiten gegenüber Kreditinstituten	18.285.900,27	0,00	0,00	18.285.900,27
+2. Verbindlichkeiten aus Lieferungen und Leistungen	3.930.967,77	0,00	0,00	3.930.967,77
+3. Verbindlichkeiten gegenüber Gesellschafter	67.014,29	0,00	0,00	67.014,29
+4. Verbindlichkeiten gegenüber verbundenen Unternehmen	34.697,07	0,00	0,00	34.697,07
+5. sonstige Verbindlichkeiten	427.020,57	0,00	0,00	427.020,57
+Gesamt	22.745.599,97	0,00	0,00	22.745.599,97
+
+scroll
+
+	31.12.2022	31.12.2022	31.12.2022	31.12.2022
+	Restlaufzeit	Restlaufzeit	Restlaufzeit	gesamt
+Art der Verbindlichkeit	Bis 1 Jahr	>1 bis 5 Jahre	über 5 Jahre	
+1. Verbindlichkeiten gegenüber Kreditinstituten	19.170.218,09	0,00	0,00	19.170.218,09
+2. erhaltende Anzahlungen auf Bestellungen	678.683,32	0,00	0,00	678.683,32
+3. Verbindlichkeiten aus Lieferungen und Leistungen	1.416.546,05	0,00	0,00	1.416.546,05
+4. Verbindlichkeiten gegenüber Gesellschafter	101.900,13	0,00	0,00	101.900,13
+5. Verbindlichkeiten gegenüber verbundenen Unternehmen	102.272,98	0,00	0,00	102.272,98
+6. sonstige Verbindlichkeiten	581.326,89	0,00	0,00	581.326,89
+Gesamt	22.050.947,46	0,00	0,00	22.050.947,46
+
+Die nachfolgende Darstellung zeigt die Sicherungsrechte der in der Bilanz aufgeführten Verbindlichkeiten:
+
+scroll
+
+Art der Verbindlichkeit	Betrag (EUR)	Sicherung
+aus Lieferungen und Leistungen	1.416.546,05	Eigentumsvorbehalt
+gegenüber Kreditinstituten	19.170.218,09	Globalabtretung der Forderungen
+
+Verbindlichkeiten gegenüber Gesellschafter i. H. v. TEUR 102 (Vorjahr TEUR 67) betreffen sonstige Verbindlichkeiten.
+
+Verbindlichkeiten gegenüber verbundenen Unternehmen i. H. v. TEUR 102 (Vorjahr TEUR 35) beinhalten ausschließlich weitere sonstige Verbindlichkeiten.
+
+Sonstige finanzielle Verpflichtungen
+
+Zum Bilanzstichtag bestehen Bestellobligos für Investitionen i. H. v. annähernd TEUR 5.326 für das nächste Jahr.
+
+Darüber hinaus bestehen Leasingverpflichtungen in Höhe von TEUR 68 für 2023 bis 2025, davon sind TEUR 48 innerhalb eines Jahres fällig.
+
+Erläuterungen zur Gewinn- und Verlustrechnung
+
+Umsatzerlöse
+
+Die Umsatzerlöse werden gemäß § 285 Nr. 4 HGB wie folgt aufgegliedert:
+
+scroll
+
+Tätigkeitsbereich	Umsatz in TEUR
+Verkauf von Materialien an Kunden	140.355
+Lizenzumsatz	72
+Umsatzerlöse in TEUR	140.427
+
+Die Umsatzerlöse, welche im Wesentlichen aus dem Verkauf von Materialien an Kunden gemäß der folgenden geografischen Verteilung resultieren, entfallen auf folgende Länder:
+
+scroll
+
+Land	Umsatz in TEUR
+China	34.286
+Frankreich	164
+Deutschland	6.052
+Japan	804
+Südkorea	98.891
+Taiwan	99
+USA	59
+Gesamtergebnis	140.355
+
+Sonstige betriebliche Erträge
+
+In den sonstigen betrieblichen Erträgen sind periodenfremde Erträge in Höhe von TEUR 182 (Vorjahr TEUR 348) enthalten. Weitere sonstige Erträge resultieren aus Zuschüssen für Investitionen in Höhe von TEUR 4 (Vorjahr TEUR 8), Versicherungsentschädigungen TEUR 5 (Vorjahr TEUR 19) sowie aus Erträgen aus Währungsumrechnung in Höhe von TEUR 2.314 (Vorjahr TEUR 2.531).
+
+Sonstige betriebliche Aufwendungen
+
+In den sonstigen betrieblichen Aufwendungen sind periodenfremde Aufwendungen in Höhe von TEUR 241 (Vorjahr TEUR 234) enthalten. Darüber hinaus sind Aufwendungen aus Währungsumrechnung in Höhe von TEUR 5.474 (Vorjahr TEUR 1.964) ausgewiesen.
+
+Steuern vom Einkommen und vom Ertrag
+
+Die Steuern vom Einkommen und vom Ertrag betragen TEUR 30.992 (Vorjahr TEUR 27.504). Hierin enthalten sind Erträge aus der Auflösung latenter Steuern in Höhe von TEUR 41.
+
+Sonstige Angaben
+
+Angaben zum Sitz des Unternehmens
+
+Die Novaled GmbH hat ihren Sitz auf der Elisabeth-Boer-Strasse 9, 01099 Dresden. Die Gesellschaft wird beim Amtsgericht Dresden unter HRB 32931 geführt.
+
+Aufsichtsrat
+
+Der Aufsichtsrat setzt sich wie folgt zusammen:
+
+―
+
+Frau BongOk Kim, Vorsitzende, Senior Vice President Samsung SDI Co. Ltd., Suwon, Republik Korea
+
+―
+
+Frau Ji-Youn Heo, einfaches Mitglied, Senior Professional Samsung Electronics Netherlands, Schiphol, Niederlande (bis 30.11.2022)
+
+―
+
+Herr Jeewook Kim, einfaches Mitglied, Managing Director Samsung Electronics Netherlands, Schiphol, Niederlande (ab 30.11.2022)
+
+―
+
+Herr Seungman Kim, einfaches Mitglied, Vice President, Samsung SDI Co. Ltd., Yongin-si, Republik Korea (bis 06.01.2022)
+
+―
+
+Herr Dong Sub Lee, einfaches Mitglied, Vice President, Samsung SDI Co. Ltd., Yongin-si, Republik Korea (vom 06.01.2022 bis 03.01.2023)
+
+―
+
+Herr Chulhwan Moon, einfaches Mitglied, Senior Professional Samsung SDI Co. Ltd., Yongin-si, Republik Korea (ab 03.01.2023)
+
+―
+
+Herr Chi-Jin Kim, einfaches Mitglied, Vice President, Samsung SDI Co. Ltd., Yongin-si, Republik Korea (vom 06.05.2022 bis 03.01.2023)
+
+―
+
+Herr Kyongho Yoon, einfaches Mitglied, Vice President, Samsung SDI Co. Ltd., Yongin-si, Republik Korea (ab 03.01.2023)
+
+Im Geschäftsjahr 2022 hatten die Mitglieder des Aufsichtsrats keinen Anspruch auf Bezüge und haben keine erhalten.
+
+Geschäftsführung
+
+Die Geschäftsführung setzt sich wie folgt zusammen:
+
+―
+
+Herr Gerd Günther, Vorsitzender Geschäftsführer Novaled GmbH
+
+―
+
+Herr Munho Jang, Geschäftsführer Finanzen Novaled GmbH
+
+―
+
+Herr Sangshin Lee, Geschäftsführer Technik Novaled GmbH
+
+Gesamtbezüge der Geschäftsführung
+
+Die Bezüge der Geschäftsführung für das Geschäftsjahr 2022 betrugen TEUR 1.198.
+
+Mitarbeiter
+
+Die durchschnittliche Zahl der im Geschäftsjahr 2022 bei der Gesellschaft beschäftigten Arbeitnehmer (Angestellte) beträgt 138 (Vorjahr: 144). Davon waren in der Forschung und Entwicklung 88 (91) Mitarbeiter und in der Administration sowie Distribution 50 (53) Mitarbeiter beschäftigt.
+
+Abschluss und Prüfungskosten
+
+Das für das Geschäftsjahr 2022 berechnete Gesamthonorar des Abschlussprüfers betrifft ausschließlich Abschlussprüfungsleistungen und beträgt TEUR 44.
+
+Gewinnverwendungsvorschlag
+
+Die Geschäftsführung wird der Gesellschafterversammlung vorschlagen, den zum 31. Dezember 2022 ausgewiesenen Jahresüberschuss in Höhe von EUR 66.724.630,72 auf neue Rechnung vorzutragen.
+
+Konzernzugehörigkeit
+
+50,10 % des Stammkapitals wurden von Samsung SDI Co. Ltd., Giheung, Republik Korea, gehalten. Novaled wird in deren Konzernabschluss (kleinster Kreis) einbezogen. Der Konzernabschluss der Samsung SDI Co., Ltd. wird in den Konzernabschluss der Samsung Corporation, Seoul, Republik Korea, als oberste Konzernspitze (größter Kreis) einbezogen. Damit ist die Gesellschaft verbundenes Unternehmen zur Samsung Corporation und deren unmittelbaren und mittelbaren Tochterunternehmen. Die Konzernabschlüsse sind jeweils am Sitz der Gesellschaften erhältlich.
+
+Dresden, den 12. Juli 2023
+
+Gerd Günther, Geschäftsführer der Novaled GmbH, Dresden
+
+Munho Jang, Geschäftsführer der Novaled GmbH, Dresden
+
+Sangshin Lee, Geschäftsführer der Novaled GmbH, Dresden
+
+Entwicklung des Anlagevermögens 2022
+
+scroll
+
+	Anschaffungs- und Herstellungskosten	Anschaffungs- und Herstellungskosten	Anschaffungs- und Herstellungskosten	Anschaffungs- und Herstellungskosten	Anschaffungs- und Herstellungskosten
+	01.01.2022 EUR	Zugänge EUR	Abgänge EUR	Umbuchungen EUR	31.12.2022 EUR
+I. Immaterielle Vermögensgegenstände					
+1. Entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten	6.805.682,22	120.973,91	-184.185,28	350.498,30	7.092.969,15
+2. Geleistete Anzahlungen	357.325,55	272.428,15	0,00	-350.498,30	279.255,40
+	7.163.007,77	393.402,06	-184.185,28	0,00	7.372.224,55
+II. Sachanlagen					
+1. Grundstücke, Bauten und Bauten auf fremden Grundstücken	19.827.679,48	29.335,04	0,00	15.011,86	19.872.026,38
+2. Technische Anlagen und Maschinen	22.930.828,15	125.103,81	-2.570.353,76	594.688,15	21.080.266,35
+3. Andere Anlagen, Betriebs- und Geschäftsausstattung	8.272.910,44	271.902,03	-402.837,31	555.673,92	8.697.649,08
+4. Geleistete Anzahlungen und Anlagen im Bau	247.446,22	3.009.150,83	0,00	-1.165.373,93	2.091.223,12
+	51.278.864,29	3.435.491,71	-2.973.191,07	0,00	51.741.164,93
+	58.441.872,06	3.828.893,77	-3.157.376,35	0,00	59.113.389,48
+
+scroll
+
+	Kumulierte Abschreibungen	Kumulierte Abschreibungen	Kumulierte Abschreibungen	Kumulierte Abschreibungen
+	01.01.2022 EUR	Zugänge EUR	Abgänge EUR	31.12.2022 EUR
+I. Immaterielle Vermögensgegenstände				
+1. Entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten	4.101.443,22	458.447,21	-110.164,28	4.449.726,15
+2. Geleistete Anzahlungen	0,00	0,00	0,00	0,00
+	4.101.443,22	458.447,21	-110.164,28	4.449.726,15
+II. Sachanlagen				
+1. Grundstücke, Bauten und Bauten auf fremden Grundstücken	1.586.855,42	556115,9	0,00	2.142.971,32
+2. Technische Anlagen und Maschinen	11.920.048,15	2.164.021,01	-2.477.019,81	11.607.049,35
+3. Andere Anlagen, Betriebs- und Geschäftsausstattung	4.750.290,44	804.974,95	-300.767,31	5.254.498,08
+4. Geleistete Anzahlungen und Anlagen im Bau	0,00	0,00	0,00	0,00
+	18.257.194,01	3.525.111,86	-2.777.787,12	19.004.518,75
+	22.358.637,23	3.983.559,07	-2.887.951,40	23.454.244,90
+
+scroll
+
+	Buchwerte	Buchwerte
+	31.12.2022 EUR	31.12.2021 EUR
+I. Immaterielle Vermögensgegenstände		
+1. Entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten	2.643.243,00	2.704.239,00
+2. Geleistete Anzahlungen	279.255,40	357.325,55
+	2.922.498,40	3.061.564,55
+II. Sachanlagen		
+1. Grundstücke, Bauten und Bauten auf fremden Grundstücken	17.729.055,06	18.240.824,06
+2. Technische Anlagen und Maschinen	9.473.217,00	11.010.780,00
+3. Andere Anlagen, Betriebs- und Geschäftsausstattung	3.443.151,00	3.522.620,00
+4. Geleistete Anzahlungen und Anlagen im Bau	2.091.223,12	247.446,22
+	32.736.646,18	33.021.670,28
+	35.659.144,58	36.083.234,83
+
+Bestätigungsvermerk des unabhängigen Abschlussprüfers
+
+An die Novaled GmbH, Dresden
+
+Prüfungsurteile
+
+Wir haben den Jahresabschluss der Novaled GmbH, Dresden‌, - bestehend aus der Bilanz zum 31. Dezember 2022 und der Gewinn- und Verlustrechnung für das Geschäftsjahr vom 1. Januar bis zum 31. Dezember 2022 sowie dem Anhang, einschließlich der Darstellung der Bilanzierungs- und Bewertungsmethoden - geprüft. Darüber hinaus haben wir den Lagebericht der Novaled GmbH für das Geschäftsjahr vom 1. Januar bis zum 31. Dezember 2022‌ geprüft.
+
+Nach unserer Beurteilung aufgrund der bei der Prüfung gewonnenen Erkenntnisse
+
+―
+
+entspricht der beigefügte Jahresabschluss in allen wesentlichen Belangen den deutschen, für Kapitalgesellschaften geltenden handelsrechtlichen Vorschriften‌‌ und vermittelt unter Beachtung der deutschen Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens- und Finanzlage der Gesellschaft zum 31. Dezember 2022 sowie ihrer Ertragslage für das Geschäftsjahr vom 1. Januar bis zum 31. Dezember 2022 und
+
+―
+
+vermittelt der beigefügte Lagebericht insgesamt ein zutreffendes Bild von der Lage der Gesellschaft. In allen wesentlichen Belangen steht dieser Lagebericht in Einklang mit dem Jahresabschluss, entspricht den deutschen gesetzlichen Vorschriften und stellt die Chancen und Risiken der zukünftigen Entwicklung zutreffend dar.
+
+Gemäß § 322 Abs. 3 Satz 1 HGB‌‌ erklären wir, dass unsere Prüfung zu keinen Einwendungen gegen die Ordnungsmäßigkeit des Jahresabschlusses und des Lageberichts geführt hat.
+
+Grundlage für die Prüfungsurteile
+
+Wir haben unsere Prüfung des Jahresabschlusses und des Lageberichts in Übereinstimmung mit § 317 HGB‌‌ unter Beachtung der vom Institut der Wirtschaftsprüfer (IDW) festgestellten deutschen Grundsätze ordnungsmäßiger Abschlussprüfung‌‌‌ durchgeführt. Unsere Verantwortung nach diesen Vorschriften und Grundsätzen ist im Abschnitt „Verantwortung des Abschlussprüfers für die Prüfung des Jahresabschlusses und des Lageberichts“ unseres Bestätigungsvermerks weitergehend beschrieben. Wir sind von dem Unternehmen unabhängig in Übereinstimmung mit den deutschen handelsrechtlichen und berufsrechtlichen Vorschriften und haben unsere sonstigen deutschen Berufspflichten in Übereinstimmung mit diesen Anforderungen erfüllt. Wir sind der Auffassung, dass die von uns erlangten Prüfungsnachweise ausreichend und geeignet sind, um als Grundlage für unsere Prüfungsurteile zum Jahresabschluss und zum Lagebericht zu dienen.
+
+Verantwortung der gesetzlichen Vertreter und des Aufsichtsrats für den Jahresabschluss und den Lagebericht
+
+Die gesetzlichen Vertreter sind verantwortlich für die Aufstellung des Jahresabschlusses, der den deutschen, für Kapitalgesellschaften geltenden handelsrechtlichen Vorschriften‌‌ in allen wesentlichen Belangen entspricht, und dafür, dass der Jahresabschluss unter Beachtung der deutschen Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage der Gesellschaft vermittelt. Ferner sind die gesetzlichen Vertreter verantwortlich für die internen Kontrollen, die sie in Übereinstimmung mit den deutschen Grundsätzen ordnungsmäßiger Buchführung als notwendig bestimmt haben, um die Aufstellung eines Jahresabschlusses zu ermöglichen, der frei von wesentlichen falschen Darstellungen aufgrund von dolosen Handlungen (d. h. Manipulationen der Rechnungslegung und Vermögensschädigungen) oder Irrtümern ist.
+
+Bei der Aufstellung des Jahresabschlusses sind die gesetzlichen Vertreter dafür verantwortlich, die Fähigkeit der Gesellschaft zur Fortführung der Unternehmenstätigkeit zu beurteilen. Des Weiteren haben sie die Verantwortung, Sachverhalte in Zusammenhang mit der Fortführung der Unternehmenstätigkeit, sofern einschlägig, anzugeben. Darüber hinaus sind sie dafür verantwortlich, auf der Grundlage des Rechnungslegungsgrundsatzes der Fortführung der Unternehmenstätigkeit zu bilanzieren, sofern dem nicht tatsächliche oder rechtliche Gegebenheiten entgegenstehen.
+
+Außerdem sind die gesetzlichen Vertreter verantwortlich für die Aufstellung des Lageberichts, der insgesamt ein zutreffendes Bild von der Lage der Gesellschaft vermittelt sowie in allen wesentlichen Belangen mit dem Jahresabschluss in Einklang steht, den deutschen gesetzlichen Vorschriften entspricht und die Chancen und Risiken der zukünftigen Entwicklung zutreffend darstellt. Ferner sind die gesetzlichen Vertreter verantwortlich für die Vorkehrungen und Maßnahmen (Systeme), die sie als notwendig erachtet haben, um die Aufstellung eines Lageberichts in Übereinstimmung mit den anzuwendenden deutschen gesetzlichen Vorschriften zu ermöglichen und um ausreichende geeignete Nachweise für die Aussagen im Lagebericht erbringen zu können.
+
+Der Aufsichtsrat ist verantwortlich für die Überwachung des Rechnungslegungsprozesses der Gesellschaft zur Aufstellung des Jahresabschlusses und des Lageberichts.
+
+Verantwortung des Abschlussprüfers für die Prüfung des Jahresabschlusses und des Lageberichts
+
+Unsere Zielsetzung ist, hinreichende Sicherheit darüber zu erlangen, ob der Jahresabschluss als Ganzes frei von wesentlichen falschen Darstellungen aufgrund von dolosen Handlungen oder Irrtümern ist, und ob der Lagebericht insgesamt ein zutreffendes Bild von der Lage der Gesellschaft vermittelt sowie in allen wesentlichen Belangen mit dem Jahresabschluss sowie mit den bei der Prüfung gewonnenen Erkenntnissen in Einklang steht, den deutschen gesetzlichen Vorschriften entspricht und die Chancen und Risiken der zukünftigen Entwicklung zutreffend darstellt, sowie einen Bestätigungsvermerk zu erteilen, der unsere Prüfungsurteile zum Jahresabschluss und zum Lagebericht beinhaltet.
+
+Hinreichende Sicherheit ist ein hohes Maß an Sicherheit, aber keine Garantie dafür, dass eine in Übereinstimmung mit § 317 HGB‌‌ unter Beachtung der vom Institut der Wirtschaftsprüfer (IDW) festgestellten deutschen Grundsätze ordnungsmäßiger Abschlussprüfung‌ durchgeführte Prüfung eine wesentliche falsche Darstellung stets aufdeckt. Falsche Darstellungen können aus dolosen Handlungen oder Irrtümern resultieren und werden als wesentlich angesehen, wenn vernünftigerweise erwartet werden könnte, dass sie einzeln oder insgesamt die auf der Grundlage dieses Jahresabschlusses und Lageberichts getroffenen wirtschaftlichen Entscheidungen von Adressaten beeinflussen.
+
+Während der Prüfung üben wir pflichtgemäßes Ermessen aus und bewahren eine kritische Grundhaltung. Darüber hinaus
+
+―
+
+identifizieren und beurteilen wir die Risiken wesentlicher falscher Darstellungen im Jahresabschluss und im Lagebericht aufgrund von dolosen Handlungen oder Irrtümern, planen und führen Prüfungshandlungen als Reaktion auf diese Risiken durch sowie erlangen Prüfungsnachweise, die ausreichend und geeignet sind, um als Grundlage für unsere Prüfungsurteile zu dienen. Das Risiko, dass aus dolosen Handlungen resultierende wesentliche falsche Darstellungen nicht aufgedeckt werden, ist höher als das Risiko, dass aus Irrtümern resultierende wesentliche falsche Darstellungen nicht aufgedeckt werden, da dolose Handlungen kollusives Zusammenwirken, Fälschungen, beabsichtigte Unvollständigkeiten, irreführende Darstellungen bzw. das Außerkraftsetzen interner Kontrollen beinhalten können.
+
+―
+
+gewinnen wir ein Verständnis von dem für die Prüfung des Jahresabschlusses relevanten internen Kontrollsystem und den für die Prüfung des Lageberichts relevanten Vorkehrungen und Maßnahmen, um Prüfungshandlungen zu planen, die unter den gegebenen Umständen angemessen sind, jedoch nicht mit dem Ziel, ein Prüfungsurteil zur Wirksamkeit dieser Systeme der Gesellschaft abzugeben.
+
+―
+
+beurteilen wir die Angemessenheit der von den gesetzlichen Vertretern angewandten Rechnungslegungsmethoden sowie die Vertretbarkeit der von den gesetzlichen Vertretern dargestellten geschätzten Werte und damit zusammenhängenden Angaben.
+
+―
+
+ziehen wir Schlussfolgerungen über die Angemessenheit des von den gesetzlichen Vertretern angewandten Rechnungslegungsgrundsatzes der Fortführung der Unternehmenstätigkeit sowie, auf der Grundlage der erlangten Prüfungsnachweise, ob eine wesentliche Unsicherheit im Zusammenhang mit Ereignissen oder Gegebenheiten besteht, die bedeutsame Zweifel an der Fähigkeit der Gesellschaft zur Fortführung der Unternehmenstätigkeit aufwerfen können. Falls wir zu dem Schluss kommen, dass eine wesentliche Unsicherheit besteht, sind wir verpflichtet, im Bestätigungsvermerk auf die dazugehörigen Angaben im Jahresabschluss und im Lagebericht aufmerksam zu machen oder, falls diese Angaben unangemessen sind, unser jeweiliges Prüfungsurteil zu modifizieren. Wir ziehen unsere Schlussfolgerungen auf der Grundlage der bis zum Datum unseres Bestätigungsvermerks erlangten Prüfungsnachweise. Zukünftige Ereignisse oder Gegebenheiten können jedoch dazu führen, dass die Gesellschaft ihre Unternehmenstätigkeit nicht mehr fortführen kann.
+
+―
+
+beurteilen wir Darstellung, Aufbau und Inhalt des Jahresabschlusses insgesamt einschließlich der Angaben sowie ob der Jahresabschluss die zugrunde liegenden Geschäftsvorfälle und Ereignisse so darstellt, dass der Jahresabschluss unter Beachtung der deutschen Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage der Gesellschaft vermittelt.
+
+―
+
+beurteilen wir den Einklang des Lageberichts mit dem Jahresabschluss, seine Gesetzesentsprechung und das von ihm vermittelte Bild von der Lage des Unternehmens.
+
+―
+
+führen wir Prüfungshandlungen zu den von den gesetzlichen Vertretern dargestellten zukunftsorientierten Angaben im Lagebericht durch. Auf Basis ausreichender geeigneter Prüfungsnachweise vollziehen wir dabei insbesondere die den zukunftsorientierten Angaben von den gesetzlichen Vertretern zugrunde gelegten bedeutsamen Annahmen nach und beurteilen die sachgerechte Ableitung der zukunftsorientierten Angaben aus diesen Annahmen. Ein eigenständiges Prüfungsurteil zu den zukunftsorientierten Angaben sowie zu den zugrunde liegenden Annahmen geben wir nicht ab. Es besteht ein erhebliches unvermeidbares Risiko, dass künftige Ereignisse wesentlich von den zukunftsorientierten Angaben abweichen.
+
+Wir erörtern mit den für die Überwachung Verantwortlichen unter anderem den geplanten Umfang und die Zeitplanung der Prüfung sowie bedeutsame Prüfungsfeststellungen, einschließlich etwaiger bedeutsamer Mängel im internen Kontrollsystem, die wir während unserer Prüfung feststellen.
+
+Dresden, den 12. Juli 2023
+
+KPMG AG
+Wirtschaftsprüfungsgesellschaft
+
+Strom, Wirtschaftsprüfer
+
+Wilde, Wirtschaftsprüfer

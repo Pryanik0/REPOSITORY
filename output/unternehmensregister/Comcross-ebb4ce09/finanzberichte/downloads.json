@@ -1,0 +1,20 @@
+[
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=6I8z7f84qOuZkfEAHjqTlts9cZsHWeiXxAAOnX_jIwZeMLB49sWWTCabWk5mZQH9ewn5GkPaA6q6bOS0liRSXY6DLsZ2oNyY25ZE1NSGH6TZV6Lv4shxcn0Gor9GtZdRMr4zAofl-9BI039THwEF_FBtzRa0FnEKYG5L1x9OHFUQomZGzvJIBgR2ssjgd06dt7PEwtPFrSsWwaFQ42zC5748RcUqw0QWYWceXZrMm3zodwmB",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Comcross-ebb4ce09\\finanzberichte\\publication-1\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Comcross-ebb4ce09\\finanzberichte\\publication-1\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Comcross-ebb4ce09\\finanzberichte\\publication-1\\publication.txt",
+    "index": 1,
+    "category": "finanzberichte",
+    "company": "SPIE comcross GmbH (vormals: comcross GmbH), Leonberg",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+    "documents_path": "output\\unternehmensregister\\Comcross-ebb4ce09\\finanzberichte\\publication-1\\documents.json"
+  }
+]

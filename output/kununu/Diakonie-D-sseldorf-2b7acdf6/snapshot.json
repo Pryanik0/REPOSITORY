@@ -1,0 +1,707 @@
+{
+  "provider": "kununu",
+  "backend": "browser",
+  "status": "ok",
+  "query": "Diakonie Düsseldorf Gemeindedienst der evangelischen Kirchengemeinden e.V.",
+  "profile": {
+    "url": "https://www.kununu.com/de/diakonie-duesseldorf",
+    "name": "Diakonie Düsseldorf",
+    "overall_score": 3.8,
+    "review_count": 225,
+    "recommendation_percent": 82,
+    "recommendation_period": "last_2_years",
+    "observed_at": "2026-11-25T17:16:41.118286+00:00"
+  },
+  "reviews": [
+    {
+      "id": "d9f88846-2622-49df-a94f-543b30658cd2",
+      "url": "https://www.kununu.com/de/diakonie-duesseldorf/bewertung/d9f88846-2622-49df-a94f-543b30658cd2",
+      "title": "Der hinterhältigste Arbeitgeber den ich je hatte. Nichts für schwache Nerven.",
+      "content": "Die Mitarbeitervertretung ist Gold wert und so ziemlich das einzig lobenswerte an dem Arbeitgeber.\n\nVorgesetzte werden nicht zur rechenschaft gezogen für massives Fehlverhalten. Man muss sämtlichen Schriftverkehr sichern und auf alle persönlichen Gespräche oder Telefonate verzichten, weil gezielt darauf geachtet wird keine Beweise zu hinterlassen.\nMan wird getäuscht mit dem Schein eines sicheren Arbeitsumfeldes. Gutmütigkeit & Vertrauen wird hier allerdings ausgenutzt und man zieht schnell den kürzeren.\nSobald man die MAV Informiert hat wird man zur Zielscheibe der Vorgesetzten.\n\nLeitungskräfte müssten ihre Rolle deutlich ernster nehmen, respektvoller Umgang mut Mitarbeitern ist nicht optional.\nStärkere konsequenzen für Fehlverhalten von Leitungskräften wäre wichtig, die machen was sie möchten & kommen damit durch.\nInterne Abläufe müssten dringend strenger kontrolliert werden & Hinweisen sollte besser nachgegangen werden.\nMitarbeiter die die Mitarbeitervertretung genutz haben sollten besser geschützt werden vor mobbing am Arbeitsplatz.\n\nVon Fairness und Vertrauen ist hier keine Spur. Man muss sämtliche Gespräche dokumentieren und auf Telefonate verzichten damit man nicht am Ende hintergangen wird.\n\nAußen uiii und innen pfuii !!! Ich habe einige schlechte Dinge gehört musste aber leider erst am eigenen Leib erfahren wie schlimm es eigentlich wirklich ist. Die Sozialearbeit hört bei den eigenen Mitarbeitern ganz schnell auf.\n\nDas ist der einzige Bereich der halbwegs okay war, Arbeit und Beruf waren oft gut vereinbar. Allerdings rutscht man schnell rein während Krankentagen etc. erreichbar sein zu müssen , es wird extrem am Personal gespart und so muss die erkrankte Person auch krank noch organisatorische Arbeit leisten.\n\nEhrlichkeit wird hier klein geschrieben zusammenhalt gibt es nur in der Führungsebene wenn eine Leitung die andere deckt.\n\nDas schrecklichste Verhalten das ich in meinem Berufsleben je gesehen habe. Ich bin total schockiert von dem Verhalten meiner Vorgesetzen. Wenn man gegen Fehlverhalten vorgeht und sich wehrt wird man zur Zielscheibe der Führungsebene.\n\nKönnte schlimmer sein aber der Hauptaugenmerk liegt auf den Büros und Hauptstandorten\n\nEs gibt Dienstbesprechungen diese sind aber meistens unnötig, die Vorgesetzte redet häufig über sich selbst, viele Aussagen klingen passiv agressiv und sie fällt ihren Mitarbeitern gerne ins Wort.\n\nMan verdient halbwegs okay aber es wird stets drauf geachtet so wenig wie möglich an Personalkosten zu haben. Mehr Verantwortung und mehr Aufgaben heißt nicht gleich mehr Geld.\n\nAls Alleinerzeihendes Elternteil ist man hier ganz klar benachteiligt.\n\nDer Job war cool aber man wird mit den meisten Dingen alleine gelassen.",
+      "rating": 1.7,
+      "sections": {
+        "positive": "Die Mitarbeitervertretung ist Gold wert und so ziemlich das einzig lobenswerte an dem Arbeitgeber.",
+        "negative": "Vorgesetzte werden nicht zur rechenschaft gezogen für massives Fehlverhalten. Man muss sämtlichen Schriftverkehr sichern und auf alle persönlichen Gespräche oder Telefonate verzichten, weil gezielt darauf geachtet wird keine Beweise zu hinterlassen.\nMan wird getäuscht mit dem Schein eines sicheren Arbeitsumfeldes. Gutmütigkeit & Vertrauen wird hier allerdings ausgenutzt und man zieht schnell den kürzeren.\nSobald man die MAV Informiert hat wird man zur Zielscheibe der Vorgesetzten.",
+        "suggestion": "Leitungskräfte müssten ihre Rolle deutlich ernster nehmen, respektvoller Umgang mut Mitarbeitern ist nicht optional.\nStärkere konsequenzen für Fehlverhalten von Leitungskräften wäre wichtig, die machen was sie möchten & kommen damit durch.\nInterne Abläufe müssten dringend strenger kontrolliert werden & Hinweisen sollte besser nachgegangen werden.\nMitarbeiter die die Mitarbeitervertretung genutz haben sollten besser geschützt werden vor mobbing am Arbeitsplatz."
+      },
+      "factor_comments": {
+        "atmosphere": "Von Fairness und Vertrauen ist hier keine Spur. Man muss sämtliche Gespräche dokumentieren und auf Telefonate verzichten damit man nicht am Ende hintergangen wird.",
+        "image": "Außen uiii und innen pfuii !!! Ich habe einige schlechte Dinge gehört musste aber leider erst am eigenen Leib erfahren wie schlimm es eigentlich wirklich ist. Die Sozialearbeit hört bei den eigenen Mitarbeitern ganz schnell auf.",
+        "workLife": "Das ist der einzige Bereich der halbwegs okay war, Arbeit und Beruf waren oft gut vereinbar. Allerdings rutscht man schnell rein während Krankentagen etc. erreichbar sein zu müssen , es wird extrem am Personal gespart und so muss die erkrankte Person auch krank noch organisatorische Arbeit leisten.",
+        "teamwork": "Ehrlichkeit wird hier klein geschrieben zusammenhalt gibt es nur in der Führungsebene wenn eine Leitung die andere deckt.",
+        "leadership": "Das schrecklichste Verhalten das ich in meinem Berufsleben je gesehen habe. Ich bin total schockiert von dem Verhalten meiner Vorgesetzen. Wenn man gegen Fehlverhalten vorgeht und sich wehrt wird man zur Zielscheibe der Führungsebene.",
+        "workConditions": "Könnte schlimmer sein aber der Hauptaugenmerk liegt auf den Büros und Hauptstandorten",
+        "communication": "Es gibt Dienstbesprechungen diese sind aber meistens unnötig, die Vorgesetzte redet häufig über sich selbst, viele Aussagen klingen passiv agressiv und sie fällt ihren Mitarbeitern gerne ins Wort.",
+        "salary": "Man verdient halbwegs okay aber es wird stets drauf geachtet so wenig wie möglich an Personalkosten zu haben. Mehr Verantwortung und mehr Aufgaben heißt nicht gleich mehr Geld.",
+        "equality": "Als Alleinerzeihendes Elternteil ist man hier ganz klar benachteiligt.",
+        "tasks": "Der Job war cool aber man wird mit den meisten Dingen alleine gelassen."
+      },
+      "factor_scores": {
+        "atmosphere": 2.0,
+        "workLife": 3.0,
+        "communication": 2.0,
+        "workConditions": 2.0,
+        "leadership": 1.0,
+        "teamwork": 1.0,
+        "oldColleagues": null,
+        "equality": 1.0,
+        "career": null,
+        "salary": 2.0,
+        "image": 1.0,
+        "environment": null,
+        "tasks": 2.0
+      },
+      "published_at": "2026-10-06T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "1d736e7a-937e-4e28-a4ef-ba7d2d96a5b6",
+      "url": "https://www.kununu.com/de/diakonie-duesseldorf/bewertung/1d736e7a-937e-4e28-a4ef-ba7d2d96a5b6",
+      "title": "Tolles Team, wertschätzende Kultur",
+      "content": "Es herrscht ein wirklich angenehmes Klima… offene Türen, ehrliches Feedback und ein Team, das sich gegenseitig unterstützt statt gegeneinander zu arbeiten.\n\nFlexible Arbeitszeiten werden wirklich gelebt, nicht nur auf dem Papier versprochen. Überstunden sind die Ausnahme, nicht die Regel.\n\nWer Eigeninitiative zeigt, bekommt hier echte Entwicklungsmöglichkeiten geboten, interne Aufstiege sind keine Seltenheit, sondern werden aktiv gefördert.\n\nDie Zusatzleistungen und das Miteinander stimmen auf jeden Fall. Beim Grundgehalt würde ich mir wünschen, dass man sich noch etwas stärker am Marktdurchschnitt orientiert, da wäre sicher noch Potenzial, um im Wettbewerb um Talente noch attraktiver zu werden.\n\nDer Zusammenhalt im Team ist besonders: Man hilft sich unkompliziert aus, auch abteilungsübergreifend. Fühlt sich nie nach reiner Pflichterfüllung an.\n\nErfahrung wird hier wirklich wertgeschätzt, ältere Kolleg*innen werden nicht nur respektiert, sondern aktiv eingebunden, ihr Wissen ist im Team sehr gefragt.\n\nFührung auf Augenhöhe – Entscheidungen werden transparent kommuniziert, Kritik wird ernst genommen statt abgewiegelt.\n\nInformationen fließen schnell und unkompliziert, auch bei größeren Veränderungen bleibt man nicht im Unklaren.",
+      "rating": 4.9,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Es herrscht ein wirklich angenehmes Klima… offene Türen, ehrliches Feedback und ein Team, das sich gegenseitig unterstützt statt gegeneinander zu arbeiten.",
+        "workLife": "Flexible Arbeitszeiten werden wirklich gelebt, nicht nur auf dem Papier versprochen. Überstunden sind die Ausnahme, nicht die Regel.",
+        "career": "Wer Eigeninitiative zeigt, bekommt hier echte Entwicklungsmöglichkeiten geboten, interne Aufstiege sind keine Seltenheit, sondern werden aktiv gefördert.",
+        "salary": "Die Zusatzleistungen und das Miteinander stimmen auf jeden Fall. Beim Grundgehalt würde ich mir wünschen, dass man sich noch etwas stärker am Marktdurchschnitt orientiert, da wäre sicher noch Potenzial, um im Wettbewerb um Talente noch attraktiver zu werden.",
+        "teamwork": "Der Zusammenhalt im Team ist besonders: Man hilft sich unkompliziert aus, auch abteilungsübergreifend. Fühlt sich nie nach reiner Pflichterfüllung an.",
+        "oldColleagues": "Erfahrung wird hier wirklich wertgeschätzt, ältere Kolleg*innen werden nicht nur respektiert, sondern aktiv eingebunden, ihr Wissen ist im Team sehr gefragt.",
+        "leadership": "Führung auf Augenhöhe – Entscheidungen werden transparent kommuniziert, Kritik wird ernst genommen statt abgewiegelt.",
+        "communication": "Informationen fließen schnell und unkompliziert, auch bei größeren Veränderungen bleibt man nicht im Unklaren."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 4.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-08-14T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "b2754384-ca41-4ee4-a00b-93640817b26b",
+      "url": "https://www.kununu.com/de/diakonie-duesseldorf/bewertung/b2754384-ca41-4ee4-a00b-93640817b26b",
+      "title": "Ein toller Arbeitgeber mit Zukunft",
+      "content": "Der Wunsch nach Vereinfachung von Arbeitsabläufe. Hierdurch werden oft Prozesse digitalisiert und entschlackt.\n\nZu wenig Parkplätze sind leider das größte Problem.\n\nObwohl in meiner Abteilung viele Kolleg*innen sind, arbeiten wir super zusammen und können uns aufeinander verlassen.",
+      "rating": 4.8,
+      "sections": {
+        "positive": "Der Wunsch nach Vereinfachung von Arbeitsabläufe. Hierdurch werden oft Prozesse digitalisiert und entschlackt.",
+        "negative": null,
+        "suggestion": "Zu wenig Parkplätze sind leider das größte Problem."
+      },
+      "factor_comments": {
+        "teamwork": "Obwohl in meiner Abteilung viele Kolleg*innen sind, arbeiten wir super zusammen und können uns aufeinander verlassen."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 4.0,
+        "workConditions": 5.0,
+        "leadership": 4.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-08-13T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "ecd7c1aa-0ab4-4e73-979d-368a8c5af466",
+      "url": "https://www.kununu.com/de/diakonie-duesseldorf/bewertung/ecd7c1aa-0ab4-4e73-979d-368a8c5af466",
+      "title": "Ich kann die Diakonie als Arbeitgeber sehr empfehlen. Das Arbeitsklima ist entspannt und offen mit viel Vielfalt.",
+      "content": "Die enge Zusammenarbeit mit dem Team.\n\nMehr Veranstaltungen.",
+      "rating": 4.8,
+      "sections": {
+        "positive": "Die enge Zusammenarbeit mit dem Team.",
+        "negative": null,
+        "suggestion": "Mehr Veranstaltungen."
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 4.0,
+        "environment": 5.0,
+        "tasks": 4.0
+      },
+      "published_at": "2026-07-28T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "4afb1ef6-9831-4a62-8d63-f41265cb3104",
+      "url": "https://www.kununu.com/de/diakonie-duesseldorf/bewertung/4afb1ef6-9831-4a62-8d63-f41265cb3104",
+      "title": "Ich glaube dass mein allgemein Bewertungen reichen vollkommen aus,mehr gibt nichts zu sagen!",
+      "content": "Null komma nichts!\n\nDie krude Realität in eigenen Haus nicht vor Augen zu haben!\n\nEs ist einfach hoffnungslos, aber ein Empfehlung hätte ich mal... Die sollten zum Wohl der Bewohner /Bewohnerin & das gesamten Personal sich ein anderen Job suchen und sich selbst ein gefallen tun!\n\nFehler am Platz!\n\nFrüher vielleicht mal, Heute ist kaum was zu Spuren!\n\nNie erlebt!\n\nGleich Null!\n\nEin Privileg die nur das Führungsmanagement vorbehalten ist, während die tragenden Säule nämlich das Personal, schaut in die Röhre!\n\n0!\n\nGibt es nicht!\n\nGibt es keins!\n\nUnmöglich und unverschämt!\n\nNicht auszuhalten!\n\nGleich Null!\n\nEin fremdes Wort!\n\nNie erlebt!",
+      "rating": 1.8,
+      "sections": {
+        "positive": "Null komma nichts!",
+        "negative": "Die krude Realität in eigenen Haus nicht vor Augen zu haben!",
+        "suggestion": "Es ist einfach hoffnungslos, aber ein Empfehlung hätte ich mal... Die sollten zum Wohl der Bewohner /Bewohnerin & das gesamten Personal sich ein anderen Job suchen und sich selbst ein gefallen tun!"
+      },
+      "factor_comments": {
+        "atmosphere": "Fehler am Platz!",
+        "image": "Früher vielleicht mal, Heute ist kaum was zu Spuren!",
+        "workLife": "Nie erlebt!",
+        "career": "Gleich Null!",
+        "salary": "Ein Privileg die nur das Führungsmanagement vorbehalten ist, während die tragenden Säule nämlich das Personal, schaut in die Röhre!",
+        "environment": "0!",
+        "teamwork": "Gibt es nicht!",
+        "oldColleagues": "Gibt es keins!",
+        "leadership": "Unmöglich und unverschämt!",
+        "workConditions": "Nicht auszuhalten!",
+        "communication": "Gleich Null!",
+        "equality": "Ein fremdes Wort!",
+        "tasks": "Nie erlebt!"
+      },
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 2.0,
+        "communication": 3.0,
+        "workConditions": 1.0,
+        "leadership": 1.0,
+        "teamwork": 2.0,
+        "oldColleagues": 2.0,
+        "equality": 1.0,
+        "career": 1.0,
+        "salary": 2.0,
+        "image": 2.0,
+        "environment": 2.0,
+        "tasks": 2.0
+      },
+      "published_at": "2026-07-27T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "78c0c906-e156-4b8b-a4d8-cf6da1a8d77e",
+      "url": "https://www.kununu.com/de/diakonie-duesseldorf/bewertung/78c0c906-e156-4b8b-a4d8-cf6da1a8d77e",
+      "title": "Welt)offen, sozial, nachhaltig – wertschätzend im Ton, offen im Ohr",
+      "content": "(Welt)offen, sozial und nachhaltig orientiert, es wird Wert auf wertschätzende Kommunikation gelegt und die Meinung von Mitarbeitenden ist auch in der Führungsebene gefragt",
+      "rating": 4.5,
+      "sections": {
+        "positive": "(Welt)offen, sozial und nachhaltig orientiert, es wird Wert auf wertschätzende Kommunikation gelegt und die Meinung von Mitarbeitenden ist auch in der Führungsebene gefragt",
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 4.0,
+        "communication": 4.0,
+        "workConditions": 4.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 4.0,
+        "salary": 4.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 4.0
+      },
+      "published_at": "2026-07-20T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "e98d809b-dc3a-4de3-bf5c-9be2ed40df31",
+      "url": "https://www.kununu.com/de/diakonie-duesseldorf/bewertung/e98d809b-dc3a-4de3-bf5c-9be2ed40df31",
+      "title": "Toller Arbeitsgeber",
+      "content": "Kommutativ, gutes Gehalt , guter Ansprechpartner\n\nSehr gut Atmosphäre\n\nGenießt gutes Ansehen\n\nImmer für jeden was dabei\n\nSehr gut\n\nIst vorhanden\n\nSehr tolles Team\n\nWird sehr drauf geachtet\n\nKlappt sehr gut\n\nLautstärke ist manchmal stressig\n\nSchnelle Hilfe bei Fragen\n\nImmer gleichberechtigt\n\nSehr abwechslungsreich",
+      "rating": 4.5,
+      "sections": {
+        "positive": "Kommutativ, gutes Gehalt , guter Ansprechpartner",
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Sehr gut Atmosphäre",
+        "image": "Genießt gutes Ansehen",
+        "career": "Immer für jeden was dabei",
+        "salary": "Sehr gut",
+        "environment": "Ist vorhanden",
+        "teamwork": "Sehr tolles Team",
+        "oldColleagues": "Wird sehr drauf geachtet",
+        "leadership": "Klappt sehr gut",
+        "workConditions": "Lautstärke ist manchmal stressig",
+        "communication": "Schnelle Hilfe bei Fragen",
+        "equality": "Immer gleichberechtigt",
+        "tasks": "Sehr abwechslungsreich"
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 3.0,
+        "leadership": 5.0,
+        "teamwork": 4.0,
+        "oldColleagues": 4.0,
+        "equality": 4.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 4.0,
+        "tasks": 4.0
+      },
+      "published_at": "2026-07-09T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "78d61eca-33dd-414e-b53d-32715e13c4aa",
+      "url": "https://www.kununu.com/de/diakonie-duesseldorf/bewertung/78d61eca-33dd-414e-b53d-32715e13c4aa",
+      "title": "Von diesem Arbeitgeber sollten sich andere etwas abschauen!",
+      "content": "Das Unternehmen stellt einem alles was es braucht - letztendlich ist jeder Mitarbeitende auch selbst für eine gute Atmosphäre mitverantwortlich. Das klappt meistens ganz gut.\n\nSehr gut - man muss sich nicht verstecken!\n\nEs ist definitiv genug zu tun - nichtsdestotrotz wird aus meiner Sicht selten jemand überfordert. Mehrarbeit wird erfasst und regelmäßig abgefeiert.\n\nWird gerne gefördert, wenn es thematisch zum Arbeitsumfeld passt.\n\nBAT-KF wird angewandt - ein guter Tarifvertrag innerhalb der Sozialbranche. (wie TvÖD)\n\nNachhaltigkeitsmanagement mit den Fokusbereichen „Vielfalt“, „Energie“ und „Mobilität“ ist bereichsübergreifend verankert. Das Unternehmen arbeitet zertifiziert „gemeinwohlorientiert“.\n\nAuf vielen Ebenen wird gemeinsam an der Verbesserung von Situationen gearbeitet. Insbesondere wenn sich Mitarbeitende persönlich kennen und vielleicht „per Du“ sind - läuft es besser als beim formelleren „Sie“. Manchmal grenzen sich Teams noch zu sehr ab, anstatt das Gemeinsame zu sehen und fernab von Prozessen nach Lösungen zu suchen.\n\nTeilweise werden Mitarbeitende auch noch nach Erreichen der Regelaltersgrenze eingesetzt, sofern die Mitarbeitenden es wünschen und die Rolle es zulässt.\n\n…liegt mit Sicherheit im Auge des Betrachters - in meinem Fall gibt es daran nichts auszusetzen. Bislang sind mir keine Totalausfälle bekannt geworden. Gerade aufgrund der hohen Anzahl an pädagogischen Fachkräften, ist das Thema „Führung“ immer wieder Teil von Diskussionen auch innerhalb der Leitungsebene. Coaching und Supervision werden regelmäßig eingesetzt.\n\nSicherlich unterschiedlich aufgrund der Größe- aber immer ein gewisser Mindeststandard.\n\nEs wird eine Menge kommuniziert. Könnte es manchmal besser sein? Keine Frage, es ist immer Luft nach oben.\n\nWird hier groß geschrieben - in jeglicher Dimension.\n\nAufgrund der Größe der Diakonie Düsseldorf und den vielen unterschiedlichen Hilfefeldern gibt es immer wieder neue Herausforderungen mit denen es sich zu befassen gilt. Es wird sicher nie langweilig.",
+      "rating": 5.0,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Das Unternehmen stellt einem alles was es braucht - letztendlich ist jeder Mitarbeitende auch selbst für eine gute Atmosphäre mitverantwortlich. Das klappt meistens ganz gut.",
+        "image": "Sehr gut - man muss sich nicht verstecken!",
+        "workLife": "Es ist definitiv genug zu tun - nichtsdestotrotz wird aus meiner Sicht selten jemand überfordert. Mehrarbeit wird erfasst und regelmäßig abgefeiert.",
+        "career": "Wird gerne gefördert, wenn es thematisch zum Arbeitsumfeld passt.",
+        "salary": "BAT-KF wird angewandt - ein guter Tarifvertrag innerhalb der Sozialbranche. (wie TvÖD)",
+        "environment": "Nachhaltigkeitsmanagement mit den Fokusbereichen „Vielfalt“, „Energie“ und „Mobilität“ ist bereichsübergreifend verankert. Das Unternehmen arbeitet zertifiziert „gemeinwohlorientiert“.",
+        "teamwork": "Auf vielen Ebenen wird gemeinsam an der Verbesserung von Situationen gearbeitet. Insbesondere wenn sich Mitarbeitende persönlich kennen und vielleicht „per Du“ sind - läuft es besser als beim formelleren „Sie“. Manchmal grenzen sich Teams noch zu sehr ab, anstatt das Gemeinsame zu sehen und fernab von Prozessen nach Lösungen zu suchen.",
+        "oldColleagues": "Teilweise werden Mitarbeitende auch noch nach Erreichen der Regelaltersgrenze eingesetzt, sofern die Mitarbeitenden es wünschen und die Rolle es zulässt.",
+        "leadership": "…liegt mit Sicherheit im Auge des Betrachters - in meinem Fall gibt es daran nichts auszusetzen. Bislang sind mir keine Totalausfälle bekannt geworden. Gerade aufgrund der hohen Anzahl an pädagogischen Fachkräften, ist das Thema „Führung“ immer wieder Teil von Diskussionen auch innerhalb der Leitungsebene. Coaching und Supervision werden regelmäßig eingesetzt.",
+        "workConditions": "Sicherlich unterschiedlich aufgrund der Größe- aber immer ein gewisser Mindeststandard.",
+        "communication": "Es wird eine Menge kommuniziert. Könnte es manchmal besser sein? Keine Frage, es ist immer Luft nach oben.",
+        "equality": "Wird hier groß geschrieben - in jeglicher Dimension.",
+        "tasks": "Aufgrund der Größe der Diakonie Düsseldorf und den vielen unterschiedlichen Hilfefeldern gibt es immer wieder neue Herausforderungen mit denen es sich zu befassen gilt. Es wird sicher nie langweilig."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-07-08T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "b7c51ae2-b27a-4b7d-8683-6c71f45350bd",
+      "url": "https://www.kununu.com/de/diakonie-duesseldorf/bewertung/b7c51ae2-b27a-4b7d-8683-6c71f45350bd",
+      "title": "Empfehlenswert",
+      "content": "Tarifvertrag BAT KF",
+      "rating": 4.5,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "salary": "Tarifvertrag BAT KF"
+      },
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 5.0,
+        "communication": 4.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 4.0,
+        "oldColleagues": null,
+        "equality": 5.0,
+        "career": 4.0,
+        "salary": 4.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 4.0
+      },
+      "published_at": "2026-06-30T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "c802490a-1f9e-438c-9029-93ce5817c25b",
+      "url": "https://www.kununu.com/de/diakonie-duesseldorf/bewertung/c802490a-1f9e-438c-9029-93ce5817c25b",
+      "title": "Alles in allem ein sehr guter Arbeitgeber",
+      "content": "Gut\n\nGut\n\nGut",
+      "rating": 3.9,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Gut",
+        "teamwork": "Gut",
+        "communication": "Gut"
+      },
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 4.0,
+        "communication": 4.0,
+        "workConditions": 4.0,
+        "leadership": 4.0,
+        "teamwork": 4.0,
+        "oldColleagues": 4.0,
+        "equality": 4.0,
+        "career": 3.0,
+        "salary": 4.0,
+        "image": 4.0,
+        "environment": 4.0,
+        "tasks": 4.0
+      },
+      "published_at": "2026-06-11T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "82d2151b-5b64-459a-8b66-6c5fa34c1d6d",
+      "url": "https://www.kununu.com/de/diakonie-duesseldorf/bewertung/82d2151b-5b64-459a-8b66-6c5fa34c1d6d",
+      "title": "Sehr gut und weiter zu empfehlen",
+      "content": "Das zusammengestellte Team und der Arbeitsort\n\nEigentlich nichts\n\nEinssatzpläne früher schicken\n\nGut\n\nGut\n\nSehr gut\n\nGut\n\nGut\n\nGut\n\nGut\n\nGut\n\nSehr gut\n\nGut\n\nGut\n\nGut\n\nGut",
+      "rating": 4.2,
+      "sections": {
+        "positive": "Das zusammengestellte Team und der Arbeitsort",
+        "negative": "Eigentlich nichts",
+        "suggestion": "Einssatzpläne früher schicken"
+      },
+      "factor_comments": {
+        "atmosphere": "Gut",
+        "image": "Gut",
+        "workLife": "Sehr gut",
+        "career": "Gut",
+        "salary": "Gut",
+        "environment": "Gut",
+        "teamwork": "Gut",
+        "oldColleagues": "Gut",
+        "leadership": "Sehr gut",
+        "workConditions": "Gut",
+        "communication": "Gut",
+        "equality": "Gut",
+        "tasks": "Gut"
+      },
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-06-09T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "a8c49c29-0ceb-4ec8-b37e-b99c90f07764",
+      "url": "https://www.kununu.com/de/diakonie-duesseldorf/bewertung/a8c49c29-0ceb-4ec8-b37e-b99c90f07764",
+      "title": "Die Diakonie Düsseldorf kann ich wärmstens empfehlen!",
+      "content": "Super Team und freundlicher Austausch!\n\nIch identifiziere mich gerne mit den Werten der Diakonie Düsseldorf\n\nFlexibilität in der Urlaubsplanung, Gleitzeit\n\nFaire Bezahlung",
+      "rating": 5.0,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Super Team und freundlicher Austausch!",
+        "image": "Ich identifiziere mich gerne mit den Werten der Diakonie Düsseldorf",
+        "workLife": "Flexibilität in der Urlaubsplanung, Gleitzeit",
+        "salary": "Faire Bezahlung"
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-04-07T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "6b88e1cb-9152-43d3-80b4-11e1c0796ab9",
+      "url": "https://www.kununu.com/de/diakonie-duesseldorf/bewertung/6b88e1cb-9152-43d3-80b4-11e1c0796ab9",
+      "title": "Innovative Nächstenliebe!",
+      "content": "Nächstenliebe und Innovation- natürlich auch immer vom Arbeitsgebiet abhängig. Insgesamt sehe ich diese beiden Hauptwerte in der Diakonie Düsseldorf gelebt. Ein toller, vielseitiger Arbeitgeber. Gute Grundatmosphäre!\n\nFlexibel im Rahmen der Möglichkeiten. Sabattical und Teilzeit, Mobiles Arbeiten je nach Tätigkeit möglich.\n\nNicht vorgegeben. Je nach Führungskraft und eigenem Engagement. Interne Beförderung wird insgesamt bevorzugt.\n\nNach BAT-KF und schöne zusätzliche Benefits.\n\nGWÖ-Zertifiziert und aktiv im sozialen Umfeld.\n\nGelebte Hilfsbereitschaft und ein offener Umgang miteinander.\n\nJe nach Tätigkeit, insgesamt gut.\n\nGutes Vorgesetztenverhalten. Menschlich, fair, nachhaltig.\n\nModernere Ausstattung trotz teilweise schwieriger Refinanzierung.\n\nViele übergreifende Newsletter, Dina als internes Kommunikationstool, Kommunikation über Social Media und viele Informationen über den Loga3 Zugang. Zudem Mitarbeiterveranstaltungen und diverse Gremien.\n\nFrauendominiertes Unternehmen, da sozialer Bereich. Insgesamt divers und offen.\n\nVielseitige Tätigkeiten erlauben Langeweile zu vermeiden.",
+      "rating": 4.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Nächstenliebe und Innovation- natürlich auch immer vom Arbeitsgebiet abhängig. Insgesamt sehe ich diese beiden Hauptwerte in der Diakonie Düsseldorf gelebt. Ein toller, vielseitiger Arbeitgeber. Gute Grundatmosphäre!",
+        "workLife": "Flexibel im Rahmen der Möglichkeiten. Sabattical und Teilzeit, Mobiles Arbeiten je nach Tätigkeit möglich.",
+        "career": "Nicht vorgegeben. Je nach Führungskraft und eigenem Engagement. Interne Beförderung wird insgesamt bevorzugt.",
+        "salary": "Nach BAT-KF und schöne zusätzliche Benefits.",
+        "environment": "GWÖ-Zertifiziert und aktiv im sozialen Umfeld.",
+        "teamwork": "Gelebte Hilfsbereitschaft und ein offener Umgang miteinander.",
+        "oldColleagues": "Je nach Tätigkeit, insgesamt gut.",
+        "leadership": "Gutes Vorgesetztenverhalten. Menschlich, fair, nachhaltig.",
+        "workConditions": "Modernere Ausstattung trotz teilweise schwieriger Refinanzierung.",
+        "communication": "Viele übergreifende Newsletter, Dina als internes Kommunikationstool, Kommunikation über Social Media und viele Informationen über den Loga3 Zugang. Zudem Mitarbeiterveranstaltungen und diverse Gremien.",
+        "equality": "Frauendominiertes Unternehmen, da sozialer Bereich. Insgesamt divers und offen.",
+        "tasks": "Vielseitige Tätigkeiten erlauben Langeweile zu vermeiden."
+      },
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-03-12T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "3fa0135f-a772-4081-b0b6-3f7baf95aaa8",
+      "url": "https://www.kununu.com/de/diakonie-duesseldorf/bewertung/3fa0135f-a772-4081-b0b6-3f7baf95aaa8",
+      "title": "Sehr zufrieden",
+      "content": "Flexible Arbeitszeiten\nFlache Hierarchie\nRespektvoller Umgang",
+      "rating": 4.6,
+      "sections": {
+        "positive": "Flexible Arbeitszeiten\nFlache Hierarchie\nRespektvoller Umgang",
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-03-05T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "df34ac26-26bf-4e45-a932-c6d0f2f3c796",
+      "url": "https://www.kununu.com/de/diakonie-duesseldorf/bewertung/df34ac26-26bf-4e45-a932-c6d0f2f3c796",
+      "title": "Mitarbeiterfürsorge",
+      "content": "Personalrat\n\nEgoistisch\n\nMehr Mitarbeiterfürsorge bzw. Verschleiß der älteren pflichtbewußten Mitarbeiter wird in Kauf genommen",
+      "rating": 2.6,
+      "sections": {
+        "positive": "Personalrat",
+        "negative": "Egoistisch",
+        "suggestion": "Mehr Mitarbeiterfürsorge bzw. Verschleiß der älteren pflichtbewußten Mitarbeiter wird in Kauf genommen"
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-03-05T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    }
+  ],
+  "review_limit": 15,
+  "review_period": {
+    "since": "2024-11-25T00:00:00+00:00",
+    "until": "2026-11-25T17:16:39.002608+00:00",
+    "date_field": "published_at",
+    "missing_dates": "excluded"
+  },
+  "factor_scores_aggregated": {
+    "atmosphere": {
+      "mean": 4.36,
+      "count": 11
+    },
+    "workLife": {
+      "mean": 4.36,
+      "count": 11
+    },
+    "communication": {
+      "mean": 4.18,
+      "count": 11
+    },
+    "workConditions": {
+      "mean": 4.0,
+      "count": 11
+    },
+    "leadership": {
+      "mean": 4.09,
+      "count": 11
+    },
+    "teamwork": {
+      "mean": 4.09,
+      "count": 11
+    },
+    "oldColleagues": {
+      "mean": 4.44,
+      "count": 9
+    },
+    "equality": {
+      "mean": 4.09,
+      "count": 11
+    },
+    "career": {
+      "mean": 4.2,
+      "count": 10
+    },
+    "salary": {
+      "mean": 4.09,
+      "count": 11
+    },
+    "image": {
+      "mean": 4.18,
+      "count": 11
+    },
+    "environment": {
+      "mean": 4.5,
+      "count": 10
+    },
+    "tasks": {
+      "mean": 4.0,
+      "count": 11
+    }
+  },
+  "coverage": "bounded_employee_review_sample_last_2_years_not_all_reviews",
+  "diagnostics": {
+    "pages": [
+      {
+        "page": "reviews",
+        "page_number": 1,
+        "load_more_clicks": 0,
+        "requested_url": "https://www.kununu.com/de/diakonie-duesseldorf/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Diakonie-D-sseldorf-2b7acdf6\\browser\\reviews.html",
+        "browser_step": 95,
+        "final_url": "https://www.kununu.com/de/diakonie-duesseldorf/kommentare",
+        "observed_at": "2026-11-25T17:16:40.648575+00:00",
+        "http_status": 200,
+        "factor_cards_expanded": 4,
+        "reviews_collected": 9
+      },
+      {
+        "page": "reviews",
+        "page_number": 2,
+        "load_more_clicks": 1,
+        "requested_url": "https://www.kununu.com/de/diakonie-duesseldorf/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Diakonie-D-sseldorf-2b7acdf6\\browser\\reviews-2.html",
+        "browser_step": 96,
+        "final_url": "https://www.kununu.com/de/diakonie-duesseldorf/kommentare",
+        "observed_at": "2026-11-25T17:16:42.321861+00:00",
+        "actions_complete": true,
+        "factor_cards_expanded": 2,
+        "reviews_collected": 15
+      }
+    ]
+  },
+  "source_url": "https://www.kununu.com/de/diakonie-duesseldorf",
+  "profile_source": "https://www.kununu.com/de/diakonie-duesseldorf/kommentare",
+  "review_stop_reason": "sample_limit_reached",
+  "factor_score_coverage": {
+    "reviews_with_scores": 11,
+    "reviews_without_scores": 4,
+    "reviews_with_all_known_scores": 9,
+    "status": "partial"
+  },
+  "request_limits": {
+    "max_browser_steps": 295,
+    "browser_steps": 96,
+    "zyte_requests": 0
+  },
+  "reason": null
+}

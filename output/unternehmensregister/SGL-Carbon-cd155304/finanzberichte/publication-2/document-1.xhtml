@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:ix="http://www.xbrl.org/2013/inlineXBRL" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xbrldi="http://xbrl.org/2006/xbrldi" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:ixt="http://www.xbrl.org/inlineXBRL/transformation/2022-02-16" xmlns:pcbcr="https://commission.europa.eu/taxonomy/pcbcr/2025-12-31/pcbcr_cor">
+<head>
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8"/>
+<title>pCBCR iXBRL</title>
+<style type="text/css">
+@page { size: A4 portrait; margin: 10mm; }
+@page landscape { size: A4 landscape; }
+body {font-family: Arial, sans-serif; font-size: 13px; color: #000; background: #fff; margin: 0; padding: 0;}
+.page { page-break-after: always; box-sizing: border-box; }
+.page:last-child { page-break-after: auto; }
+.page-landscape { page: landscape; }
+.top {margin-bottom: 20px; border-bottom: 2px solid #000; padding-bottom: 5px;}
+h1 {font-size: 18px; margin: 0; text-align: center;}
+.report-subtitle {font-size: 12px; font-weight: normal; color: #555; text-align: center; margin-top: 5px;}
+.section {margin-top: 30px; page-break-inside: avoid;}
+.section h2 {font-size: 15px; margin: 0 0 6px 0; border-bottom: 1px solid #000; padding-bottom: 2px;}
+.s3-subs { white-space: pre-line !important; }
+td.s1-label { background: #e6e6e6; font-weight: bold; }
+.para { white-space: pre-line; }
+th.mx-sepcol, td.mx-sepcol { width: 10px; min-width: 10px; max-width: 10px; padding-left: 1px; padding-right: 1px; }
+table {border-collapse: collapse; width: 100%; margin-bottom: 15px; table-layout: fixed;}
+th, td {border: 1px solid #000; padding: 6px 8px; vertical-align: top; overflow-wrap: anywhere; word-break: break-word; white-space: pre-line;}
+th {background: #e6e6e6; font-weight: bold; text-align: left; font-size: 11px; line-height: 1.15;}
+td {font-size: 12px; line-height: 1.2;}
+td { white-space: pre-line; }
+table.tbl-s2 td:nth-child(n+3) { white-space: nowrap; }
+th {background: #e6e6e6; font-weight: bold; text-align: left;}
+tr.mx-sep td { background: #e6e6e6; font-weight: bold; }
+tr.std-sep td { background: #e6e6e6; font-weight: bold; }
+td.mx-grey, th.mx-grey { background: #e6e6e6; }
+@media screen { .page { max-width: 1150px; margin: 15px auto; padding: 20px; } }
+</style></head><body>
+<div style="display:none">
+  <ix:header>
+    <ix:references>
+      <link:schemaRef xlink:type="simple" xlink:href="https://commission.europa.eu/taxonomy/pcbcr/2025-12-31/pcbcr_entry.xsd"/>
+    </ix:references>
+    <ix:resources>
+      <xbrli:context id="c_INST">
+        <xbrli:entity><xbrli:identifier scheme="http://standards.iso.org/iso/17442">52990038IB31TYK07X63</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:instant>2025-12-31</xbrli:instant></xbrli:period>
+      </xbrli:context>
+      <xbrli:context id="c_DUR">
+        <xbrli:entity><xbrli:identifier scheme="http://standards.iso.org/iso/17442">52990038IB31TYK07X63</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:startDate>2025-01-01</xbrli:startDate><xbrli:endDate>2025-12-31</xbrli:endDate></xbrli:period>
+      </xbrli:context>
+      <xbrli:context id="c_DUR_JUR_AT">
+        <xbrli:entity><xbrli:identifier scheme="http://standards.iso.org/iso/17442">52990038IB31TYK07X63</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:startDate>2025-01-01</xbrli:startDate><xbrli:endDate>2025-12-31</xbrli:endDate></xbrli:period>
+        <xbrli:scenario>
+          <xbrldi:typedMember dimension="pcbcr:NameOfMemberStateOrTaxJurisdictionTypedAxis"><pcbcr:TYP>Österreich</pcbcr:TYP></xbrldi:typedMember>
+        </xbrli:scenario>
+      </xbrli:context>
+      <xbrli:context id="c_INST_JUR_AT">
+        <xbrli:entity><xbrli:identifier scheme="http://standards.iso.org/iso/17442">52990038IB31TYK07X63</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:instant>2025-12-31</xbrli:instant></xbrli:period>
+        <xbrli:scenario>
+          <xbrldi:typedMember dimension="pcbcr:NameOfMemberStateOrTaxJurisdictionTypedAxis"><pcbcr:TYP>Österreich</pcbcr:TYP></xbrldi:typedMember>
+        </xbrli:scenario>
+      </xbrli:context>
+      <xbrli:context id="c_DUR_JUR_FR">
+        <xbrli:entity><xbrli:identifier scheme="http://standards.iso.org/iso/17442">52990038IB31TYK07X63</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:startDate>2025-01-01</xbrli:startDate><xbrli:endDate>2025-12-31</xbrli:endDate></xbrli:period>
+        <xbrli:scenario>
+          <xbrldi:typedMember dimension="pcbcr:NameOfMemberStateOrTaxJurisdictionTypedAxis"><pcbcr:TYP>Frankreich</pcbcr:TYP></xbrldi:typedMember>
+        </xbrli:scenario>
+      </xbrli:context>
+      <xbrli:context id="c_INST_JUR_FR">
+        <xbrli:entity><xbrli:identifier scheme="http://standards.iso.org/iso/17442">52990038IB31TYK07X63</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:instant>2025-12-31</xbrli:instant></xbrli:period>
+        <xbrli:scenario>
+          <xbrldi:typedMember dimension="pcbcr:NameOfMemberStateOrTaxJurisdictionTypedAxis"><pcbcr:TYP>Frankreich</pcbcr:TYP></xbrldi:typedMember>
+        </xbrli:scenario>
+      </xbrli:context>
+      <xbrli:context id="c_DUR_JUR_DE">
+        <xbrli:entity><xbrli:identifier scheme="http://standards.iso.org/iso/17442">52990038IB31TYK07X63</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:startDate>2025-01-01</xbrli:startDate><xbrli:endDate>2025-12-31</xbrli:endDate></xbrli:period>
+        <xbrli:scenario>
+          <xbrldi:typedMember dimension="pcbcr:NameOfMemberStateOrTaxJurisdictionTypedAxis"><pcbcr:TYP>Deutschland</pcbcr:TYP></xbrldi:typedMember>
+        </xbrli:scenario>
+      </xbrli:context>
+      <xbrli:context id="c_INST_JUR_DE">
+        <xbrli:entity><xbrli:identifier scheme="http://standards.iso.org/iso/17442">52990038IB31TYK07X63</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:instant>2025-12-31</xbrli:instant></xbrli:period>
+        <xbrli:scenario>
+          <xbrldi:typedMember dimension="pcbcr:NameOfMemberStateOrTaxJurisdictionTypedAxis"><pcbcr:TYP>Deutschland</pcbcr:TYP></xbrldi:typedMember>
+        </xbrli:scenario>
+      </xbrli:context>
+      <xbrli:context id="c_DUR_JUR_IT">
+        <xbrli:entity><xbrli:identifier scheme="http://standards.iso.org/iso/17442">52990038IB31TYK07X63</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:startDate>2025-01-01</xbrli:startDate><xbrli:endDate>2025-12-31</xbrli:endDate></xbrli:period>
+        <xbrli:scenario>
+          <xbrldi:typedMember dimension="pcbcr:NameOfMemberStateOrTaxJurisdictionTypedAxis"><pcbcr:TYP>Italien</pcbcr:TYP></xbrldi:typedMember>
+        </xbrli:scenario>
+      </xbrli:context>
+      <xbrli:context id="c_INST_JUR_IT">
+        <xbrli:entity><xbrli:identifier scheme="http://standards.iso.org/iso/17442">52990038IB31TYK07X63</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:instant>2025-12-31</xbrli:instant></xbrli:period>
+        <xbrli:scenario>
+          <xbrldi:typedMember dimension="pcbcr:NameOfMemberStateOrTaxJurisdictionTypedAxis"><pcbcr:TYP>Italien</pcbcr:TYP></xbrldi:typedMember>
+        </xbrli:scenario>
+      </xbrli:context>
+      <xbrli:context id="c_DUR_JUR_PL">
+        <xbrli:entity><xbrli:identifier scheme="http://standards.iso.org/iso/17442">52990038IB31TYK07X63</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:startDate>2025-01-01</xbrli:startDate><xbrli:endDate>2025-12-31</xbrli:endDate></xbrli:period>
+        <xbrli:scenario>
+          <xbrldi:typedMember dimension="pcbcr:NameOfMemberStateOrTaxJurisdictionTypedAxis"><pcbcr:TYP>Polen</pcbcr:TYP></xbrldi:typedMember>
+        </xbrli:scenario>
+      </xbrli:context>
+      <xbrli:context id="c_INST_JUR_PL">
+        <xbrli:entity><xbrli:identifier scheme="http://standards.iso.org/iso/17442">52990038IB31TYK07X63</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:instant>2025-12-31</xbrli:instant></xbrli:period>
+        <xbrli:scenario>
+          <xbrldi:typedMember dimension="pcbcr:NameOfMemberStateOrTaxJurisdictionTypedAxis"><pcbcr:TYP>Polen</pcbcr:TYP></xbrldi:typedMember>
+        </xbrli:scenario>
+      </xbrli:context>
+      <xbrli:context id="c_DUR_JUR_PT">
+        <xbrli:entity><xbrli:identifier scheme="http://standards.iso.org/iso/17442">52990038IB31TYK07X63</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:startDate>2025-01-01</xbrli:startDate><xbrli:endDate>2025-12-31</xbrli:endDate></xbrli:period>
+        <xbrli:scenario>
+          <xbrldi:typedMember dimension="pcbcr:NameOfMemberStateOrTaxJurisdictionTypedAxis"><pcbcr:TYP>Portugal</pcbcr:TYP></xbrldi:typedMember>
+        </xbrli:scenario>
+      </xbrli:context>
+      <xbrli:context id="c_INST_JUR_PT">
+        <xbrli:entity><xbrli:identifier scheme="http://standards.iso.org/iso/17442">52990038IB31TYK07X63</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:instant>2025-12-31</xbrli:instant></xbrli:period>
+        <xbrli:scenario>
+          <xbrldi:typedMember dimension="pcbcr:NameOfMemberStateOrTaxJurisdictionTypedAxis"><pcbcr:TYP>Portugal</pcbcr:TYP></xbrldi:typedMember>
+        </xbrli:scenario>
+      </xbrli:context>
+      <xbrli:context id="c_DUR_JUR_ES">
+        <xbrli:entity><xbrli:identifier scheme="http://standards.iso.org/iso/17442">52990038IB31TYK07X63</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:startDate>2025-01-01</xbrli:startDate><xbrli:endDate>2025-12-31</xbrli:endDate></xbrli:period>
+        <xbrli:scenario>
+          <xbrldi:typedMember dimension="pcbcr:NameOfMemberStateOrTaxJurisdictionTypedAxis"><pcbcr:TYP>Spanien</pcbcr:TYP></xbrldi:typedMember>
+        </xbrli:scenario>
+      </xbrli:context>
+      <xbrli:context id="c_INST_JUR_ES">
+        <xbrli:entity><xbrli:identifier scheme="http://standards.iso.org/iso/17442">52990038IB31TYK07X63</xbrli:identifier></xbrli:entity>
+        <xbrli:period><xbrli:instant>2025-12-31</xbrli:instant></xbrli:period>
+        <xbrli:scenario>
+          <xbrldi:typedMember dimension="pcbcr:NameOfMemberStateOrTaxJurisdictionTypedAxis"><pcbcr:TYP>Spanien</pcbcr:TYP></xbrldi:typedMember>
+        </xbrli:scenario>
+      </xbrli:context>
+      <xbrli:unit id="u_EUR"><xbrli:measure>iso4217:EUR</xbrli:measure></xbrli:unit>
+      <xbrli:unit id="u_pure"><xbrli:measure>xbrli:pure</xbrli:measure></xbrli:unit>
+    </ix:resources>
+  </ix:header>
+</div>
+<div class="page page-portrait">
+  <div class="top"><h1>ERTRAGSTEUERINFORMATIONSBERICHT</h1><div class="report-subtitle">gemäß Kapitel 10a der Richtlinie 2013/34/EU („länderspezifische Berichte“)</div></div>
+  <div class="section">
+    <h2>Introduction</h2>
+    <p class="para">Dieser öffentliche länderbezogene Bericht wurde für die SGL Carbon SE für das Geschäftsjahr vom 1. Januar 2025 bis zum 31. Dezember 2025 erstellt.
+
+Er wurde in Übereinstimmung mit den EU-Vorschriften zur öffentlichen länderbezogenen Berichterstattung und der gemeinsamen Vorlage für Berichte über Einkommensteuerinformationen erstellt. Die Angaben werden in Euro für jeden EU-Mitgliedstaat, in dem der Konzern tätig ist, sowie aggregiert für alle anderen Steuerhoheitsgebiete dargestellt.</p>
+  </div>
+</div>
+<div class="page page-portrait">
+<div class="section"><h2>Abschnitt 1. Allgemeine Angaben</h2>
+<div class="block">
+<table><tbody>
+<tr><td class="s1-label">Name des obersten Mutterunternehmens der Gruppe/des unverbundenen Unternehmens</td><td><ix:nonNumeric id="f1" name="pcbcr:NameOfUltimateParentOfGroupOfStandaloneCompany" contextRef="c_DUR">SGL Carbon SE</ix:nonNumeric></td></tr>
+<tr><td class="s1-label">Land des Unternehmenssitzes des obersten Mutterunternehmens</td><td><ix:nonNumeric id="f2" name="pcbcr:CountryOfRegisteredOfficeOfUltimateParentUndertaking" contextRef="c_DUR">Germany</ix:nonNumeric></td></tr>
+<tr><td class="s1-label">Datum des Beginns des Geschäftsjahrs</td><td><ix:nonNumeric id="f3" name="pcbcr:DateOfStartOfFinancialYear" contextRef="c_DUR">2025-01-01</ix:nonNumeric></td></tr>
+<tr><td class="s1-label">Datum des Endes des Geschäftsjahrs</td><td><ix:nonNumeric id="f4" name="pcbcr:DateOfEndOfFinancialYear" contextRef="c_DUR">2025-12-31</ix:nonNumeric></td></tr>
+<tr><td class="s1-label">Berichtswährung</td><td><ix:nonNumeric id="f5" name="pcbcr:ReportingCurrency" contextRef="c_DUR">EUR</ix:nonNumeric></td></tr>
+<tr><td class="s1-label">Anwendung der Option zur Meldung gemäß den Berichterstattungsvorgaben für Steuerzwecke</td><td><ix:nonNumeric id="f6" name="pcbcr:ApplicationOfOptionToReportInAccordanceWithTaxationReportingInstructions" contextRef="c_INST" format="ixt:fixed-true">true</ix:nonNumeric></td></tr>
+<tr><td class="s1-label">Name und Sitz eines einzelnes Tochterunternehmens, das den Ertragsteuerinformationsbericht eines Unternehmens veröffentlicht hat, das nicht dem Recht eines Mitgliedstaats unterliegt</td><td>-</td></tr>
+<tr><td class="s1-label">Name und Anschrift einer einzelnen Zweigniederlassung, die den Ertragsteuerinformationsbericht eines Unternehmens veröffentlicht hat, das nicht dem Recht eines Mitgliedstaats unterliegt</td><td>-</td></tr>
+<tr><td class="s1-label">Sprache des Berichts</td><td><ix:nonNumeric id="f9" name="pcbcr:LanguageOfReport" contextRef="c_DUR">de</ix:nonNumeric></td></tr>
+</tbody></table></div></div></div>
+<div class="page page-landscape">
+<div class="section"><h2>Abschnitt 2. Überblick über Informationen nach Land</h2>
+<div class='block'><table class="tbl-s2">
+<thead><tr>
+<th>Name des Mitgliedstaats oder Steuerhoheitsgebiets</th>
+<th>Ländercode des Mitgliedstaats oder Steuerhoheitsgebiets</th>
+<th>Erträge</th>
+<th>Gewinn (Verlust) vor Steuern</th>
+<th>Gezahlte Ertragsteuer (auf Kassenbasis)</th>
+<th>Noch zu zahlende Ertragsteuer — laufendes Jahr</th>
+<th>Einbehaltener Gewinn</th>
+<th>Zahl der Beschäftigten</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Österreich</td>
+<td><ix:nonNumeric id="f10" name="pcbcr:CountryCodeOfMemberStateOrTaxJurisdiction" contextRef="c_DUR_JUR_AT">AT</ix:nonNumeric></td>
+<td><ix:nonFraction id="f11" name="pcbcr:Revenues" contextRef="c_DUR_JUR_AT" unitRef="u_EUR" decimals="0" format="ixt:num-dot-decimal">76263947</ix:nonFraction></td>
+<td>-<ix:nonFraction id="f12" name="pcbcr:ProfitLossBeforeTax" contextRef="c_DUR_JUR_AT" unitRef="u_EUR" decimals="0" format="ixt:num-dot-decimal" sign="-">15279250</ix:nonFraction></td>
+<td><ix:nonFraction id="f13" name="pcbcr:IncomeTaxPaidOnCashBasis" contextRef="c_DUR_JUR_AT" unitRef="u_EUR" decimals="0" format="ixt:num-dot-decimal">124089</ix:nonFraction></td>
+<td>-<ix:nonFraction id="f14" name="pcbcr:IncomeTaxAccrued" contextRef="c_DUR_JUR_AT" unitRef="u_EUR" decimals="0" format="ixt:num-dot-decimal" sign="-">6368</ix:nonFraction></td>
+<td>-<ix:nonFraction id="f15" name="pcbcr:AccumulatedEarnings" contextRef="c_INST_JUR_AT" unitRef="u_EUR" decimals="0" format="ixt:num-dot-decimal" sign="-">11919857</ix:nonFraction></td>
+<td><ix:nonFraction id="f16" name="pcbcr:NumberOfEmployees" contextRef="c_INST_JUR_AT" unitRef="u_pure" decimals="0" format="ixt:num-dot-decimal">240</ix:nonFraction></td>
+</tr>
+<tr>
+<td>Frankreich</td>
+<td><ix:nonNumeric id="f17" name="pcbcr:CountryCodeOfMemberStateOrTaxJurisdiction" contextRef="c_DUR_JUR_FR">FR</ix:nonNumeric></td>
+<td><ix:nonFraction id="f18" name="pcbcr:Revenues" contextRef="c_DUR_JUR_FR" unitRef="u_EUR" decimals="0" format="ixt:num-dot-decimal">68087013</ix:nonFraction></td>
+<td><ix:nonFraction id="f19" name="pcbcr:ProfitLossBeforeTax" contextRef="c_DUR_JUR_FR" unitRef="u_EUR" decimals="0" format="ixt:num-dot-decimal">2339392</ix:nonFraction></td>
+<td><ix:nonFraction id="f20" name="pcbcr:IncomeTaxPaidOnCashBasis" contextRef="c_DUR_JUR_FR" unitRef="u_EUR" decimals="0" format="ixt:num-dot-decimal">342117</ix:nonFraction></td>
+<td><ix:nonFraction id="f21" name="pcbcr:IncomeTaxAccrued" contextRef="c_DUR_JUR_FR" unitRef="u_EUR" decimals="0" format="ixt:num-dot-decimal">412423</ix:nonFraction></td>
+<td><ix:nonFraction id="f22" name="pcbcr:AccumulatedEarnings" contextRef="c_INST_JUR_FR" unitRef="u_EUR" decimals="0" format="ixt:num-dot-decimal">10991859</ix:nonFraction></td>
+<td><ix:nonFraction id="f23" name="pcbcr:NumberOfEmployees" contextRef="c_INST_JUR_FR" unitRef="u_pure" decimals="0" format="ixt:num-dot-decimal">239</ix:nonFraction></td>
+</tr>
+<tr>
+<td>Deutschland</td>
+<td><ix:nonNumeric id="f24" name="pcbcr:CountryCodeOfMemberStateOrTaxJurisdiction" contextRef="c_DUR_JUR_DE">DE</ix:nonNumeric></td>
+<td><ix:nonFraction id="f25" name="pcbcr:Revenues" contextRef="c_DUR_JUR_DE" unitRef="u_EUR" decimals="0" format="ixt:num-dot-decimal">585072368</ix:nonFraction></td>
+<td>-<ix:nonFraction id="f26" name="pcbcr:ProfitLossBeforeTax" contextRef="c_DUR_JUR_DE" unitRef="u_EUR" decimals="0" format="ixt:num-dot-decimal" sign="-">419648619</ix:nonFraction></td>
+<td>-<ix:nonFraction id="f27" name="pcbcr:IncomeTaxPaidOnCashBasis" contextRef="c_DUR_JUR_DE" unitRef="u_EUR" decimals="0" format="ixt:num-dot-decimal" sign="-">404921</ix:nonFraction></td>
+<td><ix:nonFraction id="f28" name="pcbcr:IncomeTaxAccrued" contextRef="c_DUR_JUR_DE" unitRef="u_EUR" decimals="0" format="ixt:num-dot-decimal">269273</ix:nonFraction></td>
+<td>-<ix:nonFraction id="f29" name="pcbcr:AccumulatedEarnings" contextRef="c_INST_JUR_DE" unitRef="u_EUR" decimals="0" format="ixt:num-dot-decimal" sign="-">1102933432</ix:nonFraction></td>
+<td><ix:nonFraction id="f30" name="pcbcr:NumberOfEmployees" contextRef="c_INST_JUR_DE" unitRef="u_pure" decimals="0" format="ixt:num-dot-decimal">1864</ix:nonFraction></td>
+</tr>
+<tr>
+<td>Italien</td>
+<td><ix:nonNumeric id="f31" name="pcbcr:CountryCodeOfMemberStateOrTaxJurisdiction" contextRef="c_DUR_JUR_IT">IT</ix:nonNumeric></td>
+<td><ix:nonFraction id="f32" name="pcbcr:Revenues" contextRef="c_DUR_JUR_IT" unitRef="u_EUR" decimals="0" format="ixt:num-dot-decimal">10198767</ix:nonFraction></td>
+<td><ix:nonFraction id="f33" name="pcbcr:ProfitLossBeforeTax" contextRef="c_DUR_JUR_IT" unitRef="u_EUR" decimals="0" format="ixt:num-dot-decimal">1032088</ix:nonFraction></td>
+<td><ix:nonFraction id="f34" name="pcbcr:IncomeTaxPaidOnCashBasis" contextRef="c_DUR_JUR_IT" unitRef="u_EUR" decimals="0" format="ixt:num-dot-decimal">702573</ix:nonFraction></td>
+<td><ix:nonFraction id="f35" name="pcbcr:IncomeTaxAccrued" contextRef="c_DUR_JUR_IT" unitRef="u_EUR" decimals="0" format="ixt:num-dot-decimal">238306</ix:nonFraction></td>
+<td>-<ix:nonFraction id="f36" name="pcbcr:AccumulatedEarnings" contextRef="c_INST_JUR_IT" unitRef="u_EUR" decimals="0" format="ixt:num-dot-decimal" sign="-">49897675</ix:nonFraction></td>
+<td><ix:nonFraction id="f37" name="pcbcr:NumberOfEmployees" contextRef="c_INST_JUR_IT" unitRef="u_pure" decimals="0" format="ixt:num-dot-decimal">23</ix:nonFraction></td>
+</tr>
+<tr>
+<td>Polen</td>
+<td><ix:nonNumeric id="f38" name="pcbcr:CountryCodeOfMemberStateOrTaxJurisdiction" contextRef="c_DUR_JUR_PL">PL</ix:nonNumeric></td>
+<td><ix:nonFraction id="f39" name="pcbcr:Revenues" contextRef="c_DUR_JUR_PL" unitRef="u_EUR" decimals="0" format="ixt:num-dot-decimal">28782581</ix:nonFraction></td>
+<td>-<ix:nonFraction id="f40" name="pcbcr:ProfitLossBeforeTax" contextRef="c_DUR_JUR_PL" unitRef="u_EUR" decimals="0" format="ixt:num-dot-decimal" sign="-">292984</ix:nonFraction></td>
+<td>-<ix:nonFraction id="f41" name="pcbcr:IncomeTaxPaidOnCashBasis" contextRef="c_DUR_JUR_PL" unitRef="u_EUR" decimals="0" format="ixt:num-dot-decimal" sign="-">391844</ix:nonFraction></td>
+<td><ix:nonFraction id="f42" name="pcbcr:IncomeTaxAccrued" contextRef="c_DUR_JUR_PL" unitRef="u_EUR" decimals="0" format="ixt:num-dot-decimal">27065</ix:nonFraction></td>
+<td>-<ix:nonFraction id="f43" name="pcbcr:AccumulatedEarnings" contextRef="c_INST_JUR_PL" unitRef="u_EUR" decimals="0" format="ixt:num-dot-decimal" sign="-">3772102</ix:nonFraction></td>
+<td><ix:nonFraction id="f44" name="pcbcr:NumberOfEmployees" contextRef="c_INST_JUR_PL" unitRef="u_pure" decimals="0" format="ixt:num-dot-decimal">133</ix:nonFraction></td>
+</tr>
+<tr>
+<td>Portugal</td>
+<td><ix:nonNumeric id="f45" name="pcbcr:CountryCodeOfMemberStateOrTaxJurisdiction" contextRef="c_DUR_JUR_PT">PT</ix:nonNumeric></td>
+<td><ix:nonFraction id="f46" name="pcbcr:Revenues" contextRef="c_DUR_JUR_PT" unitRef="u_EUR" decimals="0" format="ixt:num-dot-decimal">37505150</ix:nonFraction></td>
+<td>-<ix:nonFraction id="f47" name="pcbcr:ProfitLossBeforeTax" contextRef="c_DUR_JUR_PT" unitRef="u_EUR" decimals="0" format="ixt:num-dot-decimal" sign="-">32200719</ix:nonFraction></td>
+<td><ix:nonFraction id="f48" name="pcbcr:IncomeTaxPaidOnCashBasis" contextRef="c_DUR_JUR_PT" unitRef="u_EUR" decimals="0" format="ixt:num-dot-decimal">65978</ix:nonFraction></td>
+<td><ix:nonFraction id="f49" name="pcbcr:IncomeTaxAccrued" contextRef="c_DUR_JUR_PT" unitRef="u_EUR" decimals="0" format="ixt:num-dot-decimal">54180</ix:nonFraction></td>
+<td>-<ix:nonFraction id="f50" name="pcbcr:AccumulatedEarnings" contextRef="c_INST_JUR_PT" unitRef="u_EUR" decimals="0" format="ixt:num-dot-decimal" sign="-">196071912</ix:nonFraction></td>
+<td><ix:nonFraction id="f51" name="pcbcr:NumberOfEmployees" contextRef="c_INST_JUR_PT" unitRef="u_pure" decimals="0" format="ixt:num-dot-decimal">187</ix:nonFraction></td>
+</tr>
+<tr>
+<td>Spanien</td>
+<td><ix:nonNumeric id="f52" name="pcbcr:CountryCodeOfMemberStateOrTaxJurisdiction" contextRef="c_DUR_JUR_ES">ES</ix:nonNumeric></td>
+<td><ix:nonFraction id="f53" name="pcbcr:Revenues" contextRef="c_DUR_JUR_ES" unitRef="u_EUR" decimals="0" format="ixt:num-dot-decimal">14335227</ix:nonFraction></td>
+<td><ix:nonFraction id="f54" name="pcbcr:ProfitLossBeforeTax" contextRef="c_DUR_JUR_ES" unitRef="u_EUR" decimals="0" format="ixt:num-dot-decimal">3099799</ix:nonFraction></td>
+<td><ix:nonFraction id="f55" name="pcbcr:IncomeTaxPaidOnCashBasis" contextRef="c_DUR_JUR_ES" unitRef="u_EUR" decimals="0" format="ixt:num-dot-decimal">793543</ix:nonFraction></td>
+<td><ix:nonFraction id="f56" name="pcbcr:IncomeTaxAccrued" contextRef="c_DUR_JUR_ES" unitRef="u_EUR" decimals="0" format="ixt:num-dot-decimal">768692</ix:nonFraction></td>
+<td><ix:nonFraction id="f57" name="pcbcr:AccumulatedEarnings" contextRef="c_INST_JUR_ES" unitRef="u_EUR" decimals="0" format="ixt:num-dot-decimal">2323130</ix:nonFraction></td>
+<td><ix:nonFraction id="f58" name="pcbcr:NumberOfEmployees" contextRef="c_INST_JUR_ES" unitRef="u_pure" decimals="0" format="ixt:num-dot-decimal">42</ix:nonFraction></td>
+</tr>
+<tr class="mx-sep"><td colspan="8">Alle anderen Steuerhoheits-gebiete (auf aggregierter Basis)</td></tr>
+<tr>
+<td class="mx-grey"></td><td class="mx-grey"></td>
+<td><ix:nonFraction id="f59" name="pcbcr:RevenuesOtherTaxJurisdictions" contextRef="c_DUR" unitRef="u_EUR" decimals="0" format="ixt:num-dot-decimal">493131307</ix:nonFraction></td>
+<td><ix:nonFraction id="f60" name="pcbcr:ProfitLossBeforeTaxOtherTaxJurisdictions" contextRef="c_DUR" unitRef="u_EUR" decimals="0" format="ixt:num-dot-decimal">24069201</ix:nonFraction></td>
+<td><ix:nonFraction id="f61" name="pcbcr:IncomeTaxPaidOnCashBasisOtherTaxJurisdictions" contextRef="c_DUR" unitRef="u_EUR" decimals="0" format="ixt:num-dot-decimal">6359444</ix:nonFraction></td>
+<td><ix:nonFraction id="f62" name="pcbcr:IncomeTaxAccruedOtherTaxJurisdictions" contextRef="c_DUR" unitRef="u_EUR" decimals="0" format="ixt:num-dot-decimal">5651762</ix:nonFraction></td>
+<td>-<ix:nonFraction id="f63" name="pcbcr:AccumulatedEarningsOtherTaxJurisdictions" contextRef="c_INST" unitRef="u_EUR" decimals="0" format="ixt:num-dot-decimal" sign="-">1417279848</ix:nonFraction></td>
+<td><ix:nonFraction id="f64" name="pcbcr:NumberOfEmployeesOtherTaxJurisdictions" contextRef="c_INST" unitRef="u_pure" decimals="0" format="ixt:num-dot-decimal">1307</ix:nonFraction></td>
+</tr>
+</tbody>
+</table></div></div></div>
+<div class="page page-landscape">
+<div class="section"><h2>Abschnitt 3. Liste von Tochterunternehmen und Tätigkeiten</h2>
+<div class='block'><table><thead><tr><th>Name des Mitgliedstaats oder Steuerhoheitsgebiets</th><th>Ländercode des Mitgliedstaats oder Steuerhoheitsgebiets</th><th>Namen in den konsolidierten Abschluss des obersten Mutterunternehmens einbezogener Tochterunternehmen</th><th>Kurze Beschreibung der Art der Tätigkeiten im Mitgliedstaat oder Steuerhoheitsgebiet nach Ländern</th></tr></thead><tbody>
+<tr><td>Österreich</td>
+<td><ix:nonNumeric id="f65" name="pcbcr:CountryCodeOfMemberStateOrTaxJurisdiction" contextRef="c_DUR_JUR_AT">AT</ix:nonNumeric></td>
+<td class="s3-subs"><ix:nonNumeric id="f66" name="pcbcr:DisclosureOfNamesOfSubsidiaryUndertakingsConsolidatedInFinancialStatementsOfUltimateParentUndertakingExplanatory" contextRef="c_DUR_JUR_AT">SGL Composites GmbH</ix:nonNumeric></td>
+<td><ix:nonNumeric id="f67" name="pcbcr:DescriptionOfNatureOfActivitiesOfSubsidiaryUndertakingsInMemberStateOrTaxJurisdictionExplanatory" contextRef="c_DUR_JUR_AT">Verarbeitung oder Produktion
+Verkauf, Marketing oder Vertrieb</ix:nonNumeric></td>
+</tr>
+<tr><td>Frankreich</td>
+<td><ix:nonNumeric id="f68" name="pcbcr:CountryCodeOfMemberStateOrTaxJurisdiction" contextRef="c_DUR_JUR_FR">FR</ix:nonNumeric></td>
+<td class="s3-subs"><ix:nonNumeric id="f69" name="pcbcr:DisclosureOfNamesOfSubsidiaryUndertakingsConsolidatedInFinancialStatementsOfUltimateParentUndertakingExplanatory" contextRef="c_DUR_JUR_FR">SGL CARBON S.A.S.
+SGL Carbon Technic S.A.S.</ix:nonNumeric></td>
+<td><ix:nonNumeric id="f70" name="pcbcr:DescriptionOfNatureOfActivitiesOfSubsidiaryUndertakingsInMemberStateOrTaxJurisdictionExplanatory" contextRef="c_DUR_JUR_FR">Verarbeitung oder Produktion
+Verkauf, Marketing oder Vertrieb</ix:nonNumeric></td>
+</tr>
+<tr><td>Deutschland</td>
+<td><ix:nonNumeric id="f71" name="pcbcr:CountryCodeOfMemberStateOrTaxJurisdiction" contextRef="c_DUR_JUR_DE">DE</ix:nonNumeric></td>
+<td class="s3-subs"><ix:nonNumeric id="f72" name="pcbcr:DisclosureOfNamesOfSubsidiaryUndertakingsConsolidatedInFinancialStatementsOfUltimateParentUndertakingExplanatory" contextRef="c_DUR_JUR_DE">Dr. Schnabel GmbH
+SGL Battery Solutions GmbH
+SGL Carbon Asset GmbH
+SGL CARBON Beteiligung GmbH
+SGL Carbon Fibers GmbH
+SGL CARBON GmbH
+SGL Carbon SE
+SGL Composites Materials Germany GmbH
+SGL epo GmbH
+SGL Fuel Cell Components GmbH
+SGL TECHNOLOGIES GmbH
+SGL/A&amp;R Immobiliengesellschaft Lemwerder mbH
+SGL/A&amp;R Real Estate Lemwerder GmbH &amp; Co. KG
+SGL/A&amp;R Services Lemwerder GmbH</ix:nonNumeric></td>
+<td><ix:nonNumeric id="f73" name="pcbcr:DescriptionOfNatureOfActivitiesOfSubsidiaryUndertakingsInMemberStateOrTaxJurisdictionExplanatory" contextRef="c_DUR_JUR_DE">Verarbeitung oder Produktion
+Besitz oder Halten von Anteilen oder anderen Beteiligungstiteln
+Forschung und Entwicklung
+Einkauf oder Beschaffung
+Verkauf, Marketing oder Vertrieb
+Verwaltungs-, Management- oder Supportleistungen
+Besitz oder Verwaltung von geistigem Eigentum
+Interne Konzernfinanzierung</ix:nonNumeric></td>
+</tr>
+<tr><td>Italien</td>
+<td><ix:nonNumeric id="f74" name="pcbcr:CountryCodeOfMemberStateOrTaxJurisdiction" contextRef="c_DUR_JUR_IT">IT</ix:nonNumeric></td>
+<td class="s3-subs"><ix:nonNumeric id="f75" name="pcbcr:DisclosureOfNamesOfSubsidiaryUndertakingsConsolidatedInFinancialStatementsOfUltimateParentUndertakingExplanatory" contextRef="c_DUR_JUR_IT">SGL CARBON S.p.A. in liquidazione (i.L.)
+SGL Graphite Verdello S.r.l.</ix:nonNumeric></td>
+<td><ix:nonNumeric id="f76" name="pcbcr:DescriptionOfNatureOfActivitiesOfSubsidiaryUndertakingsInMemberStateOrTaxJurisdictionExplanatory" contextRef="c_DUR_JUR_IT">Verarbeitung oder Produktion</ix:nonNumeric></td>
+</tr>
+<tr><td>Polen</td>
+<td><ix:nonNumeric id="f77" name="pcbcr:CountryCodeOfMemberStateOrTaxJurisdiction" contextRef="c_DUR_JUR_PL">PL</ix:nonNumeric></td>
+<td class="s3-subs"><ix:nonNumeric id="f78" name="pcbcr:DisclosureOfNamesOfSubsidiaryUndertakingsConsolidatedInFinancialStatementsOfUltimateParentUndertakingExplanatory" contextRef="c_DUR_JUR_PL">SGL GRAPHITE SOLUTIONS POLSKA sp. z o.o.</ix:nonNumeric></td>
+<td><ix:nonNumeric id="f79" name="pcbcr:DescriptionOfNatureOfActivitiesOfSubsidiaryUndertakingsInMemberStateOrTaxJurisdictionExplanatory" contextRef="c_DUR_JUR_PL">Verarbeitung oder Produktion</ix:nonNumeric></td>
+</tr>
+<tr><td>Portugal</td>
+<td><ix:nonNumeric id="f80" name="pcbcr:CountryCodeOfMemberStateOrTaxJurisdiction" contextRef="c_DUR_JUR_PT">PT</ix:nonNumeric></td>
+<td class="s3-subs"><ix:nonNumeric id="f81" name="pcbcr:DisclosureOfNamesOfSubsidiaryUndertakingsConsolidatedInFinancialStatementsOfUltimateParentUndertakingExplanatory" contextRef="c_DUR_JUR_PT">SGL BUSINESS SERVICES, UNIPESSOAL, LDA
+SGL Composites S.A.</ix:nonNumeric></td>
+<td><ix:nonNumeric id="f82" name="pcbcr:DescriptionOfNatureOfActivitiesOfSubsidiaryUndertakingsInMemberStateOrTaxJurisdictionExplanatory" contextRef="c_DUR_JUR_PT">Verwaltungs-, Management- oder Supportleistungen
+Verarbeitung oder Produktion
+Verkauf, Marketing oder Vertrieb</ix:nonNumeric></td>
+</tr>
+<tr><td>Spanien</td>
+<td><ix:nonNumeric id="f83" name="pcbcr:CountryCodeOfMemberStateOrTaxJurisdiction" contextRef="c_DUR_JUR_ES">ES</ix:nonNumeric></td>
+<td class="s3-subs"><ix:nonNumeric id="f84" name="pcbcr:DisclosureOfNamesOfSubsidiaryUndertakingsConsolidatedInFinancialStatementsOfUltimateParentUndertakingExplanatory" contextRef="c_DUR_JUR_ES">SGL GELTER S.A.</ix:nonNumeric></td>
+<td><ix:nonNumeric id="f85" name="pcbcr:DescriptionOfNatureOfActivitiesOfSubsidiaryUndertakingsInMemberStateOrTaxJurisdictionExplanatory" contextRef="c_DUR_JUR_ES">Verarbeitung oder Produktion
+Verkauf, Marketing oder Vertrieb</ix:nonNumeric></td>
+</tr>
+</tbody></table></div></div></div>
+<div class="page page-portrait">
+<div class="section"><h2>Abschnitt 4. Nicht aufgenommene Informationen</h2>
+<div class="block"><table><thead><tr><th colspan="3">Angabe der Art nicht aufgenommener Informationen</th></tr><tr><th>Nicht aufgenommene Informationen</th><th>Nicht aufgenommene Informationen, andere Steuerhoheitsgebiete</th><th>Begründung der Nichtaufnahme von Informationen</th></tr></thead><tbody>
+<tr><td>-</td><td>-</td><td>-</td></tr>
+<tr><th colspan="3">Offenlegung von in früheren Geschäftsjahren nicht aufgenommenen Informationen</th></tr>
+<tr><td colspan="3">-</td></tr>
+</tbody></table></div></div></div>
+<div class="page page-portrait">
+<div class="section"><h2>Abschnitt 5. Erläuterungen zu wesentlichen Diskrepanzen zwischen gezahlten und noch zu zahlenden Ertragsteuern</h2>
+<div class="block">
+<table><thead><tr><th colspan="2">Erläuterungen zu wesentlichen Diskrepanzen zwischen gezahlten und noch zu zahlenden Ertragsteuern</th></tr></thead><tbody>
+<tr><td colspan="2">-</td></tr>
+</tbody></table></div></div></div>
+</body></html>

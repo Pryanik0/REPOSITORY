@@ -1,0 +1,58 @@
+{
+  "provider": "kununu",
+  "backend": "browser",
+  "status": "ok",
+  "query": "Berg-Energie",
+  "profile": {
+    "url": "https://www.kununu.com/de/berg-energiekontrolle",
+    "name": "Berg Energiekontrolle",
+    "overall_score": 3.2,
+    "review_count": 6,
+    "recommendation_percent": null,
+    "recommendation_period": "last_2_years",
+    "observed_at": "2026-11-25T17:17:45.518538+00:00"
+  },
+  "reviews": [],
+  "review_limit": 15,
+  "review_period": {
+    "since": "2024-11-25T00:00:00+00:00",
+    "until": "2026-11-25T17:17:43.717496+00:00",
+    "date_field": "published_at",
+    "missing_dates": "excluded"
+  },
+  "factor_scores_aggregated": {},
+  "coverage": "bounded_employee_review_sample_last_2_years_not_all_reviews",
+  "diagnostics": {
+    "pages": [
+      {
+        "page": "reviews",
+        "page_number": 1,
+        "load_more_clicks": 0,
+        "requested_url": "https://www.kununu.com/de/berg-energiekontrolle/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Berg-Energie-5a43e776\\browser\\reviews.html",
+        "browser_step": 131,
+        "final_url": "https://www.kununu.com/de/berg-energiekontrolle/kommentare",
+        "observed_at": "2026-11-25T17:17:45.147497+00:00",
+        "http_status": 200,
+        "factor_cards_expanded": 4,
+        "reviews_collected": 0
+      }
+    ]
+  },
+  "source_url": "https://www.kununu.com/de/berg-energiekontrolle",
+  "profile_source": "https://www.kununu.com/de/berg-energiekontrolle/kommentare",
+  "review_stop_reason": "end_of_available_reviews",
+  "factor_score_coverage": {
+    "reviews_with_scores": 0,
+    "reviews_without_scores": 0,
+    "reviews_with_all_known_scores": 0,
+    "status": "no_reviews"
+  },
+  "request_limits": {
+    "max_browser_steps": 295,
+    "browser_steps": 131,
+    "zyte_requests": 0
+  },
+  "reason": null
+}

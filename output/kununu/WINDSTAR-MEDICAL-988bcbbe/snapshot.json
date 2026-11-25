@@ -1,0 +1,131 @@
+{
+  "provider": "kununu",
+  "backend": "browser",
+  "status": "ok",
+  "query": "WindStar Medical GmbH",
+  "profile": {
+    "url": "https://www.kununu.com/de/windstar-medical1",
+    "name": "WindStar Medical GmbH",
+    "overall_score": 3.2,
+    "review_count": 40,
+    "recommendation_percent": 100,
+    "recommendation_period": "last_2_years",
+    "observed_at": "2026-11-25T17:13:55.128472+00:00"
+  },
+  "reviews": [
+    {
+      "id": "24b880ff-cffe-44c2-b6fb-27615e3bc540",
+      "url": "https://www.kununu.com/de/windstar-medical1/bewertung/24b880ff-cffe-44c2-b6fb-27615e3bc540",
+      "title": "Zu empfehlender Arbeitgeber",
+      "content": "",
+      "rating": 4.6,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-09-04T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    }
+  ],
+  "review_limit": 15,
+  "review_period": {
+    "since": "2024-11-25T00:00:00+00:00",
+    "until": "2026-11-25T17:13:52.613285+00:00",
+    "date_field": "published_at",
+    "missing_dates": "excluded"
+  },
+  "factor_scores_aggregated": {},
+  "coverage": "bounded_employee_review_sample_last_2_years_not_all_reviews",
+  "diagnostics": {
+    "pages": [
+      {
+        "page": "reviews",
+        "page_number": 1,
+        "load_more_clicks": 0,
+        "requested_url": "https://www.kununu.com/de/windstar-medical1/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\WINDSTAR-MEDICAL-988bcbbe\\browser\\reviews.html",
+        "browser_step": 12,
+        "final_url": "https://www.kununu.com/de/windstar-medical1/kommentare",
+        "observed_at": "2026-11-25T17:13:54.537287+00:00",
+        "http_status": 200,
+        "factor_cards_expanded": 6,
+        "reviews_collected": 0
+      },
+      {
+        "page": "reviews",
+        "page_number": 2,
+        "load_more_clicks": 1,
+        "requested_url": "https://www.kununu.com/de/windstar-medical1/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\WINDSTAR-MEDICAL-988bcbbe\\browser\\reviews-2.html",
+        "browser_step": 13,
+        "final_url": "https://www.kununu.com/de/windstar-medical1/kommentare",
+        "observed_at": "2026-11-25T17:13:56.402197+00:00",
+        "actions_complete": true,
+        "factor_cards_expanded": 4,
+        "reviews_collected": 0
+      },
+      {
+        "page": "reviews",
+        "page_number": 3,
+        "load_more_clicks": 2,
+        "requested_url": "https://www.kununu.com/de/windstar-medical1/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\WINDSTAR-MEDICAL-988bcbbe\\browser\\reviews-3.html",
+        "browser_step": 14,
+        "final_url": "https://www.kununu.com/de/windstar-medical1/kommentare",
+        "observed_at": "2026-11-25T17:13:58.208847+00:00",
+        "actions_complete": true,
+        "reviews_collected": 0
+      },
+      {
+        "page": "reviews",
+        "page_number": 4,
+        "load_more_clicks": 3,
+        "requested_url": "https://www.kununu.com/de/windstar-medical1/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\WINDSTAR-MEDICAL-988bcbbe\\browser\\reviews-4.html",
+        "browser_step": 15,
+        "final_url": "https://www.kununu.com/de/windstar-medical1/kommentare",
+        "observed_at": "2026-11-25T17:14:00.398676+00:00",
+        "actions_complete": true,
+        "reviews_collected": 1
+      }
+    ]
+  },
+  "source_url": "https://www.kununu.com/de/windstar-medical1",
+  "profile_source": "https://www.kununu.com/de/windstar-medical1/kommentare",
+  "review_stop_reason": "end_of_available_reviews",
+  "factor_score_coverage": {
+    "reviews_with_scores": 0,
+    "reviews_without_scores": 1,
+    "reviews_with_all_known_scores": 0,
+    "status": "unavailable"
+  },
+  "request_limits": {
+    "max_browser_steps": 295,
+    "browser_steps": 15,
+    "zyte_requests": 0
+  },
+  "reason": null
+}

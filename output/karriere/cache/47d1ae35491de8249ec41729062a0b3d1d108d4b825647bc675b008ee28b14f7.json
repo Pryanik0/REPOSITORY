@@ -1,0 +1,9 @@
+{
+  "url": "https://www.recormedical.com/robots.txt",
+  "final_url": "https://www.recormedical.com/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "fetched_at": "2026-11-25T16:02:27.998461+00:00",
+  "text": "User-agent: *\nDisallow: /wp-admin/\nAllow: /wp-admin/admin-ajax.php\nCrawl-delay: 10\n\nSitemap: https://www.recormedical.com/sitemap_index.xml"
+}

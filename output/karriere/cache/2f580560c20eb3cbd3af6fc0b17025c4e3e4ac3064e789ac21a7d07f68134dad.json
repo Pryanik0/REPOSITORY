@@ -1,0 +1,9 @@
+{
+  "url": "https://karriere.link-ortho.com/robots.txt",
+  "final_url": "https://karriere.link-ortho.com/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/plain",
+  "fetched_at": "2026-11-25T16:07:23.406163+00:00",
+  "text": "User-Agent: *\nAllow: /\nDisallow: /admin\nDisallow: /api\nDisallow: /graphql\nDisallow: /graphql-playground\n\nSitemap: https://karriere.link-ortho.com/sitemap.xml\n"
+}

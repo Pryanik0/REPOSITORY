@@ -1,0 +1,736 @@
+{
+  "provider": "kununu",
+  "backend": "browser",
+  "status": "ok",
+  "query": "simpleclub",
+  "profile": {
+    "url": "https://www.kununu.com/de/simpleclub",
+    "name": "simpleclub",
+    "overall_score": 4.1,
+    "review_count": 88,
+    "recommendation_percent": 64,
+    "recommendation_period": "last_2_years",
+    "observed_at": "2026-11-25T17:19:16.269305+00:00"
+  },
+  "reviews": [
+    {
+      "id": "94a24b33-420f-4f3f-8253-2d0b97456f32",
+      "url": "https://www.kununu.com/de/simpleclub/bewertung/94a24b33-420f-4f3f-8253-2d0b97456f32",
+      "title": "Tolles Team, sinnstiftende Mission und Leistungskultur",
+      "content": "Die Arbeitsatmosphäre ist durch ein hohes Maß an Vertrauen geprägt. Man bekommt von Anfang an einen Vertrauensvorschuss und genießt große Freiheiten bei der Gestaltung der eigenen Arbeit. Solange die Ergebnisse und Anforderungen stimmen, kann jeder seinen individuellen Weg wählen. Gleichzeitig herrscht eine Kultur, in der man bei Fragen oder Problemen jederzeit Unterstützung von Kollegen und Vorgesetzten erhält.\n\nDas Image ist extrem positiv. Man arbeitet an einer echten Mission – der Digitalisierung der Ausbildung – und spürt täglich den Sinn hinter den eigenen Aufgaben. Es macht stolz, ein Produkt zu vertreten, das einen echten Mehrwert stiftet.\n\nDie Work-Life-Balance ist hervorragend und von maximaler Flexibilität geprägt. Arbeitszeiten können völlig frei eingeteilt werden – wer eine längere Mittagspause für Sport nutzen, früher starten oder abends noch etwas erledigen möchte, kann das problemlos tun (bei Kundenkontakt orientiert man sich natürlich entsprechend). Auch beim Thema Urlaub genießt man volles Vertrauen: Es gibt kein starr vorgegebenes Limit, solange die Leistung stimmt und die Ergebnisse geliefert werden.\n\nDurch die transparenten Stufenmodelle gibt es klare Entwicklungspfade im Unternehmen. Junge Mitarbeiter bekommen früh die Chance, Führungsverantwortung zu übernehmen und sich fachlich wie persönlich weiterzuentwickeln.\n\nDas Gehaltsgefüge ist fair und durch klare Gehaltsbänder transparent aufgebaut. Über klar definierte Entwicklungsstufen im Job kann man sich systematisch gehaltlich weiterentwickeln. Die Auszahlung erfolgt immer pünktlich. Im Vertrieb setzt sich das Gehalt aus Fixum und variablen Anteilen zusammen, die an die Team-Performance gekoppelt sind – das stärkt zusätzlich den Zusammenhalt. Abgerundet wird das Paket durch Benefits wie den EGYM Wellpass oder Gutscheine.\n\nDadurch, dass wir zu 100 % remote arbeiten, entfallen tägliche Pendelwege komplett, was CO₂ einspart. Zudem arbeiten wir als digitales Unternehmen nahezu papierlos und ohne physischen Güterverkehr, was automatisch zu einem nachhaltigen und ressourcenschonenden Unternehmensmodell beiträgt.\n\nDer Zusammenhalt im Team ist stark. Neben regelmäßigen Austauschterminen kann man sich auch zwischendurch jederzeit unkompliziert an die Kollegen wenden. Die Hilfsbereitschaft untereinander ist hoch und der Umgang miteinander sehr freundlich.\n\nObwohl wir ein insgesamt sehr junges Team sind, spielen Alter oder Betriebszugehörigkeit im Umgang miteinander absolut keine Rolle. Erfahrene Kollegen begegnen neuen Teammitgliedern auf Augenhöhe, und umgekehrt wird deren Erfahrung genauso geschätzt. Das Miteinander ist durchweg kollegial und respektvoll.\n\nDas Vorgesetztenverhalten ist absolut fair und transparent. Erwartungen werden klar formuliert, aber man wird mit den Aufgaben nie alleine gelassen. Die Führungskräfte fordern und fördern einen gleichermaßen und unterstützen aktiv dabei, die gesetzten Ziele zu erreichen.\n\nZum Start erhält man ein modernes technisches Equipment für das Homeoffice. Sollte man darüber hinaus weiteres Zubehör benötigen, kann dies unkompliziert angefragt werden. Da es sich um ein reines Remote-Unternehmen handelt, lässt sich der Arbeitsplatz zu Hause optimal nach den eigenen Bedürfnissen gestalten.\n\nDie Kommunikation hervorragend strukturiert, gerade weil es ein reines Remote-Unternehmen ist. Es gibt klare Prozesse und man wird kontinuierlich up to date gehalten. Die Kommunikation findet absolut auf Augenhöhe und sehr wertschätzend statt. Da in einer digitalen Arbeitsumgebung proaktiver Austausch entscheidend ist, wird dieser hier gelebt und gefördert.\n\nChancengleichheit wird hier großgeschrieben – Geschlecht oder Hintergrund spielen keine Rolle. Wir sind insgesamt ein sehr junges Team, in dem auch junge Talente früh Führung verankern und Verantwortung übernehmen können.\n\nDie Aufgaben sind abwechslungsreich und vielfältig. Neben den kernspezifischen Tätigkeiten der jeweiligen Rolle gibt es immer wieder die Möglichkeit, sich in internen sowie externen Projekten einzubringen und mitzugestalten.",
+      "rating": 5.0,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Die Arbeitsatmosphäre ist durch ein hohes Maß an Vertrauen geprägt. Man bekommt von Anfang an einen Vertrauensvorschuss und genießt große Freiheiten bei der Gestaltung der eigenen Arbeit. Solange die Ergebnisse und Anforderungen stimmen, kann jeder seinen individuellen Weg wählen. Gleichzeitig herrscht eine Kultur, in der man bei Fragen oder Problemen jederzeit Unterstützung von Kollegen und Vorgesetzten erhält.",
+        "image": "Das Image ist extrem positiv. Man arbeitet an einer echten Mission – der Digitalisierung der Ausbildung – und spürt täglich den Sinn hinter den eigenen Aufgaben. Es macht stolz, ein Produkt zu vertreten, das einen echten Mehrwert stiftet.",
+        "workLife": "Die Work-Life-Balance ist hervorragend und von maximaler Flexibilität geprägt. Arbeitszeiten können völlig frei eingeteilt werden – wer eine längere Mittagspause für Sport nutzen, früher starten oder abends noch etwas erledigen möchte, kann das problemlos tun (bei Kundenkontakt orientiert man sich natürlich entsprechend). Auch beim Thema Urlaub genießt man volles Vertrauen: Es gibt kein starr vorgegebenes Limit, solange die Leistung stimmt und die Ergebnisse geliefert werden.",
+        "career": "Durch die transparenten Stufenmodelle gibt es klare Entwicklungspfade im Unternehmen. Junge Mitarbeiter bekommen früh die Chance, Führungsverantwortung zu übernehmen und sich fachlich wie persönlich weiterzuentwickeln.",
+        "salary": "Das Gehaltsgefüge ist fair und durch klare Gehaltsbänder transparent aufgebaut. Über klar definierte Entwicklungsstufen im Job kann man sich systematisch gehaltlich weiterentwickeln. Die Auszahlung erfolgt immer pünktlich. Im Vertrieb setzt sich das Gehalt aus Fixum und variablen Anteilen zusammen, die an die Team-Performance gekoppelt sind – das stärkt zusätzlich den Zusammenhalt. Abgerundet wird das Paket durch Benefits wie den EGYM Wellpass oder Gutscheine.",
+        "environment": "Dadurch, dass wir zu 100 % remote arbeiten, entfallen tägliche Pendelwege komplett, was CO₂ einspart. Zudem arbeiten wir als digitales Unternehmen nahezu papierlos und ohne physischen Güterverkehr, was automatisch zu einem nachhaltigen und ressourcenschonenden Unternehmensmodell beiträgt.",
+        "teamwork": "Der Zusammenhalt im Team ist stark. Neben regelmäßigen Austauschterminen kann man sich auch zwischendurch jederzeit unkompliziert an die Kollegen wenden. Die Hilfsbereitschaft untereinander ist hoch und der Umgang miteinander sehr freundlich.",
+        "oldColleagues": "Obwohl wir ein insgesamt sehr junges Team sind, spielen Alter oder Betriebszugehörigkeit im Umgang miteinander absolut keine Rolle. Erfahrene Kollegen begegnen neuen Teammitgliedern auf Augenhöhe, und umgekehrt wird deren Erfahrung genauso geschätzt. Das Miteinander ist durchweg kollegial und respektvoll.",
+        "leadership": "Das Vorgesetztenverhalten ist absolut fair und transparent. Erwartungen werden klar formuliert, aber man wird mit den Aufgaben nie alleine gelassen. Die Führungskräfte fordern und fördern einen gleichermaßen und unterstützen aktiv dabei, die gesetzten Ziele zu erreichen.",
+        "workConditions": "Zum Start erhält man ein modernes technisches Equipment für das Homeoffice. Sollte man darüber hinaus weiteres Zubehör benötigen, kann dies unkompliziert angefragt werden. Da es sich um ein reines Remote-Unternehmen handelt, lässt sich der Arbeitsplatz zu Hause optimal nach den eigenen Bedürfnissen gestalten.",
+        "communication": "Die Kommunikation hervorragend strukturiert, gerade weil es ein reines Remote-Unternehmen ist. Es gibt klare Prozesse und man wird kontinuierlich up to date gehalten. Die Kommunikation findet absolut auf Augenhöhe und sehr wertschätzend statt. Da in einer digitalen Arbeitsumgebung proaktiver Austausch entscheidend ist, wird dieser hier gelebt und gefördert.",
+        "equality": "Chancengleichheit wird hier großgeschrieben – Geschlecht oder Hintergrund spielen keine Rolle. Wir sind insgesamt ein sehr junges Team, in dem auch junge Talente früh Führung verankern und Verantwortung übernehmen können.",
+        "tasks": "Die Aufgaben sind abwechslungsreich und vielfältig. Neben den kernspezifischen Tätigkeiten der jeweiligen Rolle gibt es immer wieder die Möglichkeit, sich in internen sowie externen Projekten einzubringen und mitzugestalten."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-08-04T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "24cf00bd-d959-411a-a701-760102b0cad9",
+      "url": "https://www.kununu.com/de/simpleclub/bewertung/24cf00bd-d959-411a-a701-760102b0cad9",
+      "title": "Wirklich cooler junger Arbeitgeber",
+      "content": "Es gibt enorm viele Vorteile, die man als Arbeitnehmer erhält. Sei es die gesamte Ausstattung oder monatliche steuerfreie Bonus Geschenke.\n\n-\n\nSimpleclub bezeichnet sich immernoch als Startup nach nun über 10 Jahren in Geschäft. Das macht es mancherorts einfach, niedrigere Gehälter zu rechtfertigen.",
+      "rating": 4.2,
+      "sections": {
+        "positive": "Es gibt enorm viele Vorteile, die man als Arbeitnehmer erhält. Sei es die gesamte Ausstattung oder monatliche steuerfreie Bonus Geschenke.",
+        "negative": "-",
+        "suggestion": "Simpleclub bezeichnet sich immernoch als Startup nach nun über 10 Jahren in Geschäft. Das macht es mancherorts einfach, niedrigere Gehälter zu rechtfertigen."
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 5.0,
+        "communication": 4.0,
+        "workConditions": 4.0,
+        "leadership": 4.0,
+        "teamwork": 5.0,
+        "oldColleagues": 4.0,
+        "equality": 5.0,
+        "career": 3.0,
+        "salary": 5.0,
+        "image": 4.0,
+        "environment": 5.0,
+        "tasks": 3.0
+      },
+      "published_at": "2025-08-12T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "a1ff0bc3-20a1-4a1d-87a7-04d04a072b5d",
+      "url": "https://www.kununu.com/de/simpleclub/bewertung/a1ff0bc3-20a1-4a1d-87a7-04d04a072b5d",
+      "title": "Der beste Arbeitgeber – motivierend, dynamisch & voller Chancen",
+      "content": "Was ich besonders schätze, ist das tolle Arbeitsumfeld, in dem man sich richtig entfalten kann. Das Team ist super unterstützend und die Kommunikation läuft offen und transparent. Es gibt ständig spannende Aufgaben, die mich herausfordern und weiterbringen. Dazu kommt die Flexibilität bei der Arbeit und das Gefühl, dass die Führungskräfte wirklich hinter einem stehen. Ich fühle mich hier nicht nur wohl, sondern richtig wertgeschätzt und als wichtiger Teil des Teams.\n\nDie Stimmung ist einfach top. Man merkt, dass hier alle leidenschaftlich bei der Sache sind. Es wird offen geredet und Erfolge feiert man gemeinsam.\n\nIch bin stolz, Teil einer so wichtigen Mission zu sein. Jeden Tag setzen wir uns mit Leidenschaft dafür ein, Bildung zugänglicher zu machen und das Leben der Menschen nachhaltig zu verändern.\n\nFlexible Arbeitszeiten ohne feste Kernzeiten geben mir die Möglichkeit, meinen Arbeitstag eigenverantwortlich und flexibel zu gestalten. 100% Remote Work, was mir viel Freiheit bringt. Gleichzeitig gibt es immer wieder richtig schöne Teamevents, bei denen wir uns persönlich treffen und der Zusammenhalt im Team ganz natürlich wächst.\n\nIch schätze die regelmäßigen Entwicklungsgespräche, in denen wir meine Karriereziele besprechen. Dabei bekomme ich viel Unterstützung von meiner Vorgesetzten, um meine Pläne in die Tat umzusetzen. Spannende neue Aufgaben und Projekte geben mir immer wieder die Chance, mich persönlich und fachlich weiterzuentwickeln.\n\nIch bin mit meinem Gehalt zufrieden. Die Gehaltsbänder werden transparent kommuniziert, was für viel Klarheit sorgt. Zusätzlich erhalten Benefits wie Wellpass sowie monatliche Gutscheine zur freien Wahl.\n\nDer Zusammenhalt im Team ist richtig stark. Man spürt, dass jeder füreinander da ist und man sich wirklich aufeinander verlassen kann. Wissen wird miteinander geteilt und wenn es mal brennt, zieht das ganze Team an einem Strang. Neue Kollegen werden mit offenen Armen aufgenommen und fühlen sich schnell willkommen.\n\nDas Team ist insgesamt eher jung. Trotzdem schätzen alle sowohl langjährige als auch neue Kollegen sehr.\n\nMeine Führungskraft hat eine klare Vision, die mich inspiriert und motiviert, in meiner eigenen Arbeit mein Bestes zu geben. Ihre Kommunikation ist offen und ehrlich, wodurch immer Klarheit herrscht und man sich gut aufgehoben fühlt. Bei Fragen oder Herausforderungen unterstützt sie mich jederzeit proaktiv und steht mit Rat und Tat zur Seite. Es ist toll zu wissen, dass wir mit dem, was wir tun, wirklich etwas bewegen und verändern können. Ihre Unterstützung und ihr Engagement machen die Zusammenarbeit für mich besonders wertvoll.\n\nDie Kommunikation ist sehr transparent. Wir haben regelmäßige Unternehmens-Calls, in denen alle wichtigen Updates offen besprochen werden. Auch im Team selbst sind die Führungskräfte transparent und teilen relevante Infos, sodass man immer auf dem aktuellen Stand ist.\n\nBei simpleclub wird Gleichberechtigung wirklich gelebt. Jeder wird wertgeschätzt und respektvoll behandelt – unabhängig von Geschlecht, Herkunft oder Hintergrund. Es herrscht eine offene Atmosphäre, in der sich alle frei entfalten können.\n\nIch habe immer wieder die Chance, an neuen Projekten zu arbeiten, wodurch mein Job niemals langweilig wird. Dabei wachse ich ständig über mich hinaus. Besonders schön ist, dass ich meine eigenen Ideen und Verbesserungsvorschläge einbringen kann und aktiv an deren Umsetzung arbeite.",
+      "rating": 5.0,
+      "sections": {
+        "positive": "Was ich besonders schätze, ist das tolle Arbeitsumfeld, in dem man sich richtig entfalten kann. Das Team ist super unterstützend und die Kommunikation läuft offen und transparent. Es gibt ständig spannende Aufgaben, die mich herausfordern und weiterbringen. Dazu kommt die Flexibilität bei der Arbeit und das Gefühl, dass die Führungskräfte wirklich hinter einem stehen. Ich fühle mich hier nicht nur wohl, sondern richtig wertgeschätzt und als wichtiger Teil des Teams.",
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Die Stimmung ist einfach top. Man merkt, dass hier alle leidenschaftlich bei der Sache sind. Es wird offen geredet und Erfolge feiert man gemeinsam.",
+        "image": "Ich bin stolz, Teil einer so wichtigen Mission zu sein. Jeden Tag setzen wir uns mit Leidenschaft dafür ein, Bildung zugänglicher zu machen und das Leben der Menschen nachhaltig zu verändern.",
+        "workLife": "Flexible Arbeitszeiten ohne feste Kernzeiten geben mir die Möglichkeit, meinen Arbeitstag eigenverantwortlich und flexibel zu gestalten. 100% Remote Work, was mir viel Freiheit bringt. Gleichzeitig gibt es immer wieder richtig schöne Teamevents, bei denen wir uns persönlich treffen und der Zusammenhalt im Team ganz natürlich wächst.",
+        "career": "Ich schätze die regelmäßigen Entwicklungsgespräche, in denen wir meine Karriereziele besprechen. Dabei bekomme ich viel Unterstützung von meiner Vorgesetzten, um meine Pläne in die Tat umzusetzen. Spannende neue Aufgaben und Projekte geben mir immer wieder die Chance, mich persönlich und fachlich weiterzuentwickeln.",
+        "salary": "Ich bin mit meinem Gehalt zufrieden. Die Gehaltsbänder werden transparent kommuniziert, was für viel Klarheit sorgt. Zusätzlich erhalten Benefits wie Wellpass sowie monatliche Gutscheine zur freien Wahl.",
+        "teamwork": "Der Zusammenhalt im Team ist richtig stark. Man spürt, dass jeder füreinander da ist und man sich wirklich aufeinander verlassen kann. Wissen wird miteinander geteilt und wenn es mal brennt, zieht das ganze Team an einem Strang. Neue Kollegen werden mit offenen Armen aufgenommen und fühlen sich schnell willkommen.",
+        "oldColleagues": "Das Team ist insgesamt eher jung. Trotzdem schätzen alle sowohl langjährige als auch neue Kollegen sehr.",
+        "leadership": "Meine Führungskraft hat eine klare Vision, die mich inspiriert und motiviert, in meiner eigenen Arbeit mein Bestes zu geben. Ihre Kommunikation ist offen und ehrlich, wodurch immer Klarheit herrscht und man sich gut aufgehoben fühlt. Bei Fragen oder Herausforderungen unterstützt sie mich jederzeit proaktiv und steht mit Rat und Tat zur Seite. Es ist toll zu wissen, dass wir mit dem, was wir tun, wirklich etwas bewegen und verändern können. Ihre Unterstützung und ihr Engagement machen die Zusammenarbeit für mich besonders wertvoll.",
+        "communication": "Die Kommunikation ist sehr transparent. Wir haben regelmäßige Unternehmens-Calls, in denen alle wichtigen Updates offen besprochen werden. Auch im Team selbst sind die Führungskräfte transparent und teilen relevante Infos, sodass man immer auf dem aktuellen Stand ist.",
+        "equality": "Bei simpleclub wird Gleichberechtigung wirklich gelebt. Jeder wird wertgeschätzt und respektvoll behandelt – unabhängig von Geschlecht, Herkunft oder Hintergrund. Es herrscht eine offene Atmosphäre, in der sich alle frei entfalten können.",
+        "tasks": "Ich habe immer wieder die Chance, an neuen Projekten zu arbeiten, wodurch mein Job niemals langweilig wird. Dabei wachse ich ständig über mich hinaus. Besonders schön ist, dass ich meine eigenen Ideen und Verbesserungsvorschläge einbringen kann und aktiv an deren Umsetzung arbeite."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-08-10T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "31549d5a-a77d-4e56-9d56-c2c51446009e",
+      "url": "https://www.kununu.com/de/simpleclub/bewertung/31549d5a-a77d-4e56-9d56-c2c51446009e",
+      "title": "Bester Arbeitgeber, den ich je hatte.",
+      "content": "• Sinnvolle Mission, die motiviert\n• Positive, unterstützende Teamkultur\n• Reale Aufstiegschancen ohne Politik\n• 100 % Remote-Arbeit möglich\n• Flexible Arbeitszeiten – Vertrauen statt Kontrolle\n• Mega Benefits (Wellpass, Top-Hardware, Weiterbildung, unbegrenzter Urlaub)\n• Viel Freiraum für eigene Ideen\n• Stabiles und schnelles Unternehmenswachstum\n• Klare Gehaltsstrukturen\n• Wirklich nette, hilfsbereite Menschen\n\n• Nichts. Ich bin rundum zufrieden.\n\n• Die Kommunikation zwischen Departments könnte noch klarer und koordinierter laufen.",
+      "rating": 4.8,
+      "sections": {
+        "positive": "• Sinnvolle Mission, die motiviert\n• Positive, unterstützende Teamkultur\n• Reale Aufstiegschancen ohne Politik\n• 100 % Remote-Arbeit möglich\n• Flexible Arbeitszeiten – Vertrauen statt Kontrolle\n• Mega Benefits (Wellpass, Top-Hardware, Weiterbildung, unbegrenzter Urlaub)\n• Viel Freiraum für eigene Ideen\n• Stabiles und schnelles Unternehmenswachstum\n• Klare Gehaltsstrukturen\n• Wirklich nette, hilfsbereite Menschen",
+        "negative": "• Nichts. Ich bin rundum zufrieden.",
+        "suggestion": "• Die Kommunikation zwischen Departments könnte noch klarer und koordinierter laufen."
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 4.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": null,
+        "equality": null,
+        "career": 5.0,
+        "salary": 4.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-07-29T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "caff7a4d-c889-4b3a-b800-44e5dbef239f",
+      "url": "https://www.kununu.com/de/simpleclub/bewertung/caff7a4d-c889-4b3a-b800-44e5dbef239f",
+      "title": "Enttäuschung pur",
+      "content": "Kollegen. Team Event.\n\nDer Umgang mit Verantwortung und die wirklich dürftige Offenheit für Feedback. Das hat mich jetzt dazu gebraucht, hier zu bewerten.\n\nMitarbeiter Zufriedenheit Umfrage. Auch Bedürfnisse ernsthaft eingehen. Verlorenes Vertrauen zurückgewinnen. Ehrlich machen und Fehler eingestehen.\n\nDie Arbeitsatmosphäre ist sehr schlecht. Das Vertrauen zur Führung ist stark beschädigt. Ich bin maßlos enttäuscht von simpleclub. Output ist entsprechend schlecht.\n\nsimpleclub präsentiert und inszeniert sich gekonnt. Ich muss aber sagen, dass hinter vielem nicht viel steckt. Technisch macht simpleclub einen guten Job und bringt gute Features raus. Qualitativ lässt das Produkt aber zu wünschen übrig.\n\nDas einzig positive\n\nEs ist merkbar, dass Erfahrung in Fügung\nFührung fehlt. Man wird häufig hingehalten und Verantwortung wird abgewälzt. Ein sehr toxisches Verhältnis.\n\nAngesprochenes Feedback wird häufig als gegeneinander wahrgenommen und es fällt zunehmend schwer sich ernsthaft mit Kritik zu äußern.\n\nHome Office top- Gehalt Flop. Unlimited vacation klappt mal besser mal schlechter.\n\nGanz okay",
+      "rating": 2.0,
+      "sections": {
+        "positive": "Kollegen. Team Event.",
+        "negative": "Der Umgang mit Verantwortung und die wirklich dürftige Offenheit für Feedback. Das hat mich jetzt dazu gebraucht, hier zu bewerten.",
+        "suggestion": "Mitarbeiter Zufriedenheit Umfrage. Auch Bedürfnisse ernsthaft eingehen. Verlorenes Vertrauen zurückgewinnen. Ehrlich machen und Fehler eingestehen."
+      },
+      "factor_comments": {
+        "atmosphere": "Die Arbeitsatmosphäre ist sehr schlecht. Das Vertrauen zur Führung ist stark beschädigt. Ich bin maßlos enttäuscht von simpleclub. Output ist entsprechend schlecht.",
+        "image": "simpleclub präsentiert und inszeniert sich gekonnt. Ich muss aber sagen, dass hinter vielem nicht viel steckt. Technisch macht simpleclub einen guten Job und bringt gute Features raus. Qualitativ lässt das Produkt aber zu wünschen übrig.",
+        "teamwork": "Das einzig positive",
+        "leadership": "Es ist merkbar, dass Erfahrung in Fügung\nFührung fehlt. Man wird häufig hingehalten und Verantwortung wird abgewälzt. Ein sehr toxisches Verhältnis.",
+        "communication": "Angesprochenes Feedback wird häufig als gegeneinander wahrgenommen und es fällt zunehmend schwer sich ernsthaft mit Kritik zu äußern.",
+        "salary": "Home Office top- Gehalt Flop. Unlimited vacation klappt mal besser mal schlechter.",
+        "tasks": "Ganz okay"
+      },
+      "factor_scores": {
+        "atmosphere": 1.0,
+        "workLife": null,
+        "communication": 1.0,
+        "workConditions": 3.0,
+        "leadership": 1.0,
+        "teamwork": 4.0,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": 2.0,
+        "image": 2.0,
+        "environment": null,
+        "tasks": 2.0
+      },
+      "published_at": "2025-07-27T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "d84927d9-3bed-48d5-9e9d-7f124fe3b065",
+      "url": "https://www.kununu.com/de/simpleclub/bewertung/d84927d9-3bed-48d5-9e9d-7f124fe3b065",
+      "title": "Top Arbeitgeber mit vielen Benefits und Möglichkeiten",
+      "content": "Die Stimmung im Team ist angenehm und eher freundschaftlich. Auch das Verhältnis zu meinen Vorgesetzten ist angenehm und auf Augenhöhe, sodass ich jederzeit das Gefühl habe, dass ich Probleme und Schwierigkeiten ansprechen kann und dafür eine Lösung gefunden wird, damit die Arbeitsatmosphäre auch so toll bleibt, wie sie ist. Außerdem gibt es regelmäßige Check-in Calls, bei denen jegliche Themen offen angesprochen werden können und persönliche Entwicklungsziele besprochen werden. Das remote Setting funktioniert für mich sehr gut.\n\nMeines Empfindens nach sind die meisten Kollegen sehr stolz drauf, für simpleclub zu arbeiten und stehen zu 100% hinter dem Produkt.\n\nDie Work-Life-Balance funktioniert für mich durch das remote Arbeiten sehr gut. Ich kann mir meine Zeit frei einteilen und nach Absprache mit meinen direkten Kollegen auch mal spontan Urlaubstage nehmen, wenn ich sie gerade brauche. Ich kann selbst entscheiden, wann ich meine Arbeit erledige, was für mich ein großer Pluspunkt ist.\n\nEs finden regelmäßig umfassende Gespräche statt, bei denen die persönlichen Karriereoptionen evaluiert werden. Auch die Gehaltsoptionen für die eigene Rolle werden transparent geteilt. Beim Feedback-Gespräch kann man sich sowohl die Einschätzung von Vorgesetzen einholen, als auch von verschiedenen Kollegen, was mir sehr gut gefällt.\n\nIch bin mit meinem Gehalt sehr zufrieden. Außerdem gibt es verschiedene Benefits wie Wellpass/Urban Sports Club, monatliche Gutscheine zur freien Wahl oder Zuschuss für Mittagessen. Wir haben außerdem Zugänge zu Corporate Benefits für verschiedene Rabattcodes. Bei Teamevents werden auch alle Kosten übernommen und kein Unterschied gemacht zwischen Werkstudenten oder Leadership.\n\nDas große Teamevent findet einmal im Jahr statt. In den kleinen Teams trifft man sich häufiger in real life, der Rest beschränkt sich leider auf virtuelle Treffen. Dennoch ist das Sozialverhalten untereinander wirklich gut. Es wird außerdem auf besondere Bedürfnisse geachtet und das People Team bemüht sich sehr darum, dass sich jeder wohlfühlt.\n\nDer Zusammenhalt unter den Kollegen ist bei simpleclub wirklich einzigartig. Das wurde für mich besonders bei den Teammeetings deutlich. Obwohl so viele unterschiedliche Menschen aufeinandertreffen, sind alle unglaublich herzlich und wertschätzend miteinander umgegangen und hatten eine tolle Zeit zusammen. Ganz viele inspirierende Menschen.\n\nEs gibt wenige ältere Kollegen, das Team ist im Schnitt eher jung. Kollegen, die schon länger im Team sind, schätze ich ebenso wie neuere Kollegen. Ich habe nicht das Gefühl, dass hier ein Unterschied in der Behandlung gemacht wird.\n\nIch habe zu all meinen Vorgesetzten ein gutes Verhältnis und fühle mich in meinem Team sehr wohl. Mein Vorgesetzter spricht Themen proaktiv an und hat immer ein offenes Ohr für uns.\n\nDas gesamte Unternehmen ist remote, was ich sehr schätze. Jegliche Arbeitsmaterialien werden gestellt und können unkompliziert angefragt werden. Hier wurde mir alles zur Verfügung gestellt, was ich persönlich brauche. Auch Software Zugänge werden gestellt. Hier ist mein Vorgesetzter auch immer offen für neue Tools.\n\nSowohl in meinem Team als auch mit meinen Vorgesetzten funktioniert die Kommunikation für mich sehr gut. Jeder antwortet jedem schnell und bei akuten Themen ist jeder für jeden da und nimmt sich Zeit für einen kurzen Call. Durch verschiedene Expertisen und Schwerpunkte innerhalb meines Teams weiß man in der Regel auch sofort, an wen man sich wenden kann.\n\nJeder hat nach meiner Erfahrung die gleichen Chancen und Möglichkeiten, hier habe ich nichts Negatives beobachtet.\n\nIn meiner Zeit bei simpleclub habe ich schon viele unterschiedliche Projekte und Aufgaben übernommen und konnte daran wachsen und meine Expertise erweitern. Durch die Zusammenarbeit mit verschiedenen Teams und Kollegen wurde es nie langweilig.",
+      "rating": 4.9,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Die Stimmung im Team ist angenehm und eher freundschaftlich. Auch das Verhältnis zu meinen Vorgesetzten ist angenehm und auf Augenhöhe, sodass ich jederzeit das Gefühl habe, dass ich Probleme und Schwierigkeiten ansprechen kann und dafür eine Lösung gefunden wird, damit die Arbeitsatmosphäre auch so toll bleibt, wie sie ist. Außerdem gibt es regelmäßige Check-in Calls, bei denen jegliche Themen offen angesprochen werden können und persönliche Entwicklungsziele besprochen werden. Das remote Setting funktioniert für mich sehr gut.",
+        "image": "Meines Empfindens nach sind die meisten Kollegen sehr stolz drauf, für simpleclub zu arbeiten und stehen zu 100% hinter dem Produkt.",
+        "workLife": "Die Work-Life-Balance funktioniert für mich durch das remote Arbeiten sehr gut. Ich kann mir meine Zeit frei einteilen und nach Absprache mit meinen direkten Kollegen auch mal spontan Urlaubstage nehmen, wenn ich sie gerade brauche. Ich kann selbst entscheiden, wann ich meine Arbeit erledige, was für mich ein großer Pluspunkt ist.",
+        "career": "Es finden regelmäßig umfassende Gespräche statt, bei denen die persönlichen Karriereoptionen evaluiert werden. Auch die Gehaltsoptionen für die eigene Rolle werden transparent geteilt. Beim Feedback-Gespräch kann man sich sowohl die Einschätzung von Vorgesetzen einholen, als auch von verschiedenen Kollegen, was mir sehr gut gefällt.",
+        "salary": "Ich bin mit meinem Gehalt sehr zufrieden. Außerdem gibt es verschiedene Benefits wie Wellpass/Urban Sports Club, monatliche Gutscheine zur freien Wahl oder Zuschuss für Mittagessen. Wir haben außerdem Zugänge zu Corporate Benefits für verschiedene Rabattcodes. Bei Teamevents werden auch alle Kosten übernommen und kein Unterschied gemacht zwischen Werkstudenten oder Leadership.",
+        "environment": "Das große Teamevent findet einmal im Jahr statt. In den kleinen Teams trifft man sich häufiger in real life, der Rest beschränkt sich leider auf virtuelle Treffen. Dennoch ist das Sozialverhalten untereinander wirklich gut. Es wird außerdem auf besondere Bedürfnisse geachtet und das People Team bemüht sich sehr darum, dass sich jeder wohlfühlt.",
+        "teamwork": "Der Zusammenhalt unter den Kollegen ist bei simpleclub wirklich einzigartig. Das wurde für mich besonders bei den Teammeetings deutlich. Obwohl so viele unterschiedliche Menschen aufeinandertreffen, sind alle unglaublich herzlich und wertschätzend miteinander umgegangen und hatten eine tolle Zeit zusammen. Ganz viele inspirierende Menschen.",
+        "oldColleagues": "Es gibt wenige ältere Kollegen, das Team ist im Schnitt eher jung. Kollegen, die schon länger im Team sind, schätze ich ebenso wie neuere Kollegen. Ich habe nicht das Gefühl, dass hier ein Unterschied in der Behandlung gemacht wird.",
+        "leadership": "Ich habe zu all meinen Vorgesetzten ein gutes Verhältnis und fühle mich in meinem Team sehr wohl. Mein Vorgesetzter spricht Themen proaktiv an und hat immer ein offenes Ohr für uns.",
+        "workConditions": "Das gesamte Unternehmen ist remote, was ich sehr schätze. Jegliche Arbeitsmaterialien werden gestellt und können unkompliziert angefragt werden. Hier wurde mir alles zur Verfügung gestellt, was ich persönlich brauche. Auch Software Zugänge werden gestellt. Hier ist mein Vorgesetzter auch immer offen für neue Tools.",
+        "communication": "Sowohl in meinem Team als auch mit meinen Vorgesetzten funktioniert die Kommunikation für mich sehr gut. Jeder antwortet jedem schnell und bei akuten Themen ist jeder für jeden da und nimmt sich Zeit für einen kurzen Call. Durch verschiedene Expertisen und Schwerpunkte innerhalb meines Teams weiß man in der Regel auch sofort, an wen man sich wenden kann.",
+        "equality": "Jeder hat nach meiner Erfahrung die gleichen Chancen und Möglichkeiten, hier habe ich nichts Negatives beobachtet.",
+        "tasks": "In meiner Zeit bei simpleclub habe ich schon viele unterschiedliche Projekte und Aufgaben übernommen und konnte daran wachsen und meine Expertise erweitern. Durch die Zusammenarbeit mit verschiedenen Teams und Kollegen wurde es nie langweilig."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 4.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-07-26T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "ab22afaf-4637-47b5-9ea5-cf6e5ca04898",
+      "url": "https://www.kununu.com/de/simpleclub/bewertung/ab22afaf-4637-47b5-9ea5-cf6e5ca04898",
+      "title": "Viel Potenzial - Viel Enttäuschung",
+      "content": "Der Zusammenhalt in den Teams im Education Bereich ist herausragend. Das Arbeiten mit den Team Mitgliedern hier ist wirklich wunderbar und fühlt sich an wie mit Freunden zusammen zu arbeiten - die Schaffenskraft ist dadurch wirklich hoch und die Motivation kann man hieraus ziehen.\n\nDie Kommunikation die vom Unternehmen gepredigt wird, wird selbst nicht eingehalten. Oft ist die Rede von transparenter und offene Kommunikation - in der Realität wird allerdings bei entscheidenden Fragen zu Prozessen oder Themen wie Gehaltsverhandlungen ausweichend reagiert. Durch dieses ausweichende Verhalten und die Möglichkeit nicht fair in den Gehaltsbändern aufzusteigen bleibt das Gefühl der Wertschätzung aus.\nDes Weiteren wird Markt-Unüblich von simpleclub keinerlei Berufliche Vor-Erfahrung im Bereich Education bei den Gehältern mit beachtet, während man sich von den Führungsebenen die Vita als Begründung für höhere Positionen und Gehälter anhören darf.\n\nGelebte Transparenz und nicht nur “Wasser predigen und selber Wein trinken”. Außerdem wäre eine faire Bezahlung für den Education Bereich eine wirkliche Verbesserung anstatt das Geld nur an jegliche andere Stelle zu bringen.\nHier wird auch gerne auf Gehaltsbänder verwiesen, diese sind zwar aufgestellt und durchschnittlich bis unterdurchschnittlich, allerdings bewegt man sich in diesen Gehaltsbändern absolut nicht fair und es werden immer wieder Hard-Caps eingebaut, mit ausweichenden Begründungen, um nicht wirklich ein faires Gehalt zu zahlen.\n\nAuf der Team Ebene wirklich sehr sehr gut. Dadurch macht die Arbeit auch extrem Spaß.\n\nNach außen wird eine moderne, fast freundschaftliche Start-up-Welt verkauft. Intern sieht man das zunehmend kritisch - darf es aber selten offen sagen. Vorallem an den Stellen an denen es mangelt, wird gerne auf “Start-Up” verwiesen.\n\nDas Remote arbeiten ist hervorragend. Dieses wird so gut gelebt wie ich es von keinem anderen Unternehmen kenne. Man kann sich die Arbeitszeit sehr frei einteilen und somit Job und Leben sehr gut vereinbaren.\n\nAuf den Führungsebenen oder anderen Bereichen sicher ok. In der Produktion wird nicht durchschnittlich bezahlt. Hier wird immer wieder auf die Gehaltsbänder verwiesen, welche sich am Markt orientieren. Allerdings wird nicht fair in diesen Gehaltsbändern eingeteilt und man kann innerhalb auch nur sehr schwierig bis gar nicht zu wachsen. Die Begründungen für keinen Aufstieg innerhalb der Gehaltsbänder sind häufig ausweichend und wenig nachvollziehbar.\n\nMeine Arbeitskollegen sind das beste am Job. Wirklich eine große Mischung an jungen, motivierten und intelligenten Menschen. Der Zusammenhalt auf dieser Ebene ist top. Schade ist dass durch verschiedene Entscheidungen auf höheren Ebenen viel Fluktuation entsteht.\n\nHier gibts es kaum Wertschätzung für die lang eingesessenen Kollegen. Zwar wird jedes Jahr einmal kurz erwähnt dass man Jubiläum hat, allerdings wird ansonsten kaum ein Unterschied gemacht auf der Produktionsebene.\nEs wurde sich ohne mit der Wimper zu Zucken von Kollegen von jetzt auf gleich getrennt, welche das Unternehmen viele Jahre mit Herzblut unterstützt haben.\nAusserdem ist die Bezahlung und das aufsteigen innerhalb der Gehaltsbänder kaum möglich und somit bleibt ein faires Gehalt aus. Hier wird einem sogar eher zu einem neuen Job geraten, anstatt fair zu bezahlen. (Z.B. Junior Rollen trotz jahrelanger Zugehörigkeit und viel Initiative, Keine Senior Rollen im Design vorhanden etc.)\n\nWie schon vorher erwähnt ist das Unternehmen sehr hierarchisch aufgebaut - auch wenn hier eine offene Unternehmenskultur kommuniziert wird. Pro Aktivität ist gewünscht, spiegelt sich letztendlich in den Gehalts Verhandlungen aber nicht wieder.\nHäufig wirken Strategie Wechsel überstürzt und werden Last Minute kommuniziert. Gibt es Feedback gegen gewisse Entscheidungen aus der Führung wird dies häufig falsch aufgenommen und nicht als Verbesserungsvorschlag gesehen sondern als persönlicher Angriff gewertet.\nÜbergreifend kann man sagen, dass die Führungsebene hier wirklich noch großes Verbesserungspotenzial aufweist.\n\nRemote Work macht den Job angenehm und die Zeit ist frei einteilbar.\nDas komplette Equipment wird gestellt.\n\nDie gepredigte offene Kommunikation wird selten wirklich von der Führungsebene eingehalten. Viel mehr sind ausweichenden Antworten, falsche Interpretationen der Situationen und hierarchische Entscheidungen ohne Mitspracherecht and der Tagesordnung.\n\nKaum Frauen im Leadership\n\nDie Aufgaben können je nach Bereich wirklich spannend sein. Man kann seine kreativen Ideen einbringen. Manche Bereiche in der Produktion sind jedoch auch pures abarbeiten. Hier wird aber nun viel Wert auf Unterstützung von KI gelegt.",
+      "rating": 2.5,
+      "sections": {
+        "positive": "Der Zusammenhalt in den Teams im Education Bereich ist herausragend. Das Arbeiten mit den Team Mitgliedern hier ist wirklich wunderbar und fühlt sich an wie mit Freunden zusammen zu arbeiten - die Schaffenskraft ist dadurch wirklich hoch und die Motivation kann man hieraus ziehen.",
+        "negative": "Die Kommunikation die vom Unternehmen gepredigt wird, wird selbst nicht eingehalten. Oft ist die Rede von transparenter und offene Kommunikation - in der Realität wird allerdings bei entscheidenden Fragen zu Prozessen oder Themen wie Gehaltsverhandlungen ausweichend reagiert. Durch dieses ausweichende Verhalten und die Möglichkeit nicht fair in den Gehaltsbändern aufzusteigen bleibt das Gefühl der Wertschätzung aus.\nDes Weiteren wird Markt-Unüblich von simpleclub keinerlei Berufliche Vor-Erfahrung im Bereich Education bei den Gehältern mit beachtet, während man sich von den Führungsebenen die Vita als Begründung für höhere Positionen und Gehälter anhören darf.",
+        "suggestion": "Gelebte Transparenz und nicht nur “Wasser predigen und selber Wein trinken”. Außerdem wäre eine faire Bezahlung für den Education Bereich eine wirkliche Verbesserung anstatt das Geld nur an jegliche andere Stelle zu bringen.\nHier wird auch gerne auf Gehaltsbänder verwiesen, diese sind zwar aufgestellt und durchschnittlich bis unterdurchschnittlich, allerdings bewegt man sich in diesen Gehaltsbändern absolut nicht fair und es werden immer wieder Hard-Caps eingebaut, mit ausweichenden Begründungen, um nicht wirklich ein faires Gehalt zu zahlen."
+      },
+      "factor_comments": {
+        "atmosphere": "Auf der Team Ebene wirklich sehr sehr gut. Dadurch macht die Arbeit auch extrem Spaß.",
+        "image": "Nach außen wird eine moderne, fast freundschaftliche Start-up-Welt verkauft. Intern sieht man das zunehmend kritisch - darf es aber selten offen sagen. Vorallem an den Stellen an denen es mangelt, wird gerne auf “Start-Up” verwiesen.",
+        "workLife": "Das Remote arbeiten ist hervorragend. Dieses wird so gut gelebt wie ich es von keinem anderen Unternehmen kenne. Man kann sich die Arbeitszeit sehr frei einteilen und somit Job und Leben sehr gut vereinbaren.",
+        "salary": "Auf den Führungsebenen oder anderen Bereichen sicher ok. In der Produktion wird nicht durchschnittlich bezahlt. Hier wird immer wieder auf die Gehaltsbänder verwiesen, welche sich am Markt orientieren. Allerdings wird nicht fair in diesen Gehaltsbändern eingeteilt und man kann innerhalb auch nur sehr schwierig bis gar nicht zu wachsen. Die Begründungen für keinen Aufstieg innerhalb der Gehaltsbänder sind häufig ausweichend und wenig nachvollziehbar.",
+        "teamwork": "Meine Arbeitskollegen sind das beste am Job. Wirklich eine große Mischung an jungen, motivierten und intelligenten Menschen. Der Zusammenhalt auf dieser Ebene ist top. Schade ist dass durch verschiedene Entscheidungen auf höheren Ebenen viel Fluktuation entsteht.",
+        "oldColleagues": "Hier gibts es kaum Wertschätzung für die lang eingesessenen Kollegen. Zwar wird jedes Jahr einmal kurz erwähnt dass man Jubiläum hat, allerdings wird ansonsten kaum ein Unterschied gemacht auf der Produktionsebene.\nEs wurde sich ohne mit der Wimper zu Zucken von Kollegen von jetzt auf gleich getrennt, welche das Unternehmen viele Jahre mit Herzblut unterstützt haben.\nAusserdem ist die Bezahlung und das aufsteigen innerhalb der Gehaltsbänder kaum möglich und somit bleibt ein faires Gehalt aus. Hier wird einem sogar eher zu einem neuen Job geraten, anstatt fair zu bezahlen. (Z.B. Junior Rollen trotz jahrelanger Zugehörigkeit und viel Initiative, Keine Senior Rollen im Design vorhanden etc.)",
+        "leadership": "Wie schon vorher erwähnt ist das Unternehmen sehr hierarchisch aufgebaut - auch wenn hier eine offene Unternehmenskultur kommuniziert wird. Pro Aktivität ist gewünscht, spiegelt sich letztendlich in den Gehalts Verhandlungen aber nicht wieder.\nHäufig wirken Strategie Wechsel überstürzt und werden Last Minute kommuniziert. Gibt es Feedback gegen gewisse Entscheidungen aus der Führung wird dies häufig falsch aufgenommen und nicht als Verbesserungsvorschlag gesehen sondern als persönlicher Angriff gewertet.\nÜbergreifend kann man sagen, dass die Führungsebene hier wirklich noch großes Verbesserungspotenzial aufweist.",
+        "workConditions": "Remote Work macht den Job angenehm und die Zeit ist frei einteilbar.\nDas komplette Equipment wird gestellt.",
+        "communication": "Die gepredigte offene Kommunikation wird selten wirklich von der Führungsebene eingehalten. Viel mehr sind ausweichenden Antworten, falsche Interpretationen der Situationen und hierarchische Entscheidungen ohne Mitspracherecht and der Tagesordnung.",
+        "equality": "Kaum Frauen im Leadership",
+        "tasks": "Die Aufgaben können je nach Bereich wirklich spannend sein. Man kann seine kreativen Ideen einbringen. Manche Bereiche in der Produktion sind jedoch auch pures abarbeiten. Hier wird aber nun viel Wert auf Unterstützung von KI gelegt."
+      },
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 5.0,
+        "communication": 1.0,
+        "workConditions": 5.0,
+        "leadership": 1.0,
+        "teamwork": 4.0,
+        "oldColleagues": 1.0,
+        "equality": 2.0,
+        "career": 1.0,
+        "salary": 1.0,
+        "image": 2.0,
+        "environment": 2.0,
+        "tasks": 3.0
+      },
+      "published_at": "2025-07-24T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "ad42b5be-79b2-413a-8e26-4c66561ac5dd",
+      "url": "https://www.kununu.com/de/simpleclub/bewertung/ad42b5be-79b2-413a-8e26-4c66561ac5dd",
+      "title": "Refreshing Sales Environment, would recommend",
+      "content": "I can freely decide how to structure my day, goals are being set clearly and for the entire year, so no end of quarter stress every quarter\n\nMore in person meetings :D\n\nWould love to meet even more than what is already possible, but remote has its' own benefits\n\nThe first product I sell where users give positive feedback\n\nComplete freedom on how I plan my day and there is no micro managing, which I like\n\nThere are growth paths to follow and I get assigned a level where I am on that path\n\nNot the highest salary but the most freedom and ARR targets are reakustuc\n\nI get help from existing people in the sales team whenever I need it and got a lot of shadowing help in the beginning\n\nThere are not too many but also no complaints I see\n\nAlways open for quick calls and there is consistent feedback on my work\n\nAlways quite transparent in monthly team call where the company is and how targets are set\n\nEveryone seems to have the same possibilities\n\nThe product is very nice to sell and actually works. Which is not given in SaaS",
+      "rating": 4.7,
+      "sections": {
+        "positive": "I can freely decide how to structure my day, goals are being set clearly and for the entire year, so no end of quarter stress every quarter",
+        "negative": null,
+        "suggestion": "More in person meetings :D"
+      },
+      "factor_comments": {
+        "atmosphere": "Would love to meet even more than what is already possible, but remote has its' own benefits",
+        "image": "The first product I sell where users give positive feedback",
+        "workLife": "Complete freedom on how I plan my day and there is no micro managing, which I like",
+        "career": "There are growth paths to follow and I get assigned a level where I am on that path",
+        "salary": "Not the highest salary but the most freedom and ARR targets are reakustuc",
+        "teamwork": "I get help from existing people in the sales team whenever I need it and got a lot of shadowing help in the beginning",
+        "oldColleagues": "There are not too many but also no complaints I see",
+        "leadership": "Always open for quick calls and there is consistent feedback on my work",
+        "communication": "Always quite transparent in monthly team call where the company is and how targets are set",
+        "equality": "Everyone seems to have the same possibilities",
+        "tasks": "The product is very nice to sell and actually works. Which is not given in SaaS"
+      },
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 4.0,
+        "equality": 5.0,
+        "career": 4.0,
+        "salary": 4.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-07-23T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "2d4bfbd2-d8c9-457e-8bb0-decca147997c",
+      "url": "https://www.kununu.com/de/simpleclub/bewertung/2d4bfbd2-d8c9-457e-8bb0-decca147997c",
+      "title": "Ein Arbeitgeber, bei dem man sich sehr wohl fühlt",
+      "content": "Tolle Kollegen, flexibles Arbeiten, inspirierende Vision\n\nSehr netter Kollegen, freundliches Umfeld\n\nWird hier groß geschrieben. Es gelten recht flexible Arbeitszeiten und da man remote arbeitet, kann man gut zwischen Arbeit und privaten Terminen balancieren.\n\nDas Gehaltsband wird transparent geteilt, also weiß man immer, ob man fair bezahlt wird oder nicht\n\nDie besten Kollegen die man haben kann! Man unterstützt sich gegenseitig und alle sind freundlich\n\ndavon gibt es nicht so viele, aber auch hier habe ich nichts Negatives beobachtet\n\nGute Kommunikation und man kann über alles sprechen\n\nEinmal im Monat wird man von den Gründern zur Firmenstrategie abgeholt. Wenn es größere Ankündigungen gibt, wird man man immer dazu informiert und hat die Möglichkeit Fragen zu stellen.\n\nLeider zu wenig Frauen in Führungspositionen, aber ich habe nicht erlebt, dass jemand aufgrund des Geschlechts benachteiligt wird\n\nDa es ein Start-up ist, kommen immer wieder neue Themen auf einen zu. Die Aufgaben sind abwechslungsreich und man hat auch Spielraum neue Ideen umzusetzen.",
+      "rating": 4.8,
+      "sections": {
+        "positive": "Tolle Kollegen, flexibles Arbeiten, inspirierende Vision",
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Sehr netter Kollegen, freundliches Umfeld",
+        "workLife": "Wird hier groß geschrieben. Es gelten recht flexible Arbeitszeiten und da man remote arbeitet, kann man gut zwischen Arbeit und privaten Terminen balancieren.",
+        "salary": "Das Gehaltsband wird transparent geteilt, also weiß man immer, ob man fair bezahlt wird oder nicht",
+        "teamwork": "Die besten Kollegen die man haben kann! Man unterstützt sich gegenseitig und alle sind freundlich",
+        "oldColleagues": "davon gibt es nicht so viele, aber auch hier habe ich nichts Negatives beobachtet",
+        "leadership": "Gute Kommunikation und man kann über alles sprechen",
+        "communication": "Einmal im Monat wird man von den Gründern zur Firmenstrategie abgeholt. Wenn es größere Ankündigungen gibt, wird man man immer dazu informiert und hat die Möglichkeit Fragen zu stellen.",
+        "equality": "Leider zu wenig Frauen in Führungspositionen, aber ich habe nicht erlebt, dass jemand aufgrund des Geschlechts benachteiligt wird",
+        "tasks": "Da es ein Start-up ist, kommen immer wieder neue Themen auf einen zu. Die Aufgaben sind abwechslungsreich und man hat auch Spielraum neue Ideen umzusetzen."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 4.0,
+        "equality": 4.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-07-21T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "a8006f15-b432-46eb-88a8-c3a87c3632d5",
+      "url": "https://www.kununu.com/de/simpleclub/bewertung/a8006f15-b432-46eb-88a8-c3a87c3632d5",
+      "title": "Mehr Schein als Sein - von Content Production würde ich mich fernhalten",
+      "content": "Freie Zeiteinteilung, Team Event, Kollegen\n\nDer undankbare Umgang mit einigen Kollegen, was gegen die Unternehmenswerte spricht. Außerdem wird nach dieser eher schlechten Bewertung natürlich rein zufällig direkt eine super gute Bewertung kommen.\n\nUnternehmenskultur reflektieren und ändern. Ich wünsche den Leads eine ehrliche Reflexion und echte Veränderungen. Dann kann was draus werden.\n\nDer ganze Erfolg des Produkts basiert auf den Schultern von uns Writern und Designer. Der Druck ist enorm und es fehlt angemessene Wertschätzung. Als Werkstudenten Job ganz nett, aber es wird zu viel von Studenten erwartet.\n\nstellt sich als cool und innovativ dar, was ich an sich bestätigen kann. Die Unternehmenskultur lässt leider zu wünschen übrig, weswegen ich über jeden linkedin Beitrag zum tollen Unternehmensumfeld lachen muss\n\nWirklich ok. Die sehr stressigen Phasen können mit Unlimited Vacation kompensiert werden. Leider als Student NICHT bezahlt.\n\nDie einzige Weiterbildung ist interne Wissenweitergabe von anderen Mitarbeitern. Man kann sich zwar bei den Perks auch Weiterbildungsgeld sichern, doch sollte dies eher separat gefördert werden.\n\nIm Education Team sehr schlecht\n\nEs wird sehr sehr viel mit KI gemacht, was Fragen zum Energiebewusstsein, Ethik und Richtigkeit der Themen aufwerfen. Ich sehe hier sehr viel Nachholbedarf. Darüberhinaus sind die Team Events, so toll sie sind, unnötig weit weg.\n\nUnter den Kollegen ist ein sehr enges Miteinander, doch endet dies leider bei den Vorgesetzten.\n\nsimpleclub vertritt interne Werte, die aber im Verhalten von einigen Leads insbesondere auf VP-Ebene nur Schein sind. Ich unterstelle hier keinen Vorsatz, aber die Werte werden definitiv nicht so ernst genommen, wie sie propagiert werden. Das mussten einige Kollegen sehr deutlich erfahren.\n\nRemote muss man halt mögen, sonst wirds schwierig. Arbeitsbedingungen aber im Großen und Ganzen gut.\n\nEs wird nach Außen viel Wert auf transparente Kommunikation gelegt. Es gab jetzt mehrere Situationen, in denen die Leads dies deutlich haben vermissen lassen.\n\nIch lerne neue Sachen, weil ich mich mit inhaltlichen Themen beschäftige, die ich im Studium nicht hatte. Abgesehen davon wird viel Wert auf KI gelegt, was die kreative Arbeit deutlich beschneidet.",
+      "rating": 2.2,
+      "sections": {
+        "positive": "Freie Zeiteinteilung, Team Event, Kollegen",
+        "negative": "Der undankbare Umgang mit einigen Kollegen, was gegen die Unternehmenswerte spricht. Außerdem wird nach dieser eher schlechten Bewertung natürlich rein zufällig direkt eine super gute Bewertung kommen.",
+        "suggestion": "Unternehmenskultur reflektieren und ändern. Ich wünsche den Leads eine ehrliche Reflexion und echte Veränderungen. Dann kann was draus werden."
+      },
+      "factor_comments": {
+        "atmosphere": "Der ganze Erfolg des Produkts basiert auf den Schultern von uns Writern und Designer. Der Druck ist enorm und es fehlt angemessene Wertschätzung. Als Werkstudenten Job ganz nett, aber es wird zu viel von Studenten erwartet.",
+        "image": "stellt sich als cool und innovativ dar, was ich an sich bestätigen kann. Die Unternehmenskultur lässt leider zu wünschen übrig, weswegen ich über jeden linkedin Beitrag zum tollen Unternehmensumfeld lachen muss",
+        "workLife": "Wirklich ok. Die sehr stressigen Phasen können mit Unlimited Vacation kompensiert werden. Leider als Student NICHT bezahlt.",
+        "career": "Die einzige Weiterbildung ist interne Wissenweitergabe von anderen Mitarbeitern. Man kann sich zwar bei den Perks auch Weiterbildungsgeld sichern, doch sollte dies eher separat gefördert werden.",
+        "salary": "Im Education Team sehr schlecht",
+        "environment": "Es wird sehr sehr viel mit KI gemacht, was Fragen zum Energiebewusstsein, Ethik und Richtigkeit der Themen aufwerfen. Ich sehe hier sehr viel Nachholbedarf. Darüberhinaus sind die Team Events, so toll sie sind, unnötig weit weg.",
+        "teamwork": "Unter den Kollegen ist ein sehr enges Miteinander, doch endet dies leider bei den Vorgesetzten.",
+        "leadership": "simpleclub vertritt interne Werte, die aber im Verhalten von einigen Leads insbesondere auf VP-Ebene nur Schein sind. Ich unterstelle hier keinen Vorsatz, aber die Werte werden definitiv nicht so ernst genommen, wie sie propagiert werden. Das mussten einige Kollegen sehr deutlich erfahren.",
+        "workConditions": "Remote muss man halt mögen, sonst wirds schwierig. Arbeitsbedingungen aber im Großen und Ganzen gut.",
+        "communication": "Es wird nach Außen viel Wert auf transparente Kommunikation gelegt. Es gab jetzt mehrere Situationen, in denen die Leads dies deutlich haben vermissen lassen.",
+        "tasks": "Ich lerne neue Sachen, weil ich mich mit inhaltlichen Themen beschäftige, die ich im Studium nicht hatte. Abgesehen davon wird viel Wert auf KI gelegt, was die kreative Arbeit deutlich beschneidet."
+      },
+      "factor_scores": {
+        "atmosphere": 1.0,
+        "workLife": 3.0,
+        "communication": 1.0,
+        "workConditions": 3.0,
+        "leadership": 1.0,
+        "teamwork": 4.0,
+        "oldColleagues": 3.0,
+        "equality": 3.0,
+        "career": 2.0,
+        "salary": 1.0,
+        "image": 2.0,
+        "environment": 2.0,
+        "tasks": 3.0
+      },
+      "published_at": "2025-07-18T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "a4df5732-ea19-4f90-9492-1ad71a49980d",
+      "url": "https://www.kununu.com/de/simpleclub/bewertung/a4df5732-ea19-4f90-9492-1ad71a49980d",
+      "title": "Auch nach mehr als 2 Jahren immer noch ein Top-Arbeitsplatz!",
+      "content": "Die Offenheit des Leaderships, niemand ist überheblich, es wird nach gemeinsamen Lösungen gesucht, das Produkt ist großartig und kommt super an bei Kunden. Kollegen arbeiten super engagiert an der Weiterentwicklung des Produkts und Leadership ist immer offen, neue Felder anzugehen - jedoch strukturiert und mit Verstand und nicht jeden Tag mit wechselnden Vorstellungen. Das Wachstum generell läuft super strukturiert - ambitioniert aber nie chaotisch oder unrealistisch.\nIch bin nach 2,5 Jahren weiterhin sehr happy im Unternehmen!\n\nGrundsätzlich wird extrem viel Freiheit ermöglicht. Wer zeigt, dass er damit umgehen kann, kann diese vollends genießen. Wer mehr Unterstützung braucht, bekommt diese. Der Umgangston ist locker und Mitarbeiter können sich jederzeit aktiv einbringen und werden gehört.\n\nSimpleclub ist so vielen Leuten bekannt und jedes Mal wenn ich erzähle, dass ich hier arbeite, sind die Leute ziemlich begeistert.\n\nNatürlich arbeiten wir im Sales auch mal mehr als 40 Stunden, dafür hat man die Freiheit freitags mal eher Schluss zu machen, notfalls Arzttermine tagsüber zu legen und kann seinen Tag relativ individuell planen. Ich genieße es, in bestimmten Phasen mal deutlich mehr zu arbeiten, dann aber auch mal 2-3 Stunden problemlos aus dem Zug zu arbeiten oder 2 Stunden früher ins Wochenende zu starten.\n\nHier könnte es noch gezieltere Programme geben, jedoch ist es jederzeit möglich, Themen vorzuschlagen und zu schauen, wie sich jemand in diesem Bereich weiterbilden kann.\n\nVor allem im Sales Team ist es wirklich ungewöhnlich, dass wir uns alle sehr stark unterstützen. Es ist eine gute Zusammenarbeit.\n\nDie Kommunikation ist offen und fair und vor allem ist mein Team Lead immer erreichbar. Auch mit anderen Leadern ist die Kommunikation sehr offen und wertschätzend.\n\nTrotz Remote-Setting gibt es durch Slack intensive Kommunikation und natürlich jeweils im Team und dem Lead. Die Founder nehmen sich jeden Monat Zeit um die ganze Company abzuholen und Updates zu geben. Mein Lead ist jederzeit erreichbar bei Fragen und Abstimmungen.\n\nLeider sind die Frauen im Leadership-Team unterpräsentiert. Hier würde ich mir wünschen, dass noch mehr Frauen Teil des C-Levels werden.\n\nSeit ich bei simpleclub gestartet bin, haben sich immer wieder neue Aufgaben ergeben. Ob neue Branchen, die wir angehen, die Organisation eines Team Events, Coaching neuer Mitarbeiter oder die inhaltliche Gestaltung von Kunden-Präsentationen - die Möglichkeiten sind groß und langweilig wird es nie.",
+      "rating": 4.8,
+      "sections": {
+        "positive": "Die Offenheit des Leaderships, niemand ist überheblich, es wird nach gemeinsamen Lösungen gesucht, das Produkt ist großartig und kommt super an bei Kunden. Kollegen arbeiten super engagiert an der Weiterentwicklung des Produkts und Leadership ist immer offen, neue Felder anzugehen - jedoch strukturiert und mit Verstand und nicht jeden Tag mit wechselnden Vorstellungen. Das Wachstum generell läuft super strukturiert - ambitioniert aber nie chaotisch oder unrealistisch.\nIch bin nach 2,5 Jahren weiterhin sehr happy im Unternehmen!",
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Grundsätzlich wird extrem viel Freiheit ermöglicht. Wer zeigt, dass er damit umgehen kann, kann diese vollends genießen. Wer mehr Unterstützung braucht, bekommt diese. Der Umgangston ist locker und Mitarbeiter können sich jederzeit aktiv einbringen und werden gehört.",
+        "image": "Simpleclub ist so vielen Leuten bekannt und jedes Mal wenn ich erzähle, dass ich hier arbeite, sind die Leute ziemlich begeistert.",
+        "workLife": "Natürlich arbeiten wir im Sales auch mal mehr als 40 Stunden, dafür hat man die Freiheit freitags mal eher Schluss zu machen, notfalls Arzttermine tagsüber zu legen und kann seinen Tag relativ individuell planen. Ich genieße es, in bestimmten Phasen mal deutlich mehr zu arbeiten, dann aber auch mal 2-3 Stunden problemlos aus dem Zug zu arbeiten oder 2 Stunden früher ins Wochenende zu starten.",
+        "career": "Hier könnte es noch gezieltere Programme geben, jedoch ist es jederzeit möglich, Themen vorzuschlagen und zu schauen, wie sich jemand in diesem Bereich weiterbilden kann.",
+        "teamwork": "Vor allem im Sales Team ist es wirklich ungewöhnlich, dass wir uns alle sehr stark unterstützen. Es ist eine gute Zusammenarbeit.",
+        "leadership": "Die Kommunikation ist offen und fair und vor allem ist mein Team Lead immer erreichbar. Auch mit anderen Leadern ist die Kommunikation sehr offen und wertschätzend.",
+        "communication": "Trotz Remote-Setting gibt es durch Slack intensive Kommunikation und natürlich jeweils im Team und dem Lead. Die Founder nehmen sich jeden Monat Zeit um die ganze Company abzuholen und Updates zu geben. Mein Lead ist jederzeit erreichbar bei Fragen und Abstimmungen.",
+        "equality": "Leider sind die Frauen im Leadership-Team unterpräsentiert. Hier würde ich mir wünschen, dass noch mehr Frauen Teil des C-Levels werden.",
+        "tasks": "Seit ich bei simpleclub gestartet bin, haben sich immer wieder neue Aufgaben ergeben. Ob neue Branchen, die wir angehen, die Organisation eines Team Events, Coaching neuer Mitarbeiter oder die inhaltliche Gestaltung von Kunden-Präsentationen - die Möglichkeiten sind groß und langweilig wird es nie."
+      },
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-07-16T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "4a717126-d108-40e0-b007-242f3a8038fa",
+      "url": "https://www.kununu.com/de/simpleclub/bewertung/4a717126-d108-40e0-b007-242f3a8038fa",
+      "title": "Writer für Ausbildungsinhalte",
+      "content": "Die Arbeitsatmosphäre ist sehr angenehm. Kollegen helfen in der Regel überall und bilden ein gutes Team. Kann natürlich hier nur Feedback über meine Abteilung geben.\n\nFür mich als Student ist die Work-Life-Balance hier bei Simpleclub überragend und einer der Punkte warum ich mich für die Werkstudentenstelle entschieden habe. Man kann sich seine Arbeitszeiten (natürlich je nach wichtigen Terminen und Arbeitsthemen) sehr flexibel einteilen und an sein Studium anpassen.\n\nNehme ich als sehr gut war.\n\nKann ich bisher nur gutes berichten, da sowohl auf meine Fragen, Anregungen und auch Kritik immer sofort eingegangen wird.\n\nDie Kommunikation nehme ich als sehr gut war zumindest im Bezug auf Arbeitsthemen. Ich arbeite sehr flexibel und aufgrund von Vorlesungen oft auch nicht zu regelmäßigen Zeiten, was aber durch gute Kommunikation keine Nachteile mit sich bringt.\n\nDie Themen sind manchmal interessanter manchmal weniger interessant. Je nachdem welchen Background man hat bearbeitet man manchmal Themen die einem interessanter vorkommen oder leicht fallen, während andere \"langweiliger\" oder weniger interessant wirken.",
+      "rating": 3.9,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Die Arbeitsatmosphäre ist sehr angenehm. Kollegen helfen in der Regel überall und bilden ein gutes Team. Kann natürlich hier nur Feedback über meine Abteilung geben.",
+        "workLife": "Für mich als Student ist die Work-Life-Balance hier bei Simpleclub überragend und einer der Punkte warum ich mich für die Werkstudentenstelle entschieden habe. Man kann sich seine Arbeitszeiten (natürlich je nach wichtigen Terminen und Arbeitsthemen) sehr flexibel einteilen und an sein Studium anpassen.",
+        "teamwork": "Nehme ich als sehr gut war.",
+        "leadership": "Kann ich bisher nur gutes berichten, da sowohl auf meine Fragen, Anregungen und auch Kritik immer sofort eingegangen wird.",
+        "communication": "Die Kommunikation nehme ich als sehr gut war zumindest im Bezug auf Arbeitsthemen. Ich arbeite sehr flexibel und aufgrund von Vorlesungen oft auch nicht zu regelmäßigen Zeiten, was aber durch gute Kommunikation keine Nachteile mit sich bringt.",
+        "tasks": "Die Themen sind manchmal interessanter manchmal weniger interessant. Je nachdem welchen Background man hat bearbeitet man manchmal Themen die einem interessanter vorkommen oder leicht fallen, während andere \"langweiliger\" oder weniger interessant wirken."
+      },
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": 5.0,
+        "communication": 4.0,
+        "workConditions": 4.0,
+        "leadership": 4.0,
+        "teamwork": 4.0,
+        "oldColleagues": null,
+        "equality": 5.0,
+        "career": null,
+        "salary": 4.0,
+        "image": 3.0,
+        "environment": null,
+        "tasks": 2.0
+      },
+      "published_at": "2025-07-09T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "c305503f-0d02-4b19-a565-d461fe31f60a",
+      "url": "https://www.kununu.com/de/simpleclub/bewertung/c305503f-0d02-4b19-a565-d461fe31f60a",
+      "title": "Sehr guter Arbeitgeber mit viel Verantwortung und Wachstumschancen",
+      "content": "Sehr gut, siehe Punkt Kollegenzusammenhalt. Das Team ist super, was sehr viel ausmacht.\n\nMit Remote Work und Vertrauensarbeitszeit kann man seine Arbeitszeiten völlig flexibel einteilen und ist frei in seiner eigenen Gestaltung. Natürlich hat man Ziele, die man erreichen sollte, aber man hat insgesamt eine sehr gute Work-Life-Balance mit viel Freiheiten und Unterstützung bei Bedarf.\n\nÜberragend, das Team unterstützt sich gegenseitig, wo es nur geht, es herrscht eine sehr gute Stimmung und man feiert gegenseitig seine Erfolge. Sowas habe ich selten erlebt. Außerdem wächst das Unternehmen sehr schnell, aber achtet stark auf die Unternehmenskultur, das ist eine Grundlage für den Erfolg.\n\nViel Vertrauen und Verantwortung\n\nSehr transparente Kommunikation über Ziele, Strategie und zukünftige Planungen\n\nTransparente Gehaltsstruktur durch Gehaltspannen je nach Erfahrung und Performance für jede Position\n\nAbwechslungsreich",
+      "rating": 5.0,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Sehr gut, siehe Punkt Kollegenzusammenhalt. Das Team ist super, was sehr viel ausmacht.",
+        "workLife": "Mit Remote Work und Vertrauensarbeitszeit kann man seine Arbeitszeiten völlig flexibel einteilen und ist frei in seiner eigenen Gestaltung. Natürlich hat man Ziele, die man erreichen sollte, aber man hat insgesamt eine sehr gute Work-Life-Balance mit viel Freiheiten und Unterstützung bei Bedarf.",
+        "teamwork": "Überragend, das Team unterstützt sich gegenseitig, wo es nur geht, es herrscht eine sehr gute Stimmung und man feiert gegenseitig seine Erfolge. Sowas habe ich selten erlebt. Außerdem wächst das Unternehmen sehr schnell, aber achtet stark auf die Unternehmenskultur, das ist eine Grundlage für den Erfolg.",
+        "leadership": "Viel Vertrauen und Verantwortung",
+        "communication": "Sehr transparente Kommunikation über Ziele, Strategie und zukünftige Planungen",
+        "salary": "Transparente Gehaltsstruktur durch Gehaltspannen je nach Erfahrung und Performance für jede Position",
+        "tasks": "Abwechslungsreich"
+      },
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": null,
+        "tasks": 5.0
+      },
+      "published_at": "2025-05-13T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "f1e7758a-131b-4651-8a6a-47c5ca4eab7c",
+      "url": "https://www.kununu.com/de/simpleclub/bewertung/f1e7758a-131b-4651-8a6a-47c5ca4eab7c",
+      "title": "Loving the impact and team vibe – looking forward to the next growth phase",
+      "content": "Young, motivated team – friendly atmosphere, lots of collaboration and energy.\nFlat hierarchies – open communication with founders and leadership, fast decision-making.\nPurpose-driven work – helping students and learners through high-quality educational content.\nModern tech stack and agile work – and a product team that is open for ideas and quick to develop.\nRemote-first culture – flexibility to work from anywhere, good work-life balance.\nLearning opportunities – openness to learning, support for personal and professional growth.\nTransparent communication – regular updates from management, clear vision and focus.\nStartup vibe with stability – agile, fast-paced, but structured enough to not be chaotic.\n\nRemote work is not for everyone - while I personally love it, I've seen others struggle - eventually it may make sense to offer hybrid solutions or invest into co-working spaces or budget to attract even more talent / not loose out on talent.\n\nFor my personal working style, the current pace could be more dynamic — coming from an even faster-paced environment, I feel there's room to increase velocity and push execution further.\nBringing in more experienced leadership could complement internal promotions well — this would help balance youthful energy with strategic depth and provide stronger mentorship opportunities.\nAs the company scales, clearer structure and more defined processes are becoming increasingly important — while agility is a strength, investing in scalable systems and prioritizing operational maturity would support long-term growth.",
+      "rating": 4.7,
+      "sections": {
+        "positive": "Young, motivated team – friendly atmosphere, lots of collaboration and energy.\nFlat hierarchies – open communication with founders and leadership, fast decision-making.\nPurpose-driven work – helping students and learners through high-quality educational content.\nModern tech stack and agile work – and a product team that is open for ideas and quick to develop.\nRemote-first culture – flexibility to work from anywhere, good work-life balance.\nLearning opportunities – openness to learning, support for personal and professional growth.\nTransparent communication – regular updates from management, clear vision and focus.\nStartup vibe with stability – agile, fast-paced, but structured enough to not be chaotic.",
+        "negative": "Remote work is not for everyone - while I personally love it, I've seen others struggle - eventually it may make sense to offer hybrid solutions or invest into co-working spaces or budget to attract even more talent / not loose out on talent.",
+        "suggestion": "For my personal working style, the current pace could be more dynamic — coming from an even faster-paced environment, I feel there's room to increase velocity and push execution further.\nBringing in more experienced leadership could complement internal promotions well — this would help balance youthful energy with strategic depth and provide stronger mentorship opportunities.\nAs the company scales, clearer structure and more defined processes are becoming increasingly important — while agility is a strength, investing in scalable systems and prioritizing operational maturity would support long-term growth."
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-05-09T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "c23ac7af-d5c5-4e76-ab86-c83c8006b5e5",
+      "url": "https://www.kununu.com/de/simpleclub/bewertung/c23ac7af-d5c5-4e76-ab86-c83c8006b5e5",
+      "title": "Tolles Produkt, unsichere Arbeitsatmosphäre",
+      "content": "Die Kollegen sind sehr jung und engagiert. Man hat sich direkt willkommen gefühlt. In meiner Onboardingzeit durfte ich erst einmal das Team per virtuellen Coffee-Sessions kennenlernen und hatte danach die Möglichkeit in einem großen Teamevent das ganze Team live kennenzulernen. Außerdem finde ich hat das Produkt einen guten Market-Fit und lässt es lässt sich gut verkaufen. Die Größe des Produkt-Teams sorgt dafür, dass produktbezogenes Feedback auch wirklich ankommt und das Produkt sich schnell entwickelt. Dadurch macht es Spaß mit dem Produkt zu arbeiten. Zudem hat simpleclub bereites eine Marktbekanntheit, was den Einstieg in Gespräche mit Prospects vereinfachen kann.\n\nAls ich im Unternehmen gestartet bin, wurde mir vom Team und meinem Manager vorerst in keiner Weise Druck gemacht. Mir wurde gesagt, es wäre normal, wenn der erste Deal erst später kommen würde und mir wurden Beispiele von Kollegen gemacht bei denen das auch so war, also sollte ich mich nicht sorgen. Mein erster Deal kam aber nach kurzer Zeit. Mein Onboarding war zwischen den Kollegen unterteilt, mein Manager hatte viele Onboarding-Aufgaben abgegeben und musste des Öfteren gemeinsame Termine absagen oder verschieben. Ich hatte keine KPI's nach denen ich mich richten konnte und habe daher meinem Team geglaubt, dass so wie ich arbeite es in Ordnung wäre. Ich hatte einige Deals und habe normal nach meinen Arbeitszeiten gearbeitet. Als dann das Thema Ende der Probezeit im Raum stand, gab es ein positives Meeting mit meinem Manager der gesagt hat, ich wäre 'on track', wenn ich weiter so Deals reinholen würde, könnten wir die Probezeit in einem Monat beenden. Ich sollte nur etwas mehr Outbound machen. Hier habe ich ihn nach KPI's gefragt und er meinte ganz lässig und für mich sehr unverbindlich, ich könnte mich nach 50 Anrufe pro Woche richten. Da das Team ab diesen Monat sehr am wachsen war, wurde mir mitgeteilt, es gäbe bald einen Teamlead und dass das große Team in zwei geteilt wird. Ich wurde zuvor in einem Bucket mit bis zu 50 Lizenzen eingeteilt, mit der Info, das wäre nur für den Start, danach könnte man schauen, dass ich auch größere Deals bekomme. Als das Team dann neu eingeteilt wurde, wurde ich in das Junior-Team gepackt und mein Bucket wurde ohne es mit mir zu besprechen auf weniger als die Hälfte gesetzt. Ich hatte also ab sofort nur noch kleinere Deals, obwohl ich bereits seit einem halben Jahr an sehr viel größeren gearbeitet hatte. Ich habe hierfür nur die Erklärung bekommen, der Manager hätte das so bestimmt. Ich habe mich an der Stelle nicht wertgeschätzt gefühlt. Mit dem neuen Monat habe ich dann einen Teamlead bekommen und nach wenigen Tagen ein Meeting mit dem Manager und meinem Teamlead, in welchem mir gesagt wurde, es müsste sich sofort etwas an meiner Arbeitsweise ändern, sonst würde es hier nicht weitergehen. Ich hatte im Monat davor von meinem Manager noch kommuniziert bekommen, dass ich 'on track' wäre und hatte auch mehr Outbound gemacht. Meine Probezeit wurde einige Monate zuvor verlängert mit der damaligen Begründung, ich müsste mir keine Sorgen machen, das wäre nur damit meine Probezeit so lang wäre wie bei den Kollegen in Deutschland. In dem Gespräch mit dem Manager wurde mir dann von ihm gesagt, es wäre doch Zeichen genug gewesen, dass meine Probezeit verlängert wurde. Ich wurde von meinem Manager zuvor dementsprechend angelogen. Die Atmosphäre hatte sich in kürzester Zeit geändert. Auch wurde mir gesagt ich müsste mehr Deals reinholen, was vorher nie angesprochen wurde. Hierfür konnte mir auch keine konkrete Summe genannt werden die erwirtschaftet werden müsste. Es wird mit Jahreszielen gearbeitet und wir hatten Januar. Dementsprechend konnte hier keine Aussage getroffen werden ob ich mein Ziel erreicht habe oder nicht. In diesem Meeting habe ich konkret nach KPI's gefragt und mich dann mit meinem Teamlead auf konkrete Zahlen bezüglich Anrufe, Mails und gebuchte Meetings geeinigt, welche ich ab dann immer eingehalten habe, bzw. in der Regel übertroffen habe. Diese habe ich jeden Abend in einem Report aus Eigeninitiative festgehalten und meinem Teamlead zur Verfügung gestellt, mit der Bitte mir Bescheid zu geben, sobald er unzufrieden mit einem Bereich ist. In mehreren 1to1 Gesprächen danach habe ich meinem Teamlead mitgeteilt, dass ich mich trotzdem noch verunsichert fühle und er versicherte mir er würde die Reports lesen und mir Bescheid geben, sobald etwas nicht passen würde. Wenige Wochen später hatte ich ein spontanes Meeting mit der HR und meinem Teamlead eingestellt bekommen und wurde mit sofortiger Wirkung gekündigt. Als Grund wurde kein spezifischer genannt, nur dass 'Dinge zusammen gekommen wären'. Mein Teamlead hatte unsere Absprache nicht eingehalten. Ich hatte noch 20 Minuten Zugang, bis ich dann ohne weitere Gespräche oder Möglichkeiten einer Übergabe meiner Kunden gesperrt wurde.\n\nPersonen sollten meiner Meinung nach nicht in Führungspositionen gesetzt werden, nur weil sie am längsten dabei sind. Die Manager und Teamleads die ich in diesem Unternehmen kennengelernt habe, stärken ihren Mitarbeitern nicht den Rücken und ehrliches Vertrauen aufbauen fällt schwer bei der fehlenden Kommunikation. Ich glaube der Zuwachs von Außen mit externen Personen wird dem Unternehmen gut tun.\n\nDie Kollegen sind super, jedoch wird von oben stark Druck gemacht über eine hohe Erwartungshaltung die nicht kommuniziert wird. Es soll alles 'cool und locker' wirken, jedoch fehlt ohne KPI's und zuverlässiges Feedback seitens Manager, Vertrauen in der eigenen Performance, ob diese ausreichend ist. Das schafft Verunsicherung.\n\nDas Image was nach außen kommuniziert wird passt für mich nicht überein. Flexible Arbeitszeiten? Ja, was dafür sorgt, dass es einige Mitarbeiter im Vertrieb gibt, die über die normalen Arbeitszeiten auch noch am Wochenende arbeiten. Das sollte nicht der Sinn der Sache sein. Mit umlimitierten Urlaubstagen wurde ich zu Beginn beworben. Als ich nach einigen Monaten Urlaub nehmen wollte und nach Richtlinien hierzu gefragt habe, wurde von unserem Manager dann kommuniziert, dass über die normalen Urlaubstage hinaus nur in Ausnahmefällen und bei überdurchschnittlicher Leistung Urlaub gibt. Ich habe nicht mitbekommen, dass sich jemand aus meinem Team mehr als die ihm zustehenden Tage genommen hat. Zudem ist die Unzufriedenheit in den Teams die ich kennengelernt habe sehr hoch. Das wird jedoch kaum nach außen geäußert, da Personen die Feedback geben und nachfragen gekündigt werden. Als ich zu Beginn zu einem Teamevent eingeladen wurde, dann mein Mittagessen selber bezahlen musste, ohne vorherige Kommunikation darüber, wurde mir gesagt, ich soll meinen Ummut lieber für mich behalten, der Letzte der Kritik geäußert hätte wäre gekündigt worden.\n\nMan wird verglichen mit Kollegen die über die normalen Arbeitszeiten hinaus, zusätzlich noch am Wochenende arbeiten. Es gibt kaum Vorgaben, wie die flexiblen Arbeitszeiten genutzt werden können. Simpleclub ist mehr Start-Up als ich zuvor erwartet habe. Viele Strukturen sind noch ganz frisch oder existieren noch nicht. Vieles ist noch nicht systematisiert und auch hatte ich den Eindruck, war das Management noch nicht sehr erfahren. Es fallen einige Aufgaben an, die ggf. in anderen Unternehmen schon automatisiert sind, wie zum Beispiel die Suche nach neuen Accounts und das Anlegen dieser, da mehr Kollegen in kurzer Zeit dazugekommen sind, die Pipe aber nicht mitgewachsen ist. Die Kollegen sind sehr engagiert, und nehmen auch unbezahlte Überstunden freiwillig auf.\n\nIm Bezug auf das Unternehmen kann ich keine Aussage treffen aber im Bezug auf die Belegschaft ist zu sagen, dass mir aufgefallen ist, dass viele der Kollegen vegan/vegetarisch sind und LGBTIQA+ Themen Platz finden. Die Kollegen sind sehr weltoffen.\n\nMeine Deal Größe war von Beginn an kleiner im Vergleich zu meinem vorherigen Arbeitgeber und wurde dann sogar noch ohne Absprache nach einigen Monaten weiter runtergesetzt. Trotz der vorherigen Aussage, dass ich in Zukunft auch an größeren Deals arbeiten könnte.\n\nDie Kollegen sind super. Man fühlt sich sehr willkommen und trifft nur auf offene, hilfsbereite Personen.\n\nIch war absolut nicht zufrieden mit der unzuverlässigen Kommunikation meines Managers. Ich habe mich nicht unterstützt und wertgeschätzt gefühlt. Von meinem eigenen Teamlead wurden mir Deals weggenommen, ohne ein 'Danke' dafür oder sonst irgendeiner Wertschätzung. Meiner Meinung nach gilt in diesem Unternehmen: was der Manager sagt, wird nicht hinterfragt. Das sogenannte 'Stay' Interview, welches zur Erhebung der Zufriedenheit und Feedback der Mitarbeiter dienen soll, wurde von meinem Teamlead in einem 1to1, einen Monat bevor ich gekündigt wurde, abgespeist mit: 'Ja eigentlich müssten wir ja jetzt das Stay Interview machen, aber ich weiß ja du bist motiviert, dann passt das ja.' Meine Kommission wurde 2x vergessen. Beim ersten Mal hieß es laut HR, dass mein Manager behauptete, ich hätte meine Deals zu spät eingetragen, was nicht stimmte. Beim zweiten Mal, musste ich noch einmal nach meiner Kommission fragen, nachdem ich mein letztes Gehalt bekommen habe.\n\nDurch die hohe Erwartungshaltung, welche aber nicht offen kommuniziert wird, fühlen sich viele der Mitarbeiter sehr unter Druck gesetzt. Selbst Personen die schön langer dabei sind, trauen sich nicht offen ihre Meinung zu sagen. Da sehr junge Leute eingestellt werden, teilweise Personen die noch im Studium sind, hatte ich das Gefühl, wird deren Unwissen über ihre Möglichkeiten ausgenutzt. Zudem gab es einen Vorfall bei dem einige Kollegen inkl. Teamleiter, welche schon seit Jahren dabei waren, von heute auf morgen gekündigt wurden. Dieser Vorfall hat die Stimmung noch weiter runtergezogen und das betroffene Team unter noch mehr Druck gesetzt, bloß keinen Fehler zu machen.\n\nKommunikation ist schwierig, da kein Platz für Feedback besteht. Die Mitarbeiter haben ihren Job zu machen und sollten nicht zu viele kritische Fragen stellen. Jedoch sind die Kollegen immer erreichbar und zuverlässig. Trotz full remote, gibt es viele Wege mit den Kollegen zu sprechen. Und auch die Terminkalender sind teamübergreifend offen für einen internen virtuellen Coffee.\n\nIm Vergleich zum Gehalt was mir bei anderen Unternehmen angeboten wurde, bezahlt simpleclub eher im unteren Durchschnitt. Kommission muss selber getracked werden, hierfür sind die Systeme noch nicht automatisiert.",
+      "rating": 1.9,
+      "sections": {
+        "positive": "Die Kollegen sind sehr jung und engagiert. Man hat sich direkt willkommen gefühlt. In meiner Onboardingzeit durfte ich erst einmal das Team per virtuellen Coffee-Sessions kennenlernen und hatte danach die Möglichkeit in einem großen Teamevent das ganze Team live kennenzulernen. Außerdem finde ich hat das Produkt einen guten Market-Fit und lässt es lässt sich gut verkaufen. Die Größe des Produkt-Teams sorgt dafür, dass produktbezogenes Feedback auch wirklich ankommt und das Produkt sich schnell entwickelt. Dadurch macht es Spaß mit dem Produkt zu arbeiten. Zudem hat simpleclub bereites eine Marktbekanntheit, was den Einstieg in Gespräche mit Prospects vereinfachen kann.",
+        "negative": "Als ich im Unternehmen gestartet bin, wurde mir vom Team und meinem Manager vorerst in keiner Weise Druck gemacht. Mir wurde gesagt, es wäre normal, wenn der erste Deal erst später kommen würde und mir wurden Beispiele von Kollegen gemacht bei denen das auch so war, also sollte ich mich nicht sorgen. Mein erster Deal kam aber nach kurzer Zeit. Mein Onboarding war zwischen den Kollegen unterteilt, mein Manager hatte viele Onboarding-Aufgaben abgegeben und musste des Öfteren gemeinsame Termine absagen oder verschieben. Ich hatte keine KPI's nach denen ich mich richten konnte und habe daher meinem Team geglaubt, dass so wie ich arbeite es in Ordnung wäre. Ich hatte einige Deals und habe normal nach meinen Arbeitszeiten gearbeitet. Als dann das Thema Ende der Probezeit im Raum stand, gab es ein positives Meeting mit meinem Manager der gesagt hat, ich wäre 'on track', wenn ich weiter so Deals reinholen würde, könnten wir die Probezeit in einem Monat beenden. Ich sollte nur etwas mehr Outbound machen. Hier habe ich ihn nach KPI's gefragt und er meinte ganz lässig und für mich sehr unverbindlich, ich könnte mich nach 50 Anrufe pro Woche richten. Da das Team ab diesen Monat sehr am wachsen war, wurde mir mitgeteilt, es gäbe bald einen Teamlead und dass das große Team in zwei geteilt wird. Ich wurde zuvor in einem Bucket mit bis zu 50 Lizenzen eingeteilt, mit der Info, das wäre nur für den Start, danach könnte man schauen, dass ich auch größere Deals bekomme. Als das Team dann neu eingeteilt wurde, wurde ich in das Junior-Team gepackt und mein Bucket wurde ohne es mit mir zu besprechen auf weniger als die Hälfte gesetzt. Ich hatte also ab sofort nur noch kleinere Deals, obwohl ich bereits seit einem halben Jahr an sehr viel größeren gearbeitet hatte. Ich habe hierfür nur die Erklärung bekommen, der Manager hätte das so bestimmt. Ich habe mich an der Stelle nicht wertgeschätzt gefühlt. Mit dem neuen Monat habe ich dann einen Teamlead bekommen und nach wenigen Tagen ein Meeting mit dem Manager und meinem Teamlead, in welchem mir gesagt wurde, es müsste sich sofort etwas an meiner Arbeitsweise ändern, sonst würde es hier nicht weitergehen. Ich hatte im Monat davor von meinem Manager noch kommuniziert bekommen, dass ich 'on track' wäre und hatte auch mehr Outbound gemacht. Meine Probezeit wurde einige Monate zuvor verlängert mit der damaligen Begründung, ich müsste mir keine Sorgen machen, das wäre nur damit meine Probezeit so lang wäre wie bei den Kollegen in Deutschland. In dem Gespräch mit dem Manager wurde mir dann von ihm gesagt, es wäre doch Zeichen genug gewesen, dass meine Probezeit verlängert wurde. Ich wurde von meinem Manager zuvor dementsprechend angelogen. Die Atmosphäre hatte sich in kürzester Zeit geändert. Auch wurde mir gesagt ich müsste mehr Deals reinholen, was vorher nie angesprochen wurde. Hierfür konnte mir auch keine konkrete Summe genannt werden die erwirtschaftet werden müsste. Es wird mit Jahreszielen gearbeitet und wir hatten Januar. Dementsprechend konnte hier keine Aussage getroffen werden ob ich mein Ziel erreicht habe oder nicht. In diesem Meeting habe ich konkret nach KPI's gefragt und mich dann mit meinem Teamlead auf konkrete Zahlen bezüglich Anrufe, Mails und gebuchte Meetings geeinigt, welche ich ab dann immer eingehalten habe, bzw. in der Regel übertroffen habe. Diese habe ich jeden Abend in einem Report aus Eigeninitiative festgehalten und meinem Teamlead zur Verfügung gestellt, mit der Bitte mir Bescheid zu geben, sobald er unzufrieden mit einem Bereich ist. In mehreren 1to1 Gesprächen danach habe ich meinem Teamlead mitgeteilt, dass ich mich trotzdem noch verunsichert fühle und er versicherte mir er würde die Reports lesen und mir Bescheid geben, sobald etwas nicht passen würde. Wenige Wochen später hatte ich ein spontanes Meeting mit der HR und meinem Teamlead eingestellt bekommen und wurde mit sofortiger Wirkung gekündigt. Als Grund wurde kein spezifischer genannt, nur dass 'Dinge zusammen gekommen wären'. Mein Teamlead hatte unsere Absprache nicht eingehalten. Ich hatte noch 20 Minuten Zugang, bis ich dann ohne weitere Gespräche oder Möglichkeiten einer Übergabe meiner Kunden gesperrt wurde.",
+        "suggestion": "Personen sollten meiner Meinung nach nicht in Führungspositionen gesetzt werden, nur weil sie am längsten dabei sind. Die Manager und Teamleads die ich in diesem Unternehmen kennengelernt habe, stärken ihren Mitarbeitern nicht den Rücken und ehrliches Vertrauen aufbauen fällt schwer bei der fehlenden Kommunikation. Ich glaube der Zuwachs von Außen mit externen Personen wird dem Unternehmen gut tun."
+      },
+      "factor_comments": {
+        "atmosphere": "Die Kollegen sind super, jedoch wird von oben stark Druck gemacht über eine hohe Erwartungshaltung die nicht kommuniziert wird. Es soll alles 'cool und locker' wirken, jedoch fehlt ohne KPI's und zuverlässiges Feedback seitens Manager, Vertrauen in der eigenen Performance, ob diese ausreichend ist. Das schafft Verunsicherung.",
+        "image": "Das Image was nach außen kommuniziert wird passt für mich nicht überein. Flexible Arbeitszeiten? Ja, was dafür sorgt, dass es einige Mitarbeiter im Vertrieb gibt, die über die normalen Arbeitszeiten auch noch am Wochenende arbeiten. Das sollte nicht der Sinn der Sache sein. Mit umlimitierten Urlaubstagen wurde ich zu Beginn beworben. Als ich nach einigen Monaten Urlaub nehmen wollte und nach Richtlinien hierzu gefragt habe, wurde von unserem Manager dann kommuniziert, dass über die normalen Urlaubstage hinaus nur in Ausnahmefällen und bei überdurchschnittlicher Leistung Urlaub gibt. Ich habe nicht mitbekommen, dass sich jemand aus meinem Team mehr als die ihm zustehenden Tage genommen hat. Zudem ist die Unzufriedenheit in den Teams die ich kennengelernt habe sehr hoch. Das wird jedoch kaum nach außen geäußert, da Personen die Feedback geben und nachfragen gekündigt werden. Als ich zu Beginn zu einem Teamevent eingeladen wurde, dann mein Mittagessen selber bezahlen musste, ohne vorherige Kommunikation darüber, wurde mir gesagt, ich soll meinen Ummut lieber für mich behalten, der Letzte der Kritik geäußert hätte wäre gekündigt worden.",
+        "workLife": "Man wird verglichen mit Kollegen die über die normalen Arbeitszeiten hinaus, zusätzlich noch am Wochenende arbeiten. Es gibt kaum Vorgaben, wie die flexiblen Arbeitszeiten genutzt werden können. Simpleclub ist mehr Start-Up als ich zuvor erwartet habe. Viele Strukturen sind noch ganz frisch oder existieren noch nicht. Vieles ist noch nicht systematisiert und auch hatte ich den Eindruck, war das Management noch nicht sehr erfahren. Es fallen einige Aufgaben an, die ggf. in anderen Unternehmen schon automatisiert sind, wie zum Beispiel die Suche nach neuen Accounts und das Anlegen dieser, da mehr Kollegen in kurzer Zeit dazugekommen sind, die Pipe aber nicht mitgewachsen ist. Die Kollegen sind sehr engagiert, und nehmen auch unbezahlte Überstunden freiwillig auf.",
+        "environment": "Im Bezug auf das Unternehmen kann ich keine Aussage treffen aber im Bezug auf die Belegschaft ist zu sagen, dass mir aufgefallen ist, dass viele der Kollegen vegan/vegetarisch sind und LGBTIQA+ Themen Platz finden. Die Kollegen sind sehr weltoffen.",
+        "career": "Meine Deal Größe war von Beginn an kleiner im Vergleich zu meinem vorherigen Arbeitgeber und wurde dann sogar noch ohne Absprache nach einigen Monaten weiter runtergesetzt. Trotz der vorherigen Aussage, dass ich in Zukunft auch an größeren Deals arbeiten könnte.",
+        "teamwork": "Die Kollegen sind super. Man fühlt sich sehr willkommen und trifft nur auf offene, hilfsbereite Personen.",
+        "leadership": "Ich war absolut nicht zufrieden mit der unzuverlässigen Kommunikation meines Managers. Ich habe mich nicht unterstützt und wertgeschätzt gefühlt. Von meinem eigenen Teamlead wurden mir Deals weggenommen, ohne ein 'Danke' dafür oder sonst irgendeiner Wertschätzung. Meiner Meinung nach gilt in diesem Unternehmen: was der Manager sagt, wird nicht hinterfragt. Das sogenannte 'Stay' Interview, welches zur Erhebung der Zufriedenheit und Feedback der Mitarbeiter dienen soll, wurde von meinem Teamlead in einem 1to1, einen Monat bevor ich gekündigt wurde, abgespeist mit: 'Ja eigentlich müssten wir ja jetzt das Stay Interview machen, aber ich weiß ja du bist motiviert, dann passt das ja.' Meine Kommission wurde 2x vergessen. Beim ersten Mal hieß es laut HR, dass mein Manager behauptete, ich hätte meine Deals zu spät eingetragen, was nicht stimmte. Beim zweiten Mal, musste ich noch einmal nach meiner Kommission fragen, nachdem ich mein letztes Gehalt bekommen habe.",
+        "workConditions": "Durch die hohe Erwartungshaltung, welche aber nicht offen kommuniziert wird, fühlen sich viele der Mitarbeiter sehr unter Druck gesetzt. Selbst Personen die schön langer dabei sind, trauen sich nicht offen ihre Meinung zu sagen. Da sehr junge Leute eingestellt werden, teilweise Personen die noch im Studium sind, hatte ich das Gefühl, wird deren Unwissen über ihre Möglichkeiten ausgenutzt. Zudem gab es einen Vorfall bei dem einige Kollegen inkl. Teamleiter, welche schon seit Jahren dabei waren, von heute auf morgen gekündigt wurden. Dieser Vorfall hat die Stimmung noch weiter runtergezogen und das betroffene Team unter noch mehr Druck gesetzt, bloß keinen Fehler zu machen.",
+        "communication": "Kommunikation ist schwierig, da kein Platz für Feedback besteht. Die Mitarbeiter haben ihren Job zu machen und sollten nicht zu viele kritische Fragen stellen. Jedoch sind die Kollegen immer erreichbar und zuverlässig. Trotz full remote, gibt es viele Wege mit den Kollegen zu sprechen. Und auch die Terminkalender sind teamübergreifend offen für einen internen virtuellen Coffee.",
+        "salary": "Im Vergleich zum Gehalt was mir bei anderen Unternehmen angeboten wurde, bezahlt simpleclub eher im unteren Durchschnitt. Kommission muss selber getracked werden, hierfür sind die Systeme noch nicht automatisiert."
+      },
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-05-03T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    }
+  ],
+  "review_limit": 15,
+  "review_period": {
+    "since": "2024-11-25T00:00:00+00:00",
+    "until": "2026-11-25T17:19:13.746795+00:00",
+    "date_field": "published_at",
+    "missing_dates": "excluded"
+  },
+  "factor_scores_aggregated": {
+    "atmosphere": {
+      "mean": 3.9,
+      "count": 10
+    },
+    "workLife": {
+      "mean": 4.8,
+      "count": 10
+    },
+    "communication": {
+      "mean": 3.75,
+      "count": 12
+    },
+    "workConditions": {
+      "mean": 4.5,
+      "count": 12
+    },
+    "leadership": {
+      "mean": 3.83,
+      "count": 12
+    },
+    "teamwork": {
+      "mean": 4.67,
+      "count": 12
+    },
+    "oldColleagues": {
+      "mean": 4.0,
+      "count": 9
+    },
+    "equality": {
+      "mean": 4.4,
+      "count": 10
+    },
+    "career": {
+      "mean": 4.0,
+      "count": 10
+    },
+    "salary": {
+      "mean": 3.83,
+      "count": 12
+    },
+    "image": {
+      "mean": 4.0,
+      "count": 12
+    },
+    "environment": {
+      "mean": 4.22,
+      "count": 9
+    },
+    "tasks": {
+      "mean": 4.0,
+      "count": 12
+    }
+  },
+  "coverage": "bounded_employee_review_sample_last_2_years_not_all_reviews",
+  "diagnostics": {
+    "pages": [
+      {
+        "page": "reviews",
+        "page_number": 1,
+        "load_more_clicks": 0,
+        "requested_url": "https://www.kununu.com/de/simpleclub/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\simpleclub-ad0918ec\\browser\\reviews.html",
+        "browser_step": 157,
+        "final_url": "https://www.kununu.com/de/simpleclub/kommentare",
+        "observed_at": "2026-11-25T17:19:15.929713+00:00",
+        "http_status": 200,
+        "factor_cards_expanded": 1,
+        "reviews_collected": 10
+      },
+      {
+        "page": "reviews",
+        "page_number": 2,
+        "load_more_clicks": 1,
+        "requested_url": "https://www.kununu.com/de/simpleclub/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\simpleclub-ad0918ec\\browser\\reviews-2.html",
+        "browser_step": 158,
+        "final_url": "https://www.kununu.com/de/simpleclub/kommentare",
+        "observed_at": "2026-11-25T17:19:17.499364+00:00",
+        "actions_complete": true,
+        "factor_cards_expanded": 2,
+        "reviews_collected": 15
+      }
+    ]
+  },
+  "source_url": "https://www.kununu.com/de/simpleclub",
+  "profile_source": "https://www.kununu.com/de/simpleclub/kommentare",
+  "review_stop_reason": "sample_limit_reached",
+  "factor_score_coverage": {
+    "reviews_with_scores": 12,
+    "reviews_without_scores": 3,
+    "reviews_with_all_known_scores": 8,
+    "status": "partial"
+  },
+  "request_limits": {
+    "max_browser_steps": 295,
+    "browser_steps": 158,
+    "zyte_requests": 0
+  },
+  "reason": null
+}

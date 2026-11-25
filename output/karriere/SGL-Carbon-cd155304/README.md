@@ -1,0 +1,78 @@
+# SGL Carbon SE
+
+Status: ok; Stellen: 63
+
+Erfasst werden veröffentlichte Angebote auf den geprüften Seiten. Die vollständige Zahl aller offenen Stellen ist nicht garantiert.
+
+## Karrierequellen
+
+- [https://www.sglcarbon.com/](https://www.sglcarbon.com/) (configured)
+- [https://jobs.sglcarbon.com/go/Alle-Stellen/4707801/](https://jobs.sglcarbon.com/go/Alle-Stellen/4707801/) (employer_link) — von https://www.sglcarbon.com/
+- [https://www.sglcarbon.com/unternehmen/karriere/warum-sgl/](https://www.sglcarbon.com/unternehmen/karriere/warum-sgl/) (http_redirect) — von https://www.sglcarbon.com/unternehmen/karriere/sgl-als-arbeitgeber/
+- [https://www.sglcarbon.com/en/company/careers/](https://www.sglcarbon.com/en/company/careers/) (http_redirect) — von https://www.sglcarbon.com/en/company/careers/sgl-carbon-as-an-employer/
+
+## Stellen
+
+- [Maschinen- und Anlagenführer Weberei (m/w/d)](https://jobs.sglcarbon.com/job/Meitingen-Maschinen-und-Anlagenf%C3%BChrer-Weberei-%28mwd%29-BY-86405/1460604333/)
+- [Sr. Engineer, CVD Process, A&T MEA](https://jobs.sglcarbon.com/job/St_-Marys-Sr_-Engineer%2C-CVD-Process%2C-A&T-MEA-PA-15857/1410988133/)
+- [Business Development Manager (w/m/d)  Aerospace & Defense](https://jobs.sglcarbon.com/job/Meitingen-Business-Development-Manager-%28wmd%29-Aerospace-&-Defense-BY-86405/1410905333/)
+- [Ausbildungsplatz zum Maschinen- und Anlagenführer (m/w/d) zum 01.09.2027](https://jobs.sglcarbon.com/job/Bonn-Ausbildungsplatz-zum-Maschinen-und-Anlagenf%C3%BChrer-%28mwd%29-zum-01_09_2027-NW-53170/1420853133/)
+- [Ausbildungsplatz zum Industriemechaniker (m/w/d) zum 01.09.2027](https://jobs.sglcarbon.com/job/Bonn-Ausbildungsplatz-zum-Industriemechaniker-%28mwd%29-zum-01_09_2027-NW-53170/1420853933/)
+- [Ausbildungsplatz zum Zerspanungsmechaniker (m/w/d) zum 01.09.2027](https://jobs.sglcarbon.com/job/Bonn-Ausbildungsplatz-zum-Zerspanungsmechaniker-%28mwd%29-zum-01_09_2027-NW-53170/1420854433/)
+- [Ausbildungsplatz zum Elektroniker für Betriebstechnik (m/w/d) zum 01.09.2027](https://jobs.sglcarbon.com/job/Bonn-Ausbildungsplatz-zum-Elektroniker-f%C3%BCr-Betriebstechnik-%28mwd%29-zum-01_09_2027-NW-53170/1420880433/)
+- [Operator, Production](https://jobs.sglcarbon.com/job/Valencia-Operator%2C-Production-CA-91355/1005821301/)
+- [ESHA NA Manager, Environmental](https://jobs.sglcarbon.com/job/Charlotte-ESHA-NA-Manager%2C-Environmental-NC-28262/1366981933/)
+- [Shift Maintenance Technician](https://jobs.sglcarbon.com/job/Muir-of-Ord-Shift-Maintenance-Technician-SCT-IV6-7UA/1459725533/)
+- [Maintenance Assistant](https://jobs.sglcarbon.com/job/Muir-of-Ord-Maintenance-Assistant-SCT-IV6-7UA/1459747833/)
+- [Produktionshelfer für                                Hochtemperaturanlagen (m/w/d)](https://jobs.sglcarbon.com/job/Bonn-Produktionshelfer-f%C3%BCr-Hochtemperaturanlagen-%28mwd%29-NW-53170/1441280133/)
+- [Mitarbeiter in der Instandhaltung (m/w/d)](https://jobs.sglcarbon.com/job/Bonn-Mitarbeiter-in-der-Instandhaltung-%28mwd%29-NW-53170/1409936433/)
+- [Industriemechaniker / Anlagenbediener für Hochtemperaturanlagen (m/w/d)](https://jobs.sglcarbon.com/job/Bonn-Industriemechaniker-Anlagenbediener-f%C3%BCr-Hochtemperaturanlagen-%28mwd%29-NW-53170/1441265533/)
+- [Business Unit Controller (m/f/d)](https://jobs.sglcarbon.com/job/Meitingen-Business-Unit-Controller-%28mfd%29-BY-86405/1441048333/)
+- [Director of Sales, North America](https://jobs.sglcarbon.com/job/Valencia-Director-of-Sales%2C-North-America-CA-91355/1450517833/)
+- [IT Application Consultant SAP Controlling (m/f/d)](https://jobs.sglcarbon.com/job/Bonn-IT-Application-Consultant-SAP-Controlling-%28mfd%29-NW-53170/1450204633/)
+- [Compliance Officer (m/w/d)](https://jobs.sglcarbon.com/job/Meitingen-Compliance-Officer-%28mwd%29-BY-86405/1459210033/)
+- [IT System Engineer](https://jobs.sglcarbon.com/job/St_-Marys-IT-System-Engineer-PA-15857/1449969933/)
+- [Process Operator I](https://jobs.sglcarbon.com/job/Arkadelphia-Process-Operator-I-AR-71932/1458548933/)
+- [Lehrling Mechatronik (m/w/d) ab August 2027](https://jobs.sglcarbon.com/job/Ort-im-Innkreis-Lehrling-Mechatronik-%28mwd%29-ab-August-2027-4974/1397602533/)
+- [Konsultant ds. Aplikacji SAP CO (M/F/D)](https://jobs.sglcarbon.com/job/Bonn-Konsultant-ds_-Aplikacji-SAP-CO-%28MFD%29-NW-53170/1457953233/)
+- [Konstrukteur Werkzeugbau (m/w/d)](https://jobs.sglcarbon.com/job/Ried-im-Innkreis-Konstrukteur-Werkzeugbau-%28mwd%29-4910/1457895733/)
+- [Berufseinsteiger/ -erfahrene (m/w/d)](https://jobs.sglcarbon.com/go/Berufseinsteiger-erfahrene-%28mwd%29/4708001/)
+- [Professionals (m/f/d)](https://jobs.sglcarbon.com/go/Professionals-%28mfd%29/4708101/)
+- [Auszubildende (m/w/d)](https://jobs.sglcarbon.com/go/Auszubildende-%28mwd%29/4708401/)
+- [Facharbeiter (m/w/d) im Bereich CFK-Laminieren](https://jobs.sglcarbon.com/job/Meitingen-Facharbeiter-%28mwd%29-im-Bereich-CFK-Laminieren-BY-86405/1447962433/)
+- [Process Manager](https://jobs.sglcarbon.com/job/Yangquan-Process-Manager-SX-45210/1396298833/)
+- [Technical Engineer, Quality](https://jobs.sglcarbon.com/job/St_-Marys-Technical-Engineer%2C-Quality-PA-15857/1396018033/)
+- [Engineer, Quality Systems](https://jobs.sglcarbon.com/job/St_-Marys-Engineer%2C-Quality-Systems-PA-15857/1396017233/)
+- [Engineer, CVD Process](https://jobs.sglcarbon.com/job/St_-Marys-Engineer%2C-CVD-Process-PA-15857/1396081233/)
+- [Junior Strategic Buyer (m/w/d)](https://jobs.sglcarbon.com/job/Ried-im-Innkreis-Junior-Strategic-Buyer-%28mwd%29-4910/1403751433/)
+- [Application Developer / Software Developer MES (m/w/d)](https://jobs.sglcarbon.com/job/Ried-im-Innkreis-Application-Developer-Software-Developer-MES-%28mwd%29-4910/1403760633/)
+- [Elektroniker für Automatisierungs- oder Betriebstechnik (m/w/d)](https://jobs.sglcarbon.com/job/Bonn-Elektroniker-f%C3%BCr-Automatisierungs-oder-Betriebstechnik-%28mwd%29-NW-53170/1413865733/)
+- [Process Engineer I](https://jobs.sglcarbon.com/job/Morganton-Process-Engineer-I-NC-28655/995211201/)
+- [Operator, Assembler/Impregnation](https://jobs.sglcarbon.com/job/Strongsville-Operator%2C-AssemblerImpregnation-OH-44149/1444048133/)
+- [Tax Manager Transfer Pricing (m/f/d)](https://jobs.sglcarbon.com/job/Alhos-Vedros-Tax-Manager-Transfer-Pricing-%28mfd%29-2860-140/1443275733/)
+- [Lehrling Faserverbundtechnik (m/w/d) ab August 2027](https://jobs.sglcarbon.com/job/Ried-im-Innkreis-Lehrling-Faserverbundtechnik-%28mwd%29-ab-August-2027-4910/1445906533/)
+- [Ausbildungsplätze zum Zerspanungsmechaniker (m/w/d) zum 01.09.2027](https://jobs.sglcarbon.com/job/Meitingen-Ausbildungspl%C3%A4tze-zum-Zerspanungsmechaniker-%28mwd%29-zum-01_09_2027-BY-86405/1419070033/)
+- [Commercial Engineer/ Sales Support](https://jobs.sglcarbon.com/job/Strongsville-Commercial-Engineer-Sales-Support-OH-44149/1400049933/)
+- [Werkstudent (m/w/d) IT](https://jobs.sglcarbon.com/job/Meitingen-Werkstudent-%28mwd%29-IT-BY-86405/1444180533/)
+- [Praktikant (m/w/d) im Bereich Notfallmanagement](https://jobs.sglcarbon.com/job/Meitingen-Praktikant-%28mwd%29-im-Bereich-Notfallmanagement-BY-86405/1453317733/)
+- [Werkstudent (m/w/d) Produktion-/Prozess-Engineering](https://jobs.sglcarbon.com/job/Meitingen-Werkstudent-%28mwd%29-Produktion-Prozess-Engineering-BY-86405/1423733933/)
+- [Produktionsmeister (m/w/d)](https://jobs.sglcarbon.com/job/Willich-Produktionsmeister-%28mwd%29-47877/1443287433/)
+- [Process Operators](https://jobs.sglcarbon.com/job/Muir-of-Ord-Process-Operators-SCT-IV6-7UA/1396971433/)
+- [Studenten und Praktikanten (m/w/d)](https://jobs.sglcarbon.com/go/Studenten-und-Praktikanten-%28mwd%29/4708201/)
+- [Führungskräfte (m/f/d)](https://jobs.sglcarbon.com/go/F%C3%BChrungskr%C3%A4fte-%28mfd%29/9477501/)
+- [Berufseinsteiger/ -erfahrene (m/w/d)](https://jobs.sglcarbon.com/go/Berufseinsteiger-erfahrene-(mwd)/4708001/?q=&sortColumn=sort_title&sortDirection=desc)
+- [Auszubildende (m/w/d)](https://jobs.sglcarbon.com/go/Auszubildende-(mwd)/4708401/?q=&sortColumn=sort_title&sortDirection=desc)
+- [Suchergebnisse für "Berufseinsteiger/ -erfahrene (m/w/d)".](https://jobs.sglcarbon.com/search/?createNewAlert=false&q=&locationsearch=&optionsFacetsDD_location=&optionsFacetsDD_facility=&optionsFacetsDD_country=&optionsFacetsDD_customfield2=Berufseinsteiger%2F+-erfahrene+%28m%2Fw%2Fd%29)
+- [Suchergebnisse für "Studenten und Praktikanten (m/w/d)".](https://jobs.sglcarbon.com/search/?createNewAlert=false&q=&locationsearch=&optionsFacetsDD_location=&optionsFacetsDD_facility=&optionsFacetsDD_country=&optionsFacetsDD_customfield2=Studenten+und+Praktikanten+%28m%2Fw%2Fd%29)
+- [Suchergebnisse für "Auszubildende (m/w/d)".](https://jobs.sglcarbon.com/search/?createNewAlert=false&q=&locationsearch=&optionsFacetsDD_location=&optionsFacetsDD_facility=&optionsFacetsDD_country=&optionsFacetsDD_customfield2=Auszubildende+%28m%2Fw%2Fd%29)
+- [Suchergebnisse für "Willich UND Auszubildende (m/w/d)".](https://jobs.sglcarbon.com/search/?createNewAlert=false&q=&locationsearch=Willich&optionsFacetsDD_location=&optionsFacetsDD_facility=&optionsFacetsDD_country=&optionsFacetsDD_customfield2=Auszubildende+%28m%2Fw%2Fd%29)
+- [Studenten und Praktikanten (m/w/d)](https://jobs.sglcarbon.com/go/Studenten-und-Praktikanten-(mwd)/4708201/?q=&sortColumn=sort_title&sortDirection=desc)
+- [Führungskräfte (m/f/d)](https://jobs.sglcarbon.com/go/Führungskräfte-(mfd)/9477501/?q=&sortColumn=sort_title&sortDirection=desc)
+- [Berufseinsteiger/ -erfahrene (m/w/d)](https://jobs.sglcarbon.com/go/Berufseinsteiger-erfahrene-(mwd)/4708001/?q=&sortColumn=sort_title&sortDirection=asc)
+- [Auszubildende (m/w/d)](https://jobs.sglcarbon.com/go/Auszubildende-(mwd)/4708401/?q=&sortColumn=sort_title&sortDirection=asc)
+- [Search results for "Berufseinsteiger/ -erfahrene (m/w/d)".](https://jobs.sglcarbon.com/search/?q=&optionsFacetsDD_customfield2=Berufseinsteiger%2F+-erfahrene+%28m%2Fw%2Fd%29)
+- [Search results for "Studenten und Praktikanten (m/w/d)".](https://jobs.sglcarbon.com/search/?q=&optionsFacetsDD_customfield2=Studenten+und+Praktikanten+%28m%2Fw%2Fd%29)
+- [Search results for "Auszubildende (m/w/d)".](https://jobs.sglcarbon.com/search/?q=&optionsFacetsDD_customfield2=Auszubildende+%28m%2Fw%2Fd%29)
+- [Search results for "Willich AND Auszubildende (m/w/d)".](https://jobs.sglcarbon.com/search/?q=&locationsearch=Willich&optionsFacetsDD_customfield2=Auszubildende+%28m%2Fw%2Fd%29)
+- [Studenten und Praktikanten (m/w/d)](https://jobs.sglcarbon.com/go/Studenten-und-Praktikanten-(mwd)/4708201/?q=&sortColumn=sort_title&sortDirection=asc)
+- [Führungskräfte (m/f/d)](https://jobs.sglcarbon.com/go/Führungskräfte-(mfd)/9477501/?q=&sortColumn=sort_title&sortDirection=asc)

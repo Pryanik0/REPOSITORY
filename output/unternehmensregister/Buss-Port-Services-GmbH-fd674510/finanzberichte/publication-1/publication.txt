@@ -1,0 +1,123 @@
+Buss Port Services GmbH — Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024
+Buss Port Services GmbH
+
+Hamburg
+
+Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024
+
+Bilanz zum 31. Dezember 2024
+
+AKTIVA
+
+scroll
+
+	31.12.2024	31.12.2023
+	EUR	EUR
+A. Anlagevermögen		
+I. Sachanlagen		
+1. andere Anlagen, Betriebs- und Geschäftsausstattung	142.440,00	203.122,26
+Summe Anlagevermögen	142.440,00	203.122,26
+B. Umlaufvermögen		
+I. Forderungen und sonstige Vermögensgegenstände		
+1. Forderungen aus Lieferungen und Leistungen	749.912,93	707.567,66
+2. Forderungen gegen verbundene Unternehmen	17.926,23	406.797,88
+- davon aus Lieferungen und Leistungen 17.926,23 EUR (Vorjahr: 407 TEUR)		
+3. Forderungen gegen Gesellschafter	0,00	183,91
+- davon aus Lieferungen und Leistungen 0,00 EUR (Vorjahr: 0 TEUR)		
+4. sonstige Vermögensgegenstände	24.198,59	53.545,58
+	792.037,75	1.168.095,03
+II. Kassenbestand, Guthaben bei Kreditinstituten	895.077,10	248.216,63
+Summe Umlaufvermögen	1.687.114,85	1.416.311,66
+	1.829.554,85	1.619.433,92
+
+PASSIVA
+
+scroll
+
+	31.12.2024	31.12.2023
+	EUR	EUR
+A. Eigenkapital		
+I. Gezeichnetes Kapital	50.000,00	50.000,00
+Summe Eigenkapital	50.000,00	50.000,00
+B. Rückstellungen		
+1. sonstige Rückstellungen	121.620,00	103.460,00
+Summe Rückstellungen	121.620,00	103.460,00
+C. Verbindlichkeiten		
+1. Verbindlichkeiten gegenüber Kreditinstituten	36.182,11	49.519,66
+2. Verbindlichkeiten aus Lieferungen und Leistungen	58.311,07	100.113,04
+3. Verbindlichkeiten gegenüber verbundenen Unternehmen	30.693,84	16.343,95
+4. Verbindlichkeiten gegenüber Gesellschaftern	1.352.770,59	1.088.111,03
+5. sonstige Verbindlichkeiten	179.977,24	211.886,24
+- davon aus Steuern 65.899,05 EUR (Vorjahr: 81 TEUR)		
+Summe Verbindlichkeiten	1.657.934,85	1.465.973,92
+	1.829.554,85	1.619.433,92
+
+Feststellung des Jahresabschlusses gemäß Protokoll der Gesellschafterversammlung am 16.09.2025
+
+Anhang für das Geschäftsjahr 2024
+
+1. Allgemeine Grundsätze
+
+Die Buss Port Services GmbH hat ihren Sitz in Hamburg und ist eingetragen in das Handelsregister beim Amtsgericht Hamburg (Reg.Nr. HRB 93637).
+
+Für die Darstellung der Gewinn- und Verlustrechnung wurde das Gesamtkostenverfahren gewählt.
+
+Die Erstellung des Jahresabschlusses erfolgt nach den Vorschriften des Handelsgesetzbuches in der Fassung des Bilanzrichtlinie-Umsetzungsgesetzes (BilRUG).
+
+Von den Erleichterungen für kleine Kapitalgesellschaften gemäß §§ 274a, 276, 288 i.V.m. § 267 Abs. 1 HGB wurde Gebrauch gemacht.
+
+2. Bilanzierungs- und Bewertungsmethoden
+
+Das Sachanlagevermögen wurde zu Anschaffungs- bzw. Herstellungskosten angesetzt und um planmäßige Abschreibungen vermindert. Die Abschreibungen wurden nach der voraussichtlichen betriebsbedingten Nutzungsdauer der Wirtschaftsgüter im Geschäftsjahr linear vorgenommen. Alle Wirtschaftsgüter mit Anschaffungskosten bis 800,00 EUR wurden sofort abgeschrieben und der Abgang im Jahr der Anschaffung unterstellt.
+
+Die Forderungen und sonstige Vermögensgegenstände wurden zum Nominalwert bzw. unter Berücksichtigung aller erkennbaren Risiken bewertet.
+
+Flüssige Mittel und aktive Rechnungsabgrenzungsposten wurden zu Nominalwerten angesetzt.
+
+Die Rückstellungen wurden für ungewisse Verbindlichkeiten gebildet. Dabei wurden alle erkennbaren Risiken berücksichtigt. Die Rückstellungen wurden in Höhe des nach vernünftiger kaufmännischer Beurteilung notwendigen Erfüllungsbetrages bewertet.
+
+Die Verbindlichkeiten wurden zum Erfüllungsbetrag angesetzt.
+
+3. Gewinn- und Verlustrechnung
+
+Zwischen der Buss Port Services GmbH und der Buss Port Logistics GmbH & Co. KG besteht ein Ergebnisabführungsvertrag. Der sich aus der Gewinn- und Verlustrechnung ergebene Jahresüberschuss in Höhe von 261.937,90 EUR wird an die Buss Port Logistics GmbH & Co. KG abgeführt.
+
+4. Erläuterungen zur Bilanz
+
+Die Aufgliederung und Bewegungen des Anlagevermögens sind diesem Anhang beigefügtem Anlagespiegel zu entnehmen.
+
+Sämtliche Forderungen und sonstige Vermögensgegenstände haben eine Restlaufzeit von unter einem Jahr.
+
+Die Gesellschaft weist ein Stammkapital von 50.000,00 EUR aus. Das Stammkapital ist voll eingezahlt.
+
+Die Aufgliederung der Verbindlichkeiten sind dem diesem Anhang beigefügten Verbindlichkeitenspiegel zu entnehmen.
+
+Sonstige finanzielle Verpflichtungen:
+
+scroll
+
+	Restlaufzeit bis zu einem Jahr	Restlaufzeit zwischen einem und fünf Jahren	Restlaufzeit von mehr als fünf Jahren	Gesamt
+Miete Gebäude/Hallen	54.861,60 €	96.007,80 €	- €	150.869,40 €
+davon ggü. Gesellschafter	- €	- €	- €	- €
+Leasing KFZ	5.806,08 €	5.806,08 €	- €	11.612,16 €
+Summe	60.667,68 €	101.813,88 €	- €	162.481,56 €
+
+5. Sonstige Angaben
+
+Während des Geschäftsjahres 2024 wurden durchschnittlich 54 Mitarbeiter beschäftigt (Vorjahr: 53).
+
+Während des abgelaufenen Geschäftsjahres wurden die Geschäfte des Unternehmens durch den Geschäftsführer
+
+Morten Lund, Kaufmann, Wentorf
+
+geführt.
+
+Die Geschäftsführung hat im abgelaufenen Geschäftsjahr keine sonstigen Vorschüsse oder Kredite erhalten. Hinsichtlich der weiteren Angaben der Geschäftsführerbezüge macht die Gesellschaft von der Vorschrift des § 286 Abs. 4 HGB Gebrauch.
+
+Alleinige Gesellschafterin ist die Buss Port Logistics GmbH & Co. KG, Hamburg.
+
+Hamburg, 12. September 2025
+
+Buss Port Services GmbH
+
+Morten Lund

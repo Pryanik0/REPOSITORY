@@ -1,0 +1,482 @@
+{
+  "company": {
+    "key": "Dr. Pfleger Arzneimittel",
+    "name": "Dr. Pfleger Arzneimittel GmbH",
+    "location": "Bamberg",
+    "name_source": "company_name",
+    "urls": [
+      "https://dr-pfleger.de/"
+    ],
+    "kununu_url": "https://www.kununu.com/de/dr-r-pfleger",
+    "branches": [
+      "Pharma & Medizintechnik"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "96052",
+    "street": "Dr.-Robert-Pfleger-Straße 12",
+    "region": "Bayern",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:43:28.404875+00:00",
+  "searches": [
+    {
+      "accounting_only": true,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=Dr.+Pfleger+Arzneimittel+GmbH&companyLocation=Bamberg&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ACCOUNTING&drilldownFilter=22&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": true
+    },
+    {
+      "accounting_only": false,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=Dr.+Pfleger+Arzneimittel+GmbH&companyLocation=Bamberg&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ALL_AREAS&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": true
+    }
+  ],
+  "excluded_company_matches": [
+    {
+      "company": "Pfleger Health Solutions GmbH (vormals: dabeipackzettel GmbH), Bamberg (vormals: Hallstadt)",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-01-27",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=ayVC5bCa2y0KzahjDy22KG1oEEe0O9sZu5QhQZzmQH3b_bXdcqmgnEReHyUR3Tuo1NE39XvL0Fof1VCp2uW7hY1Tg9YSdynf1b3LXXNlWQx1ALLn_Nx4mSFhHVgawl0xNfLbVgdTj2j-pMaMe8h-9nUFzHJVfgCSDnr_aVM-pN037X4Vwyto_uX631yz2RTpG32ScLiu9ZM4iAruKJ2qEdsuBT5hYTRhLy33cGoiPG9Id5TJ",
+      "metadata": "Pfleger Health Solutions GmbH (vormals: dabeipackzettel GmbH), Bamberg (vormals: Hallstadt) Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Dr. Pfleger Arzneimittel GmbH, Bamberg Datum: 27.01.2026 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "BIO-H-TIN Pharma GmbH, Bamberg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-01-27",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=3o8dNgOO2rzI13GM_n7DcpECgwwhOqxRj0YIh5fhEvMXu3oxQnTIslFcOuH8y_PKx3wChqMCemgQt2Z4wGEKsWsYXz8l2UI8F9bW2dkizhIZGWfJGa-jt5wTfOFjnWJ6CQxffTdRobo6jIqxC6_mDkHjjdGkskUj9uGkAwB7dV0iJCwxAOAkBsvhMTMW9aoCfEBMHpjfpAb4MBjT-eItt5Tzdeg-beAywTZpLQ7auJrgg_Cp",
+      "metadata": "BIO-H-TIN Pharma GmbH, Bamberg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Dr. Pfleger Arzneimittel GmbH, Bamberg Datum: 27.01.2026 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "RP Verwaltungsgesellschaft mbH, Bamberg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-01-14",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=UxETpa3fm_dW7hyyj69OzRCVzxRwiXdO6ZA89KBU0OLsehcxit1cqgyyqbRSlgkGyR55TD455e7r8gnZZNNrO1yzhs7eJcMvKqyCwBlTUIuAQ9hl4-5EuCV8FS8DDgJGZk7vbiUdeQ-FB_bXS4sM29cjzhTVsoONwlqtsD7VTkRmu6jTX9wZcGuciAB0B43iuMh_Wnw5IjfoV3pr4dcYBUg1ruJ3bfFW-vFprHlaSBEEJ0Qk",
+      "metadata": "RP Verwaltungsgesellschaft mbH, Bamberg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Dr. Pfleger Arzneimittel GmbH, Bamberg Datum: 14.01.2026 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Pfleger Health Solutions GmbH (vormals: dabeipackzettel GmbH), Hallstadt",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-03-24",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=N6-Cr9qREf_B6thzAvKBQYCgMwex3OuO-HaVSFqYbH4OICXDlCjCS-tc4YwS6MEW0qfqFRiiLBEkWknKZJEUfBRur_1bbs371Kd_-JbfGMxAEO34CD73ae5XmQYRhLwUfCi0-8Lsaf2ykOQSI47vK8iyDK67AJjRNF9jY2SuwtgYrMGDswhWtEooaylNj8YliOLYdruIycDkkR0x-rc-C4qvhFfJQjMFYrhgBA3pit8dqLm9",
+      "metadata": "Pfleger Health Solutions GmbH (vormals: dabeipackzettel GmbH), Hallstadt Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Dr. Pfleger Arzneimittel GmbH, Bamberg Datum: 24.03.2025 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "BIO-H-TIN Pharma GmbH, Bamberg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-03-10",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=o7DiViaUw3YKAqFXxMSLYhq3vVq_T-4A-ThftqI8fzSVihjE_fhjSrp-cqc-jMdZ0M32dGpdERNkHlWl3x9r7KjyS56yNJSj2G_Ki02hPRd4QsiNT_ZkEccT51EBZ9_425iyD3c0rwyUSx7nPQkZAx2bWgPDZuDypLH0XASKz4JpmpZijQMougSy1WM1bPil5TkNydHlUa7hLSo4iTt-u5EP7IILJltSybL7osW5a96Jjakb",
+      "metadata": "BIO-H-TIN Pharma GmbH, Bamberg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Dr. Pfleger Arzneimittel GmbH, Bamberg Datum: 10.03.2025 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "RP Verwaltungsgesellschaft mbH, Bamberg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-02-12",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=oL2dj2zPE_2HTp0OfdIUrH5FAgIiGrXc0C9W9RUW27qyXawc0_cPk01JnH2JmwmX6ZF1ilsYtsHIMkM2KNgwaQMAJaaxA10veamXZEV6fcHmlGIMD6wM6SUXhzKWZp_Vnm-i7lcrzD00gOvmLsuI470X56OBXHQpf9Qtf54ydatGYlERdfBLAb2vKaSf-M3iKCDhZnl66EzHMDh7ueVCl5Y13humXQsnr_acgYJxR3w2pnTv",
+      "metadata": "RP Verwaltungsgesellschaft mbH, Bamberg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Dr. Pfleger Arzneimittel GmbH, Bamberg Datum: 12.02.2025 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "e + b GmbH, Bamberg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-02-21",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=tZ4iWjCYK4thugj_J1kk9ztMZpi7W8lzsk-kWVCSvU_cLYNpzQpRgHofjWnFW04Ifmu4bzGvWnuNpXHxmQsHNdXdVHsbbcEF6D1IrJx3mdkrwASN3pQpF0o7f21rAh7X0dg1nnEhUHTskxC5aqYYVWw795GkQH8dWJII0eDaeFvParKSDdYu1RsZ1uEHfACDzoarHML6O2MCU5StRakCHpVBO1LmDe1m6XzBkxU5zbFQ-yTp",
+      "metadata": "e + b GmbH, Bamberg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Dr. Pfleger Arzneimittel GmbH, Bamberg Datum: 21.02.2024 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "RP Verwaltungsgesellschaft mbH, Bamberg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-01-23",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=7rNoBuuQKKBkQ1z8gZcwM0G3nclO-QtqFzcSMGuaBVfxr-lIFLxt9LHLOpyXJ7V9RxOTNowxNxBVy_Fkw3eLhxkpOzvhOmDw4ZusGEAToVZOp9E9aIsuqzndHLOLTo4tTCcMsjWbgY1yBvpNAsINnILCzBwXpJ93DHeeGxMAjQ46_5RQYQ8hGFbFBNdsK0VCZ-lcrgPGJ8LFuKCfU-Wmi94vlr6U5lJBEbQwV8JSuSgOWP2w",
+      "metadata": "RP Verwaltungsgesellschaft mbH, Bamberg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Dr. Pfleger Arzneimittel GmbH, Bamberg Datum: 23.01.2024 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "BIO-H-TIN Pharma GmbH, Bamberg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-01-23",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=FwkkTIeQl5gYvMr3hj8BrULaV1djwwkQ1WEdx-6GqhKMwzfKQPMno-oZsAs6qSAk3kYhbHAvdtkSVVVQp30eWhl0NWnwZ0NW79DfXaNJ7_IcewnJqiIy6mD2LF1DnymU3QKLw5y4mlpLRi3KYzF_oMyD2pmP3JczfF6v91IHqQIkOlRVXFXEvzxMYxBCIOcnTDWsoq5mOcT5Cm5cu4--9LO3tstNPIEf2AY58QcFUNEEZfgx",
+      "metadata": "BIO-H-TIN Pharma GmbH, Bamberg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Dr. Pfleger Arzneimittel GmbH, Bamberg Datum: 23.01.2024 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "dabeipackzettel GmbH, Hallstadt",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-01-23",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=XyuCtlJdYkWoRm_FYMChX5iSvr_PIYCeqMhPkmwNkxAiiXU1s7uo4B-PdHitkzWxHvA2T7KUxRd7PwajWjM1RsskMXcNI5hwS0Cyw11xJ_VW2R7IBXEEKDAdKtr2IkcESGXFjQIkpwRuCC_QK0uVZs8HmpCfD9SvZK1CNAKwBDwWERk_vkwD5Enu9_rJYJliPNbwbpkbCy0dbnJ56_-617uf-YluW1mWFfF8h011-aPzt27F",
+      "metadata": "dabeipackzettel GmbH, Hallstadt Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Dr. Pfleger Arzneimittel GmbH, Bamberg Datum: 23.01.2024 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Dr. Eidenmüller KG, Bamberg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-09-10",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=SmQAP7C5fok1LsJYdtCVU6W54geXd_vl-br2jgCm71myBTs2MA1HWFdjKbslvHtkbIvzthtuTtEOSSj_xG8GEvD-U5kY6wE8bbx7OLsmmsGD_-HTXjaMb1sDxjPwxqUGYKJRF4BrDqWEyq7jUF9QUg44FyUDtgTktoqjY9oVkuSnwy5npPznCBzWBstAp5U6adi1mqsvy10cwXsPJb6FE2d1Q0Qm0OV6xNOHQbw1vN00miq_",
+      "metadata": "Dr. Eidenmüller KG, Bamberg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 10.09.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Dr. Eidenmüller KG, Bamberg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-01-13",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=Unds2FnnRo6qNuPAzsR_FeAdeaOZI1bHWXUc1cH6fCGd2J5uhS9M0o5OUhsLWKws5pGP0s21KjRPMbTmEv5ewwqDjEeBEbpO2u9f7_flJwy6zV0tFsum6r--Z3hrUI24QEVyc9MApAkZnxj8Da_VUrlsJqr_wpscKVWPzP3XsLw6GG_iuY9i6zIUvj-lwJABCC3HP0imEF7-8AdTaWRpytVXNbDwS3kaops3go2VzEFL7eHy",
+      "metadata": "Dr. Eidenmüller KG, Bamberg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 13.01.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Dr. Eidenmüller KG, Bamberg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-02-28",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=o2j6eFr4Xe9q9lpKfyC1CHlK2f5pyjXwwWOPpmFAO0KjGrhH0rQDE_j9_uCqDityIySZUjEbrhaCOZjPoCqp0KbUYzsuwDSVtQMhPkpOJOT2WoJa9_Omsf22TTCBJWpe6YtGsmuJF_XKEeIf7PswnSKrrsRYts4gcWLE9L2FwLDIolx0hYBiyuRNscJd5sR1IbXGIjgnphciJ3rNLIew0VDr1wZqcCuqrQSYot-bE8sOPd_Q",
+      "metadata": "Dr. Eidenmüller KG, Bamberg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 28.02.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "BIO-H-TIN Pharma GmbH, Bamberg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-01-27",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=hAy6PK_0-LAG2fm4zLCsgZEGohiqY3-9OtHQACWCpUtwa_aNPl-yCen9prDK8CJgaNXwc_0e75q9P-O9jSGw0tRJIspDEVw75AbprWRYq2qcGIrbxLKzNtFrqCMdiZmmqz5RF71RXSNeHM3lTzeZFYml_2MVpdrU5bjbr44oEDKDcdp2yh6T3MstfRCCt0rA7-v_L6sknqfLVXoknGLIlf9peWoYf4FBX3UeRdQAmSl0TlS4",
+      "metadata": "BIO-H-TIN Pharma GmbH, Bamberg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Dr. Pfleger Arzneimittel GmbH, Bamberg Datum: 27.01.2026 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "BIO-H-TIN Pharma GmbH, Bamberg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-03-10",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=AwVIQ_owimGL-EozLgTv1vc4E5Ekt1DoBD0YMcuM7GQ2G9l6sC9OgQiBkdEw7S4Xiwvf2wnFQ529qmqGjkU9qzJCSWjQBlIhchcEORqidCFXm2XrmFQurFT7BZTyXV3n9ShfPSb2LX_Aji2yR6iUk3Sj7kcW3NDmI01Y_cPYlG8oHNETrOWNQTxmguhiIb4TgmUNfhQd6aPGZwSGROrymvkyyO4TVLLDwdm9iUKTBB88uL1M",
+      "metadata": "BIO-H-TIN Pharma GmbH, Bamberg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Dr. Pfleger Arzneimittel GmbH, Bamberg Datum: 10.03.2025 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "BIO-H-TIN Pharma GmbH, Bamberg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-01-23",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=Gvau094z03LjsUViA74W0plPSa6GP58aa0LgiBhBptmne91b9gR8aTKPFD_ML8IyQs9ofgEgfCvkihqQJW3kt4OkyHKtf8QtB8pSHJ_ABkxfe_bq1bFEl33YdcAzMLYbKeJXj-kG5FNor6Bnj535E4qhSB7lQcDjugVY1ne8UQBAUEbpAXSWgtFzJdma5AEDM2omdlfe1PzwLPZViFMAkQrz94_jKy4Ca-5dHv4_etOebD6N",
+      "metadata": "BIO-H-TIN Pharma GmbH, Bamberg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Dr. Pfleger Arzneimittel GmbH, Bamberg Datum: 23.01.2024 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Pfleger Health Solutions GmbH (vormals: dabeipackzettel GmbH), Bamberg (vormals: Hallstadt)",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-01-27",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=Xx0OaeO_2sCq9crdimnAeJN9409qvTFb8vA8kyt5ntAU_YCauBHYiE8by7vpSqNccJ-rp84x1H-3mWG7cH0hnxAf7iJHkwera0c0WUQT5B8MCsoblWH8vcCi4sZWxFS-hRnJm7AH4mPxunage_58WgUyxV1mX45S7c0jP-A3G2raDUxP4hS_SUxfNFqziXCH29ejDLeTNKViCkcykYEVWc750c4uJKAnh7_MyrwFyxQLK2Jk",
+      "metadata": "Pfleger Health Solutions GmbH (vormals: dabeipackzettel GmbH), Bamberg (vormals: Hallstadt) Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Dr. Pfleger Arzneimittel GmbH, Bamberg Datum: 27.01.2026 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Pfleger Health Solutions GmbH (vormals: dabeipackzettel GmbH), Hallstadt",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-03-24",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=o_z9sNQLk94YeBIQmJ35w4NE3wfrKSgyAmjSchrXmtk00dnD_6WQ5pBpF3-w3jpdDuJQYUgn2LwcUOWoQurxxIedz9AiZtHYU-Rr7yGLnv1ecPatGdK6_NUWPWEhkL_61IjWgQjtKEN-i5vvhbc5tOZWNsflrWqgT8PWlhzogMszjGvbFhBXjBOEUc6dSj8VEb-4Gk4v8YvgFvKC18hOIlPvu7MJVL2HND8-4XzsA7C1oV22",
+      "metadata": "Pfleger Health Solutions GmbH (vormals: dabeipackzettel GmbH), Hallstadt Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Dr. Pfleger Arzneimittel GmbH, Bamberg Datum: 24.03.2025 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Pfleger Health Solutions GmbH (vormals: dabeipackzettel GmbH), Bamberg (vormals: Hallstadt)",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-01-27",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=t89vlRX-XlOUWQGzwxdYlHTosiz0fcewkUEwd2BpJm1Jf8fN39H2p4Bv6gnWkPTsVa8Ig4zUUnRLS_IrfdhnItTS0UTWy_UChshu3t6O3xmHnseGYj3WBUgbgCw9jFWv4KyKLl3h93Qn_hFX6f7T9xGegXiKtP0xGAChSxCdPr99CkTchM6_sMVcvfh6BKZAeP505sTU8C7h7G_wXo-wifR2qV8mfCJg2RoWyReujnV_zjDb",
+      "metadata": "Pfleger Health Solutions GmbH (vormals: dabeipackzettel GmbH), Bamberg (vormals: Hallstadt) Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Dr. Pfleger Arzneimittel GmbH, Bamberg Datum: 27.01.2026 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "BIO-H-TIN Pharma GmbH, Bamberg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-01-27",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=7lKIoXWNuyxpKYPIgLU6HEnWTJOG3qH19c4THgZbIQNj-y0P1OG0Fa4hq-rgEZzZByRj5j7cG0wlybdojVekfOeqqOv4uWWVZa6NBC6ymTJtuOrf0sMSwKWMCESkJMJRsVjKbg26F5DIEA5wbqzTsgenyWIqSV89ml8wcFy9FaeL-mUuPOOzDKlUpzrMHO0RFmi-qNzDxAajO3Kk4al03p1r-wjhkFBbkT0my8_YiPvVN623",
+      "metadata": "BIO-H-TIN Pharma GmbH, Bamberg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Dr. Pfleger Arzneimittel GmbH, Bamberg Datum: 27.01.2026 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "RP Verwaltungsgesellschaft mbH, Bamberg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-01-14",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=74K48q6mcPoG-j_QwtLvs2-JSezGxOxc0x0EiKO-4wp4ZP194BGY-zeav4tNRTTxrkfb7KFkpmhkuBCVU_QsxQrAJ7wWoXcLThsK8NAM5zUgftaP-mgZKkc_kKUXPXu4FqG4BzD2lJIrIPDFeMVbFU3BusbG-zdyAa5ypgCyXKumUADDuypE9F-jJ4nNg1qnrbQgrIFfBG-eduIAG0QBplSnJH2-wdy7JM_ry6NQARW7HMqV",
+      "metadata": "RP Verwaltungsgesellschaft mbH, Bamberg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Dr. Pfleger Arzneimittel GmbH, Bamberg Datum: 14.01.2026 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Pfleger Health Solutions GmbH (vormals: dabeipackzettel GmbH), Hallstadt",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-03-24",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=ZZqPNQCs8WXg_fkvjouUJXKl9f5LZWMsViYuAjkWp8SzIzTYyEFRy-pks-h0PitfUAUyytYrT_sSCYDidLbHlJtGso6mYa-DnK3POLxdlo9JDbcSj9YE_pFFde6VBY6TKfAOQQiXwbRClHsCcap4TWDf5pGrS_EloJymrTZzLNG-eRqBPOE1JNeCAxb5YHTPOOY7ZZPWmrsZFvC-8YeEMb9Rrrc7iNKmK7Mn6eZRa2ucHYm1",
+      "metadata": "Pfleger Health Solutions GmbH (vormals: dabeipackzettel GmbH), Hallstadt Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Dr. Pfleger Arzneimittel GmbH, Bamberg Datum: 24.03.2025 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "BIO-H-TIN Pharma GmbH, Bamberg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-03-10",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=PTFDTepUj8nRxeCgMyyAgvzq7r1qDPyfFvs0NrfMaSYa0rMwyLkNwEanLFQMtME_8C9IiddR8Kha7MKd6DDYfXoIcto5eCrEQC3Vj0QndokO8ZXTzk9DnhtRBl1Wm09ZK8U8geOQzsw5fdnv5Nm8fOT7WdJH7QrnMC5p4fs1Qc4KtEe4w8eHTKUdQHUNU6Gs3bi_wWigP_skOZw28y2jFg6I801GS-aijrqtSFd1PzeNlU0Y",
+      "metadata": "BIO-H-TIN Pharma GmbH, Bamberg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Dr. Pfleger Arzneimittel GmbH, Bamberg Datum: 10.03.2025 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "RP Verwaltungsgesellschaft mbH, Bamberg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-02-12",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=ul-_cNHtcLUBvsYLP5emLN5b-DT8rVnUvevUyx4tvt7DeatJVK5SKTmrGrer_zPJdcfPty7SMLINgrbehzBgyQS6tRC79njOfGp9cmq-gn7r88SgH-oSLPvOcMBFJuAqlLJ1v505hgg8iz4wQDZjJMBgLeVInQcVIMTwUfXWtGioNOVT67WgNnRKqM09s-n0RTk2TI2zEd-hx9zMLvpOUKiAalBxNJizjbKBvpr_VJnGKjUI",
+      "metadata": "RP Verwaltungsgesellschaft mbH, Bamberg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Dr. Pfleger Arzneimittel GmbH, Bamberg Datum: 12.02.2025 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "e + b GmbH, Bamberg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-02-21",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=-EsjMPgNCud2AHuIUo6q4uXRnHh3SukpaDJIwEWyydlLALTJ0PCsqhLiWyIMqYwwEyv-aGgWOzgVjSMPnSNL3w8KtoYq19w0znsi4k7AxgX2AS6Jdm7WUhrqShC826zanRz9tfzfR125jUGGe1XoLl4FjdjcZJwdDpQMXtDrEgxGp_kdOe2CqEzzU2yr_tddPpUfYC4S2MAowjsGesP_Ge2uSYsCqmW0fYAT2LYla7iVVcC0",
+      "metadata": "e + b GmbH, Bamberg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Dr. Pfleger Arzneimittel GmbH, Bamberg Datum: 21.02.2024 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "RP Verwaltungsgesellschaft mbH, Bamberg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-01-23",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=1YDt8H_91wpVAWBw6cVspnlLxAZwOkPD9d6b2PlkLx0Wjnk9bRBJsLbb4XhLBqpyZGX5msJcyfdb1R834n535L3eXvYFotAvutY-ZJqK43oN105OdQCVBZ7yq5_9KN6qBucpR_ITu-6kPT1LMXadonAm8XSCoERS9dC7Z7M8XyHYT5Zl_nDbL03arEpKM0faBxhrSdL-4aN-Sb45T6PqhX_oA0GZnVKBXVwrGyj9W9rHGgtm",
+      "metadata": "RP Verwaltungsgesellschaft mbH, Bamberg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Dr. Pfleger Arzneimittel GmbH, Bamberg Datum: 23.01.2024 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "BIO-H-TIN Pharma GmbH, Bamberg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-01-23",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=t-Svix2qlwS2N2OfUvjy4ghoyxpglX_Tt1-_i5EXTbppJiARVLRnJMw5-zBDEZY9inQegsPsdIF_KIMVC9Cs9D18JpgHIbCKJyWEc0daQyfK3GbJEZk36HGEYhi9drarseX9fsl0P4UUT6RAaEkjEQMYL-Rkr6k_KGxUHG6-oDuc3FXR5MIj8FUtvZYoWU0rqVSepBfXn7KRebL9Olycu0qE1HHRBTpcwD8nXJL0A_dKHAaW",
+      "metadata": "BIO-H-TIN Pharma GmbH, Bamberg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Dr. Pfleger Arzneimittel GmbH, Bamberg Datum: 23.01.2024 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "dabeipackzettel GmbH, Hallstadt",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-01-23",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=1u_vrSc8Pfg0q4XYFQ1fxxEf6J1IWTBtXG2kKePWB97CJbYWiKnbCMd3jjQp228kMdSV028JIRo4c4R-kVSrY00J8iExwvVvV-PPYVzNb_XvaLdx4fifrAXywZyUQgyPbFBIiL2s1rHCI-SkvhBdsvpyeUxJg8CfVcnIsroW9r5uAyRwkYly-1AE1xKFr5sW4YuDNoUjE7KOfZFseABwN6M_2XUhgPJFKWi1A0qcXOmzrerR",
+      "metadata": "dabeipackzettel GmbH, Hallstadt Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Dr. Pfleger Arzneimittel GmbH, Bamberg Datum: 23.01.2024 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Dr. Eidenmüller KG, Bamberg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-09-10",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=HYdnVBMB4Pg7pL1d-hZq7sFnyVBl2DYFBewCxat7FIXlVubSCPozB0eCoVZM9FHV9y3tcQjPQLF_GhH1rkGpWuU0At7D8XIYEY9fmmUAwwjwdMk7AuhXJvSGWSifsId3l4DecCosJHboTQTTOUCm5MGEGbvfKrIarlFag4iQor_dn-ZjssCpT7DICYFjn8vWOqQX7gioLrCfrVIcZZf1MabwkzIo6oXrsnNuauXhrQmNkhJT",
+      "metadata": "Dr. Eidenmüller KG, Bamberg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 10.09.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Dr. Eidenmüller KG, Bamberg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-01-13",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=pOBWCg6j7S1TjTyAr82BYrcnQT564brM-g5ixZLGKmMVPWI-lVI3TCWNMACo29-pPu1HRiYP2Ys1npwUUZjUBEVJkiKwoM3BfuPmctNKDolT77aiFdl9bvSL_eibWB7tNM_b0plaxGDHqZD_IJZBMe83BY3zLFRC25vMXrNBVfw6mO9FKT5dm5IBGz1Maa9JjBwN8-4hA17V4VSso3b-zDnMTW8dpCpDhM5XAbKB0AdO0zBD",
+      "metadata": "Dr. Eidenmüller KG, Bamberg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 13.01.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Dr. Eidenmüller KG, Bamberg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-02-28",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=CeA7bSyQ35Sjn9sKQ57S-aeqsjBZhwKD9SY25vekASke158GcLqF-zfVyx_GLGC0zXdhPEA6b2fuU3oFXaBu_CaJXkiNGl_sGOc3EpS6K_aBQVB_shsVWgmIcv-TJONaLxzKVQC65wbn_sUQ-gma0QErnGIGxUiUY2H3P2e1wcgKtgRRGs13uC0QsrzbGVhQKFN6ZN7Bn_WVWnVgtY3F7OWB9f8-uGAFvbsuylhp8Y3oI42W",
+      "metadata": "Dr. Eidenmüller KG, Bamberg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 28.02.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "BIO-H-TIN Pharma GmbH, Bamberg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-01-27",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=BmmQ4sqmHoO548j9wIE_RY7PGCwOWG3urnKCl7zmZSHKhUuke-qrb4Gpue692Gm9hE5OWYZY1Bx8i39xM5SUj2RThKNZk9qCSVf_4WMw-DAtiszgIzfn9QR_1Mz4IpYK_EJGvGaesMVksXhJaPo13Hsat4lfAVnC-thL0wzGWHtDBuGfhbAYhxxqIT3Eh9WSRttT498LCAzpytHjfIdBdzZuazHVW-VR8J7_GAptzRBqpsmF",
+      "metadata": "BIO-H-TIN Pharma GmbH, Bamberg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Dr. Pfleger Arzneimittel GmbH, Bamberg Datum: 27.01.2026 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "BIO-H-TIN Pharma GmbH, Bamberg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-03-10",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=vKQUn3_SAdq_fw6peBgg2CZDISvGtMCTcrRm4oF6To_QxVeFSnxAt0McWbbNj6O4SARhDkGD2Lp30o7HTPD-QfqQIp1HiOxBI178Ys_Amp25RuY1AvEIQmb-kVc80GOhm02PMIxGdmRbkUWrZo9HBxJmEj2j_WFMq4oOHENJss81bM4VQKP7Pam6GC1RL0cE4JN2qgthwR3S7vclU6u05JZzMk-XQEEyDpVBF3ZSknJSkz3j",
+      "metadata": "BIO-H-TIN Pharma GmbH, Bamberg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Dr. Pfleger Arzneimittel GmbH, Bamberg Datum: 10.03.2025 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "BIO-H-TIN Pharma GmbH, Bamberg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-01-23",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=vbohUl_i87ACQCkZgJ2OIZs1EZNtTMhqx-rVskV0UVHNWDZXWaKvlywWH9ojpoWgPmgQtjndBg8ZuiDQ_B7mMJWXSBDNMKF8bfbJRmW4jkmbyq88F6IUzOt_Alj4q9tY23TVmC4bvAmInESIkMI5qzcUD6ShXMF47C-XpudGySF-o2rKV7GEhPJUimzDgfYFnDpwPSjgjcrdFD3zsWQ8HWacOnbdFX7SBn9kTWXkyQ9eKi1s",
+      "metadata": "BIO-H-TIN Pharma GmbH, Bamberg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Dr. Pfleger Arzneimittel GmbH, Bamberg Datum: 23.01.2024 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Pfleger Health Solutions GmbH (vormals: dabeipackzettel GmbH), Bamberg (vormals: Hallstadt)",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-01-27",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=YS40rj48kv6wkV68yjWHFYIbURyDYoeYTxU6jC_mPME_xz68QxQTn2U9gQF3ftwm47e4CpvrivcK7ygOMY7G1jwR3nVNbhu18kxy7ySBXRbBzPHZEiD7UUOW8j4hDY2T2fvdBK8E9SiWwli__FFW5TB7q50uxg_R9qQF3MExF9SsztWiXmUmyEORIDUzkLba4svZ2NPbC9LcNOrBMuZhSxESD0jadXfgg2K4nUPnFc6Via46",
+      "metadata": "Pfleger Health Solutions GmbH (vormals: dabeipackzettel GmbH), Bamberg (vormals: Hallstadt) Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Dr. Pfleger Arzneimittel GmbH, Bamberg Datum: 27.01.2026 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Pfleger Health Solutions GmbH (vormals: dabeipackzettel GmbH), Hallstadt",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-03-24",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=phjnzCWuf4jbyOXtr0q1iJKndtj4IT0xkZhku2tW35as39wZjGKxmEQp4D9TJu5eqGR3ma7sN513uKIZayqgizQHuPC8YlpQJSI6SfHGbz2kAdlN3gVeo7q3ltAoMlPLIRPBAkT1zL4jUJr7WfatH9RNm2DqjJ9XpHNjng0oIrEyp7uD9m-pCqS1KmoSF3-fqUDoDk4uNK0457BHl-NngcPkDQ4cyl10V90Xtp2fhKTQ_XMr",
+      "metadata": "Pfleger Health Solutions GmbH (vormals: dabeipackzettel GmbH), Hallstadt Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Dr. Pfleger Arzneimittel GmbH, Bamberg Datum: 24.03.2025 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    }
+  ],
+  "date_from": "2024-01-01",
+  "date_to": "2026-11-25",
+  "excluded_dates": [],
+  "max_publications": 30,
+  "truncated": true,
+  "coverage": {
+    "search_complete": false,
+    "more_pages": true,
+    "publication_limit_reached": false,
+    "downloads_selected": 3,
+    "downloads_succeeded": 3,
+    "download_limit_reached": true,
+    "downloads_complete": false,
+    "text_complete": true
+  },
+  "publications": [
+    {
+      "company": "Dr. Pfleger Arzneimittel GmbH, Bamberg",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-02-06",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=FvZhUPyAWAqrj5f4Kcb988tz1aTJZPYH7lQn--wINPwtRDWcWB9SwNbPZ6cc35oU68ZHPkJVBagwbBjMqD3hQLDUuczysbAnW-wcuzZvXvLPFqM7qyYgwBb1sQLIHJbVapOAz8PWbUDt33knp1qirHfxNH_hGspeD6b8UMbfglm2-eSqcnd1yCexLNdIBfq7v-QFN7pEtX_GINj3jrkTMjHcedmyXymfgatWRthM5UFoKBis",
+      "metadata": "Dr. Pfleger Arzneimittel GmbH, Bamberg Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 06.02.2026 Sprache: Deutsch Befreite Unternehmen anzeigen Pfleger Health Solutions GmbH, Bamberg RP Verwaltungsgesellschaft mbH, Bamberg BIO-H-TIN Pharma GmbH, Bamberg",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 1
+    },
+    {
+      "company": "Dr. Pfleger Arzneimittel GmbH, Bamberg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-01-22",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=b7T1KiBKNuKKb3EqDvMJqslscaQ8PUbJOYtcJlGlJ5feRm9yE7U8tDe679vn3qbLBxzikNOlmlWW2cFIiRujldlaZ2kVaMViXwqNorSQ8SnKqqltwAQJpS80f0a89K_z2H9IH0x1tw2TZKjc1_39fIMQRaiz7FYoP1DY7UH8xnL9EunIiCDNwH6EzsnNiVEpLzyRy-Xwp6pjFGJMvqoYZmfHQGAnDDVPfO8aUIxWzso86v1H",
+      "metadata": "Dr. Pfleger Arzneimittel GmbH, Bamberg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 22.01.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 2
+    },
+    {
+      "company": "Dr. Pfleger Arzneimittel GmbH, Bamberg",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-03-04",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=ExT2Apw58GhnOS7OAVdRSltk0jMs6a5luC6MQzyEliZh6edTHXILGcEjEAVpCVnB8ZvqD-cUijLroyj8EwLWKVXq5Bsb1tHFpVgnOcNNwIwbX-AQpq47QuEo5rFDoybTMoEg8vWA7wuUn8TD5EmMSnq8P6w0BjlB1ZHlfrh1jwPMINRdmf_-Wp7MO2aA7YyP_-JD2NMHU46mWMPxE9eykcnsRnBl9u096XrmevpqhuISDe5M",
+      "metadata": "Dr. Pfleger Arzneimittel GmbH, Bamberg Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 04.03.2025 Sprache: Deutsch Befreite Unternehmen anzeigen Pfleger Health Solutions GmbH, Bamberg RP Verwaltungsgesellschaft mbH, Bamberg BIO-H-TIN Pharma GmbH, Bamberg",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 3
+    },
+    {
+      "company": "Dr. Pfleger Arzneimittel GmbH, Bamberg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-01-29",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=1FEC5ViyO7bk58KsxKafoUTo-zpXkexW-ZP6Dzeal-yGcxDKKBnzbH7IIVjzSv5Gd-xAjViZpkv1609RNvT1260v6Al6jdJe40h5ch--_Mh-Yb43vU8gHfMSSnx5n5VyPVshc63gg-1yi0OMBXRnsaYjJG5UdZQVRKx3gWas27DUA1sYpBIf7M7CKzQFq3gUfuSyIStj7oo60PNaOGbvVEixvlaVxWKIyHuKU5ozMYT5PCt_",
+      "metadata": "Dr. Pfleger Arzneimittel GmbH, Bamberg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 29.01.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 4
+    },
+    {
+      "company": "Dr. Pfleger Arzneimittel GmbH, Bamberg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-03-01",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=_MW3aElgWIk6CtBWebSS_l5SmVcKHtMDjv6B7iZ6D7vcWdNDnMvps241DWa2YjGFKvAPalnZzljs-y5Em7SlZr1Llf6ULRlXeKMLB3iMGWZ0z9Ub_0DxMOCJ4T7cGo5pbD3tUABQTe-wM8vKSKovZXHUpKYuGDxL5EEFgNuiJIbam9tbS8P3bxYx3hgEeTEG2WHYy-xMPriZTXsf0LKgHkosXJnkboNkEVkfNjVuujiVDdUu",
+      "metadata": "Dr. Pfleger Arzneimittel GmbH, Bamberg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 01.03.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 5
+    },
+    {
+      "company": "Dr. Pfleger Arzneimittel GmbH, Bamberg",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-01-25",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=a2i3eN8JT9mQXFUw1hPdSJFophE27lyBw0zSyn3EJOkQYVcuZLojH-nT86vwIhcT5ERglw1Nj4zLlkS98Mqmc6o5ztdbiwixaPBrRbbYuhgUeRf2_8C530WW2K849sTBA39MGVvwx-lCWZhJGCELoOXWZqhwqbP8YW4U2HjPGvqIdNTFbNIYF2r3TxY5s3vPhhrLwP_nHWodlqOI87k0KYsAHHsWlPW0S4Nyo8EDZ36P5HbW",
+      "metadata": "Dr. Pfleger Arzneimittel GmbH, Bamberg Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 25.01.2024 Sprache: Deutsch Befreite Unternehmen anzeigen e + b GmbH, Bamberg Pfleger Health Solutions GmbH, Bamberg RP Verwaltungsgesellschaft mbH, Bamberg BIO-H-TIN Pharma GmbH, Bamberg",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 6
+    }
+  ]
+}

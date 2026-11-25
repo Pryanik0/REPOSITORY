@@ -1,0 +1,15 @@
+{
+  "url": "https://constellr.com/robots.txt",
+  "final_url": "https://www.constellr.com/robots.txt",
+  "redirects": [
+    {
+      "source": "https://constellr.com/robots.txt",
+      "target": "https://www.constellr.com/robots.txt",
+      "status": 301
+    }
+  ],
+  "status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "fetched_at": "2026-11-25T16:37:15.746519+00:00",
+  "text": "Sitemap: https://www.constellr.com/sitemap.xml"
+}

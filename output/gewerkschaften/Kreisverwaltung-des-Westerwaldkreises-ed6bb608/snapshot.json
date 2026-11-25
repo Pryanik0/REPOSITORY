@@ -1,0 +1,101 @@
+{
+  "provider": "gewerkschaften",
+  "status": "partial",
+  "company": {
+    "key": "Kreisverwaltung des Westerwaldkreises",
+    "name": "Kreisverwaltung des Westerwaldkreises",
+    "location": "Montabaur",
+    "name_source": "company_name",
+    "urls": [
+      "https://www.westerwaldkreis.de"
+    ],
+    "kununu_url": null,
+    "branches": [
+      "Öffentlicher Dienst"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "56410",
+    "street": "Peter-Altmeier-Platz 1",
+    "region": "Rheinland-Pfalz",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "relevance": "company_mention",
+  "date_from": "2026-05-25",
+  "date_to": "2026-11-25",
+  "search_terms": [
+    "Kreisverwaltung des Westerwaldkreises"
+  ],
+  "truncated": true,
+  "associations": [
+    {
+      "name": "dbb",
+      "status": "partial",
+      "manifest": "output\\gewerkschaften\\_sites\\dbb-52d39e84\\manifest.json",
+      "phase": "primary",
+      "fallback_reason": null,
+      "search_mode": "site_search",
+      "searches": [
+        {
+          "url": "https://www.dbb.de/suche/?id=2425&tx_kesearch_pi1%5Bpage%5D=1&tx_kesearch_pi1%5BresetFilters%5D=0&tx_kesearch_pi1%5BsortByField%5D=sortdate&tx_kesearch_pi1%5BsortByDir%5D=desc&tx_kesearch_pi1%5Bsword%5D=Kreisverwaltung+des+Westerwaldkreises",
+          "company_key": "Kreisverwaltung des Westerwaldkreises",
+          "query": "Kreisverwaltung des Westerwaldkreises",
+          "mechanism": "get_form",
+          "status": "fetched"
+        }
+      ]
+    },
+    {
+      "name": "ver.di",
+      "status": "partial",
+      "manifest": "output\\gewerkschaften\\_sites\\ver-di-51994702\\manifest.json",
+      "phase": "primary",
+      "fallback_reason": null,
+      "search_mode": "site_search",
+      "searches": [
+        {
+          "url": "https://www.verdi.de/suche?q=Kreisverwaltung+des+Westerwaldkreises",
+          "company_key": "Kreisverwaltung des Westerwaldkreises",
+          "query": "Kreisverwaltung des Westerwaldkreises",
+          "mechanism": "verdi_site_search",
+          "status": "fetched"
+        }
+      ]
+    },
+    {
+      "name": "DGB",
+      "status": "partial",
+      "manifest": "output\\gewerkschaften\\_sites\\DGB-df3cffd4\\fallback\\manifest.json",
+      "phase": "fallback",
+      "fallback_reason": "no_primary_articles",
+      "search_mode": "site_search",
+      "searches": [
+        {
+          "url": "https://www.dgb.de/suchergebnisse/?tx_solr%5Bq%5D=Kreisverwaltung+des+Westerwaldkreises",
+          "company_key": "Kreisverwaltung des Westerwaldkreises",
+          "query": "Kreisverwaltung des Westerwaldkreises",
+          "mechanism": "get_form",
+          "status": "fetched"
+        }
+      ]
+    }
+  ],
+  "article_count": 0,
+  "articles": [],
+  "pdfs": {
+    "download_policy": "company_in_link_metadata_or_filename",
+    "downloaded_on_sources": 0,
+    "mentioning_company": 0,
+    "retained_as_articles": 0,
+    "index_path": null
+  },
+  "search_coverage": {
+    "fetched": 3,
+    "error": 0,
+    "not_attempted": 0,
+    "ignored_query": 0,
+    "sites_without_search": 0
+  },
+  "reason": "search_incomplete"
+}

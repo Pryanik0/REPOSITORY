@@ -1,0 +1,311 @@
+{
+  "provider": "karriere",
+  "company": {
+    "key": "tink",
+    "name": "tink",
+    "location": "Berlin",
+    "name_source": "company_name",
+    "urls": [
+      "https://tink.de"
+    ],
+    "kununu_url": null,
+    "branches": [
+      "Einzelhandel"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "10178",
+    "street": "Sophienstrasse 21",
+    "region": "Berlin",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:35:04.689153+00:00",
+  "status": "ok",
+  "jobs": [
+    {
+      "title": "E-Commerce Product Owner:in (all genders)",
+      "url": "https://tink-gmbh.jobs.personio.de/job/2770375",
+      "description": "Deine Aufgaben Du gestaltest E-Commerce-Erlebnisse, die Kunden begeistern und die Conversion messbar verbessern? Du denkst in durchgängigen User Journeys, hast einen scharfen Blick für UX/UI-Details und suchst eine Rolle mit voller Ownership für den Shop? Dann suchst du genau uns – und wir dich! Als unser/e E-Commerce Product Owner:in bist du die zentrale Schnittstelle zwischen Produkt/Dev , Operations und Marketing. Du baust Features, die Kunden weiterbringen und die Conversion messbar heben – und machst unseren Shop damit zum Maßstab in seiner Klasse. Deine Mission Full Ownership & UX/UI-Exzellenz: Du bist die treibende Kraft hinter unserem Webshop. Du ownsed die Produkt-Roadmap, steuerst die Features nach Business-Impact und sorgst für ein nahtloses, kundenfreundliches UI/UX-Erlebnis auf allen Devices. Conversion- & Journey-Optimierung: Du drehst an den richtigen Stellschrauben über den gesamten Funnel hinweg, von der Suche über die PDP (Product Detail Page) bis zum Checkout. Data-Driven Growth: GA4, BI und A/B-Tests sind deine Spielwiese. Du übernimmst die KPI-Verantwortung (CVR, AOV, Warenkorbabbrüche, RPV) und leitest daraus konkrete Hypothesen und Experimente ab. Smart Features & Ökosysteme: Du entwickelst kundenfreundliche Kompatibilitäts-Filter (Matter, Apple Home, Alexa etc.) sowie intelligente Starter-Set- und Bundle-Mechaniken, die Erklärungsbedarf reduzieren und den Warenkorbwert steigern. Next-Level AI-Shopping: Du verantwortest innovative KI-Features - von Guided Selling über semantische Suchen bis hin zum Conversational Smart-Home-Assistant. Agile Schnittstelle: Du übersetzt Kundenbedürfnisse und Business-Ziele in klare Requirements für unser Tech-, Design- und Marketing-Team und stellst die höchste Qualität bei jedem Release sicher. Dein Profil E-Commerce DNA: Mehrjährige Erfahrung im transaktionalen E-Commerce mit nachweisbaren Erfolgen bei der CVR- und Funnel-Optimierung (Du lieferst Kennzahlen, nicht nur Features!). Deep Tech- & Analytics-Verständnis: Sicheres Händchen für Web-Analytics (GA4, Tracking-Konzepte, Dashboards), Grundkenntnisse in SQL sowie fundiertes Verständnis von modernen E-Commerce-Architekturen (Shopware, Magento, commercetools oder Headless/APIs). Kommerzieller Drive: Du denkst in Deckungsbeiträgen sowie Unit Economics und priorisierst Feature-Requests knallhart nach P&L-Impact. UX/UI & Qualitätssinn: Du hast ein hervorragendes Auge für intuitive Benutzerführung und den Anspruch, nur absolut makellose, kundenfreundliche Web-Anwendungen live zu bringen. AI-First Mindset: Du nutzt KI-Tools ganz selbstverständlich in deinem täglichen Workflow, um Analysen, Specs oder Experimente extrem schnell auf das nächste Level zu heben. Sprachkenntnisse : Deutsch auf muttersprachlichem Niveau und hervorragende Englischkenntnisse. Office-First & Team-Vibes: Du liebst den persönlichen Austausch, schätzt schnelle Kommunikationswege und hast richtig Lust, jeden Tag gemeinsam mit deinem Team in unserem wunderschönen Office im Herzen von Berlin-Mitte zu arbeiten. Nice-to-haves: Erfahrung im Umfeld erklärungsbedürftiger Produkte (Consumer Electronics, Technik oder Smart Home). Verständnis für Smart-Home-Standards und Plattform-Ökosysteme. Gespür für Merchandising, Pricing-Schnittstellen und Margenlogik bei Sets/Bundles. Warum wir? tink Kultur tink Mission : Wir verbinden ein erfolgreiches Geschäftsmodell mit der Mission, allen Haushalten einen Zugang zu einem nachhaltigeren und smarten Zuhause zu ermöglichen. Expertise : Ein erfahrenes Management-Team mit langjährigem Hintergrund im Startup-, Industrie- und Beratungsgeschäft International : Unser Team kommt aus über 30 verschiedenen Nationen Diversität : Wir freuen uns über Bewerber:innen jeglicher Nationalität, ethnischer Herkunft, religiöser Zugehörigkeit, sexueller Orientierung und jeglichen Geschlechts. Bei uns zählen Persönlichkeit und Performance. Persönliche Weiterentwicklung : Regelmäßige Feedback Runden und Reviews - Deine professionelle und persönliche Weiterentwicklung liegt uns am Herzen! Faire Kommunikation : Wir haben eine offene und transparente Feedback-Kultur. Office Policy : Wir sind ein Presence-first Team und arbeiten gemeinsam im Büro tink Benefits Remote Option: Du hast die Option auf bis zu 4 Wochen Remote Work pro Jahr Freizeit: Bis zu 30 Urlaubstage (nach Betriebszugehörigkeit) Gehalt: Wir zahlen leistungsgerecht und fair Start your day right: Wir haben eine top Kaffeemaschine, Müsli und frisches Obst Fitness: Bleibe fit mit dem bezuschussten Urban Sports Club Membership Shopping: Erfülle Dir einen Wunsch mit monatlichem SpendIt Card Budget Fun: Regelmäßige Teamevents & eine stets gut bestückte Bar Office: Ein wunderschönes helles Office direkt im Herzen von Berlin-Mitte am Hackeschen Markt mit vielen Meeting Räumen, Küche, Snacks, Getränken, Lounge-Area und umgeben von vielen Restaurants und Cafés Visa-Support: Wir unterstützen Kandidat:innen im kompletten Visa-Prozess",
+      "locations": [
+        "Berlin"
+      ],
+      "employment_type": "permanent, full-time",
+      "remote": "",
+      "employer": "tink GmbH",
+      "date_posted": null,
+      "valid_through": null,
+      "reference": "2770375",
+      "extraction": "personio_feed",
+      "source_url": "https://tink-gmbh.jobs.personio.de/xml",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:35:07.896786+00:00",
+      "id": "99967ac87d735f8180ce",
+      "company_key": "tink"
+    },
+    {
+      "title": "Growth Intern tink.energy (all genders) - Deutschsprachig (ab sofort)",
+      "url": "https://tink-gmbh.jobs.personio.de/job/2465270",
+      "description": "Deine Aufgaben tink.energy ist das neue Plattform-Venture für Solar-, Speicher- und Wärmepumpen-Lösungen von tink. Wir sind in einer einzigartigen Phase: erste Traction steht, Premium-Partner wie Viessmann sind an Bord, das Marktfenster ist offen. Jetzt braucht es Unternehmer:innen, die Verantwortung übernehmen und tink.energy von 0→1→n aufbauen. Du arbeitest im engen Austausch mit unseren Sales Managern, dem VP Strategy und seinem Team aus ex-Berater:innen, VCs und Start-up-Operatoren. Deine Rolle kombiniert die strategische Entwicklung zentraler Wachstumsinitiativen, Venture Building, und End-to-end Ownership. Du begleitest die Implementierung, GTM und Skalierung von tink.energy und unterstützt beim strukturierten Ausbau dieses neuen Geschäftsbereichs Du übernimmst die Vor- und Nachbereitung von Sales Pitches, Workshops und Stakeholder Meetings Du stellst reibungslose Endkundenprozesse über alle Touchpoints sicher Du greifst gelegentlich selbst zum Telefon, um neue tink.energy Leads zu qualifizieren, und behältst dabei die Sales Pipeline in HubSpot stets im Blick Du verantwortest das Projektmanagement in Zusammenarbeit mit internen Teams wie Marketing, Product und Partner Management sowie mit externen Stakeholdern Du unterstützt dabei Planungs- und Installationsprozesse aufzubauen und zu optimieren Du wirkst an der Erstellung von KPI Trackings, Reportings sowie Business Cases mit Dein Profil Du studierst an einer Universität in einem wirtschaftswissenschaftlichen oder informationstechnischen Studiengang oder hast diesen bereits erfolgreich abgeschlossen Du hast bereits erste Berufserfahrung im Sales, Business Development, VC oder Consulting Du bist geschickt und erfahren im Umgang mit Microsoft Office-Anwendungen, insbesondere mit PowerPoint und Excel und hast idealerweise erste Erfahrungen mit weiteren relevanten Tools (z.B. Zapier, Google Analytics, Figma) Eine hohe Eigenständigkeit und ausgeprägtes Ownership für Themen – bei gleichzeitig starkem Teamgeist runden dein Profil ab Fließendes Deutsch in Wort und Schrift sind ein Muss für diese Stelle, sowie verhandlungssicheres Englisch (C1) Mindset Unternehmerisch, hands-on, bias-to-action Go to Market Instinkt, Verständnis für Produkt und Zahlen, gepaart mit einem ausgeprägten Gespür für Kundenbedürfnisse und Entscheidungsprozesse Klarheit, Struktur und Geschwindigkeit bei der Umsetzung von Themen Eigenständiges Arbeiten, klare Kommunikation und Ownership Warum wir? Unternehmerischer Impact Direkte Zusammenarbeit mit starken Teams Hohe Autonomie, hohe Geschwindigkeit, hoher Einfluss Verantwortung für komplette Workstreams Team, Kultur & Timing Kolleg:innen mit Background aus Top-Beratungen, VCs, Start-ups Markt- und Kundenzugang durch bestehende tink-Infrastruktur Frühphase mit Momentum: die Chance, ein neues Geschäftsmodell in erster Reihe zu skalieren Vorteile & Umfeld Ein wunderschönes helles Office direkt im Herzen von Berlin-Mitte am Hackeschen Markt mit vielen Meeting Räumen, Küche, Tischtennisplatte und umgeben von vielen Restaurants und Cafés Top Kaffeemaschine, Müsli und frisches Obst Internationale Kultur mit über 30 Nationen Regelmäßige Teamevents & eine stets gut bestückte Bar Bis zu 20 Urlaubstage Urban Sports Zuschuss",
+      "locations": [
+        "Berlin"
+      ],
+      "employment_type": "intern, full-time",
+      "remote": "",
+      "employer": "tink GmbH",
+      "date_posted": null,
+      "valid_through": null,
+      "reference": "2465270",
+      "extraction": "personio_feed",
+      "source_url": "https://tink-gmbh.jobs.personio.de/xml",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:35:07.896786+00:00",
+      "id": "c91bcfd25ca35159801e",
+      "company_key": "tink"
+    },
+    {
+      "title": "Junior Partner Manager:in (all genders) - Deutschsprachig",
+      "url": "https://tink-gmbh.jobs.personio.de/job/2734160",
+      "description": "Deine Aufgaben\n\n                Bist du bereit, die Zukunft des Smart Homes mitzugestalten? Bei tink arbeitest du an der Schnittstelle von Innovation, Technologie und Marketing. Unsere Mission: Wir schaffen einzigartige Partnerschaften mit führenden Smart Home Brands, um unseren Kund innen exklusive Produktlösungen, erstklassigen Content und beeindruckende Vermarktungskampagnen zu bieten. Werde Teil unseres Teams, lerne von erfahrenen Expert innen und trage dazu bei, tink als Marktführer weiterzuentwickeln! Umsatz- & Partnerverantwortung: Du übernahmst schnell die Betreuung erster eigener Smart-Home-Partner und trägst früh Verantwortung für die Erreichung und Steigerung gemeinsamer Umsatzziele. Kommunikationsdrehscheibe: Du bist im täglichen, intensiven Austausch mit externen Partnern (Brands, Herstellern) sowie internen Schnittstellen (Marketing, Category Management, Operations) und steuerst Kampagnen souverän von der Idee bis zum Erfolg. Operative Exzellenz: Von der Vorbereitung von Partner-Meetings über das Monitoring von Kennzahlen bis hin zur Nachbereitung von Kampagnen behältst du stets den Überblick. Dein Profil Sales-Persona & Beziehungsaufbau: Du brennst für Kommunikation! Du hast eine gewinnende Persönlichkeit, gehst offen auf Menschen zu und hast echtes Verhandlungs- und Überzeugungstalent. Erste Erfahrung: Du hast dein Studium (z. B. BWL, VWL, WiWi, Business Administration oder eine vergleichbare Ausbildung erfolgreich abgeschlossen und bereits erste relevante Erfahrung (z. B. durch Praktika oder Werkstudententätigkeiten) im Vertrieb, Partner Management, Business Development oder E-Commerce gesammelt. Umsatzfokus & Analytik: Du lässt dich von Zahlen und Zielen motivieren, denkst wirtschaftlich und behältst deine KPIs stets im Blick. Kommunikationsstärke & Drive: Ob Telefonat, Video-Call, E-Mail oder persönliches Treffen – du kommunizierst selbstbewusst, wertschätzend und verbindlich auf allen Ebenen. Sprachgewandtheit: Du kommunizierst verhandlungssicher auf Deutsch (C2) und fließend auf Englisch (C1) in Wort und Schrift. Warum wir? tink Kultur tink Mission : Wir verbinden ein erfolgreiches Geschäftsmodell mit der Mission, allen Haushalten einen Zugang zu einem nachhaltigeren und smarten Zuhause zu ermöglichen. Expertise : Ein erfahrenes Management-Team mit langjährigem Hintergrund im Startup-, Industrie- und Beratungsgeschäft International : Unser Team kommt aus über 30 verschiedenen Nationen Diversität : Wir freuen uns über Bewerber:innen jeglicher Nationalität, ethnischer Herkunft, religiöser Zugehörigkeit, sexueller Orientierung und jeglichen Geschlechts. Bei uns zählen Persönlichkeit und Performance. Persönliche Weiterentwicklung : Regelmäßige Feedback Runden und Reviews - Deine professionelle und persönliche Weiterentwicklung liegt uns am Herzen! Faire Kommunikation : Wir haben eine offene und transparente Feedback-Kultur. Office Kultur : Dur arbeitest gerne jeden Tag on-site mit deinem Team tink Benefits Remote Option: Du hast die Option auf bis zu 4 Wochen Remote Work pro Jahr Freizeit: Bis zu 30 Urlaubstage (nach Betriebszugehörigkeit) Gehalt: Wir zahlen leistungsgerecht und fair Start your day right: Wir haben eine top Kaffeemaschine, Müsli und frisches Obst Fitness: Bleibe fit mit dem bezuschussten Urban Sports Club Membership Shopping: Erfülle Dir einen Wunsch mit monatlichem SpendIt Card Budget Fun: Regelmäßige Teamevents & eine stets gut bestückte Bar Office: Ein wunderschönes helles Office direkt im Herzen von Berlin-Mitte am Hackeschen Markt mit vielen Meeting Räumen, Küche, Snacks, Getränken, Lounge-Area und umgeben von vielen Restaurants und Cafés Visa-Support: Wir unterstützen Kandidat:innen im kompletten Visa-Prozess Du fühlst Dich angesprochen, aber glaubst nicht alle Kriterien zu 100% zu erfüllen? Bewirb Dich gern trotzdem bei uns. Wir freuen uns auf Deine aussagekräftige Bewerbung über unser Online-Formular.",
+      "locations": [
+        "Berlin"
+      ],
+      "employment_type": "permanent, full-time",
+      "remote": "",
+      "employer": "tink GmbH",
+      "date_posted": null,
+      "valid_through": null,
+      "reference": "2734160",
+      "extraction": "personio_feed",
+      "source_url": "https://tink-gmbh.jobs.personio.de/xml",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:35:07.896786+00:00",
+      "id": "786c5363b04b708479cf",
+      "company_key": "tink"
+    },
+    {
+      "title": "Manager:in Strategic Projects – AI & Business Development (all genders)",
+      "url": "https://tink-gmbh.jobs.personio.de/job/2860437",
+      "description": "Deine Aufgaben Du willst nicht ein Projekt verwalten, sondern ein Unternehmen AI-first aufstellen? Bei uns übernimmst du die Projekte, die tink verändern: KI-fähige Shop- und IT-Infrastruktur, neue Märkte, neue Vertriebswege. Dabei arbeitest du eng mit der Geschäftsführung zusammen. Deine Aufgaben AI-Infrastruktur: Du baust die Shop- und Systemlandschaft so um, dass KI darauf arbeiten kann. Dazu gehören saubere Produktdaten, offene Schnittstellen und eine Architektur, die KI-Agenten, semantische Suche und Personalisierung möglich macht. KI in die Prozesse: Du findest die Prozesse, die KI-Agenten übernehmen können, etwa in Customer Service, Operations, Einkauf oder Content, und setzt sie mit messbarem Effekt um. Agentic Commerce & neue Vertriebswege: Du machst tink sichtbar und kaufbar dort, wo Kund:innen künftig einkaufen: in KI-Assistenten, auf Marktplätzen, über B2B und Partnerschaften. Du gehst vom Pilot bis zur Skalierung. Internationalisierung: Du bereitest den Eintritt in neue Märkte vor und setzt ihn um, mit KI als Hebel für Übersetzung, Content und Lokalisierung. IT- & ERP-Projekte: Du leitest die Einführung neuer IT-Lösungen und ERP-Systeme und achtest von Anfang an darauf, dass Daten und Automatisierung mitgedacht sind. Projektleitung end-to-end: Scope, Zeitplan, Budget, Stakeholder und Risiken liegen bei dir, über mehrere Projekte parallel. Dein Profil Dein Profil Mehrjährige Erfahrung in Strategy Consulting, Business Development, als Founder’s Associate oder in der Projektleitung in einem wachsenden Unternehmen Du hast KI-Projekte schon umgesetzt, nicht nur ausprobiert: Automatisierungen, Agenten, KI-Features oder datengetriebene Systeme Du verstehst, wie Shop-, ERP- und Datenlandschaften zusammenspielen, und sprichst mit IT und Dienstleistern auf Augenhöhe Analytisch stark: Business Cases, Unit Economics und Excel sind dein Handwerkszeug Hands-on: Du baust Prototypen selbst, mit KI-Tools, No-Code oder ein bisschen Code, statt nur Konzepte zu schreiben Du hakst nach, bis etwas fertig ist und läuft Deutsch auf muttersprachlichem Niveau (C2), sehr gutes Englisch (C1) Du arbeitest gern im Team vor Ort in Berlin-Mitte Warum wir? tink Kultur: tink Mission: Wir verbinden ein erfolgreiches Geschäftsmodell mit der Mission, allen Haushalten einen Zugang zu einem nachhaltigeren und smarten Zuhause zu ermöglichen Expertise: Ein erfahrenes Management-Team mit langjährigem Hintergrund im Startup-, Industrie- und Beratungsgeschäft International: Unser Team kommt aus über 30 verschiedenen Nationen Diversität: Wir freuen uns über Bewerber:innen jeglicher Nationalität, ethnischer Herkunft, religiöser Zugehörigkeit, sexueller Orientierung und jeglichen Geschlechts. Bei uns zählen Persönlichkeit und Performance. Persönliche Weiterentwicklung: Regelmäßige Feedback Runden und Reviews - Deine professionelle und persönliche Weiterentwicklung liegt uns am Herzen! Faire Kommunikation: Wir haben eine offene und transparente Feedback-Kultur. tink Benefits: Ein wunderschönes helles Office direkt im Herzen von Berlin-Mitte am Hackeschen Markt mit vielen Meeting Räumen, Loungebereich, Küche, Tischtennisplatte, Bar und umgeben von vielen Restaurants und Cafés Top Kaffeemaschine, Müsli und frisches Obst Internationale Kultur mit über 30 Nationen Regelmäßige Teamevents & eine stets gut bestückte Bar 28 Urlaubstage, nach 2 Jahren 29 und nach 3 Jahren 30 Urban Sports Zuschuss",
+      "locations": [
+        "Berlin"
+      ],
+      "employment_type": "permanent, full-time",
+      "remote": "",
+      "employer": "tink GmbH",
+      "date_posted": null,
+      "valid_through": null,
+      "reference": "2860437",
+      "extraction": "personio_feed",
+      "source_url": "https://tink-gmbh.jobs.personio.de/xml",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:35:07.896786+00:00",
+      "id": "f359ea26d3c679146d61",
+      "company_key": "tink"
+    },
+    {
+      "title": "Partner Manager:in (all genders) - Deutschsprachig",
+      "url": "https://tink-gmbh.jobs.personio.de/job/2122939",
+      "description": "Deine Aufgaben Bist du bereit, die Zukunft des Smart Homes mitzugestalten? Bei tink arbeitest du an der Schnittstelle von Innovation, Technologie und Marketing. Unsere Mission: Wir schaffen einzigartige Partnerschaften mit führenden Smart Home Brands, um unseren Kund*innen exklusive Produktlösungen, erstklassigen Content und beeindruckende Vermarktungskampagnen zu bieten. Werde Teil unseres Teams und trage dazu bei, tink als Marktführer zu stärken und weiterzuentwickeln! Übernimm die unternehmerische Verantwortung für den Aufbau und die Entwicklung von Partnerschaften mit den innovativsten Smart Home Marken weltweit. Koordiniere und inspiriere unsere internen und externen Stakeholder und arbeite eng mit allen Abteilungen – insbesondere Marketing und Operations – zusammen. Spüre Wachstumspotenziale auf: Ob neue Kategorien, spannende Partner oder zukunftsweisende Geschäftsmodelle – deine Ideen setzen neue Maßstäbe. Dein Profil Kommunikationstalent : Du überzeugst mit exzellenten Kommunikationsfähigkeiten und trittst souverän gegenüber externen Stakeholdern auf – ob im persönlichen Gespräch, per E-Mail oder in Verhandlungen. Analytisches Denken : Mit deiner schnellen Auffassungsgabe, deinem ausgeprägten Zahlenverständnis und einer strukturierten Arbeitsweise kannst du auch komplexe Themen effektiv durchdringen und klare Lösungen entwickeln. Hands-On Mentalität : Du packst Dinge proaktiv an und setzt deine Konzepte zur Weiterentwicklung von Partnerschaften eigenständig und praxisnah um. Sprachgewandtheit : Du kommunizierst mühelos in Deutsch (C2) und Englisch (C1) und bewegst dich sicher in einem internationalen Umfeld. Erfahrung : Erste Berührungspunkte mit dem Key Account Management oder vergleichbaren Rollen hast du bereits gesammelt und bringst das notwendige Know-how mit, um schnell durchzustarten. Idealerweise hast Du bereits Erfahrungen in einem E-commerce oder einem ähnlich dynamischen Umfeld gemacht. Warum wir? tink Kultur tink Mission : Wir verbinden ein erfolgreiches Geschäftsmodell mit der Mission, allen Haushalten einen Zugang zu einem nachhaltigeren und smarten Zuhause zu ermöglichen. Expertise : Ein erfahrenes Management-Team mit langjährigem Hintergrund im Startup-, Industrie- und Beratungsgeschäft International : Unser Team kommt aus über 30 verschiedenen Nationen Diversität : Wir freuen uns über Bewerber:innen jeglicher Nationalität, ethnischer Herkunft, religiöser Zugehörigkeit, sexueller Orientierung und jeglichen Geschlechts. Bei uns zählen Persönlichkeit und Performance. Persönliche Weiterentwicklung : Regelmäßige Feedback Runden und Reviews - Deine professionelle und persönliche Weiterentwicklung liegt uns am Herzen! Faire Kommunikation : Wir haben eine offene und transparente Feedback-Kultur. Office Kultur : Dur arbeitest gerne jeden Tag on-site mit deinem Team tink Benefits Remote Option: Du hast die Option auf bis zu 4 Wochen Remote Work pro Jahr Freizeit: Bis zu 30 Urlaubstage (nach Betriebszugehörigkeit) Gehalt: Wir zahlen leistungsgerecht und fair Start your day right: Wir haben eine top Kaffeemaschine, Müsli und frisches Obst Fitness: Bleibe fit mit dem bezuschussten Urban Sports Club Membership Shopping: Erfülle Dir einen Wunsch mit monatlichem SpendIt Card Budget Fun: Regelmäßige Teamevents & eine stets gut bestückte Bar Office: Ein wunderschönes helles Office direkt im Herzen von Berlin-Mitte am Hackeschen Markt mit vielen Meeting Räumen, Küche, Snacks, Getränken, Lounge-Area und umgeben von vielen Restaurants und Cafés Visa-Support: Wir unterstützen Kandidat:innen im kompletten Visa-Prozess Du fühlst Dich angesprochen, aber glaubst nicht alle Kriterien zu 100% zu erfüllen? Bewirb Dich gern trotzdem bei uns. Wir freuen uns auf Deine aussagekräftige Bewerbung über unser Online-Formular.",
+      "locations": [
+        "Berlin"
+      ],
+      "employment_type": "permanent, full-time",
+      "remote": "",
+      "employer": "tink GmbH",
+      "date_posted": null,
+      "valid_through": null,
+      "reference": "2122939",
+      "extraction": "personio_feed",
+      "source_url": "https://tink-gmbh.jobs.personio.de/xml",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:35:07.896786+00:00",
+      "id": "ba2244af4b23a4c2eaf4",
+      "company_key": "tink"
+    },
+    {
+      "title": "Praktikant E-Commerce (all genders) - ab sofort, mind. 3 Monate",
+      "url": "https://tink-gmbh.jobs.personio.de/job/2824647",
+      "description": "Deine Aufgaben Shop verbessern: Du analysierst unsere Customer Journey und findest Ideen, wie wir Suche, Produktseiten und Checkout noch besser machen können Features mitgestalten: Du entwickelst neue Shop-Features mit – von der ersten Idee über Tests bis zum Go-live Daten verstehen: Du arbeitest mit GA4 und unseren Dashboards und leitest aus Zahlen konkrete Verbesserungen ab Experimente machen: Du entwickelst Hypothesen, unterstützt bei A/B-Tests und findest heraus, was wirklich funktioniert AI ausprobieren: Du testest neue KI-Features für den Online-Shop, z. B. Guided Selling oder Conversational Shopping Im Team arbeiten: Du arbeitest eng mit Development, Marketing und anderen Teams zusammen und bringst deine Ideen ein Dein Profil Background : Du studierst BWL, Wirtschaftsinformatik, E-Commerce, Informatik oder etwas Vergleichbares Tech-affin: Du interessierst dich für E-Commerce, digitale Produkte und UX Analytical Skills : Du denkst analytisch und hast Spaß an Zahlen und Daten AI: Du probierst AI-Tools gerne aus und willst verstehen, was damit im E-Commerce möglich ist Go-Getter: Du arbeitest selbstständig, bist neugierig und packst gerne mit an Nice-to-have: Erste Erfahrungen mit GA4, Figma, Jira, SQL oder A/B-Testing sind ein Plus, aber kein Muss Sprachkenntnisse : Deutsch auf muttersprachlichem Niveau und hervorragende Englischkenntnisse. Office-First & Team-Vibes: Du liebst den persönlichen Austausch, schätzt schnelle Kommunikationswege und hast richtig Lust, jeden Tag gemeinsam mit deinem Team in unserem wunderschönen Office im Herzen von Berlin-Mitte zu arbeiten. Warum wir? tink Kultur tink Mission : Wir verbinden ein erfolgreiches Geschäftsmodell mit der Mission, allen Haushalten einen Zugang zu einem nachhaltigeren und smarten Zuhause zu ermöglichen. Expertise : Ein erfahrenes Management-Team mit langjährigem Hintergrund im Startup-, Industrie- und Beratungsgeschäft International : Unser Team kommt aus über 30 verschiedenen Nationen Diversität : Wir freuen uns über Bewerber:innen jeglicher Nationalität, ethnischer Herkunft, religiöser Zugehörigkeit, sexueller Orientierung und jeglichen Geschlechts. Bei uns zählen Persönlichkeit und Performance. Persönliche Weiterentwicklung : Regelmäßige Feedback Runden und Reviews - Deine professionelle und persönliche Weiterentwicklung liegt uns am Herzen! Faire Kommunikation : Wir haben eine offene und transparente Feedback-Kultur. Office Policy : Wir sind ein Presence-first Team und arbeiten gemeinsam im Büro tink Benefits Start your day right: Wir haben eine top Kaffeemaschine, Müsli und frisches Obst Fitness: Bleibe fit mit dem bezuschussten Urban Sports Club Membership Fun: Regelmäßige Teamevents & eine stets gut bestückte Bar Office: Ein wunderschönes helles Office direkt im Herzen von Berlin-Mitte am Hackeschen Markt mit vielen Meeting Räumen, Küche, Snacks, Getränken, Lounge-Area und umgeben von vielen Restaurants und Cafés Visa-Support: Wir unterstützen Kandidat:innen im kompletten Visa-Prozess",
+      "locations": [
+        "Berlin"
+      ],
+      "employment_type": "intern, full-time",
+      "remote": "",
+      "employer": "tink GmbH",
+      "date_posted": null,
+      "valid_through": null,
+      "reference": "2824647",
+      "extraction": "personio_feed",
+      "source_url": "https://tink-gmbh.jobs.personio.de/xml",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:35:07.896786+00:00",
+      "id": "8d7fce01004d515cd2b7",
+      "company_key": "tink"
+    },
+    {
+      "title": "Sales Manager:in tink.energy (all genders) - Deutschsprachig",
+      "url": "https://tink-gmbh.jobs.personio.de/job/2046490",
+      "description": "Deine Aufgaben\n\n                tink.energy ist das neue Plattform-Venture für Solar-, Speicher- und Wärmepumpen-Lösungen von tink. Wir befinden uns in einer einzigartigen Phase: erste Traction ist da, starke Premium Partner wie Viessmann sind an Bord und das Marktfenster ist offen. Jetzt suchen wir ambitionierte Sales Persönlichkeiten, die Verantwortung übernehmen und tink.energy von 0→1→n mit aufbauen wollen. In deiner Rolle arbeitest du eng mit erfahrenen Sales Managern sowie dem VP Strategy und seinem Team zusammen. Du bist nah an echten Deals, lernst schnell, übernimmst schrittweise mehr Verantwortung und gestaltest aktiv mit, wie unser Vertriebsmodell, unsere Prozesse und unsere Kundenansprache aussehen. Du trägst direkt dazu bei, unseren Kund:innen den Einstieg in ein nachhaltiges, smartes Zuhause zu ermöglichen und baust dir gleichzeitig eine starke Sales und Business Grundlage in einem der relevantesten Zukunftsmärkte auf. Du repräsentierst tink.energy nach außen und präsentierst unsere Lösungen mit Begeisterung. Dabei schaffst du es, diese Begeisterung auch bei unseren Kund:innen zu wecken. Du planst Termine, erstellst Angebote, führst eigenständig Beratungsgespräche und begleitest deine Kund:innen auch während der Umsetzung. Als direkter Ansprechpartner sorgst du für eine transparente und klare Kommunikation und schaffst damit nicht nur zufriedene Kund:innen, sondern echte Weiterempfehler. Du bringst eigene Ideen ein, willst aktiv mitgestalten und gemeinsam mit uns wachsen. Dein Profil Du trittst offen und sympathisch auf, kommunizierst klar und bist ein verlässlicher Teil des Teams. Du hast eine positive Ausstrahlung und gehst mit Freude und Energie an neue Aufgaben heran. Du arbeitest eigenständig und bist hochmotiviert, deine Vertriebskarriere auf das nächste Level zu bringen. Vertrieb ist deine Leidenschaft und ein zufriedener Kunde dein Antrieb. Du erklärst komplexe Produkte verständlich und findest gemeinsam mit den Kund:innen die beste Lösung für ihr Zuhause. Du hast bereits erste Vertriebserfahrung, idealerweise im Bereich Energielösungen. Du beherrschst Deutsch auf mindestens C1 Niveau. Warum wir? Unternehmerischer Impact Direkte Zusammenarbeit mit starken Teams Hohe Autonomie, hohe Geschwindigkeit, hoher Einfluss Verantwortung für komplette Workstreams Team, Kultur & Timing Kolleg:innen mit Background aus Top-Beratungen, VCs, Start-ups Markt- und Kundenzugang durch bestehende tink-Infrastruktur Frühphase mit Momentum: die Chance, ein neues Geschäftsmodell in erster Reihe zu skalieren Vorteile & Umfeld Ein wunderschönes helles Office direkt im Herzen von Berlin-Mitte am Hackeschen Markt mit vielen Meeting Räumen, Küche, Tischtennisplatte und umgeben von vielen Restaurants und Cafés Office Kultur: Du arbeitest gerne jeden Tag on-site mit deinem Team im Office Top Kaffeemaschine, Müsli und frisches Obst Internationale Kultur mit über 30 Nationen Regelmäßige Teamevents & eine stets gut bestückte Bar Urban Sports Zuschuss Monatliches SpenditCard Budget Bis zu 30 Urlaubstage",
+      "locations": [
+        "Berlin"
+      ],
+      "employment_type": "permanent, full-time",
+      "remote": "",
+      "employer": "tink GmbH",
+      "date_posted": null,
+      "valid_through": null,
+      "reference": "2046490",
+      "extraction": "personio_feed",
+      "source_url": "https://tink-gmbh.jobs.personio.de/xml",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:35:07.896786+00:00",
+      "id": "f5185980ef60d538755b",
+      "company_key": "tink"
+    },
+    {
+      "title": "Venture Development Intern tink.energy (all genders)  - Deutschsprachig (ab sofort)",
+      "url": "https://tink-gmbh.jobs.personio.de/job/2465272",
+      "description": "Deine Aufgaben\n\n                Mit tink.energy bauen wir den führenden Anbieter für ganzheitliche Energielösungen für Privathaushalte in Deutschland auf. Unser Anspruch: höchste Qualität, Umsetzung aus einer Hand und flexible Lösungen, die wirklich zu den Bedürfnissen unserer Kund:innen passen. Dabei verbinden wir den Aufbau eines Early-Stage-Startups mit der Substanz und Reichweite von tink: Über 2 Millionen Kund:innen, mehr als 100 Mio. € Umsatz und über 50 Mio. € Funding von führenden Investoren wie Rocket Internet und Seven Ventures. Das gibt uns die Möglichkeit, ein neues Geschäftsmodell mit echtem Markt- und Kundenzugang schnell aufzubauen. Jetzt suchen wir Menschen, die Lust haben, diese frühe Wachstumsphase aktiv mitzugestalten, eigene Themen voranzutreiben und gemeinsam mit uns ein neues Venture im Energiemarkt zu skalieren. So kannst du dazu beitragen: Du unterstützt die strategische Entwicklung und operative Umsetzung zentraler Wachstumsinitiativen für tink.energy im engen Austausch mit dem CEO und VP Strategy Du übernimmst Verantwortung für konkrete Workstreams (Growth, Sales, Ops) von der Konzeption, über die Implementierung bis hin zur Skalierung Du strukturierst, optimierst und skalierst operative Prozesse, um unser neues Venture schnell und nachhaltig weiterzuentwickeln Du führst eigenständig Recherchen, Markt- und Wettbewerbsanalysen durch, analysierst Kundenfeedback sowie operative Kennzahlen und leitest daraus konkrete Handlungsempfehlungen ab Du hilfst beim Aufbau von KPI-Trackings, Business Cases, Management-Reportings und Entscheidungsgrundlagen zur Unterstützung der Wachstumsstrategie Du identifizierst neue Wachstumshebel, strategische Partnerschaften und Möglichkeiten zur Weiterentwicklung unseres Geschäftsmodells Dein Profil Du hast Lust unternehmerisch zu arbeiten und ein neues Geschäftsmodell in einer frühen Phase mit viel Eigenverantwortung aufzubauen Du studierst an einer führenden Universität im Bachelor oder Master bzw. hast dein Studium bereits erfolgreich abgeschlossen Du hast bereits erste Erfahrung in einem dynamischen Umfeld wie Start-up, Consulting, Venture Capital, Business Development, Growth oder Operations gesammelt Dich reizt die strategisch-konzeptionelle Arbeit und operative Implementierung Du hast sowohl Verständnis für Go-to-Market-Dynamiken als auch ein gutes Gespür für Produkt, Prozesse und Kund:innenbedürfnisse Eine schnelle Auffassungsgabe, starkes Zahlenverständnis sowie eine strukturierte und analytische Arbeitsweise zeichnen dich aus Idealerweise hast du erste Erfahrungen mit relevanten Tools, z. B. AI-Tools, No-Code-/Automation-Tools, Google Analytics, Zapier, Figma oder ähnlichen Anwendungen Du kommunizierst sicher in Deutsch und Englisch mit verschiedenen internen und externen Stakeholdern Eine hohe Eigenständigkeit, ausgeprägte Ownership und einen starken Teamgeist runden dein Profil ab Mindset Mindset 80/20-Mentalität: lieber schnell gute Entscheidungen treffen, testen und nachschärfen, statt auf Perfektion zu warten Go-to-Market-Instinkt, Verständnis für Produkt, Prozesse und Zahlen sowie ein ausgeprägtes Gespür für Kundenbedürfnisse und Entscheidungsprozesse Eigenständiges Arbeiten, klare Kommunikation und Ownership für deine Themen Hands-on: Du willst nicht nur Konzepte bauen, sondern Dinge wirklich umsetzen Klarheit, Struktur und Geschwindigkeit bei der Umsetzung von Themen Volle Verantwortung für eigene Projekte mit starkem Rückhalt durch ein erfahrenes Team Warum wir? Unternehmerischer Impact Direkte Zusammenarbeit mit dem dem VP Strategy und dem C-Level Hohe Autonomie, hohe Geschwindigkeit und großer Impact ab Tag eins Verantwortung für eigene Projekte und komplette Workstreams Die Chance, ein neues Venture im Energiemarkt von Beginn an mitzugestalten und in einer frühen Wachstumsphase zu skalieren Team, Kultur & Timing Kolleg:innen mit Background aus Top-Beratungen, Venture Capital, Start-ups und Scale-ups Markt- und Kundenzugang durch die bestehende tink-Infrastruktur mit über 2 Millionen Kund:innen Early-Stage-Startup-Dynamik mit Substanz: Du arbeitest an einem neuen Geschäftsmodell mit echtem Momentum und starkem Rückenwind Aktive Unterstützung bei deiner Entwicklung und echtes Backing durch ein erfahrenes Team Vorteile & Umfeld Ein wunderschönes, helles Office direkt im Herzen von Berlin-Mitte am Hackeschen Markt mit vielen Meetingräumen, Küche, Tischtennisplatte und umgeben von vielen Restaurants und Cafés Top-Kaffeemaschine, Müsli und frisches Obst Internationale Kultur mit über 30 Nationen Regelmäßige Teamevents & eine stets gut bestückte Bar Urban Sports Zuschuss Bis zu 20 Urlaubstage Klingt nach dir? Dann bewirb dich gerne, auch wenn du nicht jeden Punkt zu 100 % erfüllst. Wir freuen uns darauf, dich kennenzulernen und gemeinsam herauszufinden, wie wir mit dir tink.energy aufbauen können.",
+      "locations": [
+        "Berlin"
+      ],
+      "employment_type": "intern, full-time",
+      "remote": "",
+      "employer": "tink GmbH",
+      "date_posted": null,
+      "valid_through": null,
+      "reference": "2465272",
+      "extraction": "personio_feed",
+      "source_url": "https://tink-gmbh.jobs.personio.de/xml",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:35:07.896786+00:00",
+      "id": "156163c4afa525da743e",
+      "company_key": "tink"
+    },
+    {
+      "title": "Werkstudent:in Key Account / Partner Management - Deutschsprachig",
+      "url": "https://tink-gmbh.jobs.personio.de/job/1510941",
+      "description": "Deine Aufgaben\n\n                tink ist Europas führende E-Commerce-Plattform für Smart Home Lösungen. Gemeinsam mit den innovativsten Smart Home Brands entwickeln wir exklusive Produktlösungen, hochwertigen Content und starke Vermarktungskampagnen. Unser Partner Management Team steht dabei im Zentrum unseres Erfolgs - hier entstehen die Partnerschaften, die unser Angebot, unsere USPs und unser Wachstum maßgeblich prägen. Du unterstützt das Partner Management Team beim Aufbau und der Weiterentwicklung neuer Prozesse und Strukturen Du hilfst beim Onboarding neuer Hardware-Partner und begleitest diese in der Startphase Du führst Markt- und Wettbewerbsanalysen durch und identifizierst neue Geschäftspotenziale Du erstellst Präsentationen, Auswertungen und interne Reportings Du kommunizierst eigenständig mit unseren Business-Partnern Du unterstützt beim Management von Werbebudgets sowie bei Abrechnungen Dein Profil Du bist eingeschriebene:r Student:in (mind. noch 1 Jahr) z. B. in Wirtschaft, Informationssystemen, Ingenieurwesen oder einem vergleichbaren Studiengang Du bist zahlenaffin, proaktiv, arbeitest gerne im Team und bist richtig stark in der Kommunikation Du hast die wöchentliche Kapazität von 15-20 Stunden in der Woche für uns und wohnst im Raum Berlin Du sprichst und schreibst Deutsch auf muttersprachlichem Niveau (C2) und fließend Englisch (mind. B2) Nice to have: Du hast bereits erste Erfahrungen im E-Commerce Bereich gesammelt Ort der Tätigkeit: Berlin (onsite) - Bitte von remote Bewerbungen absehen Warum wir? tink Kultur tink Mission : Wir verbinden ein erfolgreiches Geschäftsmodell mit der Mission, allen Haushalten einen Zugang zu einem nachhaltigeren und smarten Zuhause zu ermöglichen. Expertise : Ein erfahrenes Management-Team mit langjährigem Hintergrund im Startup-, Industrie- und Beratungsgeschäft International : Unser Team kommt aus über 30 verschiedenen Nationen Diversität : Wir freuen uns über Bewerber:innen jeglicher Nationalität, ethnischer Herkunft, religiöser Zugehörigkeit, sexueller Orientierung und jeglichen Geschlechts. Bei uns zählen Persönlichkeit und Performance. Persönliche Weiterentwicklung : Regelmäßige Feedback Runden und Reviews - Deine professionelle und persönliche Weiterentwicklung liegt uns am Herzen! Faire Kommunikation : Wir haben eine offene und transparente Feedback-Kultur. tink Benefits für Werkstudent:innen: Freizeit: Bis zu 20 Urlaubstage (20 Tage bei 20 Wochenstunden, bei weniger Stunden werden die Urlaubstage entsprechend angepasst) Gehalt: Wir zahlen leistungsgerecht und fair Fitness: Bleibe fit mit dem bezuschussten Urban Sports Club Membership Shopping: Erfülle Dir einen Wunsch mit monatlichem SpendIt Card Budget Start your day right: Wir haben eine top Kaffeemaschine, Müsli und frisches Obst Fun: Regelmäßige Teamevents & eine stets gut bestückte Bar Office: Ein wunderschönes helles Office direkt im Herzen von Berlin-Mitte am Hackeschen Markt mit vielen Meeting Räumen, Küche, Snacks, Getränken, Lounge-Area und umgeben von vielen Restaurants und Cafés",
+      "locations": [
+        "Berlin"
+      ],
+      "employment_type": "working_student, full-or-part-time",
+      "remote": "",
+      "employer": "tink GmbH",
+      "date_posted": null,
+      "valid_through": null,
+      "reference": "1510941",
+      "extraction": "personio_feed",
+      "source_url": "https://tink-gmbh.jobs.personio.de/xml",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:35:07.896786+00:00",
+      "id": "77e66b4f6b3b02c6d17e",
+      "company_key": "tink"
+    },
+    {
+      "title": "Werkstudent:in Strategic Partner Management - Deutschsprachig",
+      "url": "https://tink-gmbh.jobs.personio.de/job/1677130",
+      "description": "Deine Aufgaben Unser Strategic Partner Management pflegt enge, langfristige Beziehungen zu unseren Industriepartnern und bietet diesen und deren Kunden exklusive Produkt-Lösungen, Content und Vermarktungskampagnen. Damit bildet das Strategic Partner Management einen wichtigen Teil für tinks Umsatzentwicklung. Du unterstützt bei der Planung und Umsetzung von Kundenaktionen unserer verschiedenen Partner-Shops und arbeitest dabei eng mit allen internen Teams zusammen Du hilfst uns dabei, die bestehenden und neuen Partner-Shops auszubauen und weiter zu entwickeln Du beobachtest und analysierst die Performance der Shops und Aktionen Dein Profil Eine schnelle Auffassungsgabe sowie eine strukturierte und analytische Arbeitsweise zeichnen Dich aus Du bist Student:in und bist mind. noch ein Jahr lang eingeschrieben Du sprichst und schreibst Deutsch auf muttersprachlichem Niveau und gutes Englisch (C1) Du verfügst bereits über erste Erfahrungen als Werkstudent:in Kein Muss aber von Vorteil: Du verfügst über zusätzliche Erfahrungen im CRM/Content Warum wir? tink Kultur: tink Mission : Wir verbinden ein erfolgreiches Geschäftsmodell mit der Mission, allen Haushalten einen Zugang zu einem nachhaltigeren und smarten Zuhause zu ermöglichen Expertise : Ein erfahrenes Management-Team mit langjährigem Hintergrund im Startup-, Industrie- und Beratungsgeschäft International : Unser Team kommt aus über 30 verschiedenen Nationen Diversität : Wir freuen uns über Bewerber:innen jeglicher Nationalität, ethnischer Herkunft, religiöser Zugehörigkeit, sexueller Orientierung und jeglichen Geschlechts. Bei uns zählen Persönlichkeit und Performance. Persönliche Weiterentwicklung : Regelmäßige Feedback Runden und Reviews - Deine professionelle und persönliche Weiterentwicklung liegt uns am Herzen! tink Benefits: Freizeit: Bis zu 20 Urlaubstage (20 Tage bei 20 Wochenstunden, bei weniger Stunden werden die Urlaubstage entsprechend angepasst) Gehalt: Wir zahlen leistungsgerecht und fair Fitness: Bleibe fit mit dem bezuschussten Urban Sports Club Membership Shopping: Erfülle Dir einen Wunsch mit monatlichem SpendIt Card Budget Start your day right: Wir haben eine top Kaffeemaschine, Müsli und frisches Obst Fun: Regelmäßige Teamevents & eine stets gut bestückte Bar Office: Ein wunderschönes helles Office direkt im Herzen von Berlin-Mitte am Hackeschen Markt mit vielen Meeting Räumen, Küche und umgeben von vielen Restaurants und Cafés Du fühlst Dich angesprochen, aber glaubst nicht alle Kriterien zu 100% zu erfüllen? Bewirb Dich gern trotzdem bei uns. Wir freuen uns auf Deine aussagekräftige Bewerbung über unser Online-Formular.",
+      "locations": [
+        "Berlin"
+      ],
+      "employment_type": "working_student, part-time",
+      "remote": "",
+      "employer": "tink GmbH",
+      "date_posted": null,
+      "valid_through": null,
+      "reference": "1677130",
+      "extraction": "personio_feed",
+      "source_url": "https://tink-gmbh.jobs.personio.de/xml",
+      "availability": "advertised",
+      "fetched_at": "2026-11-25T16:35:07.896786+00:00",
+      "id": "34f13d645b5c84348636",
+      "company_key": "tink"
+    }
+  ],
+  "pages": [
+    {
+      "url": "https://tink.de/",
+      "final_url": "https://www.tink.de:443/",
+      "redirects": [
+        {
+          "source": "https://tink.de/",
+          "target": "https://www.tink.de:443/",
+          "status": 301
+        }
+      ],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.tink.de:443/l/career",
+      "final_url": "https://www.tink.de:443/l/career",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://tink-gmbh.jobs.personio.de/",
+      "final_url": "https://tink-gmbh.jobs.personio.de/xml",
+      "redirects": [],
+      "jobs_found": 10,
+      "portal_redirects": [],
+      "explicit_empty": false
+    }
+  ],
+  "errors": [],
+  "excluded": [],
+  "sources": [
+    {
+      "url": "https://tink.de/",
+      "linked_from": null,
+      "mechanism": "configured"
+    },
+    {
+      "url": "https://www.tink.de:443/",
+      "linked_from": "https://tink.de/",
+      "mechanism": "http_redirect"
+    },
+    {
+      "url": "https://tink-gmbh.jobs.personio.de/",
+      "linked_from": "https://www.tink.de:443/l/career",
+      "mechanism": "employer_link"
+    },
+    {
+      "url": "https://tink-gmbh.jobs.personio.de/xml",
+      "linked_from": "https://tink-gmbh.jobs.personio.de/",
+      "mechanism": "public_job_feed",
+      "adapter": "personio"
+    }
+  ],
+  "adapter_attempts": [
+    {
+      "provider": "personio",
+      "portal_url": "https://tink-gmbh.jobs.personio.de/",
+      "url": "https://tink-gmbh.jobs.personio.de/xml",
+      "status": "ok",
+      "jobs_found": 10
+    }
+  ],
+  "coverage": {
+    "scope": "configured_sites_and_linked_career_portals",
+    "complete": true,
+    "pending_pages": 0,
+    "page_limit_reached": false,
+    "job_limit_reached": false,
+    "request_limit_reached": false,
+    "pages_attempted": 3,
+    "pages_read": 3,
+    "dynamic_or_unparsed_pages": false,
+    "http": {
+      "requests_attempted": 8,
+      "allocated_requests": 1595,
+      "cache_hits": 0
+    }
+  },
+  "pending_urls": [],
+  "jobs_before_keyword_filter": 10
+}

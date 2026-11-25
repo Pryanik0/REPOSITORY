@@ -1,0 +1,9 @@
+{
+  "url": "https://www.nuernberger.com/robots.txt",
+  "final_url": "https://www.nuernberger.com/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/plain",
+  "fetched_at": "2026-11-25T16:13:18.121345+00:00",
+  "text": "\n\nUser-agent: *\n\nSITEMAP: https://www.nuernberger.com/sitemap.xml\n\n"
+}

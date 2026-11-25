@@ -1,0 +1,9 @@
+{
+  "url": "https://elderbrook.de/robots.txt",
+  "final_url": "https://elderbrook.de/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/plain",
+  "fetched_at": "2026-11-25T15:59:54.561727+00:00",
+  "text": "# START YOAST BLOCK\r\n# ---------------------------\r\nUser-agent: *\r\nDisallow:\r\n\r\nSitemap: https://elderbrook.de/sitemap_index.xml\r\n# ---------------------------\r\n# END YOAST BLOCK"
+}

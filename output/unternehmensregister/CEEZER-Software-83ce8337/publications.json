@@ -1,0 +1,129 @@
+{
+  "company": {
+    "key": "CEEZER Software",
+    "name": "CEEZER Software GmbH",
+    "location": "Berlin",
+    "name_source": "company_name",
+    "urls": [
+      "https://www.ceezer.earth/"
+    ],
+    "kununu_url": "https://www.kununu.com/de/ceezer-software1",
+    "branches": [
+      "IT & Telekommunikation"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "10178",
+    "street": "Rosenstraße 16",
+    "region": "Berlin",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:46:56.541449+00:00",
+  "searches": [
+    {
+      "accounting_only": true,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=CEEZER+Software+GmbH&companyLocation=Berlin&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ACCOUNTING&drilldownFilter=22&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": false
+    },
+    {
+      "accounting_only": false,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=CEEZER+Software+GmbH&companyLocation=Berlin&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ALL_AREAS&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": false
+    }
+  ],
+  "excluded_company_matches": [
+    {
+      "company": "CEEZER TradeCo GmbH, Berlin",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-01-29",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=oCyKhyvgmvwwDjmkVVKTRJsMmiN6aobH5LQ92AQMgMLbr2f6M5GKfHKV5JL3nM-rKvK_yRGOos470vDEKMXwFhLZ6kv9C2RwZ1AAH0SCZ5iBc1hNJbBCYmY4lyuYjflomjPSmGk0W4BZKiG-52fvbm5OmmZTHuoObo9MR93BLpofdLuahRgKj9OVqOXzsUO9y6oJzkVLWIJoo6rCNUVj94U6mJBmdP_iMNvKknClyxER0JWG",
+      "metadata": "CEEZER TradeCo GmbH, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 29.01.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "CEEZER TradeCo GmbH, Berlin",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-03-20",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=E1SP2zRoS8oARaAsbYHvYlezcE7JiOTfgc759V9PBR-CEPP8m4Nw7PiWU7TUyTWUx9jhp2N1mBrSL6l78op74-7RdqGpK6RiADP7C9PQYp1vpPfLxehg621KZ14-ntBtp7gjmZPvBWqEkulRbLiSdFBae54gU65n0rSpmGtX5qq_rgKnnHLnM19l6SCsl6-53xohUyvRnmyFLW8oUWFBO2jsWmhnbDtUb9BppNzMYeZ_94sX",
+      "metadata": "CEEZER TradeCo GmbH, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 20.03.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "CEEZER TradeCo GmbH, Berlin",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-01-29",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=Ng1TJ9I3fBrnTGEjGNlLznz_HomZ3qA3LsGi2JMogjJS82nFuvZoL3msE-i5LkBhpYi3TBzBSloK9Dqgb4V3K3pQX2Dbo50rM83HBUMWnW_P-Gq7PYwjdht0XzI0DLYdVCiuqz5xjfNX0w61ueL1MpTUS1zFTkxUQJwDzsEqQMR-mTj3VYlJYVBrux4lpGi5G7P1woBcv5CUwF7em-U2V3zeCVHpCan9yD8QSdU6ONAsGAn2",
+      "metadata": "CEEZER TradeCo GmbH, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 29.01.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "CEEZER TradeCo GmbH, Berlin",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-03-20",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=Chl14dnuRXxIJ9Ilw8OuMMjLqvkM6EufJe00OZERd9_Xr3NtcJULy2DefYMHOXm8oJzXEyDU4VXG2zaLbsFPgeaq38A6KaUukGETHM87p-CYXcpT0ESBn3FrmbOJhoLDsiz5KXgDIDnyqUogxuOS3BfRvDV86pe92HCnBU21s4e_yak9fAd8q151M-U3K2aXvhS3V_1TZsZxDAwVqBiO6jfpNqBbIztjyastB8Xh30DzFWfX",
+      "metadata": "CEEZER TradeCo GmbH, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 20.03.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    }
+  ],
+  "date_from": "2024-01-01",
+  "date_to": "2026-11-25",
+  "excluded_dates": [],
+  "max_publications": 30,
+  "truncated": false,
+  "coverage": {
+    "search_complete": true,
+    "more_pages": false,
+    "publication_limit_reached": false,
+    "downloads_selected": 3,
+    "downloads_succeeded": 3,
+    "download_limit_reached": false,
+    "downloads_complete": true,
+    "text_complete": true
+  },
+  "publications": [
+    {
+      "company": "CEEZER Software GmbH, Berlin",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-02-12",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=n_9cOcv72JOd-2lv2i5dCcH_y85-35hq1CgW0M29hN1jZRlfV2QDVZEvnspP7AW5rlIY906EBEGna0is3n2q95q6y5WqVmxiuKtnKgdr9VQxorbp0ANIWLj-YLzEeQcXqBJkNvkgPV96dUfn4DKCJWUKzDJ_o3VxHhxeNT4Vd5QoNQySsHNNlDQkN0IpG0qbkqSQl3PMf_AyIJLEV9H1QAvNpUaItkTJjdpyA1xTrhhif2Nl",
+      "metadata": "CEEZER Software GmbH, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 12.02.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 1
+    },
+    {
+      "company": "CEEZER Software GmbH, Berlin",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-03-06",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=HsKOwuQtgf06I-qeeqJMDz5q-NewRLsdt5stmHJiUJaiChdSq8eAMlF2hqy4P6Rs5kHyrx-Z84qngpJiwy0SrCb9QqRYQXM44orj_YNEx_eothqzgJ3V8Vyi3mELIDwYz5rUSuemIPSKjwA_FbWjyr0okOZvi6C5QWg6K_k8XjDS1NHLHnRfyxUMdH24lVn-7PWmPmSTUbeVV5XPQzkiWkEUEO9k5pfhiKmZTLMuLF082CWT",
+      "metadata": "CEEZER Software GmbH, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 06.03.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 2
+    },
+    {
+      "company": "CEEZER Software GmbH, Berlin",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-05-07",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=AoHOGvEf8jNmvvzVMNOauklsbvL7SCOLeUuiISdwzA5uLoSXWWY0LIFdlEKN8krhU8epdD9ORF_Dlu95sIcyYBkq-2wMWp90-H7WZjzIg1WBOrTz05Y41RcQCcACNxI6hrqtGiRC8ry1YHyF6_-MHYxYZi0QBb8slBbTLM10kgqIpw1ggFZq2rbbozEvMe8dCfx54Qu8qZmN5Mo-6tmKiEnjpNgUsrwjmar6ia5WKXA4QE3D",
+      "metadata": "CEEZER Software GmbH, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 07.05.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 3
+    }
+  ]
+}

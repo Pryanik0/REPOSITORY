@@ -1,0 +1,629 @@
+{
+  "company": {
+    "key": "FINVIA Family Office GmbH",
+    "name": "FINVIA Family Office GmbH",
+    "location": "Frankfurt am Main",
+    "name_source": "company_name",
+    "urls": [
+      "https://www.finvia.fo"
+    ],
+    "kununu_url": null,
+    "branches": [
+      "Finanzdienstleister"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "60323",
+    "street": "Oberlindau 54 - 56",
+    "region": "Hessen",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T17:00:42.687741+00:00",
+  "searches": [
+    {
+      "accounting_only": true,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=FINVIA+Family+Office+GmbH&companyLocation=Frankfurt+am+Main&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ACCOUNTING&drilldownFilter=22&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": true
+    },
+    {
+      "accounting_only": false,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=FINVIA+Family+Office+GmbH&companyLocation=Frankfurt+am+Main&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ALL_AREAS&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": true
+    }
+  ],
+  "excluded_company_matches": [
+    {
+      "company": "FINVIA 1. Beteiligungs GmbH, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-02-18",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=Kqlgb7Jo0ufPAtlWpLRfRrSX28acic3Nde2Fov18a0wp5YOBkAeYgRrxm15P3Rrn78k4VwTC1oU7_fr3OLHyPXZCgLue6yL_5KIdEusp1y7OAbaPtzvfBWfyZIhFOBgx60RjNG_6K0VDxPw_f4yH9aWIxjIfDmns8TOOQpKUFsmMg4jchjOKCRryBON5utsD_o-rFX_Y1iEDaGS9jic_Fm9hIgPLtCOd1nEkCNqK0vteNAcl",
+      "metadata": "FINVIA 1. Beteiligungs GmbH, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 18.02.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA 1. Beteiligungs GmbH, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 08.12.2023 bis zum 31.12.2023",
+      "publication_date": "2025-05-23",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=qDlWjRqAJjvdgyrLvbyU9-vt4SgIXi6dT6f-Z6Mij4kCaDfZUd1dojk-Ufp3W8uIHvD2FfW7B5Jv503DVYu3V-ocB7ceF23K3o8LX-ZkLr7B7uRMrR6jp4nd--a6JIy7ecqB0LVkVS7JFLSEANWod76AGHVfBTkufKluQTBOpWCxHDNrWQtEC2pM3Fs16ZLPG8pv3UuRuerzElZsN4uU_CM7heSTvm7EFFetx0Gpnu193XKl",
+      "metadata": "FINVIA 1. Beteiligungs GmbH, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 08.12.2023 bis zum 31.12.2023 Datum: 23.05.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA Alternative Investments GmbH, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-01-20",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=rIN5GQPvA-CGrzFf9c0JNEZwqnTx1vcl6qAH2NbBUNvmHhMG0ioF115VPmYwBdDVtzqox5u4ttDOmUaPCq7JY-Q4j5nJDQaW-NTTmeIFrtVSGOAKSpLL8F_Ed9I9_kLKoIoh7ToDJAASkclrpcwAOOpw0gzN8IX4t1Co1OBse1h69Gua1lgwxWj9H3eoO6D8CYZv2Pn59mgpKIFxE0rslea3_TTDtDVJQIw_VhVt9TA2N6Eg",
+      "metadata": "FINVIA Alternative Investments GmbH, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 20.01.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA Alternative Investments GmbH, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-02-20",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=WZvi28e8NCzDaWfNmSqxqelLOVn3ZRfea55cCPe4jDskEz_nvKHj5o7UdUhRTGUO1QXa3uSkGWiB_d-JPAGeNTzd_RNRMy15sC6PlgCNBgSX8mGLax4bfX7-G3FhNt29A8jMpK7cNG_XRK8Soef2xnz9HY0Wht8Az2vePq4gN156grIkJnfonGebdaWfpKwvCEY6bQCGXFd2UzVnBuW79Y3RBs9Y027332yR8hWpTXrVK4XR",
+      "metadata": "FINVIA Alternative Investments GmbH, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 20.02.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA Alternative Investments GmbH, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-02-26",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=_3XB20RDRud2nWJhfwl3oxsbzCQg128WAH2LhdSlFda6NYfUhk2cn2zY_xizhReh1UI4YMI1cofmyPIw_AqKGotNMdFyM2y_nZ2vWplyoGa7qLRDI11RUXQHvhcU6_QPIRGMj3DhtcTt84OiaLGhHKpDoJWOTjzHniLdcwy8ce_gi5uQYxdgO9fw6PFjnqNLgjymJOx5hKqGWz7z2Que9GEPXTTo0Gw7JOffwxVZ9ZgZWe2T",
+      "metadata": "FINVIA Alternative Investments GmbH, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 26.02.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA Asia 2020 GmbH & Co. KG, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-10-16",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=eH2ei3q7FzvyARkEGD7nWEejP_LaaMS0uoJX_KUdPRjseKbIRjYdtkmlKMUmSS-pvoF7-1fdwHl0Hc4_h9Mw_-DKzOGpDID6GO4KZqtZeacWAJCyb5nE4PsPLxclykMOA7ppwwx8Y-_mqpr3yhRzqmu3dt2cEASz7RD8omHKHa81Pm7iwPDLnn64GZsRZz3o2O9XDkEAdUgW3Is4Qv3L25DO_d9mcCrh2PXf2oW4k8543OcP",
+      "metadata": "FINVIA Asia 2020 GmbH & Co. KG, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 16.10.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA Asia 2020 GmbH & Co. KG, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-02-19",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=8yIn6hT_6mCB97Kmx2QQQqgh6j0Ap70zmd6Z55wPz3MZ5etKy0zz1dhvCvw9uZgUxCdcuI2IV-5MIdkWjLDmd6VSwuUicHhILI2B7mZCAh4zRhwo-wAjvNOoJIHq2Yit0K1bky0J_7A8mo-aIUmeDgfxGB4Z_9uC-WKr_iS2MwSSFMWEab2b-ibZuQ76bKyRtCT7Jwo57FM2zEUgdRBa3uGMuq3Ld4YpXmWQUpUeCN8ya0uw",
+      "metadata": "FINVIA Asia 2020 GmbH & Co. KG, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 19.02.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA ASP II GmbH & Co. KG, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-10-16",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=3aq9J2LQ4eE_lJInuNJxtkaXSUniuv0T1o8y-LciizHy9ieTXDBuOm94KkZTaRV41rmnq2pgCoke-HahnFqauIQFsJaQzQn9-lSNDYazJN7pLGui583FeILbYRNSZpUtbwlZkz8TujxcJWafHUsEislMJN73A3wiyOVd-4_peRp-JSd4k8YI3AxZ_f8-3634Re87n9c9I0iKJkdxeC5JK_oN3iJk-R806zFyyIjwi1RVkoEJ",
+      "metadata": "FINVIA ASP II GmbH & Co. KG, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 16.10.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA ASP II GmbH & Co. KG, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 25.03.2024 bis zum 31.12.2024",
+      "publication_date": "2026-02-19",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=d9XTcnX3-LAw6mTgba0xWHQod-irS7SAUk_6xarTy99bz6vqjfFvxLsoNVoYuAbZA4bxdj3sjwedb6l9JFA9N24bQgIoJgsakJy8U-Q_0bBX1dJ_ZtpkvoCmTFJe9uciROSX2WBLtxNWaLHytaxOf9RudU4JDt4wPlatCJAq2RHiZOwVqfo37_G7trdk1izErPPal69h1_fkBp0RnQOzYQbIts6xfPVSl9c7_QoN0lqS6VTy",
+      "metadata": "FINVIA ASP II GmbH & Co. KG, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 25.03.2024 bis zum 31.12.2024 Datum: 19.02.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA Beteiligung 1 GmbH & Co. KG, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-06-29",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=_jEferCOqBw9gv0Ss6k8x0x7DxF9lfmv77EDQ6nlfbhHJq6RhOrHr08E3NR01uaAuqszcR0tDD2-NKtIG6jcf52O0evOzLqVU-O14ACckj0UYJ7t6ojlJdUicVJ7Skz7gWXCph5UsrUl6oRKi48Ci_bZ-ZoI2iFBlIySB1M1_USbtHhkOHnfmbFgpU_zcK_5-4Qs4i16MVEFpQYOX4Wy7nXW_bN9fxz8cOtqpT__4C7PwjA8",
+      "metadata": "FINVIA Beteiligung 1 GmbH & Co. KG, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 29.06.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA Beteiligung 1 GmbH & Co. KG, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-09-24",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=boaqT58eWUbGkQYDtyr3Qetliu4A9E7tj5EDOGRp-SQ1DjoZ6D3w9A8PLM8OKq0vGvMLla-eXaPuGhX521CUJiDFb8sFGbCviNVcPpLkvJlvSbBafqCKMvCVigTTF57EA7A8pm9XZJ-7p-08jEcFfaCbJDzptnnwUtzQYe5XMNyvAtSFGGltvOJcAN0_q3GRPcHm4qvvzymR1KcuSjcmzl5cSjqG1IK_QGv0IFqC9msvKP9V",
+      "metadata": "FINVIA Beteiligung 1 GmbH & Co. KG, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 24.09.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA BV XI GmbH & Co. KG, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-10-16",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=rdrdpKQp4yfNxR8GzC-R0jW4slX2lelajmB1s0W1sq-4Np-KTwOD1Bs-7WeB1M31Kw_c-HcQ3qhbs7vjl3RuVDe5HsNup-1KiSRjQqztc7NdnYuVAivnrKx9q8SerYiVGlSvhPFYhsA4Xi9733v6Z6hRxTJPIdb8mJAQmFsvi7YD4gbf963E_Wbb7j6Pk_8fmy22fj-6GV0Yt_B95wl87q6D7YHb2qlzA_mMLIF3NcoGt4NS",
+      "metadata": "FINVIA BV XI GmbH & Co. KG, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 16.10.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA BV XI GmbH & Co. KG, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-02-20",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=rwg5AUmT1S-KtlSVmoP9TKe7TTEjcNkjWps2kzihmTxWvEbfm3V9dUqNNf0iyeRAoIpHpCRLlg-dcozfvmgqgJOD4aeEM0teiRX2Mb7AZxOyN_mw0vUVp1ap0j5PWKY4pf7vhk__xXrQ1_n4ORb6YVUIrJUTLdy7YobuFM6nmC9cXRnasGP368FhbkSRHwS-jRO_ROGoXuW_CuJCVCsHHzsnj2KrDg9gGK0FdYzRFH7MBdgr",
+      "metadata": "FINVIA BV XI GmbH & Co. KG, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 20.02.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA BV XI GmbH & Co. KG, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 14.06.2022 bis zum 31.12.2022",
+      "publication_date": "2024-04-12",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=AjEKP_7aXjiV-6ErvCt80gbjNfIC0fyKCGADQCoXrEOq8jH-qCFeNfc3W_KGWWGG-JM1ZC8wMsyH__vb8zwk7GgQHMOYcg5Tuwyu1M42No93NxhtLyBcAlyDEzlXPpLs6R5klSB5UhUcWnszO6FmqKm4YoyhLQuemdaxTvweVW-S_2aT7rWqqipfI7D_0pMq7fL_42fystuREH045pela9W3qQoI7NA0BBv5wGS-Oq2PmAdA",
+      "metadata": "FINVIA BV XI GmbH & Co. KG, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 14.06.2022 bis zum 31.12.2022 Datum: 12.04.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA Capital GmbH, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-02-18",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=UoSL14_Gcvd65wKDcEi-ENzQw0qRJeUm_w7eKf6gENANcXlW1D5n0Ct3DpuycmtNRjLmyKLPE4M2sLVuzvl43imqph0wr_5rfFi44z4ZiQ0CyTUw6Oebws3CWktgsKU_B7CddOlm0oBnxE4eeOQjJ2wA6_JTbrZ6T15bpynqo2t8jiFc58XW4pk1YsWkk7Km_a-QjcPELf3lQdBwq-QvoSOIiYqczQ1_ciHwWq8dIQ0fm7-o",
+      "metadata": "FINVIA Capital GmbH, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 18.02.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA Capital GmbH, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-02-17",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=yFiN4lj7R1aE9pKvZ_RF5NYXJ2QOqsMbiO_Z50FGxeGMaZS0_hkqfSJHBrvyer9DydQDmgcqdPkMVdBJ9Azi2xZBpfAQ4AI-hj3YBvw8MkbqYLaucGy8BsVKJ4bgXOh625FvNrupUhjg7LfJB5ybWenu-kjtnINL76IjqSc37JHwtcNJnltNv9LbUPbYFKSdDHTbRO_uJA7h7ZVXIJ1PkASyLSjYGLMqR3e6BC6iJCyPFk7N",
+      "metadata": "FINVIA Capital GmbH, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 17.02.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA Capital GmbH, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-04-09",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=rvLHInWPd2HVPfRec3bkuJ3ICgsrqei4y8nSy7eGDXPjbLSI0p-L5hZrbkY0RAK0vk9cGzAD3FzN3qBg1f-oN_ZyfUiNwHmbnozBL4kQ8RnceDFl0tu5mRYp5hXd62FDHrrgMbz8tCH_CSJ4KUMqSCub64lesVgZ8sfZMixPpxUZ--v3JawUrc7-65j4Mpr34ivt7fJOjSMK5O-WmnT60tLAgxNYt-4oYdlPN0FV3-mBTZYX",
+      "metadata": "FINVIA Capital GmbH, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 09.04.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA CapVest V GmbH & Co. KG, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-10-16",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=3kTy85hvBO9dsPXLYa4pPvdBHfoYwp0iAp0DVk1FVXmisthm7PZJpWTjFpxdlZktcSfzLufBSEgulu31YI7aYH3LOzx1oD0ZzrSRitAzclBRYkJy48erzVCmzbH1e1y5j7eT7-OmEKvgeyheTlV-va6eZ9F_n4k8gdhn9KU8Y-jXT6UnQ39JyGaOcHT9_l4M2kOxNztOsi4zQvRT5KHiXJsqP1z2rJ3esDHK0fidI5dNUdsL",
+      "metadata": "FINVIA CapVest V GmbH & Co. KG, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 16.10.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA CapVest V GmbH & Co. KG, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-02-20",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=QgVwk-wYuwRXjXh6dQVZOG45DVyk22xEgVXauCICe8KsHyCNsoUVxrU2ilQB_9rn5lY68jDcdS_VJhkKHtk96rIPDwFeAESYdUuqfdn-Nfki5JD9f7O7kVWKeltWruTm7qsr9_5DkKSBX7ZNvfhDUubGf9mNO7fGGSAU6KEgAFt6cvtS_ASmq9oByqwsm7tavGieMQWYrWIhhy43E-QBJ8lJvkXLGZ9Qk1tN7HSyAjh7DBuC",
+      "metadata": "FINVIA CapVest V GmbH & Co. KG, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 20.02.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA CapVest V GmbH & Co. KG, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-04-15",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=WMUmSz8LZx6Ln18PSTg_52L0POq-jgTNMyHfudn16rTDBOeW1I9XiJ2zhersdYJjqQrAqXQNXZWhG3JJaX2nRY-2PkwP4sgCDHT2k9DTRwicsKApXzvJ1axTJNVXuuQBISjrmNtMQTA1PaHjy9Vq_lBPuGNSNc8A5cHwK1gRHGUnUy2GBpGOXRyyjYNah0hoijWZIr-l50i4Wzr6nl4Rju3EWdlCETHM6aMcFFqQZTC-_fjc",
+      "metadata": "FINVIA CapVest V GmbH & Co. KG, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 15.04.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA EPISO 6 GmbH & Co. KG, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-10-20",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=YKusLZBi71ciS9gQe_CuS02D1iGBxpfj6l-WeBZok5PzwqL-HlDJ_BdtR4jRs-xJc6-I4rwnxbEQpWOtkN36Yl4XY6meDQ5r0cznUvPeOtvWLTBODrI8_Cqffi0jeYEgI1_tt3oYixtu_-phlI0W8uszMObfMRK3lCVjgqINlvdZKixRhubjMA8PbPApNNS0dWXX823PL-STqVkKcNbguSzHmAmf-IW6z329457RFAwlYkDK",
+      "metadata": "FINVIA EPISO 6 GmbH & Co. KG, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 20.10.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA EPISO 6 GmbH & Co. KG, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-02-20",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=Ej_wB-kCtH1Gz9h7njD26au4-KZnWlcR0P-kcd7j_InAst9u0SbQ-br77xVpcs2Dfeg3Ynj4RC4T7TIkr-dNhXlLXAvxz8_3prqFMXrc8-9YkcoHIlewBVukZzQ-jhzg-YHMt32UObQBaFylyMTbjOTWNw0OumTNLAE_lBuZtIOEex8GlFvxIBCkgCfZS6TEa8BjrwIRz_gKZMUc2MefFeDXsBCK7UNv2rPg0CcPogvNIks0",
+      "metadata": "FINVIA EPISO 6 GmbH & Co. KG, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 20.02.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA FP VII GmbH & Co. KG, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-10-16",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=eiKrp0QJKt-rS2bw_zjjAW2MRalxxQ153ogFhh9NOXKJrrq-lES8cDa6EHP6P4Rr0RBSvx3SCbtlKLcSUruUzPkNaRiCNaWwAHig5ZZLekcEX6cEJLug8e9txUkIMxzXX_UdJaGgbRJRc59nWOLsXeJPUTwFLWuoVivQPPGBGE3PZcGVROir1bGcvr0linLsIbSSdvFZmifHDjqRHHb90Ca68CrFLvnPiiHFgjpaBnQNeMtA",
+      "metadata": "FINVIA FP VII GmbH & Co. KG, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 16.10.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA FP VII GmbH & Co. KG, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-02-20",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=7jLq8yLYoe0dUBBT5FU6tL83YH05gydYXRSLeJxKEVOTM7NSuZ39hIZhPAjHo-vvnyTVW9SqEblpC4vApQSQVBkVfU_30v0gDDd_QqmMsoV4rg8xR4EF-78o6VQEiWcpulwQln3bomzS6U68i97rSgkhEuDSYonxEfTnEj5hEk1e0fOkSQgnJliQGdOLdOB3acxX6vfjqW-dq6q21B0IjNk3TQMjh1L51Zx15IzHuynkVnsU",
+      "metadata": "FINVIA FP VII GmbH & Co. KG, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 20.02.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA FP VII GmbH & Co. KG, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-04-22",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=L98I2RtLvnaMFbEr0jkgfVZLQUsEmqvzz-kXE2x96JE4o41olVrD4eBhNvAMW8fLQILYr9QVFWdwDU1LS978eddaKreBK-vZKPc_G7HgQpuTx2tGggZgm2TwWkP6U8umW4uRCia-JX7itGKW_Q9kDsmUv8udh6PNq_npxW790DjCQTiN1UpZFcWUGZ2Rr29KtrahtFOJa50LMic30DHhJ56MdStRlgUSz9ZDPVAvimcCH7MB",
+      "metadata": "FINVIA FP VII GmbH & Co. KG, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 22.04.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA Genstar X GmbH & Co. KG, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-10-16",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=yfonDhnmQIhc82wfb-NeX9yMQUb5zzz5rYbN0WQOS_37950y9o89vj4ZtDi1cheiun_NkBJlsea4s6e_ZBaB7XW0F9waY-Bau2Ey8evuEmnak2uOYgmz6xcZrxFPE9pfp8mLUl_1IoPfPfP1kcMNhk59FcC0gKZs0y1Re3nWdbKF29jgOJnm_ww05kcyeHFaxmo5Zt7HAheTVa6gM-EucM6l03ZqWjzNlbl7y3pB-49Rr-03",
+      "metadata": "FINVIA Genstar X GmbH & Co. KG, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 16.10.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA Genstar X GmbH & Co. KG, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-02-19",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=8cArgUjD5JGdVKQBlTwOkR0P0yScaZrW4zFatKLg6__-qU5LDJ_C6LQ78ddK7YG0vxm-VFj6Jd7Co5u6HBOuNiuGTCPwslGu5CPmN97efIhDidqpeASFow6IDlyXCcMmDUILTc8gzT4DG3KLk842O9kt_gFH7R1l3r4pPe6jKM1ZqkzlfkvwVKN1O8DHBO-_ewKN4msgPAar2ErQr07vZYG3S0fLiph0ViqZbrbv86ULNg0_",
+      "metadata": "FINVIA Genstar X GmbH & Co. KG, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 19.02.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA 1. Beteiligungs GmbH, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-02-18",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=gXZPazNGu-OYS7XM6dWUAmrG6oKe4qOPHoUefaxq9IeM7AF6TiYEseNOIML08uUdIBgK7dz33Gm7O_y19uVHC4iv1SZIVzI2Lxl2c3742yoklOpz2J6HAs3qqMwobmJ-QK7vg5uCqSHzK9bO4d5nJq6UZYQ6mSuI_iOQsk0yV9XvqqMxp0yfBp2cXq60T1C7lRbeCbbesq4t5BWL4T4BcKxRO2DaFxhtrAhqHeP-WNI-bvcS",
+      "metadata": "FINVIA 1. Beteiligungs GmbH, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 18.02.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA 1. Beteiligungs GmbH, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 08.12.2023 bis zum 31.12.2023",
+      "publication_date": "2025-05-23",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=lAWdx-JBq77jb7GEcxEHJ6PpbwoI31jOnB4brt00lie5v4PU2pYgSAEwDkoOcP9BsZuj5hLHGZ7S91h-nEBTtcSBrNQGd6Xk7AOCEakwwIdQr3KzgPpmtzyt3esXsgUWCEaVWJBYHqAvkSMwnwhZGzWspkaQ4P4rbqLN28U4w06SM1rh5RiebYYAg0dwWEQo0ew2HKL6y3LeQogpSX6AnPDDusdlVdJgE0D_cEy_8kTaW_Ha",
+      "metadata": "FINVIA 1. Beteiligungs GmbH, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 08.12.2023 bis zum 31.12.2023 Datum: 23.05.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA Alternative Investments GmbH, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-01-20",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=bzhDLi3gYIojVzPEWACaZ7m6J-ce_qNsgv-L-s1lJSOXyOTMM9Y1yfO9TtPEF_4BmsTJqg_JyIlkxJReIxAw0Epvb1HxJZnyxw2i2v2FVr7thC3e7J8vcQ7WsYcVNRFEyhCIMe5ASOf7M-cxevftOEuovvlQbbu8dh6V_V9ORY27-VV8kfa_xyjGEGqAS24ryFWfjIJYDrOdhTdOQFW2T1lcD2YceyhTpCtFOTAfVwjPmbjs",
+      "metadata": "FINVIA Alternative Investments GmbH, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 20.01.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA Alternative Investments GmbH, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-02-20",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=__ZIgrDTnIJkEuLF2nBGbH23-xMRytHufvidVKrmWa5f94r8junSMNRa-7d0YZ-L_OZE03JZxnX62nO8ZHjTkXBNNPvbvGmW8fMKsoCU41zHTopFPVoalktZM2EUCrI8WxGTFlPGmwdQTgAMikrQwItTwNjDF5OYEN1-L_7mccDR2lMkTu1dzZjlsEJ_N7p5uiM-McLG2_VVq5GBZLU78GXvHqO4kW7AsQzrm0ymjH8iT3EV",
+      "metadata": "FINVIA Alternative Investments GmbH, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 20.02.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA Alternative Investments GmbH, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-02-26",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=gc9BJcRjtNKRkqz7kUiIryYKIyLyLLrch5vkNAEttZYLRAlmJDxeCwTOAm9YnfiVbzuhXnNGD_msyyzf4T4d7fL6CT_kTVrcNWdujmuKWAySmoYyKjUTtGUODDtuzBXLzzcSfo2asPKlzcZqTZuri0cSh6RRjEgkhpReJGwnWpM6ftpuzDC_c9q-SLebYTuJKHZ6M84Gu2fQcc040V5QnDWYV16XCnVuvatP2aTLTv3eQuFT",
+      "metadata": "FINVIA Alternative Investments GmbH, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 26.02.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA Asia 2020 GmbH & Co. KG, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-10-16",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=ldGpwis7DFeVeY3jCskc6vwLvlP1rsuzfkRSeHpWyD4qBrzxI_fQ-p3IfZVw0UXNeIUF1ewJvonwhJEOkF9CjxRK965NTj8GdyskMJesN9QHMpQQk1BaRERHDUH4sY7OWBzcVgHXA8GliRXUXGUKlQqZPCX6Pwcn6piLKXQv8zCTuMR8MxrHrmGK-i2PCNRESXA7UukVCD9sBhWRnc7g7BhYc2J3UdsPW662lkFNmR9H_7oN",
+      "metadata": "FINVIA Asia 2020 GmbH & Co. KG, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 16.10.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA Asia 2020 GmbH & Co. KG, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-02-19",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=dK1M6PppeX8Bp_PSG3tCp2-S9LQ0Tnn2ifd0dPKPIGtm1FjqG0TxsCM0Ay3o2d1iETD5Ps3jj7qmuI4eidZMmhqYSycACVCyxwbvZO-sxEOqoAyyiv9H3BpzxdpJvi-gjado0B63fvXWV4UplYZigu18mgk1vGi3CgKu3JvO_yZHsg37-_D-EDTjHEPPklm6Q1oi3H-BhiNoyFvWF4bMSvDmdt_Yzv4OXwNKl7OEUrt6euIf",
+      "metadata": "FINVIA Asia 2020 GmbH & Co. KG, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 19.02.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA ASP II GmbH & Co. KG, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-10-16",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=DyNf7iIs2xqBpwlnu0XY_ya_IWx9WD6Tn0z0VXN_LFLOE8Pzqt2gsLUJlbCyjkI0462RInfGOmrEc4OSk5W0n2MVYXZt0JiLQlB_LEfL3mKAjkrCEHu5ehgQq6bHlNFq9Kj7Dacv6txWLyjOAuKKotCFrJCvxuXxf5GcZpL9lLerzEHpr-GB-oT6swweSHp5Ndj7fKw0-LcHEkVuswiSM0sLLgE8czX8kcy_Oi3lQFSMa3ZP",
+      "metadata": "FINVIA ASP II GmbH & Co. KG, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 16.10.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA ASP II GmbH & Co. KG, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 25.03.2024 bis zum 31.12.2024",
+      "publication_date": "2026-02-19",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=pknpaNYo4QLafhrsE1ORwlSgfxUBGzB0fdvvC_eGd4tBp8o7qJxQSfDaZqCTf_eDskAu_pCKequqDXVPosWuKmfHwuji3n8FX8Oh3N_OgrvDMmcNp1FR2Jn1_C5TfsbA-Y0_E1Kkr-pPnxegm9OPEYmchRHFHO6AUMlAbRplWkhsEgZTT3kOHoSUAX4T3bzrYqteRs5a76IzFl2dHUx0B04gdsiu8rkCOEgnT5XDcfVqfsU3",
+      "metadata": "FINVIA ASP II GmbH & Co. KG, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 25.03.2024 bis zum 31.12.2024 Datum: 19.02.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA Beteiligung 1 GmbH & Co. KG, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-06-29",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=NyB_lUuiJ8nlVdhTwUaALwQIAZRxW7czqfiXqwtU3CxjMF45yO8M1gsw8ZLgpWrvJ2IlhlURoZTfsFTTjWiEgJ-jL95GCVT_cIS_HoBfZ9MpLHVkVag4IL9yCC8jk8oOWNaSUxGfZAUUHcDRA0uTSzZ7Iu8MS4Z5L3QLhJ3QazB6bYTdtg0SrWlvWct7__x8To7SByh2u87wnJ1hHhqj1Dep-uanVnAhqD_dtVKoW9WaM83T",
+      "metadata": "FINVIA Beteiligung 1 GmbH & Co. KG, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 29.06.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA Beteiligung 1 GmbH & Co. KG, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-09-24",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=ENKa2LrPwLUix52CPx1oLeg259Y4z-crclDw8YSUYabvVFfnaZb5d3XlJzCMobu4H7_ZPJmq8Zstw5RNNCvVFQ5GzVBYpLrqnAv7GOpga3zBj5on4ZpeKfHCpUvFpsO-CstTrBccwpWWCtl1ajFDZgJqckF0Fc6gt_skkofxHPRsGP3rSsvULoyGKFbSK03Wnc8Dt-JdUBcd1dcLgWIorVWm2-m4BHXLL_c9w2lNbxfdNGUd",
+      "metadata": "FINVIA Beteiligung 1 GmbH & Co. KG, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 24.09.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA BV XI GmbH & Co. KG, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-10-16",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=yq8YLZzz_fGfQiYw2a3diAwl_uhpVNimryiSi-coyyrK8sVuozAtVLIVGnBnC_puD9BCWrBNX-JwYNX0uDRPqYb4pIC0vssOkpGD0aLG4jOasNC8s0WQTrk84_A09ddNUXCj-3MoQKn0B2ohNDdSoklKeviMscxcNHNJrVZzoc9fKhtWpchc43SV1bksN-bT3NHQhXzKk54VMR0aUbBfdej7B7NdB4PzdzwWZOfu2KFMhJi-",
+      "metadata": "FINVIA BV XI GmbH & Co. KG, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 16.10.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA BV XI GmbH & Co. KG, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-02-20",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=6jklich4d14eueM5768Ott1O5PcQcRQb3pLEPBYW8UuWzaHNHt0Du31Ebc-JloR-he5ydOZnydnjvnTs7ovD_Z6T9uVxB43NHyaAecB-i97xnmVv-3cO4LFODpHB011wCk2gBdWEG5w25mEEvuDxYd2yAaKPUrVU_EFc53IOUKMBxabiDxQn57-zex4SAh53Cinnr83neE-g2deGG7THtLxF4dNXlE5CsF83EqZIdezOs_Ao",
+      "metadata": "FINVIA BV XI GmbH & Co. KG, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 20.02.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA BV XI GmbH & Co. KG, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 14.06.2022 bis zum 31.12.2022",
+      "publication_date": "2024-04-12",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=FTKPu-vhr1K6NsFkDkSBiuzwVecU7q7FKKr9aICKMFwqd1FjOPyl4uG7NWxlfPR3cqxg87AFwIISBDr7btE0Ytbrs7Yaj-h2Aj9bU2FxCE_CWCiMuHm5BRvvIWEs3cym_KWMIdSmBoDLsvDYGA7dpp1jXZb5fGtBjYROOcNL88Iwn_ct9Q2_fjW4rMxv083rY7N7pF5Wj10Gjiu7I7sRXr4GTPWNh7tw1rOTKFmAKlCO7cqr",
+      "metadata": "FINVIA BV XI GmbH & Co. KG, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 14.06.2022 bis zum 31.12.2022 Datum: 12.04.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA Capital GmbH, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-02-18",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=nNQh8aOp2IPn8uChhbV9WE92a7psbTdEzuMKly5iQDuaN4kAxLE1UaG5XRrUi5aXX4Z-hw08limvQOkvOYNTb78R-ADcrU9SuHWHlrYB6l2iJ8SAE2pZ6HeFJ5UNIiMCuwtIAIxTH0iStPaJiTfSlxMbGByYxUiullaCIL9CclaX_kplHRl-Le6qcyRVmwSYKhvOl5UDQQLxizkfzLxZHTRLgI522P_qx2WOcEbN8DdFmp7j",
+      "metadata": "FINVIA Capital GmbH, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 18.02.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA Capital GmbH, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-02-17",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=YkwBXMaPaijz3_0g5AGm9epWO6Lf6mgdW42bd2gFK_ghwc8NLRTWN-QKfzslgbQki1r2U-0vfK-s9t_wXTmZi9nExFJIU1U7wkkk4NHIexgOtFjnAHpl1mHtMBxrhaBJGYeitXWwC5XrU9GyYVPDgIy2oy3NYys2qrMND2n1jLISiS7ySqRulwpVZsc_SDyjyb9w3dEL01tYR2j5go-Lb85M88St34nAJxXUhEPlEIJfpeMz",
+      "metadata": "FINVIA Capital GmbH, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 17.02.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA Capital GmbH, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-04-09",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=dMcZv3aig9mAJsOJeAfRyR_OTRpEy1mWs8LSlx6wiKXtCty3E8qcvbL8wUKco-rQcgFFC0QazfGaQ_VyfTGrMA-l2L5Txb1NuKmz-KRVujr8tKaJNXeIK_Q3-da_3RHAvcgTJ7kJhLw4wIgA5m2IC_Ev8v1aNo_wUZ9GjRiV4vN2MT881HmdOqXx63gKG7PyovuclYAcw7pH9t7CMJ3ebNqLgZFjGK0krGwlCHgAJd6I68b_",
+      "metadata": "FINVIA Capital GmbH, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 09.04.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA CapVest V GmbH & Co. KG, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-10-16",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=CdEVcLdARKzjk8KWF3-TVxlnJOBwnMLRFsYgm4sLyqiYF88OHCWtYIAPuXgdgSq230TOo41m50jy1wWDAsB1sJrW3LBNKbLrEfH4W7TQsyAAcdA6nDzbnvO341GsgiiOMgqVcrleoP8Nt_DNSjITs3ZwjetsdYdbezJPYo1suNFhkeVSVVdPbpoHRCPaabk6RfmHFRl3LG4pVBCRrH4WfxEI1igoUPJo2yNRzDFxEn5grBOM",
+      "metadata": "FINVIA CapVest V GmbH & Co. KG, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 16.10.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA CapVest V GmbH & Co. KG, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-02-20",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=6sZb58mq48fkmsecsW0WXbVJl4IguvHYBYFcmfPaa3d1XiiXaO_IycplLw66LJymuVpU_TK-xTbyoA4dGBibAW2eSlRIk2evpTyCY449w3ZGP3nxzA-8GBSq2XTIKdzR2KP5FLBGH-axnNspykFcLFAU2u0MwlUjZ6fngWuNhU5ur4mb2WGPmfWflzh8qt64gpokMzTB_DPICL1v--M6Mxei_PS7Kw89qt91E84VqiXmV6JR",
+      "metadata": "FINVIA CapVest V GmbH & Co. KG, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 20.02.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA CapVest V GmbH & Co. KG, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-04-15",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=a93EAR932bC9zozbtflZJzYj9Z1tetntaCgRkn5kkqUjDesxg5LtqCkK2ahPSOafevwUI0If7nASGMrPPV51GRjGul365UAfXIrJRfZFJdPfjshWMyLqvxCdn7cxCo6J2IjT3euzpY-NNpX5m-M1GfJUbk0OPVrOfsOEAPwBY3mHE0i6YeNdLiJbLb-0-cqeAKw-unPPx0jswVll_BW7lTCmFiTlPxf9rOhsogz0wob8wNus",
+      "metadata": "FINVIA CapVest V GmbH & Co. KG, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 15.04.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA EPISO 6 GmbH & Co. KG, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-10-20",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=5qZdkn4TxVZPbnteLOhUUhrmrJBip0V_bWWy2AHcl4ZPSOfG7k4hjVo5uo9PvJwZalYM4xBELIoNbVvkvWaE1SmqcW-S_GXf0cvgeIrraoWCihWWHSu7EBg4qbek1QgMY89GGHt_fsgxXAFCr4mtU_naxtp9oDuJ86gd_fauGUd3A-Iba64oTqCjuKafp0GTRrUIbCiWcs9Qq3AFIFOq1ysNNKkle2SCtwDC9G4WWsoN5XeW",
+      "metadata": "FINVIA EPISO 6 GmbH & Co. KG, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 20.10.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA EPISO 6 GmbH & Co. KG, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-02-20",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=U4dJ1oghzt8XuVcsSk4G3kBWaQ6beXjQgAaLmgl36KLQpvebSOPVLaLjOBrNA33wXDH1DBez6HemXEEhh99gqleTZzP_CrDMFdAnho7opDcxTVzBHuXxZ77T0DswFPX6GUfEaz4JGRiB8O8Ji7ey0ZkuO6QSexhdNKU460-ZuVtG_wczaBlDM9erwdj_wrfCjDShnyCls7ODOlR2JzyHMNxMAHdRcGHxfoZiBX3Rok2gBFPV",
+      "metadata": "FINVIA EPISO 6 GmbH & Co. KG, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 20.02.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA FP VII GmbH & Co. KG, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-10-16",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=ty3_OTfjGM2Y7c-clEAsZA5T9JfROITDdt9f5mjHDrLe38HtBHO0FAxvw9UrYZUIj3NY9e60kRD2HD5h7Iw1IXFPW5XgvjdjlfEixvsS-97OfBTzeSYPgEYJNOovsmraj-sVEHTAN3Q8vgmK-Ukr26yj_PruQBgUQSA6Lj4SDbRZAzIWJVdxlAOWq2Ga1AwHU7a4pXQyD2JE_EkJhG5a7iFjhNtRWfZNQwedJC9CAo2Z3zLN",
+      "metadata": "FINVIA FP VII GmbH & Co. KG, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 16.10.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA FP VII GmbH & Co. KG, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-02-20",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=dct0qPMId2QobnpNTgY3FkeC_9x7b8iPTsdKUZsPF3MJgz5_GhagYpbvFeCm8YKtQvUGYGF6ZDIUoLbuegUG7ScJ8qdn0SWB12llHu28sefz2Bp8KDq8_Bwl_8pbLqm1TTOw6wi6EzT6aFff33yLcVXgU9nNLVY_qEQOh3GslyY7i62dNzDeUULwyCmSzsS1HvkVnfhcJjERnYPQpFhGixGByfo2emk5ncKVLWOn3ZAey0wC",
+      "metadata": "FINVIA FP VII GmbH & Co. KG, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 20.02.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA FP VII GmbH & Co. KG, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-04-22",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=L8HgDbdy8fjC86TwxyIXsK40UEkRsFGN3AKEhdarP9OVXe5zENiDJA2rJA10QgecPa310JbiRebxtpNytpzO5jMuDizaqe8189xBKanqKYMcqQW5BLAAo8BPfim5Yzj2WClZ4b26Kc_SEPzgkkvu4sJFLr_2ST2Q3AAAkSL8H8YHqjPWt55JIzX2Jfvs6vFkOzTUBi-xhe1-eN58DiAIqeZROV6i_UCeBTXN8PA51coR4tj4",
+      "metadata": "FINVIA FP VII GmbH & Co. KG, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 22.04.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA Genstar X GmbH & Co. KG, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-10-16",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=mSnsN9HYM0UaDT6Wdbu-wagq_GE1rYaj8LmjtVGW38AY6XuKknZ2jY7bh7DkRIWxI7610XIS7UumDufbujf67EsWJiR5d98bcBH5wjINRsF-WvyP5oibx6T5Z1aV6Cg3ux2C7jSWbcAEBQwN9vrIY4UbCHTrSiNgmK9jbJD4o3WgGM1aNBZm_YwJTn-o32Wl2HwSPrVaMF-95IK-D_IEKQ9n8Ju9IkEWgGWyc6MUeklBO8lR",
+      "metadata": "FINVIA Genstar X GmbH & Co. KG, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 16.10.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "FINVIA Genstar X GmbH & Co. KG, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-02-19",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=Yn8Zy7VZL8--zqDBkUOxsQnboj0sZ-rczTcvoytQoKDCeqNwqOpgHqCjkLsLrlfqTN4a1a0o4SlCNrs7zkt5qeCi4Hf8YvvwOKQRM9GD8J1yu8Up1Arrfrymrz-agRYqntE4H5qCMR7DHpwCK7ybzENAzxZW0Q106b4ZQ5SRnfl8HXP2PzTV8Pgzg9lxAnG0QthB4YBOMN-1gaC7Z_iOq_9mVY7B8gs2qmLBRevZG6dmVHtp",
+      "metadata": "FINVIA Genstar X GmbH & Co. KG, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 19.02.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    }
+  ],
+  "date_from": "2024-01-01",
+  "date_to": "2026-11-25",
+  "excluded_dates": [],
+  "max_publications": 30,
+  "truncated": true,
+  "coverage": {
+    "search_complete": false,
+    "more_pages": true,
+    "publication_limit_reached": false,
+    "downloads_selected": 3,
+    "downloads_succeeded": 3,
+    "download_limit_reached": false,
+    "downloads_complete": true,
+    "text_complete": true
+  },
+  "publications": [
+    {
+      "company": "FINVIA Family Office GmbH, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-02-13",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=VQVw6BZ5MGLM8-rattvIcbu0xN3s2VxuJGxpPCszb3zmbWxkp-Kpycs44vy1Gxn7nFEBsTCCJ-fZvpQG39m2hwPxkAQoFNmgzlECInnsENqQ7zqLLANim-hr67hkVCb797jTzuPOLo4d-8IX-nhTwfusgLThgpOD7ARs5WKwMBMtIe-QZx3xweo3eTvDtqYTK1OGiFAWhZAQKpVMdH7z0pNRVSKvMJXcwCmudjMq_MC31Uf3",
+      "metadata": "FINVIA Family Office GmbH, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 13.02.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 1
+    },
+    {
+      "company": "FINVIA Family Office GmbH, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-04-14",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=-qz0fK4i0R_s6tEgUS3zA4Jhpl-jeKNGMh8kU-EoeuOgPkKqn3W8X5EfahUlvia29GU4tYjxPjNjuUctQ2Xt4gscDr4fQL_prwoMuEpGa_rKVkKvqpETWeLPfh6M5rVkHCZobixq2t8lKBC9RPCweiOFhqjS2C4v0TRBeFjqDQmUYqS6uJAj72GqqrX1RA3McXP3VZLelZ4r5soPmzYCxM7viage653J-YsmvpKQ1cfOXibV",
+      "metadata": "FINVIA Family Office GmbH, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 14.04.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 2
+    },
+    {
+      "company": "FINVIA Family Office GmbH, Frankfurt am Main",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-03-14",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=QDJq3ZnDBokZhWsPBaJg8jFA0qCCKJHKM2mUaO8oBHxHbXYK2HwX-zego9f6YRUFBD9PrhzOLoNhKw0iPuWTGBa0ODVRii0zzldkIe4DSKu1bozuJAt7yjbm1NIuaS0RqI5cqFHnUEBITtG3Jea4Vem8PHERMyvp4gcfq9YqnSHDjCiT8HyhPfkU2EHJBkBXxNzJpjN3K19MA_VJnQqGxwsKVSDzKuH04HUQHlYuPS4J44Jv",
+      "metadata": "FINVIA Family Office GmbH, Frankfurt am Main Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 14.03.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 3
+    }
+  ]
+}

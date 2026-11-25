@@ -1,0 +1,9 @@
+{
+  "url": "https://www.hcob-bank.com/robots.txt",
+  "final_url": "https://www.hcob-bank.com/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/plain",
+  "fetched_at": "2026-11-25T16:11:25.000370+00:00",
+  "text": "User-Agent: *\nDisallow: /wp/wp-admin/\nAllow: /wp/wp-admin/admin-ajax.php\n\nUser-agent: *\nDisallow:\nSitemap: https://hcob-bank.com/sitemap_index.xml\n\nUser-Agent: ChatGPT-User\nDisallow: /\n"
+}

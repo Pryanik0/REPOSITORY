@@ -1,0 +1,20 @@
+[
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=gKGUBRBQPkkirU__OBr8PzMa-KoYWfkj4tGbWYtbrLycUlqhxM9-C9VGIbXmTBGn4YkwY0iLUJleAK2tvHdH_kSWZkX0Q0KGf4JvrMluZCyb7g_tllJgeEkbs1iBpMgrb4GmBTl_HHzqrThFueJKHFJBjgK71sVisJdqqMf2Gkj7WrXWlMGv4Ja7Y0MfJIIk-BnAB37Rt1nFJPlxVIVtug4fjySsbr-c6cDzrFjEBWZu42pV",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Novaled-cfec40d3\\bekanntmachungen\\publication-3\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Novaled-cfec40d3\\bekanntmachungen\\publication-3\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Novaled-cfec40d3\\bekanntmachungen\\publication-3\\publication.txt",
+    "index": 3,
+    "category": "bekanntmachungen",
+    "company": "Novaled GmbH, Dresden",
+    "title": "Sonstige Registerbekanntmachung",
+    "documents_path": "output\\unternehmensregister\\Novaled-cfec40d3\\bekanntmachungen\\publication-3\\documents.json"
+  }
+]

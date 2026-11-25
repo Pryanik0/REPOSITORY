@@ -1,0 +1,79 @@
+{
+  "provider": "karriere",
+  "company": {
+    "key": "Schoellershammer",
+    "name": "Schoellershammer",
+    "location": "Düren",
+    "name_source": "company_name",
+    "urls": [
+      "https://www.schoellershammer.de"
+    ],
+    "kununu_url": null,
+    "branches": [
+      "Papier- und Druckgewerbe"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "52355",
+    "street": "Kreuzauer Strasse 18",
+    "region": "Nordrhein-Westfalen",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:34:15.409261+00:00",
+  "status": "partial",
+  "jobs": [],
+  "pages": [
+    {
+      "url": "https://www.schoellershammer.de/",
+      "final_url": "https://www.schoellershammer.de/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://www.schoellershammer.de/arbeitgeber/",
+      "final_url": "https://www.schoellershammer.de/arbeitgeber/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    }
+  ],
+  "errors": [
+    {
+      "url": "https://www.schoellershammer.de/arbeitgeber/",
+      "reason": "no_extractable_job_data",
+      "error": "Keine auslesbaren Stellen oder belegte Leermeldung; manuelle Prüfung erforderlich."
+    }
+  ],
+  "excluded": [],
+  "sources": [
+    {
+      "url": "https://www.schoellershammer.de/",
+      "linked_from": null,
+      "mechanism": "configured"
+    }
+  ],
+  "adapter_attempts": [],
+  "coverage": {
+    "scope": "configured_sites_and_linked_career_portals",
+    "complete": false,
+    "pending_pages": 0,
+    "page_limit_reached": false,
+    "job_limit_reached": false,
+    "request_limit_reached": false,
+    "pages_attempted": 2,
+    "pages_read": 2,
+    "dynamic_or_unparsed_pages": true,
+    "http": {
+      "requests_attempted": 3,
+      "allocated_requests": 1331,
+      "cache_hits": 0
+    }
+  },
+  "pending_urls": [],
+  "jobs_before_keyword_filter": 0,
+  "reason": "search_incomplete"
+}

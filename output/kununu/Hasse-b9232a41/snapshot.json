@@ -1,0 +1,561 @@
+{
+  "provider": "kununu",
+  "backend": "browser",
+  "status": "ok",
+  "query": "Hasse",
+  "profile": {
+    "url": "https://www.kununu.com/de/c-hasse-sohn1",
+    "name": "C. Hasse & Sohn",
+    "overall_score": 3.8,
+    "review_count": 37,
+    "recommendation_percent": 92,
+    "recommendation_period": "last_2_years",
+    "observed_at": "2026-11-25T17:17:54.929128+00:00"
+  },
+  "reviews": [
+    {
+      "id": "9999c000-8806-452f-b0aa-e1cad58ed79e",
+      "url": "https://www.kununu.com/de/c-hasse-sohn1/bewertung/9999c000-8806-452f-b0aa-e1cad58ed79e",
+      "title": "Bin zufrieden - guter Arbeitsplatz.",
+      "content": "Spaß an der Arbeit, flexible Arbeitszeiten, Gleitzeit, Anzahl der Urlaubstage, rücksichtsvolles Miteinander, freundlichen Umgangston.\n\nManchmal laut. (Fabrik, Versand, Straße).\n\nLeisere Gabelstapler.\n\nIm großen und ganzen gut. Ich bin zufrieden. Pessimisten gibt es überall.\n\nJe nach Arbeitsbereich ist einiges möglich. Homeoffice teils möglich. Auf Urlaubswünsche und ähnliches wird meist Rücksicht genommen.\n\nEs gibt genug Aufstiegschancen. Auch Azubis können später was großes werden. Weiterbildungen werden gefördert. Eigeninitiative ist gefragt.\n\nDa es sich um einen Industriezweig handelt, gut. Es gibt zusätzliche Benefits.\n\nIm großen und ganzen gut.\n\nWer bis zum Schluss sein bestes gibt, der wird auch bis zum Schluss gewürdigt.\n\nStets sachlich und freundlich.\n\nIm Büro ist fast alles vorhanden, was man zum Arbeiten braucht. In der Produktion wird stetig an Verbesserungen gearbeitet und Optimierungen nach und nach eingeführt.\n\nInformationen werden verkündet, wenn alles vorher geklärt ist.\n\nHier ist das Können und nicht das Geschlecht entscheidend.\n\nEs gibt immer Herausforderungen und die Arbeit wird nicht langweilig.",
+      "rating": 4.4,
+      "sections": {
+        "positive": "Spaß an der Arbeit, flexible Arbeitszeiten, Gleitzeit, Anzahl der Urlaubstage, rücksichtsvolles Miteinander, freundlichen Umgangston.",
+        "negative": "Manchmal laut. (Fabrik, Versand, Straße).",
+        "suggestion": "Leisere Gabelstapler."
+      },
+      "factor_comments": {
+        "atmosphere": "Im großen und ganzen gut. Ich bin zufrieden. Pessimisten gibt es überall.",
+        "workLife": "Je nach Arbeitsbereich ist einiges möglich. Homeoffice teils möglich. Auf Urlaubswünsche und ähnliches wird meist Rücksicht genommen.",
+        "career": "Es gibt genug Aufstiegschancen. Auch Azubis können später was großes werden. Weiterbildungen werden gefördert. Eigeninitiative ist gefragt.",
+        "salary": "Da es sich um einen Industriezweig handelt, gut. Es gibt zusätzliche Benefits.",
+        "teamwork": "Im großen und ganzen gut.",
+        "oldColleagues": "Wer bis zum Schluss sein bestes gibt, der wird auch bis zum Schluss gewürdigt.",
+        "leadership": "Stets sachlich und freundlich.",
+        "workConditions": "Im Büro ist fast alles vorhanden, was man zum Arbeiten braucht. In der Produktion wird stetig an Verbesserungen gearbeitet und Optimierungen nach und nach eingeführt.",
+        "communication": "Informationen werden verkündet, wenn alles vorher geklärt ist.",
+        "equality": "Hier ist das Können und nicht das Geschlecht entscheidend.",
+        "tasks": "Es gibt immer Herausforderungen und die Arbeit wird nicht langweilig."
+      },
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 5.0,
+        "communication": 4.0,
+        "workConditions": 4.0,
+        "leadership": 5.0,
+        "teamwork": 4.0,
+        "oldColleagues": 5.0,
+        "equality": 4.0,
+        "career": 5.0,
+        "salary": 4.0,
+        "image": 4.0,
+        "environment": 4.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-11-05T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "3babd09e-32c8-4dd8-9e53-8ae25b4e4816",
+      "url": "https://www.kununu.com/de/c-hasse-sohn1/bewertung/3babd09e-32c8-4dd8-9e53-8ae25b4e4816",
+      "title": "Kommunikation? Wertschätzung? Fehlanzeige.",
+      "content": "Gehalt, Gleitzeit (jedoch mit Kernarbeitszeiten).\n\nMiteinander, Vorgesetztenverhalten, Kommunikation, Bevorzugung einzelner Mitarbeiter.\n\nMehr Kommunikation, alle Mitarbeiter gleich behandeln, offen für Anmerkungen der Mitarbeiter sein. Weniger gegeneinander hetzen, auch seitens der Führungsebene.\n\nIch finde die Kommunikation extrem schlecht. Manches wird sporadisch kommuniziert, vieles erfährt man durch Flurfunk.\nMeiner meinung nach sind alle Führungskräfte nicht genügend geschult. Viele Führungskräfte lästern und missbrauchen das Vertrauen der Mitarbeiter.\nFehler werden nicht angesprochen, stattdessen wird versucht, den Mitarbeiter rauszuekeln.\nDie Mitarbeiter, die in der Firma gelernt haben und schon lange dort arbeiten, werden bevorzugt.\nSeit über 3 Jahren soll an der Kultur gearbeitet werden, bisher hat sich meiner Meinung nach jedoch nur alles verschlechtert.\n\nTechnik ist ok. Wenn etwas benötigt wird, wird es meistens angeschafft.\nIm Büro teilweise höhenverstellbare Tische.\nHomeoffice darf nicht jeder machen.\n\nGehalt für die Branche gut.",
+      "rating": 2.5,
+      "sections": {
+        "positive": "Gehalt, Gleitzeit (jedoch mit Kernarbeitszeiten).",
+        "negative": "Miteinander, Vorgesetztenverhalten, Kommunikation, Bevorzugung einzelner Mitarbeiter.",
+        "suggestion": "Mehr Kommunikation, alle Mitarbeiter gleich behandeln, offen für Anmerkungen der Mitarbeiter sein. Weniger gegeneinander hetzen, auch seitens der Führungsebene."
+      },
+      "factor_comments": {
+        "atmosphere": "Ich finde die Kommunikation extrem schlecht. Manches wird sporadisch kommuniziert, vieles erfährt man durch Flurfunk.\nMeiner meinung nach sind alle Führungskräfte nicht genügend geschult. Viele Führungskräfte lästern und missbrauchen das Vertrauen der Mitarbeiter.\nFehler werden nicht angesprochen, stattdessen wird versucht, den Mitarbeiter rauszuekeln.\nDie Mitarbeiter, die in der Firma gelernt haben und schon lange dort arbeiten, werden bevorzugt.\nSeit über 3 Jahren soll an der Kultur gearbeitet werden, bisher hat sich meiner Meinung nach jedoch nur alles verschlechtert.",
+        "workConditions": "Technik ist ok. Wenn etwas benötigt wird, wird es meistens angeschafft.\nIm Büro teilweise höhenverstellbare Tische.\nHomeoffice darf nicht jeder machen.",
+        "salary": "Gehalt für die Branche gut."
+      },
+      "factor_scores": {
+        "atmosphere": 1.0,
+        "workLife": 4.0,
+        "communication": 1.0,
+        "workConditions": 3.0,
+        "leadership": 1.0,
+        "teamwork": 1.0,
+        "oldColleagues": null,
+        "equality": null,
+        "career": 3.0,
+        "salary": 4.0,
+        "image": 2.0,
+        "environment": 3.0,
+        "tasks": 4.0
+      },
+      "published_at": "2026-09-28T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "984ab382-5ccd-4c06-ba77-0ba418ba99af",
+      "url": "https://www.kununu.com/de/c-hasse-sohn1/bewertung/984ab382-5ccd-4c06-ba77-0ba418ba99af",
+      "title": "Bewertung Hasse und Sohn",
+      "content": "Klimaanlage im Büro",
+      "rating": 3.5,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": "Klimaanlage im Büro"
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 4.0,
+        "communication": 3.0,
+        "workConditions": 3.0,
+        "leadership": 3.0,
+        "teamwork": 4.0,
+        "oldColleagues": 4.0,
+        "equality": 4.0,
+        "career": 3.0,
+        "salary": 3.0,
+        "image": 4.0,
+        "environment": 3.0,
+        "tasks": 4.0
+      },
+      "published_at": "2026-08-14T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "a8272d5d-5c28-4174-bc46-7b52e19df948",
+      "url": "https://www.kununu.com/de/c-hasse-sohn1/bewertung/a8272d5d-5c28-4174-bc46-7b52e19df948",
+      "title": "Gutes Unternehmen",
+      "content": ".\n\n.\n\n.\n\nManchmal störend\n\n.\n\n.\n\n.\n\n.\n\n.\n\n.\n\n.\n\n.\n\n.\n\n.\n\n.\n\n.",
+      "rating": 2.9,
+      "sections": {
+        "positive": ".",
+        "negative": ".",
+        "suggestion": "."
+      },
+      "factor_comments": {
+        "atmosphere": "Manchmal störend",
+        "image": ".",
+        "workLife": ".",
+        "career": ".",
+        "salary": ".",
+        "environment": ".",
+        "teamwork": ".",
+        "oldColleagues": ".",
+        "leadership": ".",
+        "workConditions": ".",
+        "communication": ".",
+        "equality": ".",
+        "tasks": "."
+      },
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 4.0,
+        "communication": 2.0,
+        "workConditions": 3.0,
+        "leadership": 2.0,
+        "teamwork": 3.0,
+        "oldColleagues": 3.0,
+        "equality": 3.0,
+        "career": 3.0,
+        "salary": 3.0,
+        "image": 3.0,
+        "environment": 3.0,
+        "tasks": 3.0
+      },
+      "published_at": "2026-07-23T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "9f080f98-fb93-4254-9984-ba4a3a544339",
+      "url": "https://www.kununu.com/de/c-hasse-sohn1/bewertung/9f080f98-fb93-4254-9984-ba4a3a544339",
+      "title": "Sehr genau",
+      "content": "Ein Lob gibt es nur selten\n\nSehr gut\n\nMir gefällt es\n\nGlaub schon\n\nPasst\n\nAlles gut\n\nDas passt immer\n\nSehr gut\n\nDie müssten mal zur Fortbildung\n\nKann immer besser sein\n\nSehr verbesserungsbedürftig\n\nIch glaube wenigee\n\nUnbedingt verbessern",
+      "rating": 3.3,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Ein Lob gibt es nur selten",
+        "image": "Sehr gut",
+        "workLife": "Mir gefällt es",
+        "career": "Glaub schon",
+        "salary": "Passt",
+        "environment": "Alles gut",
+        "teamwork": "Das passt immer",
+        "oldColleagues": "Sehr gut",
+        "leadership": "Die müssten mal zur Fortbildung",
+        "workConditions": "Kann immer besser sein",
+        "communication": "Sehr verbesserungsbedürftig",
+        "equality": "Ich glaube wenigee",
+        "tasks": "Unbedingt verbessern"
+      },
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 4.0,
+        "communication": 3.0,
+        "workConditions": 3.0,
+        "leadership": 2.0,
+        "teamwork": 4.0,
+        "oldColleagues": 4.0,
+        "equality": 3.0,
+        "career": 3.0,
+        "salary": 4.0,
+        "image": 4.0,
+        "environment": 4.0,
+        "tasks": 2.0
+      },
+      "published_at": "2026-03-04T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "e769f4b7-f888-4f18-b7de-2e7544f6dcf7",
+      "url": "https://www.kununu.com/de/c-hasse-sohn1/bewertung/e769f4b7-f888-4f18-b7de-2e7544f6dcf7",
+      "title": "Ein kompaktes Unternehmen, in dem jede und jeder wahrgenommen wird",
+      "content": "Gesundes Unternehmen mit hohem Anspruch an Produktqualität und Kunden-Service, welches sich gegen die großen Konkurrenten behauptet. Flexibilität ist die Stärke des Unternehmens. Bringt man diese selber mit ist man hier sehr gut aufgehoben.\n\nDer Spalt zwischen dem Team der industriellen Fertigung und dem Team aus dem Bürotrakt ist recht groß.\n\nDurch das schnelle Wachstum in den letzten Jahren gibt es teilweise Nachholbedarf bei Strukturen und der Kommunikation\n\nOffener und herzlicher Umgang untereinander\n\nKleinstes Unternehmen in der Branche, als Premium-Anbieter bekannt\n\nLeitungsebene hat immer offene Türen\n\nschnelles Unternehmenswachstum bringt Herausforderungen mit sich, die man nicht immer ganz im Griff hat\n\nViele junge Menschen aller Geschlechter, auch in Führungspositionen\n\nUnendlich viel zu tun, immer wieder neue Herausforderungen",
+      "rating": 4.0,
+      "sections": {
+        "positive": "Gesundes Unternehmen mit hohem Anspruch an Produktqualität und Kunden-Service, welches sich gegen die großen Konkurrenten behauptet. Flexibilität ist die Stärke des Unternehmens. Bringt man diese selber mit ist man hier sehr gut aufgehoben.",
+        "negative": "Der Spalt zwischen dem Team der industriellen Fertigung und dem Team aus dem Bürotrakt ist recht groß.",
+        "suggestion": "Durch das schnelle Wachstum in den letzten Jahren gibt es teilweise Nachholbedarf bei Strukturen und der Kommunikation"
+      },
+      "factor_comments": {
+        "atmosphere": "Offener und herzlicher Umgang untereinander",
+        "image": "Kleinstes Unternehmen in der Branche, als Premium-Anbieter bekannt",
+        "leadership": "Leitungsebene hat immer offene Türen",
+        "communication": "schnelles Unternehmenswachstum bringt Herausforderungen mit sich, die man nicht immer ganz im Griff hat",
+        "equality": "Viele junge Menschen aller Geschlechter, auch in Führungspositionen",
+        "tasks": "Unendlich viel zu tun, immer wieder neue Herausforderungen"
+      },
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 4.0,
+        "communication": 3.0,
+        "workConditions": 4.0,
+        "leadership": 4.0,
+        "teamwork": 3.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 4.0,
+        "salary": 3.0,
+        "image": 5.0,
+        "environment": 3.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-05-07T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "8cf2a628-d4b8-4c92-a790-a98c788d87ab",
+      "url": "https://www.kununu.com/de/c-hasse-sohn1/bewertung/8cf2a628-d4b8-4c92-a790-a98c788d87ab",
+      "title": "Familiäre Atmosphäre mit schlanken Hierarchien, flexiblen Arbeitszeiten und entspanntem Umgang untereinander",
+      "content": "Es sind 35 Tage Urlaub möglich. Getränke sind frei.\n\nKein Hanse Fit\n\nMehr Öffentlichkeitsarbeit machen, um noch bekannter zu werden.\n\nFair und familiär\n\nAuf persönliche Wünsche wird immer eingegangen\n\nEs werden kontinuierlich Verbesserungen vorgenommen.\n\nStandard sind zwei Monitore sowie höhenverstellbare Schreibtische\n\nKönnte manchmal besser sein.",
+      "rating": 4.5,
+      "sections": {
+        "positive": "Es sind 35 Tage Urlaub möglich. Getränke sind frei.",
+        "negative": "Kein Hanse Fit",
+        "suggestion": "Mehr Öffentlichkeitsarbeit machen, um noch bekannter zu werden."
+      },
+      "factor_comments": {
+        "atmosphere": "Fair und familiär",
+        "workLife": "Auf persönliche Wünsche wird immer eingegangen",
+        "environment": "Es werden kontinuierlich Verbesserungen vorgenommen.",
+        "workConditions": "Standard sind zwei Monitore sowie höhenverstellbare Schreibtische",
+        "communication": "Könnte manchmal besser sein."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 3.0,
+        "workConditions": 4.0,
+        "leadership": 4.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 4.0,
+        "salary": 5.0,
+        "image": 4.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-01-14T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "d17f3bc5-717e-4ea8-b334-5c82e8491892",
+      "url": "https://www.kununu.com/de/c-hasse-sohn1/bewertung/d17f3bc5-717e-4ea8-b334-5c82e8491892",
+      "title": "Hasse ist Klasse",
+      "content": "",
+      "rating": 4.6,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-11-18T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "e1d37363-c516-4fcf-8ea1-83b54fe1982a",
+      "url": "https://www.kununu.com/de/c-hasse-sohn1/bewertung/e1d37363-c516-4fcf-8ea1-83b54fe1982a",
+      "title": "Ein super Arbeitgeber",
+      "content": "",
+      "rating": 4.6,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-11-05T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "45b1d1b4-e0a5-4d51-b712-7a8fea3af37f",
+      "url": "https://www.kununu.com/de/c-hasse-sohn1/bewertung/45b1d1b4-e0a5-4d51-b712-7a8fea3af37f",
+      "title": "Familienunternehmen",
+      "content": "",
+      "rating": 4.7,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-07-08T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "fb449c8f-1b77-4422-bd5f-ac72adce727c",
+      "url": "https://www.kununu.com/de/c-hasse-sohn1/bewertung/fb449c8f-1b77-4422-bd5f-ac72adce727c",
+      "title": "Netter Arbeitsplatz mit einigen sehr Guten aber auch ein paar nicht so Guten Punkten",
+      "content": "",
+      "rating": 3.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-01-29T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    }
+  ],
+  "review_limit": 15,
+  "review_period": {
+    "since": "2024-11-25T00:00:00+00:00",
+    "until": "2026-11-25T17:17:52.492054+00:00",
+    "date_field": "published_at",
+    "missing_dates": "excluded"
+  },
+  "factor_scores_aggregated": {
+    "atmosphere": {
+      "mean": 3.29,
+      "count": 7
+    },
+    "workLife": {
+      "mean": 4.29,
+      "count": 7
+    },
+    "communication": {
+      "mean": 2.71,
+      "count": 7
+    },
+    "workConditions": {
+      "mean": 3.43,
+      "count": 7
+    },
+    "leadership": {
+      "mean": 3.0,
+      "count": 7
+    },
+    "teamwork": {
+      "mean": 3.43,
+      "count": 7
+    },
+    "oldColleagues": {
+      "mean": 4.33,
+      "count": 6
+    },
+    "equality": {
+      "mean": 4.0,
+      "count": 6
+    },
+    "career": {
+      "mean": 3.57,
+      "count": 7
+    },
+    "salary": {
+      "mean": 3.71,
+      "count": 7
+    },
+    "image": {
+      "mean": 3.71,
+      "count": 7
+    },
+    "environment": {
+      "mean": 3.57,
+      "count": 7
+    },
+    "tasks": {
+      "mean": 4.0,
+      "count": 7
+    }
+  },
+  "coverage": "bounded_employee_review_sample_last_2_years_not_all_reviews",
+  "diagnostics": {
+    "pages": [
+      {
+        "page": "reviews",
+        "page_number": 1,
+        "load_more_clicks": 0,
+        "requested_url": "https://www.kununu.com/de/c-hasse-sohn1/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Hasse-b9232a41\\browser\\reviews.html",
+        "browser_step": 137,
+        "final_url": "https://www.kununu.com/de/c-hasse-sohn1/kommentare",
+        "observed_at": "2026-11-25T17:17:54.419570+00:00",
+        "http_status": 200,
+        "factor_cards_expanded": 4,
+        "reviews_collected": 7
+      },
+      {
+        "page": "reviews",
+        "page_number": 2,
+        "load_more_clicks": 1,
+        "requested_url": "https://www.kununu.com/de/c-hasse-sohn1/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Hasse-b9232a41\\browser\\reviews-2.html",
+        "browser_step": 138,
+        "final_url": "https://www.kununu.com/de/c-hasse-sohn1/kommentare",
+        "observed_at": "2026-11-25T17:17:55.995148+00:00",
+        "actions_complete": true,
+        "factor_cards_expanded": 2,
+        "reviews_collected": 7
+      },
+      {
+        "page": "reviews",
+        "page_number": 3,
+        "load_more_clicks": 2,
+        "requested_url": "https://www.kununu.com/de/c-hasse-sohn1/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Hasse-b9232a41\\browser\\reviews-3.html",
+        "browser_step": 139,
+        "final_url": "https://www.kununu.com/de/c-hasse-sohn1/kommentare",
+        "observed_at": "2026-11-25T17:17:57.576532+00:00",
+        "actions_complete": true,
+        "reviews_collected": 11
+      },
+      {
+        "page": "reviews",
+        "page_number": 4,
+        "load_more_clicks": 3,
+        "requested_url": "https://www.kununu.com/de/c-hasse-sohn1/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Hasse-b9232a41\\browser\\reviews-4.html",
+        "browser_step": 140,
+        "final_url": "https://www.kununu.com/de/c-hasse-sohn1/kommentare",
+        "observed_at": "2026-11-25T17:17:59.056918+00:00",
+        "actions_complete": true,
+        "reviews_collected": 11
+      }
+    ]
+  },
+  "source_url": "https://www.kununu.com/de/c-hasse-sohn1",
+  "profile_source": "https://www.kununu.com/de/c-hasse-sohn1/kommentare",
+  "review_stop_reason": "end_of_available_reviews",
+  "factor_score_coverage": {
+    "reviews_with_scores": 7,
+    "reviews_without_scores": 4,
+    "reviews_with_all_known_scores": 6,
+    "status": "partial"
+  },
+  "request_limits": {
+    "max_browser_steps": 295,
+    "browser_steps": 140,
+    "zyte_requests": 0
+  },
+  "reason": null
+}

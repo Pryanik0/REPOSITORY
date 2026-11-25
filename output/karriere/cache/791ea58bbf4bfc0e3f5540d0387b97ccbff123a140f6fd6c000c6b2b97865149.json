@@ -1,0 +1,9 @@
+{
+  "url": "https://www.medicad.eu/robots.txt",
+  "final_url": "https://www.medicad.eu/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "fetched_at": "2026-11-25T15:59:43.725198+00:00",
+  "text": "User-agent: *\nDisallow: /m85/\nAllow: /m85/admin-ajax.php\n\n# START YOAST BLOCK\n# ---------------------------\nUser-agent: *\nDisallow:\n\nSitemap: https://www.medicad.eu/sitemap_index.xml\n# ---------------------------\n# END YOAST BLOCK"
+}

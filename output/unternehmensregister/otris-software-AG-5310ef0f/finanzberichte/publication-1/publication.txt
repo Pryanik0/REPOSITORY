@@ -1,0 +1,740 @@
+otris software AG — Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025
+otris software AG
+
+Dortmund
+
+Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025
+
+Bilanz zum 31. Dezember 2025
+
+Aktiva
+
+scroll
+
+	31.12.2025	31.12.2025	31.12.2024	31.12.2024
+	EUR	EUR	EUR	EUR
+A. Anlagevermögen				
+I. Immaterielle Vermögensgegenstände				
+Entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten		121.210,00		147.523,00
+II. Sachanlagen				
+Andere Anlagen, Betriebs- und Geschäftsausstattung		1.012.528,00		788.627,00
+III. Finanzanlagen				
+1. Anteile an verbundenen Unternehmen	223.719,35		223.719,35	
+2. Wertpapiere des Anlagevermögens	3.367.178,74		3.471.647,12	
+3. Sonstige Ausleihungen	315.600,02	3.906.498,11	78.883,00	3.774.249,47
+		5.040.236,11		4.710.399,47
+B. Umlaufvermögen				
+I. Forderungen und sonstige Vermögensgegenstände				
+1. Forderungen aus Lieferungen und Leistungen	1.194.274,84		1.726.215,11	
+2. Forderungen gegen verbundene Unternehmen	2.606,10		0,00	
+3. Sonstige Vermögensgegenstände	437.167,49	1.634.048,43	262.077,26	1.988.292,37
+- davon mit einer Restlaufzeit von mehr als einem Jahr EUR 8.165,13 (i. Vj. EUR 6.035,13) -				
+II. Kassenbestand und Guthaben bei Kreditinstituten		4.216.226,68		3.167.757,14
+		5.850.275,11		5.156.049,51
+C. Rechnungsabgrenzungsposten		74.226,67		33.425,76
+		10.964.737,89		9.899.874,74
+
+Passiva
+
+scroll
+
+	31.12.2025	31.12.2025	31.12.2024	31.12.2024
+	EUR	EUR	EUR	EUR
+A. Eigenkapital				
+I. Grundkapital	1.600.000,00		1.600.000,00	
+Eigene Anteile	-80.000,00	1.520.000,00	-80.000,00	1.520.000,00
+II. Kapitalrücklage		23.500,00		23.500,00
+III. Gewinnrücklagen				
+1. Gesetzliche Rücklage	136.500,00		136.500,00	
+2. Andere Gewinnrücklagen	2.100.000,00	2.236.500,00	1.600.000,00	1.736.500,00
+IV. Bilanzgewinn		3.912.837,94		3.702.105,75
+		7.692.837,94		6.982.105,75
+B. Rückstellungen				
+1. Steuerrückstellungen		1.098.478,00		615.617,00
+2. Sonstige Rückstellungen		1.124.817,76		1.095.938,34
+		2.223.295,76		1.711.555,34
+C. Verbindlichkeiten				
+1. Verbindlichkeiten aus Lieferungen und Leistungen		86.921,72		102.181,17
+2. Verbindlichkeiten gegenüber verbundenen Unternehmen		145.855,64		100.801,68
+3. Sonstige Verbindlichkeiten		530.185,02		423.191,60
+- davon aus Steuern EUR 508.003,02 (i. Vj. EUR 400.913,64) -				
+- davon im Rahmen der sozialen Sicherheit EUR 21.875,96 (i. Vj. EUR 20.982,00) -				
+		762.962,38		626.174,45
+D. Rechnungsabgrenzungsposten		285.641,81		580.039,20
+		10.964.737,89		9.899.874,74
+
+Gewinn- und Verlustrechnung für die Zeit vom 1. Januar bis 31. Dezember 2025
+
+scroll
+
+	2025	2025	2024	2024
+	EUR	EUR	EUR	EUR
+1. Umsatzerlöse		19.357.333,39		17.492.175,81
+2. Sonstige betriebliche Erträge		260.408,01		605.831,38
+3. Materialaufwand				
+a) Aufwendungen für Hilfs- und Betriebsstoffe und für bezogene Waren	33.353,85		38.320,56	
+b) Aufwendungen für bezogene Leistungen	1.116.363,96	1.149.717,81	772.990,87	811.311,43
+4. Personalaufwand				
+a) Löhne und Gehälter	9.232.944,21		8.720.544,93	
+b) Soziale Abgaben und Aufwendungen für Altersversorgung und für Unterstützung	1.406.886,38	10.639.830,59	1.295.466,66	10.016.011,59
+- davon für Altersversorgung EUR 27.478,07 (i. Vj. EUR 54.791,08) -				
+5. Abschreibungen auf immaterielle Vermögensgegenstände des Anlagevermögens und Sachanlagen		290.505,15		217.594,51
+6. Sonstige betriebliche Aufwendungen		2.079.835,03		1.898.791,52
+7. Erträge aus Beteiligungen		98.120,00		147.180,00
+- sämtlich aus verbundenen Unternehmen -				
+8. Erträge aus anderen Wertpapieren und Ausleihungen des Finanzanlagevermögens		128.584,13		94.773,00
+9. Sonstige Zinsen und ähnliche Erträge		89.038,53		105.051,83
+10. Abschreibungen auf Finanzanlagevermögen		50.221,99		140.618,08
+11. Zinsen und ähnliche Aufwendungen		1.594,08		30,00
+12. Steuern vom Einkommen und vom Ertrag		1.817.920,22		1.662.530,64
+13. Ergebnis nach Steuern		3.903.859,19		3.698.124,25
+14. Sonstige Steuern		1.127,00		1.395,03
+15. Jahresüberschuss		3.902.732,19		3.696.729,22
+
+Anhang für das Geschäftsjahr 2025
+
+I. Allgemeine Angaben
+
+Die otris software AG, Dortmund, wird im Handelsregister B des Amtsgerichtes Dortmund unter der Nummer HRB 15040 geführt.
+
+Die Gesellschaft ist zum Bilanzstichtag 31. Dezember 2025 eine mittelgroße Kapitalgesellschaft im Sinne des § 267 Abs. 2 HGB.
+
+Der Jahresabschluss wird nach den Rechnungslegungsvorschriften für Kapitalgesellschaften des Handelsgesetzbuches (HGB) unter Berücksichtigung des Aktiengesetzes aufgestellt.
+
+Die Gewinn- und Verlustrechnung ist nach dem Gesamtkostenverfahren gem. § 275 Abs. 2 HGB aufgestellt. Für die Überleitung des Jahresergebnisses auf den Bilanzgewinn wird das Wahlrecht gem. § 158 Abs. 1 Satz 2 AktG in Anspruch genommen und die Angaben entsprechend im Anhang gemacht.
+
+Die Gesellschaft nimmt die größenabhängigen Erleichterungen des § 288 Abs. 2 HGB in Anspruch.
+
+Die Davon-Vermerke zu Restlaufzeiten oder Zugehörigkeit zu anderen Posten, die wahlweise in der Bilanz bzw. Gewinn- und Verlustrechnung oder im Anhang anzugeben sind, sind im Anhang aufgeführt.
+
+Geschäftsjahr ist das Kalenderjahr.
+
+II. Angaben zu den Bilanzierungs- und Bewertungsmethoden
+
+Für die Erstellung des Jahresabschlusses waren die nachfolgenden, gegenüber dem Vorjahr unveränderten Bilanzierungs- und Bewertungsmethoden maßgebend.
+
+Das Aktivierungswahlrecht für selbst geschaffene immaterielle Vermögensgegenstände des Anlagevermögens gemäß § 248 Abs. 2 HGB wird von der Gesellschaft nicht in Anspruch genommen.
+
+Entgeltlich von Dritten erworbene immaterielle Vermögensgegenstände des Anlagevermögens werden zu Anschaffungskosten aktiviert und ihrer voraussichtlichen Nutzungsdauer entsprechend linear, im Zugangsjahr zeitanteilig, abgeschrieben. Es handelt sich um entgeltlich erworbene EDV-Programme, die über eine betriebsgewöhnliche Nutzungsdauer von drei bzw. fünf Jahren abgeschrieben werden.
+
+Die Vermögensgegenstände des Sachanlagevermögens werden zu Anschaffungskosten angesetzt und nach Maßgabe der voraussichtlichen Nutzungsdauer linear, im Zugangsjahr zeitanteilig, abgeschrieben.
+
+Zugänge des Geschäftsjahres werden pro-rata-temporis abgeschrieben.
+
+Bereits vollständig abgeschriebene Anlagegüter werden mit einem Anhaltewert von jeweils € 1,00 zum Bilanzstichtag ausgewiesen.
+
+Soweit notwendig, erfolgen außerplanmäßige Abschreibungen bei voraussichtlich dauernder Wertminderung, wenn der beizulegende Wert einzelner Gegenstände des Anlagevermögens ihren Buchwert unterschreitet.
+
+Geringwertige Anlagegüter im Einzelwert bis zu € 800,00 werden im Jahr der Anschaffung voll abgeschrieben und im Berichtsjahr als Abgang gezeigt.
+
+Die Finanzanlagen sind mit den Anschaffungskosten aktiviert. Bei voraussichtlich dauernder Wertminderung werden außerplanmäßige Abschreibungen auf den niedrigeren beizulegenden Wert vorgenommen. Wenn die Gründe für einen niedrigeren Wertansatz nicht mehr bestehen, wird auf den Wert der Anschaffungskosten zugeschrieben.
+
+Forderungen und sonstige Vermögensgegenstände werden mit dem Nennwert bzw. mit dem am Bilanzstichtag beizulegenden niedrigeren Wert angesetzt.
+
+Bei Forderungen, deren Einbringlichkeit mit erkennbaren Risiken behaftet ist, werden angemessene Wertabschläge vorgenommen; uneinbringliche Forderungen werden abgeschrieben.
+
+Zur Abdeckung des allgemeinen Kreditrisikos wird eine Pauschalwertberichtigung von 0,5 % auf die nicht einzelwertberichtigten Nettoforderungen gebildet. Forderungen gegen verbundene Unternehmen werden dabei nicht berücksichtigt.
+
+Die flüssigen Mittel sind zum Nennwert angesetzt und beinhalten im Wesentlichen Guthaben bei Kreditinstituten.
+
+Als aktive Rechnungsabgrenzungsposten sind Auszahlungen vor dem Abschlussstichtag angesetzt, soweit sie Aufwand für einen bestimmten Zeitraum nach diesem Zeitpunkt darstellen.
+
+Das Grundkapital wird zum Nennwert bilanziert.
+
+Die Rückstellungen wurden in Höhe des nach vernünftiger kaufmännischer Beurteilung notwendigen Erfüllungsbetrages angesetzt.
+
+Verbindlichkeiten sind zu ihrem Erfüllungsbetrag angesetzt.
+
+Die passiven Rechnungsabgrenzungsposten sind für Einzahlungen vor dem Abschlussstichtag angesetzt, soweit sie Ertrag für einen bestimmten Zeitraum nach diesem Zeitpunkt darstellen.
+
+III. Angaben zur Bilanz und GuV
+
+1. Anlagevermögen
+
+Die Entwicklung der einzelnen Posten des Anlagevermögens ist in einer gesonderten Übersicht als Anlage zum Anhang dargestellt.
+
+Es wurden außerplanmäßige Abschreibungen auf Wertpapiere im Berichtsjahr von € 50.221,99 (i. VJ. € 140.618,08) vorgenommen.
+
+2. Forderungen und sonstige Vermögensgegenstände
+
+Die Forderungen gg. verbundene Unternehmen resultieren in Höhe von € 2.606,10 (i. VJ. € 0,00) aus Lieferungen und Leistungen. Die Forderungen haben wie im Vorjahr eine Restlaufzeit von bis zu einem Jahr, die sonstigen Vermögensgegenstände teilweise eine Restlaufzeit größer einem Jahr.
+
+3. Eigenkapital
+
+Das im Handelsregister eingetragene und voll eingezahlte Grundkapital beträgt € 1.600.000,00. Das Grundkapital ist in 400.000 auf den Inhaber lautende Stückaktien aufgeteilt.
+
+Die Gesellschaft hält eigene Aktien in Höhe von 5 % des Grundkapitals. Dies entspricht 20.000 Aktien und einem Betrag von € 80.000,00.
+
+Die Kapitalrücklage nach § 272 Abs. 2 Nr. 1 HGB und die gesetzliche Rücklage entsprechen € 23.500,00 und € 136.500,00 und somit dem zehnten Teil des Grundkapitals der Gesellschaft.
+
+Aus dem Bilanzgewinn des Vorjahres in Höhe von € 3.702.105,75 wurden € 3.192.000,00 an die Aktionäre ausgeschüttet und € 500.000,00 in die anderen Gewinnrücklagen eingestellt. Der Rest von € 10.105,75 wurde auf neue Rechnung vorgetragen.
+
+Entwicklung des Bilanzgewinns:
+
+scroll
+
+	31.12.2025	31.12.2024
+Jahresüberschuss	€ 3.902.732,19	€ 3.696.729,22
+Gewinnvortrag	€ 3.702.105,75	€ 3.797.376,53
+Ausschüttungen. /.	€ 3.192.000,00	€ 3.192.000,00
+Andere Gewinnrücklagen./.	€ 500.000,00	€ 600.000,00
+Bilanzgewinn	€ 3.912.837,94	€ 3.702.105,75
+
+4. Sonstige Rückstellungen
+
+Die wesentlichsten sonstigen Rückstellungen betreffen die Rückstellungen für Boni sowie die Urlaubsrückstellung.
+
+5. Verbindlichkeiten
+
+Sämtliche Verbindlichkeiten sind, wie im Vorjahr, innerhalb eines Jahres fällig.
+
+Die Verbindlichkeiten gegenüber verbundenen Unternehmen in Höhe von € 145.855,64 (i. VJ. € 100.801,68) resultieren wie im Vorjahr aus Verbindlichkeiten aus Lieferungen und Leistungen.
+
+6. Sonstige betriebliche Erträge
+
+Es wurden im Berichtsjahr Zuschreibungen in Höhe von T€ 109 (i. VJ. T€ 22) auf Wertpapiere des Anlagevermögens vorgenommen). Aus dem Abgang von Wertpapieren des Anlagevermögens wurde ein Gewinn in Höhe von T€ 47 verzeichnet (i. VJ. T€ 304).
+
+7. Erträge aus anderen Wertpapieren und Ausleihungen des Finanzanlagevermögens
+
+Unter dem Posten werden Erträge aus der Verzinsung der im Anlagevermögen ausgewiesenen Wertpapiere und aus der Verzinsung von Mitarbeiterdarlehen ausgewiesen. Zinserträge entstehen nur bei festverzinslichen Wertpapieren.
+
+8. Nachtragsbericht
+
+Als Ereignisse und Vorgänge von besonderer Bedeutung, die nach dem Bilanzstichtag eingetreten und weder in der Gewinn- und Verlustrechnung noch in der Bilanz berücksichtigt sind, ist die Vertragsverlängerung des Partnervertrages mit der EASY Software AG im Februar 2026 zu nennen. Die Verlängerung des Partnervertrages wurde bis zum 31.12.2029 geschlossen.
+
+Ebenso zu nennen ist der Anteilskauf an der otris projects GmbH im Januar 2026 über 44% an der Gesellschaft, womit die otris software AG dann im Besitz von insgesamt 95% der Anteile ist.
+
+Des Weiteren wurde mit Vertrag vom 15.05.2026 eine Beteiligung an der DEXPRO Solutions GmbH in Höhe von 25,1% erworben.
+
+IV. Sonstige Angaben
+
+1. Sonstige Finanzielle Verpflichtungen
+
+Die sonstigen finanziellen Verpflichtungen setzten sich wie folgt zusammen:
+
+scroll
+
+	Restlaufzeit < 1 Jahr	Restlaufzeit 1-5 Jahre	Restlaufzeit > 5 Jahre
+	T€	T€	T€
+Mietverpflichtungen gesamt	495	969	0
+Leasingverpflichtungen gesamt	11	13	0
+Sonstige finanzielle Verpflichtungen gesamt	506	982	0
+
+2. Mitarbeiter
+
+Im Berichtsjahr waren durchschnittlich 119 Mitarbeiter (sämtlich Angestellte) beschäftigt, davon 23 weibliche Mitarbeiterinnen und 96 männliche Mitarbeiter.
+
+3. Aufsichtsrat
+
+Als Mitglieder des Aufsichtsrates waren im Berichtsjahr die folgenden Herren bestellt:
+
+•
+
+Hans-Peter Gier
+
+Verwaltungsratsvorsitzender trustwise.io AG, Champfèr, (Schweiz)
+
+Vorsitzender
+
+•
+
+Andreas Nowottka
+
+Geschäftsführer, Mülheim an der Ruhr
+
+stellvertretender Vorsitzender
+
+•
+
+Benedikt Niemann
+
+Wirtschaftsinformatiker, Essen
+
+Mitglied
+
+4. Vorstand
+
+Zu den Mitgliedern des Vorstands der Gesellschaft waren im Berichtsjahr die folgenden Herren bestellt:
+
+•
+
+Dr. Frank Hofmann; Dipl.-Ing.
+
+Bochum
+
+•
+
+Dr. Christoph Niemann; Dipl.-Ing.
+
+Essen
+
+Bezüglich der Angaben zu den Gesamtbezügen des Aufsichtsrates und des Vorstandes macht die Gesellschaft von den Erleichterungen des § 286 Abs. 4 HGB Gebrauch.
+
+5. Angaben über den Anteilsbesitz
+
+Die otris software AG ist an den folgenden Unternehmen beteiligt:
+
+scroll
+
+Firma, Sitz	Anteil am Stammkapital	Eigenkapital zum 31.12.2024	Jahresüberschuss(+) / Jahresfehlbetrag(-) 2024 /
+		T€ *	T€ *
+otris systems GmbH Oldenburg	98,12%	372	103
+otris projects GmbH	51,00%	474	-191
+Ulm			
+
+* letzter vorliegender Jahresabschluss
+
+6. Gewinnverwendungsvorschlag
+
+Vorstand und Aufsichtsrat schlagen der Hauptversammlung vor, den Bilanzgewinn in Höhe von € 3.912.837,94 wie folgt zu verwenden:
+
+scroll
+
+Ausschüttungen:	€ 3.496.000,00
+Einstellung in die anderen Gewinnrücklagen:	€ 400.000,00
+Vortrag auf neue Rechnung:	€ 16.837,94
+
+Dortmund, 15. Mai 2026
+
+Der Vorstand
+
+Dr. Frank Hofmann
+
+Dr. Christoph Niemann
+
+Entwicklung des Anlagevermögens im Geschäftsjahr 2025
+
+scroll
+
+	Anschaffungs- und Herstellungskosten	Anschaffungs- und Herstellungskosten	Anschaffungs- und Herstellungskosten	Anschaffungs- und Herstellungskosten
+	1.1.2025	Zugänge	Abgänge	31.12.2025
+	EUR	EUR	EUR	EUR
+I. Immaterielle Vermögensgegenstände				
+Entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten	225.422,42	3.750,00	0,00	229.172,42
+II. Sachanlagen				
+Andere Anlagen, Betriebs- und Geschäftsausstattung	2.072.476,59	505.082,15	129.187,91	2.448.370,83
+III. Finanzanlagen				
+1. Anteile an verbundenen Unternehmen	267.069,35	0,00	0,00	267.069,35
+2. Wertpapiere des Anlagevermögens	3.977.418,74	1.525.130,85	1.696.268,74	3.806.280,85
+3. Sonstige Ausleihungen	78.883,00	236.717,02	0,00	315.600,02
+	4.323.371,09	1.761.847,87	1.696.268,74	4.388.950,22
+	6.621.270,10	2.270.680,02	1.825.456,65	7.066.493,47
+
+scroll
+
+	Kumulierte Abschreibungen	Kumulierte Abschreibungen	Kumulierte Abschreibungen	Kumulierte Abschreibungen	Kumulierte Abschreibungen
+	1.1.2025	Zugänge	Abgänge	Zuschrei-bungen	31.12.2025
+	EUR	EUR	EUR	EUR	EUR
+I. Immaterielle Vermögensgegenstände					
+Entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten	77.899,42	30.063,00	0,00	0,00	107.962,42
+II. Sachanlagen					
+Andere Anlagen, Betriebs- und Geschäftsausstattung	1.283.849,59	260.442,15	108.448,91	0,00	1.435.842,83
+III. Finanzanlagen					
+1. Anteile an verbundenen Unternehmen	43.350,00	0,00	0,00	0,00	43.350,00
+2. Wertpapiere des Anlagevermögens	505.771,62	50.221,99	8.197,56	108.693,94	439.102,11
+3. Sonstige Ausleihungen	0,00	0,00	0,00	0,00	0,00
+	549.121,62	50.221,99	8.197,56	108.693,94	482.452,11
+	1.910.870,63	340.727,14	116.646,47	108.693,94	2.026.257,36
+
+scroll
+
+	Buchwerte	Buchwerte
+	31.12.2025	31.12.2024
+	EUR	EUR
+I. Immaterielle Vermögensgegenstände		
+Entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten	121.210,00	147.523,00
+II. Sachanlagen		
+Andere Anlagen, Betriebs- und Geschäftsausstattung	1.012.528,00	788.627,00
+III. Finanzanlagen		
+1. Anteile an verbundenen Unternehmen	223.719,35	223.719,35
+2. Wertpapiere des Anlagevermögens	3.367.178,74	3.471.647,12
+3. Sonstige Ausleihungen	315.600,02	78.883,00
+	3.906.498,11	3.774.249,47
+	5.040.236,11	4.710.399,47
+
+Lagebericht 2025
+
+der otris software AG
+
+1. Grundlagen
+
+1.1 Geschäftsmodell
+
+Die otris software AG ist im Jahre 2000 aus der 1998 gegründeten otris GmbH & Co. KG hervorgegangen. Das Unternehmen ist eine 53,22 %-ige Tochtergesellschaft der otrisVENTURE GmbH, Essen. Außerdem hält die otris software AG 5,0 % eigene Anteile.
+
+Im Jahresdurchschnitt 2025 wurden 119 Mitarbeitende beschäftigt. Das operative Leitungsorgan wird durch den Vorstand gebildet, der aus zwei Mitgliedern besteht. Den Vorstand kontrolliert der aus drei Mitgliedern bestehende Aufsichtsrat.
+
+Zur otris software AG gehören weiterhin die Unternehmen otris systems GmbH (Oldenburg; bis 21. Februar 2025 bytemine GmbH) und die otris projects GmbH (Ulm, bis 12. Januar 2026 otrisPROJECTS GmbH). An der otris projects GmbH hält die otris software AG einen Anteil in Höhe von 51,0 %. Im Januar 2026 wurde die Beteiligung an der otris projects GmbH auf 95,0 % erhöht. Der Anteil an der otris systems GmbH beträgt 98,12 %.
+
+Die otris software AG entwickelt Software-Produkte für den eigenen Vertrieb bzw. den Vertrieb durch Partner auf eigene Rechnung. Den Partnern werden Dienstleistungen z.B. im Bereich Kundensupport angeboten. Im Gegenzug ergänzen die Partner die otris-Produkte um eigene Dienstleistungen oder Erweiterungen und schaffen damit einen Mehrwert für die Kunden. Die otris software AG berät die eigenen Kunden und die Kunden der Partner beim Einsatz der Produkte und führt Schulungen durch.
+
+Die otris software AG vertreibt direkt oder indirekt folgende Produkte:
+
+•
+
+Das Dokumenten-Management- und Workflow-System documentsOS (vormals DOCUMENTS) wird primar als OEM-Produkt über die EASY SOFTWARE AG vertrieben.
+
+•
+
+Die documentsOS-Plattform dient ebenfalls als Basis für die otris compliance SUITE. Hierbei handelt es sich um ein Werkzeug zur Umsetzung eines Richtlinien-Managements, das ausschließlich im Direktvertrieb angeboten wird. Compliance enthält auch eine Komponente zur Realisierung eines Hinweisgebersystems und zur Umsetzung eines Risikomanagements.
+
+•
+
+Die Software otris legal SUITE adressiert die Themen Vertrags- und Beteiligungs-Management. Auch diese Lösung nutzt die documentsOS-Plattform und wird im Direktvertrieb angeboten. Die Teillösung otris contract wird auch im Partnervertrieb angeboten.
+
+•
+
+Die otris privacy SUITE wird im Direktvertrieb angeboten und unterstützt Datenschutzbeauftragte bei ihrer Tätigkeit. Über das Modul ISMS (Informationssicherheits-Management-System) wird auch das Thema IT-Sicherheit abgedeckt.
+
+1.2 Forschung und Entwicklung
+
+Die Gesellschaft betreibt keine Forschungsaktivitäten. Insgesamt sind ca. 45 Mitarbeiterinnen und Mitarbeiter mit der Neu- und Weiterentwicklung von Softwareprodukten betraut.
+
+Die Transformation der Entwicklungstätigkeiten hin zu agilen Prozessen ist im Berichtszeitraum deutlich vorangeschritten und weitgehend abgeschlossen.
+
+Ein zentrales Thema war auch in diesem Jahr die Weiterentwicklung des AIToolkits. Ziel war es, verbesserte Integrationsmöglichkeiten in Lösungen sowie die einfache Erweiterbarkeit durch die Implementierung zusätzlicher Tools zu schaffen. Mit der Bereitstellung des „Scouts“ zur jobgetriebenen, KI-gestützten Auswertung von Datenmengen konnte ein weiterer wichtiger Meilenstein erreicht werden.
+
+Darüber hinaus wurde an der Erweiterung der bestehenden JavaScript-Schnittstelle gearbeitet, um künftig auch Node.js-Skripte integriert ausführen zu können. Dadurch soll ein umfassender Zugriff auf bestehende Bibliotheken ermöglicht und deren Nutzung im Kontext von documentsOS erweitert werden. Ein erstes Release ist zum Jahresende 2026 geplant.
+
+Mit der Version 6.2 von documentsOS wurde zudem die neue Erweiterung „SelfService-Portal“ erstmals freigegeben, die als Basis für eine neue Fachlösung der legal SUITE dient aber auch in anderen SUITEN genutzt werden wird. Die laufenden Implementierungsarbeiten sollen es ermöglichen, Self-Service-Prozesse künftig auch ohne oder mit nur wenig Programmierung (No-/Low-Code-Ansatz) einzurichten - allein durch die Beschreibung des gewünschten Ergebnisses (deklarativ).
+
+Innerhalb der Plattform documentsOS wurden zahlreiche Detailverbesserungen vorgenommen, insbesondere im Hinblick auf Stabilität und Wartbarkeit. Hervorzuheben sind hierbei unter anderem die neue Importmöglichkeit über die „DataBridge“ sowie das Informationstool „HealthCheck“.
+
+Das Thema „Entwicklung mit KI“ wird weiterhin verfolgt und unter anderem in der VSCode-Erweiterung (Zusatzmodul für Visual Studio Code, ein weit verbreitetes Programmierwerkzeug von Microsoft) für documentsOS berücksichtigt.
+
+Die neue legal SUITE-Version vergrößert den Funktionsumfang der einzelnen Lösungen in den jeweiligen Fachkonzepten. Als neue Komponente wurde 2025 die Legal Front Door als SelfServic- Portal etabliert. Die Legal Front Door dient als Basis, um zukünftig weitere Prozesse zwischen Fachabteilung und deren Kunden digital abzubilden.
+
+Die compliance SUITE wurde in Hinblick auf das ISMS (Informationssicherheits-Management-System) um notwendige Funktionen erweitert. Entsprechende Grundlagen wurden gelegt, um das bestehende Modul Diligence als Lieferantenmanagement in der compliance SUITE aufgehen zu lassen. Das neue Modul Register wurde in einer ersten Version freigegeben. Parallel wurde begonnen für das zukünftige Datenschutz 2.0-Modul der compliance SUITE die Anforderungen an ein heutiges modernes Datenschutzmanagement auf Grundlage der privacy SUITE und der heutigen Marktsituation zu definieren.
+
+2. Wirtschaftsbericht
+
+2.1 Gesamtwirtschaftliche Rahmenbedingungen/Marktumfeld
+
+Die deutsche Wirtschaft hat im Jahr 2025 die zweijährige Rezessionsphase hinter sich gelassen und ist wieder leicht gewachsen. Das preisbereinigte Bruttoinlandsprodukt (BIP) Deutschlands ist im Jahr 2025 um 0,2 % gegenüber dem Vorjahr gestiegen; kalenderbereinigt betrug der Anstieg 0,3 %. Nach den im Rahmen der Sommerüberarbeitung 2025 revidierten Zahlen des Statistischen Bundesamtes war die Wirtschaftsleistung in den beiden Vorjahren deutlich stärker zurückgegangen als zunächst ausgewiesen. Getragen wurde das leichte Wachstum im Jahr 2025 vor allem von gestiegenen Konsumausgaben der privaten Haushalte und des Staates. Demgegenüber gaben die Exporte erneut nach - belastet durch höhere US-Zölle, die Euro-Aufwertung und die stärkere Konkurrenz aus China. Die Investitionsschwäche hielt sowohl bei Ausrüstungen als auch bei Bauten an.
+
+Die Inflationsdynamik in Deutschland hat sich 2025 auf dem Niveau des Vorjahres stabilisiert: Die Verbraucherpreise stiegen im Jahresdurchschnitt um 2,2 % gegenüber dem Vorjahr und lagen damit auf dem gleichen Niveau wie 2024 (ebenfalls 2,2 %). Dämpfend auf die Jahresteuerungsrate wirkten vor allem die Energiepreise: Haushaltsenergie verbilligte sich im Jahresmittel um 2,3 % (darunter leichtes Heizöl -5,3 % und Strom -2,2 %), auch Kraftstoffe wurden um 2,6 % günstiger. Ohne Berücksichtigung der Energie hätte die Jahresteuerungsrate 2025 bei 2,6 % gelegen. Die Preisauftriebe bei Dienstleistungen blieben überdurchschnittlich und sorgten für ein im Jahresverlauf leicht schwankendes Bild.
+
+Im Jahr 2025 setzte sich der positive Reallohntrend fort: Die Nominallöhne stiegen gegenüber dem Vorjahr um 4,2 %, während die Verbraucherpreise lediglich um 2,2 % zunahmen. Daraus resultierte ein Reallohnanstieg von 1,9 %.
+
+Der Reallohnindex erreichte damit fast wieder das Vorkrisenniveau des Jahres 2019. Überdurchschnittliche Nominallohnsteigerungen verzeichneten erneut Geringverdienende sowie Auszubildende, was sich auch auf das Lohngefüge kleinerer und mittelständischer Arbeitgeber auswirkt.
+
+Die deutsche ITK-Branche hat sich 2025 trotz des insgesamt schwierigen konjunkturellen Umfelds erneut als Stabilitätsanker erwiesen. Laut Bitkom verzeichnete die Branche ein Umsatzwachstum von 3,9 % auf rund 235 Milliarden Euro (Vorjahr: 225,9 Milliarden Euro). Wachstumstreiber waren insbesondere Software und digitale Infrastrukturen sowie Cloud-Services und das dynamisch wachsende Geschäft mit KI-Plattformen. Ende 2025 waren rund 1,349 Millionen Menschen in der ITK-Branche beschäftigt; die Branche baut damit ihre Position als größter industrieller Arbeitgeber Deutschlands weiter aus. Gleichzeitig blieben in der gesamten deutschen Wirtschaft rund 109.000 Stellen für IT-Fachkräfte unbesetzt. Gegenüber den 149.000 offenen Stellen aus dem Jahr 2023 ist dies ein Rückgang, dennoch beklagen weiterhin 85 % der befragten Unternehmen einen Mangel an IT-Fachkräften - der Fachkräftemangel bleibt damit eine der zentralen Herausforderungen der Branche.
+
+Die otris software AG wirkt diesem Fachkräftemangel weiterhin mit der Ausbildung eigener Mitarbeitender entgegen. So wurden 2025 drei neue duale Studierende eingestellt. Außerdem konnte ein Auszubildender nach Beendigung einer Umschulung übernommen werden.
+
+Für die Steuerung der otris software AG im Gesamtkontext und die Analyse ihres Geschäftsverlaufs sind diese gesamtwirtschaftlichen Faktoren von geringer Bedeutung. Wir gehen auch weiterhin nicht davon aus, dass es zu wesentlichen negativen Einflüssen auf die weitere Geschäftsentwicklung bedingt durch die gesamtwirtschaftlichen Faktoren kommen wird.
+
+2.2 Geschäftsverlauf
+
+Die finanziellen Leistungsindikatoren, nach denen wir unser Unternehmen steuern, sind die Umsatzerlöse und das Ergebnis vor Steuern.
+
+Im Jahr 2025 stiegen die Umsätze um 10,7 % auf TEUR 19.357 an.
+
+Das Lizenzgeschäft (Kauflizenzen) stieg leicht gegenüber dem Vorjahr um 1,2 % auf TEUR 2.814. Im Direktgeschäft hielt der Trend zu SaaS-Lizenzen (Software as a Service) an, d.h. der Umsatz verlagerte sich vom Lizenzgeschäft mit anschließender Software-Pflege hin zu SaaS. Entsprechend stieg der Umsatz mit Miet- bzw. SaaS-Lizenzen um 40,4 % auf TEUR 4.113 und übertraf damit erneut den Umsatz mit Kauflizenzen.
+
+Ein detaillierterer Blick auf die Lizenzumsätze inklusive Miete/SaaS zeigt folgendes Bild:
+
+Das Geschäft mit documentsOS und documentsOS-Lösungen im Partnervertrieb (im Wesentlichen über EASY SOFTWARE AG) stieg im Vergleich zum Vorjahr: Der Umsatz stieg von TEUR 2.244 um 7,1 % auf TEUR 2.403. Der Anteil der EASY Software AG am Partnervertrieb (Lizenzen) sank leicht und liegt nun bei 80,4% nach 83,9 % im Vorjahr. Daraus folgt, dass der Umsatz mit den übrigen Partnern wie im Vorjahr etwas zugenommen hat.
+
+Im Direktvertrieb bei den Lizenzumsätzen wurde ein Umsatzanstieg um 32,1 % erreicht: Der Umsatz stieg von TEUR 3.401 auf TEUR 4.494. Auf die legal SUITE entfielen dabei TEUR 2.520 (i. Vj. TEUR 1.764), auf die compliance SUITE einschließlich Hinweisgebersystem TEUR 1.401 (i. Vj. TEUR 1.075). Mit der privacy SUITE wurden TEUR 573 (i. Vj. TEUR 562) umgesetzt. TEUR 3.656 dieses Umsatzes (81,6 %) wurden im Rahmen wiederkehrender Miet- bzw. SaaS-Erlöse erzielt.
+
+Die Software-Pflege und der -Support konnten ebenfalls wieder eine Steigerung verbuchen: Der Umsatz stieg um 1,6 % auf TEUR 7.985. Der Anteil am Gesamtumsatz liegt bei 41,3 % nach 45,0 % im Vorjahr.
+
+Da die Softwarepflege zum größten Teil bereits im Januar jeden Geschäftsjahres fakturiert wird, ist eine planbare und hohe Liquidität in diesem Bereich bei der otris software AG gesichert.
+
+Im Dienstleistungsbereich (Software-Pflege und -Support zuvor gesondert betrachtet) stieg der Umsatz um 12,9 % auf TEUR 4.360. Das Hosting-Geschäft ist um 9,3 % gewachsen, während die Projektwartung um 1,6 % zurückging.
+
+Die Umsatzerlöse entwickelten sich insgesamt jedoch etwas über den für das Geschäftsjahr geplanten Umsätzen in Höhe von TEUR 19.132.
+
+Das Ergebnis vor Steuern im Jahr 2025 beträgt TEUR 5.721 und liegt fast auf dem geplanten Vorsteuerergebnis in Höhe von TEUR 5.729.
+
+2.3 Lage
+
+2.3.1 Ertragslage
+
+Die größten Umsatzanteile entfielen mit 41,3 % (im Vorjahr 45,0 %) auf die Erlöse aus der Software-Pflege. Die Erlöse aus dem Lizenzgeschäft (Einmalzahlungen plus Miete/SaaS) erreichten einen Anteil von 35,8 % (32,7 % im Vorjahr) am Umsatz. Der Rest verteilt sich auf Dienstleistungen mit 22,5 % (im Vorjahr 22,1 %) und sonstige Erlöse 0,4 % (im Vorjahr 0,2 %).
+
+Die sonstigen betrieblichen Erträge resultieren im Wesentlichen aus Zuschreibungen in Höhe von TEUR 109 (i.Vj. TEUR 22) und aus Gewinnen aus den Verkäufen von Wertpapieren in Höhe von TEUR 47 (i.Vj. TEUR 304).
+
+Die Aufwendungen für die Betriebsleistung (Material-, Personalaufwand, Abschreibungen und sonstige betriebliche Aufwendungen) sind von TEUR 12.944 um 9,4 % auf TEUR 14.160 gestiegen. Der Anstieg betrifft im Wesentlichen den erhöhten Personalaufwand (+TEUR 513) im Zusammenhang mit Gehaltsveränderungen sowie zusätzlichen Mitarbeiterinnen und Mitarbeitern.
+
+Die Erträge aus Beteiligungen sind 2025 von TEUR 147 auf TEUR 98 gesunken.
+
+Das Aktiendepot der otris hat sich 2025 positiv entwickelt. Es konnte eine Zuschreibung auf Wertpapiere von TEUR 109 (i.Vj. TEUR 22) erfolgen. Allerdings waren auch weitere Abschreibungen auf die Wertpapiere in Höhe von TEUR 50 erforderlich (nach TEUR 141 in 2024).
+
+Die Steuern vom Einkommen und vom Ertrag sind gegenüber dem Vorjahr von TEUR 1.663 um TEUR 155 auf TEUR 1.818 angestiegen. Im Jahr 2025 stieg der Jahresüberschuss um 5,6 % auf TEUR 3.903 (gegenüber TEUR 3.697 in 2024).
+
+2.3.2 Vermögenslage
+
+Die Bilanzsumme ist um TEUR 1.065 auf TEUR 10.965 (i. Vj. TEUR 9.900) gestiegen.
+
+Das Anlagevermögen ist gegenüber dem Vorjahr von TEUR 4.710 um TEUR 330 auf TEUR 5.040 gestiegen.
+
+Der Bestand an liquiden Mitteln hat sich 2025 um TEUR 1.048 auf TEUR 4.216 erhöht.
+
+Die Forderungen aus Lieferungen und Leistungen gegen Kunden (einschließlich Forderungen gegen verbundene Unternehmen) haben sich im Vergleich zum letzten Bilanzstichtag um TEUR 529 auf TEUR 1.197 verringert. Hier war ein konsequenteres Forderungsmanagement für die Reduzierung ausschlaggebend.
+
+Auf der Passivseite stieg das Eigenkapital. Es erfolgte eine Einstellung in die anderen Gewinnrücklagen von TEUR 500. Die Rückstellungen stiegen um TEUR 512, ebenso stiegen die Verbindlichkeiten um TEUR 137. Die passiven Rechnungsabgrenzungsposten sanken deutlich um TEUR 294. Diese ergaben sich durch Wartungs- und SaaS-Erlöse, die bereits für Erträge in Folgejahren als Einzahlungen vereinnahmt wurden. Der Wert schwankt deutlich, je nachdem, wie viele Kunden sich für eine Vorauszahlung entscheiden.
+
+Das Fremdkapital ist gegenüber dem Vorjahr von TEUR 2.338 um TEUR 648 auf TEUR 2.986 angestiegen. Das Fremdkapital teilt sich in Rückstellungen (TEUR 2.223) und Verbindlichkeiten (TEUR 763) auf. Die Rückstellungen sind gegenüber dem Vorjahr gestiegen. Dies liegt im Wesentlichen an den höheren Steuerrückstellungen mit TEUR 1.098 im Vergleich zum Vorjahr TEUR 616 sowie an den im Vergleich zum Vorjahr um TEUR 88 gestiegen Verbindlichkeiten aus Lohn- und Kirchensteuer.
+
+2.3.3 Finanzlage
+
+Im Jahr 2025 wurden wiederum keine Fremdmittel in Anspruch genommen. Es bestanden Kreditlinien im Rahmen der Kontokorrentkonten, die aber zum Stichtag nicht in Anspruch genommen worden sind. Zum Jahresende standen der Gesellschaft liquide Mittel in Höhe von TEUR 4.216 zur Verfügung, was einer Erhöhung um 33,1 % gegenüber dem gleichen Zeitpunkt des Vorjahres entspricht. Die Gesellschaft konnte ihren Zahlungsverpflichtungen jederzeit fristgerecht nachkommen.
+
+Bei einem Eigenkapital von TEUR 7.693 vor Ergebnisverwendung ergibt sich eine Eigenkapitalquote von 70,2 % nach 70,5 % im Vorjahr.
+
+Aufgrund eines hohen Volumens von Zahlungen aus Softwarewartungsverträgen und SaaS-Verträgen, die zum Jahresbeginn vorschüssig bis zum Jahresende vereinnahmt werden, ist eine ausreichende Finanzierung aus eigenen liquiden Mitteln ohne die Aufnahme von Bankdarlehen aus Sicht des Vorstandes gesichert.
+
+Die Investitionsmittel konnten wie auch in den Vorjahren vollständig aus der Innenfinanzierung bereitgestellt werden.
+
+An die Aktionäre wurden im Jahr 2025 aus dem Bilanzgewinn 2024 eine Dividende in Höhe von TEUR 3.192 (im Vorjahr TEUR 3.192) ausgeschüttet, TEUR 500 in die anderen Gewinnrücklagen eingestellt und TEUR 10 auf neue Rechnung vorgetragen.
+
+Insgesamt beurteilen wir das Geschäftsjahr sowie die Vermögens-, Finanz- und Ertragslage der otris software AG auch 2025 als sehr gut.
+
+3. Chancen- und Risikobericht
+
+Mit den bestehenden Produkten können in den nächsten Jahren weiter steigende Erlöse erwartet werden, was die zunehmende Zahl an SaaS-Kunden zeigt.
+
+Durch die erstmalige Nutzung der otris legal SUITE, mit den Komponenten contract management, matter management und corporate housekeeping beim Kunden und der neu eingeführten legal front door, ergeben sich Chancen im Bestandskundengeschäft, da die Einzelprodukte sich ohne zusätzlichen Aufwand kombinieren lassen. Weitere Impulse erwarten wir durch die Nutzung der KI-Module für unsere Produkte. Seit 2025 ist das bisherige Modul otris ISMS Teil der compliance SUITE und profitiert von den anderen Modulen wie dem Richtlinienmanagement. Auch das eröffnet uns weitere Chancen.
+
+Der erwartete Erfolg ist gefährdet, wenn eines oder mehrere der folgenden Risiken eintreten. Die Risiken sind absteigend in der Reihenfolge ihrer Bedeutung genannt:
+
+•
+
+Kündigung von Wartungs- bzw. SaaS-Verträgen
+
+Die otris software AG übernimmt den 2nd-Level-Support für die Vertriebspartner und den kompletten Support für Direktkunden sowie Produktschulungen für die Partner. Um die Bindung der Kunden weiter zu verbessern, unterstützt die otris software AG verstärkt die Vertriebspartner direkt in Projekten
+
+Ein relativ geringer Teil der Direktkunden kündigt jedes Jahr (von den wiederkehrenden Erlösen sind zum 31.12.2025 ca. 5,8 % gekündigt worden). Das Risiko, dass diese Kündigungsrate deutlich steigt, schätzen wir als gering ein, die Auswirkung wäre hoch.
+
+•
+
+Cyber-Sicherheitvorfälle
+
+Die otris software AG betreibt in zunehmendem Maße die Software für ihre Kunden im SaaS-Modell. Die Kunden gehen davon aus, dass ihre Daten bei otris in sicheren Händen sind. Dies wird durch verschiedene Maßnahmen wie Penetration-Tests, Redundanzen und Zertifizierungen (nach ISO 27001) sichergestellt. Das Risiko, dass es zu einem Cyber-Sicherheitsvorfall mit gravierenden Auswirkungen kommt, schätzen wir daher als gering ein. Die kurzfristige finanzielle Auswirkung wäre dank einer Cyber-Versicherung gering. Langfristig könnte ein gravierender Vorfall aber zu einem Vertrauensverlust und somit zu einem großen Schaden führen. Um die Auswirkung zu reduzieren, wird ab 2026 die Versicherungssumme der Cyber-Versicherung stark erhöht.
+
+•
+
+Ausfall mehrerer Vertriebspartner
+
+Der indirekte Vertrieb basiert auf Vertriebspartnern. Fallen hiervon zwei oder mehr Partner oder der größte Partner EASY aus, wird es zu starken Umsatzeinbußen kommen. Gegenmaßnahmen sind die permanente Weiterentwicklung der Produkte und die enge Kooperation mit den Partnern. Der 2026 neu geschlossene Vertrag läuft bis mindestens Ende 2029 und kann danach mit einer zweijährigen Kündigungsfrist gekündigt werden. Das Risiko, dass mehrere kleinere Vertriebspartner den Vertrag kündigen, schätzen wir als gering ein.
+
+•
+
+Produktqualität
+
+Wenn die Qualität der otris-Produkte nicht den Erwartungen der Kunden entspricht, ist kein dauerhafter Erfolg möglich. Durch kontinuierliche Verbesserungen der eingesetzten Frameworks konnte die Qualität weiter gesteigert werden. Eine regelmäßige Qualitätssicherung findet anhand automatisierter Tests für die Produkte und die Plattform documentsOS statt. Diese werden vor jedem Release durch umfassende manuelle Tests ergänzt. Darüber hinaus finden regelmäßig Pentests durch externe Dienstleister statt. Auf Grund dieser Gegenmaßnahmen schätzen wir die Eintrittswahrscheinlichkeit als gering ein. Ein Schaden wäre kurzfristig relativ gering, könnte langfristig aber sehr hoch werden.
+
+•
+
+Abwanderung von Mitarbeitenden
+
+Als Software-Hersteller ist otris insbesondere auf hochqualifizierte Mitarbeitende angewiesen. Die Abwanderung von Mitarbeitenden in größerer Zahl würde die Handlungsfähigkeit von otris stark einschränken und zu einem hohen Schaden führen. Das Unternehmen ergreift daher Maßnahmen, um das Risiko gering zu halten. Feedbackgespräche finden regelmäßig statt und wir versuchen, alle Mitarbeitenden zu fördern. Deswegen schätzen wird das Risiko und die Auswirkung als gering ein.
+
+4. Prognosebericht
+
+Für 2026 wird aus heutiger Sicht ein um ca. 7,2 % höherer Umsatz als 2025 erwartet. Bei einem prognostizierten Umsatz von TEUR 20.750 im Jahr 2026 liegt das geplante Ergebnis vor Steuern mit ca. TEUR 5.811 um etwa 1,6 % über dem des Jahres 2025. Der gegenüber dem Umsatzwachstum unterproportionale Ergebnisanstieg ist darauf zurückzuführen, dass der Vertriebspartnervertrag mit unserem größten Vertriebspartner, der EASY Software AG, Anfang 2026 neu verhandelt wurde; im Interesse einer langfristig stabilen Zusammenarbeit werden dabei im Vergleich zum bestehenden Vertrag aufgrund geänderter vertraglicher Konditionen voraussichtlich kurzfristig Umsatz- und Ergebnisbeiträge im Vergleich zu 2025 sinken. Dieser Effekt ist in der Planung 2026 bereits berücksichtigt. Gegenläufig wird insbesondere im Bereich Software-Miete/SaaS erneut ein deutliches Umsatzwachstum erwartet.
+
+Im Direktvertrieb der otris-SUITEN (Lizenzen und SaaS) rechnen wir 2026 mit einem Umsatz von ca. TEUR 5.620, was einer Steigerung von 25,1 % gegenüber 2025 (TEUR 4.494) entspräche. Ein weiter zunehmender Anteil der Lizenzerlöse wird nicht mehr in Form von Verkäufen von Lizenzen (Einmalzahlungen), sondern als jährliche oder quartalsweise Erlöse (wiederkehrende Zahlungen) für Mieten anfallen (SaaS-Modell). Hinzu kommt ein erwarteter Umsatz in Höhe von TEUR 2.297 mit unseren Plattformpartnern.
+
+Im Bereich der Software-Pflege erwarten wir einen nahezu unveränderten Umsatz (von TEUR 7.985 auf ca. TEUR 7.988). Diese Entwicklung ist im Wesentlichen auf den fortschreitenden Trend zu SaaS-Modellen zurückzuführen, bei denen die Pflege im Mietentgelt enthalten ist. Hinzu kommt, dass der Lizenzkauf im Direktvertrieb ab 2026 nur noch mit Direktkunden erfolgt; klassische Lizenzverkäufe und die daran anschließenden Pflegeerlöse treten insoweit zugunsten des SaaS-Modells in den Hintergrund. Ein Großteil der Pflegeerlöse kann wie bisher bereits im Januar 2026 fakturiert werden. Daher ist davon auszugehen, dass die sehr gute Liquiditätslage der otris software AG auch in Zukunft erhalten bleibt.
+
+Weiteres Umsatzwachstum erwarten wir im Bereich Dienstleistung (+10,2 %, jeweils einschließlich der kalkulatorischen Hosting-Gebühren). Die Umsätze sollen von TEUR 4.360 im Jahr 2025 auf TEUR 4.805 im Jahr 2026 steigen.
+
+In unsere Prognose fließen dabei sowohl vergangenheitsorientierte Indikatoren (unternehmensspezifische, historische Wachstumsraten) als auch zukunftsorientierte Größen aus der Absatzplanung ein.
+
+5. Sonstige Angaben
+
+Bezüglich der Angaben zu den eigenen Aktien gem. § 160 Abs. 1 Nr. 2 AktG verweisen wir auf die Angaben im Anhang unter „III. Angaben zur Bilanz und GuV 3. Eigenkapital“.
+
+6. Bericht über die Beziehungen zu verbundenen Unternehmen
+
+Aufgrund der 53,22%-igen Beteiligung der otrisVENTURE GmbH an der otris software AG hat der Vorstand der otris software AG einen Abhängigkeitsbericht gemäß § 312 AktG erstellt, in dem die folgende Schlusserklärung abgegeben wurde:
+
+„Unsere Gesellschaft hat bei den in diesem Bericht über Beziehungen zu verbundenen Unternehmen aufgeführten Rechtsgeschäften nach den Umständen, die uns zu dem Zeitpunkt bekannt waren, in dem die Rechtsgeschäfte vorgenommen wurden, bei jedem Rechtsgeschäft eine angemessene Gegenleistung erhalten. Maßnahmen wurden weder getroffen noch unterlassen".
+
+Dortmund, den 15. Mai 2026
+
+otris software AG
+
+Der Vorstand
+
+Dr. Frank Hofmann
+
+Dr. Christoph Niemann
+
+Bestätigungsvermerk des unabhängigen Abschlussprüfers
+
+An die otris software AG, Dortmund
+
+Prüfungsurteile
+
+Wir haben den Jahresabschluss der otris software AG, Dortmund, - bestehend aus der Bilanz zum 31. Dezember 2025 und der Gewinn- und Verlustrechnung für das Geschäftsjahr vom 1. Januar bis zum 31. Dezember 2025 sowie dem Anhang, einschließlich der Darstellung der Bilanzierungs- und Bewertungsmethoden - geprüft. Darüber hinaus haben wir den Lagebericht der otris software AG für das Geschäftsjahr vom 1. Januar bis zum 31. Dezember 2025 geprüft.
+
+Nach unserer Beurteilung aufgrund der bei der Prüfung gewonnenen Erkenntnisse
+
+•
+
+entspricht der beigefügte Jahresabschluss in allen wesentlichen Belangen den deutschen, für Kapitalgesellschaften geltenden handelsrechtlichen Vorschriften und vermittelt unter Beachtung der deutschen Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens- und Finanzlage der Gesellschaft zum 31. Dezember 2025 sowie ihrer Ertragslage für das Geschäftsjahr vom 1. Januar bis zum 31. Dezember 2025 und
+
+•
+
+vermittelt der beigefügte Lagebericht insgesamt ein zutreffendes Bild von der Lage der Gesellschaft. In allen wesentlichen Belangen steht dieser Lagebericht in Einklang mit dem Jahresabschluss, entspricht den deutschen gesetzlichen Vorschriften und stellt die Chancen und Risiken der zukünftigen Entwicklung zutreffend dar.
+
+Gemäß § 322 Abs. 3 Satz 1 HGB erklären wir, dass unsere Prüfung zu keinen Einwendungen gegen die Ordnungsmäßigkeit des Jahresabschlusses und des Lageberichts geführt hat.
+
+Grundlage für die Prüfungsurteile
+
+Wir haben unsere Prüfung des Jahresabschlusses und des Lageberichts in Übereinstimmung mit § 317 HGB unter Beachtung der vom Institut der Wirtschaftsprüfer (IDW) festgestellten deutschen Grundsätze ordnungsmäßiger Abschlussprüfung durchgeführt. Unsere Verantwortung nach diesen Vorschriften und Grundsätzen ist im Abschnitt „Verantwortung des Abschlussprüfers für die Prüfung des Jahresabschlusses und des Lageberichts“ unseres Bestätigungsvermerks weitergehend beschrieben. Wir sind von dem Unternehmen unabhängig in Übereinstimmung mit den deutschen handelsrechtlichen und berufsrechtlichen Vorschriften und haben unsere sonstigen deutschen Berufspflichten in Übereinstimmung mit diesen Anforderungen erfüllt. Wir sind der Auffassung, dass die von uns erlangten Prüfungsnachweise ausreichend und geeignet sind, um als Grundlage für unsere Prüfungsurteile zum Jahresabschluss und zum Lagebericht zu dienen.
+
+Verantwortung der gesetzlichen Vertreter und des Aufsichtsrats für den Jahresabschluss und den Lagebericht
+
+Die gesetzlichen Vertreter sind verantwortlich für die Aufstellung des Jahresabschlusses, der den deutschen, für Kapitalgesellschaften geltenden handelsrechtlichen Vorschriften in allen wesentlichen Belangen entspricht, und dafür, dass der Jahresabschluss unter Beachtung der deutschen Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage der Gesellschaft vermittelt. Ferner sind die gesetzlichen Vertreter verantwortlich für die internen Kontrollen, die sie in Übereinstimmung mit den deutschen Grundsätzen ordnungsmäßiger Buchführung als notwendig bestimmt haben, um die Aufstellung eines Jahresabschlusses zu ermöglichen, der frei von wesentlichen falschen Darstellungen aufgrund von dolosen Handlungen (d. h. Manipulationen der Rechnungslegung und Vermögensschädigungen) oder Irrtümern ist.
+
+Bei der Aufstellung des Jahresabschlusses sind die gesetzlichen Vertreter dafür verantwortlich, die Fähigkeit der Gesellschaft zur Fortführung der Unternehmenstätigkeit zu beurteilen. Des Weiteren haben sie die Verantwortung, Sachverhalte in Zusammenhang mit der Fortführung der Unternehmenstätigkeit, sofern einschlägig, anzugeben. Darüber hinaus sind sie dafür verantwortlich, auf der Grundlage des Rechnungslegungsgrundsatzes der Fortführung der Unternehmenstätigkeit zu bilanzieren, sofern dem nicht tatsächliche oder rechtliche Gegebenheiten entgegenstehen.
+
+Außerdem sind die gesetzlichen Vertreter verantwortlich für die Aufstellung des Lageberichts, der insgesamt ein zutreffendes Bild von der Lage der Gesellschaft vermittelt sowie in allen wesentlichen Belangen mit dem Jahresabschluss in Einklang steht, den deutschen gesetzlichen Vorschriften entspricht und die Chancen und Risiken der zukünftigen Entwicklung zutreffend darstellt. Ferner sind die gesetzlichen Vertreter verantwortlich für die Vorkehrungen und Maßnahmen (Systeme), die sie als notwendig erachtet haben, um die Aufstellung eines Lageberichts in Übereinstimmung mit den anzuwendenden deutschen gesetzlichen Vorschriften zu ermöglichen, und um ausreichende geeignete Nachweise für die Aussagen im Lagebericht erbringen zu können.
+
+Der Aufsichtsrat ist verantwortlich für die Überwachung des Rechnungslegungsprozesses der Gesellschaft zur Aufstellung des Jahresabschlusses und des Lageberichts.
+
+Verantwortung des Abschlussprüfers für die Prüfung des Jahresabschlusses und des Lageberichts
+
+Unsere Zielsetzung ist, hinreichende Sicherheit darüber zu erlangen, ob der Jahresabschluss als Ganzes frei von wesentlichen falschen Darstellungen aufgrund von dolosen Handlungen oder Irrtümern ist, und ob der Lagebericht insgesamt ein zutreffendes Bild von der Lage der Gesellschaft vermittelt sowie in allen wesentlichen Belangen mit dem Jahresabschluss sowie mit den bei der Prüfung gewonnenen Erkenntnissen in Einklang steht, den deutschen gesetzlichen Vorschriften entspricht und die Chancen und Risiken der zukünftigen Entwicklung zutreffend darstellt, sowie einen Bestätigungsvermerk zu erteilen, der unsere Prüfungsurteile zum Jahresabschluss und zum Lagebericht beinhaltet.
+
+Hinreichende Sicherheit ist ein hohes Maß an Sicherheit, aber keine Garantie dafür, dass eine in Übereinstimmung mit § 317 HGB unter Beachtung der vom Institut der Wirtschaftsprüfer (IDW) festgestellten deutschen Grundsätze ordnungsmäßiger Abschlussprüfung durchgeführte Prüfung eine wesentliche falsche Darstellung stets aufdeckt. Falsche Darstellungen können aus dolosen Handlungen oder Irrtümern resultieren und werden als wesentlich angesehen, wenn vernünftigerweise erwartet werden könnte, dass sie einzeln oder insgesamt die auf der Grundlage dieses Jahresabschlusses und Lageberichts getroffenen wirtschaftlichen Entscheidungen von Adressaten beeinflussen.
+
+Während der Prüfung üben wir pflichtgemäßes Ermessen aus und bewahren eine kritische Grundhaltung. Darüber hinaus
+
+•
+
+identifizieren und beurteilen wir die Risiken wesentlicher falscher Darstellungen im Jahresabschluss und im Lagebericht aufgrund von dolosen Handlungen oder Irrtümern, planen und führen Prüfungshandlungen als Reaktion auf diese Risiken durch sowie erlangen Prüfungsnachweise, die ausreichend und geeignet sind, um als Grundlage für unsere Prüfungsurteile zu dienen. Das Risiko, dass eine aus dolosen Handlungen resultierende wesentliche falsche Darstellung nicht aufgedeckt wird, ist höher als das Risiko, dass eine aus Irrtümern resultierende wesentliche falsche Darstellung nicht aufgedeckt wird, da dolose Handlungen kollusives Zusammenwirken, Fälschungen, beabsichtigte Unvollständigkeiten, irreführende Darstellungen bzw. das Außerkraftsetzen interner Kontrollen beinhalten können.
+
+•
+
+erlangen wir ein Verständnis von den für die Prüfung des Jahresabschlusses relevanten internen Kontrollen und den für die Prüfung des Lageberichts relevanten Vorkehrungen und Maßnahmen, um Prüfungshandlungen zu planen, die unter den Umständen angemessen sind, jedoch nicht mit dem Ziel, ein Prüfungsurteil zur Wirksamkeit der internen Kontrollen der Gesellschaft bzw. dieser Vorkehrungen und Maßnahmen abzugeben.
+
+•
+
+beurteilen wir die Angemessenheit der von den gesetzlichen Vertretern angewandten Rechnungslegungsmethoden sowie die Vertretbarkeit der von den gesetzlichen Vertretern dargestellten geschätzten Werte und damit zusammenhängenden Angaben.
+
+•
+
+ziehen wir Schlussfolgerungen über die Angemessenheit des von den gesetzlichen Vertretern angewandten Rechnungslegungsgrundsatzes der Fortführung der Unternehmenstätigkeit sowie, auf der Grundlage der erlangten Prüfungsnachweise, ob eine wesentliche Unsicherheit im Zusammenhang mit Ereignissen oder Gegebenheiten besteht, die bedeutsame Zweifel an der Fähigkeit der Gesellschaft zur Fortführung der Unternehmenstätigkeit aufwerfen können. Falls wir zu dem Schluss kommen, dass eine wesentliche Unsicherheit besteht, sind wir verpflichtet, im Bestätigungsvermerk auf die dazugehörigen Angaben im Jahresabschluss und im Lagebericht aufmerksam zu machen oder, falls diese Angaben unangemessen sind, unser jeweiliges Prüfungsurteil zu modifizieren. Wir ziehen unsere Schlussfolgerungen auf der Grundlage der bis zum Datum unseres Bestätigungsvermerks erlangten Prüfungsnachweise. Zukünftige Ereignisse oder Gegebenheiten können jedoch dazu führen, dass die Gesellschaft ihre Unternehmenstätigkeit nicht mehr fortführen kann.
+
+•
+
+beurteilen wir Darstellung, Aufbau und Inhalt des Jahresabschlusses insgesamt einschließlich der Angaben sowie ob der Jahresabschluss die zugrunde liegenden Geschäftsvorfälle und Ereignisse so darstellt, dass der Jahresabschluss unter Beachtung der deutschen Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage der Gesellschaft vermittelt.
+
+•
+
+beurteilen wir den Einklang des Lageberichts mit dem Jahresabschluss, seine Gesetzesentsprechung und das von ihm vermittelte Bild von der Lage des Unternehmens.
+
+•
+
+führen wir Prüfungshandlungen zu den von den gesetzlichen Vertretern dargestellten zukunftsorientierten Angaben im Lagebericht durch. Auf Basis ausreichender geeigneter Prüfungsnachweise vollziehen wir dabei insbesondere die den zukunftsorientierten Angaben von den gesetzlichen Vertretern zugrunde gelegten bedeutsamen Annahmen nach und beurteilen die sachgerechte Ableitung der zukunftsorientierten Angaben aus diesen Annahmen. Ein eigenständiges Prüfungsurteil zu den zukunftsorientierten Angaben sowie zu den zugrunde liegenden Annahmen geben wir nicht ab. Es besteht ein erhebliches unvermeidbares Risiko, dass künftige Ereignisse wesentlich von den zukunftsorientierten Angaben abweichen.
+
+Wir erörtern mit den für die Überwachung Verantwortlichen unter anderem den geplanten Umfang und die Zeitplanung der Prüfung sowie bedeutsame Prüfungsfeststellungen, einschließlich etwaiger bedeutsamer Mängel in internen Kontrollen, die wir während unserer Prüfung feststellen.
+
+Dortmund, den 22. Mai 2026
+
+KPMG AG
+Wirtschaftsprüfungsgesellschaft
+
+Kis, Wirtschaftsprüfer
+
+Görsch, Wirtschaftsprüferin
+
+Bericht des Aufsichtsrates für die Hauptversammlung am 2. Juni 2026 über das Geschäftsjahr vom 1. Januar bis 31. Dezember 2025
+
+Der Aufsichtsrat hat im Berichtsjahr die ihm nach dem Aktiengesetz und der Satzung der otris software AG übertragenen Aufgaben wahrgenommen. Regelmäßig und ausführlich hat uns der Vorstand über die wirtschaftliche Situation der Gesellschaft und die wesentlichen Geschäftsvorgänge mündlich und schriftlich unterrichtet. Dabei bilden die Aufsichtsratssitzungen, an denen auch der Vorstand teilnimmt, einen besonderen Schwerpunkt.
+
+Die otris software AG entwickelt Produkte für den eigenen Vertrieb bzw. den Vertrieb durch Partner. Das Angebot ist in dem Geschäftsmodell um das Dokumenten-Management- und Workflow-System documentsOS und darauf basierende Lösungen gebündelt. Diese Produktpalette wird ständig weiterentwickelt.
+
+Die Erlös-, Kosten- und Risikosituation wird gesteuert durch den monatlichen Plan/Ist Vergleich und in Vierteljahresberichten schriftlich dargestellt und erläutert. Im Geschäftsjahr 2025 konnte der Umsatz mit 19,4 Mio. Euro gegenüber dem Vorjahr um 10,7 % gesteigert werden.
+
+Der Aufsichtsrat hat im Geschäftsjahr 2025 vier Sitzungen abgehalten. Ausschüsse des Aufsichtsrates sind auch im abgelaufenen Geschäftsjahr nicht gebildet worden. Änderungen in der Zusammensetzung des Aufsichtsrats gab es 2025 nicht.
+
+Der vom Vorstand aufgestellte Jahresabschluss für das Geschäftsjahr 2025 wurde dem Aufsichtsrat im Einzelnen erläutert. Der Jahresabschluss einschließlich der Buchführung sowie der Lagebericht der Gesellschaft sind von der KPMG AG Wirtschaftsprüfungsgesellschaft geprüft worden. Der Bericht des Abschlussprüfers liegt uns vor. Mitarbeiter der KPMG haben das Prüfungsergebnis in einer Sitzung des Aufsichtsrates erläutert und entsprechende Fragen beantwortet. Die WP-Gesellschaft hat in ihrer Eigenschaft als Abschlussprüfer den uneingeschränkten Bestätigungsvermerk erteilt.
+
+Der Aufsichtsrat hat den Jahresabschluss, den Lagebericht des Vorstandes und seinen Vorschlag für die Verwendung des Bilanzgewinns geprüft. Aufgrund der eigenen Prüfung erheben wir keine Einwendungen und treten dem Ergebnis der Prüfung des Jahresabschlusses 2025 durch den Abschlussprüfer bei.
+
+Der Aufsichtsrat billigt den vom Vorstand aufgestellten Jahresabschluss. Dieser ist damit festgestellt.
+
+Aus dem Bilanzgewinn in Höhe von 3.912.837,94 Euro soll auf Vorschlag des Vorstandes in die Gewinnrücklage ein Betrag in Höhe von 400.000,00 Euro eingestellt werden. Ferner schlägt der Vorstand vor, eine Dividende In Höhe von 3.496.000,00 Euro auszuschütten. Der verbleibende Betrag von 16.837,94 Euro wird der Position Gewinnvortag zugeführt. Der Aufsichtsrat schließt sich diesem Votum an. Der ordentlichen Hauptversammlung wird ein entsprechender Vorschlag unterbreitet.
+
+Da die otris software AG eine Tochtergesellschaft der otrisVENTURE GmbH ist, muss otris gemäß §312 Abs. 1 AktG einen Abhängigkeitsbericht aufstellen. Dieser Bericht wurde ebenfalls von der KPMG geprüft und führte zu keinen Feststellungen.
+
+Der Aufsichtsrat dankt den Mitarbeiterinnen und Mitarbeitern sowie dem Vorstand für die geleistete gute Arbeit in diesem Geschäftsjahr.
+
+Dortmund, den 2. Juni 2026
+
+Der Aufsichtsrat
+
+Hans-Peter Gier, Aufsichtsratsvorsitzender
+
+Bericht des Vorstands über Beziehungen zu verbundenen Unternehmen im Geschäftsjahr 2025 nach § 312 AktG
+
+1. Rechtsverhältnisse zu verbundenen Unternehmen
+
+Die Gesellschaft ist am Stichtag 31. Dezember 2025 eine unmittelbar von der otrisVENTURE GmbH, Essen, abhängige Gesellschaft i. S. d. § 17 AktG. Die Beteiligung der otrisVENTURE GmbH an der Gesellschaft beträgt 53,22 %.
+
+Da ein Beherrschungsvertrag gemäß § 291 AktG zur otrisVENTURE GmbH, Essen, nicht besteht, erstatten wir gemäß § 312 AktG den folgenden Bericht über die Beziehungen unserer Gesellschaft zur otrisVENTURE GmbH sowie zu den Tochtergesellschaften otris systems GmbH und otris projects GmbH (vormals otrisPROJECTS GmbH, Umfirmierung im Januar 2026).
+
+Im Geschäftsjahr 2025 war die otrisVENTURE GmbH mittelbar über die otris software AG an den folgenden Unternehmen beteiligt:
+
+―
+
+zu 98,12 % an der otris systems GmbH, Oldenburg
+
+―
+
+zu 51,00 % an der otris projects GmbH, Ulm
+
+2. Berichtspflichtige Rechtsgeschäfte der Gesellschaft mit dem herrschenden Unternehmen
+
+Berichtspflichtiges Rechtsgeschäft im Geschäftsjahr 2025 war die Buchhaltungstätigkeit der otris software AG für die otrisVENTURE GmbH. Für diese Leistung wurde im Jahr 2025 ein Betrag in Höhe von € 714,00 berechnet. Diese Leistung an die otrisVENTURE GmbH erfolgte zu den anteiligen eigenen Personalkosten der Gesellschaft unter der Berücksichtigung eines geringen Aufschlags von 10%.
+
+Die otrisVENTURE GmbH erhielt von der Gesellschaft im Jahr 2025 gem. Beschluss der Hauptversammlung vom 26.05.2025 eine Dividendenzahlung für den Zeitraum 01.01.2024 bis 31.12.2024 in Höhe von € 1.788.024,00 vor Abzug der Kapitalertragsteuer und Solidaritätszuschlag.
+
+3. Berichtspflichtige Rechtsgeschäfte der Gesellschaft mit einem mit dem herrschenden Unternehmen verbundenen Unternehmen
+
+Berichtspflichtiges Rechtsgeschäft im Geschäftsjahr 2025 war auch hier die Buchhaltungstätigkeit der otris software AG für die Tochtergesellschaften. Diese Leistung an die otris systems GmbH sowie an die otris projects GmbH erfolgte zu den anteiligen eigenen Personalkosten der Gesellschaft unter der Berücksichtigung eines geringen Aufschlags von 10%.
+
+scroll
+
+Firma, Sitz	Buchhaltungstätigkeit
+otris systems GmbH, Oldenburg	€ 8.925,00
+otris projects GmbH, Ulm	€ 8.895,00
+
+Rechtsgeschäfte der otris systems GmbH im Jahr 2025 an die Gesellschaft waren die Erbringung von Dienstleistungen für Software-As-A-Service und Lieferung von Hardware.
+
+Die Berechnung erfolgte für die Hardware zu den Einkaufspreisen der otris systems GmbH zzgl. einer geringen Marge im Jahr 2025 von 2,9 %. Für Leistungen im Rahmen Software-As-A-Service erfolgte sie unter Berücksichtigung einer Marge von 30 % seitens der otris software AG, die die durchschnittliche Zielumsatzrendite mit externen Kunden darstellt.
+
+Die otris projects GmbH erbrachte Leistungen im Jahr 2025 in Form der Gestellung von Mitarbeitern an die Gesellschaft zur Unterstützung von Projektarbeiten für Kunden sowie Leistungen im Rahmen des mit der otris software AG geschlossenen Kooperationsvertrages vom 12.12.2024. Für das Jahr 2025 sieht der Kooperationsvertrag eine Beteiligung der otris projects GmbH in Höhe von 50% an den wiederkehrenden Umsätzen der otris software AG für das Produkt „Geo Search“ vor. Die Gestellung der Mitarbeiter erfolgte in Form der Weiterberechnung der Personalkosten sowie mit 70 % des Tagessatzes, den die otris software AG für die erbrachte Leistung mit dem eigenen Kunden vereinbart hat.
+
+Darüber hinaus erhielt die Gesellschaft im Geschäftsjahr 2025 aufgrund des Gesellschafterbeschlusses zur Feststellung des Jahresabschlusses und der Ergebnisverwendung der otris systems GmbH eine Dividendenzahlung in Höhe von € 98.120,00 vor Abzug von Steuern.
+
+Von der otris projects GmbH erhielt die Gesellschaft im Geschäftsjahr 2025 aufgrund des Jahresfehl-betrages 2025 keine Dividendenzahlung.
+
+scroll
+
+Firma, Sitz	Dienstleistungen SaaS und Hardware	Projektarbeiten und Kooperationsvertrag	Dividendenzahlungen
+otris systems GmbH, Oldenburg	€ 1.081.212,90		€ 98.120,000
+otris projects GmbH, Ulm		€ 195.063,76	
+
+4. Wesentliche Maßnahmen des Vorstandes
+
+Es wurden keine berichtspflichtigen Maßnahmen durchgeführt oder veranlasst.
+
+5. Schlusserklärung
+
+Unsere Gesellschaft hat bei den in diesem Bericht über Beziehungen zu verbundenen Unternehmen aufgeführten Rechtsgeschäften nach den Umständen, die uns in dem Zeitpunkt bekannt waren, in dem die Rechtsgeschäfte vorgenommen wurden, bei jedem Rechtsgeschäft eine angemessene Gegenleistung erhalten. Maßnahmen wurden weder getroffen noch unterlassen.
+
+Dortmund, den 12. Mai 2026
+
+Der Vorstand
+
+Dr. Frank Hofmann
+
+Dr. Christoph Niemann

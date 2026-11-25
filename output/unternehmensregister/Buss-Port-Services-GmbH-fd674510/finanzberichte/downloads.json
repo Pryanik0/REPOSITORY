@@ -1,0 +1,38 @@
+[
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=ExQThn1zXY8v6f0clFluXzAsaEJXeabLeUXoUJayZSIyNGw9NgT_ec24_nBzeUDTS1qsTPWKDzB7HrNde0nlQi2ARirwk0fgmBFq3gIB3_Goyj_i-e_i1BHKrb5JIjTY37BIp-qEC8Py9Eu8uQoACpLqzBWypU7emuoMOen_QwrhJYc90oDq6jrHfx0UaUxRh4sbUpfV9_f2U7rGV1jGkfcta9rvzWrBF0-EmsO7-c1SZq8",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Buss-Port-Services-GmbH-fd674510\\finanzberichte\\publication-1\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Buss-Port-Services-GmbH-fd674510\\finanzberichte\\publication-1\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Buss-Port-Services-GmbH-fd674510\\finanzberichte\\publication-1\\publication.txt",
+    "index": 1,
+    "category": "finanzberichte",
+    "company": "Buss Port Services GmbH, Hamburg",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+    "documents_path": "output\\unternehmensregister\\Buss-Port-Services-GmbH-fd674510\\finanzberichte\\publication-1\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=v745NKy_DmozMMr1IuWTXvHMuCw7eNXvJsKHdnmu97IXXT69IJwI9qng7GyNusu87gQQ1td_qCD1NXV52Hl9zeezIGv7kIYrV-cnnLmfRA6jf2SdWWMYl9ObdlIzwkk-L4PXs7KWVp-6ZaARuPOxqjb7bKvuJ78OXD1N3GqGxvEqySPEaHux0oiUywOd61knsZRxbhad-OlsOPhf-rANN13tMuwojfGrezVb_nLqqiVEy4s",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Buss-Port-Services-GmbH-fd674510\\finanzberichte\\publication-2\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Buss-Port-Services-GmbH-fd674510\\finanzberichte\\publication-2\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Buss-Port-Services-GmbH-fd674510\\finanzberichte\\publication-2\\publication.txt",
+    "index": 2,
+    "category": "finanzberichte",
+    "company": "Buss Port Services GmbH, Hamburg",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+    "documents_path": "output\\unternehmensregister\\Buss-Port-Services-GmbH-fd674510\\finanzberichte\\publication-2\\documents.json"
+  }
+]

@@ -1,0 +1,160 @@
+{
+  "company": {
+    "key": "tink",
+    "name": "tink",
+    "location": "Berlin",
+    "name_source": "company_name",
+    "urls": [
+      "https://tink.de"
+    ],
+    "kununu_url": null,
+    "branches": [
+      "Einzelhandel"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "10178",
+    "street": "Sophienstrasse 21",
+    "region": "Berlin",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:59:10.127591+00:00",
+  "searches": [
+    {
+      "accounting_only": true,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=tink&companyLocation=Berlin&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ACCOUNTING&drilldownFilter=22&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": false
+    },
+    {
+      "accounting_only": false,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=tink&companyLocation=Berlin&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ALL_AREAS&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": false
+    }
+  ],
+  "excluded_company_matches": [
+    {
+      "company": "TINKERBELLE GmbH, Berlin",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-10-21",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=PfgFF6GYVCusoZEQvMX-AHksUOOehez6GSbAxlCHKCwb8GU-QD81-9gwwETEWP9dGN0ylzhnZwBHIN1-QOD7I-cSzh4y-4l_O40QRrnK2i_k1mWS6awCxITd6WoZ9mhuPOOnSidRsTQk1L7xzwi92OkHbBxJgSDN0o7M_zEnVf5elSr6GxBRQdFF-e4s-MA0PIAvmAIb-vaIIEKIg_6SD14CH87rjIeza8eFmv20JCg7Akxd",
+      "metadata": "TINKERBELLE GmbH, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 21.10.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "TINKERBELLE GmbH, Berlin",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-03-07",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=m3RDe7iH-tUAu_xeY7FNJbN8GF0JGeoDvEJHNxQuhJ78jROcG1TtBdTyDIuvDU5KfUZZcOReHIwVi57x7iyjs_GwxZtkfH-uDckwq2U-yOKYrMw5upJHGQENlfNb8JflXgcjp8bfl_yBoWPwqfUFi3pitEjofI8eUm0cWYogVwMCIGNiVZ1Y7p3p6fMSdp6pVCH0wJEs8_8bVU0Eb_J9rMkxVxCPDBXLTEVHEh90zTqpSeIy",
+      "metadata": "TINKERBELLE GmbH, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 07.03.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "TINKERBELLE GmbH, Berlin",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-03-13",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=henfFfaDLhAS4tI6uNHfPTtgihCbnjiFuMD99yXucjc3OKRUEEBRB2g_RjYONV4H027Lq747grlFfUc8SxtqerLQeznzzFIX50DjhMZCUSZ8sd44L0ADBzIEfE-CYec-iAcVsGs9JI8iAfGUQJgD11SGiXSQ4mfA2wJStSn93L8OBwL6SQKJOtFkcAeF1Q3jsLMCR7BpES3zzDjVoifUEgdIkoZeMa1s14Ws1v8gCsetZqtz",
+      "metadata": "TINKERBELLE GmbH, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 13.03.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "TINKERBELLE GmbH, Berlin",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2025-10-21",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=7si8txQdUAfuNZEcewhB7s_Fwqylkeri9QwFNgzuhjjFBfAcLsJk5b2HJytv2WlwIyLIS0VV_cC0mQu1drqQeWajPwz5hhy7Jqi_j2IN9PoqqhStffDz1GHm_SJFMCVp1CKvNi9Y-ML0HoLxovFRgJBcWK9CDSu6wNLSNdM-kos-57zK2YGjqlNO1wOMAjPDu3PjMum4OfmG7y_hUmx9u8tYU-6ZeKFP_ckoC0lg_G07Hg-b",
+      "metadata": "TINKERBELLE GmbH, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 21.10.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "TINKERBELLE GmbH, Berlin",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-03-07",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=VFCO_rE671zdKCkMY_7uUvMzxpmvY1T6wJ6iUzoycX3YEjXXy3mK7k9r8Y889oqIRDPVZs-Ba4WY9_THWXw_oEpbXfD5MqB3pcmsMxBvbhVIb-cOhF8S127QazopadRs_3RRGjJ0wUqyz6nNFlkeT2ZdZ7VAC36dBjrt7uzzJ1kwcEhvnhXeMnyz2ramTSiHBBtogo6vPEbwMRDjiqCGy8A2YFmgJBdMT8TMhBc9AMiyHOL-",
+      "metadata": "TINKERBELLE GmbH, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 07.03.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "TINKERBELLE GmbH, Berlin",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-03-13",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=bTgfsHi-BpZf9o-7hYLoB_U0dzvbfHeHxr6H2YzIx3T2lm4RsacZFcqwPd5gpy9Q9obI4REeDouns3Vlmx55exSKXWE0XafIai5mM0XN7LI_UXelgx3BFiWDfhTbx4sV6rDmROlTzgkTkjRqtsL0pR75kqIHeqtDvbZQVXNrMLgeK6baxidLammj-mJ5gqflibiD9yLt5l7vsN0humoZfzEBdbrHy_v6rP1-t-rcYrlhnCqb",
+      "metadata": "TINKERBELLE GmbH, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 13.03.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    }
+  ],
+  "date_from": "2024-01-01",
+  "date_to": "2026-11-25",
+  "excluded_dates": [],
+  "max_publications": 30,
+  "truncated": false,
+  "coverage": {
+    "search_complete": true,
+    "more_pages": false,
+    "publication_limit_reached": false,
+    "downloads_selected": 4,
+    "downloads_succeeded": 4,
+    "download_limit_reached": false,
+    "downloads_complete": true,
+    "text_complete": true
+  },
+  "publications": [
+    {
+      "company": "tink GmbH, Berlin",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-04-29",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=pG_1myv2FOy6cu954MxOedLbITUNLfrca3OZGEj_6meoArxoKnQ43fn8WACtnMR2AXZ4ama9UzV5FrTFRr6iUrLB9w32aN9IK-2A5GxDnkp6lHJXHPP7HCght4jEWLZ7VoSXDz8ZUWist6ZUknlLAKepGseU5c_rBEjwP5xQjHp3OpUdZ7DH27JlL_NwyVYXoUlmoUlPVDx8hIniKN2qjCN8H16M47M-xuVmzs4pG6DN3Wgv",
+      "metadata": "tink GmbH, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 29.04.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 1
+    },
+    {
+      "company": "tink GmbH, Berlin",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2026-04-27",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=DhkZ6IPHuFPGP1YEh6Kv8fJPNtzXN0_xmf_cmAjaxDdUNIL7MrmeEPCPWfwfErFvbR8WmY3X4AEN8Ux8DJAYcEHn0KsU_w6B5NC26iD7HANUtnxwE5qSB3_xG7Qh_tx_ltKEeco5F_3ssBJ0Xulbf4K-jBKbFpLrbIBDeojVBOGXBrsm3jHHUwMkYL8X_fLw-KT3vUoZp_p9ZCTDlpsDd8FcyzNiB5AzUwV4tyLi7CN6tRcX",
+      "metadata": "tink GmbH, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 27.04.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 2
+    },
+    {
+      "company": "tink GmbH, Berlin",
+      "title": "Registerbekanntmachung nach dem Umwandlungsgesetz",
+      "publication_date": "2025-12-12",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=HgLRl9PLhsJChm4FoDwxqotLDmeQ0lsI8AAI6-r0cQzy-PbsnX8wETcMBl6SA2YFRFj6qztWSlcWJKgyL3RS84hFTJ8vOvZ_vHk9KsVT_E3_46_Fe-yVFs9dSPliVcOCNlsV3wEEnXY3QFyp0jHfeInx1Buk-LBBP-eHrCwylXJt9i7kQoDADFGazk-lC4KVruDQe-fNqGgOKq4vcP13gTiu2nEdVUu_zfJ_-ldiMGN09_P3",
+      "metadata": "tink GmbH, Berlin Registerbekanntmachungen Registerbekanntmachung nach dem Umwandlungsgesetz Datum: 12.12.2025 Sprache: Deutsch",
+      "source_area": "Registerbekanntmachungen",
+      "category": "bekanntmachungen",
+      "index": 3
+    },
+    {
+      "company": "tink GmbH, Berlin",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+      "publication_date": "2024-06-05",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=fVvDIyAYlLmdDZjM6V86TVz1nxjXSMur6DjuqqtK33B5Zdz9EoUmDSfX7JCvrdIYqaEianXah1YeOHSHIVrTYLhOugh6eWzAw34QPIsnHemlmh07kKYdsNQ_O42iH4g57OnGsqfrxFJFOLkLbvw0JTP7pFhrbBhQ3Zpt5n2lQwWd9LxRbkuKbVnzoKPYMzuDFrSGCaIbxwkpQ2U8zSheTVWaLmaWVrhBB1-s9AO29rjhnVBc",
+      "metadata": "tink GmbH, Berlin Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022 Datum: 05.06.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 4
+    }
+  ]
+}

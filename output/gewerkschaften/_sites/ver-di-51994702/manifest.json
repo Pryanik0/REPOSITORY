@@ -1,0 +1,670 @@
+{
+  "status": "partial",
+  "provider": "gewerkschaften",
+  "date_from": "2026-05-25",
+  "pdf_download_policy": "company_in_link_metadata_or_filename",
+  "date_to": "2026-11-25",
+  "articles": [],
+  "visited": [
+    "https://www.verdi.de/",
+    "https://www.verdi.de/suche?q=CEEZER+Software",
+    "https://www.verdi.de/suche?q=Ingentis+Softwareentwicklung",
+    "https://www.verdi.de/suche?q=Eurofiber+Netz",
+    "https://www.verdi.de/suche?q=Deutsche+Pfandbriefbank",
+    "https://www.verdi.de/suche?q=Hamburg+Commercial+Bank",
+    "https://www.verdi.de/suche?q=MSG+Systems",
+    "https://www.verdi.de/suche?q=agido",
+    "https://www.verdi.de/suche?q=N%C3%9CRNBERGER+Versicherungsgruppe",
+    "https://www.verdi.de/suche?q=Allgeier+IT+Services",
+    "https://www.verdi.de/suche?q=MAC+IT-Solutions",
+    "https://www.verdi.de/suche?q=Stadt+K%C3%B6ln",
+    "https://www.verdi.de/suche?q=otris+software+AG",
+    "https://www.verdi.de/suche?q=Deutsche+R%C3%BCck",
+    "https://www.verdi.de/suche?q=Sparkasse+Vest",
+    "https://www.verdi.de/suche?q=Kreisverwaltung+des+Westerwaldkreises",
+    "https://www.verdi.de/suche?q=Cybertrading+GmbH",
+    "https://www.verdi.de/suche?q=Berg-Energie",
+    "https://www.verdi.de/suche?q=REISSWOLF+Bayern+GmbH",
+    "https://www.verdi.de/suche?q=simpleclub",
+    "https://www.verdi.de/suche?q=CEEZER+Software+GmbH",
+    "https://www.verdi.de/suche?q=Ingentis+Softwareentwicklung+GmbH",
+    "https://www.verdi.de/suche?q=Eurofiber+Netz+GmbH",
+    "https://www.verdi.de/suche?q=Deutsche+Pfandbriefbank+AG",
+    "https://www.verdi.de/suche?q=Hamburg+Commercial+Bank+AG",
+    "https://www.verdi.de/suche?q=msg+systems+ag",
+    "https://www.verdi.de/suche?q=agido+GmbH",
+    "https://www.verdi.de/suche?q=N%C3%9CRNBERGER+Beteiligungs-AG",
+    "https://www.verdi.de/suche?q=AVENDIS+GmbH",
+    "https://www.verdi.de/suche?q=MAC+IT-Solutions+GmbH",
+    "https://www.verdi.de/hamburg/presse/pressemitteilungen/verdi-frauen-setzen-zeichen-gegen-gewalt-frauen-jeder-mensch-hat-recht-sicher-leben-0",
+    "https://www.verdi.de/presse/pressemitteilungen/tarifrunde-luftsicherheit-deutliche-entgeltsteigerungen-fuer-bundesweit-rund-25000-beschaeftigten",
+    "https://www.verdi.de/presse/pressemitteilungen/tarifverhandlungen-den-privaten-banken-arbeitgeber-spielen-zeit-beschaeftigte-gehen-ohne",
+    "https://www.verdi.de/mittleres-ruhrgebiet/startseite-mrg",
+    "https://www.verdi.de/psl-bayern/nachrichten/deutsche-post-ag-bayernweite-vl-tagung-am-1810-nuernberg-noch-6-plaetze-frei",
+    "https://www.verdi.de/gesundheit-soziales-bildung/mein-arbeitsplatz/servicegesellschaften/service-keine-sparreserve",
+    "https://www.verdi.de/potsdam/silke-mayer",
+    "https://www.verdi.de/nrw/presse/pressemitteilungen/galeria-verdi-nrw-kritisiert-filialschliessung-koeln-und-fordert-klarheit-fuer-beschaeftigte",
+    "https://www.verdi.de/politik-gesellschaft/fuer-toleranz-und-solidaritaet",
+    "https://www.verdi.de/politik-gesellschaft/bundeshaushalt-verdi-warnt-sozialabbau-und-kuerzungspolitik",
+    "https://www.verdi.de/mittleres-ruhrgebiet/unser-bezirk/bezirkskonferenz",
+    "https://www.verdi.de/ikt-nrw/themen-und-kampagnen/game-devs",
+    "https://www.verdi.de/oeffentliche-private-dienste/nachrichten/autobahn-gmbh-steht-bald-ohne-geld-da",
+    "https://www.verdi.de/arbeit-recht/mitbestimmung/drei-preise-beim-deutschen-betriebsraetepreis",
+    "https://www.verdi.de/hamburg/presse/pressemitteilungen/warnstreik-lotto-hamburg-wir-spielen-nicht-risiko",
+    "https://www.verdi.de/senioren-berlin/ortsseniorengruppen-osg",
+    "https://www.verdi.de/psl-bayern/nachrichten/betriebsraeteversammlung-aktiventreffen-am-19-oktober-2026-nuernberg",
+    "https://www.verdi.de/politik-gesellschaft/alles-was-du-zum-thema-lieferkettengesetz-wissen-musst",
+    "https://www.verdi.de/ruhr-west/unser-bezirk/bezirk-ruhr-west",
+    "https://www.verdi.de/weser-ems/startseite",
+    "https://www.verdi.de/oeffentliche-private-dienste/mein-arbeitsplatz/autobahn-gmbh/autobahn-gmbh-droht-finanzdesaster",
+    "https://www.verdi.de/psl/tarif/aenderung-im-manteltarifvertrag-deutsche-post-ag",
+    "https://www.verdi.de/bayern/presse/pressemitteilungen/streik-privaten-banken-bayern",
+    "https://www.verdi.de/gesundheit-soziales-bildung-bayern/weg-nach-nuernberg-gemeinsam-stark-gegen-soziale-kuerzungen",
+    "https://www.verdi.de/nrw/presse/pressemitteilungen/tarifrunde-private-banken-verdi-ruft-aachen-bonn-koeln-und-siegen-warnstreiks",
+    "https://www.verdi.de/mittleres-ruhrgebiet/unser-bezirk/bezirksvorstand",
+    "https://www.verdi.de/hannover-heide-weser/startseite",
+    "https://www.verdi.de/hamburg/presse/pressemitteilungen/warnstreik-krankenhausdienstleister-beschaeftigte-asklepios-service-dienstleistungen-gmbh-kaempfen",
+    "https://www.verdi.de/muensterland/unser-bezirk/ralf-berger",
+    "https://www.verdi.de/medien-bb/deutsche-welle",
+    "https://www.verdi.de/hamburg/presse/pressemitteilungen/private-banken-rekordkurs-gehaelter-sparflamme-48-stunden-warnstreik-hamburg",
+    "https://www.verdi.de/psl-bayern/nachrichten/aktiventagung-gerechtigkeit-statt-sozialabbau-am-26-september-nuernberg",
+    "https://www.verdi.de/oeffentliche-private-dienste-bayern/mein-arbeitsplatz/stadt-erlangen",
+    "https://www.verdi.de/stabilbleiben-sozialgestalten/startseite",
+    "https://www.verdi.de/sparkassen/mein-tarif/oeffentlich-rechtliche-sparkassen",
+    "https://www.verdi.de/gesundheit-soziales-bildung-hamburg/mein-arbeitsplatz/forschung/vertrauensleute-desy",
+    "https://www.verdi.de/ikt-nrw/den-unternehmen/telekom-konzern/mehrleistung-im-netzausbau-dt-technik-gmbh",
+    "https://www.verdi.de/ikt-nrw/personengruppen/jugend/bildungsreise-nach-bergen",
+    "https://www.verdi.de/psl-hamburg/fb-news/entsendeversammlung-nord-deutschen-post-ag",
+    "https://www.verdi.de/hamburg/presse/pressestelle-hamburg",
+    "https://www.verdi.de/psl-bayern/nachrichten/grosse-sozialstaatsdemo-am-26092026-nuernberg-wofuer-wir-verdi-gemeinsam-kaempfen-am-beispiel-rente",
+    "https://www.verdi.de/arbeit-recht/hitze-am-arbeitsplatz-rechte-regeln-und-was-beschaeftigte-tun-koennen",
+    "https://www.verdi.de/politik-gesellschaft/rente-deutschland",
+    "https://www.verdi.de/oeffentliche-private-dienste/mein-arbeitsplatz/bundeswehr/aufsichtsratswahl-2026-bw-bekleidungsmanagement-gmbh",
+    "https://www.verdi.de/ruhr-west/unser-bezirk/ines-berger",
+    "https://www.verdi.de/bayern/presse/pressemitteilungen/bundesweite-tarifrunde-private-banken-bayern",
+    "https://www.verdi.de/gesundheit-soziales-bildung-bayern/nachrichten/sozialabbau-nicht-uns-gemeinsam-nach-nuernberg-am-26-september",
+    "https://www.verdi.de/gesundheit-soziales-bildung/themen/kirchliches-arbeitsrecht/staat-soll-eingreifen",
+    "https://www.verdi.de/geld-tarif/tarifrunde-seehaefen-verdi-nimmt-angebot-arbeitgeber"
+  ],
+  "rejected": [
+    {
+      "url": "https://www.verdi.de/",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=CEEZER+Software",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Ingentis+Softwareentwicklung",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Eurofiber+Netz",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Deutsche+Pfandbriefbank",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Hamburg+Commercial+Bank",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=MSG+Systems",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=agido",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=N%C3%9CRNBERGER+Versicherungsgruppe",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Allgeier+IT+Services",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=MAC+IT-Solutions",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Stadt+K%C3%B6ln",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=otris+software+AG",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Deutsche+R%C3%BCck",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Sparkasse+Vest",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Kreisverwaltung+des+Westerwaldkreises",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Cybertrading+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Berg-Energie",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=REISSWOLF+Bayern+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=simpleclub",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=CEEZER+Software+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Ingentis+Softwareentwicklung+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Eurofiber+Netz+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Deutsche+Pfandbriefbank+AG",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Hamburg+Commercial+Bank+AG",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=msg+systems+ag",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=agido+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=N%C3%9CRNBERGER+Beteiligungs-AG",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=AVENDIS+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=MAC+IT-Solutions+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/hamburg/presse/pressemitteilungen/verdi-frauen-setzen-zeichen-gegen-gewalt-frauen-jeder-mensch-hat-recht-sicher-leben-0",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/presse/pressemitteilungen/tarifrunde-luftsicherheit-deutliche-entgeltsteigerungen-fuer-bundesweit-rund-25000-beschaeftigten",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/presse/pressemitteilungen/tarifverhandlungen-den-privaten-banken-arbeitgeber-spielen-zeit-beschaeftigte-gehen-ohne",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/mittleres-ruhrgebiet/startseite-mrg",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.verdi.de/psl-bayern/nachrichten/deutsche-post-ag-bayernweite-vl-tagung-am-1810-nuernberg-noch-6-plaetze-frei",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/gesundheit-soziales-bildung/mein-arbeitsplatz/servicegesellschaften/service-keine-sparreserve",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.verdi.de/potsdam/silke-mayer",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.verdi.de/nrw/presse/pressemitteilungen/galeria-verdi-nrw-kritisiert-filialschliessung-koeln-und-fordert-klarheit-fuer-beschaeftigte",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/politik-gesellschaft/fuer-toleranz-und-solidaritaet",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/politik-gesellschaft/bundeshaushalt-verdi-warnt-sozialabbau-und-kuerzungspolitik",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/mittleres-ruhrgebiet/unser-bezirk/bezirkskonferenz",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.verdi.de/ikt-nrw/themen-und-kampagnen/game-devs",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.verdi.de/oeffentliche-private-dienste/nachrichten/autobahn-gmbh-steht-bald-ohne-geld-da",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/arbeit-recht/mitbestimmung/drei-preise-beim-deutschen-betriebsraetepreis",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/hamburg/presse/pressemitteilungen/warnstreik-lotto-hamburg-wir-spielen-nicht-risiko",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/senioren-berlin/ortsseniorengruppen-osg",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.verdi.de/psl-bayern/nachrichten/betriebsraeteversammlung-aktiventreffen-am-19-oktober-2026-nuernberg",
+      "reason": "insufficient_article_text"
+    },
+    {
+      "url": "https://www.verdi.de/politik-gesellschaft/alles-was-du-zum-thema-lieferkettengesetz-wissen-musst",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/ruhr-west/unser-bezirk/bezirk-ruhr-west",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.verdi.de/weser-ems/startseite",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.verdi.de/oeffentliche-private-dienste/mein-arbeitsplatz/autobahn-gmbh/autobahn-gmbh-droht-finanzdesaster",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.verdi.de/psl/tarif/aenderung-im-manteltarifvertrag-deutsche-post-ag",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/bayern/presse/pressemitteilungen/streik-privaten-banken-bayern",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/gesundheit-soziales-bildung-bayern/weg-nach-nuernberg-gemeinsam-stark-gegen-soziale-kuerzungen",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/nrw/presse/pressemitteilungen/tarifrunde-private-banken-verdi-ruft-aachen-bonn-koeln-und-siegen-warnstreiks",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/mittleres-ruhrgebiet/unser-bezirk/bezirksvorstand",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.verdi.de/hannover-heide-weser/startseite",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.verdi.de/hamburg/presse/pressemitteilungen/warnstreik-krankenhausdienstleister-beschaeftigte-asklepios-service-dienstleistungen-gmbh-kaempfen",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/muensterland/unser-bezirk/ralf-berger",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.verdi.de/medien-bb/deutsche-welle",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.verdi.de/hamburg/presse/pressemitteilungen/private-banken-rekordkurs-gehaelter-sparflamme-48-stunden-warnstreik-hamburg",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/psl-bayern/nachrichten/aktiventagung-gerechtigkeit-statt-sozialabbau-am-26-september-nuernberg",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/oeffentliche-private-dienste-bayern/mein-arbeitsplatz/stadt-erlangen",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.verdi.de/stabilbleiben-sozialgestalten/startseite",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.verdi.de/sparkassen/mein-tarif/oeffentlich-rechtliche-sparkassen",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/gesundheit-soziales-bildung-hamburg/mein-arbeitsplatz/forschung/vertrauensleute-desy",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.verdi.de/ikt-nrw/den-unternehmen/telekom-konzern/mehrleistung-im-netzausbau-dt-technik-gmbh",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.verdi.de/ikt-nrw/personengruppen/jugend/bildungsreise-nach-bergen",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.verdi.de/psl-hamburg/fb-news/entsendeversammlung-nord-deutschen-post-ag",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/hamburg/presse/pressestelle-hamburg",
+      "reason": "insufficient_article_text"
+    },
+    {
+      "url": "https://www.verdi.de/psl-bayern/nachrichten/grosse-sozialstaatsdemo-am-26092026-nuernberg-wofuer-wir-verdi-gemeinsam-kaempfen-am-beispiel-rente",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/arbeit-recht/hitze-am-arbeitsplatz-rechte-regeln-und-was-beschaeftigte-tun-koennen",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/politik-gesellschaft/rente-deutschland",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/oeffentliche-private-dienste/mein-arbeitsplatz/bundeswehr/aufsichtsratswahl-2026-bw-bekleidungsmanagement-gmbh",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.verdi.de/ruhr-west/unser-bezirk/ines-berger",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.verdi.de/bayern/presse/pressemitteilungen/bundesweite-tarifrunde-private-banken-bayern",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/gesundheit-soziales-bildung-bayern/nachrichten/sozialabbau-nicht-uns-gemeinsam-nach-nuernberg-am-26-september",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/gesundheit-soziales-bildung/themen/kirchliches-arbeitsrecht/staat-soll-eingreifen",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.verdi.de/geld-tarif/tarifrunde-seehaefen-verdi-nimmt-angebot-arbeitgeber",
+      "reason": "not_an_article"
+    }
+  ],
+  "errors": [],
+  "truncated": true,
+  "searches": [
+    {
+      "url": "https://www.verdi.de/suche?q=CEEZER+Software",
+      "company_key": "CEEZER Software",
+      "query": "CEEZER Software",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=CEEZER+Software+GmbH",
+      "company_key": "CEEZER Software",
+      "query": "CEEZER Software GmbH",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Ingentis+Softwareentwicklung",
+      "company_key": "Ingentis Softwareentwicklung",
+      "query": "Ingentis Softwareentwicklung",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Ingentis+Softwareentwicklung+GmbH",
+      "company_key": "Ingentis Softwareentwicklung",
+      "query": "Ingentis Softwareentwicklung GmbH",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Eurofiber+Netz",
+      "company_key": "Eurofiber Netz",
+      "query": "Eurofiber Netz",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Eurofiber+Netz+GmbH",
+      "company_key": "Eurofiber Netz",
+      "query": "Eurofiber Netz GmbH",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Deutsche+Pfandbriefbank",
+      "company_key": "Deutsche Pfandbriefbank",
+      "query": "Deutsche Pfandbriefbank",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Deutsche+Pfandbriefbank+AG",
+      "company_key": "Deutsche Pfandbriefbank",
+      "query": "Deutsche Pfandbriefbank AG",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Hamburg+Commercial+Bank",
+      "company_key": "Hamburg Commercial Bank",
+      "query": "Hamburg Commercial Bank",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Hamburg+Commercial+Bank+AG",
+      "company_key": "Hamburg Commercial Bank",
+      "query": "Hamburg Commercial Bank AG",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=MSG+Systems",
+      "company_key": "MSG Systems",
+      "query": "MSG Systems",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=msg+systems+ag",
+      "company_key": "MSG Systems",
+      "query": "msg systems ag",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=agido",
+      "company_key": "agido",
+      "query": "agido",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=agido+GmbH",
+      "company_key": "agido",
+      "query": "agido GmbH",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=N%C3%9CRNBERGER+Versicherungsgruppe",
+      "company_key": "NÜRNBERGER Versicherungsgruppe",
+      "query": "NÜRNBERGER Versicherungsgruppe",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=N%C3%9CRNBERGER+Beteiligungs-AG",
+      "company_key": "NÜRNBERGER Versicherungsgruppe",
+      "query": "NÜRNBERGER Beteiligungs-AG",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Allgeier+IT+Services",
+      "company_key": "Allgeier IT Services",
+      "query": "Allgeier IT Services",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=AVENDIS+GmbH",
+      "company_key": "Allgeier IT Services",
+      "query": "AVENDIS GmbH",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=MAC+IT-Solutions",
+      "company_key": "MAC IT-Solutions",
+      "query": "MAC IT-Solutions",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=MAC+IT-Solutions+GmbH",
+      "company_key": "MAC IT-Solutions",
+      "query": "MAC IT-Solutions GmbH",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Stadt+K%C3%B6ln",
+      "company_key": "Stadt Köln",
+      "query": "Stadt Köln",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=otris+software+AG",
+      "company_key": "otris software AG",
+      "query": "otris software AG",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Deutsche+R%C3%BCck",
+      "company_key": "Deutsche Rück",
+      "query": "Deutsche Rück",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Sparkasse+Vest",
+      "company_key": "Sparkasse Vest",
+      "query": "Sparkasse Vest",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Kreisverwaltung+des+Westerwaldkreises",
+      "company_key": "Kreisverwaltung des Westerwaldkreises",
+      "query": "Kreisverwaltung des Westerwaldkreises",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Cybertrading+GmbH",
+      "company_key": "Cybertrading GmbH",
+      "query": "Cybertrading GmbH",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Berg-Energie",
+      "company_key": "Berg-Energie",
+      "query": "Berg-Energie",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=REISSWOLF+Bayern+GmbH",
+      "company_key": "REISSWOLF Bayern GmbH",
+      "query": "REISSWOLF Bayern GmbH",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=simpleclub",
+      "company_key": "simpleclub",
+      "query": "simpleclub",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    }
+  ],
+  "company_keys": [
+    "CEEZER Software",
+    "Ingentis Softwareentwicklung",
+    "Eurofiber Netz",
+    "Deutsche Pfandbriefbank",
+    "Hamburg Commercial Bank",
+    "MSG Systems",
+    "agido",
+    "NÜRNBERGER Versicherungsgruppe",
+    "Allgeier IT Services",
+    "MAC IT-Solutions",
+    "Stadt Köln",
+    "otris software AG",
+    "Deutsche Rück",
+    "Sparkasse Vest",
+    "Kreisverwaltung des Westerwaldkreises",
+    "Cybertrading GmbH",
+    "Berg-Energie",
+    "REISSWOLF Bayern GmbH",
+    "simpleclub"
+  ],
+  "search_mode": "site_search",
+  "articles_examined": 25,
+  "page_coverage": {
+    "search_pages": 29,
+    "content_pages": 50,
+    "search_page_limit": 38,
+    "content_page_limit": 50,
+    "queued_remaining": 126,
+    "queue_limit_reached": false
+  },
+  "documents": [],
+  "requests_attempted": 80,
+  "gewerkschaft": {
+    "name": "ver.di",
+    "branches": [
+      "Banken",
+      "Bildung & Wissenschaft",
+      "Branchenübergreifend",
+      "Energie & Wasser",
+      "Großhandel & Außenhandel",
+      "IT & Telekommunikation",
+      "Versicherungen",
+      "Öffentlicher Dienst",
+      "Abfallwirtschaft"
+    ],
+    "urls": [
+      "https://www.verdi.de"
+    ],
+    "news_urls": [],
+    "url_prefixes": [],
+    "query_values": {},
+    "source_note": "",
+    "source_name": "",
+    "site_search": true
+  }
+}

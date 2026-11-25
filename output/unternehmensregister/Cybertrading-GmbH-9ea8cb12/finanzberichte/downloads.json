@@ -1,0 +1,56 @@
+[
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=W1SU__Q52DxHDKZufGiv57qm2Uj05ATqob_uxQexWtlP_uP6twnMHPqjWj-BVVISprH7hHrzRVUBAWBKjXvvm9uEfm96JJF9d1jygoOc8EI5sCajvf-XI8TdYPph9iWgQOwNZdXpENZb9uV5GVmxePxV82BctD35ospiRFvIm1VbLKZRGJgP8bjXhJf3ZCRBBHe_PyAWIazzJkBNfVhTGvwSqydLM3k7bOiIpDhxkKTS-9FB",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Cybertrading-GmbH-9ea8cb12\\finanzberichte\\publication-1\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Cybertrading-GmbH-9ea8cb12\\finanzberichte\\publication-1\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Cybertrading-GmbH-9ea8cb12\\finanzberichte\\publication-1\\publication.txt",
+    "index": 1,
+    "category": "finanzberichte",
+    "company": "Cybertrading GmbH, Barleben",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+    "documents_path": "output\\unternehmensregister\\Cybertrading-GmbH-9ea8cb12\\finanzberichte\\publication-1\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=4_0bDUkatMAXKcY1TbG8sRknHhf0BIW3boRvlk5rMSGWzKrH7HbDygAy6zfdxyZZ6R2x4e1wgzbzG3vwcR1-K1ReKoXYePkfaE0B2Utf9I6n3gn4Eg1MkN0VfKhriwriiRfk08Gqr4tt1BOdkHzADCEnPEd2Vi5s7x566gNkmsMzrsypi1sjMNFQEH5qIJQBf8qDJ6qx2azN4WCO5Uf0ri0sVxt6MYngM4azGMor5GN1KT8J",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Cybertrading-GmbH-9ea8cb12\\finanzberichte\\publication-2\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Cybertrading-GmbH-9ea8cb12\\finanzberichte\\publication-2\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Cybertrading-GmbH-9ea8cb12\\finanzberichte\\publication-2\\publication.txt",
+    "index": 2,
+    "category": "finanzberichte",
+    "company": "Cybertrading GmbH, Barleben",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+    "documents_path": "output\\unternehmensregister\\Cybertrading-GmbH-9ea8cb12\\finanzberichte\\publication-2\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=noU3CKotByLCq5HjDC5u6Nc-TaOf9Td2MzbGUeamBAQVDz0RmOJSnDjU1Qa-n-2SMDZBUu29QZ1AwNaRuru1UgIKWOaTASWXfJP6PopXxFNnfv4erN7aP8x6OK_2R0BL9yyz-8nCAEn-MjynFgdgWqfYKZsZDCEV2Jz986Cm_N-I_8JfKuPWXJK_xp7UHgeB2SLb9_ca4F4QsZYgPA4kxxfxV0-z_D9hLiWMn4aGCErq-nA7",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Cybertrading-GmbH-9ea8cb12\\finanzberichte\\publication-3\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Cybertrading-GmbH-9ea8cb12\\finanzberichte\\publication-3\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Cybertrading-GmbH-9ea8cb12\\finanzberichte\\publication-3\\publication.txt",
+    "index": 3,
+    "category": "finanzberichte",
+    "company": "Cybertrading GmbH, Barleben",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+    "documents_path": "output\\unternehmensregister\\Cybertrading-GmbH-9ea8cb12\\finanzberichte\\publication-3\\documents.json"
+  }
+]

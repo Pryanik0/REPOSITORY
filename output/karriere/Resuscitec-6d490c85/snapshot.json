@@ -1,0 +1,92 @@
+{
+  "provider": "karriere",
+  "company": {
+    "key": "Resuscitec",
+    "name": "Resuscitec GmbH",
+    "location": "Freiburg im Breisgau",
+    "name_source": "company_name",
+    "urls": [
+      "https://resuscitec.de/"
+    ],
+    "kununu_url": "https://www.kununu.com/de/resuscitec1",
+    "branches": [
+      "Pharma & Medizintechnik"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "79108",
+    "street": "Engesserstraße 4a",
+    "region": "Baden-Württemberg",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:08:43.547120+00:00",
+  "status": "partial",
+  "jobs": [],
+  "pages": [
+    {
+      "url": "https://resuscitec.de/",
+      "final_url": "https://resuscitec.de/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://resuscitec.de/company/",
+      "final_url": "https://resuscitec.de/company/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://jobapplication.hrworks.de/en?companyId=oca38b3",
+      "final_url": "https://jobapplication.hrworks.de/en?companyId=oca38b3",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    }
+  ],
+  "errors": [
+    {
+      "url": "https://jobapplication.hrworks.de/en?companyId=oca38b3",
+      "reason": "no_extractable_jobs_or_career_links",
+      "error": "Keine auslesbaren Stellen; JavaScript oder manuelle Prüfung erforderlich."
+    }
+  ],
+  "excluded": [],
+  "sources": [
+    {
+      "url": "https://resuscitec.de/",
+      "linked_from": null,
+      "mechanism": "configured"
+    },
+    {
+      "url": "https://jobapplication.hrworks.de/en?companyId=oca38b3",
+      "linked_from": "https://resuscitec.de/company/",
+      "mechanism": "employer_link"
+    }
+  ],
+  "adapter_attempts": [],
+  "coverage": {
+    "scope": "configured_sites_and_linked_career_portals",
+    "complete": false,
+    "pending_pages": 0,
+    "page_limit_reached": false,
+    "job_limit_reached": false,
+    "request_limit_reached": false,
+    "pages_attempted": 3,
+    "pages_read": 3,
+    "dynamic_or_unparsed_pages": true,
+    "http": {
+      "requests_attempted": 5,
+      "allocated_requests": 380,
+      "cache_hits": 0
+    }
+  },
+  "pending_urls": [],
+  "jobs_before_keyword_filter": 0,
+  "reason": "search_incomplete"
+}

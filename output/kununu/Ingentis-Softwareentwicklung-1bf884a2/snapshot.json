@@ -1,0 +1,483 @@
+{
+  "provider": "kununu",
+  "backend": "browser",
+  "status": "ok",
+  "query": "Ingentis Softwareentwicklung GmbH",
+  "profile": {
+    "url": "https://www.kununu.com/de/ingentis-group",
+    "name": "Ingentis Group",
+    "overall_score": 4.8,
+    "review_count": 46,
+    "recommendation_percent": 100,
+    "recommendation_period": "last_2_years",
+    "observed_at": "2026-11-25T17:15:17.253110+00:00"
+  },
+  "reviews": [
+    {
+      "id": "b3daf5d0-b2cb-4a8b-ada4-de6571d64e08",
+      "url": "https://www.kununu.com/de/ingentis-group/bewertung/b3daf5d0-b2cb-4a8b-ada4-de6571d64e08",
+      "title": "Ein Arbeitgeber für den man gerne die extra Meilen geht. Stimmiges miteinander. Mitsprache auf Augenhöhe…",
+      "content": "Familiäres Zusammenarbeiten\n\nHohes Ansehen bei Kunden und Partnern sowie Mitarbeitern\n\nLeistung und Einsatz wird belohnt\n\nEiner für alle und alle für einen\n\nAugenhöhe\n\nVielfältiger geht nicht",
+      "rating": 4.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Familiäres Zusammenarbeiten",
+        "image": "Hohes Ansehen bei Kunden und Partnern sowie Mitarbeitern",
+        "career": "Leistung und Einsatz wird belohnt",
+        "teamwork": "Einer für alle und alle für einen",
+        "leadership": "Augenhöhe",
+        "tasks": "Vielfältiger geht nicht"
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 4.0,
+        "communication": 4.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-01-23T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "7b68b391-cd52-45a8-8d09-344019b23b9c",
+      "url": "https://www.kununu.com/de/ingentis-group/bewertung/7b68b391-cd52-45a8-8d09-344019b23b9c",
+      "title": "Viel versprochen, mehr gehalten",
+      "content": "Siehe oben...\n\nBitte bleibt so wie ihr seid :)\n\nHier zu arbeiten macht einfach Spaß\n\nNach außen wie nach innen stimmt's einfach.\n\nFlexible Arbeitszeiten, mobiles Arbeiten, Extraurlaub bei längerer Betriebszugehörigkeit\n\nInteressante Aufgaben, aktiv angebotene Weiterbildungen, und Leistung wird gesehen und anerkannt.\n\nBei einigen anderen Unternehmen in der IT Branche kann man sicher mehr verdienen, was dann aber manchmal eher Schmerzensgeld ist - hier stimmt das Gesamtpaket, inklusive wettbewerbsfähiger Gehälter.\n\nÜber die Website sind die letzten beiden Nachhaltigkeitsberichte einsehbar. Beispielhaft seien nur mal die Ausstattung der Parkplätze mit E-Ladestationen, das geförderte Corporate Volunteering und die vom Unternehmen nach außen wie innen vertretenen Werte genannt.\n\noffen, herzlich, hilfsbereit und alle ein bisschen durchgeknallt auf die bestmögliche Weise\n\nDas Team ist ziemlich jung, aber die Erfahrung der lebensälteren Kolleginnen und Kollegen wird wertgeschätzt und weitergegeben. Man muss nur mal auf LinkedIn schauen: Die langen Betriebszugehörigkeiten (und das in einem IT-Betrieb!) sprechen für sich.\n\nMan spürt einfach, dass auf allen Führungsebenen ein positives Menschenbild gelebt wird\n\nModerne IT-Ausstattung, ergonomische Arbeitsplätze, ausreichend Parkplätze, schöner Pausenraum... Klar gibt es auch den obligatorischen Obstkorb, Softdrinks & Wasser, zusätzlich Schokoriegel, einmal im Monat eine Massage, einen subventionierten Foodji u.v.m.\n\nTeams-Channel zur zeitnahen Bereitstellung von Infos, \"Ask us anything\"-Formate, Nahbarkeit und Ansprechbarkeit der Geschäftsführung auch darüber hinaus\n\nEs könnte sicher noch mehr Diversität in der Führungsebene geben, aber es ist spürbar dass daran gearbeitet wird!\n\nMan wird ermutigt, sich mit den Themen zu befassen, die einen interessieren. Weiterbildungsmöglichkeiten werden aktiv angeboten.",
+      "rating": 4.9,
+      "sections": {
+        "positive": "Siehe oben...",
+        "negative": null,
+        "suggestion": "Bitte bleibt so wie ihr seid :)"
+      },
+      "factor_comments": {
+        "atmosphere": "Hier zu arbeiten macht einfach Spaß",
+        "image": "Nach außen wie nach innen stimmt's einfach.",
+        "workLife": "Flexible Arbeitszeiten, mobiles Arbeiten, Extraurlaub bei längerer Betriebszugehörigkeit",
+        "career": "Interessante Aufgaben, aktiv angebotene Weiterbildungen, und Leistung wird gesehen und anerkannt.",
+        "salary": "Bei einigen anderen Unternehmen in der IT Branche kann man sicher mehr verdienen, was dann aber manchmal eher Schmerzensgeld ist - hier stimmt das Gesamtpaket, inklusive wettbewerbsfähiger Gehälter.",
+        "environment": "Über die Website sind die letzten beiden Nachhaltigkeitsberichte einsehbar. Beispielhaft seien nur mal die Ausstattung der Parkplätze mit E-Ladestationen, das geförderte Corporate Volunteering und die vom Unternehmen nach außen wie innen vertretenen Werte genannt.",
+        "teamwork": "offen, herzlich, hilfsbereit und alle ein bisschen durchgeknallt auf die bestmögliche Weise",
+        "oldColleagues": "Das Team ist ziemlich jung, aber die Erfahrung der lebensälteren Kolleginnen und Kollegen wird wertgeschätzt und weitergegeben. Man muss nur mal auf LinkedIn schauen: Die langen Betriebszugehörigkeiten (und das in einem IT-Betrieb!) sprechen für sich.",
+        "leadership": "Man spürt einfach, dass auf allen Führungsebenen ein positives Menschenbild gelebt wird",
+        "workConditions": "Moderne IT-Ausstattung, ergonomische Arbeitsplätze, ausreichend Parkplätze, schöner Pausenraum... Klar gibt es auch den obligatorischen Obstkorb, Softdrinks & Wasser, zusätzlich Schokoriegel, einmal im Monat eine Massage, einen subventionierten Foodji u.v.m.",
+        "communication": "Teams-Channel zur zeitnahen Bereitstellung von Infos, \"Ask us anything\"-Formate, Nahbarkeit und Ansprechbarkeit der Geschäftsführung auch darüber hinaus",
+        "equality": "Es könnte sicher noch mehr Diversität in der Führungsebene geben, aber es ist spürbar dass daran gearbeitet wird!",
+        "tasks": "Man wird ermutigt, sich mit den Themen zu befassen, die einen interessieren. Weiterbildungsmöglichkeiten werden aktiv angeboten."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 4.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-09-30T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "10233382-e93f-47e6-99bb-bdb75a28bf16",
+      "url": "https://www.kununu.com/de/ingentis-group/bewertung/10233382-e93f-47e6-99bb-bdb75a28bf16",
+      "title": "Wirklich sehr empfehlenswert",
+      "content": "Die Offenheit und Hilfsbereitschaft der Mitarbeiter\n\nEntspannt, zielführend und einfach angenehm\n\nFlexible Arbeitszeiten, Rücksichtnahme auf private Umstände\n\nFaire Bezahlung\n\nAlle sehr hilfsbereit und zuvorkommend\n\nDirekte und ehrliches Feedback, das einen wirklich weiterhilft\n\neinfache, schnelle und zielführende Kommunikation\n\nKeinerlei Bevorzugung\n\nWeitgefächert",
+      "rating": 5.0,
+      "sections": {
+        "positive": "Die Offenheit und Hilfsbereitschaft der Mitarbeiter",
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Entspannt, zielführend und einfach angenehm",
+        "workLife": "Flexible Arbeitszeiten, Rücksichtnahme auf private Umstände",
+        "salary": "Faire Bezahlung",
+        "teamwork": "Alle sehr hilfsbereit und zuvorkommend",
+        "leadership": "Direkte und ehrliches Feedback, das einen wirklich weiterhilft",
+        "communication": "einfache, schnelle und zielführende Kommunikation",
+        "equality": "Keinerlei Bevorzugung",
+        "tasks": "Weitgefächert"
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-01-23T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "52e0ce40-ae6b-4e44-a3cb-a174b7302c5b",
+      "url": "https://www.kununu.com/de/ingentis-group/bewertung/52e0ce40-ae6b-4e44-a3cb-a174b7302c5b",
+      "title": "Top AG",
+      "content": "",
+      "rating": 4.9,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-10-10T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "144c6281-83f9-4286-9c4a-6f052c07c1d3",
+      "url": "https://www.kununu.com/de/ingentis-group/bewertung/144c6281-83f9-4286-9c4a-6f052c07c1d3",
+      "title": "Tägliche Arbeit",
+      "content": "",
+      "rating": 3.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-10-01T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "9d3e30b2-4d6a-4629-a9e0-5b11e027d630",
+      "url": "https://www.kununu.com/de/ingentis-group/bewertung/9d3e30b2-4d6a-4629-a9e0-5b11e027d630",
+      "title": "Interessante Aufgaben und nette Kollegen",
+      "content": "",
+      "rating": 4.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-06-28T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "b3f064ef-02b3-4c14-bc71-9d83daa03a3b",
+      "url": "https://www.kununu.com/de/ingentis-group/bewertung/b3f064ef-02b3-4c14-bc71-9d83daa03a3b",
+      "title": "The working environment is absolutely good. As a working student, I am glad to be a part of Ingentis.",
+      "content": "",
+      "rating": 4.9,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-03-10T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "23b8ea99-f353-4b18-b12c-9871afcf81ac",
+      "url": "https://www.kununu.com/de/ingentis-group/bewertung/23b8ea99-f353-4b18-b12c-9871afcf81ac",
+      "title": "Top Arbeitgeber - mit Wertschätzung und Weiterentwicklungsmöglichkeiten! Es macht einfach Spass, gemeinsam zu wachsen!",
+      "content": "",
+      "rating": 5.0,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-08-29T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "bd33d2ef-7f16-403c-b8b6-822d60e66c47",
+      "url": "https://www.kununu.com/de/ingentis-group/bewertung/bd33d2ef-7f16-403c-b8b6-822d60e66c47",
+      "title": "Professionell, transparent und zukunftsorientiert.",
+      "content": "",
+      "rating": 4.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-08-26T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    }
+  ],
+  "review_limit": 15,
+  "review_period": {
+    "since": "2024-11-25T00:00:00+00:00",
+    "until": "2026-11-25T17:15:14.285530+00:00",
+    "date_field": "published_at",
+    "missing_dates": "excluded"
+  },
+  "factor_scores_aggregated": {
+    "atmosphere": {
+      "mean": 5.0,
+      "count": 3
+    },
+    "workLife": {
+      "mean": 4.67,
+      "count": 3
+    },
+    "communication": {
+      "mean": 4.67,
+      "count": 3
+    },
+    "workConditions": {
+      "mean": 5.0,
+      "count": 3
+    },
+    "leadership": {
+      "mean": 5.0,
+      "count": 3
+    },
+    "teamwork": {
+      "mean": 5.0,
+      "count": 3
+    },
+    "oldColleagues": {
+      "mean": 5.0,
+      "count": 3
+    },
+    "equality": {
+      "mean": 4.67,
+      "count": 3
+    },
+    "career": {
+      "mean": 5.0,
+      "count": 3
+    },
+    "salary": {
+      "mean": 5.0,
+      "count": 3
+    },
+    "image": {
+      "mean": 5.0,
+      "count": 3
+    },
+    "environment": {
+      "mean": 5.0,
+      "count": 3
+    },
+    "tasks": {
+      "mean": 5.0,
+      "count": 3
+    }
+  },
+  "coverage": "bounded_employee_review_sample_last_2_years_not_all_reviews",
+  "diagnostics": {
+    "pages": [
+      {
+        "page": "reviews",
+        "page_number": 1,
+        "load_more_clicks": 0,
+        "requested_url": "https://www.kununu.com/de/ingentis-group/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Ingentis-Softwareentwicklung-1bf884a2\\browser\\reviews.html",
+        "browser_step": 54,
+        "final_url": "https://www.kununu.com/de/ingentis-group/kommentare",
+        "observed_at": "2026-11-25T17:15:16.672838+00:00",
+        "http_status": 200,
+        "factor_cards_expanded": 5,
+        "reviews_collected": 3
+      },
+      {
+        "page": "reviews",
+        "page_number": 2,
+        "load_more_clicks": 1,
+        "requested_url": "https://www.kununu.com/de/ingentis-group/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Ingentis-Softwareentwicklung-1bf884a2\\browser\\reviews-2.html",
+        "browser_step": 55,
+        "final_url": "https://www.kununu.com/de/ingentis-group/kommentare",
+        "observed_at": "2026-11-25T17:15:18.614297+00:00",
+        "actions_complete": true,
+        "factor_cards_expanded": 4,
+        "reviews_collected": 3
+      },
+      {
+        "page": "reviews",
+        "page_number": 3,
+        "load_more_clicks": 2,
+        "requested_url": "https://www.kununu.com/de/ingentis-group/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Ingentis-Softwareentwicklung-1bf884a2\\browser\\reviews-3.html",
+        "browser_step": 56,
+        "final_url": "https://www.kununu.com/de/ingentis-group/kommentare",
+        "observed_at": "2026-11-25T17:15:20.562459+00:00",
+        "actions_complete": true,
+        "reviews_collected": 4
+      },
+      {
+        "page": "reviews",
+        "page_number": 4,
+        "load_more_clicks": 3,
+        "requested_url": "https://www.kununu.com/de/ingentis-group/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Ingentis-Softwareentwicklung-1bf884a2\\browser\\reviews-4.html",
+        "browser_step": 57,
+        "final_url": "https://www.kununu.com/de/ingentis-group/kommentare",
+        "observed_at": "2026-11-25T17:15:22.910392+00:00",
+        "actions_complete": true,
+        "reviews_collected": 9
+      },
+      {
+        "page": "reviews",
+        "page_number": 5,
+        "load_more_clicks": 4,
+        "requested_url": "https://www.kununu.com/de/ingentis-group/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Ingentis-Softwareentwicklung-1bf884a2\\browser\\reviews-5.html",
+        "browser_step": 58,
+        "final_url": "https://www.kununu.com/de/ingentis-group/kommentare",
+        "observed_at": "2026-11-25T17:15:25.239590+00:00",
+        "actions_complete": true,
+        "reviews_collected": 9
+      }
+    ]
+  },
+  "source_url": "https://www.kununu.com/de/ingentis-group",
+  "profile_source": "https://www.kununu.com/de/ingentis-group/kommentare",
+  "review_stop_reason": "end_of_available_reviews",
+  "factor_score_coverage": {
+    "reviews_with_scores": 3,
+    "reviews_without_scores": 6,
+    "reviews_with_all_known_scores": 3,
+    "status": "partial"
+  },
+  "request_limits": {
+    "max_browser_steps": 295,
+    "browser_steps": 58,
+    "zyte_requests": 0
+  },
+  "reason": null
+}

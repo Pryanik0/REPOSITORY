@@ -1,0 +1,778 @@
+Hermes Germany GmbH — Jahresabschluss zum Geschäftsjahr vom 01.03.2024 bis zum 28.02.2025
+Hermes Germany GmbH
+
+Hamburg
+
+Jahresabschluss zum Geschäftsjahr vom 01.03.2024 bis zum 28.02.2025
+
+Bilanz zum 28. Februar 2025
+
+Aktiva
+
+scroll
+
+	28.2.2025	28.2.2025	29.2.2024	29.2.2024
+	EUR	EUR	EUR	EUR
+A. Anlagevermögen				
+I. Immaterielle Vermögensgegenstände				
+1. Entgeltlich erworbene Software	2.626.908,00	2.626.908,00	4.108.424,00	4.108.424,00
+II. Sachanlagen				
+1. Einbauten in fremde Grundstücke	480.986,00		564.733,00	
+2. Technische Anlagen und Maschinen	101.589.731,00		104.908.703,00	
+3. Andere Anlagen, Betriebs- und Geschäftsausstattung	8.134.324,96		9.258.888,74	
+4. Fuhrpark	714.467,00		493.666,00	
+5. Geleistete Anzahlungen und Anlagen im Bau	4.961.837,62	115.881.346,58	8.033.966,94	123.259.957,68
+III. Finanzanlagen				
+1. Beteiligungen	0,00	0,00	125.000,00	125.000,00
+		118.508.254,58		127.493.381,68
+B. Umlaufvermögen				
+I. Vorräte				
+Roh-, Hilfs- und Betriebsstoffe		6.384.474,20		5.707.363,72
+II. Forderungen und sonstige Vermögensgegenstände				
+1. Forderungen aus Lieferungen und Leistungen	80.213.656,73		98.188.054,07	
+2. Forderungen gegen verbundene Unternehmen	26.670.452,83		72.995.330,01	
+3. Sonstige Vermögensgegenstände	17.605.891,92	124.490.001,48	27.255.116,38	198.438.500,46
+III. Kassenbestand und Guthaben bei Kreditinstituten		24.476.889,56		24.917.066,68
+		155.351.365,24		229.062.930,86
+C. Rechnungsabgrenzungsposten		4.180.797,61		4.631.833,20
+D. Nicht durch Eigenkapital gedeckter Fehlbetrag		249.007.502,55		22.129.474,67
+		527.047.919,98		383.317.620,41
+
+Passiva
+
+scroll
+
+	28.2.2025	29.2.2024
+	EUR	EUR
+A. Eigenkapital		
+I. Gezeichnetes Kapital	17.333.336,00	17.333.336,00
+II. Kapitalrücklage	150.938.197,04	150.938.197,04
+III. Gewinnrücklagen		
+Andere Gewinnrücklagen	2.390.747,86	2.390.747,86
+IV. Verlustvortrag	-192.791.755,57	-134.888.730,35
+V. Jahresfehlbetrag	-226.878.027,88	-57.903.025,22
+Nicht durch Eigenkapital gedeckter Fehlbetrag (vgl. Posten D. der Aktivseite)	249.007.502,55	22.129.474,67
+	0,00	0,00
+B. Rückstellungen		
+1. Rückstellungen für Pensionen	152.618.672,00	156.317.952,00
+2. Steuerrückstellungen	0,00	30.162,13
+3. Sonstige Rückstellungen	111.931.486,49	63.730.755,20
+	264.550.158,49	220.078.869,33
+C. Verbindlichkeiten		
+1. Verbindlichkeiten gegenüber Kreditinstituten	22.279.841,03	30.737.497,04
+2. Verbindlichkeiten aus Lieferungen und Leistungen	112.622.094,62	117.491.894,69
+3. Verbindlichkeiten gegenüber verbundenen Unternehmen	96.183.427,17	4.473.177,30
+4. Sonstige Verbindlichkeiten	29.287.364,52	9.041.291,99
+	260.372.727,34	161.743.861,02
+D. Rechnungsabgrenzungsposten	2.125.034,15	1.494.890,06
+	527.047.919,98	383.317.620,41
+
+Gewinn- und Verlustrechnung für das Geschäftsjahr vom 1. März 2024 bis 28. Februar 2025
+
+scroll
+
+	1.3.2024 - 28.2.2025	1.3.2024 - 28.2.2025	1.3.2023 - 29.2.2024	1.3.2023 - 29.2.2024
+	EUR	EUR	EUR	EUR
+1. Umsatzerlöse		1.629.364.894,75		1.594.872.866,01
+2. Sonstige betriebliche Erträge		32.751.995,95		107.050.648,39
+3. Materialaufwand				
+Aufwendungen für bezogene Leistungen		1.234.299.219,14		1.178.200.424,21
+4. Personalaufwand				
+a) Löhne und Gehälter	302.744.074,05		238.959.926,38	
+b) Soziale Abgaben und Aufwendungen für Altersversorgung und für Unterstützung	51.555.499,59	354.299.573,64	54.128.885,44	293.088.811,82
+5. Abschreibungen auf immaterielle Vermögensgegenstände des Anlagevermögens und Sachanlagen		20.050.730,28		21.649.368,08
+6. Sonstige betriebliche Aufwendungen		277.323.946,98		265.444.704,09
+7. Sonstige Zinsen und ähnliche Erträge		884.517,11		1.362.428,93
+8. Zinsen und ähnliche Aufwendungen		3.650.890,15		2.483.898,29
+9. Steuern vom Einkommen und vom Ertrag		29.965,13		0,00
+10. Ergebnis nach Steuern		-226.592.987,25		-57.581.263,16
+11. Sonstige Steuern		285.040,63		321.762,06
+12. Jahresfehlbetrag		-226.878.027,88		-57.903.025,22
+
+Anhang für das Geschäftsjahr vom 1. März 2024 bis 28. Februar 2025
+
+1. Allgemeine Angaben
+
+Die Hermes Germany GmbH mit Sitz in Hamburg ist beim Amtsgericht Hamburg unter der Nummer HRB 108245 im Handelsregister eingetragen.
+
+Der Jahresabschluss wurde nach den gesetzlichen Vorschriften für große Kapitalgesellschaften aufgestellt.
+
+Die Gewinn- und Verlustrechnung wurde nach dem Gesamtkostenverfahren gegliedert.
+
+Die Hermes Germany weist zum Bilanzstichtag einen nicht durch Eigenkapital gedeckten Fehlbetrag in Höhe von Mio. EUR 249 aus und ist damit bilanziell überschuldet.
+
+Aus der operativen Planung der Gesellschaft resultiert für den Prognosezeitraum ein Liquiditätsbedarf. Die Finanzierung und die Sicherstellung ausreichender Liquidität im Prognosezeitraum soll durch die Einbindung in den Cash-Pool der Mehrheitsgesellschafterin Hermes Europe GmbH erfolgen. Um die Fortführung des Unternehmens zu gewährleisten, hat die Hermes Europe GmbH auf Basis der Unternehmensplanung der Gesellschaft eine zeitlich und betragsmäßig begrenzte Patronatserklärung abgegeben. Soweit wesentlich von den der Liquiditätsplanung zugrunde liegenden Annahmen abgewichen werden sollte, kann sich der Liquiditätsbedarf verringern oder vergrößern. Die Gesellschaft ist somit von der finanziellen Unterstützung durch die Hermes Europe GmbH abhängig. Ein Fallenlassen der Gesellschaft ist nach Einschätzung der Geschäftsführung aufgrund der Bedeutung der Gesellschaft für die Otto Group, in Bezug auf die Paketzustellung zum Endkunden in Deutschland, nahezu ausgeschlossen.
+
+2. Bilanzierungs- und Bewertungsmethoden
+
+Bewertung von immateriellen Vermögensgegenständen des Anlagevermögens und Sachanlagen
+
+Die immateriellen Vermögensgegenstände des Anlagevermögens werden zu Anschaffungskosten vermindert um planmäßige Abschreibungen bewertet.
+
+Immaterielle Vermögensgegenstände des Anlagevermögens und das Sachanlagevermögen werden linear über die voraussichtliche Nutzungsdauer abgeschrieben.
+
+Entgeltlich erworbene Geschäfts- oder Firmenwerte werden planmäßig über zehn Jahre abgeschrieben.
+
+Die Abschreibung der Sachanlagen erfolgt grundsätzlich pro rata temporis unter Zugrundelegung der betriebsgewöhnlichen Nutzungsdauer. Für Zugänge bis zum 31. Dezember 2010 erfolgt die Abschreibung degressiv. Sofern sich nach der linearen Abschreibungsmethode ein höherer Abschreibungswert ergibt, wird auf diese übergegangen. Für ab dem 1. Januar 2011 vorgenommene Neuerwerbungen ist grundsätzlich eine lineare Abschreibung vorzunehmen.
+
+Zugänge geringwertiger Anlagegegenstände mit Einzelanschaffungskosten ab EUR 250,00, die aber EUR 1.000,00 nicht übersteigen und nach dem 31. Dezember 2007 angeschafft worden sind, werden im Jahr der Anschaffung und den folgenden vier Jahren jeweils mit 20 % linear abgeschrieben. Der Abgang wird im fünften Jahr unterstellt.
+
+Bewertung von Finanzanlagen
+
+Die Finanzanlagen werden zu Anschaffungskosten bzw. zu dem niedrigeren beizulegenden Wert bewertet.
+
+Vorratsvermögen
+
+Die Vorräte sind zu Anschaffungskosten oder dem niedrigeren beizulegenden Wert bewertet. Allen erkennbaren technischen Risiken sowie der Altersstruktur und den Verwertungsmöglichkeiten wird durch Wertberichtigungen angemessen Rechnung getragen.
+
+Bewertung von Forderungen und sonstigen Vermögensgegenständen
+
+Die Forderungen und die sonstigen Vermögensgegenstände sind zu Nennwerten abzüglich angemessener Wertberichtigungen angesetzt.
+
+Für Zwecke der Finanzierung hat die Gesellschaft einen Teil ihrer Forderungen aus Lieferungen und Leistungen im Rahmen eines „echten Factorings“ an eine Bank verkauft. Das Delkredererisiko in Bezug auf die Forderungen trägt die Factoringbank.
+
+Übrige Aktivposten
+
+Die übrigen Aktivposten werden zum Nennwert angesetzt.
+
+Währungsumrechnung
+
+Währungsforderungen bzw. -verbindlichkeiten sind zum Entstehungskurs oder dem niedrigeren bzw. höheren Devisenkassa-Mittelkurs zum Abschlussstichtag umgerechnet. Bei einer Restlaufzeit von einem Jahr oder weniger werden neben den unrealisierten Verlusten auch die unrealisierten Gewinne aus der Stichtagskursbewertung berücksichtigt.
+
+Bewertung von Rückstellungen
+
+Pensionsrückstellungen
+
+Die Rückstellungen für Pensionen sind mit ihrem Erfüllungsbetrag gemäß versicherungsmathematischen Grundsätzen des modifizierten Teilwertverfahrens Engbroks 1989 unter Berücksichtigung erwarteter künftiger Gehalts- und Rentenanpassungen angesetzt.
+
+Die Pensionsrückstellungen wurden mit einem Rechnungszinssatz von 1,93 % p. a. unter Verwendung der 2018 veröffentlichten „HEUBECK-RICHTTAFELN 2018 G von Klaus Heubeck“ ermittelt. Dieser Zinssatz entspricht dem durchschnittlichen Marktzinssatz der letzten zehn Jahre, der sich laufzeitadäquat auf Basis einer angenommenen Restlaufzeit von 15 Jahren ergibt. Hierbei wird der von der Deutsche Bundesbank ermittelte und bekannt gegebene Abzinsungssatz verwendet.
+
+Darüber hinaus wurde bei der Berechnung der Pensionsrückstellungen ein Gehaltstrend von 2,0 % angesetzt. Zur Berücksichtigung des Rententrends wurden gemäß § 16 BetrAVG der Verbraucherpreisindex in Höhe von 2,1 % bzw. die 1%-Anpassung zugrunde gelegt.
+
+Für alle Neueinstellungen bis zum 1. Januar 2014 wurde das Versorgungswerk „Versorgungsrichtlinie 1979“ geschlossen.
+
+Steuerrückstellungen und sonstige Rückstellungen
+
+Steuerrückstellungen und sonstige Rückstellungen werden nach vernünftiger kaufmännischer Beurteilung für ungewisse Steuer- und sonstige Verbindlichkeiten in Höhe des notwendigen Erfüllungsbetrags gebildet.
+
+Die Hermes Germany als Gesellschaft mit einem jährlichen Umsatz von mehr als 750 Millionen Euro stellt eine eigene Unternehmensgruppe für Zwecke des deutschen Mindeststeuergesetzes dar. Da die Hermes Germany jedoch nur über eine untergeordnete internationale Tätigkeit verfügt (keine Geschäftseinheiten außerhalb Deutschlands), wird die Unternehmensgruppe ab dem Wirtschaftsjahr 2024/25 und die darauffolgenden vier Wirtschaftsjahre von der Mindeststeuer befreit (vgl. § 83 MinStG). Für die Hermes Germany wird eine Mindeststeuer daher frühestens ab dem Geschäftsjahr 2029 erhoben werden. Die Hermes Germany unterliegt somit im Geschäftsjahr 2024 keiner Mindeststeuerbe- oder -entlastung.
+
+Bewertung von Verbindlichkeiten
+
+Die Verbindlichkeiten werden zum Erfüllungsbetrag bewertet.
+
+3. Erläuterungen zur Bilanz
+
+Anlagevermögen
+
+Die Entwicklung des Anlagevermögens ergibt sich aus dem beigefügten Anlagenspiegel.
+
+Die Beteiligungen im Sinne des § 271 (1) HGB setzen sich wie folgt zusammen:
+
+scroll
+
+Name und Sitz der Gesellschaft	Höhe am Kapital	Eigenkapital letzter Jahresabschluss	Ergebnis letzter Jahresabschluss
+	%	TEUR	TEUR
+LieferFactory GmbH, Berlin	100	-56	396
+
+Vorräte
+
+Die Vorräte bestehen in Höhe von TEUR 6.384 (i. Vj. TEUR 5.707) aus Ersatzteilen für die Fördertechnik.
+
+Forderungen gegen verbundene Unternehmen
+
+Die Forderungen gegen verbundene Unternehmen bestehen in Höhe von TEUR 0 (i. Vj. TEUR 66.957) gegen Gesellschafter.
+
+Die Forderungen gegen verbundene Unternehmen beinhalten Cash-Pool-Forderungen in Höhe von TEUR 0 (i. Vj. TEUR 65.590) und Forderungen aus dem laufenden Verrechnungsverkehr in Höhe von TEUR 26.670 (i. Vj. TEUR 7.405).
+
+Sonstige Vermögensgegenstände
+
+In den sonstigen Vermögensgegenständen sind Forderungen in Höhe von TEUR 2 (i. Vj. TEUR 126) mit einer Restlaufzeit von mehr als einem Jahr enthalten.
+
+Guthaben bei Kreditinstituten
+
+Von den TEUR 24.477 (i. Vj. TEUR 24.917) Guthaben bei Kreditinstituten sind TEUR 11.922 (i. Vj. TEUR 2.175) an die Factoringbank abgetretene Gelder.
+
+Pensionsrückstellungen
+
+Der Unterschiedsbetrag zwischen dem Ansatz der Rückstellungen für Altersversorgungsverpflichtungen nach Maßgabe des entsprechenden durchschnittlichen Marktzinssatzes aus den vergangenen zehn Geschäftsjahren und dem Ansatz der Rückstellungen nach Maßgabe des entsprechenden durchschnittlichen Marktzinssatzes aus den vergangenen sieben Geschäftsjahren nach § 253 Abs. 6 HGB beläuft sich auf TEUR -1.901 (i. Vj. TEUR 1.169).
+
+Sonstige Rückstellungen
+
+Die sonstigen Rückstellungen wurden überwiegend für Verpflichtungen gegenüber Mitarbeitern sowie für ausstehende Lieferantenrechnungen gebildet.
+
+Verbindlichkeiten
+
+Zu den Verbindlichkeiten wird auf den beigefügten Verbindlichkeitenspiegel verwiesen.
+
+Verbindlichkeiten gegenüber verbundenen Unternehmen
+
+Die Verbindlichkeiten gegen verbundene Unternehmen bestehen in Höhe von TEUR 93.097 (i. Vj. TEUR 66.957 Forderungen) gegenüber Gesellschaftern.
+
+Die Verbindlichkeiten gegenüber verbundenen Unternehmen beinhalten Cash-Pool-Verbindlichkeiten in Höhe von TEUR 92.353 (i. Vj. TEUR 0) und Verbindlichkeiten aus dem laufenden Verrechnungsverkehr in Höhe von TEUR 3.830 (i. Vj. TEUR 4.473).
+
+4. Erläuterungen zur Gewinn- und Verlustrechnung
+
+Umsatzerlöse
+
+Die Umsatzerlöse werden ausschließlich im geografischen Markt Deutschland erbracht und resultieren in Höhe von TEUR 529.392 (i. Vj. TEUR 570.591) aus Aufträgen von verbundenen Unternehmen sowie mit TEUR 1.082.202 (i. Vj. TEUR 1.008.624) aus Umsätzen mit Dritten. Des Weiteren beinhalten die sonstigen Umsatzerlöse Mieterträge in Höhe von TEUR 6.454 (i. Vj. TEUR 5.224) sowie sonstige Erträge insbesondere aus Leistungsverrechnungen in Höhe von TEUR 11.317 (i. Vj. TEUR 10.434).
+
+Sonstige betriebliche Erträge
+
+In den sonstigen betrieblichen Erträgen sind periodenfremde Erträge in Höhe von TEUR 8.930 (i. Vj. TEUR 8.914) enthalten. Diese resultieren im Wesentlichen aus der Auflösung von Rückstellungen. Zudem sind Erträge aus Währungsumrechnungen in Höhe von TEUR 57 (i. Vj. TEUR 787) enthalten.
+
+Materialaufwand
+
+Die Aufwendungen für bezogene Leistungen enthalten im Wesentlichen die Transport- und sonstigen Versandleistungen durch verbundene Unternehmen in Höhe von TEUR 23.330 (i. Vj. TEUR 15.866) sowie durch Dritte in Höhe von TEUR 1.210.970 (i. Vj. TEUR 1.162.335).
+
+Personalaufwand
+
+Der Personalaufwand enthält Aufwendungen von außergewöhnlicher Größenordnung und Bedeutung aus Restrukturierung in Höhe von TEUR 53.300 (i. Vj. TEUR 0).
+
+Aufwendungen für Altersversorgung
+
+Der Personalaufwand enthält Aufwendungen für Altersversorgung in Höhe von TEUR 723 (i. Vj. TEUR 5.302).
+
+Sonstige betriebliche Aufwendungen
+
+In den sonstigen betrieblichen Aufwendungen sind Aufwendungen aus Währungsumrechnungen in Höhe von TEUR 93 (i. Vj. TEUR 604) enthalten. In den sonstigen betrieblichen Aufwendungen sind periodenfremde Aufwendungen in Höhe von TEUR 263 (i. Vj. TEUR 104) enthalten.
+
+Zinserträge und Zinsaufwendungen
+
+Die sonstigen Zinsen und ähnlichen Erträge enthalten Zinsen aus verbundenen Unternehmen in Höhe von TEUR 63 (i. Vj. TEUR 926).
+
+In den Zinsen und ähnlichen Aufwendungen sind Zinsen aus der Aufzinsung von Rückstellungen in Höhe von TEUR 35 (i. Vj. TEUR 1.617) enthalten. In den Zinsen und ähnlichen Aufwendungen sind Zinsen in Höhe von TEUR 2.979 (i. Vj. TEUR 35) an verbundene Unternehmen enthalten.
+
+Steuern vom Einkommen und vom Ertrag
+
+Die Steuern vom Einkommen und vom Ertrag enthalten keine Aufwendungen für das Geschäftsjahr, sondern lediglich Erträge für das vorherige Geschäftsjahr in Höhe von TEUR 30 (i. Vj. TEUR 0).
+
+5. Sonstige Angaben
+
+Sonstige finanzielle Verpflichtungen
+
+Der Gesamtbetrag der sonstigen finanziellen Verpflichtungen aus Miet- und Leasingverträgen und sonstigen Verträgen beträgt TEUR 251.144 (i. Vj. TEUR 299.685) und stellt sich wie folgt dar:
+
+scroll
+
+	Davon mit einer Restlaufzeit	Davon mit einer Restlaufzeit	Davon mit einer Restlaufzeit	
+	von bis zu einem Jahr	von einem bis zu fünf Jahren	von mehr als fünf Jahren	Insgesamt
+	TEUR	TEUR	TEUR	TEUR
+Verpflichtungen aus				
+Raummietverträgen	45.128	133.450	49.701	228.279
+Kfz-Leasing	5.855	6.357	0	12.212
+Sonstiges	9.066	1.587	0	10.653
+	60.049	141.394	49.701	251.144
+
+Von den Verpflichtungen bestehen TEUR 5.177 (i. Vj. TEUR 9.884) gegenüber verbundenen Unternehmen.
+
+Arbeitnehmer
+
+Die durchschnittliche Anzahl der während des Geschäftsjahres beschäftigten Arbeitnehmer (umgerechnet auf Vollzeit) betrug 5.156 Mitarbeiter. Darin enthalten sind 2.490 Teilzeitkräfte, die in 1.471 Vollzeitmitarbeiter umgerechnet wurden:
+
+scroll
+
+	2024/25	2023/24
+Kaufmännische Angestellte	1.881	2.050
+Gewerbliche Mitarbeiter	3.275	3.132
+	5.156	5.182
+
+Geschäftsführer
+
+―
+
+Dennis Kollmann, Hamburg
+
+(Kaufmann)
+
+(seit dem 01. Oktober 2024 Vorsitzender der Geschäftsführung)
+
+―
+
+Olaf Schabirosky, Hamburg
+
+(Kaufmann)
+
+(bis zum 30. September 2024 Vorsitzender der Geschäftsführung)
+
+―
+
+Marco Schlüter, Hamburg
+
+(Kaufmann)
+
+―
+
+Alexander Bortel, Hamburg
+
+(Kaufmann)
+
+Gesellschafterausschuss
+
+scroll
+
+- Kay Schiebur, Köln	
+(Geschäftsführer Otto GmbH & Co. KGaA)	
+(Vorsitzender)	
+- Dr. Marcus Ackermann, Hamburg	
+(Geschäftsführer Otto GmbH & Co. KGaA)	
+- Alexander Birken, Hamburg	(bis zum 28. Februar 2025)
+(Geschäftsführer Otto GmbH & Co. KGaA)	
+- Kai Havekost, Hamburg	
+(Vice President Corporate Finance Otto GmbH & Co. KGaA)	
+- Nicholas Rose, London	
+(Managing Partner at Osprey Investors)	
+
+Aufsichtsrat
+
+scroll
+
+- Kay Schiebur, Köln	
+(Geschäftsführer Otto GmbH & Co. KGaA)	
+(Vorsitzender)	
+- Dr. Marcus Ackermann, Hamburg	
+(Geschäftsführer Otto GmbH & Co. KGaA)	
+- Alexander Birken, Hamburg	(bis zum 28. Februar 2025)
+(Geschäftsführer Otto GmbH & Co. KGaA)	
+- Katy Roewer, Hamburg	(ab dem 01. März 2025)
+(Geschäftsführer Otto GmbH & Co. KGaA)	
+- Dr. Nelly Gerig, Hamburg	
+(Bereichsleiterin Otto GmbH & Co. KGaA)	
+- Hans-Hermann Lotter, Como, Italien	
+(Selbständiger Berater)	
+- Ranjan Sen, Frankfurt am Main	
+(Managing Director Advent International)	
+- Torsten Zickerick, Moltzow	
+(stv. Vorsitzender Gewerblicher Arbeitnehmer)	
+- Amely Bradke, Breitenbach a.H.	
+(Angestellte)	
+- Michael Jacobs, Hamburg	
+(Angestellter)	
+- Lars-Uwe Rieck, Grinau	
+(Gewerkschaftssekretär)	
+- Silvia Reichert, Bad Schwartau	
+(Gewerkschafssekretärin)	
+- Nicola Perl, Hamburg	
+(Prokurist)	
+
+Angabe von Bezügen
+
+Die Geschäftsführer erhielten für die Wahrnehmung ihrer Aufgaben bei der Hermes Germany GmbH sowie ihrer Tochterunternehmen im Geschäftsjahr Gehälter von TEUR 877 (i. Vj. TEUR 978) und Prämien von TEUR 942 (i. Vj. TEUR 462).
+
+Die Pensionsverpflichtungen gegenüber Mitgliedern der Geschäftsführung belaufen sich auf TEUR 792 (i. Vj. TEUR 2.298). Die ergebniswirksamen Zuführungen zu Pensionsrückstellungen betragen TEUR 76.
+
+Bezüge früherer Mitglieder der Geschäftsführung und ihrer Hinterbliebenen belaufen sich auf TEUR 0. Für die Pensionsverpflichtungen gegenüber früheren Mitgliedern der Geschäftsführung und deren Hinterbliebenen sind TEUR 1.131 (i. Vj. TEUR 1.246) zurückgestellt. Die ergebniswirksamen Auflösungen zu den Pensionsrückstellungen betragen TEUR 115.
+
+Der Aufsichtsrat erhielt für seine Tätigkeiten bei der Hermes Germany eine Aufsichtsratsvergütung in Höhe von TEUR 72 (i. Vj. TEUR 65).
+
+Konzernklausel
+
+Die Hermes Germany ist von der Verpflichtung zur Aufstellung eines Konzernabschlusses zum 28. Februar 2025 befreit, da sie nur Tochterunternehmen hat, die gemäß § 296 HGB nicht in den Konzernabschluss einbezogen werden brauchen. Die Tochterunternehmen sind für die Verpflichtung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage des Konzerns zu vermitteln, von untergeordneter Bedeutung.
+
+Nach den Regelungen des § 271 Abs. 2 HGB sowie des § 290 Abs. 2 Nr. 1 HGB werden die Otto GmbH & Co. KGaA und mit dieser verbundene Unternehmen für Zwecke des vorliegenden Jahresabschlusses weiterhin als verbundene Unternehmen behandelt.
+
+Gesamthonorar des Abschlussprüfers
+
+Das im Geschäftsjahr 2024 erfasste Gesamthonorar des Abschlussprüfers beträgt für die Abschlussprüfungsleistungen TEUR 129 (i. Vj. TEUR 189) und für andere Bestätigungsleistungen TEUR 51 (i. Vj. TEUR 83).
+
+Ergebnisverwendungsvorschlag
+
+Die Geschäftsführung schlägt der Gesellschafterversammlung vor, den Jahresfehlbetrag in Höhe von EUR 226.878.027,88 auf neue Rechnung vorzutragen.
+
+Hamburg, den 22. April 2025
+
+Dennis Kollmann
+
+Marco Schlüter
+
+Alexander Bortel
+
+Entwicklung des Anlagevermögens im Geschäftsjahr vom 1. März 2024 bis 28. Februar 2025 (erweiterte Bruttodarstellung)
+
+scroll
+
+	Anschaffungskosten	Anschaffungskosten	Anschaffungskosten	Anschaffungskosten	Anschaffungskosten
+	1.3.2024	Zugänge	Umbuchungen	Abgänge	28.2.2025
+	EUR	EUR	EUR	EUR	EUR
+I. Immaterielle Vermögensgegenstände					
+1. Entgeltlich erworbene Software	39.868.779,68	83.589,83	0,00	38.089,15	39.914.280,36
+	39.868.779,68	83.589,83	0,00	38.089,15	39.914.280,36
+II. Sachanlagen					
+1. Einbauten in fremde Grundstücke	3.052.494,86	4.456,01	0,00	3.965,00	3.052.985,87
+2. Technische Anlagen und Maschinen	236.071.329,37	4.166.666,16	6.075.863,49	548.789,79	245.765.069,23
+3. Andere Anlagen, Betriebs- und Geschäftsausstattung	53.134.215,39	3.612.922,54	34.868,47	5.726.772,65	51.055.233,75
+4. Fuhrpark	1.243.465,24	315.120,00	0,00	0,00	1.558.585,24
+5. Geleistete Anzahlungen und Anlagen im Bau	8.033.966,94	3.038.602,64	-6.110.731,96	0,00	4.961.837,62
+	301.535.471,80	11.137.767,35	0,00	6.279.527,44	306.393.711,71
+III. Finanzanlagen					
+1. Anteile an verbundenen Unternehmen	45.267.317,76	0,00	0,00	0,00	45.267.317,76
+2. Beteiligungen	125.000,00	0,00	0,00	125.000,00	0,00
+	45.392.317,76	0,00	0,00	125.000,00	45.267.317,76
+	386.796.569,24	11.221.357,18	0,00	6.442.616,59	391.575.309,83
+
+scroll
+
+	Kumulierte Abschreibungen	Kumulierte Abschreibungen	Kumulierte Abschreibungen	Kumulierte Abschreibungen
+	1.3.2024	Abschreibungen des Geschäftsjahres	Abgänge	28.2.2025
+	EUR	EUR	EUR	EUR
+I. Immaterielle Vermögensgegenstände				
+1. Entgeltlich erworbene Software	35.760.355,68	1.565.105,83	38.089,15	37.287.372,36
+	35.760.355,68	1.565.105,83	38.089,15	37.287.372,36
+II. Sachanlagen				
+1. Einbauten in fremde Grundstücke	2.487.761,86	88.203,01	3.965,00	2.571.999,87
+2. Technische Anlagen und Maschinen	131.162.626,37	13.533.560,65	520.848,79	144.175.338,23
+3. Andere Anlagen, Betriebs- und Geschäftsausstattung	43.875.326,65	4.769.541,79	5.723.959,65	42.920.908,79
+4. Fuhrpark	749.799,24	94.319,00	0,00	844.118,24
+5. Geleistete Anzahlungen und Anlagen im Bau	0,00	0,00	0,00	0,00
+	178.275.514,12	18.485.624,45	6.248.773,44	190.512.365,13
+III. Finanzanlagen				
+1. Anteile an verbundenen Unternehmen	45.267.317,76	0,00	0,00	45.267.317,76
+2. Beteiligungen	0,00	0,00	0,00	0,00
+	45.267.317,76	0,00	0,00	45.267.317,76
+	259.303.187,56	20.050.730,28	6.286.862,59	273.067.055,25
+
+scroll
+
+	Buchwerte	Buchwerte
+	28.2.2025	29.2.2024
+	EUR	EUR
+I. Immaterielle Vermögensgegenstände		
+1. Entgeltlich erworbene Software	2.626.908,00	4.108.424,00
+	2.626.908,00	4.108.424,00
+II. Sachanlagen		
+1. Einbauten in fremde Grundstücke	480.986,00	564.733,00
+2. Technische Anlagen und Maschinen	101.589.731,00	104.908.703,00
+3. Andere Anlagen, Betriebs- und Geschäftsausstattung	8.134.324,96	9.258.888,74
+4. Fuhrpark	714.467,00	493.666,00
+5. Geleistete Anzahlungen und Anlagen im Bau	4.961.837,62	8.033.966,94
+	115.881.346,58	123.259.957,68
+III. Finanzanlagen		
+1. Anteile an verbundenen Unternehmen	0,00	0,00
+2. Beteiligungen	0,00	125.000,00
+	0,00	125.000,00
+	118.508.254,58	127.493.381,68
+
+Verbindlichkeitenspiegel zum 28. Februar 2025
+
+scroll
+
+Art der Verbindlichkeit	Restlaufzeit bis zu einem Jahr	Restlaufzeit von einem bis zu fünf Jahren	Restlaufzeit über fünf Jahre	Gesamtbetrag 28.2.2025
+	EUR	EUR	EUR	EUR
+1. Verbindlichkeiten gegenüber Kreditinstituten	8.500.466,03	13.779.375,00	0,00	22.279.841,03
+Vorjahr	8.525.622,04	22.211.875,00	0,00	30.737.497,04
+2. Verbindlichkeiten aus Lieferungen und Leistungen	112.622.094,62	0,00	0,00	112.622.094,62
+Vorjahr	117.491.894,69	0,00	0,00	117.491.894,69
+3. Verbindlichkeiten gegenüber verbundenen Unternehmen	96.183.427,17	0,00	0,00	96.183.427,17
+Vorjahr	4.473.177,30	0,00	0,00	4.473.177,30
+4. Sonstige Verbindlichkeiten	29.287.364,52	0,00	0,00	29.287.364,52
+Vorjahr	9.041.291,99	0,00	0,00	9.041.291,99
+- davon aus Steuern EUR 1.882.923,84 (i. Vj. EUR 2.670.249,52) -				
+Gesamtsumme	246.593.352,34	13.779.375,00	0,00	260.372.727,34
+Vorjahr	139.531.986,02	22.211.875,00	0,00	161.743.861,02
+
+scroll
+
+Art der Verbindlichkeit	Davon durch Pfandrechte und ähnliche Rechte gesichert	Art der Sicherheit
+	EUR	
+1. Verbindlichkeiten gegenüber Kreditinstituten	22.279.841,03	Sicherungsübereignung Förder- und
+Vorjahr	30.737.497,04	Sortieranlagen Logistikzentren Etzin, Mainz und Graben
+2. Verbindlichkeiten aus Lieferungen und Leistungen	0,00	
+Vorjahr	0,00	
+3. Verbindlichkeiten gegenüber verbundenen Unternehmen	0,00	
+Vorjahr	0,00	
+4. Sonstige Verbindlichkeiten	0,00	
+Vorjahr	0,00	
+- davon aus Steuern EUR 1.882.923,84 (i. Vj. EUR 2.670.249,52) -		
+Gesamtsumme	22.279.841,03	
+Vorjahr	30.737.497,04	
+
+LAGEBERICHT Hermes Germany GmbH zum 28. Februar 2025
+
+VORWORT UND GRUNDLAGEN DES UNTERNEHMENS
+
+Die Hermes Germany mit Sitz in Hamburg erbringt Dienstleistungen aller Art für Industrie, Handel und Verbraucher sowie alle damit zusammenhängenden Geschäfte, insbesondere die Übernahme der Paketzustellungen, der Beförderung von Werbe- und Warensendungen sowie sonstiger Kundenserviceleistungen. Der Paketversand wird deutschlandweit über rund 260 eigene und Partner-Standorte sowie rund 17.000 Paketshops abgewickelt. Die Gesellschaft beschäftigte im Geschäftsjahr vom 1. März 2024 bis 28. Februar 2025 durchschnittlich 5.156 Mitarbeiter*innen (umgerechnet auf Vollzeit) und erzielte einen Umsatz von 1.629 Mio. EUR. Auftraggeber der Hermes Germany sind insbesondere E-Commerce- und Multi-Channel-Händler. Der Fokus der Hermes Germany liegt auf der Paketzustellung zum Endkunden in Deutschland.
+
+Hermes Germany hält zum 28. Februar 2025 eine Beteiligung an der LieferFactory GmbH, deren operative Geschäftstätigkeit allerdings eingestellt ist. Die Hermes Germany deckt weiterhin alle wesentlichen Leistungsangebote ab.
+
+Die herausfordernde Markt- und Geschäftsentwicklung des Vorjahres hat sich auch im Geschäftsjahr vom 1. März 2024 bis 28. Februar 2025 fortgesetzt. In einem schwierigen Konsumumfeld behauptete die Hermes Germany dabei jedoch erneut seine Position als einer der führenden Paketdienstleister in Deutschland, einem der zentralen Kurier-, Express- und Paketsendungen-Märkte in Europa.
+
+Das Geschäftsjahr wurde durch eine allgemeine, deutliche und andauernde Konsumschwächephase geprägt. Die Belastungen auf das Geschäftsmodell der Hermes Germany wurden durch hohe Faktorkostensteigerungen, sowohl im Sach- als auch im Personalkostenbereich, verstärkt. Ungeachtet dessen hat sich die Hermes Germany auch in dieser durch externe Einflüsse belasteten Zeit weiterhin als leistungsfähiger und krisenfester Logistikdienstleister profiliert, der zuverlässig für seine Geschäftspartner Paketsendungen an Endkunden in Deutschland zustellt und verantwortungsvoll mit seinen Transportdienstleistern und Lieferanten zusammenarbeitet.
+
+Überzeugt von der dauerhaften Attraktivität des E-Commerce wurde das abgelaufene Geschäftsjahr dafür genutzt, die Investitionen in ein leistungsstarkes Netzwerk an Logistikstandorten gegenüber dem Vorjahr zu steigern, wodurch Hermes Germany auch in Zukunft hohe Sendungsmengen mit verlässlich hoher Zustellqualität erfolgreich abwickeln kann. Auch der zentralen Bedeutung der Digitalisierung wurde weiterhin Rechnung getragen. Steigende Investitionen in Technologie, in neue kundennahe Services sowie in alternative Zustellkonzepte ermöglichen den flexiblen und bequemen Paketempfang der Endkunden.
+
+Darüber hinaus ist Klimaschutz bei Hermes Germany als Unternehmensziel verankert. Es wird das Ziel angestrebt, bis Ende 2025 die 80 größten Innenstädte in Deutschland emissionsfrei mit E-Transportern und Lastenrädern zu beliefern. Die schrittweise Umstellung der Innenstädte wurde im abgelaufenen Geschäftsjahr vorangetrieben und wird auch im kommenden Geschäftsjahr weiter ausgebaut.
+
+RAHMENBEDINGUNGEN UND GESCHÄFTSVERLAUF
+
+Gesamtwirtschaftliches Umfeld
+
+Das gesamtwirtschaftliche Umfeld ist einer der zentralen Einflussfaktoren auf die Entwicklung insbesondere des Güterverkehrs.
+
+Wie im Vorjahr war das gesamtwirtschaftliche Umfeld in Deutschland auch im Jahr 2024 von einigen Herausforderungen geprägt. Gemäß den Veröffentlichungen des statistischen Bundesamtes ist das preisbereinigte Bruttoinlandsprodukt (BIP) im Vergleich zum Vorjahr um 0,2 % gesunken. Dies war das zweite Jahr in Folge mit einem Rückgang der Wirtschaftsleistung. Trotz schwächerer Inflation und Lohnerhöhungen konsumierten die privaten Haushalte im Jahr 2024 ähnlich viel wie im Vorjahr. Gemäß statistischem Bundesamt war die Konsumzurückhaltung auch auf Unsicherheiten über die wirtschaftliche Entwicklung zurückzuführen. Preisbereinigt stieg der private Konsum lediglich um 0,3 % im Vergleich zum Vorjahr.
+
+Branchenspezifisches Umfeld
+
+Das Branchenumfeld war auch im abgelaufenen Geschäftsjahr durch die schwierigen wirtschaftlichen Rahmenbedingungen geprägt. Der Bundesverband Paket und Expresslogistik stellt fest, dass der Rückgang des Bruttoinlandsproduktes, die Preissteigerungen in allen Bereichen, aber auch die Unsicherheit über die weiteren wirtschaftlichen und politischen Entwicklungen auf nationaler und internationaler Ebene den Kurier-, Express- und Paketsendungen-Markt weiterhin beeinflussen. Im Weihnachtsgeschäft 2024 (November und Dezember) transportierten die Paketdienste 740 Mio. Kurier-, Express- und Paketsendungen. Das entspricht einem Plus von 15 Mio. Sendungen im Vergleich zum Weihnachtsgeschäft des Vorjahres und übertrifft die Prognose, die der Bundesverband zu Beginn des Weihnachtsgeschäftes veröffentlicht hat, um 5 Mio. Sendungen.
+
+Insgesamt konnten die Umsätze im Onlinehandel trotz der Konsumzurückhaltung in einem schwachen wirtschaftlichen Umfeld ein reales Wachstum von 2,5% verzeichnen, wie der Handelsverband Deutschland in seiner Jahres-Pressekonferenz 2025 feststellt. Für das Jahr 2025 wird ein vergleichbares Wachstum erwartet.
+
+Trotz moderaten Wachstumsaussichten im E- Commerce steht die Branche wie im Vorjahr insgesamt unter einem erheblichen Preis- und Kostendruck. Die Entwicklungen der Lohn- und der Kraftstoffkosten haben weiterhin einen spürbaren Einfluss auf die deutsche Transport- und Logistikbranche.
+
+Vor diesem Hintergrund gilt es weiterhin, neue und nachhaltige Lösungsansätze zu konzipieren, um den sich verändernden Kundenanforderungen und den Herausforderungen der verkehrlichen Situation gerecht zu werden.
+
+LAGE DER GESELLSCHAFT
+
+Vermögenslage
+
+Die Bilanzsumme der Gesellschaft erhöhte sich im Geschäftsjahr 2024/2025 um rund 143,7 Mio. EUR (+37,5%) auf 527,0 Mio. EUR (Vorjahr: 383,3 Mio. EUR). Dies war wesentlich beeinflusst durch den um +226,9 Mio. EUR auf 249,0 Mio. EUR gestiegenen nicht durch Eigenkapital gedeckten Fehlbetrag. Gegenläufig entwickelten sich zum einen die Forderungen gegen verbundene Unternehmen, die im abgelaufenen Geschäftsjahr um -46,3 Mio. EUR auf 26,7 Mio. EUR gesunken sind. Diese Entwicklung war zum einem auf die Verringerung der Cash-Pool-Forderungen um -65,6 Mio. EUR und zum anderen den Anstieg der Forderungen gegenüber der Otto Group Logistics GmbH (+20,2 Mio. EUR) zurückzuführen. Einen weiteren wesentlichen Einfluss auf die Entwicklung der Bilanzsumme hatte mit -18,0 Mio. EUR die Verringerung der Forderungen aus Lieferungen und Leistungen im Vergleich zum Vorjahr, die zum Bilanzstichtag 80,2 Mio. EUR betragen.
+
+Wesentliche Effekte auf der Passivseite ergaben sich aus der aufgrund der Verschlechterung der Finanzlage um +92,4 Mio. EUR (Vorjahr: 0 EUR) gestiegenen Cash-Pool-Verbindlichkeiten und dem Anstieg der sonstigen Rückstellungen (+48,2 Mio. EUR auf 111,9 Mio. EUR). Der Anstieg der sonstigen Rückstellungen ist mit +53,2 Mio. EUR auf die Bildung von Restrukturierungsrückstellungen zurückzuführen. Aufgrund der Tilgung von Krediten verringerten sich die Verbindlichkeiten gegenüber Kreditinstituten um -8,5 Mio. EUR auf 22,3 Mio. EUR. Durch hohe Kundenzahlungen am letzten Werktag des Geschäftsjahres auf das, an die Factoringbank abgetretene Bankkonto, sowie eine Umgliederung aus den Verbindlichkeiten aus Lieferung und Leistung bezüglich Zoll, stiegen die sonstigen Verbindlichkeiten um 21,2 Mio. EUR.
+
+Zum 28. Februar 2025 weist die Gesellschaft in ihrer Bilanz einen nicht durch Eigenkapital gedeckten Fehlbetrag in Höhe von 249,0 Mio. EUR aus und ist damit bilanziell überschuldet. Die Hermes Europe GmbH (Hermes Europe) hat eine zeitlich und betragsmäßig begrenzte Patronatserklärung abgegeben.
+
+Finanzlage
+
+Am Bilanzstichtag ergaben sich Cash-Pool-Verbindlichkeiten in Höhe von 92,4 Mio. EUR (Vorjahr: Cash-Pool-Forderung in Höhe von 65,6 Mio. EUR). Das Barvermögen (Kassenbestand und Guthaben bei Kreditinstituten) betrug zum Geschäftsjahresende 24,5 Mio. EUR (Vorjahr: 24,9 Mio. EUR). Davon sind 11,9 Mio. EUR (Vorjahr 2,2 Mio. EUR) an die Factoringbank abgetretene Gelder.
+
+Insgesamt ergaben sich Ausgaben für Investitionen in Höhe von -11,2 Mio. EUR, die im Wesentlichen Technische Anlagen und Betriebs- und Geschäftsausstattung betrafen.
+
+Die Finanzierung und die Sicherstellung ausreichender Liquidität ist weiterhin durch die Einbindung in den Cash-Pool der Hermes Europe sichergestellt. Die Hermes Europe hat eine zeitlich und betragsmäßig begrenzte Patronatserklärung abgegeben.
+
+Die Gesellschaft konnte zu jeder Zeit ihren Zahlungsverpflichtungen nachkommen und wird den Verpflichtungen auch zukünftig nachkommen können.
+
+Ertragslage
+
+Im abgeschlossenen Geschäftsjahr sind die Umsatzerlöse von 1.594,9 Mio. EUR auf 1.629,4 Mio. EUR im Vergleich zum Vorjahr gestiegen (+2,2 Prozent). Bereinigt um die im Vorjahr enthaltenen Umsätze aus dem veräußerten Geschäftsbereich Supply Chain Solutions stiegen die Umsätze um 10,2 Prozent. Die Betriebsleistung betrug im Geschäftsjahr 1.662,1 Mio. EUR (Vorjahr: 1.702,3 Mio. EUR) und setzte sich aus Umsatzerlösen (1.629,4 Mio. EUR; Vorjahr: 1.594,9 Mio. EUR) und sonstigen betrieblichen Erträgen (32,8 Mio. EUR; Vorjahr: 107,4 Mio. EUR) zusammen. Im Vorjahr war der starke Anstieg der sonstigen betrieblichen Erträge auf den Verkauf des Geschäftsbereichs Supply Chain Solutions zurückzuführen (75,9 Mio. EUR).
+
+Wie in den Vorjahren entfiel ein wesentlicher Kostenanteil der Hermes Germany auf bezogene Leistungen, insbesondere von General- und Transportunternehmern, die sich mit 1.234,3 Mio. EUR im Geschäftsjahr (Vorjahr: 1.178,2 Mio. EUR) weiterhin auf hohem Niveau befanden.
+
+Besonders belastet wurde das Ergebnis durch den Anstieg des Personalaufwandes, der im Vergleich zum Vorjahr um 61,2 Mio. EUR auf 354,3 Mio. EUR gestiegen ist und insgesamt 21,3 Prozent der Betriebsleistung (Vorjahr: 17,2 Prozent) ausmachte. Ausschlaggebend dafür war mit 53,3 Mio. EUR die Aufwendungen aus der Bildung der Rückstellungen für Personalmaßnahmen im Zusammenhang mit dem Restrukturierungsprogramm.
+
+Weitere Ergebnisbelastungen resultieren im abgelaufenen Geschäftsjahr aus dem Anstieg der sonstigen betrieblichen Aufwendungen (+11,9 Mio. EUR).
+
+Bereinigt um den positiven Sondereffekt aus dem Abgang des Geschäftsbereichs Supply Chain Solutions im Vorjahr (+75,9 Mio. EUR), ergaben sich im abgelaufenen Geschäftsjahr wesentliche EBIT- Effekte aus den Restrukturierungsaufwendungen (inklusive Beratungskosten), die das Ergebnis mit 59,2 Mio. EUR belasteten. Das Betriebsergebnis (EBIT) sank von -56,5 Mio. € im Vorjahr auf -223,9 Mio. €.
+
+Im abgelaufenen Geschäftsjahr belastete das Finanzergebnis das Ergebnis mit -2,8 Mio. EUR aufgrund der Erhöhung des Cash-Pool-Darlehens wesentlich höher als im Vorjahr (-1,1 Mio. EUR) und setze sich aus Zinsen und ähnlichen Aufwendungen in Höhe von -3,7 Mio. EUR (Vorjahr: -2,5 Mio. EUR) und Zinsen und ähnlichen Erträgen in Höhe von 0,9 Mio. EUR (Vorjahr: 1,4 Mio. EUR) zusammen.
+
+Der Jahresfehlbetrag von -226,9 Mio. EUR (Vorjahr: -57,9 Mio. EUR) hat in voller Höhe das Eigenkapital der Hermes Germany belastet.
+
+Gesamtaussage zur wirtschaftlichen Lage
+
+Im Geschäftsjahr 2023/2024 erwartete die Geschäftsführung aus der Unternehmensplanung heraus für das Berichtsjahr bis zum 28.02.2025 ein Umsatzwachstum von ca. 10 Prozent, bereinigt um den Abgang des Geschäftsbereich Supply Chain Solutions; die EBIT-Erwartung lag für das Berichtsjahr in etwa auf dem bereinigten Vorjahresniveau. Das geplante Umsatzwachstum konnte erreicht werden, jedoch wurde das geplante Betriebsergebnis (EBIT) aufgrund der herausfordernden Rahmenbedingungen im Geschäftsjahr vom 01.03.2024 bis 28.02.2025 verfehlt. Die Vermögens-, Finanz- und Ertragslage spiegelt die aktuellen Herausforderungen des Geschäftsbetriebs wider. Vor dem Hintergrund der bestehenden Patronatserklärung der Hermes Europe GmbH sowie eines leistungsstarken Netzwerks an Logistikstandorten, enger partnerschaftlicher Zusammenarbeit mit Auftraggebern und Dienstleistern und guter Marktstellung erachtet die Geschäftsführung die Lage in der Gesamtbetrachtung als zufriedenstellend.
+
+CHANCEN- UND RISIKOBERICHT
+
+Die Steuerung von Chancen und Risiken ist integraler Bestandteil der Unternehmensaktivitäten der Hermes Germany. Zielgerichtet werden Wachstums- und Entwicklungschancen sowie wirtschaftliche Optimierungspotenziale im Rahmen der systematisierten strategischen Planung umfassend identifiziert und evaluiert. Sich ergebenden Risiken wird durch ein in den Konzernverbund integriertes Risikomanagementsystem, nachfolgend RMS, begegnet.
+
+Risikomanagementsystem
+
+Hermes Germany ist über die konzernweit gültigen Richtlinien und Vorgaben der Otto Group in das Risikomanagementsystem (RMS) einbezogen. Das RMS der Hermes Germany ermöglicht, Risiken schnell zu identifizieren und gegebenenfalls umgehend geeignete Maßnahmen zu treffen oder Kontrollen abzuleiten, um entweder die Eintrittswahrscheinlichkeit zu senken oder die möglichen Auswirkungen der Risiken auf die Vermögens-, Finanz- und Ertragslage im Falle ihres Eintritts zu begrenzen. Die Erhebung der Unternehmensrisiken und darauf abgestimmten Maßnahmen erfolgt auf jährlicher Basis über ein konzernweit eingesetztes Tool. Der hierzu implementierte Prozess umfasst folgende Schritte:
+
+Identifizierung und Bewertung
+
+Um die vollständige Identifizierung der relevanten Risiken sicherzustellen, erfolgt die Risikoinventur anhand eines strukturierten Risikokatalogs sowie, für spezifische Themen, über detailliertere Checklisten. Die von den einzelnen Unternehmensbereichen gemeldeten Risiken werden hinsichtlich ihrer Eintrittswahrscheinlichkeit und möglicher Auswirkungen bewertet. Die Bewertung der Schadenshöhe erfolgt anhand von fünf Kategorien: Finanziell, Erreichen von Geschäftszielen, Reputation, Geschäftstätigkeit, Compliance. Die Bewertung erfolgt sowohl als Bruttobetrachtung vor Risikosteuerungsmaßnahmen als auch als Nettobetrachtung nach Maßnahmen zur Risikobegrenzung.
+
+Steuerung und Überwachung
+
+Gegenmaßnahmen zu Vermeidung, Verminderung oder Übertragung der Risiken auf Dritte, zum Beispiel durch Abschluss eines Versicherungsvertrags, werden zeitnah durch das verantwortliche Management umgesetzt, um den wirtschaftlichen Erfolg der Geschäftstätigkeit abzusichern. Alle Maßnahmen, die aufgrund ihrer Bewertung als wesentlich eingestuft werden, sowie die für das Risiko relevanten Indikatoren und Gegenmaßnahmen werden verstärkt überwacht.
+
+Berichterstattung
+
+Die aus Sicht der Fachbereiche und der Geschäftsführung wesentlichen Risiken werden in einer Risikomatrix strukturiert. Diese gliedert alle Risiken nach ihrer Eintrittswahrscheinlichkeit und ihrem Schadensausmaß und stellt somit die Transparenz der Risikolage der Hermes Germany sicher. Die Geschäftsführung und die Gesellschafter-Gremien werden über relevante Entwicklungen im Risikomanagement informiert.
+
+Die Verantwortung für das Risikomanagement liegt bei der Geschäftsführung der Hermes Germany. Die enge Verzahnung des RMS mit dem internen Kontrollsystem und dem Controlling/Berichtswesen sichert dessen Wirksamkeit zusätzlich ab. Auf die wesentlichen Risiken sowie die damit in Verbindung stehenden Chancen wird im nachfolgenden Abschnitt eingegangen.
+
+Volkswirtschaftliche Chancen und Risiken
+
+Die gesamtwirtschaftlichen Rahmenbedingungen Deutschlands haben Einfluss auf die Geschäftstätigkeit und somit auf die Vermögens-, Finanz- und Ertragslage der Hermes Germany. Unvorhersehbare Entwicklungen innerhalb der globalen Wirtschaftsverflechtungen können zu Auswirkungen auf dem deutschen Absatzmarkt führen. Gesamtwirtschaftliche Risiken führen potenziell zu einer Reduzierung der Kaufkraft und können damit auch einen Rückgang der Nachfrage nach Dienstleistungen der Hermes Germany bewirken. Ein Anstieg der Kaufkraft stellt für Hermes Germany eine als geringe bis mittlere Chance dar.
+
+Die Konsumstimmung in Deutschland ist laut Gesellschaft für Konsumforschung weiterhin auf niedrigem Niveau, eine nachhaltige Erholung des Konsumklimas ist derzeit nicht in Sicht. Die daraus resultierenden Risiken werden für die Hermes Germany weiterhin als hoch eingeschätzt; gleichwohl ergeben sich entsprechende Chancen im Falle einer Konsumerholung, die als gering bis mittel eingeschätzt werden. Die Prognose des realen Umsatzwachstums für den Onlinehandel wird vom Handelsverband Deutschland im Jahr 2025 auf +2 Prozent gegenüber dem Jahr 2024 eingeschätzt.
+
+Ein fortbestehendes Risiko für die gesamtwirtschaftliche Entwicklung in Deutschland ergibt sich auch weiterhin aus den politischen und militärischen Auseinandersetzungen in Ost-Europa, die kurz- und mittelfristig Auswirkungen auf die Beschaffungsaktivitäten wie auch den Absatzmarkt der Hermes Germany haben können. Das hieraus resultierende Risiko wird mittel eingeschätzt. Derzeit ist die Hermes Germany nicht von den Auseinandersetzungen in der Ukraine betroffen und hält weder Kundenbeziehungen in die Ukraine noch nach Russland.
+
+Strategische und branchenspezifische Chancen und Risiken
+
+Wie schon in den zurückliegenden Jahren agiert die Hermes Germany mit ihren Kernaktivitäten grundsätzlich in einem deutlich wachsenden E-Commerce-Umfeld. Die langjährigen Partnerschaften mit Auftraggebern und Dienstleistern, die enge Zusammenarbeit mit den Konzerngesellschaften der Otto Group sowie die konsequente Optimierung der operativen Prozesse und der Standortlandschaft sind wichtige Voraussetzungen, auch von künftigem Marktwachstum zu profitieren.
+
+Risiken bestehen insbesondere mit Blick auf die angespannte Situation der Verfügbarkeit von Arbeitskräften in der Logistik, vor allem in urbanen Regionen, und werden als mittel eingeschätzt. Für die gesamte Branche besteht derzeit hoher Kostendruck bei gleichzeitiger Gefahr von Kundenverlusten.
+
+Dieses Risiko wird als hoch eingestuft. Die steigende Kostenbasis, auch infolge der erschwerten Gewinnung von Arbeitskräften und steigenden Löhnen aber auch infolge steigender Kosten für unsere Transportdienstleister, wird durch Initiativen zur Verbesserung der Produktivität und höheren Grundauslastungen abgemildert. Letztere kann wiederum zum Verlust von Sendungsmengen aufgrund von nicht ausreichender operativer Performance führen. Das Risiko wird ebenfalls als hoch eingestuft.
+
+Die Gesellschaft hat mit der Durchsetzung von Preissteigerungen gegenüber Auftraggebern reagiert und diese auch in darauffolgenden Geschäftsjahren fortgesetzt. Das Risiko, die Kosten nicht vollständig an die Auftraggeber weiterbelasten zu können, wird als hoch eingeschätzt. Darüber hinaus bieten sich Wachstumschancen und -risiken durch die zunehmende Strategie von Auftraggebern mit mehreren Paketdienstleistern zusammenzuarbeiten, dessen Eintrittsrisiko als hoch eingeschätzt wird. Voraussetzung für die Ausschöpfung des Wachstumspotenzials ist die Aufrechterhaltung und Weiterentwicklung der hohen Stabilität des operativen Netzwerks und der partnerschaftlichen Zusammenarbeit mit den General- und Transportunternehmern. Faire Arbeitsbedingungen, die Sicherung hoher Sozialstandards und ein gutes Arbeitsumfeld für die Zusteller sind deshalb absolute Grundvoraussetzung in der Zusammenarbeit mit unseren Servicepartnern. Eine Auditierung und Präqualifizierung der Servicepartner auf der letzten Meile ermöglichen eine tiefgreifende Überprüfung der gesetzlichen sowie Hermes-internen Compliance Anforderungen. Das Risiko der Nicht-Einhaltung dieser Compliance-Anforderungen wird als mittel eingeschätzt.
+
+Finanzrisiken und -chancen
+
+Den Rahmen für den Umgang mit Finanzrisiken bildet eine verbindliche Finanz-Richtlinie, deren Einhaltung sichergestellt wird und eine grundsätzliche Risikoreduktion zur Folge hat. Trotzdem ist die Gesellschaft einem Kontrahentenrisiko ausgesetzt, das durch eine potenzielle Nichterfüllung vertraglicher Vereinbarungen seitens der Vertragspartner entstehen kann, insbesondere mit Blick auf ausfallende Forderungen. Das Risiko wird als gering eingeschätzt, da die Forderungsausfallrisiken durch einen strikten Forderungsmanagement-Prozess und eine weitgehende Absicherung von Forderungspositionen mit nicht-verbundenen Unternehmen über einen Kreditausfallversicherer mitigiert werden.
+
+Die Hermes Germany weist zum Bilanzstichtag einen nicht durch Eigenkapital gedeckten Fehlbetrag in Höhe von 249,0 Mio. EUR aus und ist damit bilanziell überschuldet. Aus der operativen Planung der Gesellschaft resultiert für den Prognosezeitraum ein Liquiditätsbedarf. Die Finanzierung und die Sicherstellung ausreichender Liquidität im Prognosezeitraum soll durch die Einbindung in den Cash- Pool der Mehrheitsgesellschafterin Hermes Europe GmbH erfolgen. Um die Fortführung des Unternehmens zu gewährleisten, hat die Hermes Europe GmbH auf Basis der Unternehmensplanung der Gesellschaft eine zeitlich und betragsmäßig begrenzte Patronatserklärung abgegeben. Soweit wesentlich von den der Liquiditätsplanung zugrunde liegenden Annahmen abgewichen werden sollte, kann sich der Liquiditätsbedarf verringern oder vergrößern. Die Gesellschaft ist somit von der finanziellen Unterstützung durch die Hermes Europe GmbH abhängig. Ein Fallenlassen der Gesellschaft im Prognosezeitraum ist nach Einschätzung der Geschäftsführung aufgrund der Bedeutung der Gesellschaft für die Otto Group, in Bezug auf die Paketzustellung zum Endkunden in Deutschland, nahezu ausgeschlossen.
+
+Rechtliche und regulatorische Risiken
+
+Hermes Germany ist aufgrund seiner Geschäftstätigkeit einer Vielzahl von rechtlichen und aufsichtsrechtlichen Risiken ausgesetzt. Hierzu gehören insbesondere Risiken aus den Bereichen der dienstleistungsbezogenen Haftung, Wettbewerbs- und Kartellrecht, Antikorruption, Steuerrecht oder Umweltschutz. Zudem sind bezüglich einiger Länder Handelsbeschränkungen wie Exportkontrollregulierungen, Embargos oder Wirtschaftssanktionen zu beachten.
+
+Compliance im Sinne des Einhaltens von Gesetzen und Richtlinien ist integraler Bestandteil der Hermes Germany. Dazu gehört auch, relevante rechtliche und regulatorische Anforderungen und Veränderungen frühzeitig zu erkennen und zu bewerten. Hierfür hat Hermes Germany ein Compliance Management System (CMS) etabliert, in dem sämtliche notwendigen Maßnahmen, Strukturen und Prozesse definiert sind, um Regelkonformität sicherzustellen und Verstößen entgegenzuwirken. Es werden zudem verbindliche Anforderungen für alle Geschäftsbereiche formuliert.
+
+Auch die Einhaltung der Sozialstandards ist ein essenzieller Faktor für die Hermes Germany, deren Nicht-Einhaltung bei Nachunternehmern grundsätzlich ein hohes Risiko darstellen. Hermes Germany hat sich dem Code of Conduct der Otto Group verpflichtet, seit 2011 existiert ein ergänzender Hermes Germany Verhaltenskodex. Dieser definiert die grundsätzlichen Anforderungen der Beschäftigung bei Hermes Germany und seinen Nachunternehmern und regelt Themen wie Arbeitnehmerschutz, Arbeitsbedingungen und Mindestlohn sowohl bei den Servicepartnern in der Sendungsdistribution der letzten Meile als auch bei Hermes Germany selbst. Der Verhaltenskodex ist fester Vertragsbestandteil jeder Geschäftsbeziehung mit den Vertragspartnern. Hermes Germany betreibt des Weiteren gemeinsam mit zwei Auditierungsgesellschaften ein umfangreiches Auditierungssystem, dass eine regelmäßige, wiederkehrende Überprüfung aller Servicepartner verlangt. Auditiert werden dabei auch die Unternehmen, die ein Servicepartner seinerseits mit Transportleistungen beauftragt und die somit keinen direkten Vertrag mit Hermes Germany haben. Fokus der Audits sind vor allem die Beschäftigungsbedingungen. Mit dem im Jahr 2019 verabschiedeten Paketboten-Schutz-Gesetz wurde eine branchenweit gültige Verpflichtung zur Nachunternehmerhaftung eingeführt. Hierdurch werden faire Arbeitsbedingungen im Nachunternehmerbereich noch besser gewährleistet. Hermes Germany hat sich in Zusammenarbeit mit dem Bundesverband Paket und Expresslogistik e.V. (Biek) intensiv an der Implementierung eines Präqualifizierungsverfahrens beteiligt, welches seit 2020 durch die Zertifizierung Bau GmbH zur Sicherstellung von Mindestanforderungen an KEP-Nachunternehmer durchgeführt wird und Voraussetzung für die Zusammenarbeit mit Hermes auf der letzten Meile ist.
+
+Sonstige Risiken
+
+Auch weitere Risiken außerhalb der genannten Themenfelder werden im Rahmen des zentralen Risikomanagements identifiziert. Sie werden im Hinblick auf ihre Relevanz analysiert und bewertet sowie mit geeigneten Maßnahmen angemessen gesteuert.
+
+Die Anforderungen zum Datenschutz sind nach dem Inkrafttreten der Datenschutz-Grundverordnung (DSGVO) weiterhin hoch. Dies zeigt sich u.a. in der richtungsweisenden Entscheidung des Europäischen Gerichtshofes zum Transfer von Daten in außereuropäische Drittländer, neuen Handlungsempfehlungen des Europäischen Datenschutzausschusses sowie der nationalen Aufsichtsbehörden und diesbezüglicher verstärkter Kontrollen. Die Risiken im Themenbereich Datenschutz werden daher als hoch angesehen. Die Hermes Germany bekennt sich hierbei zum Recht von Beschäftigten, Kunden, Geschäftspartner*innen und sonstigen Dritten auf informationelle Selbstbestimmung. Als Maßnahme zur Risikoreduktion haben wir eine umfassende Datenschutz-Organisation einschließlich eines Datenschutz-Management-Systems implementiert.
+
+Aus der zunehmenden Abhängigkeit von Technologien resultiert die Zunahme der Hackerangriffe und Ransomware-Vorfälle. Der vermehrte Einsatz von generativer Kl führt zu immer effektiveren Angriffen wie Phishing und Malware. Hermes hat kontinuierlich die Schutzmaßnahmen im Bereich der Informationssicherheit verbessert. Ein besonderes Augenmerk lag dabei auch auf sogenannter Ransomware, wie sie auch in der BSI-Warnung angesprochen wird. Um sich vor solcher Schadsoftware und nachfolgenden Erpressungsversuchen zu schützen, sind eine ganze Reihe von Maßnahmen durchgeführt worden: Mit zusätzlicher Software für einen deutlich erhöhten Schutz auf den Arbeitsgeräten oder durch das Deaktivieren von Office Makros wurde das Haupteinfallstor von Schadsoftware geschlossen. Neben diesen präventiven Maßnahmen wurden auch Werkzeuge und Prozesse etabliert, die Auffälligkeiten einer Bedrohung oder Missbrauch von Daten schnell sichtbar machen. Im Security Operations Center kommen jeden Tag verschiedene Teams zusammen und bewerten die aktuelle Lage, unter Berücksichtigung von Erkenntnissen aus unseren Systemen und Informationen von außen (z.B. vom BSI).
+
+Die Bundesnetzagentur veröffentlicht regelmäßig in ihrem Lagebericht eine Einschätzung zur Gasversorgung, wobei auch Gasverbrauch sowie Speicherfüllstände berücksichtigt werden. Seit 2022 gilt die Alarmstufe des Notfallplans. Die Bundesnetzagentur beobachtet die Lage genau und steht in engem Kontakt zu den Netzbetreibern. Für Hermes Germany ergibt sich ein mittleres Risiko für den Ausfall der Geschäftstätigkeit infolge Gasknappheit an den Logistikstandorten.
+
+Gesamtbetrachtung der Risikosituation
+
+In der Gesamtbeurteilung der Risikosituation der Gesellschaft lässt sich auf Grundlage der heute bekannten Informationen feststellen, dass Risiken wirksam über das Risikomanagementsystem gesteuert werden.
+
+VORAUSSICHTLICHE ENTWICKLUNG
+
+Bei den getroffenen zukunftsbezogenen Aussagen und Planwerten ist zu beachten, dass diese inhärenten Unsicherheiten unterliegen. Sie verlangen Schätzungen, Annahmen und die Berücksichtigung von Erfahrungswerten. Durch das nicht Eintreten von erwarteten bzw. das Eintreten von unvorhergesehenen Ereignissen können die tatsächlichen Ergebnisse abweichen.
+
+Der Ausblick auf die Geschäftsjahresperiode bis 28.02.2026 steht stark unter dem Einfluss der künftigen Konsumentwicklung und Faktorkostensteigerungen. Eine Prognose dieser volkswirtschaftlichen Treiber ist mit Risiken behaftet und kann nur auf vereinfachenden Annahmen basieren.
+
+Erwartete Entwicklung der Rahmenbedingungen
+
+Das Kieler Institut für Weltwirtschaft erwartet in seinem Konjunkturbericht vom 1. Quartal 2025, dass sich die konjunkturelle Erholung weiter verzögert. Für 2025 wird mit einem Anstieg des BIP von +0,1 Prozent gerechnet, im darauffolgenden Jahr 2026 mit +1,2 Prozent. Die Arbeitslosenquote dürfte in den kommenden Zeiträumen nicht maßgeblich zurückgehen und die Beschäftigungszuwächse werden weiter an Dynamik verlieren. Die privaten Konsumausgaben dürften laut ifo-Institut in 2025 preisbereinigt mit 0,4% nur wenig mehr zulegen als im Vorjahr. Dabei wird unterstellt, dass die Sparquote sinkt. Es wird mit einem Rückgang der Kaufkraft gerechnet, da die verfügbaren Haushaltseinkommen in diesem Jahr mit 2,0% geringer zunehmen als die Verbraucherpreise, welche laut ifo-Institut mit +2,3% erwartet werden. Die Tarifverdienste steigen aufgrund des Wegfalls der Inflationsausgleichsprämien deutlich geringer als in den Vorjahren. Auch die Nachwirkungen der Energiekrise könnten das Konsumklima weiterhin belasten.
+
+Kurz- und insbesondere mittelfristig erfordert die Entwicklung im deutschen E-Commerce ein anhaltend hohes Investitionsniveau in der Paketdistribution, insbesondere für den Ausbau und den Erhalt der logistischen Infrastruktur sowie der weiteren Digitalisierung. Es gilt weiterhin, an neuen, auch digitalen Lösungsansätzen zu arbeiten, um das perspektivisch steigende Sendungsaufkommen, trotz umfangreicher Kundenanforderungen, des anhaltenden Fahrer- und Fachkräftemangels und der sich zuspitzenden Verkehrssituation, bewältigen zu können. Hierzu sind diverse Ansätze bereits in Vorbereitung oder Umsetzung.
+
+Erwartete Geschäftsentwicklung
+
+Die aktuelle Marktphase, insbesondere die aktuell vorherrschende Konsumschwäche sowie die Entwicklung der Faktorkosten erschweren die Umsatz- und Ergebnis-Prognose für das Geschäftsjahr vom 01.03.2025 bis zum 28.02.2026.
+
+Die Geschäftsführung blickt grundsätzlich zuversichtlich auf die Geschäftsentwicklung der Hermes Germany und plant trotz der Unsicherheiten in diesem Zeitraum, wie auch in den zurückliegenden Perioden, weiterhin deutliche und steigende Investitionen, insbesondere in den Ausbau und den Erhalt der Leistungsfähigkeit des operativen Netzwerks, in den Klimaschutz und in digitale Lösungen, mit dem Ziel, das Kundenerlebnis durch mehr Transparenz und Flexibilität weiter zu verbessern. Im abgeschlossenen Geschäftsjahr vom 01.03.2024 bis 28.02.2025 konnte infolge eines deutlichen Mengenwachstums ein Umsatzwachstum von +2 Prozent zum Vorjahr erreicht werden, bereinigt um den zum 01.02.2024 verkauften Geschäftsbereich Supply Chain Solutions konnte die Gesellschaft im Berichtszeitraum sogar ein deutliches Umsatzwachstum von rund +10 Prozent zum Vorjahr erzielen. Die Geschäftsführung erwartet aus der Unternehmensplanung heraus für das aktuelle Geschäftsjahr bis zum 28.02.2026 ein leichtes Umsatzwachstum.
+
+Nachdem im abgelaufenen Geschäftsjahr bis zum 28.02.2025 ein deutlicher Betriebsergebnisrückgang verzeichnet werden musste, wird für das aktuelle Geschäftsjahr bis zum 28.02.2026 eine deutliche Ergebnisverbesserung erwartet. Grundsätzlich wird sich die Geschäftsausrichtung auf Preisqualifizierung, Effizienzsteigerungen sowie Maßnahmen zur Kostenreduktion fokussieren. Das Geschäftsjahr 2025/26 wird herausfordernd, aber auf Basis der mit den Gesellschaftern vereinbarten Ausrichtung des Unternehmens sowie den ergriffenen Maßnahmen sieht sich die Geschäftsführung der Hermes Germany sowohl umsatz- als auch ergebnisseitig in den nachfolgenden Jahren auf einem guten Weg. Daher blickt die Geschäftsführung, aus heutiger Sicht, auch zuversichtlich auf die erwartete Entwicklung der Vermögens-, Finanz- und Ertragslage der Hermes Germany im Geschäftsjahr 2024/25. Die Vermögens- und Finanzlage der Hermes Germany ist durch die finanzielle Unterstützung der Hermes Europe GmbH unverändert gesichert. Die Geschäftsführung beurteilt die wirtschaftliche Lage der Gesellschaft auch aufgrund der hohen Solidität ihrer Gesellschafterstruktur weiterhin als stabil.
+
+Erklärung zur Unternehmensführung
+
+Die Hermes Germany hat sich für den Anteil von Frauen in Führungspositionen bis zum 31. Dezember 2025 folgende Ziele gesetzt: Die Zielgröße für die Anzahl der Frauen in der Geschäftsführung wird auf mindestens eine Frau und die Zielgröße für den Frauenanteil in der Geschäftsführung wird auf mindestens 25% festgelegt. Für die erste und zweite Führungsebene setzt sich die Hermes Germany das Ziel, bis zum 31. Dezember 2025 jeweils eine Quote von 25 Prozent zu erreichen. Die Zielgröße für die Anzahl der Frauen im Aufsichtsrat wird auf mindestens drei Frauen und die Zielgröße für den Frauenanteil im Aufsichtsrat auf mindestens 25% festgelegt.
+
+Hamburg, den 22. April 2025
+
+Die Geschäftsführung
+
+Dennis Kollmann
+
+Alexander Bortel
+
+Marco Schlüter
+
+Bestätigungsvermerk des unabhängigen Abschlussprüfers
+
+An die Hermes Germany GmbH, Hamburg
+
+Prüfungsurteile
+
+Wir haben den Jahresabschluss der Hermes Germany GmbH, Hamburg, - bestehend aus der Bilanz zum 28. Februar 2025 und der Gewinn- und Verlustrechnung für das Geschäftsjahr vom 1. März 2024 bis zum 28. Februar 2025 sowie dem Anhang, einschließlich der Darstellung der Bilanzierungs- und Bewertungsmethoden - geprüft. Darüber hinaus haben wir den Lagebericht der Hermes Germany GmbH für das Geschäftsjahr vom 1. März 2024 bis zum 28. Februar 2025 geprüft.
+
+Die Erklärung zur Unternehmensführung nach § 289f Abs. 4 HGB (Angaben zur Frauenquote), die in Abschnitt „Erklärung zur Unternehmensführung“ des Lageberichts enthalten ist, haben wir in Einklang mit den deutschen gesetzlichen Vorschriften nicht inhaltlich geprüft.
+
+Nach unserer Beurteilung aufgrund der bei der Prüfung gewonnenen Erkenntnisse
+
+•
+
+entspricht der beigefügte Jahresabschluss in allen wesentlichen Belangen den deutschen, für Kapitalgesellschaften geltenden handelsrechtlichen Vorschriften und vermittelt unter Beachtung der deutschen Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens- und Finanzlage der Gesellschaft zum 28. Februar 2025 sowie ihrer Ertragslage für das Geschäftsjahr vom 1. März 2024 bis zum 28. Februar 2025 und
+
+vermittelt der beigefügte Lagebericht insgesamt ein zutreffendes Bild von der Lage der Gesellschaft. In allen wesentlichen Belangen steht dieser Lagebericht in Einklang mit dem Jahresabschluss, entspricht den deutschen gesetzlichen Vorschriften und stellt die Chancen und Risiken der zukünftigen Entwicklung zutreffend dar. Unser Prüfungsurteil zum Lagebericht erstreckt sich nicht auf den Inhalt der oben genannten Erklärung zur Unternehmensführung.
+
+Gemäß § 322 Abs. 3 Satz 1 HGB erklären wir, dass unsere Prüfung zu keinen Einwendungen gegen die Ordnungsmäßigkeit des Jahresabschlusses und des Lageberichts geführt hat.
+
+Grundlage für die Prüfungsurteile
+
+Wir haben unsere Prüfung des Jahresabschlusses und des Lageberichts in Übereinstimmung mit § 317 HGB unter Beachtung der vom Institut der Wirtschaftsprüfer (IDW) festgestellten deutschen Grundsätze ordnungsmäßiger Abschlussprüfung durchgeführt. Unsere Verantwortung nach diesen Vorschriften und Grundsätzen ist im Abschnitt „Verantwortung des Abschlussprüfers für die Prüfung des Jahresabschlusses und des Lageberichts“ unseres Bestätigungsvermerks weitergehend beschrieben. Wir sind von dem Unternehmen unabhängig in Übereinstimmung mit den deutschen handelsrechtlichen und berufsrechtlichen Vorschriften und haben unsere sonstigen deutschen Berufspflichten in Übereinstimmung mit diesen Anforderungen erfüllt. Wir sind der Auffassung, dass die von uns erlangten Prüfungsnachweise ausreichend und geeignet sind, um als Grundlage für unsere Prüfungsurteile zum Jahresabschluss und zum Lagebericht zu dienen.
+
+Sonstige Informationen
+
+Die gesetzlichen Vertreter sind für die sonstigen Informationen verantwortlich. Die sonstigen Informationen umfassen die Erklärung zur Unternehmensführung nach § 289f Abs. 4 HGB (Angaben zur Frauenquote), die in Abschnitt „Erklärung zur Unternehmensführung“ des Lageberichts enthalten ist.
+
+Unsere Prüfungsurteile zum Jahresabschluss und zum Lagebericht erstrecken sich nicht auf die sonstigen Informationen, und dementsprechend geben wir weder ein Prüfungsurteil noch irgendeine andere Form von Prüfungsschlussfolgerung hierzu ab.
+
+Im Zusammenhang mit unserer Prüfung haben wir die Verantwortung, die oben genannten sonstigen Informationen zu lesen und dabei zu würdigen, ob die sonstigen Informationen
+
+•
+
+wesentliche Unstimmigkeiten zum Jahresabschluss, zu den inhaltlich geprüften Lageberichtsangaben oder unseren bei der Prüfung erlangten Kenntnissen aufweisen oder
+
+•
+
+anderweitig wesentlich falsch dargestellt erscheinen.
+
+Verantwortung der gesetzlichen Vertreter und des Aufsichtsrats für den Jahresabschluss und den Lagebericht
+
+Die gesetzlichen Vertreter sind verantwortlich für die Aufstellung des Jahresabschlusses, der den deutschen, für Kapitalgesellschaften geltenden handelsrechtlichen Vorschriften in allen wesentlichen Belangen entspricht, und dafür, dass der Jahresabschluss unter Beachtung der deutschen Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage der Gesellschaft vermittelt. Ferner sind die gesetzlichen Vertreter verantwortlich für die internen Kontrollen, die sie in Übereinstimmung mit den deutschen Grundsätzen ordnungsmäßiger Buchführung als notwendig bestimmt haben, um die Aufstellung eines Jahresabschlusses zu ermöglichen, der frei von wesentlichen falschen Darstellungen aufgrund von dolosen Handlungen (d. h. Manipulationen der Rechnungslegung und Vermögensschädigungen) oder Irrtümern ist.
+
+Bei der Aufstellung des Jahresabschlusses sind die gesetzlichen Vertreter dafür verantwortlich, die Fähigkeit der Gesellschaft zur Fortführung der Unternehmenstätigkeit zu beurteilen. Des Weiteren haben sie die Verantwortung, Sachverhalte in Zusammenhang mit der Fortführung der Unternehmenstätigkeit, sofern einschlägig, anzugeben. Darüber hinaus sind sie dafür verantwortlich, auf der Grundlage des Rechnungslegungsgrundsatzes der Fortführung der Unternehmenstätigkeit zu bilanzieren, sofern dem nicht tatsächliche oder rechtliche Gegebenheiten entgegenstehen.
+
+Außerdem sind die gesetzlichen Vertreter verantwortlich für die Aufstellung des Lageberichts, der insgesamt ein zutreffendes Bild von der Lage der Gesellschaft vermittelt sowie in allen wesentlichen Belangen mit dem Jahresabschluss in Einklang steht, den deutschen gesetzlichen Vorschriften entspricht und die Chancen und Risiken der zukünftigen Entwicklung zutreffend darstellt. Ferner sind die gesetzlichen Vertreter verantwortlich für die Vorkehrungen und Maßnahmen (Systeme), die sie als notwendig erachtet haben, um die Aufstellung eines Lageberichts in Übereinstimmung mit den anzuwendenden deutschen gesetzlichen Vorschriften zu ermöglichen und um ausreichende geeignete Nachweise für die Aussagen im Lagebericht erbringen zu können.
+
+Der Aufsichtsrat ist verantwortlich für die Überwachung des Rechnungslegungsprozesses der Gesellschaft zur Aufstellung des Jahresabschlusses und des Lageberichts.
+
+Verantwortung des Abschlussprüfers für die Prüfung des Jahresabschlusses und des Lageberichts
+
+Unsere Zielsetzung ist, hinreichende Sicherheit darüber zu erlangen, ob der Jahresabschluss als Ganzes frei von wesentlichen falschen Darstellungen aufgrund von dolosen Handlungen oder Irrtümern ist, und ob der Lagebericht insgesamt ein zutreffendes Bild von der Lage der Gesellschaft vermittelt sowie in allen wesentlichen Belangen mit dem Jahresabschluss sowie mit den bei der Prüfung gewonnenen Erkenntnissen in Einklang steht, den deutschen gesetzlichen Vorschriften entspricht und die Chancen und Risiken der zukünftigen Entwicklung zutreffend darstellt, sowie einen Bestätigungsvermerk zu erteilen, der unsere Prüfungsurteile zum Jahresabschluss und zum Lagebericht beinhaltet.
+
+Hinreichende Sicherheit ist ein hohes Maß an Sicherheit, aber keine Garantie dafür, dass eine in Übereinstimmung mit § 317 HGB unter Beachtung der vom Institut der Wirtschaftsprüfer (IDW) festgestellten deutschen Grundsätze ordnungsmäßiger Abschlussprüfung durchgeführte Prüfung eine wesentliche falsche Darstellung stets aufdeckt. Falsche Darstellungen können aus dolosen Handlungen oder Irrtümern resultieren und werden als wesentlich angesehen, wenn vernünftigerweise erwartet werden könnte, dass sie einzeln oder insgesamt die auf der Grundlage dieses Jahresabschlusses und Lageberichts getroffenen wirtschaftlichen Entscheidungen von Adressaten beeinflussen.
+
+Während der Prüfung üben wir pflichtgemäßes Ermessen aus und bewahren eine kritische Grundhaltung. Darüber hinaus
+
+•
+
+identifizieren und beurteilen wir die Risiken wesentlicher falscher Darstellungen im Jahresabschluss und im Lagebericht aufgrund von dolosen Handlungen oder Irrtümern, planen und führen Prüfungshandlungen als Reaktion auf diese Risiken durch sowie erlangen Prüfungsnachweise, die ausreichend und geeignet sind, um als Grundlage für unsere Prüfungsurteile zu dienen. Das Risiko, dass eine aus dolosen Handlungen resultierende wesentliche falsche Darstellung nicht aufgedeckt wird, ist höher als das Risiko, dass eine aus Irrtümern resultierende wesentliche falsche Darstellung nicht aufgedeckt wird, da dolose Handlungen kollusives Zusammenwirken, Fälschungen, beabsichtigte Unvollständigkeiten, irreführende Darstellungen bzw. das Außerkraftsetzen interner Kontrollen beinhalten können.
+
+•
+
+erlangen wir ein Verständnis von den für die Prüfung des Jahresabschlusses relevanten internen Kontrollen und den für die Prüfung des Lageberichts relevanten Vorkehrungen und Maßnahmen, um Prüfungshandlungen zu planen, die unter den Umständen angemessen sind, jedoch nicht mit dem Ziel, ein Prüfungsurteil zur Wirksamkeit der internen Kontrollen der Gesellschaft bzw. dieser Vorkehrungen und Maßnahmen abzugeben.
+
+•
+
+beurteilen wir die Angemessenheit der von den gesetzlichen Vertretern angewandten Rechnungslegungsmethoden sowie die Vertretbarkeit der von den gesetzlichen Vertretern dargestellten geschätzten Werte und damit zusammenhängenden Angaben.
+
+•
+
+ziehen wir Schlussfolgerungen über die Angemessenheit des von den gesetzlichen Vertretern angewandten Rechnungslegungsgrundsatzes der Fortführung der Unternehmenstätigkeit sowie, auf der Grundlage der erlangten Prüfungsnachweise, ob eine wesentliche Unsicherheit im Zusammenhang mit Ereignissen oder Gegebenheiten besteht, die bedeutsame Zweifel an der Fähigkeit der Gesellschaft zur Fortführung der Unternehmenstätigkeit aufwerfen können. Falls wir zu dem Schluss kommen, dass eine wesentliche Unsicherheit besteht, sind wir verpflichtet, im Bestätigungsvermerk auf die dazugehörigen Angaben im Jahresabschluss und im Lagebericht aufmerksam zu machen oder, falls diese Angaben unangemessen sind, unser jeweiliges Prüfungsurteil zu modifizieren. Wir ziehen unsere Schlussfolgerungen auf der Grundlage der bis zum Datum unseres Bestätigungsvermerks erlangten Prüfungsnachweise. Zukünftige Ereignisse oder Gegebenheiten können jedoch dazu führen, dass die Gesellschaft ihre Unternehmenstätigkeit nicht mehr fortführen kann.
+
+•
+
+beurteilen wir Darstellung, Aufbau und Inhalt des Jahresabschlusses insgesamt einschließlich der Angaben sowie ob der Jahresabschluss die zugrunde liegenden Geschäftsvorfälle und Ereignisse so darstellt, dass der Jahresabschluss unter Beachtung der deutschen Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage der Gesellschaft vermittelt.
+
+•
+
+beurteilen wir den Einklang des Lageberichts mit dem Jahresabschluss, seine Gesetzesentsprechung und das von ihm vermittelte Bild von der Lage des Unternehmens.
+
+•
+
+führen wir Prüfungshandlungen zu den von den gesetzlichen Vertretern dargestellten zukunftsorientierten Angaben im Lagebericht durch. Auf Basis ausreichender geeigneter Prüfungsnachweise vollziehen wir dabei insbesondere die den zukunftsorientierten Angaben von den gesetzlichen Vertretern zugrunde gelegten bedeutsamen Annahmen nach und beurteilen die sachgerechte Ableitung der zukunftsorientierten Angaben aus diesen Annahmen. Ein eigenständiges Prüfungsurteil zu den zukunftsorientierten Angaben sowie zu den zugrunde liegenden Annahmen geben wir nicht ab. Es besteht ein erhebliches unvermeidbares Risiko, dass künftige Ereignisse wesentlich von den zukunftsorientierten Angaben abweichen.
+
+Wir erörtern mit den für die Überwachung Verantwortlichen unter anderem den geplanten Umfang und die Zeitplanung der Prüfung sowie bedeutsame Prüfungsfeststellungen, einschließlich etwaiger bedeutsamer Mängel in internen Kontrollen, die wir während unserer Prüfung feststellen.
+
+Hamburg, den 2. Mai 2025
+
+KPMG AG
+Wirtschaftsprüfungsgesellschaft
+
+Hartmut Heckert, Wirtschaftsprüfer
+
+Kerstin Ecke, Wirtschaftsprüferin
+
+Bericht des Aufsichtsrats der Hermes Germany GmbH
+
+gem. § 171 Abs. 2 AktG i. V. m. § 25 Abs. 1 Nr. 2 MitbestG
+
+Der Aufsichtsrat der Hermes Germany GmbH ist von der Geschäftsführung der Hermes Germany GmbH im Geschäftsjahr, das am 28. Februar 2025 abgelaufen ist, über die Umsatzentwicklung informiert worden und hat sich umfassend über die Lage des Unternehmens und den Geschäftsverlauf unterrichtet. Die Mitglieder des Aufsichtsrats haben im abgelaufenen Geschäftsjahr im Rahmen von zwei Aufsichtsratssitzungen Berichte der Geschäftsführung erhalten.
+
+Die Geschäftsführung unterrichtete den Aufsichtsrat zudem regelmäßig zeitnah und umfassend auch zwischen den Aufsichtsratssitzungen über alle relevanten Fragen der Unternehmensstrategie und den damit verbundenen Chancen und Risiken. Der Aufsichtsrat war zudem in alle Entscheidungen von grundlegender Bedeutung für die Gesellschaft unmittelbar eingebunden. Es bestand Gelegenheit, die Geschäftsführung der Gesellschaft zu überprüfen.
+
+Dem Aufsichtsrat lagen der von der KPMG AG Wirtschaftsprüfungsgesellschaft geprüfte und mit einem uneingeschränkten Bestätigungsvermerk versehene Jahresabschluss nebst Lagebericht vor. Der Aufsichtsrat hat den Jahresabschluss nebst Lagebericht der Hermes Germany GmbH per 28. Februar 2025 geprüft.
+
+In seiner Sitzung vom heutigen Tage hat der Aufsichtsrat einen mündlichen Bericht der Geschäftsführung entgegengenommen und diesen Bericht anschließend diskutiert. Dabei war der Wirtschaftsprüfer anwesend und berichtete seinerseits über wesentliche Ergebnisse seiner Prüfung. Es bestand Gelegenheit, der Geschäftsführung und dem Abschlussprüfer Fragen zum Jahresabschluss und Lagebericht zu stellen.
+
+Die Prüfung des Jahresabschlusses nebst Lagebericht durch den Aufsichtsrat hat keinen Anlass zu Einwendungen gegeben. Vielmehr hat sich der Aufsichtsrat dem Ergebnis der Abschlussprüfung angeschlossen und den von der Geschäftsführung aufgestellten Jahresabschluss nebst Lagebericht der Hermes Germany GmbH gebilligt.
+
+Der Aufsichtsrat empfiehlt der Gesellschafterversammlung, den Jahresfehlbetrag in Höhe von 226.878.027,88 Euro zusammen mit dem Verlustvortrag in Höhe von 192.791.755,57 Euro auf neue Rechnung vorzutragen.
+
+Hamburg, den 15. Mai 2025

@@ -1,0 +1,9 @@
+{
+  "url": "https://welovepr.de/robots.txt",
+  "final_url": "https://welovepr.de/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "fetched_at": "2026-11-25T16:37:14.491994+00:00",
+  "text": "# START YOAST BLOCK\n# ---------------------------\nUser-agent: *\nDisallow: /?s=\nDisallow: /page/*/?s=\nDisallow: /search/\n\nSitemap: https://welovepr.de/sitemap_index.xml\n# ---------------------------\n# END YOAST BLOCK"
+}

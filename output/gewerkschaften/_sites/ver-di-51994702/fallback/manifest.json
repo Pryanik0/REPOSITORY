@@ -1,0 +1,1183 @@
+{
+  "status": "partial",
+  "provider": "gewerkschaften",
+  "date_from": "2026-05-25",
+  "pdf_download_policy": "company_in_link_metadata_or_filename",
+  "date_to": "2026-11-25",
+  "articles": [],
+  "visited": [
+    "https://www.verdi.de/",
+    "https://www.verdi.de/suche?q=mediCAD",
+    "https://www.verdi.de/suche?q=elderbrook+solutions",
+    "https://www.verdi.de/suche?q=Kyowa+Kirin+International",
+    "https://www.verdi.de/suche?q=Recor+Medical",
+    "https://www.verdi.de/suche?q=Daiichi+Sankyo+Europe",
+    "https://www.verdi.de/suche?q=WINDSTAR+MEDICAL",
+    "https://www.verdi.de/suche?q=Centrient+Pharmaceuticals",
+    "https://www.verdi.de/suche?q=HERMES+PHARMA",
+    "https://www.verdi.de/suche?q=LINK",
+    "https://www.verdi.de/suche?q=Kulzer",
+    "https://www.verdi.de/suche?q=Novaled",
+    "https://www.verdi.de/suche?q=Klosterfrau+Healthcare",
+    "https://www.verdi.de/suche?q=Dr.+Pfleger+Arzneimittel",
+    "https://www.verdi.de/suche?q=Resuscitec",
+    "https://www.verdi.de/suche?q=Medicon",
+    "https://www.verdi.de/suche?q=XION",
+    "https://www.verdi.de/suche?q=Charite+Research+Organisation",
+    "https://www.verdi.de/suche?q=Finzelberg",
+    "https://www.verdi.de/suche?q=KOB",
+    "https://www.verdi.de/suche?q=MBS+Logistics",
+    "https://www.verdi.de/suche?q=SGL+Carbon",
+    "https://www.verdi.de/suche?q=Taylor+Wessing",
+    "https://www.verdi.de/suche?q=Diakonie+D%C3%BCsseldorf",
+    "https://www.verdi.de/suche?q=Hermes+Deutschland",
+    "https://www.verdi.de/suche?q=Comcross",
+    "https://www.verdi.de/suche?q=Rosenberger",
+    "https://www.verdi.de/suche?q=OVB+MEDIA",
+    "https://www.verdi.de/suche?q=Sinnwell",
+    "https://www.verdi.de/suche?q=Adlershorst",
+    "https://www.verdi.de/suche?q=Scheidt-Bachmann",
+    "https://www.verdi.de/suche?q=Schoellershammer",
+    "https://www.verdi.de/suche?q=Hasse",
+    "https://www.verdi.de/suche?q=tink",
+    "https://www.verdi.de/suche?q=Buss+Port+Services+GmbH",
+    "https://www.verdi.de/suche?q=sea+chefs",
+    "https://www.verdi.de/suche?q=FINVIA+Family+Office+GmbH",
+    "https://www.verdi.de/suche?q=welovepr",
+    "https://www.verdi.de/suche?q=constellr",
+    "https://www.verdi.de/suche?q=bmedx",
+    "https://www.verdi.de/suche?q=Gerresheimer+B%C3%BCnde+GmbH",
+    "https://www.verdi.de/suche?q=mediCAD+Hectec+GmbH",
+    "https://www.verdi.de/suche?q=elderbrook+solutions+GmbH",
+    "https://www.verdi.de/suche?q=Kyowa+Kirin+GmbH",
+    "https://www.verdi.de/suche?q=Recor+Medical+Europe+GmbH",
+    "https://www.verdi.de/suche?q=Daiichi+Sankyo+Europe+GmbH",
+    "https://www.verdi.de/suche?q=WindStar+Medical+GmbH",
+    "https://www.verdi.de/suche?q=Centrient+Pharmaceuticals+Netherlands+B.V.",
+    "https://www.verdi.de/suche?q=HERMES+PHARMA+GmbH",
+    "https://www.verdi.de/suche?q=Waldemar+Link+GmbH+%26+Co.+KG",
+    "https://www.verdi.de/suche?q=Kulzer+GmbH",
+    "https://www.verdi.de/suche?q=Novaled+GmbH",
+    "https://www.verdi.de/suche?q=Maria+Clementine+Martin+Klosterfrau+Vertriebsgesellschaft+mbH",
+    "https://www.verdi.de/suche?q=Dr.+Pfleger+Arzneimittel+GmbH",
+    "https://www.verdi.de/suche?q=Resuscitec+GmbH",
+    "https://www.verdi.de/suche?q=Medicon+eG.+Chirurgiemechaniker-Genossenschaft",
+    "https://www.verdi.de/suche?q=XION+GmbH",
+    "https://www.verdi.de/suche?q=Charit%C3%A9+Research+Organisation+GmbH",
+    "https://www.verdi.de/suche?q=Finzelberg+GmbH+%26+Co.+KG",
+    "https://www.verdi.de/suche?q=KOB+GmbH",
+    "https://www.verdi.de/suche?q=MBS+Speditionsgesellschaft+mbH",
+    "https://www.verdi.de/suche?q=SGL+Carbon+SE",
+    "https://www.verdi.de/suche?q=Taylor+Wessing+Partnerschaftsgesellschaft+von+Rechtsanw%C3%A4lten+und+Steuerberatern+mbB",
+    "https://www.verdi.de/suche?q=Diakonie+D%C3%BCsseldorf+Gemeindedienst+der+evangelischen+Kirchengemeinden+e.V.",
+    "https://www.verdi.de/suche?q=Hermes+Germany+GmbH",
+    "https://www.verdi.de/suche?q=Daiichi+Sankyo+Deutschland+GmbH",
+    "https://www.verdi.de/suche?q=MCM+Klosterfrau+Vertriebsgesellschaft+mbH",
+    "https://www.verdi.de/suche?q=Medicon+eG",
+    "https://www.verdi.de/suche?q=Karl+Otto+Braun",
+    "https://www.verdi.de/suche?q=Taylor+Wessing+Partnerschaftsgesellschaft+mbB",
+    "https://www.verdi.de/suche?q=Diakonie+D%C3%BCsseldorf+e.V.",
+    "https://www.verdi.de/bawue/kontakte/verdi-bw-social-media-folge-uns",
+    "https://www.verdi.de/hamburg/presse/pressemitteilungen/verdi-jugend-hamburg-ruft-internationalen-jugendprotesten-am-20-november-2026",
+    "https://www.verdi.de/arbeit-recht/minijob-2026-geringfuegige-beschaeftigung-fuer-603-euro-alle-regeln",
+    "https://www.verdi.de/sat/unser-landesbezirk/unsere-landesleitung/corinna-hersel-0",
+    "https://www.verdi.de/politik-gesellschaft/alles-was-du-zum-thema-lieferkettengesetz-wissen-musst",
+    "https://www.verdi.de/oeffentliche-private-dienste/mein-arbeitsplatz/feuerwehr/instagram-links-verdi-feuerwehr",
+    "https://www.verdi.de/kunst-kultur/aktuelle-meldungen",
+    "https://www.verdi.de/handel-nord/nachrichten/streiktage-im-mv-handel-kolleginnen-ikea-kaufland-handelshof-alliance-healthcare-und-metro-gastro",
+    "https://www.verdi.de/gesundheit-soziales-bildung/mein-arbeitsplatz/altenpflege/wir-pflegen-sie-entscheiden",
+    "https://www.verdi.de/gesundheit-soziales-bildung/themen/studium/glaeserne-decke-medizin",
+    "https://www.verdi.de/bb/presse/pressemitteilungen/charite-verzoegert-verhandlungen-verdi-wir-sind-verhandlungs-auch-streikbereit",
+    "https://www.verdi.de/luebeck-ostholstein/kontakte/im-betrieb/postdienste-speditionen-und-logistik",
+    "https://www.verdi.de/rps/nachrichten/antrittsbesuch-marion-paul-ministerpraesident-schnieder",
+    "https://www.verdi.de/dunie/taylan-emre",
+    "https://www.verdi.de/gesundheit-soziales-bildung/themen/kirchliches-arbeitsrecht/lohnkuerzungen-diakonie",
+    "https://www.verdi.de/psl-bayern/termin/verdi-mitgliedschaft-im-ruhestand-sinnvoll",
+    "https://www.verdi.de/bayern/presse/pressemitteilungen/schutz-gewalt-darf-nicht-am-rotstift-scheitern",
+    "https://www.verdi.de/frankfurt-am-main/termin/hexenwahn-hexenverfolgung-ausgrenzung-verfolgung-hass-und-mord-ein-relikt-geschichte",
+    "https://www.verdi.de/rps/unser-landesbezirk/unsere-landesfachbereiche/handel/maria-rinke",
+    "https://www.verdi.de/presse/pressemitteilungen/buss-und-bettag-beschaeftigte-altenpflege-fordern-verdi-nachbesserungen-am-pflegegesetz",
+    "https://www.verdi.de/hamburg/presse/pressemitteilungen/warnstreik-krankenhausdienstleister-beschaeftigte-asklepios-service-dienstleistungen-gmbh-kaempfen",
+    "https://www.verdi.de/beamte/uber-uns/lea-herzig-0",
+    "https://www.verdi.de/ikt-nrw/tarifbewegungen/tarifrunde-2026/tarifrunde-media-broadcast-gmbh-verhandlungen-aufgenommen",
+    "https://www.verdi.de/sat/unser-landesbezirk/unsere-landesleitung/corinna-hersel",
+    "https://www.verdi.de/oeffentliche-private-dienste/mein-arbeitsplatz/luftverkehr/instagram-links-verdi-luftverkehr",
+    "https://www.verdi.de/gesundheit-soziales-bildung/mein-arbeitsplatz/krankenhaus/mediclin-mueritz-tarifvertrag-fuer-alle",
+    "https://www.verdi.de/bb/presse/pressemitteilungen/verhandlungen-charite-gehen-entscheidende-phase-charite-vorstand-kann-streik-naechste-woche-abwenden",
+    "https://www.verdi.de/potsdam/nachrichten/sozialpolitik-onlineveranstaltung-den-aenderungen-13-sgb-ii-aenderungsgesetz-vom-buergergeld-zum",
+    "https://www.verdi.de/gesundheit-soziales-bildung-hamburg/mein-arbeitsplatz/kirche-diakonie-und-caritas/diakonie-und-evangelische-kirche-hamburg",
+    "https://www.verdi.de/handel-bawue/termin/verdi-mitgliedschaft-im-ruhestand-sinnvoll",
+    "https://www.verdi.de/verlage-druck-papier/unser-team/kontakte-regional/yvonne-baumann",
+    "https://www.verdi.de/pfalz/unser-bezirk/unsere-fachbereiche/kristian-fink",
+    "https://www.verdi.de/beamte/uber-uns/lea-herzig",
+    "https://www.verdi.de/luebeck-ostholstein/kontakte/im-betrieb/silvia-reichert",
+    "https://www.verdi.de/oeffentliche-private-dienste/nachrichten/autobahn-gmbh-steht-bald-ohne-geld-da",
+    "https://www.verdi.de/politik-gesellschaft/erbschaftssteuer-wer-zahlt-wer-sich-drueckt-und-was-sich-aendern-muss",
+    "https://www.verdi.de/queer/was-wir-fur-dich-tun/internationales",
+    "https://www.verdi.de/oeffentliche-private-dienste/mein-arbeitsplatz/maritime-wirtschaft/instagram-links-verdi-maritime-wirtschaft",
+    "https://www.verdi.de/presse/pressemitteilungen/klinikbeschaeftigte-wehren-sich-gegen-kuerzungsfolgen-und-zeigen-ihre-solidaritaet-den-streikenden",
+    "https://www.verdi.de/ikt-nrw/uber-uns/landesfachgruppenvorstand/martin-roeber",
+    "https://www.verdi.de/ostwestfalen-lippe/ort-unsere-branchen/postdienste-speditionen-und-logistik",
+    "https://www.verdi.de/rps/presse/pressemitteilungen/marion-paul-einfach-nur-gaengelung-und-generalverdacht-gegenueber-beschaeftigten",
+    "https://www.verdi.de/duessel-rhein-wupper/ehrenamt/ortsverein-duesseldorf",
+    "https://www.verdi.de/politik-gesellschaft/rente-deutschland",
+    "https://www.verdi.de/medien/presse/pressemitteilungen/afd-medien-pranger-dju-fordert-gesetzlichen-schutz-doxxing",
+    "https://www.verdi.de/handel-nrw/termin/verdi-mitgliedschaft-im-ruhestand-sinnvoll",
+    "https://www.verdi.de/ruhr-west/unser-bezirk/sonja-baumann",
+    "https://www.verdi.de/arbeit-recht/homeoffice-und-mobile-arbeit-was-beschaeftigte-wissen-muessen",
+    "https://www.verdi.de/versicherungen/meine-gewerkschaft/viel-ki-doch-bisher-wenig-entlastung-beschaeftigte-versicherungsbranche-sehen-potenziale-fordern"
+  ],
+  "rejected": [
+    {
+      "url": "https://www.verdi.de/",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=mediCAD",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=elderbrook+solutions",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Kyowa+Kirin+International",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Recor+Medical",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Daiichi+Sankyo+Europe",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=WINDSTAR+MEDICAL",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Centrient+Pharmaceuticals",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=HERMES+PHARMA",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=LINK",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Kulzer",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Novaled",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Klosterfrau+Healthcare",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Dr.+Pfleger+Arzneimittel",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Resuscitec",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Medicon",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=XION",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Charite+Research+Organisation",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Finzelberg",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=KOB",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=MBS+Logistics",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=SGL+Carbon",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Taylor+Wessing",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Diakonie+D%C3%BCsseldorf",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Hermes+Deutschland",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Comcross",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Rosenberger",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=OVB+MEDIA",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Sinnwell",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Adlershorst",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Scheidt-Bachmann",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Schoellershammer",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Hasse",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=tink",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Buss+Port+Services+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=sea+chefs",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=FINVIA+Family+Office+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=welovepr",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=constellr",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=bmedx",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Gerresheimer+B%C3%BCnde+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=mediCAD+Hectec+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=elderbrook+solutions+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Kyowa+Kirin+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Recor+Medical+Europe+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Daiichi+Sankyo+Europe+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=WindStar+Medical+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Centrient+Pharmaceuticals+Netherlands+B.V.",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=HERMES+PHARMA+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Waldemar+Link+GmbH+%26+Co.+KG",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Kulzer+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Novaled+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Maria+Clementine+Martin+Klosterfrau+Vertriebsgesellschaft+mbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Dr.+Pfleger+Arzneimittel+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Resuscitec+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Medicon+eG.+Chirurgiemechaniker-Genossenschaft",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=XION+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Charit%C3%A9+Research+Organisation+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Finzelberg+GmbH+%26+Co.+KG",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=KOB+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=MBS+Speditionsgesellschaft+mbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=SGL+Carbon+SE",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Taylor+Wessing+Partnerschaftsgesellschaft+von+Rechtsanw%C3%A4lten+und+Steuerberatern+mbB",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Diakonie+D%C3%BCsseldorf+Gemeindedienst+der+evangelischen+Kirchengemeinden+e.V.",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Hermes+Germany+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Daiichi+Sankyo+Deutschland+GmbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=MCM+Klosterfrau+Vertriebsgesellschaft+mbH",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Medicon+eG",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Karl+Otto+Braun",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Taylor+Wessing+Partnerschaftsgesellschaft+mbB",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Diakonie+D%C3%BCsseldorf+e.V.",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.verdi.de/bawue/kontakte/verdi-bw-social-media-folge-uns",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.verdi.de/hamburg/presse/pressemitteilungen/verdi-jugend-hamburg-ruft-internationalen-jugendprotesten-am-20-november-2026",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/arbeit-recht/minijob-2026-geringfuegige-beschaeftigung-fuer-603-euro-alle-regeln",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/sat/unser-landesbezirk/unsere-landesleitung/corinna-hersel-0",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.verdi.de/politik-gesellschaft/alles-was-du-zum-thema-lieferkettengesetz-wissen-musst",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/oeffentliche-private-dienste/mein-arbeitsplatz/feuerwehr/instagram-links-verdi-feuerwehr",
+      "reason": "insufficient_article_text"
+    },
+    {
+      "url": "https://www.verdi.de/kunst-kultur/aktuelle-meldungen",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/handel-nord/nachrichten/streiktage-im-mv-handel-kolleginnen-ikea-kaufland-handelshof-alliance-healthcare-und-metro-gastro",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/gesundheit-soziales-bildung/mein-arbeitsplatz/altenpflege/wir-pflegen-sie-entscheiden",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/gesundheit-soziales-bildung/themen/studium/glaeserne-decke-medizin",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.verdi.de/bb/presse/pressemitteilungen/charite-verzoegert-verhandlungen-verdi-wir-sind-verhandlungs-auch-streikbereit",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/luebeck-ostholstein/kontakte/im-betrieb/postdienste-speditionen-und-logistik",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/rps/nachrichten/antrittsbesuch-marion-paul-ministerpraesident-schnieder",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/dunie/taylan-emre",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.verdi.de/gesundheit-soziales-bildung/themen/kirchliches-arbeitsrecht/lohnkuerzungen-diakonie",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.verdi.de/psl-bayern/termin/verdi-mitgliedschaft-im-ruhestand-sinnvoll",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.verdi.de/bayern/presse/pressemitteilungen/schutz-gewalt-darf-nicht-am-rotstift-scheitern",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/frankfurt-am-main/termin/hexenwahn-hexenverfolgung-ausgrenzung-verfolgung-hass-und-mord-ein-relikt-geschichte",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.verdi.de/rps/unser-landesbezirk/unsere-landesfachbereiche/handel/maria-rinke",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.verdi.de/presse/pressemitteilungen/buss-und-bettag-beschaeftigte-altenpflege-fordern-verdi-nachbesserungen-am-pflegegesetz",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/hamburg/presse/pressemitteilungen/warnstreik-krankenhausdienstleister-beschaeftigte-asklepios-service-dienstleistungen-gmbh-kaempfen",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/beamte/uber-uns/lea-herzig-0",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.verdi.de/ikt-nrw/tarifbewegungen/tarifrunde-2026/tarifrunde-media-broadcast-gmbh-verhandlungen-aufgenommen",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.verdi.de/sat/unser-landesbezirk/unsere-landesleitung/corinna-hersel",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.verdi.de/oeffentliche-private-dienste/mein-arbeitsplatz/luftverkehr/instagram-links-verdi-luftverkehr",
+      "reason": "insufficient_article_text"
+    },
+    {
+      "url": "https://www.verdi.de/gesundheit-soziales-bildung/mein-arbeitsplatz/krankenhaus/mediclin-mueritz-tarifvertrag-fuer-alle",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.verdi.de/bb/presse/pressemitteilungen/verhandlungen-charite-gehen-entscheidende-phase-charite-vorstand-kann-streik-naechste-woche-abwenden",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/potsdam/nachrichten/sozialpolitik-onlineveranstaltung-den-aenderungen-13-sgb-ii-aenderungsgesetz-vom-buergergeld-zum",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/gesundheit-soziales-bildung-hamburg/mein-arbeitsplatz/kirche-diakonie-und-caritas/diakonie-und-evangelische-kirche-hamburg",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/handel-bawue/termin/verdi-mitgliedschaft-im-ruhestand-sinnvoll",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.verdi.de/verlage-druck-papier/unser-team/kontakte-regional/yvonne-baumann",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.verdi.de/pfalz/unser-bezirk/unsere-fachbereiche/kristian-fink",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.verdi.de/beamte/uber-uns/lea-herzig",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.verdi.de/luebeck-ostholstein/kontakte/im-betrieb/silvia-reichert",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.verdi.de/oeffentliche-private-dienste/nachrichten/autobahn-gmbh-steht-bald-ohne-geld-da",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/politik-gesellschaft/erbschaftssteuer-wer-zahlt-wer-sich-drueckt-und-was-sich-aendern-muss",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/queer/was-wir-fur-dich-tun/internationales",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.verdi.de/oeffentliche-private-dienste/mein-arbeitsplatz/maritime-wirtschaft/instagram-links-verdi-maritime-wirtschaft",
+      "reason": "insufficient_article_text"
+    },
+    {
+      "url": "https://www.verdi.de/presse/pressemitteilungen/klinikbeschaeftigte-wehren-sich-gegen-kuerzungsfolgen-und-zeigen-ihre-solidaritaet-den-streikenden",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/ikt-nrw/uber-uns/landesfachgruppenvorstand/martin-roeber",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.verdi.de/ostwestfalen-lippe/ort-unsere-branchen/postdienste-speditionen-und-logistik",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.verdi.de/rps/presse/pressemitteilungen/marion-paul-einfach-nur-gaengelung-und-generalverdacht-gegenueber-beschaeftigten",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/duessel-rhein-wupper/ehrenamt/ortsverein-duesseldorf",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.verdi.de/politik-gesellschaft/rente-deutschland",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/medien/presse/pressemitteilungen/afd-medien-pranger-dju-fordert-gesetzlichen-schutz-doxxing",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/handel-nrw/termin/verdi-mitgliedschaft-im-ruhestand-sinnvoll",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.verdi.de/ruhr-west/unser-bezirk/sonja-baumann",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.verdi.de/arbeit-recht/homeoffice-und-mobile-arbeit-was-beschaeftigte-wissen-muessen",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.verdi.de/versicherungen/meine-gewerkschaft/viel-ki-doch-bisher-wenig-entlastung-beschaeftigte-versicherungsbranche-sehen-potenziale-fordern",
+      "reason": "not_an_article"
+    }
+  ],
+  "errors": [],
+  "truncated": true,
+  "searches": [
+    {
+      "url": "https://www.verdi.de/suche?q=mediCAD",
+      "company_key": "mediCAD",
+      "query": "mediCAD",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=mediCAD+Hectec+GmbH",
+      "company_key": "mediCAD",
+      "query": "mediCAD Hectec GmbH",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=elderbrook+solutions",
+      "company_key": "elderbrook solutions",
+      "query": "elderbrook solutions",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=elderbrook+solutions+GmbH",
+      "company_key": "elderbrook solutions",
+      "query": "elderbrook solutions GmbH",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Kyowa+Kirin+International",
+      "company_key": "Kyowa Kirin International",
+      "query": "Kyowa Kirin International",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Kyowa+Kirin+GmbH",
+      "company_key": "Kyowa Kirin International",
+      "query": "Kyowa Kirin GmbH",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Recor+Medical",
+      "company_key": "Recor Medical",
+      "query": "Recor Medical",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Recor+Medical+Europe+GmbH",
+      "company_key": "Recor Medical",
+      "query": "Recor Medical Europe GmbH",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Daiichi+Sankyo+Europe",
+      "company_key": "Daiichi Sankyo Europe",
+      "query": "Daiichi Sankyo Europe",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Daiichi+Sankyo+Europe+GmbH",
+      "company_key": "Daiichi Sankyo Europe",
+      "query": "Daiichi Sankyo Europe GmbH",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Daiichi+Sankyo+Deutschland+GmbH",
+      "company_key": "Daiichi Sankyo Europe",
+      "query": "Daiichi Sankyo Deutschland GmbH",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=WINDSTAR+MEDICAL",
+      "company_key": "WINDSTAR MEDICAL",
+      "query": "WINDSTAR MEDICAL",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=WindStar+Medical+GmbH",
+      "company_key": "WINDSTAR MEDICAL",
+      "query": "WindStar Medical GmbH",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Centrient+Pharmaceuticals",
+      "company_key": "Centrient Pharmaceuticals",
+      "query": "Centrient Pharmaceuticals",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Centrient+Pharmaceuticals+Netherlands+B.V.",
+      "company_key": "Centrient Pharmaceuticals",
+      "query": "Centrient Pharmaceuticals Netherlands B.V.",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=HERMES+PHARMA",
+      "company_key": "HERMES PHARMA",
+      "query": "HERMES PHARMA",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=HERMES+PHARMA+GmbH",
+      "company_key": "HERMES PHARMA",
+      "query": "HERMES PHARMA GmbH",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=LINK",
+      "company_key": "LINK",
+      "query": "LINK",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Waldemar+Link+GmbH+%26+Co.+KG",
+      "company_key": "LINK",
+      "query": "Waldemar Link GmbH & Co. KG",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Kulzer",
+      "company_key": "Kulzer",
+      "query": "Kulzer",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Kulzer+GmbH",
+      "company_key": "Kulzer",
+      "query": "Kulzer GmbH",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Novaled",
+      "company_key": "Novaled",
+      "query": "Novaled",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Novaled+GmbH",
+      "company_key": "Novaled",
+      "query": "Novaled GmbH",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Klosterfrau+Healthcare",
+      "company_key": "Klosterfrau Healthcare",
+      "query": "Klosterfrau Healthcare",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Maria+Clementine+Martin+Klosterfrau+Vertriebsgesellschaft+mbH",
+      "company_key": "Klosterfrau Healthcare",
+      "query": "Maria Clementine Martin Klosterfrau Vertriebsgesellschaft mbH",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=MCM+Klosterfrau+Vertriebsgesellschaft+mbH",
+      "company_key": "Klosterfrau Healthcare",
+      "query": "MCM Klosterfrau Vertriebsgesellschaft mbH",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Dr.+Pfleger+Arzneimittel",
+      "company_key": "Dr. Pfleger Arzneimittel",
+      "query": "Dr. Pfleger Arzneimittel",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Dr.+Pfleger+Arzneimittel+GmbH",
+      "company_key": "Dr. Pfleger Arzneimittel",
+      "query": "Dr. Pfleger Arzneimittel GmbH",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Resuscitec",
+      "company_key": "Resuscitec",
+      "query": "Resuscitec",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Resuscitec+GmbH",
+      "company_key": "Resuscitec",
+      "query": "Resuscitec GmbH",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Medicon",
+      "company_key": "Medicon",
+      "query": "Medicon",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Medicon+eG.+Chirurgiemechaniker-Genossenschaft",
+      "company_key": "Medicon",
+      "query": "Medicon eG. Chirurgiemechaniker-Genossenschaft",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Medicon+eG",
+      "company_key": "Medicon",
+      "query": "Medicon eG",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=XION",
+      "company_key": "XION",
+      "query": "XION",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=XION+GmbH",
+      "company_key": "XION",
+      "query": "XION GmbH",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Charite+Research+Organisation",
+      "company_key": "Charite Research Organisation",
+      "query": "Charite Research Organisation",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Charit%C3%A9+Research+Organisation+GmbH",
+      "company_key": "Charite Research Organisation",
+      "query": "Charité Research Organisation GmbH",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Finzelberg",
+      "company_key": "Finzelberg",
+      "query": "Finzelberg",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Finzelberg+GmbH+%26+Co.+KG",
+      "company_key": "Finzelberg",
+      "query": "Finzelberg GmbH & Co. KG",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=KOB",
+      "company_key": "KOB",
+      "query": "KOB",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=KOB+GmbH",
+      "company_key": "KOB",
+      "query": "KOB GmbH",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Karl+Otto+Braun",
+      "company_key": "KOB",
+      "query": "Karl Otto Braun",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=MBS+Logistics",
+      "company_key": "MBS Logistics",
+      "query": "MBS Logistics",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=MBS+Speditionsgesellschaft+mbH",
+      "company_key": "MBS Logistics",
+      "query": "MBS Speditionsgesellschaft mbH",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=SGL+Carbon",
+      "company_key": "SGL Carbon",
+      "query": "SGL Carbon",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=SGL+Carbon+SE",
+      "company_key": "SGL Carbon",
+      "query": "SGL Carbon SE",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Taylor+Wessing",
+      "company_key": "Taylor Wessing",
+      "query": "Taylor Wessing",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Taylor+Wessing+Partnerschaftsgesellschaft+von+Rechtsanw%C3%A4lten+und+Steuerberatern+mbB",
+      "company_key": "Taylor Wessing",
+      "query": "Taylor Wessing Partnerschaftsgesellschaft von Rechtsanwälten und Steuerberatern mbB",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Taylor+Wessing+Partnerschaftsgesellschaft+mbB",
+      "company_key": "Taylor Wessing",
+      "query": "Taylor Wessing Partnerschaftsgesellschaft mbB",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Diakonie+D%C3%BCsseldorf",
+      "company_key": "Diakonie Düsseldorf",
+      "query": "Diakonie Düsseldorf",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Diakonie+D%C3%BCsseldorf+Gemeindedienst+der+evangelischen+Kirchengemeinden+e.V.",
+      "company_key": "Diakonie Düsseldorf",
+      "query": "Diakonie Düsseldorf Gemeindedienst der evangelischen Kirchengemeinden e.V.",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Diakonie+D%C3%BCsseldorf+e.V.",
+      "company_key": "Diakonie Düsseldorf",
+      "query": "Diakonie Düsseldorf e.V.",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Hermes+Deutschland",
+      "company_key": "Hermes Deutschland",
+      "query": "Hermes Deutschland",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Hermes+Germany+GmbH",
+      "company_key": "Hermes Deutschland",
+      "query": "Hermes Germany GmbH",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Comcross",
+      "company_key": "Comcross",
+      "query": "Comcross",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Rosenberger",
+      "company_key": "Rosenberger",
+      "query": "Rosenberger",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=OVB+MEDIA",
+      "company_key": "OVB MEDIA",
+      "query": "OVB MEDIA",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Sinnwell",
+      "company_key": "Sinnwell",
+      "query": "Sinnwell",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Adlershorst",
+      "company_key": "Adlershorst",
+      "query": "Adlershorst",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Scheidt-Bachmann",
+      "company_key": "Scheidt-Bachmann",
+      "query": "Scheidt-Bachmann",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Schoellershammer",
+      "company_key": "Schoellershammer",
+      "query": "Schoellershammer",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Hasse",
+      "company_key": "Hasse",
+      "query": "Hasse",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=tink",
+      "company_key": "tink",
+      "query": "tink",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Buss+Port+Services+GmbH",
+      "company_key": "Buss Port Services GmbH",
+      "query": "Buss Port Services GmbH",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=sea+chefs",
+      "company_key": "sea chefs",
+      "query": "sea chefs",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=FINVIA+Family+Office+GmbH",
+      "company_key": "FINVIA Family Office GmbH",
+      "query": "FINVIA Family Office GmbH",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=welovepr",
+      "company_key": "welovepr",
+      "query": "welovepr",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=constellr",
+      "company_key": "constellr",
+      "query": "constellr",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=bmedx",
+      "company_key": "bmedx",
+      "query": "bmedx",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.verdi.de/suche?q=Gerresheimer+B%C3%BCnde+GmbH",
+      "company_key": "Gerresheimer Bünde GmbH",
+      "query": "Gerresheimer Bünde GmbH",
+      "mechanism": "verdi_site_search",
+      "status": "fetched"
+    }
+  ],
+  "company_keys": [
+    "mediCAD",
+    "elderbrook solutions",
+    "Kyowa Kirin International",
+    "Recor Medical",
+    "Daiichi Sankyo Europe",
+    "WINDSTAR MEDICAL",
+    "Centrient Pharmaceuticals",
+    "HERMES PHARMA",
+    "LINK",
+    "Kulzer",
+    "Novaled",
+    "Klosterfrau Healthcare",
+    "Dr. Pfleger Arzneimittel",
+    "Resuscitec",
+    "Medicon",
+    "XION",
+    "Charite Research Organisation",
+    "Finzelberg",
+    "KOB",
+    "MBS Logistics",
+    "SGL Carbon",
+    "Taylor Wessing",
+    "Diakonie Düsseldorf",
+    "Hermes Deutschland",
+    "Comcross",
+    "Rosenberger",
+    "OVB MEDIA",
+    "Sinnwell",
+    "Adlershorst",
+    "Scheidt-Bachmann",
+    "Schoellershammer",
+    "Hasse",
+    "tink",
+    "Buss Port Services GmbH",
+    "sea chefs",
+    "FINVIA Family Office GmbH",
+    "welovepr",
+    "constellr",
+    "bmedx",
+    "Gerresheimer Bünde GmbH"
+  ],
+  "search_mode": "site_search",
+  "articles_examined": 22,
+  "page_coverage": {
+    "search_pages": 70,
+    "content_pages": 50,
+    "search_page_limit": 80,
+    "content_page_limit": 50,
+    "queued_remaining": 191,
+    "queue_limit_reached": false
+  },
+  "documents": [],
+  "requests_attempted": 115,
+  "gewerkschaft": {
+    "name": "ver.di",
+    "branches": [
+      "Banken",
+      "Bildung & Wissenschaft",
+      "Branchenübergreifend",
+      "Energie & Wasser",
+      "Großhandel & Außenhandel",
+      "IT & Telekommunikation",
+      "Versicherungen",
+      "Öffentlicher Dienst",
+      "Abfallwirtschaft"
+    ],
+    "urls": [
+      "https://www.verdi.de"
+    ],
+    "news_urls": [],
+    "url_prefixes": [],
+    "query_values": {},
+    "source_note": "",
+    "source_name": "",
+    "site_search": true
+  }
+}

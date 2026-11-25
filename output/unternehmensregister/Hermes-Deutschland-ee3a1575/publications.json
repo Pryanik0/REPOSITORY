@@ -1,0 +1,641 @@
+{
+  "company": {
+    "key": "Hermes Deutschland",
+    "name": "Hermes Germany GmbH",
+    "location": "Hamburg",
+    "name_source": "company_name",
+    "urls": [
+      "https://www.myhermes.de/"
+    ],
+    "kununu_url": "https://www.kununu.com/de/hermesgermany",
+    "branches": [
+      "Logistik"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "22419",
+    "street": "Essener Straße 89",
+    "region": "Hamburg",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:52:59.279903+00:00",
+  "searches": [
+    {
+      "accounting_only": true,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=Hermes+Germany+GmbH&companyLocation=Hamburg&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ACCOUNTING&drilldownFilter=22&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": true
+    },
+    {
+      "accounting_only": false,
+      "url": "https://www.unternehmensregister.de/de/suche?companyName=Hermes+Germany+GmbH&companyLocation=Hamburg&sourceDateFrom=2024-01-01&sourceDateTo=2026-11-25&formType=ALL_AREAS&searchToken=ufa9jJi1s8cJgOInV9y1ywOfgD3ayJgsINnKWwCLnQBeL-0inWPn3ZCpfZwWO0BUCX9rdLjwO3bJP8GzoFl7jGtH_i46l_pa35r3JgD6sC-lf7s4NTUTyr-3qHeBQoIiJiw6-BI5p-jzN63m5XChUvgwxRljHVIbwqj4rVHCazJKL0UlqfvDNoYnKAz9Ys1YjUZZNXD6tfarz_QH-uzz9NRqnrdpnORigLzqZh0",
+      "pages_read": 1,
+      "has_more": true
+    }
+  ],
+  "excluded_company_matches": [
+    {
+      "company": "Hermes Abrasives GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-09-10",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=wdIrMdpNIIUv8Nn91TCxtrgCbfLEGrKkING27ARMAE215zA3y7GIUGQlFZeMfPCR9oGOU9vITGY-oHIAhs8EUKkfaaamaK8nZOupRWjdEELbE0gOuQMxoh5lxiVa1otCSSxMYWz--XZpa4mojXUrI-VF-oYNwlVOh6ijJY3pjzjtAJlrW6A35DFM9yPJhHIYUyf1QxBhVZRdy12znnR_1is5indxfdofa5FmrKt7MkXfBWs",
+      "metadata": "Hermes Abrasives GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 10.09.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Hermes Abrasives GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-06-12",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=boPTRnsjVfv9ejvgOYYWgN3auGBeCdcsl1dMDKclfdmSRoT4hUVLHwysMUcUKQZI_9bcSsk6CyuSOZrU2EvyzK-qiuGAqvU0MD0MQkfzMFyoX4jGhiXog_lf9BborBNiZ-_HQ8rW5aKwEeQOdly33HsuGqQEhJ7qg7WlrvFX9-YzS9FsA3TvvC2UVhRHV3ewEY7Gu0j706DFTkm3i7_VW9a88Z8QRAIoVKqfTUWUAJ4zB5k",
+      "metadata": "Hermes Abrasives GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 12.06.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Hermes Schleifwerkzeuge GmbH & Co. KG, Hamburg",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-03-04",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=A6pFedEjPMvq6WNl1N6MubWF60dUxzbUG7YYSUDwUYbtB98fiTrhWXshyQNPpgFYtXXVUHBCi9Yvk56cTOlx88EANYEjGRH9zf-N5UARTr4YZwVCyr_foFUVwHSeqj61qHNg7cMWQKoQ3ME9aFuFSTqFd0-v5RFUYiePu1r90nyYlALDxNhLRg7NtPWvkXc5e_Bn1xBf2HC9hLmIuTMno1qiBqCdAB_RGNdFkXvUhMJRIho",
+      "metadata": "Hermes Schleifwerkzeuge GmbH & Co. KG, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 04.03.2025 Sprache: Deutsch Befreite Unternehmen anzeigen Hermes Schleifwerkzeuge GmbH & Co. KG, Hamburg Hermes Schleifmittel GmbH, Hamburg Hermes Abrasives GmbH, Hamburg",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Hermes Abrasives GmbH, Hamburg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-02-03",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=F2WRKdsLZwhWHwh9XPzYWEbYMJSaEt7CzmR-yWrywsHhEeYsaYGDRo_s84P7olRYfy8b8u2hmOsyqCEbOidQKXqDB7hEC1YijMui27DmXU8vcRDwIMliKDzdmI5iyBWnT1v75UlRepmwXz6nd7vsgjSGNcyVXrDYmmozBGT9R-0MaCUT4qSAMR5aOYdgmzu0a2m3ufYliGv5GC2nq6zzMFCIlKEK33aT-59Tw5T-sSQ1DTc",
+      "metadata": "Hermes Abrasives GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Hermes Schleifwerkzeuge GmbH & Co. KG, Hamburg Datum: 03.02.2025 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Otto GmbH & Co. KGaA, Hamburg",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.03.2025 bis zum 28.02.2026",
+      "publication_date": "2026-06-17",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=TpQB8VEJ4mievevRU6L13zXefDohhgGDH_8yz2xcRsxhW0wea-udhtQc-AzV2TfWW6Sl523fkDRG9JCNMbEYG32qL7xx8x2aGcn97-0tcgjuwELcyAfd3zeWTP42znrEqi_BUrEmf5EaFjPWMcA-KT7ZDLTWo_dbo0vMfbQ2Dlv5-ugB7kVvB3bJZw83XxjXQ8GxK9Fodaf3SqlIS-erEYtXi1KB_5Jkj1uzbZOghozSDZ_U",
+      "metadata": "Otto GmbH & Co. KGaA, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.03.2025 bis zum 28.02.2026 Ergänzt am 03.07.2026 Datum: 17.06.2026 Sprache: Deutsch Befreite Unternehmen anzeigen EOS KSI Inkasso Deutschland GmbH, Bad Rappenau Magazin Versandhandelsgesellschaft mbH, Stuttgart Hermes Fulfilment GmbH, Hamburg Otto Finance Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Lascana Handelsgesellschaft mbH, Hamburg Otto Finanzplus GmbH Versicherungsvermittlung, Hamburg EOS Deutschland GmbH, Hamburg Kommanditgesellschaft SSU Grundstücks-Verwaltungs GmbH & Co., Hamburg Otto International GmbH, Hamburg OTTO-EUROPE Beteiligungs-Verwaltungs GmbH, Hamburg OTTO AUSTRIA Grundstücksverwaltungs GmbH, Hamburg OTTO-ASIA Beteiligungs-Verwaltungs GmbH, Hamburg OVC Venture Capital GmbH, Hamburg EOS International Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Küche & Co GmbH, Hamburg EOS Field Services GmbH, Hamburg Systain Consulting GmbH, Hamburg EOS Verbriefungsspezialgesellschaft mbH, Hamburg bonprix Handelsgesellschaft mbH, Hamburg EOS Technology Solutions GmbH, Hamburg EOS Finance GmbH, Hamburg Verwaltungsgesellschaft HERMES Einrichtungs Service mbH, Hamburg FEGRO-Markt Eschborn,Verwaltungs GmbH, Hamburg MEDIA Handelsgesellschaft mbH, Hamburg Hanseatic Versicherungsdienst GmbH Versicherungsvermittlung, Hamburg Hanseatic Versicherungs-Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg bonprix Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Otto Group one.O GmbH, Dresden Argus Inkasso GmbH, Kamp-Lintfort Manufactum Brot & Butter GmbH, Waltrop creation L Handelsgesellschaft mbH, Regensburg Verwaltungsgesellschaft Baur Versand mbH, Burgkunstadt Frankonia Verwaltungs GmbH, Rottendorf BVB Beteiligungs- und Verwaltungs-GmbH, Burgkunstadt Frankonia Handels GmbH & Co. KG, Rottendorf Menos-Grundstücksholding GmbH, Burgkunstadt Baur Versand (GmbH & Co KG), Burgkunstadt Sieh an! Handelsgesellschaft mbH, Amberg Frankfurter Inkasso Gesellschaft mit beschränkter Haftung, Potsdam EOS Investment GmbH, Hamburg EOS Securitisation GmbH, Hamburg EOS Investment Poland GmbH, Hamburg eVenture Beteiligungs- Verwaltungsgesellschaft mbH, Hamburg Hermes Europe GmbH, Hamburg Balata Grundstücksverwaltungsgesellschaft mbH & Co. Vermietungs KG, Hamburg Credinvest 3 Finance GmbH, Hamburg EOS Investment RO GmbH, Hamburg Otto Russland Beteiligungs- und Verwaltungsgesellschaft mbH, Hamburg Otto Brasilien Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg EOS Immobilienworkout GmbH, Mülheim an der Ruhr EOS Deutscher Inkasso-Dienst GmbH, Hamburg OTTO Zwei-Mann-Handling Beteiligungs-Verwaltungs GmbH, Hamburg Boreal Grundstücksverwaltungsgesellschaft mbH & Co. Vermietungs KG, Mainz EOS Invest EE GmbH, Hamburg EOS Holding GmbH, Hamburg WVZ Warenverteilzentrum Manteler Forst Grundstücks-Verwaltungs-GmbH & Co. KG., Mainz Otto Group data.works GmbH, Hamburg Hermes Fulfilment Ansbach GmbH, Hamburg EOS Invest WE GmbH, Hamburg OFFICE PLANET GmbH, Hamburg empiriecom GmbH & Co. KG, Burgkunstadt P+L Services GmbH, Mülheim an der Ruhr EOS Investment HR GmbH, Hamburg Otto Paper & Print GmbH, Hamburg HSG Hermes Service Gesellschaft mbH, Hamburg Manufactum GmbH, Waltrop GPI - Gesellschaft für Grundbesitzmanagement mbH & Co. Kommanditgesellschaft, Mülheim an der Ruhr WG Datenmanagement GmbH, Weiden i.d.OPf. CINTHIA Real Estate GmbH, Monheim am Rhein Hermes Auslieferungsbasis Haldensleben GmbH, Hamburg Hermes Fulfilment Tech Solutions GmbH, Hamburg Hermes Auslieferungsbasis Ohrdruf GmbH, Hamburg Otto Import Solutions GmbH, Hamburg FinTecrity GmbH, Mannheim TT - Service und Beteiligungs-Verwaltungs GmbH, Frankfurt am Main HERMES Einrichtungs Service GmbH & Co. KG, Löhne Baur Hermes Fulfilment GmbH & Co KG, Burgkunstadt Altenkunstadter Logistik Immobilien GmbH & Co KG, Burgkunstadt Josef Witt GmbH, Weiden i.d.OPf. Frankonia Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Hermes Auslieferungsbasis Haldensleben GmbH, Hamburg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.03.2025 bis zum 28.02.2026",
+      "publication_date": "2026-01-22",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=v-xuCKPAHZgMH2MIQx59sQfWdVGHKpfJfbLNagRMZfJOYpirFOSctWyvemw9__W9J1lDCPAXNgLkadyjPXjGskw0RtxqALQhE0NUGjaraAQ50xJ7soiDocdeCeu1zI0Gz_5zt4iuxj9ZyuhiSRM5Z-gV69H4L8_9b8zBzzHv4wxA7nFcEKI5bbr4FwZN6JOzKdBNdiUiqD4PymZIzxvQCJ02mKWioo_TANvHsbaKRb0XefTd",
+      "metadata": "Hermes Auslieferungsbasis Haldensleben GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.03.2025 bis zum 28.02.2026 Otto GmbH & Co. KGaA, Hamburg Datum: 22.01.2026 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Otto GmbH & Co. KGaA, Hamburg",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.03.2024 bis zum 28.02.2025",
+      "publication_date": "2025-07-02",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=6NwJabPugTep_EquN5FHrZaqlpEuCFlDHNlzMn2VSIxEEL4QQU0VYvCvg1G_5ggcRLT9kGRY4TFeZBLYjsknZkzcrQjI_WLvl8MgLIVxGmPCjC2kWrlbNl_G-d0YByoxUrw7ANbw0FaYJ_4mY02ioYhaevTWBs8kGr3YJx6IN5QREv4r41uWfTzKMJJutu894vwHvYtkCgg5fXIufJjFfbPn9NVJ-CDMnZkHlOt8liAMCXtU",
+      "metadata": "Otto GmbH & Co. KGaA, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.03.2024 bis zum 28.02.2025 Ergänzt am 31.07.2025 Datum: 02.07.2025 Sprache: Deutsch Befreite Unternehmen anzeigen EOS KSI Inkasso Deutschland GmbH, Bad Rappenau Frankonia Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Magazin Versandhandelsgesellschaft mbH, Stuttgart Hermes Fulfilment GmbH, Hamburg Otto Finance Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Lascana Handelsgesellschaft mbH, Hamburg Otto Finanzplus GmbH Versicherungsvermittlung, Hamburg EOS Deutschland GmbH, Hamburg Kommanditgesellschaft SSU Grundstücks-Verwaltungs GmbH & Co., Hamburg Otto International GmbH, Hamburg OTTO-EUROPE Beteiligungs-Verwaltungs GmbH, Hamburg OTTO AUSTRIA Grundstücksverwaltungs GmbH, Hamburg OTTO-ASIA Beteiligungs-Verwaltungs GmbH, Hamburg OVC Venture Capital GmbH, Hamburg EOS International Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Küche & Co GmbH, Hamburg EOS Field Services GmbH, Hamburg Systain Consulting GmbH, Hamburg EOS Verbriefungsspezialgesellschaft mbH, Hamburg bonprix Handelsgesellschaft mbH, Hamburg EOS Technology Solutions GmbH, Hamburg EOS Finance GmbH, Hamburg Verwaltungsgesellschaft HERMES Einrichtungs Service mbH, Hamburg FEGRO-Markt Eschborn,Verwaltungs GmbH, Hamburg MEDIA Handelsgesellschaft mbH, Hamburg Hanseatic Versicherungsdienst GmbH Versicherungsvermittlung, Hamburg Hanseatic Versicherungs-Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg bonprix Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Otto Group one.O GmbH, Dresden Argus Inkasso GmbH, Kamp-Lintfort Manufactum Brot & Butter GmbH, Waltrop walter services Burgkunstadt GmbH, Königswinter creation L Handelsgesellschaft mbH, Regensburg Verwaltungsgesellschaft Baur Versand mbH, Burgkunstadt Frankonia Verwaltungs GmbH, Rottendorf Josef Witt GmbH, Weiden i.d.OPf. BVB Beteiligungs- und Verwaltungs-GmbH, Burgkunstadt Frankonia Handels GmbH & Co. KG, Rottendorf Menos-Grundstücksholding GmbH, Burgkunstadt Baur Versand (GmbH & Co KG), Burgkunstadt Sieh an! Handelsgesellschaft mbH, Amberg Frankfurter Inkasso Gesellschaft mit beschränkter Haftung, Potsdam EOS Investment GmbH, Hamburg EOS Securitisation GmbH, Hamburg EOS Investment Poland GmbH, Hamburg eVenture Beteiligungs- Verwaltungsgesellschaft mbH, Hamburg Hermes Europe GmbH, Hamburg Balata Grundstücksverwaltungsgesellschaft mbH & Co. Vermietungs KG, Hamburg Credinvest 3 Finance GmbH, Hamburg EOS Investment RO GmbH, Hamburg Otto Russland Beteiligungs- und Verwaltungsgesellschaft mbH, Hamburg Otto Brasilien Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg EOS Immobilienworkout GmbH, Mülheim an der Ruhr EOS Deutscher Inkasso-Dienst GmbH, Hamburg OTTO Zwei-Mann-Handling Beteiligungs-Verwaltungs GmbH, Hamburg Boreal Grundstücksverwaltungsgesellschaft mbH & Co. Vermietungs KG, Mainz EOS Holding GmbH, Hamburg WVZ Warenverteilzentrum Manteler Forst Grundstücks-Verwaltungs-GmbH & Co. KG., Mainz Otto Group data.works GmbH, Hamburg Hermes Fulfilment Ansbach GmbH, Hamburg EOS Invest WE GmbH, Hamburg OFFICE PLANET GmbH, Hamburg empiriecom GmbH & Co. KG, Burgkunstadt P+L Services GmbH, Mülheim an der Ruhr EOS Investment HR GmbH, Hamburg Otto Paper & Print GmbH, Hamburg HSG Hermes Service Gesellschaft mbH, Hamburg Manufactum GmbH, Waltrop GPI - Gesellschaft für Grundbesitzmanagement mbH & Co. Kommanditgesellschaft, Mülheim an der Ruhr WG Datenmanagement GmbH, Weiden i.d.OPf. CINTHIA Real Estate GmbH, Monheim am Rhein Hermes Auslieferungsbasis Haldensleben GmbH, Hamburg Hermes Fulfilment Tech Solutions GmbH, Hamburg Hermes Auslieferungsbasis Ohrdruf GmbH, Hamburg Otto Import Solutions GmbH, Hamburg FinTecrity GmbH, Mannheim TT - Service und Beteiligungs-Verwaltungs GmbH, Frankfurt am Main HERMES Einrichtungs Service GmbH & Co. KG, Löhne Baur Hermes Fulfilment GmbH & Co KG, Burgkunstadt Altenkunstadter Logistik Immobilien GmbH & Co KG, Burgkunstadt sheego GmbH, Weiden i.d.OPf.",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Hermes Auslieferungsbasis Haldensleben GmbH, Hamburg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.03.2024 bis zum 28.02.2025",
+      "publication_date": "2024-10-28",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=qXHejGYjjiyN2yU4UqM9A5P8KrH0kLbSH4V9r_qmKZCFl7aNDB00U_3zMq6oMHtpWh7F09s_ARaGe4_794ii5b3nj0A_6DxUbLBsWpyMM8CyXD8uzZi8yCMwcSxm_ByWuXKwEzA6CaPWdVlSeqo3tS0cv0gXN1drZ-JOEWsZ4FMz3nnpDySj6QpMpHmDeAT4rAI9235hAQ0jrlptmqPJkwr6EpPUXmCeDHGTbenyY54ghadi",
+      "metadata": "Hermes Auslieferungsbasis Haldensleben GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.03.2024 bis zum 28.02.2025 Otto (GmbH & Co KG), Hamburg Datum: 28.10.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Otto (GmbH & Co KG), Hamburg",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.03.2023 bis zum 29.02.2024",
+      "publication_date": "2024-10-09",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=Ay6gwSGNeC06YWzBdufW1KfXhIoh4cU-PpIgSBJr7GRgnxWjzyoy-JlaI0a0kvtGJ0CZ_D4DcRRYpWazcoaHzohgYF5fg743G2Z-s7EL8M5r78QF5xOBWSUHFuLkXo8EiGHKMNUPGJP6UdA9-upmwZfWc2sEPmZBf5-WGh8LW8FAHyPA9A0tOK7UPkRNMH4oGugW37dt5Cei7BJNExHbGK-VBAarnUycTg0DVax_JcI2z9uV",
+      "metadata": "Otto (GmbH & Co KG), Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.03.2023 bis zum 29.02.2024 Datum: 09.10.2024 Sprache: Deutsch Befreite Unternehmen anzeigen EOS KSI Inkasso Deutschland GmbH, Bad Rappenau Frankonia Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg GSG Gastro Service GmbH, Karlsruhe Hermes Fulfilment GmbH, Hamburg Otto (GmbH & Co KG), Hamburg Otto Finance Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Lascana Handelsgesellschaft mbH, Hamburg Otto Finanzplus GmbH Versicherungsvermittlung, Hamburg EOS Deutschland GmbH, Hamburg Kommanditgesellschaft SSU Grundstücks-Verwaltungs GmbH & Co., Hamburg Otto International GmbH, Hamburg OTTO-EUROPE Beteiligungs-Verwaltungs GmbH, Hamburg OTTO AUSTRIA Grundstücksverwaltungs GmbH, Hamburg OTTO-CHEER Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg OTTO-ASIA Beteiligungs-Verwaltungs GmbH, Hamburg OVC Venture Capital GmbH, Hamburg EOS International Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Küche & Co GmbH, Hamburg EOS Field Services GmbH, Hamburg Systain Consulting GmbH, Hamburg EOS Verbriefungsspezialgesellschaft mbH, Hamburg bonprix Handelsgesellschaft mbH, Hamburg EOS Technology Solutions GmbH, Hamburg Hermes General Service Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg EOS Finance GmbH, Hamburg Verwaltungsgesellschaft HERMES Einrichtungs Service mbH, Hamburg FEGRO-Markt Eschborn,Verwaltungs GmbH, Hamburg MEDIA Handelsgesellschaft mbH, Hamburg Hanseatic Versicherungsdienst GmbH Versicherungsvermittlung, Hamburg Hanseatic Versicherungs-Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Erste Mercator Vermietungsgesellschaft mbH & Co KG, Hamburg bonprix Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Otto Group one.O GmbH, Dresden Argus Inkasso GmbH, Kamp-Lintfort walter services Burgkunstadt GmbH, Königswinter creation L Handelsgesellschaft mbH, Regensburg Verwaltungsgesellschaft Baur Versand mbH, Burgkunstadt Frankonia Verwaltungs GmbH, Rottendorf Josef Witt GmbH, Weiden i.d.OPf. BVB Beteiligungs- und Verwaltungs-GmbH, Burgkunstadt Frankonia Handels GmbH & Co. KG, Rottendorf Menos-Grundstücksholding GmbH, Burgkunstadt Baur Versand (GmbH & Co KG), Burgkunstadt Sieh an! Handelsgesellschaft mbH, Amberg Frankfurter Inkasso Gesellschaft mit beschränkter Haftung, Potsdam EOS Investment GmbH, Hamburg EOS Securitisation GmbH, Hamburg ARTHUR Holding GmbH, Hamburg EOS Investment Poland GmbH, Hamburg eVenture Beteiligungs- Verwaltungsgesellschaft mbH, Hamburg Hermes Europe GmbH, Hamburg Balata Grundstücksverwaltungsgesellschaft mbH & Co. Vermietungs KG, Hamburg EOS Investment CEE GmbH, Hamburg Credinvest 3 Finance GmbH, Hamburg EOS Investment RO GmbH, Hamburg Otto Russland Beteiligungs- und Verwaltungsgesellschaft mbH, Hamburg Otto Brasilien Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg EOS Immobilienworkout GmbH, Mülheim an der Ruhr EOS Deutscher Inkasso-Dienst GmbH, Hamburg OTTO Zwei-Mann-Handling Beteiligungs-Verwaltungs GmbH, Hamburg Boreal Grundstücksverwaltungsgesellschaft mbH & Co. Vermietungs KG, Mainz EOS Holding GmbH, Hamburg WVZ Warenverteilzentrum Manteler Forst Grundstücks-Verwaltungs-GmbH & Co. KG., Mainz Otto Group data.works GmbH, Hamburg Hermes Fulfilment Ansbach GmbH, Hamburg EOS Invest WE GmbH, Hamburg OFFICE PLANET GmbH, Hamburg empiriecom GmbH & Co. KG, Burgkunstadt P+L Services GmbH, Mülheim an der Ruhr EOS Investment HR GmbH, Hamburg Otto Paper & Print GmbH, Hamburg HSG Hermes Service Gesellschaft mbH, Hamburg GPI - Gesellschaft für Grundbesitzmanagement mbH & Co. Kommanditgesellschaft, Mülheim an der Ruhr WG Datenmanagement GmbH, Weiden i.d.OPf. CINTHIA Real Estate GmbH, Monheim am Rhein Hermes Auslieferungsbasis Haldensleben GmbH, Hamburg Hermes Fulfilment Tech Solutions GmbH, Hamburg Hermes Auslieferungsbasis Ohrdruf GmbH, Hamburg Otto Import Solutions GmbH, Hamburg Funnel Plus GmbH, Hamburg FinTecrity GmbH, Mannheim Hermes Fulfilment Gernsheim GmbH, Hamburg TT - Service und Beteiligungs-Verwaltungs GmbH, Frankfurt am Main HERMES Einrichtungs Service GmbH & Co. KG, Löhne Baur Hermes Fulfilment GmbH & Co KG, Burgkunstadt Altenkunstadter Logistik Immobilien GmbH & Co KG, Burgkunstadt",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Otto GmbH & Co. KGaA, Hamburg",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.03.2025 bis zum 28.02.2026",
+      "publication_date": "2026-06-17",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=c_3_Vn6wXFgA8ROQGtxqe9Jb8vrJUq_vQ91mMju5b7xD5TfYFHoZZKhrgejfyfx4LHblvoYXmT_AqCu_AVD6PylZx4j1tiJ11YU1eIWpoxKagBgYK_IQIFL_79aXhrDRtv0_RTmKfK7w1RTi41DWgrdP0lMix87IkHKSXXKapHf7EmPFZY7g7wWDrMLSfiYVwHU13TE2ewYkojMl_OMFqjpC2n6-P_INxOFv9zsVGTZok7wl",
+      "metadata": "Otto GmbH & Co. KGaA, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.03.2025 bis zum 28.02.2026 Ergänzt am 03.07.2026 Datum: 17.06.2026 Sprache: Deutsch Befreite Unternehmen anzeigen EOS KSI Inkasso Deutschland GmbH, Bad Rappenau Magazin Versandhandelsgesellschaft mbH, Stuttgart Hermes Fulfilment GmbH, Hamburg Otto Finance Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Lascana Handelsgesellschaft mbH, Hamburg Otto Finanzplus GmbH Versicherungsvermittlung, Hamburg EOS Deutschland GmbH, Hamburg Kommanditgesellschaft SSU Grundstücks-Verwaltungs GmbH & Co., Hamburg Otto International GmbH, Hamburg OTTO-EUROPE Beteiligungs-Verwaltungs GmbH, Hamburg OTTO AUSTRIA Grundstücksverwaltungs GmbH, Hamburg OTTO-ASIA Beteiligungs-Verwaltungs GmbH, Hamburg OVC Venture Capital GmbH, Hamburg EOS International Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Küche & Co GmbH, Hamburg EOS Field Services GmbH, Hamburg Systain Consulting GmbH, Hamburg EOS Verbriefungsspezialgesellschaft mbH, Hamburg bonprix Handelsgesellschaft mbH, Hamburg EOS Technology Solutions GmbH, Hamburg EOS Finance GmbH, Hamburg Verwaltungsgesellschaft HERMES Einrichtungs Service mbH, Hamburg FEGRO-Markt Eschborn,Verwaltungs GmbH, Hamburg MEDIA Handelsgesellschaft mbH, Hamburg Hanseatic Versicherungsdienst GmbH Versicherungsvermittlung, Hamburg Hanseatic Versicherungs-Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg bonprix Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Otto Group one.O GmbH, Dresden Argus Inkasso GmbH, Kamp-Lintfort Manufactum Brot & Butter GmbH, Waltrop creation L Handelsgesellschaft mbH, Regensburg Verwaltungsgesellschaft Baur Versand mbH, Burgkunstadt Frankonia Verwaltungs GmbH, Rottendorf BVB Beteiligungs- und Verwaltungs-GmbH, Burgkunstadt Frankonia Handels GmbH & Co. KG, Rottendorf Menos-Grundstücksholding GmbH, Burgkunstadt Baur Versand (GmbH & Co KG), Burgkunstadt Sieh an! Handelsgesellschaft mbH, Amberg Frankfurter Inkasso Gesellschaft mit beschränkter Haftung, Potsdam EOS Investment GmbH, Hamburg EOS Securitisation GmbH, Hamburg EOS Investment Poland GmbH, Hamburg eVenture Beteiligungs- Verwaltungsgesellschaft mbH, Hamburg Hermes Europe GmbH, Hamburg Balata Grundstücksverwaltungsgesellschaft mbH & Co. Vermietungs KG, Hamburg Credinvest 3 Finance GmbH, Hamburg EOS Investment RO GmbH, Hamburg Otto Russland Beteiligungs- und Verwaltungsgesellschaft mbH, Hamburg Otto Brasilien Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg EOS Immobilienworkout GmbH, Mülheim an der Ruhr EOS Deutscher Inkasso-Dienst GmbH, Hamburg OTTO Zwei-Mann-Handling Beteiligungs-Verwaltungs GmbH, Hamburg Boreal Grundstücksverwaltungsgesellschaft mbH & Co. Vermietungs KG, Mainz EOS Invest EE GmbH, Hamburg EOS Holding GmbH, Hamburg WVZ Warenverteilzentrum Manteler Forst Grundstücks-Verwaltungs-GmbH & Co. KG., Mainz Otto Group data.works GmbH, Hamburg Hermes Fulfilment Ansbach GmbH, Hamburg EOS Invest WE GmbH, Hamburg OFFICE PLANET GmbH, Hamburg empiriecom GmbH & Co. KG, Burgkunstadt P+L Services GmbH, Mülheim an der Ruhr EOS Investment HR GmbH, Hamburg Otto Paper & Print GmbH, Hamburg HSG Hermes Service Gesellschaft mbH, Hamburg Manufactum GmbH, Waltrop GPI - Gesellschaft für Grundbesitzmanagement mbH & Co. Kommanditgesellschaft, Mülheim an der Ruhr WG Datenmanagement GmbH, Weiden i.d.OPf. CINTHIA Real Estate GmbH, Monheim am Rhein Hermes Auslieferungsbasis Haldensleben GmbH, Hamburg Hermes Fulfilment Tech Solutions GmbH, Hamburg Hermes Auslieferungsbasis Ohrdruf GmbH, Hamburg Otto Import Solutions GmbH, Hamburg FinTecrity GmbH, Mannheim TT - Service und Beteiligungs-Verwaltungs GmbH, Frankfurt am Main HERMES Einrichtungs Service GmbH & Co. KG, Löhne Baur Hermes Fulfilment GmbH & Co KG, Burgkunstadt Altenkunstadter Logistik Immobilien GmbH & Co KG, Burgkunstadt Josef Witt GmbH, Weiden i.d.OPf. Frankonia Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Hermes Europe GmbH, Hamburg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.03.2025 bis zum 28.02.2026",
+      "publication_date": "2025-12-12",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=_1pB29ekEPd7oQRNHYODve_-om-r-Omp9geBCZ-U2dsuKiHIYNdLnFfPY2EZcQ00UMr9Io--ScUZSgZq_dml878KbenZIpA7c7M3sDnZ0mQ8chZQtEHC1Bfwdpz0s6D6dM3xPkDzznPMFSH0JlNE5AY36RXNKnzkpdTuCyYyWsTe9avoPQGmgoHo1xjSI5Ad1kBg6UuOaA7FqtDYB9wCsD410UZGeEteaYwuovxlNtEnOBP_",
+      "metadata": "Hermes Europe GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.03.2025 bis zum 28.02.2026 Otto GmbH & Co. KGaA, Hamburg Datum: 12.12.2025 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Otto GmbH & Co. KGaA, Hamburg",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.03.2024 bis zum 28.02.2025",
+      "publication_date": "2025-07-02",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=tCJE4NeVKwjuOi4gOQQZ6nx6cL_QiLNFwimttL-m84oYSGiLv2M2wVYY9rM-zUMyqAbZTQaDYd0Zg4jEVBHKwSJCMrtJkA_5isW-ARot1uvgqqDU3n4ZYi7U1j9c33BfXU3g1aVSma2D6vF_8Ap0B41nODY7ncm0EB3x3mwtDpCOTT0B_VCZNc2-dMb99yezmhsOaiIb19WxTMRcKC_g8eUzUeL7YwJKH2yjhAoQip8qeAj3",
+      "metadata": "Otto GmbH & Co. KGaA, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.03.2024 bis zum 28.02.2025 Ergänzt am 31.07.2025 Datum: 02.07.2025 Sprache: Deutsch Befreite Unternehmen anzeigen EOS KSI Inkasso Deutschland GmbH, Bad Rappenau Frankonia Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Magazin Versandhandelsgesellschaft mbH, Stuttgart Hermes Fulfilment GmbH, Hamburg Otto Finance Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Lascana Handelsgesellschaft mbH, Hamburg Otto Finanzplus GmbH Versicherungsvermittlung, Hamburg EOS Deutschland GmbH, Hamburg Kommanditgesellschaft SSU Grundstücks-Verwaltungs GmbH & Co., Hamburg Otto International GmbH, Hamburg OTTO-EUROPE Beteiligungs-Verwaltungs GmbH, Hamburg OTTO AUSTRIA Grundstücksverwaltungs GmbH, Hamburg OTTO-ASIA Beteiligungs-Verwaltungs GmbH, Hamburg OVC Venture Capital GmbH, Hamburg EOS International Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Küche & Co GmbH, Hamburg EOS Field Services GmbH, Hamburg Systain Consulting GmbH, Hamburg EOS Verbriefungsspezialgesellschaft mbH, Hamburg bonprix Handelsgesellschaft mbH, Hamburg EOS Technology Solutions GmbH, Hamburg EOS Finance GmbH, Hamburg Verwaltungsgesellschaft HERMES Einrichtungs Service mbH, Hamburg FEGRO-Markt Eschborn,Verwaltungs GmbH, Hamburg MEDIA Handelsgesellschaft mbH, Hamburg Hanseatic Versicherungsdienst GmbH Versicherungsvermittlung, Hamburg Hanseatic Versicherungs-Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg bonprix Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Otto Group one.O GmbH, Dresden Argus Inkasso GmbH, Kamp-Lintfort Manufactum Brot & Butter GmbH, Waltrop walter services Burgkunstadt GmbH, Königswinter creation L Handelsgesellschaft mbH, Regensburg Verwaltungsgesellschaft Baur Versand mbH, Burgkunstadt Frankonia Verwaltungs GmbH, Rottendorf Josef Witt GmbH, Weiden i.d.OPf. BVB Beteiligungs- und Verwaltungs-GmbH, Burgkunstadt Frankonia Handels GmbH & Co. KG, Rottendorf Menos-Grundstücksholding GmbH, Burgkunstadt Baur Versand (GmbH & Co KG), Burgkunstadt Sieh an! Handelsgesellschaft mbH, Amberg Frankfurter Inkasso Gesellschaft mit beschränkter Haftung, Potsdam EOS Investment GmbH, Hamburg EOS Securitisation GmbH, Hamburg EOS Investment Poland GmbH, Hamburg eVenture Beteiligungs- Verwaltungsgesellschaft mbH, Hamburg Hermes Europe GmbH, Hamburg Balata Grundstücksverwaltungsgesellschaft mbH & Co. Vermietungs KG, Hamburg Credinvest 3 Finance GmbH, Hamburg EOS Investment RO GmbH, Hamburg Otto Russland Beteiligungs- und Verwaltungsgesellschaft mbH, Hamburg Otto Brasilien Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg EOS Immobilienworkout GmbH, Mülheim an der Ruhr EOS Deutscher Inkasso-Dienst GmbH, Hamburg OTTO Zwei-Mann-Handling Beteiligungs-Verwaltungs GmbH, Hamburg Boreal Grundstücksverwaltungsgesellschaft mbH & Co. Vermietungs KG, Mainz EOS Holding GmbH, Hamburg WVZ Warenverteilzentrum Manteler Forst Grundstücks-Verwaltungs-GmbH & Co. KG., Mainz Otto Group data.works GmbH, Hamburg Hermes Fulfilment Ansbach GmbH, Hamburg EOS Invest WE GmbH, Hamburg OFFICE PLANET GmbH, Hamburg empiriecom GmbH & Co. KG, Burgkunstadt P+L Services GmbH, Mülheim an der Ruhr EOS Investment HR GmbH, Hamburg Otto Paper & Print GmbH, Hamburg HSG Hermes Service Gesellschaft mbH, Hamburg Manufactum GmbH, Waltrop GPI - Gesellschaft für Grundbesitzmanagement mbH & Co. Kommanditgesellschaft, Mülheim an der Ruhr WG Datenmanagement GmbH, Weiden i.d.OPf. CINTHIA Real Estate GmbH, Monheim am Rhein Hermes Auslieferungsbasis Haldensleben GmbH, Hamburg Hermes Fulfilment Tech Solutions GmbH, Hamburg Hermes Auslieferungsbasis Ohrdruf GmbH, Hamburg Otto Import Solutions GmbH, Hamburg FinTecrity GmbH, Mannheim TT - Service und Beteiligungs-Verwaltungs GmbH, Frankfurt am Main HERMES Einrichtungs Service GmbH & Co. KG, Löhne Baur Hermes Fulfilment GmbH & Co KG, Burgkunstadt Altenkunstadter Logistik Immobilien GmbH & Co KG, Burgkunstadt sheego GmbH, Weiden i.d.OPf.",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Hermes Europe GmbH, Hamburg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.03.2024 bis zum 28.02.2025",
+      "publication_date": "2024-10-21",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=Fu3TKXFrb-AyOBrjAIP-If4zhQC0XaHTBLw1PIUsqXnLkJ7L8HdEC0tyyuGWn-YRTInWG1Fyt3HD5BfgrT_0QuYKLGv4oQEwaSk43DovFab36MaGd8zDSQyvb8iBeUB4GyOYgVaJ_82f5F8UONWUUafAqwKdRS0Okg6VLAqA1Gq8mnK4ytdD_Z2B_vfVrUxwgLkj02-4Zi09qgek0ElypuIWEKiec5ZxMuPqM7Y3uoN76NFj",
+      "metadata": "Hermes Europe GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.03.2024 bis zum 28.02.2025 Otto (GmbH & Co KG), Hamburg Datum: 21.10.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Otto (GmbH & Co KG), Hamburg",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.03.2023 bis zum 29.02.2024",
+      "publication_date": "2024-10-09",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=8cKpQOAGGy0X3ZKgHjj0Hp-h9E3Q-7WRLAlQUNz4AuSRg5c6sGh24awmJozmWKQBC4gij_3AZvgarwf8Py0hZr4akVtial4e7Xvm4XLm2qNlJNufGBafyACeCzL3jNyd6ILlRnqfYa2GK-tWnrJr57Emb6nsDDxV2s8N7CpqWfWgMPkgdT5RFdeA79itf_nZFL1CfPOb2iJMhfw1LGfy0TR8F_gWd8Op-zIWBY45nwkhSQzP",
+      "metadata": "Otto (GmbH & Co KG), Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.03.2023 bis zum 29.02.2024 Datum: 09.10.2024 Sprache: Deutsch Befreite Unternehmen anzeigen EOS KSI Inkasso Deutschland GmbH, Bad Rappenau Frankonia Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg GSG Gastro Service GmbH, Karlsruhe Hermes Fulfilment GmbH, Hamburg Otto (GmbH & Co KG), Hamburg Otto Finance Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Lascana Handelsgesellschaft mbH, Hamburg Otto Finanzplus GmbH Versicherungsvermittlung, Hamburg EOS Deutschland GmbH, Hamburg Kommanditgesellschaft SSU Grundstücks-Verwaltungs GmbH & Co., Hamburg Otto International GmbH, Hamburg OTTO-EUROPE Beteiligungs-Verwaltungs GmbH, Hamburg OTTO AUSTRIA Grundstücksverwaltungs GmbH, Hamburg OTTO-CHEER Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg OTTO-ASIA Beteiligungs-Verwaltungs GmbH, Hamburg OVC Venture Capital GmbH, Hamburg EOS International Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Küche & Co GmbH, Hamburg EOS Field Services GmbH, Hamburg Systain Consulting GmbH, Hamburg EOS Verbriefungsspezialgesellschaft mbH, Hamburg bonprix Handelsgesellschaft mbH, Hamburg EOS Technology Solutions GmbH, Hamburg Hermes General Service Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg EOS Finance GmbH, Hamburg Verwaltungsgesellschaft HERMES Einrichtungs Service mbH, Hamburg FEGRO-Markt Eschborn,Verwaltungs GmbH, Hamburg MEDIA Handelsgesellschaft mbH, Hamburg Hanseatic Versicherungsdienst GmbH Versicherungsvermittlung, Hamburg Hanseatic Versicherungs-Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Erste Mercator Vermietungsgesellschaft mbH & Co KG, Hamburg bonprix Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Otto Group one.O GmbH, Dresden Argus Inkasso GmbH, Kamp-Lintfort walter services Burgkunstadt GmbH, Königswinter creation L Handelsgesellschaft mbH, Regensburg Verwaltungsgesellschaft Baur Versand mbH, Burgkunstadt Frankonia Verwaltungs GmbH, Rottendorf Josef Witt GmbH, Weiden i.d.OPf. BVB Beteiligungs- und Verwaltungs-GmbH, Burgkunstadt Frankonia Handels GmbH & Co. KG, Rottendorf Menos-Grundstücksholding GmbH, Burgkunstadt Baur Versand (GmbH & Co KG), Burgkunstadt Sieh an! Handelsgesellschaft mbH, Amberg Frankfurter Inkasso Gesellschaft mit beschränkter Haftung, Potsdam EOS Investment GmbH, Hamburg EOS Securitisation GmbH, Hamburg ARTHUR Holding GmbH, Hamburg EOS Investment Poland GmbH, Hamburg eVenture Beteiligungs- Verwaltungsgesellschaft mbH, Hamburg Hermes Europe GmbH, Hamburg Balata Grundstücksverwaltungsgesellschaft mbH & Co. Vermietungs KG, Hamburg EOS Investment CEE GmbH, Hamburg Credinvest 3 Finance GmbH, Hamburg EOS Investment RO GmbH, Hamburg Otto Russland Beteiligungs- und Verwaltungsgesellschaft mbH, Hamburg Otto Brasilien Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg EOS Immobilienworkout GmbH, Mülheim an der Ruhr EOS Deutscher Inkasso-Dienst GmbH, Hamburg OTTO Zwei-Mann-Handling Beteiligungs-Verwaltungs GmbH, Hamburg Boreal Grundstücksverwaltungsgesellschaft mbH & Co. Vermietungs KG, Mainz EOS Holding GmbH, Hamburg WVZ Warenverteilzentrum Manteler Forst Grundstücks-Verwaltungs-GmbH & Co. KG., Mainz Otto Group data.works GmbH, Hamburg Hermes Fulfilment Ansbach GmbH, Hamburg EOS Invest WE GmbH, Hamburg OFFICE PLANET GmbH, Hamburg empiriecom GmbH & Co. KG, Burgkunstadt P+L Services GmbH, Mülheim an der Ruhr EOS Investment HR GmbH, Hamburg Otto Paper & Print GmbH, Hamburg HSG Hermes Service Gesellschaft mbH, Hamburg GPI - Gesellschaft für Grundbesitzmanagement mbH & Co. Kommanditgesellschaft, Mülheim an der Ruhr WG Datenmanagement GmbH, Weiden i.d.OPf. CINTHIA Real Estate GmbH, Monheim am Rhein Hermes Auslieferungsbasis Haldensleben GmbH, Hamburg Hermes Fulfilment Tech Solutions GmbH, Hamburg Hermes Auslieferungsbasis Ohrdruf GmbH, Hamburg Otto Import Solutions GmbH, Hamburg Funnel Plus GmbH, Hamburg FinTecrity GmbH, Mannheim Hermes Fulfilment Gernsheim GmbH, Hamburg TT - Service und Beteiligungs-Verwaltungs GmbH, Frankfurt am Main HERMES Einrichtungs Service GmbH & Co. KG, Löhne Baur Hermes Fulfilment GmbH & Co KG, Burgkunstadt Altenkunstadter Logistik Immobilien GmbH & Co KG, Burgkunstadt",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Otto GmbH & Co. KGaA, Hamburg",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.03.2025 bis zum 28.02.2026",
+      "publication_date": "2026-06-17",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=CsURoswTrzvNOmKejLIgTE3sdUAtHSioOXT9zb1F5K0t2bI8uDmEbPI9jrjaoarCA-_uHV3Imzeq4xfOemzu_aeAt0xEQiTPuCVOPBxB0fxuSDN7epjt61QW0YffnjzexxJKrT48GeHbUwOXhkueje_Gr09lgP2vdPpGL2gDFVumalyvgg71LCaw_bqRNZTqSpOfOVuDB8G4J4kS61XTgryhR-xcKRHGUD6UJipDMBcNJKZ7",
+      "metadata": "Otto GmbH & Co. KGaA, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.03.2025 bis zum 28.02.2026 Ergänzt am 03.07.2026 Datum: 17.06.2026 Sprache: Deutsch Befreite Unternehmen anzeigen EOS KSI Inkasso Deutschland GmbH, Bad Rappenau Magazin Versandhandelsgesellschaft mbH, Stuttgart Hermes Fulfilment GmbH, Hamburg Otto Finance Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Lascana Handelsgesellschaft mbH, Hamburg Otto Finanzplus GmbH Versicherungsvermittlung, Hamburg EOS Deutschland GmbH, Hamburg Kommanditgesellschaft SSU Grundstücks-Verwaltungs GmbH & Co., Hamburg Otto International GmbH, Hamburg OTTO-EUROPE Beteiligungs-Verwaltungs GmbH, Hamburg OTTO AUSTRIA Grundstücksverwaltungs GmbH, Hamburg OTTO-ASIA Beteiligungs-Verwaltungs GmbH, Hamburg OVC Venture Capital GmbH, Hamburg EOS International Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Küche & Co GmbH, Hamburg EOS Field Services GmbH, Hamburg Systain Consulting GmbH, Hamburg EOS Verbriefungsspezialgesellschaft mbH, Hamburg bonprix Handelsgesellschaft mbH, Hamburg EOS Technology Solutions GmbH, Hamburg EOS Finance GmbH, Hamburg Verwaltungsgesellschaft HERMES Einrichtungs Service mbH, Hamburg FEGRO-Markt Eschborn,Verwaltungs GmbH, Hamburg MEDIA Handelsgesellschaft mbH, Hamburg Hanseatic Versicherungsdienst GmbH Versicherungsvermittlung, Hamburg Hanseatic Versicherungs-Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg bonprix Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Otto Group one.O GmbH, Dresden Argus Inkasso GmbH, Kamp-Lintfort Manufactum Brot & Butter GmbH, Waltrop creation L Handelsgesellschaft mbH, Regensburg Verwaltungsgesellschaft Baur Versand mbH, Burgkunstadt Frankonia Verwaltungs GmbH, Rottendorf BVB Beteiligungs- und Verwaltungs-GmbH, Burgkunstadt Frankonia Handels GmbH & Co. KG, Rottendorf Menos-Grundstücksholding GmbH, Burgkunstadt Baur Versand (GmbH & Co KG), Burgkunstadt Sieh an! Handelsgesellschaft mbH, Amberg Frankfurter Inkasso Gesellschaft mit beschränkter Haftung, Potsdam EOS Investment GmbH, Hamburg EOS Securitisation GmbH, Hamburg EOS Investment Poland GmbH, Hamburg eVenture Beteiligungs- Verwaltungsgesellschaft mbH, Hamburg Hermes Europe GmbH, Hamburg Balata Grundstücksverwaltungsgesellschaft mbH & Co. Vermietungs KG, Hamburg Credinvest 3 Finance GmbH, Hamburg EOS Investment RO GmbH, Hamburg Otto Russland Beteiligungs- und Verwaltungsgesellschaft mbH, Hamburg Otto Brasilien Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg EOS Immobilienworkout GmbH, Mülheim an der Ruhr EOS Deutscher Inkasso-Dienst GmbH, Hamburg OTTO Zwei-Mann-Handling Beteiligungs-Verwaltungs GmbH, Hamburg Boreal Grundstücksverwaltungsgesellschaft mbH & Co. Vermietungs KG, Mainz EOS Invest EE GmbH, Hamburg EOS Holding GmbH, Hamburg WVZ Warenverteilzentrum Manteler Forst Grundstücks-Verwaltungs-GmbH & Co. KG., Mainz Otto Group data.works GmbH, Hamburg Hermes Fulfilment Ansbach GmbH, Hamburg EOS Invest WE GmbH, Hamburg OFFICE PLANET GmbH, Hamburg empiriecom GmbH & Co. KG, Burgkunstadt P+L Services GmbH, Mülheim an der Ruhr EOS Investment HR GmbH, Hamburg Otto Paper & Print GmbH, Hamburg HSG Hermes Service Gesellschaft mbH, Hamburg Manufactum GmbH, Waltrop GPI - Gesellschaft für Grundbesitzmanagement mbH & Co. Kommanditgesellschaft, Mülheim an der Ruhr WG Datenmanagement GmbH, Weiden i.d.OPf. CINTHIA Real Estate GmbH, Monheim am Rhein Hermes Auslieferungsbasis Haldensleben GmbH, Hamburg Hermes Fulfilment Tech Solutions GmbH, Hamburg Hermes Auslieferungsbasis Ohrdruf GmbH, Hamburg Otto Import Solutions GmbH, Hamburg FinTecrity GmbH, Mannheim TT - Service und Beteiligungs-Verwaltungs GmbH, Frankfurt am Main HERMES Einrichtungs Service GmbH & Co. KG, Löhne Baur Hermes Fulfilment GmbH & Co KG, Burgkunstadt Altenkunstadter Logistik Immobilien GmbH & Co KG, Burgkunstadt Josef Witt GmbH, Weiden i.d.OPf. Frankonia Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Hermes Fulfilment Ansbach GmbH, Hamburg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.03.2025 bis zum 28.02.2026",
+      "publication_date": "2025-12-04",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=T5C4m377aR3oPFSAD_cfuJ_4dJThEkUnrBevNqGfw-HQBpTVizzIP4GkobTd8vyfB6SPpODp2TgS2EjyJALME9b3BHLth_XaApEWm64BF0Jz7EEgHusBXdo0iXtUOHpapxMNq0wZ6Bl3-z2PRWNPNMGi64F9i8QJip4nRqHicVL40qRRefTN7or6aotTmtkf-_rmvlk7Wr8ZpG3WSnR5lsWxsv33ECVgDPV_gZnm3GuCY068",
+      "metadata": "Hermes Fulfilment Ansbach GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.03.2025 bis zum 28.02.2026 Otto GmbH & Co. KGaA, Hamburg Datum: 04.12.2025 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Otto GmbH & Co. KGaA, Hamburg",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.03.2024 bis zum 28.02.2025",
+      "publication_date": "2025-07-02",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=r6N9RD1i5AxCDeLW8G1eB6mWbQ0xJZoz2SrQImWvA_AGOwF23MxvJDwExm15fOH42O-USAivKuc-fyiQpodQFr2tK2ZvCKvfLV1oGVkbb6EuPR7C6q1kAWlLqmUjKyUHm8yEMroW3E8Uy_7YRvoZkpSUP2wxYdIUvygcoQ4zHAMlPkyXHkXdcdg8KLHtTqtovFz_446MsZh52TXZk0ZT6gSwNd0cnceeba5JdQBV9NOQMkoK",
+      "metadata": "Otto GmbH & Co. KGaA, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.03.2024 bis zum 28.02.2025 Ergänzt am 31.07.2025 Datum: 02.07.2025 Sprache: Deutsch Befreite Unternehmen anzeigen EOS KSI Inkasso Deutschland GmbH, Bad Rappenau Frankonia Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Magazin Versandhandelsgesellschaft mbH, Stuttgart Hermes Fulfilment GmbH, Hamburg Otto Finance Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Lascana Handelsgesellschaft mbH, Hamburg Otto Finanzplus GmbH Versicherungsvermittlung, Hamburg EOS Deutschland GmbH, Hamburg Kommanditgesellschaft SSU Grundstücks-Verwaltungs GmbH & Co., Hamburg Otto International GmbH, Hamburg OTTO-EUROPE Beteiligungs-Verwaltungs GmbH, Hamburg OTTO AUSTRIA Grundstücksverwaltungs GmbH, Hamburg OTTO-ASIA Beteiligungs-Verwaltungs GmbH, Hamburg OVC Venture Capital GmbH, Hamburg EOS International Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Küche & Co GmbH, Hamburg EOS Field Services GmbH, Hamburg Systain Consulting GmbH, Hamburg EOS Verbriefungsspezialgesellschaft mbH, Hamburg bonprix Handelsgesellschaft mbH, Hamburg EOS Technology Solutions GmbH, Hamburg EOS Finance GmbH, Hamburg Verwaltungsgesellschaft HERMES Einrichtungs Service mbH, Hamburg FEGRO-Markt Eschborn,Verwaltungs GmbH, Hamburg MEDIA Handelsgesellschaft mbH, Hamburg Hanseatic Versicherungsdienst GmbH Versicherungsvermittlung, Hamburg Hanseatic Versicherungs-Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg bonprix Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Otto Group one.O GmbH, Dresden Argus Inkasso GmbH, Kamp-Lintfort Manufactum Brot & Butter GmbH, Waltrop walter services Burgkunstadt GmbH, Königswinter creation L Handelsgesellschaft mbH, Regensburg Verwaltungsgesellschaft Baur Versand mbH, Burgkunstadt Frankonia Verwaltungs GmbH, Rottendorf Josef Witt GmbH, Weiden i.d.OPf. BVB Beteiligungs- und Verwaltungs-GmbH, Burgkunstadt Frankonia Handels GmbH & Co. KG, Rottendorf Menos-Grundstücksholding GmbH, Burgkunstadt Baur Versand (GmbH & Co KG), Burgkunstadt Sieh an! Handelsgesellschaft mbH, Amberg Frankfurter Inkasso Gesellschaft mit beschränkter Haftung, Potsdam EOS Investment GmbH, Hamburg EOS Securitisation GmbH, Hamburg EOS Investment Poland GmbH, Hamburg eVenture Beteiligungs- Verwaltungsgesellschaft mbH, Hamburg Hermes Europe GmbH, Hamburg Balata Grundstücksverwaltungsgesellschaft mbH & Co. Vermietungs KG, Hamburg Credinvest 3 Finance GmbH, Hamburg EOS Investment RO GmbH, Hamburg Otto Russland Beteiligungs- und Verwaltungsgesellschaft mbH, Hamburg Otto Brasilien Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg EOS Immobilienworkout GmbH, Mülheim an der Ruhr EOS Deutscher Inkasso-Dienst GmbH, Hamburg OTTO Zwei-Mann-Handling Beteiligungs-Verwaltungs GmbH, Hamburg Boreal Grundstücksverwaltungsgesellschaft mbH & Co. Vermietungs KG, Mainz EOS Holding GmbH, Hamburg WVZ Warenverteilzentrum Manteler Forst Grundstücks-Verwaltungs-GmbH & Co. KG., Mainz Otto Group data.works GmbH, Hamburg Hermes Fulfilment Ansbach GmbH, Hamburg EOS Invest WE GmbH, Hamburg OFFICE PLANET GmbH, Hamburg empiriecom GmbH & Co. KG, Burgkunstadt P+L Services GmbH, Mülheim an der Ruhr EOS Investment HR GmbH, Hamburg Otto Paper & Print GmbH, Hamburg HSG Hermes Service Gesellschaft mbH, Hamburg Manufactum GmbH, Waltrop GPI - Gesellschaft für Grundbesitzmanagement mbH & Co. Kommanditgesellschaft, Mülheim an der Ruhr WG Datenmanagement GmbH, Weiden i.d.OPf. CINTHIA Real Estate GmbH, Monheim am Rhein Hermes Auslieferungsbasis Haldensleben GmbH, Hamburg Hermes Fulfilment Tech Solutions GmbH, Hamburg Hermes Auslieferungsbasis Ohrdruf GmbH, Hamburg Otto Import Solutions GmbH, Hamburg FinTecrity GmbH, Mannheim TT - Service und Beteiligungs-Verwaltungs GmbH, Frankfurt am Main HERMES Einrichtungs Service GmbH & Co. KG, Löhne Baur Hermes Fulfilment GmbH & Co KG, Burgkunstadt Altenkunstadter Logistik Immobilien GmbH & Co KG, Burgkunstadt sheego GmbH, Weiden i.d.OPf.",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Hermes Fulfilment Ansbach GmbH, Hamburg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.03.2024 bis zum 28.02.2025",
+      "publication_date": "2024-11-07",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=GIKU77rujh54c4x2hViZGqW1g3W_LuMwCToUW1CmGjQeN9LkrOQiB5gxRzTypeR7kJNI7fm0AknjBr2lyzwm8242NXCcUvmP_3d33AnBKVC7wRJBnZL-O2Cerp-nIsnpvIhNaMt--Y7VRfmeJTmSnNsk_tC1rvurv4npC1mBnX7HsWK8Nvzz9AbF8kEypbzfOD2I7TOiaZFiQkEo8n7pL_YKTeovV--GBngRzFLauGM6a-Kk",
+      "metadata": "Hermes Fulfilment Ansbach GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.03.2024 bis zum 28.02.2025 Otto (GmbH & Co KG), Hamburg Datum: 07.11.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Otto (GmbH & Co KG), Hamburg",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.03.2023 bis zum 29.02.2024",
+      "publication_date": "2024-10-09",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=uT8fA-wT-itSzQhQnBH9KY9D38VHyuvknqx_iu55EzqNahNxvBfTSU7dl8cl5aIwLKaQMFfX3qqVykBRZ9tivIOZdLdJm7lfwlsfHE-5-1oDxQ6zUyOlvU5yq4BLFWxpKuOK4W2XKn4xN1RhhclnQ-XgFDUwPSRYKBY9lBMmP79cy5wO-T-Wik4N-G3v2i2Y3HuUmWit_dKYjs49BLadJCY-R7JH8AYgP7TRHfAWseKFIRXc",
+      "metadata": "Otto (GmbH & Co KG), Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.03.2023 bis zum 29.02.2024 Datum: 09.10.2024 Sprache: Deutsch Befreite Unternehmen anzeigen EOS KSI Inkasso Deutschland GmbH, Bad Rappenau Frankonia Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg GSG Gastro Service GmbH, Karlsruhe Hermes Fulfilment GmbH, Hamburg Otto (GmbH & Co KG), Hamburg Otto Finance Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Lascana Handelsgesellschaft mbH, Hamburg Otto Finanzplus GmbH Versicherungsvermittlung, Hamburg EOS Deutschland GmbH, Hamburg Kommanditgesellschaft SSU Grundstücks-Verwaltungs GmbH & Co., Hamburg Otto International GmbH, Hamburg OTTO-EUROPE Beteiligungs-Verwaltungs GmbH, Hamburg OTTO AUSTRIA Grundstücksverwaltungs GmbH, Hamburg OTTO-CHEER Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg OTTO-ASIA Beteiligungs-Verwaltungs GmbH, Hamburg OVC Venture Capital GmbH, Hamburg EOS International Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Küche & Co GmbH, Hamburg EOS Field Services GmbH, Hamburg Systain Consulting GmbH, Hamburg EOS Verbriefungsspezialgesellschaft mbH, Hamburg bonprix Handelsgesellschaft mbH, Hamburg EOS Technology Solutions GmbH, Hamburg Hermes General Service Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg EOS Finance GmbH, Hamburg Verwaltungsgesellschaft HERMES Einrichtungs Service mbH, Hamburg FEGRO-Markt Eschborn,Verwaltungs GmbH, Hamburg MEDIA Handelsgesellschaft mbH, Hamburg Hanseatic Versicherungsdienst GmbH Versicherungsvermittlung, Hamburg Hanseatic Versicherungs-Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Erste Mercator Vermietungsgesellschaft mbH & Co KG, Hamburg bonprix Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Otto Group one.O GmbH, Dresden Argus Inkasso GmbH, Kamp-Lintfort walter services Burgkunstadt GmbH, Königswinter creation L Handelsgesellschaft mbH, Regensburg Verwaltungsgesellschaft Baur Versand mbH, Burgkunstadt Frankonia Verwaltungs GmbH, Rottendorf Josef Witt GmbH, Weiden i.d.OPf. BVB Beteiligungs- und Verwaltungs-GmbH, Burgkunstadt Frankonia Handels GmbH & Co. KG, Rottendorf Menos-Grundstücksholding GmbH, Burgkunstadt Baur Versand (GmbH & Co KG), Burgkunstadt Sieh an! Handelsgesellschaft mbH, Amberg Frankfurter Inkasso Gesellschaft mit beschränkter Haftung, Potsdam EOS Investment GmbH, Hamburg EOS Securitisation GmbH, Hamburg ARTHUR Holding GmbH, Hamburg EOS Investment Poland GmbH, Hamburg eVenture Beteiligungs- Verwaltungsgesellschaft mbH, Hamburg Hermes Europe GmbH, Hamburg Balata Grundstücksverwaltungsgesellschaft mbH & Co. Vermietungs KG, Hamburg EOS Investment CEE GmbH, Hamburg Credinvest 3 Finance GmbH, Hamburg EOS Investment RO GmbH, Hamburg Otto Russland Beteiligungs- und Verwaltungsgesellschaft mbH, Hamburg Otto Brasilien Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg EOS Immobilienworkout GmbH, Mülheim an der Ruhr EOS Deutscher Inkasso-Dienst GmbH, Hamburg OTTO Zwei-Mann-Handling Beteiligungs-Verwaltungs GmbH, Hamburg Boreal Grundstücksverwaltungsgesellschaft mbH & Co. Vermietungs KG, Mainz EOS Holding GmbH, Hamburg WVZ Warenverteilzentrum Manteler Forst Grundstücks-Verwaltungs-GmbH & Co. KG., Mainz Otto Group data.works GmbH, Hamburg Hermes Fulfilment Ansbach GmbH, Hamburg EOS Invest WE GmbH, Hamburg OFFICE PLANET GmbH, Hamburg empiriecom GmbH & Co. KG, Burgkunstadt P+L Services GmbH, Mülheim an der Ruhr EOS Investment HR GmbH, Hamburg Otto Paper & Print GmbH, Hamburg HSG Hermes Service Gesellschaft mbH, Hamburg GPI - Gesellschaft für Grundbesitzmanagement mbH & Co. Kommanditgesellschaft, Mülheim an der Ruhr WG Datenmanagement GmbH, Weiden i.d.OPf. CINTHIA Real Estate GmbH, Monheim am Rhein Hermes Auslieferungsbasis Haldensleben GmbH, Hamburg Hermes Fulfilment Tech Solutions GmbH, Hamburg Hermes Auslieferungsbasis Ohrdruf GmbH, Hamburg Otto Import Solutions GmbH, Hamburg Funnel Plus GmbH, Hamburg FinTecrity GmbH, Mannheim Hermes Fulfilment Gernsheim GmbH, Hamburg TT - Service und Beteiligungs-Verwaltungs GmbH, Frankfurt am Main HERMES Einrichtungs Service GmbH & Co. KG, Löhne Baur Hermes Fulfilment GmbH & Co KG, Burgkunstadt Altenkunstadter Logistik Immobilien GmbH & Co KG, Burgkunstadt",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Otto GmbH & Co. KGaA, Hamburg",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.03.2025 bis zum 28.02.2026",
+      "publication_date": "2026-06-17",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=zza3tKaE1N_PVFxndkjZmCHCqHlX2gf6uL4Pej0TDI50dDDkO3k5W51K3AcGrHHzY5xKYpFfpwpJ80BVEm3ssA7qIf8a2oOgYX4-3aL6QZ052QSnzGgI5zFoQKBAT0b7CJ8-fKRX_mMHfVIKEKA80C2iVGriGiEWfogG1PD0SS_AMHco52AUk_jOjPJRRG57EcQ0Utsy0tbTnMEWyUNSeQwp5LpdHOA6lYeW84HyD0eVqQA",
+      "metadata": "Otto GmbH & Co. KGaA, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.03.2025 bis zum 28.02.2026 Ergänzt am 03.07.2026 Datum: 17.06.2026 Sprache: Deutsch Befreite Unternehmen anzeigen EOS KSI Inkasso Deutschland GmbH, Bad Rappenau Magazin Versandhandelsgesellschaft mbH, Stuttgart Hermes Fulfilment GmbH, Hamburg Otto Finance Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Lascana Handelsgesellschaft mbH, Hamburg Otto Finanzplus GmbH Versicherungsvermittlung, Hamburg EOS Deutschland GmbH, Hamburg Kommanditgesellschaft SSU Grundstücks-Verwaltungs GmbH & Co., Hamburg Otto International GmbH, Hamburg OTTO-EUROPE Beteiligungs-Verwaltungs GmbH, Hamburg OTTO AUSTRIA Grundstücksverwaltungs GmbH, Hamburg OTTO-ASIA Beteiligungs-Verwaltungs GmbH, Hamburg OVC Venture Capital GmbH, Hamburg EOS International Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Küche & Co GmbH, Hamburg EOS Field Services GmbH, Hamburg Systain Consulting GmbH, Hamburg EOS Verbriefungsspezialgesellschaft mbH, Hamburg bonprix Handelsgesellschaft mbH, Hamburg EOS Technology Solutions GmbH, Hamburg EOS Finance GmbH, Hamburg Verwaltungsgesellschaft HERMES Einrichtungs Service mbH, Hamburg FEGRO-Markt Eschborn,Verwaltungs GmbH, Hamburg MEDIA Handelsgesellschaft mbH, Hamburg Hanseatic Versicherungsdienst GmbH Versicherungsvermittlung, Hamburg Hanseatic Versicherungs-Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg bonprix Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Otto Group one.O GmbH, Dresden Argus Inkasso GmbH, Kamp-Lintfort Manufactum Brot & Butter GmbH, Waltrop creation L Handelsgesellschaft mbH, Regensburg Verwaltungsgesellschaft Baur Versand mbH, Burgkunstadt Frankonia Verwaltungs GmbH, Rottendorf BVB Beteiligungs- und Verwaltungs-GmbH, Burgkunstadt Frankonia Handels GmbH & Co. KG, Rottendorf Menos-Grundstücksholding GmbH, Burgkunstadt Baur Versand (GmbH & Co KG), Burgkunstadt Sieh an! Handelsgesellschaft mbH, Amberg Frankfurter Inkasso Gesellschaft mit beschränkter Haftung, Potsdam EOS Investment GmbH, Hamburg EOS Securitisation GmbH, Hamburg EOS Investment Poland GmbH, Hamburg eVenture Beteiligungs- Verwaltungsgesellschaft mbH, Hamburg Hermes Europe GmbH, Hamburg Balata Grundstücksverwaltungsgesellschaft mbH & Co. Vermietungs KG, Hamburg Credinvest 3 Finance GmbH, Hamburg EOS Investment RO GmbH, Hamburg Otto Russland Beteiligungs- und Verwaltungsgesellschaft mbH, Hamburg Otto Brasilien Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg EOS Immobilienworkout GmbH, Mülheim an der Ruhr EOS Deutscher Inkasso-Dienst GmbH, Hamburg OTTO Zwei-Mann-Handling Beteiligungs-Verwaltungs GmbH, Hamburg Boreal Grundstücksverwaltungsgesellschaft mbH & Co. Vermietungs KG, Mainz EOS Invest EE GmbH, Hamburg EOS Holding GmbH, Hamburg WVZ Warenverteilzentrum Manteler Forst Grundstücks-Verwaltungs-GmbH & Co. KG., Mainz Otto Group data.works GmbH, Hamburg Hermes Fulfilment Ansbach GmbH, Hamburg EOS Invest WE GmbH, Hamburg OFFICE PLANET GmbH, Hamburg empiriecom GmbH & Co. KG, Burgkunstadt P+L Services GmbH, Mülheim an der Ruhr EOS Investment HR GmbH, Hamburg Otto Paper & Print GmbH, Hamburg HSG Hermes Service Gesellschaft mbH, Hamburg Manufactum GmbH, Waltrop GPI - Gesellschaft für Grundbesitzmanagement mbH & Co. Kommanditgesellschaft, Mülheim an der Ruhr WG Datenmanagement GmbH, Weiden i.d.OPf. CINTHIA Real Estate GmbH, Monheim am Rhein Hermes Auslieferungsbasis Haldensleben GmbH, Hamburg Hermes Fulfilment Tech Solutions GmbH, Hamburg Hermes Auslieferungsbasis Ohrdruf GmbH, Hamburg Otto Import Solutions GmbH, Hamburg FinTecrity GmbH, Mannheim TT - Service und Beteiligungs-Verwaltungs GmbH, Frankfurt am Main HERMES Einrichtungs Service GmbH & Co. KG, Löhne Baur Hermes Fulfilment GmbH & Co KG, Burgkunstadt Altenkunstadter Logistik Immobilien GmbH & Co KG, Burgkunstadt Josef Witt GmbH, Weiden i.d.OPf. Frankonia Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Hermes Fulfilment GmbH, Hamburg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.03.2025 bis zum 28.02.2026",
+      "publication_date": "2026-01-05",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=G6KPoWSqYMm01cY8cQBWFlb3F9siJt7RNbVV-ymADEWeCf905lC5enMqsgSi0FnuHfmq49_7EzgOG0uVlLbqn_7Wy2pvHEhzSi0HoAI8HIiT42VGx_Je7BbISV70zuyS8MLkWGK9loBt95QdI9oa66-JDs1None66E3w2dg5_fUKvuZyqmu03BwRzYp4ezg3nim6A7scC4PzbiOoefIOyoGT4O-gWH8-Vgb9Jo_IvJQqWJY",
+      "metadata": "Hermes Fulfilment GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.03.2025 bis zum 28.02.2026 Otto GmbH & Co. KGaA, Hamburg Datum: 05.01.2026 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Otto GmbH & Co. KGaA, Hamburg",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.03.2024 bis zum 28.02.2025",
+      "publication_date": "2025-07-02",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=9CYO5QK6sgd9AYpinVe5qf8OSEPiaFY7Sq_2Po9eNe55SAN7S3u95wyoI855qopJgqmBkJKqeQmaZ_hL91H4AOxPj4l4am-DDksTh-2h9U-qDV6U6wnJvZOgYjKxyvEcNNXHZfHrR7Oy3K0C35qAKUt_gVX8Bls7EurHLK58XiqMQRYkteFCxdJa0itlAuTLiuwe15DESrD_md9NGM-C3D-LwR9m-rjE1jRGkADUgZBgCAg",
+      "metadata": "Otto GmbH & Co. KGaA, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.03.2024 bis zum 28.02.2025 Ergänzt am 31.07.2025 Datum: 02.07.2025 Sprache: Deutsch Befreite Unternehmen anzeigen EOS KSI Inkasso Deutschland GmbH, Bad Rappenau Frankonia Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Magazin Versandhandelsgesellschaft mbH, Stuttgart Hermes Fulfilment GmbH, Hamburg Otto Finance Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Lascana Handelsgesellschaft mbH, Hamburg Otto Finanzplus GmbH Versicherungsvermittlung, Hamburg EOS Deutschland GmbH, Hamburg Kommanditgesellschaft SSU Grundstücks-Verwaltungs GmbH & Co., Hamburg Otto International GmbH, Hamburg OTTO-EUROPE Beteiligungs-Verwaltungs GmbH, Hamburg OTTO AUSTRIA Grundstücksverwaltungs GmbH, Hamburg OTTO-ASIA Beteiligungs-Verwaltungs GmbH, Hamburg OVC Venture Capital GmbH, Hamburg EOS International Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Küche & Co GmbH, Hamburg EOS Field Services GmbH, Hamburg Systain Consulting GmbH, Hamburg EOS Verbriefungsspezialgesellschaft mbH, Hamburg bonprix Handelsgesellschaft mbH, Hamburg EOS Technology Solutions GmbH, Hamburg EOS Finance GmbH, Hamburg Verwaltungsgesellschaft HERMES Einrichtungs Service mbH, Hamburg FEGRO-Markt Eschborn,Verwaltungs GmbH, Hamburg MEDIA Handelsgesellschaft mbH, Hamburg Hanseatic Versicherungsdienst GmbH Versicherungsvermittlung, Hamburg Hanseatic Versicherungs-Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg bonprix Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Otto Group one.O GmbH, Dresden Argus Inkasso GmbH, Kamp-Lintfort Manufactum Brot & Butter GmbH, Waltrop walter services Burgkunstadt GmbH, Königswinter creation L Handelsgesellschaft mbH, Regensburg Verwaltungsgesellschaft Baur Versand mbH, Burgkunstadt Frankonia Verwaltungs GmbH, Rottendorf Josef Witt GmbH, Weiden i.d.OPf. BVB Beteiligungs- und Verwaltungs-GmbH, Burgkunstadt Frankonia Handels GmbH & Co. KG, Rottendorf Menos-Grundstücksholding GmbH, Burgkunstadt Baur Versand (GmbH & Co KG), Burgkunstadt Sieh an! Handelsgesellschaft mbH, Amberg Frankfurter Inkasso Gesellschaft mit beschränkter Haftung, Potsdam EOS Investment GmbH, Hamburg EOS Securitisation GmbH, Hamburg EOS Investment Poland GmbH, Hamburg eVenture Beteiligungs- Verwaltungsgesellschaft mbH, Hamburg Hermes Europe GmbH, Hamburg Balata Grundstücksverwaltungsgesellschaft mbH & Co. Vermietungs KG, Hamburg Credinvest 3 Finance GmbH, Hamburg EOS Investment RO GmbH, Hamburg Otto Russland Beteiligungs- und Verwaltungsgesellschaft mbH, Hamburg Otto Brasilien Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg EOS Immobilienworkout GmbH, Mülheim an der Ruhr EOS Deutscher Inkasso-Dienst GmbH, Hamburg OTTO Zwei-Mann-Handling Beteiligungs-Verwaltungs GmbH, Hamburg Boreal Grundstücksverwaltungsgesellschaft mbH & Co. Vermietungs KG, Mainz EOS Holding GmbH, Hamburg WVZ Warenverteilzentrum Manteler Forst Grundstücks-Verwaltungs-GmbH & Co. KG., Mainz Otto Group data.works GmbH, Hamburg Hermes Fulfilment Ansbach GmbH, Hamburg EOS Invest WE GmbH, Hamburg OFFICE PLANET GmbH, Hamburg empiriecom GmbH & Co. KG, Burgkunstadt P+L Services GmbH, Mülheim an der Ruhr EOS Investment HR GmbH, Hamburg Otto Paper & Print GmbH, Hamburg HSG Hermes Service Gesellschaft mbH, Hamburg Manufactum GmbH, Waltrop GPI - Gesellschaft für Grundbesitzmanagement mbH & Co. Kommanditgesellschaft, Mülheim an der Ruhr WG Datenmanagement GmbH, Weiden i.d.OPf. CINTHIA Real Estate GmbH, Monheim am Rhein Hermes Auslieferungsbasis Haldensleben GmbH, Hamburg Hermes Fulfilment Tech Solutions GmbH, Hamburg Hermes Auslieferungsbasis Ohrdruf GmbH, Hamburg Otto Import Solutions GmbH, Hamburg FinTecrity GmbH, Mannheim TT - Service und Beteiligungs-Verwaltungs GmbH, Frankfurt am Main HERMES Einrichtungs Service GmbH & Co. KG, Löhne Baur Hermes Fulfilment GmbH & Co KG, Burgkunstadt Altenkunstadter Logistik Immobilien GmbH & Co KG, Burgkunstadt sheego GmbH, Weiden i.d.OPf.",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Hermes Fulfilment GmbH, Hamburg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.03.2024 bis zum 28.02.2025",
+      "publication_date": "2024-11-07",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=D1Ug_kCC2JboX636qimd6BDVNXFJhtj4InJGmEuPsP56paZ0cnsW9-rLkgSxv3VleyRE991XrD51y6Gep9AYMC63zbbonOtsM6y_OYVo6Q-JcDuOcmpJiwpXyKFCc5XvVtnWWbz3ExDpLfGLhW3QVutp_qCbJFPfLA9IFeuILPUmYP1nQu43_roljzKZ9ccjeCTCGps0sjGmCjg6pCE9wnbDfRpDIIotDAtEiEG96JaX3ZE",
+      "metadata": "Hermes Fulfilment GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.03.2024 bis zum 28.02.2025 Otto (GmbH & Co KG), Hamburg Datum: 07.11.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Otto (GmbH & Co KG), Hamburg",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.03.2023 bis zum 29.02.2024",
+      "publication_date": "2024-10-09",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=GvBy5wNO5GUw-6kW_4kiPJ0p_nfwn3Qkv0YWfK1mXC7Ye5mTXiWqVTTa3rYU-mzaWnJMM754s-lSr0yZFVn_8aUYnOSJgqfaXuOrpsQB_G46BDdI-vGvQsu5w-FD0GxgnfRHeOnTgbfSnIujg0FSXaQQ279K_UieLixrxvE5A8UPc3RAImU1mNOLWlnMS5-FAUnWaIt-XsfgHv-G7ZITrbM6gB1dmuDyz3vTZllpa29N0CI",
+      "metadata": "Otto (GmbH & Co KG), Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.03.2023 bis zum 29.02.2024 Datum: 09.10.2024 Sprache: Deutsch Befreite Unternehmen anzeigen EOS KSI Inkasso Deutschland GmbH, Bad Rappenau Frankonia Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg GSG Gastro Service GmbH, Karlsruhe Hermes Fulfilment GmbH, Hamburg Otto (GmbH & Co KG), Hamburg Otto Finance Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Lascana Handelsgesellschaft mbH, Hamburg Otto Finanzplus GmbH Versicherungsvermittlung, Hamburg EOS Deutschland GmbH, Hamburg Kommanditgesellschaft SSU Grundstücks-Verwaltungs GmbH & Co., Hamburg Otto International GmbH, Hamburg OTTO-EUROPE Beteiligungs-Verwaltungs GmbH, Hamburg OTTO AUSTRIA Grundstücksverwaltungs GmbH, Hamburg OTTO-CHEER Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg OTTO-ASIA Beteiligungs-Verwaltungs GmbH, Hamburg OVC Venture Capital GmbH, Hamburg EOS International Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Küche & Co GmbH, Hamburg EOS Field Services GmbH, Hamburg Systain Consulting GmbH, Hamburg EOS Verbriefungsspezialgesellschaft mbH, Hamburg bonprix Handelsgesellschaft mbH, Hamburg EOS Technology Solutions GmbH, Hamburg Hermes General Service Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg EOS Finance GmbH, Hamburg Verwaltungsgesellschaft HERMES Einrichtungs Service mbH, Hamburg FEGRO-Markt Eschborn,Verwaltungs GmbH, Hamburg MEDIA Handelsgesellschaft mbH, Hamburg Hanseatic Versicherungsdienst GmbH Versicherungsvermittlung, Hamburg Hanseatic Versicherungs-Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Erste Mercator Vermietungsgesellschaft mbH & Co KG, Hamburg bonprix Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Otto Group one.O GmbH, Dresden Argus Inkasso GmbH, Kamp-Lintfort walter services Burgkunstadt GmbH, Königswinter creation L Handelsgesellschaft mbH, Regensburg Verwaltungsgesellschaft Baur Versand mbH, Burgkunstadt Frankonia Verwaltungs GmbH, Rottendorf Josef Witt GmbH, Weiden i.d.OPf. BVB Beteiligungs- und Verwaltungs-GmbH, Burgkunstadt Frankonia Handels GmbH & Co. KG, Rottendorf Menos-Grundstücksholding GmbH, Burgkunstadt Baur Versand (GmbH & Co KG), Burgkunstadt Sieh an! Handelsgesellschaft mbH, Amberg Frankfurter Inkasso Gesellschaft mit beschränkter Haftung, Potsdam EOS Investment GmbH, Hamburg EOS Securitisation GmbH, Hamburg ARTHUR Holding GmbH, Hamburg EOS Investment Poland GmbH, Hamburg eVenture Beteiligungs- Verwaltungsgesellschaft mbH, Hamburg Hermes Europe GmbH, Hamburg Balata Grundstücksverwaltungsgesellschaft mbH & Co. Vermietungs KG, Hamburg EOS Investment CEE GmbH, Hamburg Credinvest 3 Finance GmbH, Hamburg EOS Investment RO GmbH, Hamburg Otto Russland Beteiligungs- und Verwaltungsgesellschaft mbH, Hamburg Otto Brasilien Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg EOS Immobilienworkout GmbH, Mülheim an der Ruhr EOS Deutscher Inkasso-Dienst GmbH, Hamburg OTTO Zwei-Mann-Handling Beteiligungs-Verwaltungs GmbH, Hamburg Boreal Grundstücksverwaltungsgesellschaft mbH & Co. Vermietungs KG, Mainz EOS Holding GmbH, Hamburg WVZ Warenverteilzentrum Manteler Forst Grundstücks-Verwaltungs-GmbH & Co. KG., Mainz Otto Group data.works GmbH, Hamburg Hermes Fulfilment Ansbach GmbH, Hamburg EOS Invest WE GmbH, Hamburg OFFICE PLANET GmbH, Hamburg empiriecom GmbH & Co. KG, Burgkunstadt P+L Services GmbH, Mülheim an der Ruhr EOS Investment HR GmbH, Hamburg Otto Paper & Print GmbH, Hamburg HSG Hermes Service Gesellschaft mbH, Hamburg GPI - Gesellschaft für Grundbesitzmanagement mbH & Co. Kommanditgesellschaft, Mülheim an der Ruhr WG Datenmanagement GmbH, Weiden i.d.OPf. CINTHIA Real Estate GmbH, Monheim am Rhein Hermes Auslieferungsbasis Haldensleben GmbH, Hamburg Hermes Fulfilment Tech Solutions GmbH, Hamburg Hermes Auslieferungsbasis Ohrdruf GmbH, Hamburg Otto Import Solutions GmbH, Hamburg Funnel Plus GmbH, Hamburg FinTecrity GmbH, Mannheim Hermes Fulfilment Gernsheim GmbH, Hamburg TT - Service und Beteiligungs-Verwaltungs GmbH, Frankfurt am Main HERMES Einrichtungs Service GmbH & Co. KG, Löhne Baur Hermes Fulfilment GmbH & Co KG, Burgkunstadt Altenkunstadter Logistik Immobilien GmbH & Co KG, Burgkunstadt",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Otto GmbH & Co. KGaA, Hamburg",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.03.2025 bis zum 28.02.2026",
+      "publication_date": "2026-06-17",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=wpYnu0WfPdPS-IFvgTxIqtI66x6rNZ8LKyzvsvmUZ0pu4GS9Hnq_jccg-XA2cc1geWTOHxmWRJx5wu97Pv-obB2-WTWv62_XESu38AaH-WzPojHCwOHyGgTbla9DIrsRaMVUezASkRr3P1NwifvYk3SXw91-HkSC0s-OB6ZCf0tN-pnBsUI0PDsl6RnVv5nlg7GQHTYZRa9fRSlwjIvpmMvTaP3C9APVlYPsLE427gmtITG3",
+      "metadata": "Otto GmbH & Co. KGaA, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.03.2025 bis zum 28.02.2026 Ergänzt am 03.07.2026 Datum: 17.06.2026 Sprache: Deutsch Befreite Unternehmen anzeigen EOS KSI Inkasso Deutschland GmbH, Bad Rappenau Magazin Versandhandelsgesellschaft mbH, Stuttgart Hermes Fulfilment GmbH, Hamburg Otto Finance Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Lascana Handelsgesellschaft mbH, Hamburg Otto Finanzplus GmbH Versicherungsvermittlung, Hamburg EOS Deutschland GmbH, Hamburg Kommanditgesellschaft SSU Grundstücks-Verwaltungs GmbH & Co., Hamburg Otto International GmbH, Hamburg OTTO-EUROPE Beteiligungs-Verwaltungs GmbH, Hamburg OTTO AUSTRIA Grundstücksverwaltungs GmbH, Hamburg OTTO-ASIA Beteiligungs-Verwaltungs GmbH, Hamburg OVC Venture Capital GmbH, Hamburg EOS International Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Küche & Co GmbH, Hamburg EOS Field Services GmbH, Hamburg Systain Consulting GmbH, Hamburg EOS Verbriefungsspezialgesellschaft mbH, Hamburg bonprix Handelsgesellschaft mbH, Hamburg EOS Technology Solutions GmbH, Hamburg EOS Finance GmbH, Hamburg Verwaltungsgesellschaft HERMES Einrichtungs Service mbH, Hamburg FEGRO-Markt Eschborn,Verwaltungs GmbH, Hamburg MEDIA Handelsgesellschaft mbH, Hamburg Hanseatic Versicherungsdienst GmbH Versicherungsvermittlung, Hamburg Hanseatic Versicherungs-Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg bonprix Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Otto Group one.O GmbH, Dresden Argus Inkasso GmbH, Kamp-Lintfort Manufactum Brot & Butter GmbH, Waltrop creation L Handelsgesellschaft mbH, Regensburg Verwaltungsgesellschaft Baur Versand mbH, Burgkunstadt Frankonia Verwaltungs GmbH, Rottendorf BVB Beteiligungs- und Verwaltungs-GmbH, Burgkunstadt Frankonia Handels GmbH & Co. KG, Rottendorf Menos-Grundstücksholding GmbH, Burgkunstadt Baur Versand (GmbH & Co KG), Burgkunstadt Sieh an! Handelsgesellschaft mbH, Amberg Frankfurter Inkasso Gesellschaft mit beschränkter Haftung, Potsdam EOS Investment GmbH, Hamburg EOS Securitisation GmbH, Hamburg EOS Investment Poland GmbH, Hamburg eVenture Beteiligungs- Verwaltungsgesellschaft mbH, Hamburg Hermes Europe GmbH, Hamburg Balata Grundstücksverwaltungsgesellschaft mbH & Co. Vermietungs KG, Hamburg Credinvest 3 Finance GmbH, Hamburg EOS Investment RO GmbH, Hamburg Otto Russland Beteiligungs- und Verwaltungsgesellschaft mbH, Hamburg Otto Brasilien Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg EOS Immobilienworkout GmbH, Mülheim an der Ruhr EOS Deutscher Inkasso-Dienst GmbH, Hamburg OTTO Zwei-Mann-Handling Beteiligungs-Verwaltungs GmbH, Hamburg Boreal Grundstücksverwaltungsgesellschaft mbH & Co. Vermietungs KG, Mainz EOS Invest EE GmbH, Hamburg EOS Holding GmbH, Hamburg WVZ Warenverteilzentrum Manteler Forst Grundstücks-Verwaltungs-GmbH & Co. KG., Mainz Otto Group data.works GmbH, Hamburg Hermes Fulfilment Ansbach GmbH, Hamburg EOS Invest WE GmbH, Hamburg OFFICE PLANET GmbH, Hamburg empiriecom GmbH & Co. KG, Burgkunstadt P+L Services GmbH, Mülheim an der Ruhr EOS Investment HR GmbH, Hamburg Otto Paper & Print GmbH, Hamburg HSG Hermes Service Gesellschaft mbH, Hamburg Manufactum GmbH, Waltrop GPI - Gesellschaft für Grundbesitzmanagement mbH & Co. Kommanditgesellschaft, Mülheim an der Ruhr WG Datenmanagement GmbH, Weiden i.d.OPf. CINTHIA Real Estate GmbH, Monheim am Rhein Hermes Auslieferungsbasis Haldensleben GmbH, Hamburg Hermes Fulfilment Tech Solutions GmbH, Hamburg Hermes Auslieferungsbasis Ohrdruf GmbH, Hamburg Otto Import Solutions GmbH, Hamburg FinTecrity GmbH, Mannheim TT - Service und Beteiligungs-Verwaltungs GmbH, Frankfurt am Main HERMES Einrichtungs Service GmbH & Co. KG, Löhne Baur Hermes Fulfilment GmbH & Co KG, Burgkunstadt Altenkunstadter Logistik Immobilien GmbH & Co KG, Burgkunstadt Josef Witt GmbH, Weiden i.d.OPf. Frankonia Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Hermes Fulfilment Tech Solutions GmbH, Hamburg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.03.2025 bis zum 28.02.2026",
+      "publication_date": "2026-01-05",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=6aJXlT9dCz3-XB0rvgavmzpXTJmDWMf3KCu2kPP-gbn6E5Gt_Sjq3IbNPFSoDtGUdqSY6EEdjwKL32HjzsjmByoSIIEuwDz4tZ771ExfgMDIKC8cY3lmijHB9oDj2vH_Xb7lhvJQJrHHQzqTYkdesgV01QobBp5hz8jwJv87RPwpKKnNm_8Ri-LtSTWN4cxtyUeUsha_VGzRPHdhjSEdWwRlQmmrqgj2I9VcWPYehtGZ-_EZ",
+      "metadata": "Hermes Fulfilment Tech Solutions GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.03.2025 bis zum 28.02.2026 Otto GmbH & Co. KGaA, Hamburg Datum: 05.01.2026 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Otto GmbH & Co. KGaA, Hamburg",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.03.2024 bis zum 28.02.2025",
+      "publication_date": "2025-07-02",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=iNl_6QvyUUi0BO42JoDTWMzmRH9hVgvTc3ploxs4YGFdLMqLBbPPs6wk6q9-FsTk6ubwKt54T9_HF2aTCdsxuWAErZILLcHalePelRVyB98MpjMzH0xouoXUBesolWhWA_crzporJUXmXOodrsl0xFy5l4zJamftqRyM6e4snYb__a_VhfbQEvloqzTnNe906LYho2m155LMIkVT4wZhQMMD2TY1Wq_xoA0twDwMEJMCKIVc",
+      "metadata": "Otto GmbH & Co. KGaA, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.03.2024 bis zum 28.02.2025 Ergänzt am 31.07.2025 Datum: 02.07.2025 Sprache: Deutsch Befreite Unternehmen anzeigen EOS KSI Inkasso Deutschland GmbH, Bad Rappenau Frankonia Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Magazin Versandhandelsgesellschaft mbH, Stuttgart Hermes Fulfilment GmbH, Hamburg Otto Finance Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Lascana Handelsgesellschaft mbH, Hamburg Otto Finanzplus GmbH Versicherungsvermittlung, Hamburg EOS Deutschland GmbH, Hamburg Kommanditgesellschaft SSU Grundstücks-Verwaltungs GmbH & Co., Hamburg Otto International GmbH, Hamburg OTTO-EUROPE Beteiligungs-Verwaltungs GmbH, Hamburg OTTO AUSTRIA Grundstücksverwaltungs GmbH, Hamburg OTTO-ASIA Beteiligungs-Verwaltungs GmbH, Hamburg OVC Venture Capital GmbH, Hamburg EOS International Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Küche & Co GmbH, Hamburg EOS Field Services GmbH, Hamburg Systain Consulting GmbH, Hamburg EOS Verbriefungsspezialgesellschaft mbH, Hamburg bonprix Handelsgesellschaft mbH, Hamburg EOS Technology Solutions GmbH, Hamburg EOS Finance GmbH, Hamburg Verwaltungsgesellschaft HERMES Einrichtungs Service mbH, Hamburg FEGRO-Markt Eschborn,Verwaltungs GmbH, Hamburg MEDIA Handelsgesellschaft mbH, Hamburg Hanseatic Versicherungsdienst GmbH Versicherungsvermittlung, Hamburg Hanseatic Versicherungs-Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg bonprix Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Otto Group one.O GmbH, Dresden Argus Inkasso GmbH, Kamp-Lintfort Manufactum Brot & Butter GmbH, Waltrop walter services Burgkunstadt GmbH, Königswinter creation L Handelsgesellschaft mbH, Regensburg Verwaltungsgesellschaft Baur Versand mbH, Burgkunstadt Frankonia Verwaltungs GmbH, Rottendorf Josef Witt GmbH, Weiden i.d.OPf. BVB Beteiligungs- und Verwaltungs-GmbH, Burgkunstadt Frankonia Handels GmbH & Co. KG, Rottendorf Menos-Grundstücksholding GmbH, Burgkunstadt Baur Versand (GmbH & Co KG), Burgkunstadt Sieh an! Handelsgesellschaft mbH, Amberg Frankfurter Inkasso Gesellschaft mit beschränkter Haftung, Potsdam EOS Investment GmbH, Hamburg EOS Securitisation GmbH, Hamburg EOS Investment Poland GmbH, Hamburg eVenture Beteiligungs- Verwaltungsgesellschaft mbH, Hamburg Hermes Europe GmbH, Hamburg Balata Grundstücksverwaltungsgesellschaft mbH & Co. Vermietungs KG, Hamburg Credinvest 3 Finance GmbH, Hamburg EOS Investment RO GmbH, Hamburg Otto Russland Beteiligungs- und Verwaltungsgesellschaft mbH, Hamburg Otto Brasilien Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg EOS Immobilienworkout GmbH, Mülheim an der Ruhr EOS Deutscher Inkasso-Dienst GmbH, Hamburg OTTO Zwei-Mann-Handling Beteiligungs-Verwaltungs GmbH, Hamburg Boreal Grundstücksverwaltungsgesellschaft mbH & Co. Vermietungs KG, Mainz EOS Holding GmbH, Hamburg WVZ Warenverteilzentrum Manteler Forst Grundstücks-Verwaltungs-GmbH & Co. KG., Mainz Otto Group data.works GmbH, Hamburg Hermes Fulfilment Ansbach GmbH, Hamburg EOS Invest WE GmbH, Hamburg OFFICE PLANET GmbH, Hamburg empiriecom GmbH & Co. KG, Burgkunstadt P+L Services GmbH, Mülheim an der Ruhr EOS Investment HR GmbH, Hamburg Otto Paper & Print GmbH, Hamburg HSG Hermes Service Gesellschaft mbH, Hamburg Manufactum GmbH, Waltrop GPI - Gesellschaft für Grundbesitzmanagement mbH & Co. Kommanditgesellschaft, Mülheim an der Ruhr WG Datenmanagement GmbH, Weiden i.d.OPf. CINTHIA Real Estate GmbH, Monheim am Rhein Hermes Auslieferungsbasis Haldensleben GmbH, Hamburg Hermes Fulfilment Tech Solutions GmbH, Hamburg Hermes Auslieferungsbasis Ohrdruf GmbH, Hamburg Otto Import Solutions GmbH, Hamburg FinTecrity GmbH, Mannheim TT - Service und Beteiligungs-Verwaltungs GmbH, Frankfurt am Main HERMES Einrichtungs Service GmbH & Co. KG, Löhne Baur Hermes Fulfilment GmbH & Co KG, Burgkunstadt Altenkunstadter Logistik Immobilien GmbH & Co KG, Burgkunstadt sheego GmbH, Weiden i.d.OPf.",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Hermes Abrasives GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025",
+      "publication_date": "2026-09-10",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=-fISskylUeqcKGbnOJpzOzBWoLsFThCtqgPwwvwUIwnqmN4VYKCmLyXLq6ceh__5tfYSdURjcSHL2yxYwU0ZvqX3lNRZJcy54LC5t1m-It8VQfaVpKzDI2plS_dfk6X0vP4SVgrvJAqi8_eA-GLvlqhq8WpUSjugYA6vrwQrMWtBTQO4BJkJQyKA0hbAgmSKP3A6vx17CZrETyEOiyC76cvhxL9tjJG1rMW0wf4b6Ga7Yzs",
+      "metadata": "Hermes Abrasives GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2025 bis zum 31.12.2025 Datum: 10.09.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Hermes Abrasives GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+      "publication_date": "2026-06-12",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=cArUBLcrNg--Xs9n5sZ6_knCRECrQO43nBRloK06N7PBXAJcf2H7b3c61LMSYEIfWUSOHyIZ2vc2tzV22rzUp8Fo9xHhFjwmncrkfNAxCAwdHS17N7ZhOqew7RKD2_HEmGP6cXvbYscdEIIBKqMAKy_J-eIdezFVyZ7zspYUOFlrmOFga0ZMhf8WV3BCjR5BhHXwTbjWoa8MSOtXejC9t-iBOkxiq1wF8XQ4mmyAzjGQQRA",
+      "metadata": "Hermes Abrasives GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024 Datum: 12.06.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Hermes Abrasives GmbH, Hamburg",
+      "title": "Sonstige Registerbekanntmachung",
+      "publication_date": "2025-12-08",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=g9toK5Oz9I_mrKn5m06lqcJiKXESUfc_abESn5pU_XKuOQ0_5iQGmvQsHvgB6fYesGcx9cP0ckQDeoN2l6FxQhUQXrgTbjyT2hTZlwiMt_7avRzVGgNq6xRCHcZXjiaGZqEEht8--l47GVl_TM5LefMwrAje_B5g3B65-rfYz3TZpK9PVa07gX6Eqpo6rnyBjfRVVVjJo9O8brajD7Ai4yc04SxxT-3UE2JBPQYbbnPQtDs",
+      "metadata": "Hermes Abrasives GmbH, Hamburg Registerbekanntmachungen Sonstige Registerbekanntmachung Datum: 08.12.2025 Sprache: Deutsch",
+      "source_area": "Registerbekanntmachungen",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Hermes Schleifwerkzeuge GmbH & Co. KG, Hamburg",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-03-04",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=JAIxG-uvuGDRUATVmyjLySCgdyESYhePhqy39VbIS_CsokXAOGHKBxZGdDSdxm-dN8MiF6VB0NW-eLtdtkDgmLnK6GCViGDCRuVYIY20tOewtKyi8qgj6LOEtI3hHhP84PMhOzweCHQfx8IFyypAFL3sYs2kjvzFh-7XzQwcd3Y6IcbdGzvwdhGMr88Q4xybUTfR9jrbIzKWF1UPDRPaiJk9DaL2NTz8uOE0ej3nB39giA4",
+      "metadata": "Hermes Schleifwerkzeuge GmbH & Co. KG, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Datum: 04.03.2025 Sprache: Deutsch Befreite Unternehmen anzeigen Hermes Schleifwerkzeuge GmbH & Co. KG, Hamburg Hermes Schleifmittel GmbH, Hamburg Hermes Abrasives GmbH, Hamburg",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Hermes Abrasives GmbH, Hamburg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+      "publication_date": "2025-02-03",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=iAfoRHovpB7z8iRLEU8v5DAnkxboBgOC45zOHDWcDBp77_gtk66Ub7ev2OL4TbP4HZKhS8OOjYiwYb7g2Y1O_MXhYtMsSbdYOeZ0MpYOaFMPguzQOVHAO7vX1a91EX6OZ-H-j3Qqzt5amPjOKJEgfjQcbYStLvHGErlgYJs6yiivFuBQNqgWNPMOPRosdfLZhunob1wpueToZ6T6SRAQ_QO_Szn5e2JVdVUNXSocXvMq6BA",
+      "metadata": "Hermes Abrasives GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023 Hermes Schleifwerkzeuge GmbH & Co. KG, Hamburg Datum: 03.02.2025 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Otto GmbH & Co. KGaA, Hamburg",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.03.2025 bis zum 28.02.2026",
+      "publication_date": "2026-06-17",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=AV3XI27-qtUqDIOORli_Jaj2yQ1iFBxZWmDKL3ixINexDzZDROtQI3UUbRgO8BYVVADzn9OfNSX7E3scWnRuT9e5vGIZb0J2vyld2wo0gX9gZyGJJH2lUzk_4I9mEHQ_onmKNCkeJGByiD32dCy3vpSJgWN8DjRDf0xUEZZw032NcHIyx8Rny2Mi2YDoc6IaS0UgVlqdTLrne5E6EFxZXHlTxpkocT3KVhOEIyaVROiXQ0Yy",
+      "metadata": "Otto GmbH & Co. KGaA, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.03.2025 bis zum 28.02.2026 Ergänzt am 03.07.2026 Datum: 17.06.2026 Sprache: Deutsch Befreite Unternehmen anzeigen EOS KSI Inkasso Deutschland GmbH, Bad Rappenau Magazin Versandhandelsgesellschaft mbH, Stuttgart Hermes Fulfilment GmbH, Hamburg Otto Finance Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Lascana Handelsgesellschaft mbH, Hamburg Otto Finanzplus GmbH Versicherungsvermittlung, Hamburg EOS Deutschland GmbH, Hamburg Kommanditgesellschaft SSU Grundstücks-Verwaltungs GmbH & Co., Hamburg Otto International GmbH, Hamburg OTTO-EUROPE Beteiligungs-Verwaltungs GmbH, Hamburg OTTO AUSTRIA Grundstücksverwaltungs GmbH, Hamburg OTTO-ASIA Beteiligungs-Verwaltungs GmbH, Hamburg OVC Venture Capital GmbH, Hamburg EOS International Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Küche & Co GmbH, Hamburg EOS Field Services GmbH, Hamburg Systain Consulting GmbH, Hamburg EOS Verbriefungsspezialgesellschaft mbH, Hamburg bonprix Handelsgesellschaft mbH, Hamburg EOS Technology Solutions GmbH, Hamburg EOS Finance GmbH, Hamburg Verwaltungsgesellschaft HERMES Einrichtungs Service mbH, Hamburg FEGRO-Markt Eschborn,Verwaltungs GmbH, Hamburg MEDIA Handelsgesellschaft mbH, Hamburg Hanseatic Versicherungsdienst GmbH Versicherungsvermittlung, Hamburg Hanseatic Versicherungs-Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg bonprix Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Otto Group one.O GmbH, Dresden Argus Inkasso GmbH, Kamp-Lintfort Manufactum Brot & Butter GmbH, Waltrop creation L Handelsgesellschaft mbH, Regensburg Verwaltungsgesellschaft Baur Versand mbH, Burgkunstadt Frankonia Verwaltungs GmbH, Rottendorf BVB Beteiligungs- und Verwaltungs-GmbH, Burgkunstadt Frankonia Handels GmbH & Co. KG, Rottendorf Menos-Grundstücksholding GmbH, Burgkunstadt Baur Versand (GmbH & Co KG), Burgkunstadt Sieh an! Handelsgesellschaft mbH, Amberg Frankfurter Inkasso Gesellschaft mit beschränkter Haftung, Potsdam EOS Investment GmbH, Hamburg EOS Securitisation GmbH, Hamburg EOS Investment Poland GmbH, Hamburg eVenture Beteiligungs- Verwaltungsgesellschaft mbH, Hamburg Hermes Europe GmbH, Hamburg Balata Grundstücksverwaltungsgesellschaft mbH & Co. Vermietungs KG, Hamburg Credinvest 3 Finance GmbH, Hamburg EOS Investment RO GmbH, Hamburg Otto Russland Beteiligungs- und Verwaltungsgesellschaft mbH, Hamburg Otto Brasilien Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg EOS Immobilienworkout GmbH, Mülheim an der Ruhr EOS Deutscher Inkasso-Dienst GmbH, Hamburg OTTO Zwei-Mann-Handling Beteiligungs-Verwaltungs GmbH, Hamburg Boreal Grundstücksverwaltungsgesellschaft mbH & Co. Vermietungs KG, Mainz EOS Invest EE GmbH, Hamburg EOS Holding GmbH, Hamburg WVZ Warenverteilzentrum Manteler Forst Grundstücks-Verwaltungs-GmbH & Co. KG., Mainz Otto Group data.works GmbH, Hamburg Hermes Fulfilment Ansbach GmbH, Hamburg EOS Invest WE GmbH, Hamburg OFFICE PLANET GmbH, Hamburg empiriecom GmbH & Co. KG, Burgkunstadt P+L Services GmbH, Mülheim an der Ruhr EOS Investment HR GmbH, Hamburg Otto Paper & Print GmbH, Hamburg HSG Hermes Service Gesellschaft mbH, Hamburg Manufactum GmbH, Waltrop GPI - Gesellschaft für Grundbesitzmanagement mbH & Co. Kommanditgesellschaft, Mülheim an der Ruhr WG Datenmanagement GmbH, Weiden i.d.OPf. CINTHIA Real Estate GmbH, Monheim am Rhein Hermes Auslieferungsbasis Haldensleben GmbH, Hamburg Hermes Fulfilment Tech Solutions GmbH, Hamburg Hermes Auslieferungsbasis Ohrdruf GmbH, Hamburg Otto Import Solutions GmbH, Hamburg FinTecrity GmbH, Mannheim TT - Service und Beteiligungs-Verwaltungs GmbH, Frankfurt am Main HERMES Einrichtungs Service GmbH & Co. KG, Löhne Baur Hermes Fulfilment GmbH & Co KG, Burgkunstadt Altenkunstadter Logistik Immobilien GmbH & Co KG, Burgkunstadt Josef Witt GmbH, Weiden i.d.OPf. Frankonia Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Hermes Auslieferungsbasis Haldensleben GmbH, Hamburg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.03.2025 bis zum 28.02.2026",
+      "publication_date": "2026-01-22",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=7Vb4v2T-rfY5QoWslo2oTQnckXaEatMm9zepZLBnx0C3HVFmIsVQbdsvSBzvb3IStQT2cMmcW-IJdTPa1GvB4RKkI8_KyB3fzHc9hy78UJV1Sfxw3woelTPCCULIWsLe4FHQRAMrbY-Asv_EbP5_9yu5UQ3hrU-fUWcm-jCx5ZSYeWNdRdWylLVKcBe5QAn3eZGS6zazAvp3TOqC7DTUHYMIR1dzpBndnrWhhXLEsyquMi9C",
+      "metadata": "Hermes Auslieferungsbasis Haldensleben GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.03.2025 bis zum 28.02.2026 Otto GmbH & Co. KGaA, Hamburg Datum: 22.01.2026 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Otto GmbH & Co. KGaA, Hamburg",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.03.2024 bis zum 28.02.2025",
+      "publication_date": "2025-07-02",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=P0trbJ_LCJGZkBwyv_eaxz8UqE2X0Vcyv1o1_Bia3Mt0umYcPuj6tvVJGe0iiq2vjug_MwUgFNNCAFvgq0jlApma1GPbClp23ziEurItLCXMJXqGOqLxYYwQ12sc9X5biggNTAYTstNdmUvv1LOKKzuluGGRrYOSV2VrNtMTj3IsZEkHs738_qVL9-ix-jcEqnqcYIc2TQzMk-P__4gH-M-4dFfkfcJgKP4GRm8Fgas7oi8b",
+      "metadata": "Otto GmbH & Co. KGaA, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.03.2024 bis zum 28.02.2025 Ergänzt am 31.07.2025 Datum: 02.07.2025 Sprache: Deutsch Befreite Unternehmen anzeigen EOS KSI Inkasso Deutschland GmbH, Bad Rappenau Frankonia Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Magazin Versandhandelsgesellschaft mbH, Stuttgart Hermes Fulfilment GmbH, Hamburg Otto Finance Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Lascana Handelsgesellschaft mbH, Hamburg Otto Finanzplus GmbH Versicherungsvermittlung, Hamburg EOS Deutschland GmbH, Hamburg Kommanditgesellschaft SSU Grundstücks-Verwaltungs GmbH & Co., Hamburg Otto International GmbH, Hamburg OTTO-EUROPE Beteiligungs-Verwaltungs GmbH, Hamburg OTTO AUSTRIA Grundstücksverwaltungs GmbH, Hamburg OTTO-ASIA Beteiligungs-Verwaltungs GmbH, Hamburg OVC Venture Capital GmbH, Hamburg EOS International Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Küche & Co GmbH, Hamburg EOS Field Services GmbH, Hamburg Systain Consulting GmbH, Hamburg EOS Verbriefungsspezialgesellschaft mbH, Hamburg bonprix Handelsgesellschaft mbH, Hamburg EOS Technology Solutions GmbH, Hamburg EOS Finance GmbH, Hamburg Verwaltungsgesellschaft HERMES Einrichtungs Service mbH, Hamburg FEGRO-Markt Eschborn,Verwaltungs GmbH, Hamburg MEDIA Handelsgesellschaft mbH, Hamburg Hanseatic Versicherungsdienst GmbH Versicherungsvermittlung, Hamburg Hanseatic Versicherungs-Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg bonprix Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Otto Group one.O GmbH, Dresden Argus Inkasso GmbH, Kamp-Lintfort Manufactum Brot & Butter GmbH, Waltrop walter services Burgkunstadt GmbH, Königswinter creation L Handelsgesellschaft mbH, Regensburg Verwaltungsgesellschaft Baur Versand mbH, Burgkunstadt Frankonia Verwaltungs GmbH, Rottendorf Josef Witt GmbH, Weiden i.d.OPf. BVB Beteiligungs- und Verwaltungs-GmbH, Burgkunstadt Frankonia Handels GmbH & Co. KG, Rottendorf Menos-Grundstücksholding GmbH, Burgkunstadt Baur Versand (GmbH & Co KG), Burgkunstadt Sieh an! Handelsgesellschaft mbH, Amberg Frankfurter Inkasso Gesellschaft mit beschränkter Haftung, Potsdam EOS Investment GmbH, Hamburg EOS Securitisation GmbH, Hamburg EOS Investment Poland GmbH, Hamburg eVenture Beteiligungs- Verwaltungsgesellschaft mbH, Hamburg Hermes Europe GmbH, Hamburg Balata Grundstücksverwaltungsgesellschaft mbH & Co. Vermietungs KG, Hamburg Credinvest 3 Finance GmbH, Hamburg EOS Investment RO GmbH, Hamburg Otto Russland Beteiligungs- und Verwaltungsgesellschaft mbH, Hamburg Otto Brasilien Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg EOS Immobilienworkout GmbH, Mülheim an der Ruhr EOS Deutscher Inkasso-Dienst GmbH, Hamburg OTTO Zwei-Mann-Handling Beteiligungs-Verwaltungs GmbH, Hamburg Boreal Grundstücksverwaltungsgesellschaft mbH & Co. Vermietungs KG, Mainz EOS Holding GmbH, Hamburg WVZ Warenverteilzentrum Manteler Forst Grundstücks-Verwaltungs-GmbH & Co. KG., Mainz Otto Group data.works GmbH, Hamburg Hermes Fulfilment Ansbach GmbH, Hamburg EOS Invest WE GmbH, Hamburg OFFICE PLANET GmbH, Hamburg empiriecom GmbH & Co. KG, Burgkunstadt P+L Services GmbH, Mülheim an der Ruhr EOS Investment HR GmbH, Hamburg Otto Paper & Print GmbH, Hamburg HSG Hermes Service Gesellschaft mbH, Hamburg Manufactum GmbH, Waltrop GPI - Gesellschaft für Grundbesitzmanagement mbH & Co. Kommanditgesellschaft, Mülheim an der Ruhr WG Datenmanagement GmbH, Weiden i.d.OPf. CINTHIA Real Estate GmbH, Monheim am Rhein Hermes Auslieferungsbasis Haldensleben GmbH, Hamburg Hermes Fulfilment Tech Solutions GmbH, Hamburg Hermes Auslieferungsbasis Ohrdruf GmbH, Hamburg Otto Import Solutions GmbH, Hamburg FinTecrity GmbH, Mannheim TT - Service und Beteiligungs-Verwaltungs GmbH, Frankfurt am Main HERMES Einrichtungs Service GmbH & Co. KG, Löhne Baur Hermes Fulfilment GmbH & Co KG, Burgkunstadt Altenkunstadter Logistik Immobilien GmbH & Co KG, Burgkunstadt sheego GmbH, Weiden i.d.OPf.",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Hermes Auslieferungsbasis Haldensleben GmbH, Hamburg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.03.2024 bis zum 28.02.2025",
+      "publication_date": "2024-10-28",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=slGlD2vEOsoC99QlUuLfVY0RVxGBZW570PsrQOBSYKgpHekUAG7RkgSog9da7bVCziQIIPkbjDXiFt0kJDdXU4Yjc2U8LmZJHKu-YSUzCDWPx3GpGrs66MWkMdDJcknIZz2oRdfJpwBd44FnXnNAH9UQyFbuqKthRgNb-9xATxBwe4wl4pJ1UR3V03UmccEHg49t6hUF_FQ5i2OtNVVd6PIbaL9h2DoL3jDVdg7PPfRP2xJr",
+      "metadata": "Hermes Auslieferungsbasis Haldensleben GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.03.2024 bis zum 28.02.2025 Otto (GmbH & Co KG), Hamburg Datum: 28.10.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Otto (GmbH & Co KG), Hamburg",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.03.2023 bis zum 29.02.2024",
+      "publication_date": "2024-10-09",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=v_W5TXZcBiJA_WdO-F4n_C2f9Po98O_7bG5G0wFOI5SKWogLumYpBt3cSwlWLkoe9hk5JjywWsbMj2fhsfslnOiivMgFyuQ0SEglVjqcCQeNdUxNyKWcl7KBX6Yy_fNcffxKmiMmiS7EqsJXtkw2rWaxsKKSRMd5pPhpoDnvYWfLPrDhCCQh9TtOnq54z-9YJOyJgS3wrLW7muUePjXtao7M_HUglzdRqg_iK6n7SCnQwRBB",
+      "metadata": "Otto (GmbH & Co KG), Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.03.2023 bis zum 29.02.2024 Datum: 09.10.2024 Sprache: Deutsch Befreite Unternehmen anzeigen EOS KSI Inkasso Deutschland GmbH, Bad Rappenau Frankonia Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg GSG Gastro Service GmbH, Karlsruhe Hermes Fulfilment GmbH, Hamburg Otto (GmbH & Co KG), Hamburg Otto Finance Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Lascana Handelsgesellschaft mbH, Hamburg Otto Finanzplus GmbH Versicherungsvermittlung, Hamburg EOS Deutschland GmbH, Hamburg Kommanditgesellschaft SSU Grundstücks-Verwaltungs GmbH & Co., Hamburg Otto International GmbH, Hamburg OTTO-EUROPE Beteiligungs-Verwaltungs GmbH, Hamburg OTTO AUSTRIA Grundstücksverwaltungs GmbH, Hamburg OTTO-CHEER Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg OTTO-ASIA Beteiligungs-Verwaltungs GmbH, Hamburg OVC Venture Capital GmbH, Hamburg EOS International Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Küche & Co GmbH, Hamburg EOS Field Services GmbH, Hamburg Systain Consulting GmbH, Hamburg EOS Verbriefungsspezialgesellschaft mbH, Hamburg bonprix Handelsgesellschaft mbH, Hamburg EOS Technology Solutions GmbH, Hamburg Hermes General Service Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg EOS Finance GmbH, Hamburg Verwaltungsgesellschaft HERMES Einrichtungs Service mbH, Hamburg FEGRO-Markt Eschborn,Verwaltungs GmbH, Hamburg MEDIA Handelsgesellschaft mbH, Hamburg Hanseatic Versicherungsdienst GmbH Versicherungsvermittlung, Hamburg Hanseatic Versicherungs-Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Erste Mercator Vermietungsgesellschaft mbH & Co KG, Hamburg bonprix Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Otto Group one.O GmbH, Dresden Argus Inkasso GmbH, Kamp-Lintfort walter services Burgkunstadt GmbH, Königswinter creation L Handelsgesellschaft mbH, Regensburg Verwaltungsgesellschaft Baur Versand mbH, Burgkunstadt Frankonia Verwaltungs GmbH, Rottendorf Josef Witt GmbH, Weiden i.d.OPf. BVB Beteiligungs- und Verwaltungs-GmbH, Burgkunstadt Frankonia Handels GmbH & Co. KG, Rottendorf Menos-Grundstücksholding GmbH, Burgkunstadt Baur Versand (GmbH & Co KG), Burgkunstadt Sieh an! Handelsgesellschaft mbH, Amberg Frankfurter Inkasso Gesellschaft mit beschränkter Haftung, Potsdam EOS Investment GmbH, Hamburg EOS Securitisation GmbH, Hamburg ARTHUR Holding GmbH, Hamburg EOS Investment Poland GmbH, Hamburg eVenture Beteiligungs- Verwaltungsgesellschaft mbH, Hamburg Hermes Europe GmbH, Hamburg Balata Grundstücksverwaltungsgesellschaft mbH & Co. Vermietungs KG, Hamburg EOS Investment CEE GmbH, Hamburg Credinvest 3 Finance GmbH, Hamburg EOS Investment RO GmbH, Hamburg Otto Russland Beteiligungs- und Verwaltungsgesellschaft mbH, Hamburg Otto Brasilien Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg EOS Immobilienworkout GmbH, Mülheim an der Ruhr EOS Deutscher Inkasso-Dienst GmbH, Hamburg OTTO Zwei-Mann-Handling Beteiligungs-Verwaltungs GmbH, Hamburg Boreal Grundstücksverwaltungsgesellschaft mbH & Co. Vermietungs KG, Mainz EOS Holding GmbH, Hamburg WVZ Warenverteilzentrum Manteler Forst Grundstücks-Verwaltungs-GmbH & Co. KG., Mainz Otto Group data.works GmbH, Hamburg Hermes Fulfilment Ansbach GmbH, Hamburg EOS Invest WE GmbH, Hamburg OFFICE PLANET GmbH, Hamburg empiriecom GmbH & Co. KG, Burgkunstadt P+L Services GmbH, Mülheim an der Ruhr EOS Investment HR GmbH, Hamburg Otto Paper & Print GmbH, Hamburg HSG Hermes Service Gesellschaft mbH, Hamburg GPI - Gesellschaft für Grundbesitzmanagement mbH & Co. Kommanditgesellschaft, Mülheim an der Ruhr WG Datenmanagement GmbH, Weiden i.d.OPf. CINTHIA Real Estate GmbH, Monheim am Rhein Hermes Auslieferungsbasis Haldensleben GmbH, Hamburg Hermes Fulfilment Tech Solutions GmbH, Hamburg Hermes Auslieferungsbasis Ohrdruf GmbH, Hamburg Otto Import Solutions GmbH, Hamburg Funnel Plus GmbH, Hamburg FinTecrity GmbH, Mannheim Hermes Fulfilment Gernsheim GmbH, Hamburg TT - Service und Beteiligungs-Verwaltungs GmbH, Frankfurt am Main HERMES Einrichtungs Service GmbH & Co. KG, Löhne Baur Hermes Fulfilment GmbH & Co KG, Burgkunstadt Altenkunstadter Logistik Immobilien GmbH & Co KG, Burgkunstadt",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Otto GmbH & Co. KGaA, Hamburg",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.03.2025 bis zum 28.02.2026",
+      "publication_date": "2026-06-17",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=U9oadMY1q1143GMnpYrnr4rngzraPjs8NeFkH0Le3vAopJaduShJSuV2uDuP1qjgpdzuSO9FbjFcStatU7ucssPnCwWk1oCh7PpmQ0i2cD9NXhgFpLGY1wAsSB8UexBDs5NzCMpwjtDTkGss-Wme1NXlTm6kng1vYdM0HXx4xrSaxuq96tkwS50SzICAGrdR42NVcZLCaDAxPkwJQsSt_RmhaEpbUIPXHYZ9GRUFdSMq9Rcj",
+      "metadata": "Otto GmbH & Co. KGaA, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.03.2025 bis zum 28.02.2026 Ergänzt am 03.07.2026 Datum: 17.06.2026 Sprache: Deutsch Befreite Unternehmen anzeigen EOS KSI Inkasso Deutschland GmbH, Bad Rappenau Magazin Versandhandelsgesellschaft mbH, Stuttgart Hermes Fulfilment GmbH, Hamburg Otto Finance Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Lascana Handelsgesellschaft mbH, Hamburg Otto Finanzplus GmbH Versicherungsvermittlung, Hamburg EOS Deutschland GmbH, Hamburg Kommanditgesellschaft SSU Grundstücks-Verwaltungs GmbH & Co., Hamburg Otto International GmbH, Hamburg OTTO-EUROPE Beteiligungs-Verwaltungs GmbH, Hamburg OTTO AUSTRIA Grundstücksverwaltungs GmbH, Hamburg OTTO-ASIA Beteiligungs-Verwaltungs GmbH, Hamburg OVC Venture Capital GmbH, Hamburg EOS International Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Küche & Co GmbH, Hamburg EOS Field Services GmbH, Hamburg Systain Consulting GmbH, Hamburg EOS Verbriefungsspezialgesellschaft mbH, Hamburg bonprix Handelsgesellschaft mbH, Hamburg EOS Technology Solutions GmbH, Hamburg EOS Finance GmbH, Hamburg Verwaltungsgesellschaft HERMES Einrichtungs Service mbH, Hamburg FEGRO-Markt Eschborn,Verwaltungs GmbH, Hamburg MEDIA Handelsgesellschaft mbH, Hamburg Hanseatic Versicherungsdienst GmbH Versicherungsvermittlung, Hamburg Hanseatic Versicherungs-Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg bonprix Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Otto Group one.O GmbH, Dresden Argus Inkasso GmbH, Kamp-Lintfort Manufactum Brot & Butter GmbH, Waltrop creation L Handelsgesellschaft mbH, Regensburg Verwaltungsgesellschaft Baur Versand mbH, Burgkunstadt Frankonia Verwaltungs GmbH, Rottendorf BVB Beteiligungs- und Verwaltungs-GmbH, Burgkunstadt Frankonia Handels GmbH & Co. KG, Rottendorf Menos-Grundstücksholding GmbH, Burgkunstadt Baur Versand (GmbH & Co KG), Burgkunstadt Sieh an! Handelsgesellschaft mbH, Amberg Frankfurter Inkasso Gesellschaft mit beschränkter Haftung, Potsdam EOS Investment GmbH, Hamburg EOS Securitisation GmbH, Hamburg EOS Investment Poland GmbH, Hamburg eVenture Beteiligungs- Verwaltungsgesellschaft mbH, Hamburg Hermes Europe GmbH, Hamburg Balata Grundstücksverwaltungsgesellschaft mbH & Co. Vermietungs KG, Hamburg Credinvest 3 Finance GmbH, Hamburg EOS Investment RO GmbH, Hamburg Otto Russland Beteiligungs- und Verwaltungsgesellschaft mbH, Hamburg Otto Brasilien Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg EOS Immobilienworkout GmbH, Mülheim an der Ruhr EOS Deutscher Inkasso-Dienst GmbH, Hamburg OTTO Zwei-Mann-Handling Beteiligungs-Verwaltungs GmbH, Hamburg Boreal Grundstücksverwaltungsgesellschaft mbH & Co. Vermietungs KG, Mainz EOS Invest EE GmbH, Hamburg EOS Holding GmbH, Hamburg WVZ Warenverteilzentrum Manteler Forst Grundstücks-Verwaltungs-GmbH & Co. KG., Mainz Otto Group data.works GmbH, Hamburg Hermes Fulfilment Ansbach GmbH, Hamburg EOS Invest WE GmbH, Hamburg OFFICE PLANET GmbH, Hamburg empiriecom GmbH & Co. KG, Burgkunstadt P+L Services GmbH, Mülheim an der Ruhr EOS Investment HR GmbH, Hamburg Otto Paper & Print GmbH, Hamburg HSG Hermes Service Gesellschaft mbH, Hamburg Manufactum GmbH, Waltrop GPI - Gesellschaft für Grundbesitzmanagement mbH & Co. Kommanditgesellschaft, Mülheim an der Ruhr WG Datenmanagement GmbH, Weiden i.d.OPf. CINTHIA Real Estate GmbH, Monheim am Rhein Hermes Auslieferungsbasis Haldensleben GmbH, Hamburg Hermes Fulfilment Tech Solutions GmbH, Hamburg Hermes Auslieferungsbasis Ohrdruf GmbH, Hamburg Otto Import Solutions GmbH, Hamburg FinTecrity GmbH, Mannheim TT - Service und Beteiligungs-Verwaltungs GmbH, Frankfurt am Main HERMES Einrichtungs Service GmbH & Co. KG, Löhne Baur Hermes Fulfilment GmbH & Co KG, Burgkunstadt Altenkunstadter Logistik Immobilien GmbH & Co KG, Burgkunstadt Josef Witt GmbH, Weiden i.d.OPf. Frankonia Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Hermes Europe GmbH, Hamburg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.03.2025 bis zum 28.02.2026",
+      "publication_date": "2025-12-12",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=LOY0xmwBI-7LSfMnGeXWNm6vhcHKPzLTpDo-apVOSHg125xDoR5QDC_a5jvH-O5_cXs2yj7LfUv3RjLC2UDoDOIxQQuaYnyoRNsPmg6QaZCNUBfQ96NavPX71Ow9KFyy32-9bda3CxJfykO9JDF8FdgvJR5GjhWkxMVX-9ekuRhOgedoQ7EKsg5Tb4T9NO4zUqpTZ8I_GAPI6BPEB29GKw03P4u8ijYMxs3SnP0WFs4DCYp9",
+      "metadata": "Hermes Europe GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.03.2025 bis zum 28.02.2026 Otto GmbH & Co. KGaA, Hamburg Datum: 12.12.2025 Sprache: Deutsch Konzernunterlagen anzeigen",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Hermes Europe GmbH, Hamburg",
+      "title": "Registerbekanntmachung nach dem Umwandlungsgesetz",
+      "publication_date": "2025-10-17",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=pEIk17BHbZWaWTIwkRA5LCMGdjp2knUUE7ubl7ARGA1EoZc3N-pDC4czmNv0n-bdcfAdAw150xMKxRro9-2exJz3WqbaaqYXfgIEtBEAKsi4HtSclvdQo9lVr7fK1JsRLmWdyhHLbFI7_4X84a2fFtBMD-NCZjVZq7tmXLB7Pj0Qe4E0gOJkGSWfeyuqe9i-kyjYGw0ZwBPMECG2WWeiBfrYMzWCYz_Hxe6pBn_uV58fIB1y",
+      "metadata": "Hermes Europe GmbH, Hamburg Registerbekanntmachungen Registerbekanntmachung nach dem Umwandlungsgesetz Datum: 17.10.2025 Sprache: Deutsch",
+      "source_area": "Registerbekanntmachungen",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Otto GmbH & Co. KGaA, Hamburg",
+      "title": "Konzernabschluss zum Geschäftsjahr vom 01.03.2024 bis zum 28.02.2025",
+      "publication_date": "2025-07-02",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=YODS0VXyResidelWOtrWaKFfvFqEXvkgFvPMa9ajMAMi2BN4NPOJYm8kA2nVh9sYXeqii68TMV17DpBXWEB9S_5IYlSDnTkoQnBPR5eylwlb7Ap-78PUXCDNXgLcsL-JM3VnjkCIpnS6HngD6fIbPPqFs-Nu9ChwxHU4IAmxMw7mpeloWYOHu8HfOfG6G7kOt3w4YK7VKt-w6hsr_mTwTrIRR6UmFAhAdyA-xSLZWnkJl1ig",
+      "metadata": "Otto GmbH & Co. KGaA, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Konzernabschluss zum Geschäftsjahr vom 01.03.2024 bis zum 28.02.2025 Ergänzt am 31.07.2025 Datum: 02.07.2025 Sprache: Deutsch Befreite Unternehmen anzeigen EOS KSI Inkasso Deutschland GmbH, Bad Rappenau Frankonia Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Magazin Versandhandelsgesellschaft mbH, Stuttgart Hermes Fulfilment GmbH, Hamburg Otto Finance Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Lascana Handelsgesellschaft mbH, Hamburg Otto Finanzplus GmbH Versicherungsvermittlung, Hamburg EOS Deutschland GmbH, Hamburg Kommanditgesellschaft SSU Grundstücks-Verwaltungs GmbH & Co., Hamburg Otto International GmbH, Hamburg OTTO-EUROPE Beteiligungs-Verwaltungs GmbH, Hamburg OTTO AUSTRIA Grundstücksverwaltungs GmbH, Hamburg OTTO-ASIA Beteiligungs-Verwaltungs GmbH, Hamburg OVC Venture Capital GmbH, Hamburg EOS International Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Küche & Co GmbH, Hamburg EOS Field Services GmbH, Hamburg Systain Consulting GmbH, Hamburg EOS Verbriefungsspezialgesellschaft mbH, Hamburg bonprix Handelsgesellschaft mbH, Hamburg EOS Technology Solutions GmbH, Hamburg EOS Finance GmbH, Hamburg Verwaltungsgesellschaft HERMES Einrichtungs Service mbH, Hamburg FEGRO-Markt Eschborn,Verwaltungs GmbH, Hamburg MEDIA Handelsgesellschaft mbH, Hamburg Hanseatic Versicherungsdienst GmbH Versicherungsvermittlung, Hamburg Hanseatic Versicherungs-Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg bonprix Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg Otto Group one.O GmbH, Dresden Argus Inkasso GmbH, Kamp-Lintfort Manufactum Brot & Butter GmbH, Waltrop walter services Burgkunstadt GmbH, Königswinter creation L Handelsgesellschaft mbH, Regensburg Verwaltungsgesellschaft Baur Versand mbH, Burgkunstadt Frankonia Verwaltungs GmbH, Rottendorf Josef Witt GmbH, Weiden i.d.OPf. BVB Beteiligungs- und Verwaltungs-GmbH, Burgkunstadt Frankonia Handels GmbH & Co. KG, Rottendorf Menos-Grundstücksholding GmbH, Burgkunstadt Baur Versand (GmbH & Co KG), Burgkunstadt Sieh an! Handelsgesellschaft mbH, Amberg Frankfurter Inkasso Gesellschaft mit beschränkter Haftung, Potsdam EOS Investment GmbH, Hamburg EOS Securitisation GmbH, Hamburg EOS Investment Poland GmbH, Hamburg eVenture Beteiligungs- Verwaltungsgesellschaft mbH, Hamburg Hermes Europe GmbH, Hamburg Balata Grundstücksverwaltungsgesellschaft mbH & Co. Vermietungs KG, Hamburg Credinvest 3 Finance GmbH, Hamburg EOS Investment RO GmbH, Hamburg Otto Russland Beteiligungs- und Verwaltungsgesellschaft mbH, Hamburg Otto Brasilien Beteiligungs-Verwaltungsgesellschaft mbH, Hamburg EOS Immobilienworkout GmbH, Mülheim an der Ruhr EOS Deutscher Inkasso-Dienst GmbH, Hamburg OTTO Zwei-Mann-Handling Beteiligungs-Verwaltungs GmbH, Hamburg Boreal Grundstücksverwaltungsgesellschaft mbH & Co. Vermietungs KG, Mainz EOS Holding GmbH, Hamburg WVZ Warenverteilzentrum Manteler Forst Grundstücks-Verwaltungs-GmbH & Co. KG., Mainz Otto Group data.works GmbH, Hamburg Hermes Fulfilment Ansbach GmbH, Hamburg EOS Invest WE GmbH, Hamburg OFFICE PLANET GmbH, Hamburg empiriecom GmbH & Co. KG, Burgkunstadt P+L Services GmbH, Mülheim an der Ruhr EOS Investment HR GmbH, Hamburg Otto Paper & Print GmbH, Hamburg HSG Hermes Service Gesellschaft mbH, Hamburg Manufactum GmbH, Waltrop GPI - Gesellschaft für Grundbesitzmanagement mbH & Co. Kommanditgesellschaft, Mülheim an der Ruhr WG Datenmanagement GmbH, Weiden i.d.OPf. CINTHIA Real Estate GmbH, Monheim am Rhein Hermes Auslieferungsbasis Haldensleben GmbH, Hamburg Hermes Fulfilment Tech Solutions GmbH, Hamburg Hermes Auslieferungsbasis Ohrdruf GmbH, Hamburg Otto Import Solutions GmbH, Hamburg FinTecrity GmbH, Mannheim TT - Service und Beteiligungs-Verwaltungs GmbH, Frankfurt am Main HERMES Einrichtungs Service GmbH & Co. KG, Löhne Baur Hermes Fulfilment GmbH & Co KG, Burgkunstadt Altenkunstadter Logistik Immobilien GmbH & Co KG, Burgkunstadt sheego GmbH, Weiden i.d.OPf.",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    },
+    {
+      "company": "Hermes Europe GmbH, Hamburg",
+      "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.03.2024 bis zum 28.02.2025",
+      "publication_date": "2024-10-21",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=GEiO5b7N2R-pkbtCLDL-9QPWzMjaBiD0aHWXmkmBUxCnDVY62E-JM-REprx_H4HfGnZ3Ee19bNmnjCso-7kaYVJjVjPgYwCeNkaCiillqvwl9_6XWkDqtb_8vG6YP9OqPVEP7uxl-Lh-qVuBqdZ7mWaeX743Ug-WKsFV9OmqBvjGvMcZDBR6YpAZh4CH_aCyoHqK13sDge3ZrS4JX3OCrDZFkGmnYc6XVR5RhOlwFR1i108C",
+      "metadata": "Hermes Europe GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister §§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.03.2024 bis zum 28.02.2025 Otto (GmbH & Co KG), Hamburg Datum: 21.10.2024 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "reason": "company_name_mismatch"
+    }
+  ],
+  "date_from": "2024-01-01",
+  "date_to": "2026-11-25",
+  "excluded_dates": [],
+  "max_publications": 30,
+  "truncated": true,
+  "coverage": {
+    "search_complete": false,
+    "more_pages": true,
+    "publication_limit_reached": false,
+    "downloads_selected": 6,
+    "downloads_succeeded": 6,
+    "download_limit_reached": true,
+    "downloads_complete": false,
+    "text_complete": true
+  },
+  "publications": [
+    {
+      "company": "Hermes Germany GmbH, Hamburg",
+      "title": "Aufsichtsrat",
+      "publication_date": "2026-10-29",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=63rycqoYaNltBFC9vS_A1nDF1LW09dyIUDAkbpR47SknAFhGCW2qY3msLbs1ig8E2nUZN_MN7qE_WGItOe_LDN_xmpkt_NQiR-JWV4CYG6JDBQo4z41XcOY-81XbmdDOme3QSuedpUDztqrC0sykkGQRAl3AOZgmFbVYlQB0nQC0ao6AMFlAiLneqoUkA_4jbFAcPzd7xfi81jEFdeeK3VudBXCtFgL6Q5UqCZZ9iZXtSphm",
+      "metadata": "Hermes Germany GmbH, Hamburg Gesellschaftsbekanntmachungen Bundesanzeiger Aufsichtsrat Datum: 29.10.2026 Sprache: Deutsch",
+      "source_area": "Gesellschaftsbekanntmachungen Bundesanzeiger",
+      "category": "bekanntmachungen",
+      "index": 1
+    },
+    {
+      "company": "Hermes Germany GmbH, Hamburg",
+      "title": "Einreichung neuer Dokumente",
+      "publication_date": "2026-10-28",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=TtYXXMtP0tHEQBpAgg4wRuy-l8OJQ-VIiuO0PUFfP9wUeQvJaChzTEOE9WpN4GR4lH7srHahNt6YoqZV-pK3GudYlVuWBsCBPt8waocA68WRN_vZSg-t9IljGawAEubTbJB8Bx_PqyhD1Gkh0PnxaA0gP5FudE7njVzr8dlEN13KSksf7iS0-X7p_VB7bnfhHBu2pH0JffFfqUq15I8wVceRDT3yFf0Ue09Xp3MZqsElyH_J",
+      "metadata": "Hermes Germany GmbH, Hamburg Registerbekanntmachungen Einreichung neuer Dokumente Datum: 28.10.2026 Sprache: Deutsch",
+      "source_area": "Registerbekanntmachungen",
+      "category": "bekanntmachungen",
+      "index": 2
+    },
+    {
+      "company": "Hermes Germany GmbH, Hamburg",
+      "title": "Aufsichtsrat",
+      "publication_date": "2026-07-07",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=WPF7lSiCqt6y4OysCCGKFBOzu5d27ZKbA_-_ETIZGwJL1ogtHvOF-91lQ_MOR2hIWKxgARUhfVqxuTsApy7m0-kV_sp97F1s1pwsvb63f5Vgm16rc1AGZbDnIyyj2rA5pMqn9DjNr0xBcidJWwmZmyi7z7Tgip5GIOfRwhdKxTX6oiTu4bT0XwOtfExHTXw9ol4Vd-CRc05sQiDnxPFvsRdCTbFGc5VeYT62odHcbpBopYvV",
+      "metadata": "Hermes Germany GmbH, Hamburg Gesellschaftsbekanntmachungen Bundesanzeiger Aufsichtsrat Datum: 07.07.2026 Sprache: Deutsch",
+      "source_area": "Gesellschaftsbekanntmachungen Bundesanzeiger",
+      "category": "bekanntmachungen",
+      "index": 3
+    },
+    {
+      "company": "Hermes Germany GmbH, Hamburg",
+      "title": "Einreichung neuer Dokumente",
+      "publication_date": "2026-07-02",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=MPw71piZTmS0Qjf7CnBalEq2kmMwK1Gcs7D0QDLKKjPZXIlJDm0ZFK4uRZTJKeBoQgyfZqJshOFpufhHyaKwiRR1WpyX8DQ4PyOpE5YAvAubkH3WUwiXXaAXEUWQQLSl6VdVyWnLPmNiX2ILR-CsRjFLvQVgf7UIdeJ62rua0tRZmpDtxAhZOVlmUo2z2x2LoaWPw3n_AAW4HrT6BlRntH9XkMKzyRqwz_BzYf45T08Wt4-V",
+      "metadata": "Hermes Germany GmbH, Hamburg Registerbekanntmachungen Einreichung neuer Dokumente Datum: 02.07.2026 Sprache: Deutsch",
+      "source_area": "Registerbekanntmachungen",
+      "category": "bekanntmachungen",
+      "index": 4
+    },
+    {
+      "company": "Hermes Germany GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.03.2025 bis zum 28.02.2026",
+      "publication_date": "2026-06-29",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=XOj_NuYU0wMsa79sA_Q_euRXp8B7C-2ha8EiKo3LH8TaU6Vh3TdLkOxbmi5z36WANe30LmVqkJjXGpASBvRnGLHDonUGVzpSMeRMTi2dl-8evvz7NFLhgsa2AQyblpJpQ89wIfbULIJCcvJvT7aPe8jNY6VNRGFYOtkmEI0SIrbpbRrr8zV_N1oExnsMAofFr6V1RMliHL7HJU5AwFuW0h5cFKrLfnBRnF6_bAPge9ZCqThd",
+      "metadata": "Hermes Germany GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.03.2025 bis zum 28.02.2026 Datum: 29.06.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 5
+    },
+    {
+      "company": "Hermes Germany GmbH, Hamburg",
+      "title": "Aufsichtsrat",
+      "publication_date": "2026-05-28",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=hGL9r0WJ72G-w05HsimXPCuKLDxfNV9gibpLXWevuxGqLmJ6iJUseHxfN88dxIznaTSgxCMMjN9wEIPV1kIuTO6VDs4cD_Xn9nf91S-1wcdJT_DXr66Z_XlAAAK_CsJCvi4iUKJVZaqTsC03iN4zmUP9_V5Idn87Vz03hWqCY2bQS4HlV2L94_slWHUgi3f9-wHcpiRMa4QkeW8W-OBK6BnLrBH5EzKV3LARADSB7xaoQk6U",
+      "metadata": "Hermes Germany GmbH, Hamburg Gesellschaftsbekanntmachungen Bundesanzeiger Aufsichtsrat Datum: 28.05.2026 Sprache: Deutsch",
+      "source_area": "Gesellschaftsbekanntmachungen Bundesanzeiger",
+      "category": "bekanntmachungen",
+      "index": 6
+    },
+    {
+      "company": "Hermes Germany GmbH, Hamburg",
+      "title": "Aufsichtsrat",
+      "publication_date": "2026-05-27",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=_vJsdOUmfcnei1bCOOrX-mG9pnMYf2xpQdfyLQEMLFOGDgHMFGVM4C0OFWGjycYTki1rVtmjyrT03Pi9DUJFygXGWwSr3jaP8Lw2ZznpypA0A0I8gPykqYLb_bn3I0oFuGvncIIfisQTg9spga2P0BLUwQDuvEAw8C4uRihVNvOxbwT_CeJ0nHyo02ZYSrw-lGXVEs9kdeBh7cFJKa4DqQOweKByVITMOB8LGSOOaIDKYnzU",
+      "metadata": "Hermes Germany GmbH, Hamburg Gesellschaftsbekanntmachungen Bundesanzeiger Aufsichtsrat Datum: 27.05.2026 Sprache: Deutsch",
+      "source_area": "Gesellschaftsbekanntmachungen Bundesanzeiger",
+      "category": "bekanntmachungen",
+      "index": 7
+    },
+    {
+      "company": "Hermes Germany GmbH, Hamburg",
+      "title": "Einreichung neuer Dokumente",
+      "publication_date": "2026-05-21",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=KBQqhGdHaxWwXRhfNgAXyLJ9ctW_2hBA_-RH5hZswqKIMKialm2AIaErzBWzIB-82tcHM5QffndWUwUfMKbAOHWdRsQqg2YS7a_UFVbdLcjrfHDlQ3Ki1U4K3iCBZXTgw-qRGL6XgyfUHWmZcA4m1b3pKs9Tg5KTCOeoatGbT-qh16EBQJUL2mlgtW4JSDn1pM38TkqR2KAf4akGpjkIvhPT4BvTz4hf7Yt7-j6zMRrXBWvF",
+      "metadata": "Hermes Germany GmbH, Hamburg Registerbekanntmachungen Einreichung neuer Dokumente Datum: 21.05.2026 Sprache: Deutsch",
+      "source_area": "Registerbekanntmachungen",
+      "category": "bekanntmachungen",
+      "index": 8
+    },
+    {
+      "company": "Hermes Germany GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.03.2024 bis zum 28.02.2025",
+      "publication_date": "2026-03-23",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=t-UD0k4qr7_qrjjAFdjR0Prqs2E_ot_WOlQ6sLboaG9nZnZMtHayfAbp9MpnhD3oYI53XO0rasKYhbVqdI2tQRJACwTWyGuQBojv2pIRdeC5pk2gmpj_gtw3o6KNTpuA6q1ROHWmir6nSrkeCdXKTECPLQfCRO9Da5XbQMylxyqOtAaQrUCuSRR3xsXua8pu_s39ohVTFPU49_TdWJT83VMgYyUpSvBTmG1Hq52BFajwFoMH",
+      "metadata": "Hermes Germany GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.03.2024 bis zum 28.02.2025 Datum: 23.03.2026 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 9
+    },
+    {
+      "company": "Hermes Germany GmbH, Hamburg",
+      "title": "Aufsichtsrat",
+      "publication_date": "2025-08-12",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=jHGm_qMJ8tVoRY0oTUczXsqLM-BTQKtbaeAlHO_91VZQLVgKcRAycySubRY9qDGRJNkkze_pGylbTo2IHaxSEe-C67Lp80Ekl08_sDnU98L-qu_BIQaUhZ6Cxdne5_EE8mdr594VlVvsCWkdjqAJwiGY1Cxyp2dAuPr92OhOAq05pByo_-rmiDXW7Mkx4TKrF8JHgmeV-UIAhhzXxPVvmcP1XVPtI6cyAmSIE53MTGHDlpwq",
+      "metadata": "Hermes Germany GmbH, Hamburg Gesellschaftsbekanntmachungen Bundesanzeiger Aufsichtsrat Datum: 12.08.2025 Sprache: Deutsch",
+      "source_area": "Gesellschaftsbekanntmachungen Bundesanzeiger",
+      "category": "bekanntmachungen",
+      "index": 10
+    },
+    {
+      "company": "Hermes Germany GmbH, Hamburg",
+      "title": "Jahresabschluss zum Geschäftsjahr vom 01.03.2023 bis zum 29.02.2024",
+      "publication_date": "2025-03-28",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=pIcLoguqtz7X1YmePxZp6cy0KnMt_IkoZ5JeglN_Dv3F1ioAdDrUeel9b0DLQdLHTJRX_fv2IE2UmJHTjSGiu6vvLjiypx08dxSoM0Q09wdTt_7orNFNuGE4R9-zFQmp8cA9R57I9nsT9oVONxGxNXGGYzDWmLSLNABqz_rXckXHKlT_l8GeT9BuYpafjyDZ_wZ_xRvc0HYjYkUfepkyyOedJuaPD2RTbg_zl7FUqscjrIIf",
+      "metadata": "Hermes Germany GmbH, Hamburg Rechnungslegung / Finanzberichte Unternehmensregister Jahresabschluss zum Geschäftsjahr vom 01.03.2023 bis zum 29.02.2024 Datum: 28.03.2025 Sprache: Deutsch",
+      "source_area": "Rechnungslegung / Finanzberichte Unternehmensregister",
+      "category": "finanzberichte",
+      "index": 11
+    },
+    {
+      "company": "Hermes Germany GmbH, Hamburg",
+      "title": "Einreichung neuer Dokumente",
+      "publication_date": "2025-03-20",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=78lJUb6Aj-c1naWZoHlwmv9VB3koeyzp2IIwuEaHbDrhB0KOq8ms2KK67_ymye7VTFHBC0BQds1cDFwg2-Gb0bnk9yZPHCJPz6e9rG4SG1AYSRf7VngcCVWcVabzahf7DmCwdNHFH-l4r5jGso6DTjg1DUGqfFRQTgLgpxv1RSywIn23QJ8HLQxDSAP3oRQ34dRjTTp_MVVSlB-go7Vr46Y5c0v-jx-73QeSQ3uqt9u07Ko5",
+      "metadata": "Hermes Germany GmbH, Hamburg Registerbekanntmachungen Einreichung neuer Dokumente Datum: 20.03.2025 Sprache: Deutsch",
+      "source_area": "Registerbekanntmachungen",
+      "category": "bekanntmachungen",
+      "index": 12
+    },
+    {
+      "company": "Hermes Germany GmbH, Hamburg",
+      "title": "Aufsichtsrat",
+      "publication_date": "2025-03-11",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=HPD-NYzvUbNZfPlrCq_c3WM1dxLiqsAVlNBD76LtWEZIva6-tLrjEScSTgIgTBiRIGIT52uxRRIERYT4ihs_JX5umDJBaSlDFMCi4RZ_r_44AIveBd9e3L2csxIbju6KZmarq_FhlrGRuEPlD5Mzr_acBv1Z5mqWJ8Rci_RuYKDhYGreDKDQ4EzSx3tA68q-bXuDLkFrjOavVhbmtWKDLTcgHWtc09qr9Lj_eIT2oElDxeGf",
+      "metadata": "Hermes Germany GmbH, Hamburg Gesellschaftsbekanntmachungen Bundesanzeiger Aufsichtsrat Datum: 11.03.2025 Sprache: Deutsch",
+      "source_area": "Gesellschaftsbekanntmachungen Bundesanzeiger",
+      "category": "bekanntmachungen",
+      "index": 13
+    },
+    {
+      "company": "Hermes Germany GmbH, Hamburg",
+      "title": "Einreichung neuer Dokumente",
+      "publication_date": "2024-03-20",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=wI6sS3yxeqvEj3zJAYz87SW_fc8_c9zPz8cQIj1NprQ-J9JX13H-k62VTeYKXNtKA-g6gSWUBNvG07a1NNH4VXrVbEMSs7NtZh4ZU-bnJmDbcCsnhOla_rHCk26wUKS4FbrpkAhaGvwU3Y59kmAr7ooEOfcVzil-Hp_AtXwmlTazdeyIFyVfWYVd6l2gTBQD1nWFntGLa1qTpG_RhK4ITzkfrZm2CkGuGEfx42rPAwjZiddy",
+      "metadata": "Hermes Germany GmbH, Hamburg Registerbekanntmachungen Einreichung neuer Dokumente Datum: 20.03.2024 Sprache: Deutsch",
+      "source_area": "Registerbekanntmachungen",
+      "category": "bekanntmachungen",
+      "index": 14
+    },
+    {
+      "company": "Hermes Germany GmbH, Hamburg",
+      "title": "Aufsichtsrat",
+      "publication_date": "2024-03-20",
+      "language": "Deutsch",
+      "url": "https://www.unternehmensregister.de/de/publication?payload=11PcNCeRJkpK7W1Cx0tq8-40Fz6qaEK2aHeV3o1piQ3kXo8W-YTULI7y-iBDJzZWbX0Rro1ifO3pJmVK-lPE72QPy9DPGZDueT9ru_IqN4ObB_Mfwi5n2kVa7_DE1c_ZPRG4nxsV0TE4z-hF28LNB0NM6dE5LGujnyAHSnrHMUqFKFl3p5oynmgzeA-07POoPBl4HPtdCWyPvJqGmlqRHUZZrqI83IVmtEIYLXPbsixiCMZd",
+      "metadata": "Hermes Germany GmbH, Hamburg Gesellschaftsbekanntmachungen Bundesanzeiger Aufsichtsrat Datum: 20.03.2024 Sprache: Deutsch",
+      "source_area": "Gesellschaftsbekanntmachungen Bundesanzeiger",
+      "category": "bekanntmachungen",
+      "index": 15
+    }
+  ]
+}

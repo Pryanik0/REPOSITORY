@@ -1,0 +1,52 @@
+{
+  "status": "error",
+  "provider": "gewerkschaften",
+  "date_from": "2026-05-25",
+  "pdf_download_policy": "company_in_link_metadata_or_filename",
+  "date_to": "2026-11-25",
+  "articles": [],
+  "visited": [
+    "https://www.gew.de/presse"
+  ],
+  "rejected": [],
+  "errors": [
+    {
+      "url": "https://www.gew.de/presse",
+      "error": "CrawlError: Browser HTTP 403: https://www.gew.de/presse; Seite nicht verfügbar oder Sicherheitsprüfung erforderlich."
+    }
+  ],
+  "truncated": false,
+  "searches": [],
+  "company_keys": [
+    "simpleclub"
+  ],
+  "search_mode": "link_discovery",
+  "articles_examined": 0,
+  "page_coverage": {
+    "search_pages": 0,
+    "content_pages": 1,
+    "search_page_limit": 15,
+    "content_page_limit": 50,
+    "queued_remaining": 0,
+    "queue_limit_reached": false
+  },
+  "documents": [],
+  "requests_attempted": 4,
+  "gewerkschaft": {
+    "name": "GEW",
+    "branches": [
+      "Bildung & Wissenschaft"
+    ],
+    "urls": [
+      "https://www.gew.de"
+    ],
+    "news_urls": [
+      "https://www.gew.de/presse"
+    ],
+    "url_prefixes": [],
+    "query_values": {},
+    "source_note": "",
+    "source_name": "",
+    "site_search": true
+  }
+}

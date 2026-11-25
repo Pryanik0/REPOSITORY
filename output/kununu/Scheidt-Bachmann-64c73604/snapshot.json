@@ -1,0 +1,699 @@
+{
+  "provider": "kununu",
+  "backend": "browser",
+  "status": "ok",
+  "query": "Scheidt-Bachmann",
+  "profile": {
+    "url": "https://www.kununu.com/de/scheidt-bachmann",
+    "name": "Scheidt & Bachmann",
+    "overall_score": 3.8,
+    "review_count": 194,
+    "recommendation_percent": 83,
+    "recommendation_period": "last_2_years",
+    "observed_at": "2026-11-25T17:17:49.690023+00:00"
+  },
+  "reviews": [
+    {
+      "id": "d9430c92-671f-41d2-9d37-28d2212061b8",
+      "url": "https://www.kununu.com/de/scheidt-bachmann/bewertung/d9430c92-671f-41d2-9d37-28d2212061b8",
+      "title": "Uneingeschränkte Empfehlung",
+      "content": "Der Zusammenhalt im Team ist einfach unschlagbar. Ich kann HomeOffice machen, bin aber gerne und überwiegend im Büro eben aus diesem Grund. Das ist für mich letztlich ausschlaggebend an meiner Arbeitsstelle: Das ich gerne hier bin, Sonntags abends gerne an Montag denke und man echten Rückhalt erlebt. Das ist nicht selbstverständlich - im Gegenteil. Ich kann das natürlich nicht für jeden Bereich und jedes Team sagen, aber meins möchte ich nicht mehr missen.",
+      "rating": 4.8,
+      "sections": {
+        "positive": "Der Zusammenhalt im Team ist einfach unschlagbar. Ich kann HomeOffice machen, bin aber gerne und überwiegend im Büro eben aus diesem Grund. Das ist für mich letztlich ausschlaggebend an meiner Arbeitsstelle: Das ich gerne hier bin, Sonntags abends gerne an Montag denke und man echten Rückhalt erlebt. Das ist nicht selbstverständlich - im Gegenteil. Ich kann das natürlich nicht für jeden Bereich und jedes Team sagen, aber meins möchte ich nicht mehr missen.",
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 4.0,
+        "career": 4.0,
+        "salary": 4.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-11-25T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "1ac5dec4-6e12-4433-807e-d611c6fc5509",
+      "url": "https://www.kununu.com/de/scheidt-bachmann/bewertung/1ac5dec4-6e12-4433-807e-d611c6fc5509",
+      "title": "Als Engineer, arbeitest du lieber woanderes",
+      "content": "Arbeitskollegen\n\nMan hat keine Chance als engineer sich weiterzuentwickeln.\nIm Bereich der Software Development, beschäftigt man sich mit uralte Code-Basis die etwa 30 Jahre alt ist.\nDie Struktur ist einfach eine Katastrophe.\nEs gibt Kollegen mit über 20 Jahren Erfahrung, die sich nicht mal mit Git kennen...\nDie Vorgesetzten achten nur auf Umsatz, ihnen ist egal was die Developers angeht und was die leiden.\nMan ist so geizig dass man keine 6 Monate investieren will, um zu refactoring und das Leben von Developers (vor allem neue Entwicklern) zu erleichtern.\n\nViel zu viel",
+      "rating": 1.8,
+      "sections": {
+        "positive": "Arbeitskollegen",
+        "negative": "Man hat keine Chance als engineer sich weiterzuentwickeln.\nIm Bereich der Software Development, beschäftigt man sich mit uralte Code-Basis die etwa 30 Jahre alt ist.\nDie Struktur ist einfach eine Katastrophe.\nEs gibt Kollegen mit über 20 Jahren Erfahrung, die sich nicht mal mit Git kennen...\nDie Vorgesetzten achten nur auf Umsatz, ihnen ist egal was die Developers angeht und was die leiden.\nMan ist so geizig dass man keine 6 Monate investieren will, um zu refactoring und das Leben von Developers (vor allem neue Entwicklern) zu erleichtern.",
+        "suggestion": "Viel zu viel"
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 3.0,
+        "communication": 1.0,
+        "workConditions": 1.0,
+        "leadership": 1.0,
+        "teamwork": 3.0,
+        "oldColleagues": 4.0,
+        "equality": 1.0,
+        "career": 1.0,
+        "salary": 2.0,
+        "image": 1.0,
+        "environment": 1.0,
+        "tasks": 2.0
+      },
+      "published_at": "2026-11-18T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "b435bc82-ad4d-4c35-9b35-52b44e8614a0",
+      "url": "https://www.kununu.com/de/scheidt-bachmann/bewertung/b435bc82-ad4d-4c35-9b35-52b44e8614a0",
+      "title": "Geht",
+      "content": "Geht\n\nGeht\n\nGeht\n\nGeht\n\nGeht\n\nGeht\n\nGeht\n\nGeht\n\nGeht\n\nGeht\n\nGeht\n\nGeht\n\nGeht",
+      "rating": 2.7,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Geht",
+        "image": "Geht",
+        "workLife": "Geht",
+        "career": "Geht",
+        "salary": "Geht",
+        "environment": "Geht",
+        "teamwork": "Geht",
+        "oldColleagues": "Geht",
+        "leadership": "Geht",
+        "workConditions": "Geht",
+        "communication": "Geht",
+        "equality": "Geht",
+        "tasks": "Geht"
+      },
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 3.0,
+        "communication": 3.0,
+        "workConditions": 2.0,
+        "leadership": 3.0,
+        "teamwork": 3.0,
+        "oldColleagues": 3.0,
+        "equality": 2.0,
+        "career": 2.0,
+        "salary": 2.0,
+        "image": 2.0,
+        "environment": 3.0,
+        "tasks": 3.0
+      },
+      "published_at": "2026-10-10T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "d796a4ed-e25e-4161-9a35-8c9ae55c5b71",
+      "url": "https://www.kununu.com/de/scheidt-bachmann/bewertung/d796a4ed-e25e-4161-9a35-8c9ae55c5b71",
+      "title": "Guter Arbeitgeber",
+      "content": "Überwiegend positiv\n\nüberwiegend gut\n\nvorhanden\n\nteilweise gut\n\nüberwiegend gut\n\nkönnte moderner sein\n\nManche Dinge werden nicht zeitnah kommuniziert und manchmal ist der Inhalt personell gefiltert\n\nvorhanden\n\nAbwechslungsreich",
+      "rating": 3.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Überwiegend positiv",
+        "workLife": "überwiegend gut",
+        "environment": "vorhanden",
+        "teamwork": "teilweise gut",
+        "leadership": "überwiegend gut",
+        "workConditions": "könnte moderner sein",
+        "communication": "Manche Dinge werden nicht zeitnah kommuniziert und manchmal ist der Inhalt personell gefiltert",
+        "equality": "vorhanden",
+        "tasks": "Abwechslungsreich"
+      },
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 4.0,
+        "communication": 3.0,
+        "workConditions": 3.0,
+        "leadership": 4.0,
+        "teamwork": 3.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 3.0,
+        "salary": 2.0,
+        "image": 4.0,
+        "environment": 4.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-09-09T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "a533d9ff-8281-4119-a81d-837d0a1f0eb7",
+      "url": "https://www.kununu.com/de/scheidt-bachmann/bewertung/a533d9ff-8281-4119-a81d-837d0a1f0eb7",
+      "title": "Ein formbares Familienunternehmen mit guten Vibes",
+      "content": "Sehr engagiert sich zu verbessern; man hat das Gefühl auch auf eigene Faust Dinge bewegen zu können; Leistung wird gewürdigt\n\nWenig Absprache in den verschiedenen Geschäftsbereichen um Best-Practices auszutauschen obwohl die gleichen Themen Herausforderungen darstellen\n\nKommunikation Geschäftsbereiche: Best-Practices unter den verschiedenen Geschäftsbereichen austauschen um effizienter die gleichen Probleme zu lösen\nSchwierige Parkplatzsituation: mehr Parkplätze für Mitarbeiter freigeben, statt diese nur Dienstzeitgebunden auszugeben.\nUmwelt: mehr Home-Office Tage anbieten um emissionsärmeres arbeiten zu ermöglichen.\n\nWirklich eine familiäre Arbeitsatmosphäre, die sehr angenehm ist. Duzen der Vorgesetzten und Kollegen\n\nLängere Pausenzeit als gesetzlich gefordert; Home-Office 40% Regelung; 40Std Woche. Insgesamt gut mit Familie vereinbar.\n\nViele Weiterbildungsmöglichkeiten, wenn man sich engagiert\n\nNiedrigeres Gehalt als Durchschnitt, allerdings gute Benefits und Weiterbildungsmöglichkeiten\n\nVerbesserungsmöglichkeiten im Umweltschutz\n\nSehr kollegiales und offenes Team in der gesamten Firma\n\nDienstjahre werden gewürdigt\n\nSehr angenehme Vorgesetzten\n\nKommunikationsschwierigkeiten bei fachlicher Informationsweitergabe\n\nAufgrund von Frauenmangel gibt es Benefits die nur für Frauen Angeboten werden, wie z. B. ein Firmenparkplatz\n\nViel Gestaltungsfreiraum",
+      "rating": 4.3,
+      "sections": {
+        "positive": "Sehr engagiert sich zu verbessern; man hat das Gefühl auch auf eigene Faust Dinge bewegen zu können; Leistung wird gewürdigt",
+        "negative": "Wenig Absprache in den verschiedenen Geschäftsbereichen um Best-Practices auszutauschen obwohl die gleichen Themen Herausforderungen darstellen",
+        "suggestion": "Kommunikation Geschäftsbereiche: Best-Practices unter den verschiedenen Geschäftsbereichen austauschen um effizienter die gleichen Probleme zu lösen\nSchwierige Parkplatzsituation: mehr Parkplätze für Mitarbeiter freigeben, statt diese nur Dienstzeitgebunden auszugeben.\nUmwelt: mehr Home-Office Tage anbieten um emissionsärmeres arbeiten zu ermöglichen."
+      },
+      "factor_comments": {
+        "atmosphere": "Wirklich eine familiäre Arbeitsatmosphäre, die sehr angenehm ist. Duzen der Vorgesetzten und Kollegen",
+        "workLife": "Längere Pausenzeit als gesetzlich gefordert; Home-Office 40% Regelung; 40Std Woche. Insgesamt gut mit Familie vereinbar.",
+        "career": "Viele Weiterbildungsmöglichkeiten, wenn man sich engagiert",
+        "salary": "Niedrigeres Gehalt als Durchschnitt, allerdings gute Benefits und Weiterbildungsmöglichkeiten",
+        "environment": "Verbesserungsmöglichkeiten im Umweltschutz",
+        "teamwork": "Sehr kollegiales und offenes Team in der gesamten Firma",
+        "oldColleagues": "Dienstjahre werden gewürdigt",
+        "leadership": "Sehr angenehme Vorgesetzten",
+        "communication": "Kommunikationsschwierigkeiten bei fachlicher Informationsweitergabe",
+        "equality": "Aufgrund von Frauenmangel gibt es Benefits die nur für Frauen Angeboten werden, wie z. B. ein Firmenparkplatz",
+        "tasks": "Viel Gestaltungsfreiraum"
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 4.0,
+        "communication": 3.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 3.0,
+        "career": 5.0,
+        "salary": 3.0,
+        "image": 5.0,
+        "environment": 4.0,
+        "tasks": 4.0
+      },
+      "published_at": "2026-08-20T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "a3f33c3c-60e0-4aee-8a6b-97dbb397ae2a",
+      "url": "https://www.kununu.com/de/scheidt-bachmann/bewertung/a3f33c3c-60e0-4aee-8a6b-97dbb397ae2a",
+      "title": "Überschrift deiner Bewertung \"Bewertung\" :-)",
+      "content": "Im großen und ganzen in Ordnung\n\n...\n\nSchwer man will ja was verdienen\n\nEinmal den Gang rausgenommen und schwupp weg vom Fenster\n\nKann man immer drüber sprechen\n\nMan ist dabei\n\nNur kleine Gruppen und man muss dazu gehören sonst läuft das IST an einem vorbei\n\n....\n\nKann man auch immer verbessern\n\nVerbesserungswürdig\n\nKann bestimmt etwas verbessert werden, sind aber ab und an auf einen guten Kurs\n\n....\n\nJa, wird aber schnell zu viel",
+      "rating": 3.5,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Im großen und ganzen in Ordnung",
+        "image": "...",
+        "workLife": "Schwer man will ja was verdienen",
+        "career": "Einmal den Gang rausgenommen und schwupp weg vom Fenster",
+        "salary": "Kann man immer drüber sprechen",
+        "environment": "Man ist dabei",
+        "teamwork": "Nur kleine Gruppen und man muss dazu gehören sonst läuft das IST an einem vorbei",
+        "oldColleagues": "....",
+        "leadership": "Kann man auch immer verbessern",
+        "workConditions": "Verbesserungswürdig",
+        "communication": "Kann bestimmt etwas verbessert werden, sind aber ab und an auf einen guten Kurs",
+        "equality": "....",
+        "tasks": "Ja, wird aber schnell zu viel"
+      },
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 3.0,
+        "communication": 3.0,
+        "workConditions": 4.0,
+        "leadership": 4.0,
+        "teamwork": 3.0,
+        "oldColleagues": 3.0,
+        "equality": 3.0,
+        "career": 4.0,
+        "salary": 3.0,
+        "image": 4.0,
+        "environment": 3.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-08-13T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "e036eac7-001f-4e02-b6cb-dec042f459fa",
+      "url": "https://www.kununu.com/de/scheidt-bachmann/bewertung/e036eac7-001f-4e02-b6cb-dec042f459fa",
+      "title": "Guter Arbeitgeber weil blöde Kollegen gibt es überall",
+      "content": "entspannter Arbeitszeitumgang aber Überstunden sind notwendig\n\nProbleme werden gerne lange mitgeschleppt und müssen erst eskalieren, bevor man auf mich hört\n\nProbleme und Problematische Personen schneller beheben",
+      "rating": 3.2,
+      "sections": {
+        "positive": "entspannter Arbeitszeitumgang aber Überstunden sind notwendig",
+        "negative": "Probleme werden gerne lange mitgeschleppt und müssen erst eskalieren, bevor man auf mich hört",
+        "suggestion": "Probleme und Problematische Personen schneller beheben"
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 3.0,
+        "communication": 3.0,
+        "workConditions": 3.0,
+        "leadership": 2.0,
+        "teamwork": 3.0,
+        "oldColleagues": 3.0,
+        "equality": 4.0,
+        "career": 3.0,
+        "salary": 4.0,
+        "image": 3.0,
+        "environment": 4.0,
+        "tasks": 4.0
+      },
+      "published_at": "2026-06-11T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "4fa226e4-fe5c-483a-8f06-23cb4600d996",
+      "url": "https://www.kununu.com/de/scheidt-bachmann/bewertung/4fa226e4-fe5c-483a-8f06-23cb4600d996",
+      "title": "Product Owner Component Software",
+      "content": "- Gute Atmosphäre\n- Vorholzeitregelung für Brückentage",
+      "rating": 4.8,
+      "sections": {
+        "positive": "- Gute Atmosphäre\n- Vorholzeitregelung für Brückentage",
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 4.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 4.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-03-11T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "ffcd7aa2-b9cf-4db4-bdfc-f2aed4634bfa",
+      "url": "https://www.kununu.com/de/scheidt-bachmann/bewertung/ffcd7aa2-b9cf-4db4-bdfc-f2aed4634bfa",
+      "title": "Das Klima wird kühler, die Aussichten trüber.",
+      "content": "Es ist alles sehr sehr solide. Wenn man genau das in seinem Leben sucht dann ist es ein gutes Umfeld - ich tu dir nicht weh du tust mir nicht weh.\n\nKommunikation des Managements, Mitarbeiterentwicklungsmöglichkeiten, Transport der Vision und Zukunftsfähigkeit des Bereichs.\n\nSich neu erfinden und nicht alten Wein und neuen Schläuchen verkaufen. Man braucht eine richtige Transformation. Mitarbeitern mehr zutrauen (Teilhabe in Entscheidungen), moderner werden (offene Kommunikation).\nFür Menschen die etwas bewegen möchten und Gas geben möchten ist es ein schwieriges Umfeld\n\nKontinuierlich schlechter geworden. Die vielbeschworene Passion for Parking scheint nur ein Spruch an der Wand zu sein. Jeder geht seinem Trott nach.\nHalbherzig geplante Initativen wie bspw. Shared Office tragen zur Entwicklung bei und gehen öfters an den Wünschen und Bedürfnissen der Mitarbeiter vorbei.\n\nEs kommt drauf an. Generell ist die Branche sehr klein und nach außen gibt es kaum Strahlkraft. Man erzählt sich intern wie toll man ist aber am Ende entscheidet der Kunde. Wettbewerber nehmen Marktanteile ab. Man ist jedoch noch Marktführer.\n\nPersönliche Präferenzen und Lebensumstände werden berücksichtigt. Es gibt Gleitzeit.\n\nEs fehlen klare Karrierepläne und Entwicklungsmöglichkeiten. Karriere hängt hier oftmals daran ob man zur richtigen Zeit am richtigen Ort war und mit am Tisch sitzt.\nSchulungen und Trainings sind nicht wirklich state-of-the-art und bei anderen Unternehmen deutlich besser.\n\nGehalt ist für Rahmenbedingungen in Ordnung. Nicht gut, nicht schlecht.\n\nMan strebt nach Zertifizierungen und schärft Bewusstsein für Nachhaltigkeit.\n\nMan sitzt in einem Boot und unterstützt sich wo man kann. Viel Flurfunk.\n\nEine lange Unternehmenszugehörifkeit zeugt vom Respekt und der Wichtigkeit älterer Mitarbeiter. Gerade jüngere Talente verlassen jedoch schnell wieder das Unternehmen.\n\nEin ganz klares es kommt drauf an.\nDirekt Vorgesetzte und die unteren Führungskräfte geben ihr bestes. Die Kultur und der Wind weht jedoch von oben. Es fühlt sich kalt an und es mangelt and Begeisterungsfähigkeit für die Aufgaben und Herausforderungen die vor einem liegen.\n\nDie Büros haben nichts mit modernen Arbeitswelten zu tun. Ein neuer PVC Boden und etwas Farbe an den Wänden täuschen nicht über das 90er-Jahre Erscheinungsbild hinweg. Es ist viel Flickenteppich bei den Renovierungsarbeiten.\n\nPar ordre du mufti. Vornehmlich gilt \"Good News Only\".\nVielzahl an Entscheidungen werden intransparent getroffen und ohne die Beteiligten mit einzubinden. Oftmals nicht nachvollziehbar wohin die Reise gehen soll.\n\nEs ist auf der Führungsebene äußerst männlich, weiß und alt. Darunter sieht es nicht viel beser aus. Es gibt Initativen für Vielfalt jedoch ist vieles ein paar Jahre zu spät und man hechelt den Entwicklungen hinterher.\n\nMan arbeitet an spannenden Themen und Fragstellungen. Die Mittel zur Umsetzung fehlen jedoch und man fragt sicht wie es weiter nach vorne gehen soll.",
+      "rating": 2.9,
+      "sections": {
+        "positive": "Es ist alles sehr sehr solide. Wenn man genau das in seinem Leben sucht dann ist es ein gutes Umfeld - ich tu dir nicht weh du tust mir nicht weh.",
+        "negative": "Kommunikation des Managements, Mitarbeiterentwicklungsmöglichkeiten, Transport der Vision und Zukunftsfähigkeit des Bereichs.",
+        "suggestion": "Sich neu erfinden und nicht alten Wein und neuen Schläuchen verkaufen. Man braucht eine richtige Transformation. Mitarbeitern mehr zutrauen (Teilhabe in Entscheidungen), moderner werden (offene Kommunikation).\nFür Menschen die etwas bewegen möchten und Gas geben möchten ist es ein schwieriges Umfeld"
+      },
+      "factor_comments": {
+        "atmosphere": "Kontinuierlich schlechter geworden. Die vielbeschworene Passion for Parking scheint nur ein Spruch an der Wand zu sein. Jeder geht seinem Trott nach.\nHalbherzig geplante Initativen wie bspw. Shared Office tragen zur Entwicklung bei und gehen öfters an den Wünschen und Bedürfnissen der Mitarbeiter vorbei.",
+        "image": "Es kommt drauf an. Generell ist die Branche sehr klein und nach außen gibt es kaum Strahlkraft. Man erzählt sich intern wie toll man ist aber am Ende entscheidet der Kunde. Wettbewerber nehmen Marktanteile ab. Man ist jedoch noch Marktführer.",
+        "workLife": "Persönliche Präferenzen und Lebensumstände werden berücksichtigt. Es gibt Gleitzeit.",
+        "career": "Es fehlen klare Karrierepläne und Entwicklungsmöglichkeiten. Karriere hängt hier oftmals daran ob man zur richtigen Zeit am richtigen Ort war und mit am Tisch sitzt.\nSchulungen und Trainings sind nicht wirklich state-of-the-art und bei anderen Unternehmen deutlich besser.",
+        "salary": "Gehalt ist für Rahmenbedingungen in Ordnung. Nicht gut, nicht schlecht.",
+        "environment": "Man strebt nach Zertifizierungen und schärft Bewusstsein für Nachhaltigkeit.",
+        "teamwork": "Man sitzt in einem Boot und unterstützt sich wo man kann. Viel Flurfunk.",
+        "oldColleagues": "Eine lange Unternehmenszugehörifkeit zeugt vom Respekt und der Wichtigkeit älterer Mitarbeiter. Gerade jüngere Talente verlassen jedoch schnell wieder das Unternehmen.",
+        "leadership": "Ein ganz klares es kommt drauf an.\nDirekt Vorgesetzte und die unteren Führungskräfte geben ihr bestes. Die Kultur und der Wind weht jedoch von oben. Es fühlt sich kalt an und es mangelt and Begeisterungsfähigkeit für die Aufgaben und Herausforderungen die vor einem liegen.",
+        "workConditions": "Die Büros haben nichts mit modernen Arbeitswelten zu tun. Ein neuer PVC Boden und etwas Farbe an den Wänden täuschen nicht über das 90er-Jahre Erscheinungsbild hinweg. Es ist viel Flickenteppich bei den Renovierungsarbeiten.",
+        "communication": "Par ordre du mufti. Vornehmlich gilt \"Good News Only\".\nVielzahl an Entscheidungen werden intransparent getroffen und ohne die Beteiligten mit einzubinden. Oftmals nicht nachvollziehbar wohin die Reise gehen soll.",
+        "equality": "Es ist auf der Führungsebene äußerst männlich, weiß und alt. Darunter sieht es nicht viel beser aus. Es gibt Initativen für Vielfalt jedoch ist vieles ein paar Jahre zu spät und man hechelt den Entwicklungen hinterher.",
+        "tasks": "Man arbeitet an spannenden Themen und Fragstellungen. Die Mittel zur Umsetzung fehlen jedoch und man fragt sicht wie es weiter nach vorne gehen soll."
+      },
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 4.0,
+        "communication": 2.0,
+        "workConditions": 2.0,
+        "leadership": 2.0,
+        "teamwork": 4.0,
+        "oldColleagues": 4.0,
+        "equality": 2.0,
+        "career": 2.0,
+        "salary": 3.0,
+        "image": 3.0,
+        "environment": 4.0,
+        "tasks": 3.0
+      },
+      "published_at": "2026-02-10T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "cc5ebff0-ff4e-4503-89cb-c0b884263628",
+      "url": "https://www.kununu.com/de/scheidt-bachmann/bewertung/cc5ebff0-ff4e-4503-89cb-c0b884263628",
+      "title": "Sehr durchnittlicher Arbeitsgeber für durchnittliche Mitarbeiter",
+      "content": "Arbeitskollegen\n\nVorgesetzte.\nDie achten nur auf Umsatz und dumme Regelen.\nÜberhaupt nicht auf die Entwichlung der Mitarbeitern\n\nViele, aber vor allem moderner zu sein.\nDu musst als Softwareentwickler um ur-altes Code basis kummern die vor etwa 25 Jahre sehr schlecht geschrieben wird.",
+      "rating": 2.5,
+      "sections": {
+        "positive": "Arbeitskollegen",
+        "negative": "Vorgesetzte.\nDie achten nur auf Umsatz und dumme Regelen.\nÜberhaupt nicht auf die Entwichlung der Mitarbeitern",
+        "suggestion": "Viele, aber vor allem moderner zu sein.\nDu musst als Softwareentwickler um ur-altes Code basis kummern die vor etwa 25 Jahre sehr schlecht geschrieben wird."
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 4.0,
+        "communication": 2.0,
+        "workConditions": 2.0,
+        "leadership": 3.0,
+        "teamwork": 4.0,
+        "oldColleagues": 4.0,
+        "equality": 3.0,
+        "career": 1.0,
+        "salary": 1.0,
+        "image": 1.0,
+        "environment": 4.0,
+        "tasks": 1.0
+      },
+      "published_at": "2025-09-09T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "ffbf077c-0030-428a-805f-04041e8c8d67",
+      "url": "https://www.kununu.com/de/scheidt-bachmann/bewertung/ffbf077c-0030-428a-805f-04041e8c8d67",
+      "title": "Alt und eingesessene Formen Eine der Firmen die noch in der Vergangenheit lebt besonders beim Thema Verantwortlichkeit",
+      "content": "Teilen und Vertrauen",
+      "rating": 1.7,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": "Teilen und Vertrauen"
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-09-06T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "502af53b-3b61-44a0-94bc-21d37865fb86",
+      "url": "https://www.kununu.com/de/scheidt-bachmann/bewertung/502af53b-3b61-44a0-94bc-21d37865fb86",
+      "title": "Der beste Arbeitgeber den ich je hatte",
+      "content": "Die Atmosphäre ist sehr angenehm.\n\nNach nichtmal 3 Monaten wurde mir vorgeschlagen die Technikerweiterbildung zu machen.\n\nChefs die wissen was ihre Mitarbeiter wert sind.\n\nMan kann über alles reden und es wird nach Lösungen gesucht, nicht nach Problemen.",
+      "rating": 5.0,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Die Atmosphäre ist sehr angenehm.",
+        "career": "Nach nichtmal 3 Monaten wurde mir vorgeschlagen die Technikerweiterbildung zu machen.",
+        "leadership": "Chefs die wissen was ihre Mitarbeiter wert sind.",
+        "communication": "Man kann über alles reden und es wird nach Lösungen gesucht, nicht nach Problemen."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-09-03T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "4520c812-cc26-41fc-ab21-d2d4e323bde7",
+      "url": "https://www.kununu.com/de/scheidt-bachmann/bewertung/4520c812-cc26-41fc-ab21-d2d4e323bde7",
+      "title": "Scheidt & Bachmann Fare Collection Systems kann ich wirklich empfehlen. Offen, Zukunftssicher, Wertschätzend.",
+      "content": "Familiäre Umgebung\nZusammenhalt\nFlache Hierarchien\nWeiterbildungschancen\nFlexibilität\n\nKeine Fitnessmöglichkeiten\n\nTarife bis EG 14\n\nVertraute Atmosphäre, sehr wertschätzende Vorgesetzte.\nFamiliäre Stimmung unter den Mitarbeitenden.\n\nWer Familienunternehmen mag findet ihr ein Zuhause\n\nArbeitgeber achtet darauf das nicht zu viele Überstunden gemacht werden, wenn Überstunden Abbau oder Auszahlung möglich. Gut mit Familie vereinbar.\n\nViele Weiterbildungsmöchlichkeiten\n\nTarifliche Vergütung\n\nNachhaltigkeitsabteilung\n\nTeamgefühl = Wir-Gefühl\n\nKein unterschied zwischen Jung und Alt, gemischte Teams\n\nNiedrige Hierarchien. Du Kultur bis in die Geschäftsführungsebende\n\nIT Ausstattung angepasst an Aufgabenbereiche - Büros werden modernisiert\n\nKommunikation auf Augenhöhe\n\nFrauennetzwerk setzt sich aktiv ein\n\nVielfältige Aufgaben mit Entwicklungspotenzial und Aufbau Möglichkeiten",
+      "rating": 4.8,
+      "sections": {
+        "positive": "Familiäre Umgebung\nZusammenhalt\nFlache Hierarchien\nWeiterbildungschancen\nFlexibilität",
+        "negative": "Keine Fitnessmöglichkeiten",
+        "suggestion": "Tarife bis EG 14"
+      },
+      "factor_comments": {
+        "atmosphere": "Vertraute Atmosphäre, sehr wertschätzende Vorgesetzte.\nFamiliäre Stimmung unter den Mitarbeitenden.",
+        "image": "Wer Familienunternehmen mag findet ihr ein Zuhause",
+        "workLife": "Arbeitgeber achtet darauf das nicht zu viele Überstunden gemacht werden, wenn Überstunden Abbau oder Auszahlung möglich. Gut mit Familie vereinbar.",
+        "career": "Viele Weiterbildungsmöchlichkeiten",
+        "salary": "Tarifliche Vergütung",
+        "environment": "Nachhaltigkeitsabteilung",
+        "teamwork": "Teamgefühl = Wir-Gefühl",
+        "oldColleagues": "Kein unterschied zwischen Jung und Alt, gemischte Teams",
+        "leadership": "Niedrige Hierarchien. Du Kultur bis in die Geschäftsführungsebende",
+        "workConditions": "IT Ausstattung angepasst an Aufgabenbereiche - Büros werden modernisiert",
+        "communication": "Kommunikation auf Augenhöhe",
+        "equality": "Frauennetzwerk setzt sich aktiv ein",
+        "tasks": "Vielfältige Aufgaben mit Entwicklungspotenzial und Aufbau Möglichkeiten"
+      },
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-09-02T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "b4d05c55-3942-46be-840e-3dd7e10fe5ed",
+      "url": "https://www.kununu.com/de/scheidt-bachmann/bewertung/b4d05c55-3942-46be-840e-3dd7e10fe5ed",
+      "title": "Inhalte des Bewerbungsgesprächs wurden in keinsterweise erfüllt",
+      "content": "Die Bezahlung.\n\nDie interne Kommunikation ist oft unklar oder verspätet, was zu Unsicherheit im Arbeitsalltag führt.\nZusagen, die in Gesprächen gemacht werden, werden nicht immer eingehalten.\nEs herrscht eine spürbare Druck- und Kontrollkultur, die offenes Feedback und eigenverantwortliches Arbeiten erschwert.\nRückmeldungen von Mitarbeitenden finden wenig Gehör oder haben kaum Auswirkungen auf Entscheidungsprozesse.\nDie Unternehmenskultur wirkt an vielen Stellen veraltet und wenig anpassungsfähig.\nFührungskräfte treffen selten klare Entscheidungen und werden eher als operative Unterstützung wahrgenommen denn als strategische Leitung.\n\nEin transparenter und ehrlicher Umgang mit Mitarbeitenden und Bewerbenden sollte essenziell sein. Erwartungen sollten realistisch kommuniziert und Zusagen verbindlich eingehalten werden, um Vertrauen und langfristige Bindung zu fördern!\n\nDas Team ist derzeit personell stark unterbesetzt, wodurch die Arbeitsbelastung auf allen Ebenen spürbar steigt.\nZudem ist zu beobachten, dass der bestehende Druck auf Führungsebene teilweise ungefiltert an die Mitarbeitenden weitergegeben wird, was sich negativ auf Motivation und Arbeitsklima auswirkt.\n\nIm Bewerbungsgespräch wurde kommuniziert, dass Samstagsarbeit nur in Ausnahmefällen vorkomme und auf freiwilliger Basis erfolge.\nIn der Realität stellt Samstagsarbeit jedoch einen festen Bestandteil des Arbeitsalltags dar. Eine Nichtteilnahme kann negative Auswirkungen auf Vertragsverlängerungen, mögliche Gehaltsanpassungen sowie die persönliche Wahrnehmung im Unternehmen haben.\n\nEine konstruktive Feedback- und Vertrauenskultur ist derzeit nicht erkennbar.\nStattdessen herrscht eine Atmosphäre, die von Unsicherheit geprägt ist – insbesondere befristete Mitarbeitende agieren primär aus Sorge um ihre Perspektive, was zu einem rein funktionalen Arbeitsverhalten führt.\n\nProfitieren von unbefristeten Verträgen\n\nTeamleitungen werden derzeit primär als operative Unterstützung wahrgenommen, nicht in ihrer Rolle als Führungskraft.\nAbgestimmte und bereits freigegebene Themen werden von übergeordneten Instanzen häufig ignoriert oder durch nicht eingelöste Zusagen und wiederholte Verschiebungen entwertet.\n\nEin strukturierter Informationsfluss ist faktisch nicht gegeben – relevante Informationen müssen eigenständig eingeholt werden.\nBereits besprochene Themen sowie getroffene Entscheidungen werden im Nachgang teilweise nicht anerkannt oder als nicht erfolgt betrachtet.\n\nDas Aufgabenpensum ist hoch, bietet jedoch gleichzeitig vielfältige Entwicklungsmöglichkeiten.\nBesonders der ständige Perspektivwechsel fördert sowohl die persönliche als auch die fachliche Weiterentwicklung.",
+      "rating": 1.7,
+      "sections": {
+        "positive": "Die Bezahlung.",
+        "negative": "Die interne Kommunikation ist oft unklar oder verspätet, was zu Unsicherheit im Arbeitsalltag führt.\nZusagen, die in Gesprächen gemacht werden, werden nicht immer eingehalten.\nEs herrscht eine spürbare Druck- und Kontrollkultur, die offenes Feedback und eigenverantwortliches Arbeiten erschwert.\nRückmeldungen von Mitarbeitenden finden wenig Gehör oder haben kaum Auswirkungen auf Entscheidungsprozesse.\nDie Unternehmenskultur wirkt an vielen Stellen veraltet und wenig anpassungsfähig.\nFührungskräfte treffen selten klare Entscheidungen und werden eher als operative Unterstützung wahrgenommen denn als strategische Leitung.",
+        "suggestion": "Ein transparenter und ehrlicher Umgang mit Mitarbeitenden und Bewerbenden sollte essenziell sein. Erwartungen sollten realistisch kommuniziert und Zusagen verbindlich eingehalten werden, um Vertrauen und langfristige Bindung zu fördern!"
+      },
+      "factor_comments": {
+        "atmosphere": "Das Team ist derzeit personell stark unterbesetzt, wodurch die Arbeitsbelastung auf allen Ebenen spürbar steigt.\nZudem ist zu beobachten, dass der bestehende Druck auf Führungsebene teilweise ungefiltert an die Mitarbeitenden weitergegeben wird, was sich negativ auf Motivation und Arbeitsklima auswirkt.",
+        "workLife": "Im Bewerbungsgespräch wurde kommuniziert, dass Samstagsarbeit nur in Ausnahmefällen vorkomme und auf freiwilliger Basis erfolge.\nIn der Realität stellt Samstagsarbeit jedoch einen festen Bestandteil des Arbeitsalltags dar. Eine Nichtteilnahme kann negative Auswirkungen auf Vertragsverlängerungen, mögliche Gehaltsanpassungen sowie die persönliche Wahrnehmung im Unternehmen haben.",
+        "teamwork": "Eine konstruktive Feedback- und Vertrauenskultur ist derzeit nicht erkennbar.\nStattdessen herrscht eine Atmosphäre, die von Unsicherheit geprägt ist – insbesondere befristete Mitarbeitende agieren primär aus Sorge um ihre Perspektive, was zu einem rein funktionalen Arbeitsverhalten führt.",
+        "oldColleagues": "Profitieren von unbefristeten Verträgen",
+        "leadership": "Teamleitungen werden derzeit primär als operative Unterstützung wahrgenommen, nicht in ihrer Rolle als Führungskraft.\nAbgestimmte und bereits freigegebene Themen werden von übergeordneten Instanzen häufig ignoriert oder durch nicht eingelöste Zusagen und wiederholte Verschiebungen entwertet.",
+        "communication": "Ein strukturierter Informationsfluss ist faktisch nicht gegeben – relevante Informationen müssen eigenständig eingeholt werden.\nBereits besprochene Themen sowie getroffene Entscheidungen werden im Nachgang teilweise nicht anerkannt oder als nicht erfolgt betrachtet.",
+        "tasks": "Das Aufgabenpensum ist hoch, bietet jedoch gleichzeitig vielfältige Entwicklungsmöglichkeiten.\nBesonders der ständige Perspektivwechsel fördert sowohl die persönliche als auch die fachliche Weiterentwicklung."
+      },
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": 1.0,
+        "workConditions": 1.0,
+        "leadership": 1.0,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": 1.0,
+        "career": 2.0,
+        "salary": 4.0,
+        "image": 3.0,
+        "environment": 1.0,
+        "tasks": 2.0
+      },
+      "published_at": "2025-03-28T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "19b7c9cf-1d7c-4b95-88ef-5143fbd1af09",
+      "url": "https://www.kununu.com/de/scheidt-bachmann/bewertung/19b7c9cf-1d7c-4b95-88ef-5143fbd1af09",
+      "title": "Bezahlung könnte besser sein. Traurig ist das man hier kaum verhandeln kann. Als FLS Mitarbeiter sowieso nicht.",
+      "content": "Sehr tolerant und verständnisvoll.\n\nGehälter erhöhen und nicht nur 2% Anpassung pro Jahr erhalten.\nInflation zu hoch 2% zu wenig.\n\nGehalt müsste heutzutage anpasst werden.",
+      "rating": 3.7,
+      "sections": {
+        "positive": "Sehr tolerant und verständnisvoll.",
+        "negative": "Gehälter erhöhen und nicht nur 2% Anpassung pro Jahr erhalten.\nInflation zu hoch 2% zu wenig.",
+        "suggestion": null
+      },
+      "factor_comments": {
+        "salary": "Gehalt müsste heutzutage anpasst werden."
+      },
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 3.0,
+        "communication": 4.0,
+        "workConditions": 3.0,
+        "leadership": 4.0,
+        "teamwork": 4.0,
+        "oldColleagues": 4.0,
+        "equality": 5.0,
+        "career": 3.0,
+        "salary": 2.0,
+        "image": 4.0,
+        "environment": 4.0,
+        "tasks": 4.0
+      },
+      "published_at": "2025-02-20T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    }
+  ],
+  "review_limit": 15,
+  "review_period": {
+    "since": "2024-11-25T00:00:00+00:00",
+    "until": "2026-11-25T17:17:48.181533+00:00",
+    "date_field": "published_at",
+    "missing_dates": "excluded"
+  },
+  "factor_scores_aggregated": {
+    "atmosphere": {
+      "mean": 4.0,
+      "count": 12
+    },
+    "workLife": {
+      "mean": 3.83,
+      "count": 12
+    },
+    "communication": {
+      "mean": 3.0,
+      "count": 13
+    },
+    "workConditions": {
+      "mean": 3.15,
+      "count": 13
+    },
+    "leadership": {
+      "mean": 3.38,
+      "count": 13
+    },
+    "teamwork": {
+      "mean": 3.92,
+      "count": 12
+    },
+    "oldColleagues": {
+      "mean": 4.17,
+      "count": 12
+    },
+    "equality": {
+      "mean": 3.31,
+      "count": 13
+    },
+    "career": {
+      "mean": 3.08,
+      "count": 13
+    },
+    "salary": {
+      "mean": 3.08,
+      "count": 13
+    },
+    "image": {
+      "mean": 3.38,
+      "count": 13
+    },
+    "environment": {
+      "mean": 3.62,
+      "count": 13
+    },
+    "tasks": {
+      "mean": 3.69,
+      "count": 13
+    }
+  },
+  "coverage": "bounded_employee_review_sample_last_2_years_not_all_reviews",
+  "diagnostics": {
+    "pages": [
+      {
+        "page": "reviews",
+        "page_number": 1,
+        "load_more_clicks": 0,
+        "requested_url": "https://www.kununu.com/de/scheidt-bachmann/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Scheidt-Bachmann-64c73604\\browser\\reviews.html",
+        "browser_step": 134,
+        "final_url": "https://www.kununu.com/de/scheidt-bachmann/kommentare",
+        "observed_at": "2026-11-25T17:17:49.349728+00:00",
+        "http_status": 200,
+        "factor_cards_expanded": 1,
+        "reviews_collected": 10
+      },
+      {
+        "page": "reviews",
+        "page_number": 2,
+        "load_more_clicks": 1,
+        "requested_url": "https://www.kununu.com/de/scheidt-bachmann/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Scheidt-Bachmann-64c73604\\browser\\reviews-2.html",
+        "browser_step": 135,
+        "final_url": "https://www.kununu.com/de/scheidt-bachmann/kommentare",
+        "observed_at": "2026-11-25T17:17:50.812360+00:00",
+        "actions_complete": true,
+        "factor_cards_expanded": 3,
+        "reviews_collected": 15
+      }
+    ]
+  },
+  "source_url": "https://www.kununu.com/de/scheidt-bachmann",
+  "profile_source": "https://www.kununu.com/de/scheidt-bachmann/kommentare",
+  "review_stop_reason": "sample_limit_reached",
+  "factor_score_coverage": {
+    "reviews_with_scores": 13,
+    "reviews_without_scores": 2,
+    "reviews_with_all_known_scores": 12,
+    "status": "partial"
+  },
+  "request_limits": {
+    "max_browser_steps": 295,
+    "browser_steps": 135,
+    "zyte_requests": 0
+  },
+  "reason": null
+}

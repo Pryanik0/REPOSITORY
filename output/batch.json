@@ -1,0 +1,419 @@
+{
+  "started_at": "2026-11-25T17:13:25.305208+00:00",
+  "backend": "browser",
+  "companies": [
+    {
+      "company": "mediCAD",
+      "status": "ok",
+      "reason": null,
+      "reviews": 15,
+      "path": "output\\kununu\\mediCAD-241a81f7\\snapshot.json"
+    },
+    {
+      "company": "elderbrook solutions",
+      "status": "ok",
+      "reason": null,
+      "reviews": 15,
+      "path": "output\\kununu\\elderbrook-solutions-9b3a7ad0\\snapshot.json"
+    },
+    {
+      "company": "Kyowa Kirin International",
+      "status": "partial",
+      "reason": "review_page_limit_reached",
+      "reviews": 12,
+      "path": "output\\kununu\\Kyowa-Kirin-International-5b71de53\\snapshot.json"
+    },
+    {
+      "company": "Recor Medical",
+      "status": "skipped",
+      "reason": "missing_kununu_url",
+      "reviews": 0,
+      "path": "output\\kununu\\Recor-Medical-63f8737a\\snapshot.json"
+    },
+    {
+      "company": "Daiichi Sankyo Europe",
+      "status": "ok",
+      "reason": null,
+      "reviews": 15,
+      "path": "output\\kununu\\Daiichi-Sankyo-Europe-fd95d50e\\snapshot.json"
+    },
+    {
+      "company": "WINDSTAR MEDICAL",
+      "status": "ok",
+      "reason": null,
+      "reviews": 1,
+      "path": "output\\kununu\\WINDSTAR-MEDICAL-988bcbbe\\snapshot.json"
+    },
+    {
+      "company": "Centrient Pharmaceuticals",
+      "status": "skipped",
+      "reason": "missing_kununu_url",
+      "reviews": 0,
+      "path": "output\\kununu\\Centrient-Pharmaceuticals-82eaef83\\snapshot.json"
+    },
+    {
+      "company": "HERMES PHARMA",
+      "status": "ok",
+      "reason": null,
+      "reviews": 15,
+      "path": "output\\kununu\\HERMES-PHARMA-f03bf4b2\\snapshot.json"
+    },
+    {
+      "company": "LINK",
+      "status": "ok",
+      "reason": null,
+      "reviews": 15,
+      "path": "output\\kununu\\LINK-e26ef190\\snapshot.json"
+    },
+    {
+      "company": "Kulzer",
+      "status": "ok",
+      "reason": null,
+      "reviews": 15,
+      "path": "output\\kununu\\Kulzer-eab975bf\\snapshot.json"
+    },
+    {
+      "company": "Novaled",
+      "status": "ok",
+      "reason": null,
+      "reviews": 9,
+      "path": "output\\kununu\\Novaled-cfec40d3\\snapshot.json"
+    },
+    {
+      "company": "Klosterfrau Healthcare",
+      "status": "partial",
+      "reason": "review_page_limit_reached",
+      "reviews": 7,
+      "path": "output\\kununu\\Klosterfrau-Healthcare-1f9eafae\\snapshot.json"
+    },
+    {
+      "company": "Dr. Pfleger Arzneimittel",
+      "status": "partial",
+      "reason": "review_page_limit_reached",
+      "reviews": 11,
+      "path": "output\\kununu\\Dr-Pfleger-Arzneimittel-ab3d2c1b\\snapshot.json"
+    },
+    {
+      "company": "Resuscitec",
+      "status": "ok",
+      "reason": null,
+      "reviews": 5,
+      "path": "output\\kununu\\Resuscitec-6d490c85\\snapshot.json"
+    },
+    {
+      "company": "Medicon",
+      "status": "ok",
+      "reason": null,
+      "reviews": 2,
+      "path": "output\\kununu\\Medicon-c17557a5\\snapshot.json"
+    },
+    {
+      "company": "XION",
+      "status": "ok",
+      "reason": null,
+      "reviews": 4,
+      "path": "output\\kununu\\XION-8033f08d\\snapshot.json"
+    },
+    {
+      "company": "Charite Research Organisation",
+      "status": "ok",
+      "reason": null,
+      "reviews": 15,
+      "path": "output\\kununu\\Charite-Research-Organisation-6f20409c\\snapshot.json"
+    },
+    {
+      "company": "Finzelberg",
+      "status": "ok",
+      "reason": null,
+      "reviews": 8,
+      "path": "output\\kununu\\Finzelberg-3604eecd\\snapshot.json"
+    },
+    {
+      "company": "KOB",
+      "status": "ok",
+      "reason": null,
+      "reviews": 9,
+      "path": "output\\kununu\\KOB-6acc73f3\\snapshot.json"
+    },
+    {
+      "company": "CEEZER Software",
+      "status": "ok",
+      "reason": null,
+      "reviews": 5,
+      "path": "output\\kununu\\CEEZER-Software-83ce8337\\snapshot.json"
+    },
+    {
+      "company": "Ingentis Softwareentwicklung",
+      "status": "ok",
+      "reason": null,
+      "reviews": 9,
+      "path": "output\\kununu\\Ingentis-Softwareentwicklung-1bf884a2\\snapshot.json"
+    },
+    {
+      "company": "Eurofiber Netz",
+      "status": "ok",
+      "reason": null,
+      "reviews": 4,
+      "path": "output\\kununu\\Eurofiber-Netz-ca101010\\snapshot.json"
+    },
+    {
+      "company": "Deutsche Pfandbriefbank",
+      "status": "partial",
+      "reason": "review_page_limit_reached",
+      "reviews": 14,
+      "path": "output\\kununu\\Deutsche-Pfandbriefbank-e7f3d2c4\\snapshot.json"
+    },
+    {
+      "company": "Hamburg Commercial Bank",
+      "status": "partial",
+      "reason": "review_page_limit_reached",
+      "reviews": 9,
+      "path": "output\\kununu\\Hamburg-Commercial-Bank-bed70406\\snapshot.json"
+    },
+    {
+      "company": "MBS Logistics",
+      "status": "partial",
+      "reason": "review_page_limit_reached",
+      "reviews": 10,
+      "path": "output\\kununu\\MBS-Logistics-0396b8f9\\snapshot.json"
+    },
+    {
+      "company": "MSG Systems",
+      "status": "ok",
+      "reason": null,
+      "reviews": 15,
+      "path": "output\\kununu\\MSG-Systems-5bc73aa0\\snapshot.json"
+    },
+    {
+      "company": "agido",
+      "status": "ok",
+      "reason": null,
+      "reviews": 10,
+      "path": "output\\kununu\\agido-4225e284\\snapshot.json"
+    },
+    {
+      "company": "NÜRNBERGER Versicherungsgruppe",
+      "status": "ok",
+      "reason": null,
+      "reviews": 15,
+      "path": "output\\kununu\\N-RNBERGER-Versicherungsgruppe-4237d53f\\snapshot.json"
+    },
+    {
+      "company": "Allgeier IT Services",
+      "status": "ok",
+      "reason": null,
+      "reviews": 15,
+      "path": "output\\kununu\\Allgeier-IT-Services-6be16c45\\snapshot.json"
+    },
+    {
+      "company": "MAC IT-Solutions",
+      "status": "partial",
+      "reason": "review_page_limit_reached",
+      "reviews": 11,
+      "path": "output\\kununu\\MAC-IT-Solutions-fcb73411\\snapshot.json"
+    },
+    {
+      "company": "SGL Carbon",
+      "status": "ok",
+      "reason": null,
+      "reviews": 15,
+      "path": "output\\kununu\\SGL-Carbon-cd155304\\snapshot.json"
+    },
+    {
+      "company": "Taylor Wessing",
+      "status": "ok",
+      "reason": null,
+      "reviews": 15,
+      "path": "output\\kununu\\Taylor-Wessing-b5cb2cce\\snapshot.json"
+    },
+    {
+      "company": "Diakonie Düsseldorf",
+      "status": "ok",
+      "reason": null,
+      "reviews": 15,
+      "path": "output\\kununu\\Diakonie-D-sseldorf-2b7acdf6\\snapshot.json"
+    },
+    {
+      "company": "Stadt Köln",
+      "status": "ok",
+      "reason": null,
+      "reviews": 15,
+      "path": "output\\kununu\\Stadt-K-ln-fe0037e7\\snapshot.json"
+    },
+    {
+      "company": "Hermes Deutschland",
+      "status": "ok",
+      "reason": null,
+      "reviews": 15,
+      "path": "output\\kununu\\Hermes-Deutschland-ee3a1575\\snapshot.json"
+    },
+    {
+      "company": "otris software AG",
+      "status": "ok",
+      "reason": null,
+      "reviews": 3,
+      "path": "output\\kununu\\otris-software-AG-5310ef0f\\snapshot.json"
+    },
+    {
+      "company": "Deutsche Rück",
+      "status": "ok",
+      "reason": null,
+      "reviews": 12,
+      "path": "output\\kununu\\Deutsche-R-ck-d5b4f190\\snapshot.json"
+    },
+    {
+      "company": "Sparkasse Vest",
+      "status": "partial",
+      "reason": "review_page_limit_reached",
+      "reviews": 10,
+      "path": "output\\kununu\\Sparkasse-Vest-7b1d9cca\\snapshot.json"
+    },
+    {
+      "company": "Comcross",
+      "status": "ok",
+      "reason": null,
+      "reviews": 12,
+      "path": "output\\kununu\\Comcross-ebb4ce09\\snapshot.json"
+    },
+    {
+      "company": "Kreisverwaltung des Westerwaldkreises",
+      "status": "ok",
+      "reason": null,
+      "reviews": 4,
+      "path": "output\\kununu\\Kreisverwaltung-des-Westerwaldkreises-ed6bb608\\snapshot.json"
+    },
+    {
+      "company": "Rosenberger",
+      "status": "ok",
+      "reason": null,
+      "reviews": 15,
+      "path": "output\\kununu\\Rosenberger-72f8c9db\\snapshot.json"
+    },
+    {
+      "company": "OVB MEDIA",
+      "status": "ok",
+      "reason": null,
+      "reviews": 4,
+      "path": "output\\kununu\\OVB-MEDIA-9ed67fc1\\snapshot.json"
+    },
+    {
+      "company": "Sinnwell",
+      "status": "ok",
+      "reason": null,
+      "reviews": 15,
+      "path": "output\\kununu\\Sinnwell-12299be5\\snapshot.json"
+    },
+    {
+      "company": "Cybertrading GmbH",
+      "status": "ok",
+      "reason": null,
+      "reviews": 2,
+      "path": "output\\kununu\\Cybertrading-GmbH-9ea8cb12\\snapshot.json"
+    },
+    {
+      "company": "Berg-Energie",
+      "status": "ok",
+      "reason": null,
+      "reviews": 0,
+      "path": "output\\kununu\\Berg-Energie-5a43e776\\snapshot.json"
+    },
+    {
+      "company": "Adlershorst",
+      "status": "ok",
+      "reason": null,
+      "reviews": 3,
+      "path": "output\\kununu\\Adlershorst-7e560485\\snapshot.json"
+    },
+    {
+      "company": "Scheidt-Bachmann",
+      "status": "ok",
+      "reason": null,
+      "reviews": 15,
+      "path": "output\\kununu\\Scheidt-Bachmann-64c73604\\snapshot.json"
+    },
+    {
+      "company": "Schoellershammer",
+      "status": "ok",
+      "reason": null,
+      "reviews": 4,
+      "path": "output\\kununu\\Schoellershammer-c87237d3\\snapshot.json"
+    },
+    {
+      "company": "Hasse",
+      "status": "ok",
+      "reason": null,
+      "reviews": 11,
+      "path": "output\\kununu\\Hasse-b9232a41\\snapshot.json"
+    },
+    {
+      "company": "tink",
+      "status": "ok",
+      "reason": null,
+      "reviews": 15,
+      "path": "output\\kununu\\tink-68efe261\\snapshot.json"
+    },
+    {
+      "company": "REISSWOLF Bayern GmbH",
+      "status": "partial",
+      "reason": "review_page_limit_reached",
+      "reviews": 7,
+      "path": "output\\kununu\\REISSWOLF-Bayern-GmbH-3af42708\\snapshot.json"
+    },
+    {
+      "company": "Buss Port Services GmbH",
+      "status": "ok",
+      "reason": null,
+      "reviews": 3,
+      "path": "output\\kununu\\Buss-Port-Services-GmbH-fd674510\\snapshot.json"
+    },
+    {
+      "company": "sea chefs",
+      "status": "ok",
+      "reason": null,
+      "reviews": 15,
+      "path": "output\\kununu\\sea-chefs-94a3b5ac\\snapshot.json"
+    },
+    {
+      "company": "FINVIA Family Office GmbH",
+      "status": "ok",
+      "reason": null,
+      "reviews": 3,
+      "path": "output\\kununu\\FINVIA-Family-Office-GmbH-8726f618\\snapshot.json"
+    },
+    {
+      "company": "welovepr",
+      "status": "ok",
+      "reason": null,
+      "reviews": 4,
+      "path": "output\\kununu\\welovepr-004f42ca\\snapshot.json"
+    },
+    {
+      "company": "constellr",
+      "status": "partial",
+      "reason": "output_contract_incomplete",
+      "reviews": 1,
+      "path": "output\\kununu\\constellr-4aa40ef0\\snapshot.json"
+    },
+    {
+      "company": "simpleclub",
+      "status": "ok",
+      "reason": null,
+      "reviews": 15,
+      "path": "output\\kununu\\simpleclub-ad0918ec\\snapshot.json"
+    },
+    {
+      "company": "bmedx",
+      "status": "skipped",
+      "reason": "missing_kununu_url",
+      "reviews": 0,
+      "path": "output\\kununu\\bmedx-45119e49\\snapshot.json"
+    },
+    {
+      "company": "Gerresheimer Bünde GmbH",
+      "status": "ok",
+      "reason": null,
+      "reviews": 15,
+      "path": "output\\kununu\\Gerresheimer-B-nde-GmbH-89219cce\\snapshot.json"
+    }
+  ]
+}

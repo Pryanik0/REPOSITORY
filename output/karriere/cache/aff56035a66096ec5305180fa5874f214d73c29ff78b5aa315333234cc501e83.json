@@ -1,0 +1,9 @@
+{
+  "url": "https://collana.jobs.personio.de/robots.txt",
+  "final_url": "https://collana.jobs.personio.de/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "fetched_at": "2026-11-25T16:14:29.521328+00:00",
+  "text": "User-agent: *\nAllow: /\n"
+}

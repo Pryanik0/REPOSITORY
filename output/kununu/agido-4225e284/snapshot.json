@@ -1,0 +1,534 @@
+{
+  "provider": "kununu",
+  "backend": "browser",
+  "status": "ok",
+  "query": "agido GmbH",
+  "profile": {
+    "url": "https://www.kununu.com/de/agido",
+    "name": "agido GmbH",
+    "overall_score": 4.7,
+    "review_count": 43,
+    "recommendation_percent": 100,
+    "recommendation_period": "last_2_years",
+    "observed_at": "2026-11-25T17:16:03.638684+00:00"
+  },
+  "reviews": [
+    {
+      "id": "09fb72b8-a848-41b0-ac89-38fa39f20468",
+      "url": "https://www.kununu.com/de/agido/bewertung/09fb72b8-a848-41b0-ac89-38fa39f20468",
+      "title": "Toller Arbeitgeber mit starkem Teamgeist und moderner Kultur",
+      "content": "Die sehr freundliche und offene Arbeitsatmosphäre. Dazu kommen tolle Team-Events, hervorragende Arbeitsbedingungen mit moderner Technik und die hohe Flexibilität durch Gleitzeit und Homeoffice.\n\nEs gibt kaum echte Kritikpunkte.\n\nNoch stärkere grüne Initiativen im Büroalltag wären toll. Ein etwas vereinfachtes Zeittracking würde den Workflow im Alltag noch flüssiger machen, aber insgesamt ist der Arbeitgeber bereits sehr gut aufgestellt.\n\nSehr freundliche und offene Arbeitsatmosphäre.\n\nSehr gutes Image und hohe Identifikation mit dem Unternehmen. Viele Kollegen tragen die Firmenkleidung gerne auch bei Sport-Events oder im Team-Alltag\n\nTolle Flexibilität dank Gleitzeit. Private Termine lassen sich jederzeit problemlos vereinbaren.\n\nEs gibt ein Budget für Weiterbildungen, das man selbst flexibel einsetzen kann.\n\nDas Gehalt ist angemessen und das Gesamtpaket stimmt. Nette Extras wie Merchandise, Willkommensgeschenke und tolle Firmen-Events runden es ab.\n\nGutes Bewusstsein im Alltag (z. B. Mülltrennung und digitale Dokumente)\n\nToller Teamgeist! Es gibt regelmäßig Team-Events (wie gemeinsames Pizzaessen), die den Zusammenhalt stärken.\n\nRespektvolles Miteinander zwischen allen Generationen. Das 'Du' gilt für alle im Team – unabhängig von Alter oder Position.\n\nChef und Teamleiter sind beide sehr freundlich, hilfsbereit und fair.\n\nTop Ausstattung: Moderne Laptops, gute Bildschirme, jeder hat seinen eigenen Platz.\n\nInsgesamt eine gute Kommunikation. Mündlich lässt sich alles schnell abstimmen, schriftliche Nachrichten bieten manchmal etwas Spielraum für Interpretationen.\n\nWir haben Kolleginnen und Kollegen aus verschiedenen Kulturen und Hintergründen, und alle werden gut integriert.\n\nSpannende und herausfordernde Aufgaben, die wirklich Spaß machen. Es wird nie langweilig und man übernimmt Schritt für Schritt mehr Verantwortung.",
+      "rating": 4.8,
+      "sections": {
+        "positive": "Die sehr freundliche und offene Arbeitsatmosphäre. Dazu kommen tolle Team-Events, hervorragende Arbeitsbedingungen mit moderner Technik und die hohe Flexibilität durch Gleitzeit und Homeoffice.",
+        "negative": "Es gibt kaum echte Kritikpunkte.",
+        "suggestion": "Noch stärkere grüne Initiativen im Büroalltag wären toll. Ein etwas vereinfachtes Zeittracking würde den Workflow im Alltag noch flüssiger machen, aber insgesamt ist der Arbeitgeber bereits sehr gut aufgestellt."
+      },
+      "factor_comments": {
+        "atmosphere": "Sehr freundliche und offene Arbeitsatmosphäre.",
+        "image": "Sehr gutes Image und hohe Identifikation mit dem Unternehmen. Viele Kollegen tragen die Firmenkleidung gerne auch bei Sport-Events oder im Team-Alltag",
+        "workLife": "Tolle Flexibilität dank Gleitzeit. Private Termine lassen sich jederzeit problemlos vereinbaren.",
+        "career": "Es gibt ein Budget für Weiterbildungen, das man selbst flexibel einsetzen kann.",
+        "salary": "Das Gehalt ist angemessen und das Gesamtpaket stimmt. Nette Extras wie Merchandise, Willkommensgeschenke und tolle Firmen-Events runden es ab.",
+        "environment": "Gutes Bewusstsein im Alltag (z. B. Mülltrennung und digitale Dokumente)",
+        "teamwork": "Toller Teamgeist! Es gibt regelmäßig Team-Events (wie gemeinsames Pizzaessen), die den Zusammenhalt stärken.",
+        "oldColleagues": "Respektvolles Miteinander zwischen allen Generationen. Das 'Du' gilt für alle im Team – unabhängig von Alter oder Position.",
+        "leadership": "Chef und Teamleiter sind beide sehr freundlich, hilfsbereit und fair.",
+        "workConditions": "Top Ausstattung: Moderne Laptops, gute Bildschirme, jeder hat seinen eigenen Platz.",
+        "communication": "Insgesamt eine gute Kommunikation. Mündlich lässt sich alles schnell abstimmen, schriftliche Nachrichten bieten manchmal etwas Spielraum für Interpretationen.",
+        "equality": "Wir haben Kolleginnen und Kollegen aus verschiedenen Kulturen und Hintergründen, und alle werden gut integriert.",
+        "tasks": "Spannende und herausfordernde Aufgaben, die wirklich Spaß machen. Es wird nie langweilig und man übernimmt Schritt für Schritt mehr Verantwortung."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 4.0,
+        "communication": 4.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 4.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-09-17T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "ecb302a3-0a04-42a3-a2e0-169f627a4036",
+      "url": "https://www.kununu.com/de/agido/bewertung/ecb302a3-0a04-42a3-a2e0-169f627a4036",
+      "title": "Die Top-Firma am Phönixsee",
+      "content": "Offen, Freundlich und Innovativ. Hier pflegt man ein sehr kollegiales Arbeitsklima!",
+      "rating": 4.6,
+      "sections": {
+        "positive": "Offen, Freundlich und Innovativ. Hier pflegt man ein sehr kollegiales Arbeitsklima!",
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 4.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 4.0,
+        "salary": 4.0,
+        "image": 4.0,
+        "environment": 4.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-03-04T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "b6dd19ae-4e44-41b2-8105-c9c3fd285991",
+      "url": "https://www.kununu.com/de/agido/bewertung/b6dd19ae-4e44-41b2-8105-c9c3fd285991",
+      "title": "Modernes Unternehmen mit angenehmer Größe",
+      "content": "Im Gegenzug zu anderen Unternehmen, herrscht hier wirklich die \"familiäre\" Atmosphäre, von der in vielen anderen Stellenausschreibungen gerne berichtet wird.\nEs gibt einen Fitnessraum. Außerdem gibt es die Möglichkeit ein regelmäßiges Training mit einem Personaltrainer durchzuführen\n\nOrganisation und Geschäftsführung sollte sich mehr an der Führung etablierter Firmen orientieren, anstatt an Start-Ups\n\nRuhiges Umfeld mit Büro in toller Lage\n\nWurde von einem Mitarbeiter angeworben und jeder Punkt, von dem Berichtet wurde, stimmte\n\nFeste Anzahl Home-Office Tage, flexible Arbeitszeiten. Nach Absprache lässt sich kurzfristig alles flexibel gestalten.\n\nAufgrund der Größe kann ich mir im Moment keine großen Karrieresprünge vorstellen. Weiterbildung ist möglich\n\nGehalt branchentypisch. Jobticket\n\nAufgrund der übersichtlichen Größe wird viel miteinander, anstatt gegeneinander gearbeitet\n\nEs gibt einige Kollegen, die seit Tag 1 dabei sind und viele, die seit dem Studium noch da sind.\n\nEntscheidungen werden i.d.R mit dem Team zusammen getroffen. Ziele sind realistisch und werden transparent definiert.\n\nModerne Technik, moderne Büros\n\nKeine Sync Meetings, wenn man etwas benötigt, wird i.d.R. ad hoc mit den Kollegen kommuniziert. Über globale Organisationsthemen fließen wenig Informationen\n\nNeben den obligatorischen Routine-Aufgaben gibt es manchmal neue Dinge zu tun und Technologien zu entdecken",
+      "rating": 4.4,
+      "sections": {
+        "positive": "Im Gegenzug zu anderen Unternehmen, herrscht hier wirklich die \"familiäre\" Atmosphäre, von der in vielen anderen Stellenausschreibungen gerne berichtet wird.\nEs gibt einen Fitnessraum. Außerdem gibt es die Möglichkeit ein regelmäßiges Training mit einem Personaltrainer durchzuführen",
+        "negative": null,
+        "suggestion": "Organisation und Geschäftsführung sollte sich mehr an der Führung etablierter Firmen orientieren, anstatt an Start-Ups"
+      },
+      "factor_comments": {
+        "atmosphere": "Ruhiges Umfeld mit Büro in toller Lage",
+        "image": "Wurde von einem Mitarbeiter angeworben und jeder Punkt, von dem Berichtet wurde, stimmte",
+        "workLife": "Feste Anzahl Home-Office Tage, flexible Arbeitszeiten. Nach Absprache lässt sich kurzfristig alles flexibel gestalten.",
+        "career": "Aufgrund der Größe kann ich mir im Moment keine großen Karrieresprünge vorstellen. Weiterbildung ist möglich",
+        "salary": "Gehalt branchentypisch. Jobticket",
+        "teamwork": "Aufgrund der übersichtlichen Größe wird viel miteinander, anstatt gegeneinander gearbeitet",
+        "oldColleagues": "Es gibt einige Kollegen, die seit Tag 1 dabei sind und viele, die seit dem Studium noch da sind.",
+        "leadership": "Entscheidungen werden i.d.R mit dem Team zusammen getroffen. Ziele sind realistisch und werden transparent definiert.",
+        "workConditions": "Moderne Technik, moderne Büros",
+        "communication": "Keine Sync Meetings, wenn man etwas benötigt, wird i.d.R. ad hoc mit den Kollegen kommuniziert. Über globale Organisationsthemen fließen wenig Informationen",
+        "tasks": "Neben den obligatorischen Routine-Aufgaben gibt es manchmal neue Dinge zu tun und Technologien zu entdecken"
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 4.0,
+        "communication": 3.0,
+        "workConditions": 5.0,
+        "leadership": 4.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 3.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 4.0,
+        "tasks": 4.0
+      },
+      "published_at": "2025-11-12T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "a390cff6-106d-496a-a931-087976c7fbc9",
+      "url": "https://www.kununu.com/de/agido/bewertung/a390cff6-106d-496a-a931-087976c7fbc9",
+      "title": "Toller Arbeitgeber und super Team",
+      "content": "Ich bin rundum zufrieden mit meinem Arbeitgeber und kann das Unternehmen uneingeschränkt weiterempfehlen. Das Arbeitsklima ist sehr angenehm – respektvoll, offen und kollegial. Führungskräfte agieren auf Augenhöhe und geben regelmäßig konstruktives Feedback. Auch die Benefits und Weiterbildungsmöglichkeiten sind top. Insgesamt ein moderner Arbeitgeber, der Wert auf die Menschen legt.",
+      "rating": 4.7,
+      "sections": {
+        "positive": "Ich bin rundum zufrieden mit meinem Arbeitgeber und kann das Unternehmen uneingeschränkt weiterempfehlen. Das Arbeitsklima ist sehr angenehm – respektvoll, offen und kollegial. Führungskräfte agieren auf Augenhöhe und geben regelmäßig konstruktives Feedback. Auch die Benefits und Weiterbildungsmöglichkeiten sind top. Insgesamt ein moderner Arbeitgeber, der Wert auf die Menschen legt.",
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 4.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 4.0,
+        "salary": 4.0,
+        "image": 4.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-10-09T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "ac98e4c9-8795-46e6-bf92-88b85c3be35b",
+      "url": "https://www.kununu.com/de/agido/bewertung/ac98e4c9-8795-46e6-bf92-88b85c3be35b",
+      "title": "Cooles Unternehmen am Phoenix-See",
+      "content": "Klare und gut strukturierte Aufgaben. Prozesse machen Sinn und fühlen sich nicht wie Hürden an. Man wird gewertschätzt und es gibt gute Angebote für Work-Life-Balance\n\nDie Stimmung im Büro ist immer gut und man kann sich trotzdem konzentrieren. Zur Mittagspause kann man gut am See entspannen.\n\nFlexible Arbeitszeiten und auch die Möglichkeit die Arbeitsstunden ohne Stress zu senken, wenn man mag. Auch Wöchentlicher Sport beim Personal Trainer wird angeboten!\n\nTeam ist toll und unterstützt sich immer. Ich habe mich schnell integriert und geschätzt gefühlt.\n\nVorgesetzte sind hilfsbereit und transparent, aber oft beschäftigt\n\nFragen sind gerne gesehen und werden von allen auch gerne beantwortet. Kommunikation steht hier im Unternehmen an vorne und man hat immer wen, der bei Fragen weiter weiß.\n\nIm Rahmen der Möglichkeiten ist es spannend. Manche Aufgaben fallen immer wieder an, oft gibt es aber auch völlig neues.",
+      "rating": 4.8,
+      "sections": {
+        "positive": "Klare und gut strukturierte Aufgaben. Prozesse machen Sinn und fühlen sich nicht wie Hürden an. Man wird gewertschätzt und es gibt gute Angebote für Work-Life-Balance",
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Die Stimmung im Büro ist immer gut und man kann sich trotzdem konzentrieren. Zur Mittagspause kann man gut am See entspannen.",
+        "workLife": "Flexible Arbeitszeiten und auch die Möglichkeit die Arbeitsstunden ohne Stress zu senken, wenn man mag. Auch Wöchentlicher Sport beim Personal Trainer wird angeboten!",
+        "teamwork": "Team ist toll und unterstützt sich immer. Ich habe mich schnell integriert und geschätzt gefühlt.",
+        "leadership": "Vorgesetzte sind hilfsbereit und transparent, aber oft beschäftigt",
+        "communication": "Fragen sind gerne gesehen und werden von allen auch gerne beantwortet. Kommunikation steht hier im Unternehmen an vorne und man hat immer wen, der bei Fragen weiter weiß.",
+        "tasks": "Im Rahmen der Möglichkeiten ist es spannend. Manche Aufgaben fallen immer wieder an, oft gibt es aber auch völlig neues."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 4.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 4.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 4.0
+      },
+      "published_at": "2025-09-22T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "c1c1016c-5c72-4487-b7ac-11d713218e53",
+      "url": "https://www.kununu.com/de/agido/bewertung/c1c1016c-5c72-4487-b7ac-11d713218e53",
+      "title": "Gute Tech-Unternehmen in Dortmund",
+      "content": "Gym ist mega",
+      "rating": 4.9,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "workConditions": "Gym ist mega"
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 4.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-09-02T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "f49a473a-7b76-4e83-a7bf-f451239c0819",
+      "url": "https://www.kununu.com/de/agido/bewertung/f49a473a-7b76-4e83-a7bf-f451239c0819",
+      "title": "Angekommen am Phönixsee",
+      "content": "Morgens wird meist eine Produktivphase geschätzt, während man nachmittags auch in einen regen Austausch geraten kann. Es wird viel Wert auf Mitarbeitergespräche gelegt, die den Fortschritt und das Wohlbefinden überprüfen.\n\nOnline-Sportwetten haben in der normalen Bevölkerungen hier und da ein teils verrufenes Image, dennoch ist mein Eindruck, dass wir zu den Guten gehören und einen verantwortungsvollen Umgang in unserer täglichen Arbeit mitbringen.\n\nGroßartige Work-Life-Balance und mit dem eingetretenen Jahr 2025 kommen noch mehr Flexibilitäten hinzu. Es gibt Kernarbeitszeiten, aber Urlaub und Überstunden können felxibel und gut genommen werden.\n\nDie Firma ist in den Gesprächen sehr darauf bedacht, Fortbildungen anzusprechen und zu ermöglichen.\n\nDa ich noch in der Probezeit bin, kann ich noch nicht so viel über Gehaltsverhandlungen und ähnliches sagen, jedoch bin ich bereits in der Probezeit mit den Gehältern und Zusatzzahlungen mehr als zufrieden.\n\nGegenüber Klima und Umwelt kann ich nicht viel sagen, aber es werden Spenden für die Bahnhofsmission oder anderen Hilfsmöglichkeiten gesammelt, die Bahntickets gefördert, etc. Von daher würde ich sagen, sind wir schon ziemlich sozial und umweltbewusst.\n\nDer bunte Haufen ist wirklich toll. Man geht offen miteinander um und jeder hat seine speziellen und gar anregenden Hobbys.\n\nIch bezweifle, dass ein innovativer, kreativer und begeisterter \"älterer\" Bewerber (oder Bewerberin, ich lasse das gendern mal weg) weniger Chancen hätte, als ein frischer Absolvent der TU. Jedoch haben wir meines Wissenstandes keine \"älteren\" Neuen, die nicht schon lange in der Firma sind oder diese gar mit aufgebaut haben.\nDas Unternehmen ist recht frisch und die Aufgaben anspruchsvoll dynamisch, sodass man hier wenig mit \"Ich hab das so 30 Jahre lang gemacht, Jüngchen, ich weiß wohl wie das geht!\" anfangen kann. Neue Programmier-Umgebungen, Plattformen, Probleme, Programmiersprachen und das stetige Up-to-Date-Sein sind ein wesentlicher Bestandteil für das effektive Mitarbeiten.\n\nDie Zielsetzung wird durch Tasks definiert und der Fortschritt festgehalten. Durch ständige Überprüfung und ein mehrteiliges Arbeitsschritt-Verfahrens wird der Fortschritt klar erkennbar und transparent.\n\nHier hat man das All-Inclusive-Wohlfühlpaket! Frischer Kaffee, ein morgendliches Müsli, Obstkörbe, Sprudelwasser, ein Bier für nach der Arbeit. Gleichzeitig ist man mit der neusten Technik ausgerüstet, die Büros sind neu, der Ausblick großartig.\n\nOb beim freien, gemeinsamen Mittag oder bei Feierlichkeiten und Zusammenkünften erfährt man immer was Neues. Ein Newsletter, der stündlich bis täglich kommt, hält einen auf dem Laufenden.\n\nAlles, was ich bisher mitbekommen habe, werden unsere Damen hoch geschätzt und sind für den Betrieb auch unverzichtbar! Fälle von Wiedereingliederung oder ähnliches habe ich noch nicht mitbekommen, aber unsere Führung ist fair und großzügig in allen Fällen, daher gehe ich auch von besten Umständen aus.\n\nIch bin begeistert von den bisherigen, vielfältigen Aufgaben, die mich zum einen fordern, aber auch interessant sind. Mittels KI lassen sich diverse Programmiersprachen meistern und unterstützen einen gut beim Wechseln.",
+      "rating": 4.7,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Morgens wird meist eine Produktivphase geschätzt, während man nachmittags auch in einen regen Austausch geraten kann. Es wird viel Wert auf Mitarbeitergespräche gelegt, die den Fortschritt und das Wohlbefinden überprüfen.",
+        "image": "Online-Sportwetten haben in der normalen Bevölkerungen hier und da ein teils verrufenes Image, dennoch ist mein Eindruck, dass wir zu den Guten gehören und einen verantwortungsvollen Umgang in unserer täglichen Arbeit mitbringen.",
+        "workLife": "Großartige Work-Life-Balance und mit dem eingetretenen Jahr 2025 kommen noch mehr Flexibilitäten hinzu. Es gibt Kernarbeitszeiten, aber Urlaub und Überstunden können felxibel und gut genommen werden.",
+        "career": "Die Firma ist in den Gesprächen sehr darauf bedacht, Fortbildungen anzusprechen und zu ermöglichen.",
+        "salary": "Da ich noch in der Probezeit bin, kann ich noch nicht so viel über Gehaltsverhandlungen und ähnliches sagen, jedoch bin ich bereits in der Probezeit mit den Gehältern und Zusatzzahlungen mehr als zufrieden.",
+        "environment": "Gegenüber Klima und Umwelt kann ich nicht viel sagen, aber es werden Spenden für die Bahnhofsmission oder anderen Hilfsmöglichkeiten gesammelt, die Bahntickets gefördert, etc. Von daher würde ich sagen, sind wir schon ziemlich sozial und umweltbewusst.",
+        "teamwork": "Der bunte Haufen ist wirklich toll. Man geht offen miteinander um und jeder hat seine speziellen und gar anregenden Hobbys.",
+        "oldColleagues": "Ich bezweifle, dass ein innovativer, kreativer und begeisterter \"älterer\" Bewerber (oder Bewerberin, ich lasse das gendern mal weg) weniger Chancen hätte, als ein frischer Absolvent der TU. Jedoch haben wir meines Wissenstandes keine \"älteren\" Neuen, die nicht schon lange in der Firma sind oder diese gar mit aufgebaut haben.\nDas Unternehmen ist recht frisch und die Aufgaben anspruchsvoll dynamisch, sodass man hier wenig mit \"Ich hab das so 30 Jahre lang gemacht, Jüngchen, ich weiß wohl wie das geht!\" anfangen kann. Neue Programmier-Umgebungen, Plattformen, Probleme, Programmiersprachen und das stetige Up-to-Date-Sein sind ein wesentlicher Bestandteil für das effektive Mitarbeiten.",
+        "leadership": "Die Zielsetzung wird durch Tasks definiert und der Fortschritt festgehalten. Durch ständige Überprüfung und ein mehrteiliges Arbeitsschritt-Verfahrens wird der Fortschritt klar erkennbar und transparent.",
+        "workConditions": "Hier hat man das All-Inclusive-Wohlfühlpaket! Frischer Kaffee, ein morgendliches Müsli, Obstkörbe, Sprudelwasser, ein Bier für nach der Arbeit. Gleichzeitig ist man mit der neusten Technik ausgerüstet, die Büros sind neu, der Ausblick großartig.",
+        "communication": "Ob beim freien, gemeinsamen Mittag oder bei Feierlichkeiten und Zusammenkünften erfährt man immer was Neues. Ein Newsletter, der stündlich bis täglich kommt, hält einen auf dem Laufenden.",
+        "equality": "Alles, was ich bisher mitbekommen habe, werden unsere Damen hoch geschätzt und sind für den Betrieb auch unverzichtbar! Fälle von Wiedereingliederung oder ähnliches habe ich noch nicht mitbekommen, aber unsere Führung ist fair und großzügig in allen Fällen, daher gehe ich auch von besten Umständen aus.",
+        "tasks": "Ich bin begeistert von den bisherigen, vielfältigen Aufgaben, die mich zum einen fordern, aber auch interessant sind. Mittels KI lassen sich diverse Programmiersprachen meistern und unterstützen einen gut beim Wechseln."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 4.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 4.0,
+        "image": 4.0,
+        "environment": 4.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-01-16T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "780962da-0ed9-4fd5-be06-a2bd6382b2b4",
+      "url": "https://www.kununu.com/de/agido/bewertung/780962da-0ed9-4fd5-be06-a2bd6382b2b4",
+      "title": "Besonders gefällt mir der transparente Bewerbungsprozess",
+      "content": "",
+      "rating": 4.7,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-11-06T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "f66bc9b4-7936-4499-a6ed-68bc4a54f8f0",
+      "url": "https://www.kununu.com/de/agido/bewertung/f66bc9b4-7936-4499-a6ed-68bc4a54f8f0",
+      "title": "Spannende Aufgaben, angenehme Atmosphäre",
+      "content": "",
+      "rating": 4.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-08-14T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    },
+    {
+      "id": "4a67aa17-a120-4c86-9cd3-a8b8d5649f3c",
+      "url": "https://www.kununu.com/de/agido/bewertung/4a67aa17-a120-4c86-9cd3-a8b8d5649f3c",
+      "title": "Moderne Technologien und gute Entwicklungschancen",
+      "content": "",
+      "rating": 4.8,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-01-20T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    }
+  ],
+  "review_limit": 15,
+  "review_period": {
+    "since": "2024-11-25T00:00:00+00:00",
+    "until": "2026-11-25T17:16:01.443134+00:00",
+    "date_field": "published_at",
+    "missing_dates": "excluded"
+  },
+  "factor_scores_aggregated": {
+    "atmosphere": {
+      "mean": 5.0,
+      "count": 7
+    },
+    "workLife": {
+      "mean": 4.57,
+      "count": 7
+    },
+    "communication": {
+      "mean": 4.57,
+      "count": 7
+    },
+    "workConditions": {
+      "mean": 5.0,
+      "count": 7
+    },
+    "leadership": {
+      "mean": 4.71,
+      "count": 7
+    },
+    "teamwork": {
+      "mean": 4.86,
+      "count": 7
+    },
+    "oldColleagues": {
+      "mean": 4.86,
+      "count": 7
+    },
+    "equality": {
+      "mean": 5.0,
+      "count": 7
+    },
+    "career": {
+      "mean": 4.29,
+      "count": 7
+    },
+    "salary": {
+      "mean": 4.29,
+      "count": 7
+    },
+    "image": {
+      "mean": 4.57,
+      "count": 7
+    },
+    "environment": {
+      "mean": 4.57,
+      "count": 7
+    },
+    "tasks": {
+      "mean": 4.71,
+      "count": 7
+    }
+  },
+  "coverage": "bounded_employee_review_sample_last_2_years_not_all_reviews",
+  "diagnostics": {
+    "pages": [
+      {
+        "page": "reviews",
+        "page_number": 1,
+        "load_more_clicks": 0,
+        "requested_url": "https://www.kununu.com/de/agido/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\agido-4225e284\\browser\\reviews.html",
+        "browser_step": 77,
+        "final_url": "https://www.kununu.com/de/agido/kommentare",
+        "observed_at": "2026-11-25T17:16:03.072979+00:00",
+        "http_status": 200,
+        "factor_cards_expanded": 5,
+        "reviews_collected": 7
+      },
+      {
+        "page": "reviews",
+        "page_number": 2,
+        "load_more_clicks": 1,
+        "requested_url": "https://www.kununu.com/de/agido/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\agido-4225e284\\browser\\reviews-2.html",
+        "browser_step": 78,
+        "final_url": "https://www.kununu.com/de/agido/kommentare",
+        "observed_at": "2026-11-25T17:16:04.793401+00:00",
+        "actions_complete": true,
+        "factor_cards_expanded": 3,
+        "reviews_collected": 7
+      },
+      {
+        "page": "reviews",
+        "page_number": 3,
+        "load_more_clicks": 2,
+        "requested_url": "https://www.kununu.com/de/agido/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\agido-4225e284\\browser\\reviews-3.html",
+        "browser_step": 79,
+        "final_url": "https://www.kununu.com/de/agido/kommentare",
+        "observed_at": "2026-11-25T17:16:06.294079+00:00",
+        "actions_complete": true,
+        "reviews_collected": 7
+      },
+      {
+        "page": "reviews",
+        "page_number": 4,
+        "load_more_clicks": 3,
+        "requested_url": "https://www.kununu.com/de/agido/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\agido-4225e284\\browser\\reviews-4.html",
+        "browser_step": 80,
+        "final_url": "https://www.kununu.com/de/agido/kommentare",
+        "observed_at": "2026-11-25T17:16:08.142884+00:00",
+        "actions_complete": true,
+        "reviews_collected": 10
+      },
+      {
+        "page": "reviews",
+        "page_number": 5,
+        "load_more_clicks": 4,
+        "requested_url": "https://www.kununu.com/de/agido/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\agido-4225e284\\browser\\reviews-5.html",
+        "browser_step": 81,
+        "final_url": "https://www.kununu.com/de/agido/kommentare",
+        "observed_at": "2026-11-25T17:16:10.058545+00:00",
+        "actions_complete": true,
+        "reviews_collected": 10
+      }
+    ]
+  },
+  "source_url": "https://www.kununu.com/de/agido",
+  "profile_source": "https://www.kununu.com/de/agido/kommentare",
+  "review_stop_reason": "end_of_available_reviews",
+  "factor_score_coverage": {
+    "reviews_with_scores": 7,
+    "reviews_without_scores": 3,
+    "reviews_with_all_known_scores": 7,
+    "status": "partial"
+  },
+  "request_limits": {
+    "max_browser_steps": 295,
+    "browser_steps": 81,
+    "zyte_requests": 0
+  },
+  "reason": null
+}

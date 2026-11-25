@@ -1,0 +1,56 @@
+[
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=ERtJK9WRccQxvSuWx9O93sXAV3iGrnKs6O1ZbwP5BHkoWVnp7mtXCOzrOTTXg_tr64BTzAy4vCw0-U4l6fBjcbVypOdja5WtoLNjWor7dvI64RXtEuosYjIS-dnuUx-oGgPUeiDDBSMn8_GDwCEpmtBgslNdUVsQWj6H9LqtZSW79FQ1na9lE724kqBrDYQSmV4j9PtT9TRml3f1ZpLSCrEIFhOqjL1xlUSwynPhYuXLxds",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Stadt-K-ln-fe0037e7\\finanzberichte\\publication-1\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Stadt-K-ln-fe0037e7\\finanzberichte\\publication-1\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Stadt-K-ln-fe0037e7\\finanzberichte\\publication-1\\publication.txt",
+    "index": 1,
+    "category": "finanzberichte",
+    "company": "Kliniken der Stadt Köln gGmbH, Köln",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+    "documents_path": "output\\unternehmensregister\\Stadt-K-ln-fe0037e7\\finanzberichte\\publication-1\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=-pkC8lq4PgLjvH_9x-z4LooPvEvSMeIPJ0li6TJNHX6jFp_8jCUB4izAazHTYs0orNgKdgtFyOYPJuMuTysdbWIhBuEtX98PgXPJEkXpUX-WcS8-FMLVdLKTpvWdzk25FWFFWNWLaqLeVECUj6HOoaMdIZ33uuqhbUdIwpghqn9IhWNNGXqdaQrnI5hPjQ7vJf8DMKYcKLqVb9jenF_xKEcVy_IFzYkYUzkb4BCOXLJBDFA",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Stadt-K-ln-fe0037e7\\finanzberichte\\publication-2\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Stadt-K-ln-fe0037e7\\finanzberichte\\publication-2\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Stadt-K-ln-fe0037e7\\finanzberichte\\publication-2\\publication.txt",
+    "index": 2,
+    "category": "finanzberichte",
+    "company": "Kliniken der Stadt Köln gGmbH, Köln",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+    "documents_path": "output\\unternehmensregister\\Stadt-K-ln-fe0037e7\\finanzberichte\\publication-2\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=PC4JrrZmK45RZ42DLpL9b6psddkdYtErgjnNfsxh3esAG3cT121XH4Oaqn9PCkmCERm6aAGIc3yXI_tsnY09wBAjbhBpONsSGS3N65bDMmrk_cy5u8QGRm_JDp5jqQ4mBoq_TFjcOa7FgCgLxNmhcLjXpxPWx8rLUV_ts1Mh6Js8Q5XTcIqYLne7OR8GoAWnbvcfs_RAgPW_SVaJPf3-_tvMk2ESY4oNb8ILzk3PSe60frQ",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Stadt-K-ln-fe0037e7\\finanzberichte\\publication-3\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Stadt-K-ln-fe0037e7\\finanzberichte\\publication-3\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Stadt-K-ln-fe0037e7\\finanzberichte\\publication-3\\publication.txt",
+    "index": 3,
+    "category": "finanzberichte",
+    "company": "Kliniken der Stadt Köln gGmbH, Köln",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+    "documents_path": "output\\unternehmensregister\\Stadt-K-ln-fe0037e7\\finanzberichte\\publication-3\\documents.json"
+  }
+]

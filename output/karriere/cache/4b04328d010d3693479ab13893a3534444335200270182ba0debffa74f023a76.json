@@ -1,0 +1,9 @@
+{
+  "url": "https://cybertrading.de/robots.txt",
+  "final_url": "https://cybertrading.de/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "fetched_at": "2026-11-25T16:32:36.248161+00:00",
+  "text": "User-agent: Linguee\nUser-agent: ia_archiver\nUser-agent: BLEXBot\nUser-agent: AhrefsBot\nUser-agent: SemrushBot\nDisallow: /\n\nUser-agent: Yandex\nDisallow:\nClean-param: cHash\n\nUser-agent: *\nDisallow: /index.html\nDisallow: /arbeiter.html\nDisallow: /*.vcf$\nDisallow: /contact.php\nDisallow: /updater.cron.php\nDisallow: /*.pdf$\nAllow: / \n\nSitemap: https://cybertrading.de/de/sitemap.xml\nSitemap: https://cybertrading.de/en/sitemap.xml"
+}

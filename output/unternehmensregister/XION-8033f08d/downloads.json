@@ -1,0 +1,38 @@
+[
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=5RcJOQhT8iHaswLtld_lLkup5EMa8cxK6eAa8U_OWCsFZvBh3TZPPCH6-SNvEPgHAX9FkI6JtTuTvU_iJE0JTdTbJ_y6HeV1haZijUB-vCdcXwK0s4z_Y1i7mm9N7NdgcEAWG18M3bsjOhnq2l-ZHKbrO9l258qmCYc75K_a_6Teg-amCpqnjgRqZ7yjtllnPZ8KXv8Z21LKNbUiRIWLSz5KNuJe70FCWoM9SdwVnb4LXNSA",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\XION-8033f08d\\bekanntmachungen\\publication-1\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\XION-8033f08d\\bekanntmachungen\\publication-1\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\XION-8033f08d\\bekanntmachungen\\publication-1\\publication.txt",
+    "index": 1,
+    "category": "bekanntmachungen",
+    "company": "Henke-Sass, Wolf GmbH, Tuttlingen XION GmbH, Berlin HSW Immobilien GmbH & Co. KG, Tuttlingen mehr",
+    "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.10.2026 bis zum 30.09.2027",
+    "documents_path": "output\\unternehmensregister\\XION-8033f08d\\bekanntmachungen\\publication-1\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=SAwTLzy_aHgQcRNZdFi3qoyhqsvG7euOCGHrcDrfgFleDGpl9LZyp6Z6NR3We0xRwYXA_ix1XSB0izf2Ak3GTW1_i1McCJhLPdrZbHFFd02hoVIJCgQ_r8NRK4Rhc8QNc1qcP1c5_8LG5xPSbfZV-jYJWFg6vc06l1tWe4ux-giJeWmNIFQUhVlwXsm3SaYR7GOcQE5Xq_VmDHJ0yhyjBFPMUTRmA3mSmaZnxUPk98RLpOMi",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\XION-8033f08d\\bekanntmachungen\\publication-2\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\XION-8033f08d\\bekanntmachungen\\publication-2\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\XION-8033f08d\\bekanntmachungen\\publication-2\\publication.txt",
+    "index": 2,
+    "category": "bekanntmachungen",
+    "company": "HSW Immobilien Verwaltungs GmbH, Tuttlingen XION GmbH, Berlin Henke-Sass, Wolf GmbH, Tuttlingen mehr",
+    "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.10.2024 bis zum 30.09.2025",
+    "documents_path": "output\\unternehmensregister\\XION-8033f08d\\bekanntmachungen\\publication-2\\documents.json"
+  }
+]

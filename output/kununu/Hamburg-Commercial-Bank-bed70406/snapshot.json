@@ -1,0 +1,529 @@
+{
+  "provider": "kununu",
+  "backend": "browser",
+  "status": "partial",
+  "query": "Hamburg Commercial Bank AG",
+  "profile": {
+    "url": "https://www.kununu.com/de/hamburgcommercialbank",
+    "name": "Hamburg Commercial Bank",
+    "overall_score": 3.3,
+    "review_count": 248,
+    "recommendation_percent": 57,
+    "recommendation_period": "last_2_years",
+    "observed_at": "2026-11-25T17:15:40.034560+00:00"
+  },
+  "reviews": [
+    {
+      "id": "aef393cf-1be1-4e37-83a8-213db15aad71",
+      "url": "https://www.kununu.com/de/hamburgcommercialbank/bewertung/aef393cf-1be1-4e37-83a8-213db15aad71",
+      "title": "Mehr Schein als Sein",
+      "content": "Ein Umgehen der offiziellen \"nur vier Tage Homeoffice pro Monat\"-Regelung wird stillschwigend geduldet, viele Mitarbeiter kommen kurz ins Büro und gehen dann wieder ins Homeoffice (soll aber nach dem Umzug durch neue Anwesenheitskontrollmöglichkeiten verhindert werden).\n\nMan merkt, daß der aktuelle amerikanische Eigentümer kein Interesse an der Bank selbst mehr hat und sie verkaufen will. Es wird nichts mehr investiert; um extreme Dividenden aus der Substanz ausschütten zu können werden Geschäftsfelder und damit Personal abgebaut, ohne auf eine nachhaltige Unternehmensentwicklung zu achten. Gegenwärtig ist die Bank für das Geschäft, das sie macht, zu groß, für eine nachhaltige Entwicklung mit Chancen in der Zukunft aber zu klein. Letztlich wird die Bank derzeit kaputtgespart.\n\nsoweit ok, manche Bereiche haben sehr viel zu tun, Wochenendarbeit oder Überstunden werden dann erwartet, ohne dies zu kommunizieren. Überhaupt wird viel erwartet, was so nicht oder bewußt anders kommuniziert wird.\n\nin der Öffentlichkeit nicht mehr vorhanden, da die Bank außerhalb der Fachwelt unbekannt ist, dort aber teilweise aufgrund der Geschäftspolitik der letzten Jahre (hohe Margen, nur gezielte Projekte) einen eher zweifelhaften Ruf\n\nist sehr subjektiv, man kann sich auch einen faulen Lenz machen, aber dann müssen halt andere Kollegen ran.\n\npermanenter Personalabbau verhindert gezielte Karriereplanung, junge/neue Mitarbeiter werden hofiert, haben aber faktisch keine Chance und gehen daher dann auch schnell wieder\n\nkann man nichts Negatives sagen\n\nalibimäßig\n\nInnerhalb der Teams einerseits und innerhalb der einzelnen Altergruppen andererseits gut, bankübergreifend nicht mehr vorhanden\n\nin den Gruppen gut, faktisch will man sie loswerden und steuert sie aus.\n\nZur Zeit herrscht mal wieder in weiten Teilen eine \"cover my a..\"-Haltung, da sich viele Vorgesetzte im Blick auf den anstehenden Verkauf der Bank nicht den allerkleinsten Fehler erlauben wollen. Dadurch sind viele Schleifen notwendig, was in absolutem Gegensatz zur offiziellen Politik der \"schlanken Prozesse\" steht.\n\naktuell mäßig, da in das das alte Gebäude seit Jahren nicht mehr investiert wurde. Ab Dezember ´26 nach Umzug in den neuen Standort aufgrund der dortigen räumlichen Enge wahrscheinlich (aber aus anderen Gründen) auch wieder nur mäßig.\n\nVorstand tut auf \"verständnisvoller Kumpel\", handelt aber konträr. Es wird viel von oben nach unten kommuniziert, hauptsächlich gute Nachrichten, aber nicht das wirklich wichtige. Die meisten Mitarbeiter haben es aufgegeben, vom Vorstand Ehrlichkeit zu erwarten.\n\ngrdstzl. ja, seit Jahren werden Frauen für untere Führungsebenen bevorzugt, auf höheren Führungsebenen gibt es jedoch nur eine, im Vorstand keine Frau.\n\nabhängig von der jeweiligen Abteilung und den individuellen Interessen durchaus",
+      "rating": 3.0,
+      "sections": {
+        "positive": "Ein Umgehen der offiziellen \"nur vier Tage Homeoffice pro Monat\"-Regelung wird stillschwigend geduldet, viele Mitarbeiter kommen kurz ins Büro und gehen dann wieder ins Homeoffice (soll aber nach dem Umzug durch neue Anwesenheitskontrollmöglichkeiten verhindert werden).",
+        "negative": "Man merkt, daß der aktuelle amerikanische Eigentümer kein Interesse an der Bank selbst mehr hat und sie verkaufen will. Es wird nichts mehr investiert; um extreme Dividenden aus der Substanz ausschütten zu können werden Geschäftsfelder und damit Personal abgebaut, ohne auf eine nachhaltige Unternehmensentwicklung zu achten. Gegenwärtig ist die Bank für das Geschäft, das sie macht, zu groß, für eine nachhaltige Entwicklung mit Chancen in der Zukunft aber zu klein. Letztlich wird die Bank derzeit kaputtgespart.",
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "soweit ok, manche Bereiche haben sehr viel zu tun, Wochenendarbeit oder Überstunden werden dann erwartet, ohne dies zu kommunizieren. Überhaupt wird viel erwartet, was so nicht oder bewußt anders kommuniziert wird.",
+        "image": "in der Öffentlichkeit nicht mehr vorhanden, da die Bank außerhalb der Fachwelt unbekannt ist, dort aber teilweise aufgrund der Geschäftspolitik der letzten Jahre (hohe Margen, nur gezielte Projekte) einen eher zweifelhaften Ruf",
+        "workLife": "ist sehr subjektiv, man kann sich auch einen faulen Lenz machen, aber dann müssen halt andere Kollegen ran.",
+        "career": "permanenter Personalabbau verhindert gezielte Karriereplanung, junge/neue Mitarbeiter werden hofiert, haben aber faktisch keine Chance und gehen daher dann auch schnell wieder",
+        "salary": "kann man nichts Negatives sagen",
+        "environment": "alibimäßig",
+        "teamwork": "Innerhalb der Teams einerseits und innerhalb der einzelnen Altergruppen andererseits gut, bankübergreifend nicht mehr vorhanden",
+        "oldColleagues": "in den Gruppen gut, faktisch will man sie loswerden und steuert sie aus.",
+        "leadership": "Zur Zeit herrscht mal wieder in weiten Teilen eine \"cover my a..\"-Haltung, da sich viele Vorgesetzte im Blick auf den anstehenden Verkauf der Bank nicht den allerkleinsten Fehler erlauben wollen. Dadurch sind viele Schleifen notwendig, was in absolutem Gegensatz zur offiziellen Politik der \"schlanken Prozesse\" steht.",
+        "workConditions": "aktuell mäßig, da in das das alte Gebäude seit Jahren nicht mehr investiert wurde. Ab Dezember ´26 nach Umzug in den neuen Standort aufgrund der dortigen räumlichen Enge wahrscheinlich (aber aus anderen Gründen) auch wieder nur mäßig.",
+        "communication": "Vorstand tut auf \"verständnisvoller Kumpel\", handelt aber konträr. Es wird viel von oben nach unten kommuniziert, hauptsächlich gute Nachrichten, aber nicht das wirklich wichtige. Die meisten Mitarbeiter haben es aufgegeben, vom Vorstand Ehrlichkeit zu erwarten.",
+        "equality": "grdstzl. ja, seit Jahren werden Frauen für untere Führungsebenen bevorzugt, auf höheren Führungsebenen gibt es jedoch nur eine, im Vorstand keine Frau.",
+        "tasks": "abhängig von der jeweiligen Abteilung und den individuellen Interessen durchaus"
+      },
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 4.0,
+        "communication": 2.0,
+        "workConditions": 3.0,
+        "leadership": 3.0,
+        "teamwork": 4.0,
+        "oldColleagues": 3.0,
+        "equality": 3.0,
+        "career": 2.0,
+        "salary": 4.0,
+        "image": 1.0,
+        "environment": 3.0,
+        "tasks": 4.0
+      },
+      "published_at": "2026-11-01T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "b86fd924-7b6b-48e6-b6d3-e46e3207372d",
+      "url": "https://www.kununu.com/de/hamburgcommercialbank/bewertung/b86fd924-7b6b-48e6-b6d3-e46e3207372d",
+      "title": "Nur ein Tag homeoffice und junge in den letzten Jahren eingestellte Talente verlassen relativ schnell das Unternehmen",
+      "content": "Das Gehalt insbesondere als berufsanfänger oder auch als jemand der mit drei bis fünf Jahren berufserfahrung relativ viel verdient hier. im Vergleich zu anderen Arbeitgebern wo man als berufsanfänger mit 35 bis 45000 € zum Teil startet und drei Jahren bei 50 bis 55 000 höchstens liegt\n\nSiehe verbesserungsvorschläge.... Der Vorstand verdient in Relation relativ viel dies ist in den jahresabschlussberichten ja auch ersichtlich da verdienen man über vier bis sechs Millionen das steht in keinem Verhältnis und die aufsichtsratsmitglieder das ist auch alles öffentlich in den Berichten wenn man das runterbricht für sechs Tage im Jahr Arbeit pro Kopf über 220.000 Euro und der Vorsitzende um die 800.000 für sechs Tage im Jahr arbeiten... Aber es muss gespart werden in der untersten nahrungskette.... Das schafft keine Identifikation mit dem Unternehmen führungskräfte müssen vorbildlich vorausgehen und zunächst einmal bei sich selber sparen und das dann auch publik machen dann kann man auch die Menschen in der untersten Nahrungskette motivieren\n\nEinzelbüros schaffen für konzentriertes Arbeiten. Mindestens zwei bis drei Tage homeoffice in der Woche. Flexiblere arbeitszeitmodelle zwischen 20 bis 40 Stunden für alle oder kurze sabatticals von 3 Monaten für jeden ermöglichen.\n\nAufgrund des personalabbaus hat der einzelne mehr workload und es ist stressiger. Nur ein Tag homeoffice ist inakzeptabel. U.a. deshalb verlassen viele das Unternehmen insbesondere junge Menschen die erst ein oder zwei Jahre im Unternehmen sind. Es gibt verstellbare Tische aber man sitzt wie im hühnerkäfig und das wird sich in Zukunft auch nicht ändern durch den Umzug wo alle zusammen gepfercht werden in einem großen Raum neben Saturn... Großraumbüro und eine hohe lärmkulisse von rechts und links, vorne und hinten. Hauptsache billig ob man dabei konzentriert arbeiten kann interessiert nicht. Andere Arbeitgeber bieten drei Tage homeoffice an und haben zum Teil einzelbüros .\n\nEher unbekannt, weil es eine geschäftsbank ist und keine Bank für privatkunden obwohl sie durch die Hamburg direktbank neuerdings privatkunden für die Refinanzierung ansprechen wollen.\n\nViel Work aus allen Richtungen und timelines. Fast ähnlich unattraktiv wie in Beratungsklitschen, wo man ausgequetscht wird.\n\nDa wird zwar viel propagiert durchHR was sie für tolle Programme haben aber letztendlich wenn man einen MBA oder eine Schulung machen möchte von mehreren Tagen oder sich weiter qualifizieren möchte in seinem Bereich dann ist das nur für ein Prozent vielleicht möglich der Belegschaft.... Da ist das Budget klein und wird nicht viel ausgegeben, aber viel erzählt wie toll das alles ist .\n\nDa kann man sich nicht beklagen die Zahlen relativ viel zum Teil bei Neueinstellung 30 bis 40% mehr als man woanders verdient in ähnlichen Positionen.\n\nDa es keine UmweltBank ist sondern nur der Profit Vordergrund steht und diehedge fonds in Amerika möglichst viel Geld aus dem Unternehmen und aus der Leistung der Mitarbeitern herausziehen möchte und insbesondere auch Schiffe die mit schweröl betrieben werden finanziert werden, ist Umwelt nicht prio 1. .. aber irgendwie wuselt man sich da so durch und verkauft der außenwelt durch ESG Reports wie toll man ist\n\nIst bis jetzt gut\n\nDie wollten eigentlich das durchschnittsalter senken indem sie junge Leute verstärkt rekrutieren aber die gehen relativ schnell wieder Grund Arbeits belastung und nur ein Tag homeoffice . Allerdings wurden in der letzten abbauwelle von 180 Kollegen verstärkt ältere Kollegen zum Verlassen des Unternehmens angesprochen .\n\nDas hängt von Bereichen ab wo man eingesetzt ist\n\nGroßraumbüros enge Räume und hohe lärmkulisse das wird sich auch in Zukunft nicht ändern durch den Umzug ins neue Gebäude. Es wird höchstwahrscheinlich noch viel enger und noch viel lauter. Das wird für die meisten höchstwahrscheinlich keinen Spaß bringen und die Effizienz wird abnehmen.\n\nDie Führung bemüht sich Geschichten zu erzählen um den Verkauf der Bank auch erfolgreich abschließen zu können. Geschichtenerzähler die auf Zeit eingestellt sind und die Anweisungen der amerikanischen hedge fonds\nausführen müssen.. wie halt der Wind weht so reagieren sie gestern diversity heute überhaupt keine diversity Beauftragte.\n\nLeistung und Persönlichkeit soll entscheidend sein und nicht das Geschlecht\n\nDas hängt von einem selber ab, wie das Interesse ausgeprägt ist",
+      "rating": 2.6,
+      "sections": {
+        "positive": "Das Gehalt insbesondere als berufsanfänger oder auch als jemand der mit drei bis fünf Jahren berufserfahrung relativ viel verdient hier. im Vergleich zu anderen Arbeitgebern wo man als berufsanfänger mit 35 bis 45000 € zum Teil startet und drei Jahren bei 50 bis 55 000 höchstens liegt",
+        "negative": "Siehe verbesserungsvorschläge.... Der Vorstand verdient in Relation relativ viel dies ist in den jahresabschlussberichten ja auch ersichtlich da verdienen man über vier bis sechs Millionen das steht in keinem Verhältnis und die aufsichtsratsmitglieder das ist auch alles öffentlich in den Berichten wenn man das runterbricht für sechs Tage im Jahr Arbeit pro Kopf über 220.000 Euro und der Vorsitzende um die 800.000 für sechs Tage im Jahr arbeiten... Aber es muss gespart werden in der untersten nahrungskette.... Das schafft keine Identifikation mit dem Unternehmen führungskräfte müssen vorbildlich vorausgehen und zunächst einmal bei sich selber sparen und das dann auch publik machen dann kann man auch die Menschen in der untersten Nahrungskette motivieren",
+        "suggestion": "Einzelbüros schaffen für konzentriertes Arbeiten. Mindestens zwei bis drei Tage homeoffice in der Woche. Flexiblere arbeitszeitmodelle zwischen 20 bis 40 Stunden für alle oder kurze sabatticals von 3 Monaten für jeden ermöglichen."
+      },
+      "factor_comments": {
+        "atmosphere": "Aufgrund des personalabbaus hat der einzelne mehr workload und es ist stressiger. Nur ein Tag homeoffice ist inakzeptabel. U.a. deshalb verlassen viele das Unternehmen insbesondere junge Menschen die erst ein oder zwei Jahre im Unternehmen sind. Es gibt verstellbare Tische aber man sitzt wie im hühnerkäfig und das wird sich in Zukunft auch nicht ändern durch den Umzug wo alle zusammen gepfercht werden in einem großen Raum neben Saturn... Großraumbüro und eine hohe lärmkulisse von rechts und links, vorne und hinten. Hauptsache billig ob man dabei konzentriert arbeiten kann interessiert nicht. Andere Arbeitgeber bieten drei Tage homeoffice an und haben zum Teil einzelbüros .",
+        "image": "Eher unbekannt, weil es eine geschäftsbank ist und keine Bank für privatkunden obwohl sie durch die Hamburg direktbank neuerdings privatkunden für die Refinanzierung ansprechen wollen.",
+        "workLife": "Viel Work aus allen Richtungen und timelines. Fast ähnlich unattraktiv wie in Beratungsklitschen, wo man ausgequetscht wird.",
+        "career": "Da wird zwar viel propagiert durchHR was sie für tolle Programme haben aber letztendlich wenn man einen MBA oder eine Schulung machen möchte von mehreren Tagen oder sich weiter qualifizieren möchte in seinem Bereich dann ist das nur für ein Prozent vielleicht möglich der Belegschaft.... Da ist das Budget klein und wird nicht viel ausgegeben, aber viel erzählt wie toll das alles ist .",
+        "salary": "Da kann man sich nicht beklagen die Zahlen relativ viel zum Teil bei Neueinstellung 30 bis 40% mehr als man woanders verdient in ähnlichen Positionen.",
+        "environment": "Da es keine UmweltBank ist sondern nur der Profit Vordergrund steht und diehedge fonds in Amerika möglichst viel Geld aus dem Unternehmen und aus der Leistung der Mitarbeitern herausziehen möchte und insbesondere auch Schiffe die mit schweröl betrieben werden finanziert werden, ist Umwelt nicht prio 1. .. aber irgendwie wuselt man sich da so durch und verkauft der außenwelt durch ESG Reports wie toll man ist",
+        "teamwork": "Ist bis jetzt gut",
+        "oldColleagues": "Die wollten eigentlich das durchschnittsalter senken indem sie junge Leute verstärkt rekrutieren aber die gehen relativ schnell wieder Grund Arbeits belastung und nur ein Tag homeoffice . Allerdings wurden in der letzten abbauwelle von 180 Kollegen verstärkt ältere Kollegen zum Verlassen des Unternehmens angesprochen .",
+        "leadership": "Das hängt von Bereichen ab wo man eingesetzt ist",
+        "workConditions": "Großraumbüros enge Räume und hohe lärmkulisse das wird sich auch in Zukunft nicht ändern durch den Umzug ins neue Gebäude. Es wird höchstwahrscheinlich noch viel enger und noch viel lauter. Das wird für die meisten höchstwahrscheinlich keinen Spaß bringen und die Effizienz wird abnehmen.",
+        "communication": "Die Führung bemüht sich Geschichten zu erzählen um den Verkauf der Bank auch erfolgreich abschließen zu können. Geschichtenerzähler die auf Zeit eingestellt sind und die Anweisungen der amerikanischen hedge fonds\nausführen müssen.. wie halt der Wind weht so reagieren sie gestern diversity heute überhaupt keine diversity Beauftragte.",
+        "equality": "Leistung und Persönlichkeit soll entscheidend sein und nicht das Geschlecht",
+        "tasks": "Das hängt von einem selber ab, wie das Interesse ausgeprägt ist"
+      },
+      "factor_scores": {
+        "atmosphere": 2.0,
+        "workLife": 2.0,
+        "communication": 3.0,
+        "workConditions": 1.0,
+        "leadership": 4.0,
+        "teamwork": 4.0,
+        "oldColleagues": 1.0,
+        "equality": 4.0,
+        "career": 1.0,
+        "salary": 4.0,
+        "image": 2.0,
+        "environment": 2.0,
+        "tasks": 4.0
+      },
+      "published_at": "2026-03-19T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "8b2fa38f-c1aa-4b42-a6e0-751268935672",
+      "url": "https://www.kununu.com/de/hamburgcommercialbank/bewertung/8b2fa38f-c1aa-4b42-a6e0-751268935672",
+      "title": "Langfristig guter Arbeitgeber, viel Stress, auch interessante Aufgabe.",
+      "content": "Man muss sich ein dickes Fell zulegen, dann funktioniert das.\n\nEher keines, nur Insidern bekannt. Könnte sich mit dem Angebot für Privatkunden über die Marke Hamburg Direct Bank ändern.\n\nViele haben Vertrauensarbeitszeit, das bedingt Überstunden, wenn es notwendig ist, aber man kann das auch ausgleichen. Aber insgesamt ist muss man schon arbeiten, es ist keine Kurklinik.\n\nWeiterbildung ist immer gegeben, Kurse werden bezahlt, wenn sie Sinn machen.\n\nGehalt ist gut, Karrierechancen im Sinne von Aufstieg eher minimal, weil die Bank seit Jahren schrumpft. Wenn man immer Leistung gebracht hat, steht die Bank auch in schwierigen Situationen hinter einem. Das ist auf lange Sicht sehr wichtig.\n\nMaximal mittelmäßig, der ökologische Fußabdruck einer Bank bemisst sich zu über 90% an ihren Finanzierungen, die sind jetzt nicht so sozial oder ökologisch. Kann man aber alles in der veröffentlichten Berichterstattung nachlesen.\n\nKönnte besser sein, bedingt durch permanenten Personalabbau muss aber jede/r sehen wo er/sie bleibt\n\nEs wird unglaublich viel Know-How verschwendet, weil Personal mit Mitte fünfzig flächendeckend in den Vorruhestand geschickt wird, während der CEO schon 60 Jahre alt ist. Das drückt aus meiner Sicht schon eine gewisse Geringschätzung für ältere Kolleginnen und Kollegen auf der Arbeitsebene aus.\n\nDas ist offenbar sehr unterschiedlich, beim Vorstellungsgespräch muss man aus meiner Sicht versuchen herauszufinden, ob der/die Vorgesetzte eher autoritär agiert oder nicht.\n\nDie Büros sind gut ausgestattet. Im neuen Gebäude in Hamburg muss sich ab Ende 2026 zeigen, ob die Flächen groß genug sind oder ob man nicht zu Ende nah beieinander sitzt.\n\nDie Kommunikation ist ganz gut, die Unternehmensspitze versucht, die Strategie zu erklären.\n\nDie könnte, insbesondere an der Unternehmensspitze, besser sein.\n\nIch gehe jeden Morgen deshalb an diese Arbeit.",
+      "rating": 3.5,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Man muss sich ein dickes Fell zulegen, dann funktioniert das.",
+        "image": "Eher keines, nur Insidern bekannt. Könnte sich mit dem Angebot für Privatkunden über die Marke Hamburg Direct Bank ändern.",
+        "workLife": "Viele haben Vertrauensarbeitszeit, das bedingt Überstunden, wenn es notwendig ist, aber man kann das auch ausgleichen. Aber insgesamt ist muss man schon arbeiten, es ist keine Kurklinik.",
+        "career": "Weiterbildung ist immer gegeben, Kurse werden bezahlt, wenn sie Sinn machen.",
+        "salary": "Gehalt ist gut, Karrierechancen im Sinne von Aufstieg eher minimal, weil die Bank seit Jahren schrumpft. Wenn man immer Leistung gebracht hat, steht die Bank auch in schwierigen Situationen hinter einem. Das ist auf lange Sicht sehr wichtig.",
+        "environment": "Maximal mittelmäßig, der ökologische Fußabdruck einer Bank bemisst sich zu über 90% an ihren Finanzierungen, die sind jetzt nicht so sozial oder ökologisch. Kann man aber alles in der veröffentlichten Berichterstattung nachlesen.",
+        "teamwork": "Könnte besser sein, bedingt durch permanenten Personalabbau muss aber jede/r sehen wo er/sie bleibt",
+        "oldColleagues": "Es wird unglaublich viel Know-How verschwendet, weil Personal mit Mitte fünfzig flächendeckend in den Vorruhestand geschickt wird, während der CEO schon 60 Jahre alt ist. Das drückt aus meiner Sicht schon eine gewisse Geringschätzung für ältere Kolleginnen und Kollegen auf der Arbeitsebene aus.",
+        "leadership": "Das ist offenbar sehr unterschiedlich, beim Vorstellungsgespräch muss man aus meiner Sicht versuchen herauszufinden, ob der/die Vorgesetzte eher autoritär agiert oder nicht.",
+        "workConditions": "Die Büros sind gut ausgestattet. Im neuen Gebäude in Hamburg muss sich ab Ende 2026 zeigen, ob die Flächen groß genug sind oder ob man nicht zu Ende nah beieinander sitzt.",
+        "communication": "Die Kommunikation ist ganz gut, die Unternehmensspitze versucht, die Strategie zu erklären.",
+        "equality": "Die könnte, insbesondere an der Unternehmensspitze, besser sein.",
+        "tasks": "Ich gehe jeden Morgen deshalb an diese Arbeit."
+      },
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 3.0,
+        "communication": 4.0,
+        "workConditions": 4.0,
+        "leadership": 4.0,
+        "teamwork": 3.0,
+        "oldColleagues": 3.0,
+        "equality": 4.0,
+        "career": 4.0,
+        "salary": 4.0,
+        "image": 2.0,
+        "environment": 2.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-03-03T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "3c9cfc42-9132-4867-bf4b-d88ae31c8e3d",
+      "url": "https://www.kununu.com/de/hamburgcommercialbank/bewertung/3c9cfc42-9132-4867-bf4b-d88ae31c8e3d",
+      "title": "Gier nach noch mehr Profit und hohe Arbeitsbelastung",
+      "content": "Gehalt als Experte , wo es eigentlich mehr eine Sachbearbeitung ist von 90.000 plus Bonus von 9.000 Euro ist im Vergleich zu anderen AG bei denen ich war hoch. Bei Neueinstellungen zahlen sie unverhältnismäßig viel im Gegensatz zu anderen AG , obwohl die Mitarbeiter, die schon länger in der Bank sind viel weniger verdienen zum Teil und ehrlicherweise mehr Kenntnisse und Fähigkeiten haben.\n\nModerner sein wie viele andere erfolgreiche Unternehmen und mindestens 2 Tage Home Office und die Möglichkeit schaffen Sabbatical für jeden , wenn es passt einzuführen, um langfristig leistungsfähig zu bleiben und nicht 240 Tage im Jahr zu funktionieren und gejagt zu werden oder sich selbst zu jagen als Zahnrad und Knecht im Getriebe, um den US Eigentümern neben 2 Mrd. Dividenden und jährlichen Gewinn von ca. 400 Mio noch mehr in der Gier zu unterstützen und ausgequetscht zu werden.\n\neingeschränkt durch einen Abbau von ca. 200 Mitarbeitern.\n\nMehr als der Durchschnitt, aber bei der Haspa und den Genossenschaftsbanken bekommt man im Verhältnis Leistung/Gehalt mehr und die sind auch profitabel und insbesondere für Generation Z gibt es bei Haspa Sabbatical, mehr Home Office. In der HCOB gibt es nur 1 Tag Home Office und es gibt keine Sabbatical Möglichkeit für alle Mitarbeiter. Aufsichtsratsmitglieder verdienen mindestens 200.000 Euro für 6 Tage Arbeit und einige mehr.\n\nZu viele Anwendungen, öfter Cloud Ausfälle wegen Netzwerkverbindung",
+      "rating": 3.1,
+      "sections": {
+        "positive": "Gehalt als Experte , wo es eigentlich mehr eine Sachbearbeitung ist von 90.000 plus Bonus von 9.000 Euro ist im Vergleich zu anderen AG bei denen ich war hoch. Bei Neueinstellungen zahlen sie unverhältnismäßig viel im Gegensatz zu anderen AG , obwohl die Mitarbeiter, die schon länger in der Bank sind viel weniger verdienen zum Teil und ehrlicherweise mehr Kenntnisse und Fähigkeiten haben.",
+        "negative": null,
+        "suggestion": "Moderner sein wie viele andere erfolgreiche Unternehmen und mindestens 2 Tage Home Office und die Möglichkeit schaffen Sabbatical für jeden , wenn es passt einzuführen, um langfristig leistungsfähig zu bleiben und nicht 240 Tage im Jahr zu funktionieren und gejagt zu werden oder sich selbst zu jagen als Zahnrad und Knecht im Getriebe, um den US Eigentümern neben 2 Mrd. Dividenden und jährlichen Gewinn von ca. 400 Mio noch mehr in der Gier zu unterstützen und ausgequetscht zu werden."
+      },
+      "factor_comments": {
+        "career": "eingeschränkt durch einen Abbau von ca. 200 Mitarbeitern.",
+        "salary": "Mehr als der Durchschnitt, aber bei der Haspa und den Genossenschaftsbanken bekommt man im Verhältnis Leistung/Gehalt mehr und die sind auch profitabel und insbesondere für Generation Z gibt es bei Haspa Sabbatical, mehr Home Office. In der HCOB gibt es nur 1 Tag Home Office und es gibt keine Sabbatical Möglichkeit für alle Mitarbeiter. Aufsichtsratsmitglieder verdienen mindestens 200.000 Euro für 6 Tage Arbeit und einige mehr.",
+        "workConditions": "Zu viele Anwendungen, öfter Cloud Ausfälle wegen Netzwerkverbindung"
+      },
+      "factor_scores": {
+        "atmosphere": 3.0,
+        "workLife": 1.0,
+        "communication": 3.0,
+        "workConditions": 2.0,
+        "leadership": 5.0,
+        "teamwork": 4.0,
+        "oldColleagues": 3.0,
+        "equality": 3.0,
+        "career": 3.0,
+        "salary": 4.0,
+        "image": 3.0,
+        "environment": 3.0,
+        "tasks": 3.0
+      },
+      "published_at": "2025-09-04T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "4d51e71b-95bb-4398-aa8c-3b3e1c56a442",
+      "url": "https://www.kununu.com/de/hamburgcommercialbank/bewertung/4d51e71b-95bb-4398-aa8c-3b3e1c56a442",
+      "title": "Gute Bezahlung gleicht eine ungewisse Zukunft nicht aus",
+      "content": "Überdurchschnittliche Bezahlung, zentrale Lage\n\nMangelnde Perspektive durch angestrebten Verkaufsprozess, keine klare, bzw. regelmäßig wechselnde Geschäftsstrategie.\n\nHört euren Mitarbeitenden endlich mal ehrlich zu, nicht nur über plakative Befragungen und reagiert auch darauf.\n\nViel Druck, viele Veränderungen, ungewisse Zukunft, trotz anderslautender Absichtserklärungen wiederholter Mitarbeiterabbau, keine nachhaltige Unternehmensstrategie, wenig Rückendeckung aus dem Top-Management\n\nEher negativ, da es keine nachhaltige Strategie gibt. Die Frage \"wofür steht die Bank\" kann nur schwer nachvollziehbar beantwortet werden. Die Zukunft der Bank ist aufgrund des von den Eigentümern beabsichtigten Verkaufs ungewiss.\n\nSchwache Home Office-Quote 80:20, viele plakative Aktionen, aber hohe sehr Belastung in vielen Bereichen\n\nStark von den einzelnen Vorgesetzten abhängig. Teilweise willkürlich wirkende, nicht nachvollziehbare Managemententscheidungen.\n\nÜberdurchschnittliche Gehälter, gute Sozialleistungen\n\nAuf der Teamebene sehr gut\n\nStarker Fokus auf Jugend, Einstellung älterer AN eher die Ausnahme\n\nSehr individuell unterschiedlich\n\nVeraltetes Gebäudes, in das nicht mehr investiert wird (siehe langfristig ausgefallener Fahrstuhl), viele Großraumbüros mit hoher Lärmbelastung aber moderne Arbeitsplatzausstattung,\n\nTrotz Absichtserklärungen des Managements sehr stark hierarchiegetrieben, auf Teamebene durchweg positiv\n\nAuf MA-Ebene gegeben, im Führungsbereich eher eine Absichtserklärung des Vorstandes mit mangelhafter Umsetzung\n\nGrundsätzlich ja, leider oftmals zu wenig zielgerichtet",
+      "rating": 3.1,
+      "sections": {
+        "positive": "Überdurchschnittliche Bezahlung, zentrale Lage",
+        "negative": "Mangelnde Perspektive durch angestrebten Verkaufsprozess, keine klare, bzw. regelmäßig wechselnde Geschäftsstrategie.",
+        "suggestion": "Hört euren Mitarbeitenden endlich mal ehrlich zu, nicht nur über plakative Befragungen und reagiert auch darauf."
+      },
+      "factor_comments": {
+        "atmosphere": "Viel Druck, viele Veränderungen, ungewisse Zukunft, trotz anderslautender Absichtserklärungen wiederholter Mitarbeiterabbau, keine nachhaltige Unternehmensstrategie, wenig Rückendeckung aus dem Top-Management",
+        "image": "Eher negativ, da es keine nachhaltige Strategie gibt. Die Frage \"wofür steht die Bank\" kann nur schwer nachvollziehbar beantwortet werden. Die Zukunft der Bank ist aufgrund des von den Eigentümern beabsichtigten Verkaufs ungewiss.",
+        "workLife": "Schwache Home Office-Quote 80:20, viele plakative Aktionen, aber hohe sehr Belastung in vielen Bereichen",
+        "career": "Stark von den einzelnen Vorgesetzten abhängig. Teilweise willkürlich wirkende, nicht nachvollziehbare Managemententscheidungen.",
+        "salary": "Überdurchschnittliche Gehälter, gute Sozialleistungen",
+        "teamwork": "Auf der Teamebene sehr gut",
+        "oldColleagues": "Starker Fokus auf Jugend, Einstellung älterer AN eher die Ausnahme",
+        "leadership": "Sehr individuell unterschiedlich",
+        "workConditions": "Veraltetes Gebäudes, in das nicht mehr investiert wird (siehe langfristig ausgefallener Fahrstuhl), viele Großraumbüros mit hoher Lärmbelastung aber moderne Arbeitsplatzausstattung,",
+        "communication": "Trotz Absichtserklärungen des Managements sehr stark hierarchiegetrieben, auf Teamebene durchweg positiv",
+        "equality": "Auf MA-Ebene gegeben, im Führungsbereich eher eine Absichtserklärung des Vorstandes mit mangelhafter Umsetzung",
+        "tasks": "Grundsätzlich ja, leider oftmals zu wenig zielgerichtet"
+      },
+      "factor_scores": {
+        "atmosphere": 2.0,
+        "workLife": 2.0,
+        "communication": 3.0,
+        "workConditions": 3.0,
+        "leadership": 3.0,
+        "teamwork": 4.0,
+        "oldColleagues": 3.0,
+        "equality": 3.0,
+        "career": 3.0,
+        "salary": 4.0,
+        "image": 3.0,
+        "environment": 4.0,
+        "tasks": 3.0
+      },
+      "published_at": "2025-08-20T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "0cf65109-455b-433b-8920-ae6367f386cb",
+      "url": "https://www.kununu.com/de/hamburgcommercialbank/bewertung/0cf65109-455b-433b-8920-ae6367f386cb",
+      "title": "Respekt vor Menschen fehlt - Ellbogen-Mentalität",
+      "content": "Gehalt !\n\nkein Teamspirit, Fehler werden zum Verhängnis des Mitarbeiters (Kündigung)\n\nBedenkt dass, das größte Gut \"der Mitarbeiter ist\" - Warum pflegt ihr diesen Schatz nicht. Wieso ist die Fehlertoleranz im Unternehmen NULL?\nFehler müssen gewürdigt und honoriert werden !\n\nEs wird viel erzählt, aber wenn die Situation entsteht, so stellt sich kein Vorgesetzter vor den Mitarbeiter.\n\nNaja, die Vergangenheit ist immernoch gegenwärtig ( HSH, Cummex, etc.)\n\nViel Work, wenig Life...Vorgesetzte achten nicht darauf\n\nDie Gehälter sind gut....jedoch ist das Miteinander schlecht. Mit Geld kompensiert man das schlechte Miteinander.\n\nHire & Fire Mentalität...ohne Verantwortung ob derjenige Familie hat\n\n..vieles passiert hinter dem Rücken - Neulinge haben da kaum eine Chance.\n\nes ist keine Führungskultur, wenig Team-Kultur....jede Abteilung kämpft ums Überleben\n\nDas Gebäude in der HH-Innenstadt ist aus den 60igern (oder evtl. aus den 50iger)\n\nselbst dieser Stern ist zu viel...man darf sich nichts vormachen - es ist immernoch die \"alte HSHG Nordbank\" - Verstaubte Prozesse, Sehr bürokratisch, viele Zaun-Könige...Leute werden eingestellt, und wenn sie nichts taugen sofort entlassen, ohne die Person auf zu bauen.\n\nes sind zu viele Aufgaben",
+      "rating": 1.3,
+      "sections": {
+        "positive": "Gehalt !",
+        "negative": "kein Teamspirit, Fehler werden zum Verhängnis des Mitarbeiters (Kündigung)",
+        "suggestion": "Bedenkt dass, das größte Gut \"der Mitarbeiter ist\" - Warum pflegt ihr diesen Schatz nicht. Wieso ist die Fehlertoleranz im Unternehmen NULL?\nFehler müssen gewürdigt und honoriert werden !"
+      },
+      "factor_comments": {
+        "atmosphere": "Es wird viel erzählt, aber wenn die Situation entsteht, so stellt sich kein Vorgesetzter vor den Mitarbeiter.",
+        "image": "Naja, die Vergangenheit ist immernoch gegenwärtig ( HSH, Cummex, etc.)",
+        "workLife": "Viel Work, wenig Life...Vorgesetzte achten nicht darauf",
+        "salary": "Die Gehälter sind gut....jedoch ist das Miteinander schlecht. Mit Geld kompensiert man das schlechte Miteinander.",
+        "environment": "Hire & Fire Mentalität...ohne Verantwortung ob derjenige Familie hat",
+        "teamwork": "..vieles passiert hinter dem Rücken - Neulinge haben da kaum eine Chance.",
+        "leadership": "es ist keine Führungskultur, wenig Team-Kultur....jede Abteilung kämpft ums Überleben",
+        "workConditions": "Das Gebäude in der HH-Innenstadt ist aus den 60igern (oder evtl. aus den 50iger)",
+        "communication": "selbst dieser Stern ist zu viel...man darf sich nichts vormachen - es ist immernoch die \"alte HSHG Nordbank\" - Verstaubte Prozesse, Sehr bürokratisch, viele Zaun-Könige...Leute werden eingestellt, und wenn sie nichts taugen sofort entlassen, ohne die Person auf zu bauen.",
+        "tasks": "es sind zu viele Aufgaben"
+      },
+      "factor_scores": {
+        "atmosphere": 1.0,
+        "workLife": 1.0,
+        "communication": 1.0,
+        "workConditions": 1.0,
+        "leadership": 1.0,
+        "teamwork": 1.0,
+        "oldColleagues": 3.0,
+        "equality": 1.0,
+        "career": 1.0,
+        "salary": 3.0,
+        "image": 1.0,
+        "environment": 1.0,
+        "tasks": 1.0
+      },
+      "published_at": "2025-05-14T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "04ec5897-8aa0-400a-8f27-b1fc6edf9636",
+      "url": "https://www.kununu.com/de/hamburgcommercialbank/bewertung/04ec5897-8aa0-400a-8f27-b1fc6edf9636",
+      "title": "Sehr guter Arbeitgeber!",
+      "content": "Faires Gehaltsgefüge, gute Sozialleistungen, Spendenaktionen des AG finde ich sehr positiv.\n\nBetriebsvereinbarung Mobiles Arbeiten (zzt nur 1 Tag pro Woche Homeoffice erlaubt). Nicht zeitgemäß.",
+      "rating": 4.3,
+      "sections": {
+        "positive": "Faires Gehaltsgefüge, gute Sozialleistungen, Spendenaktionen des AG finde ich sehr positiv.",
+        "negative": "Betriebsvereinbarung Mobiles Arbeiten (zzt nur 1 Tag pro Woche Homeoffice erlaubt). Nicht zeitgemäß.",
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 4.0,
+        "communication": 4.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 4.0,
+        "oldColleagues": 4.0,
+        "equality": 4.0,
+        "career": 4.0,
+        "salary": 5.0,
+        "image": 4.0,
+        "environment": 4.0,
+        "tasks": 4.0
+      },
+      "published_at": "2025-02-27T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "0c9abc82-f3bd-45c6-b212-1cf4619f12ba",
+      "url": "https://www.kununu.com/de/hamburgcommercialbank/bewertung/0c9abc82-f3bd-45c6-b212-1cf4619f12ba",
+      "title": "Spannende, herausfordernde Jobs",
+      "content": "Spannende, internationale Projekte, die man mit hoher Eigenverantwortung selbstständig betreut.\n\nHohe Erwartungen und hoher zeitlicher Druck können zu Problemen führen. Nein sagen hilft.\nLeider nur 1 HomeOffice Tag. Da wünsche ich mir mehr Flexibilität.",
+      "rating": 3.8,
+      "sections": {
+        "positive": "Spannende, internationale Projekte, die man mit hoher Eigenverantwortung selbstständig betreut.",
+        "negative": "Hohe Erwartungen und hoher zeitlicher Druck können zu Problemen führen. Nein sagen hilft.\nLeider nur 1 HomeOffice Tag. Da wünsche ich mir mehr Flexibilität.",
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 3.0,
+        "communication": 4.0,
+        "workConditions": 4.0,
+        "leadership": 3.0,
+        "teamwork": 3.0,
+        "oldColleagues": 4.0,
+        "equality": 4.0,
+        "career": 4.0,
+        "salary": 5.0,
+        "image": 4.0,
+        "environment": 3.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-01-28T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "23f0dfe8-1e79-4a46-a860-32d88b5a1be2",
+      "url": "https://www.kununu.com/de/hamburgcommercialbank/bewertung/23f0dfe8-1e79-4a46-a860-32d88b5a1be2",
+      "title": "Grundlegend sehr zufrieden",
+      "content": "Die Firma hat verstanden, dass mit einer modernen IT die Zukunft gestaltet werden kann. So werden neue Technologien schnell und ohne große Hürden eingeführt.\n\nDie Regelung zum mobilen Arbeiten (1x pro Woche erlaubt) ist nicht zeitgemäß. Ich verstehe den Einwand, dass innerhalb einer Gruppe besser vor Ort gearbeitet werden kann (Ideen-Findung etc.). Wenn aber die meiste Zeit alleine gearbeitet oder mit Kollegen im Ausland wird, dann ist insbesondere die Fahrzeit Zeitverschwendung.\n\nDie Gleichberechtigung lässt teilweise zu wünschen übrig: Je nach Standort (z.B Kiel vs. Hamburg) gibt es Sonderregelungen zum Beispiel bezüglich Verpflegung. Besser wären gleiche Regelungen. Dieses Jahr soll es eine Sonderzahlung für Mitarbeiter geben, die vor Datum X bei der Bank gearbeitet haben. Alle, die einen Tag später angefangen haben, bekommen nichts. Besser sind Regeln, die Fairness erzeugen: Wer zwei Jahre in der Firma arbeitet bekommt eine Sonderzahlung oder vergleichbar.\n\nTechnik ist auf dem neusten Stand, jeder Tisch ist in der Höhe verstellbar etc. Einziges Problem ist der Lärmpegel in den Großraumbüros. Durch die vielen Meetings ist Arbeiten oft nur schwer möglich. Es gibt zwar viele Ausweichflächen, aber ständig den Ort zu wechseln ist nicht zielführend. Besser wären kleinere Büros mit begrenzter Mitarbeiterzahl.",
+      "rating": 4.0,
+      "sections": {
+        "positive": "Die Firma hat verstanden, dass mit einer modernen IT die Zukunft gestaltet werden kann. So werden neue Technologien schnell und ohne große Hürden eingeführt.",
+        "negative": "Die Regelung zum mobilen Arbeiten (1x pro Woche erlaubt) ist nicht zeitgemäß. Ich verstehe den Einwand, dass innerhalb einer Gruppe besser vor Ort gearbeitet werden kann (Ideen-Findung etc.). Wenn aber die meiste Zeit alleine gearbeitet oder mit Kollegen im Ausland wird, dann ist insbesondere die Fahrzeit Zeitverschwendung.",
+        "suggestion": "Die Gleichberechtigung lässt teilweise zu wünschen übrig: Je nach Standort (z.B Kiel vs. Hamburg) gibt es Sonderregelungen zum Beispiel bezüglich Verpflegung. Besser wären gleiche Regelungen. Dieses Jahr soll es eine Sonderzahlung für Mitarbeiter geben, die vor Datum X bei der Bank gearbeitet haben. Alle, die einen Tag später angefangen haben, bekommen nichts. Besser sind Regeln, die Fairness erzeugen: Wer zwei Jahre in der Firma arbeitet bekommt eine Sonderzahlung oder vergleichbar."
+      },
+      "factor_comments": {
+        "workConditions": "Technik ist auf dem neusten Stand, jeder Tisch ist in der Höhe verstellbar etc. Einziges Problem ist der Lärmpegel in den Großraumbüros. Durch die vielen Meetings ist Arbeiten oft nur schwer möglich. Es gibt zwar viele Ausweichflächen, aber ständig den Ort zu wechseln ist nicht zielführend. Besser wären kleinere Büros mit begrenzter Mitarbeiterzahl."
+      },
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 4.0,
+        "communication": 4.0,
+        "workConditions": 3.0,
+        "leadership": 4.0,
+        "teamwork": 4.0,
+        "oldColleagues": 5.0,
+        "equality": 3.0,
+        "career": 4.0,
+        "salary": 4.0,
+        "image": 4.0,
+        "environment": 4.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-01-11T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    }
+  ],
+  "review_limit": 15,
+  "review_period": {
+    "since": "2024-11-25T00:00:00+00:00",
+    "until": "2026-11-25T17:15:38.312544+00:00",
+    "date_field": "published_at",
+    "missing_dates": "excluded"
+  },
+  "factor_scores_aggregated": {
+    "atmosphere": {
+      "mean": 3.0,
+      "count": 9
+    },
+    "workLife": {
+      "mean": 2.67,
+      "count": 9
+    },
+    "communication": {
+      "mean": 3.11,
+      "count": 9
+    },
+    "workConditions": {
+      "mean": 2.89,
+      "count": 9
+    },
+    "leadership": {
+      "mean": 3.56,
+      "count": 9
+    },
+    "teamwork": {
+      "mean": 3.44,
+      "count": 9
+    },
+    "oldColleagues": {
+      "mean": 3.22,
+      "count": 9
+    },
+    "equality": {
+      "mean": 3.22,
+      "count": 9
+    },
+    "career": {
+      "mean": 2.89,
+      "count": 9
+    },
+    "salary": {
+      "mean": 4.11,
+      "count": 9
+    },
+    "image": {
+      "mean": 2.67,
+      "count": 9
+    },
+    "environment": {
+      "mean": 2.89,
+      "count": 9
+    },
+    "tasks": {
+      "mean": 3.78,
+      "count": 9
+    }
+  },
+  "coverage": "bounded_employee_review_sample_last_2_years_not_all_reviews",
+  "diagnostics": {
+    "pages": [
+      {
+        "page": "reviews",
+        "page_number": 1,
+        "load_more_clicks": 0,
+        "requested_url": "https://www.kununu.com/de/hamburgcommercialbank/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Hamburg-Commercial-Bank-bed70406\\browser\\reviews.html",
+        "browser_step": 65,
+        "final_url": "https://www.kununu.com/de/hamburgcommercialbank/kommentare",
+        "observed_at": "2026-11-25T17:15:39.690165+00:00",
+        "http_status": 200,
+        "factor_cards_expanded": 3,
+        "reviews_collected": 9
+      },
+      {
+        "page": "reviews",
+        "page_number": 2,
+        "load_more_clicks": 1,
+        "requested_url": "https://www.kununu.com/de/hamburgcommercialbank/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Hamburg-Commercial-Bank-bed70406\\browser\\reviews-2.html",
+        "browser_step": 66,
+        "final_url": "https://www.kununu.com/de/hamburgcommercialbank/kommentare",
+        "observed_at": "2026-11-25T17:15:41.313229+00:00",
+        "actions_complete": true,
+        "factor_cards_expanded": 2,
+        "reviews_collected": 9
+      },
+      {
+        "page": "reviews",
+        "page_number": 3,
+        "load_more_clicks": 2,
+        "requested_url": "https://www.kununu.com/de/hamburgcommercialbank/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Hamburg-Commercial-Bank-bed70406\\browser\\reviews-3.html",
+        "browser_step": 67,
+        "final_url": "https://www.kununu.com/de/hamburgcommercialbank/kommentare",
+        "observed_at": "2026-11-25T17:15:42.648117+00:00",
+        "actions_complete": true,
+        "reviews_collected": 9
+      },
+      {
+        "page": "reviews",
+        "page_number": 4,
+        "load_more_clicks": 3,
+        "requested_url": "https://www.kununu.com/de/hamburgcommercialbank/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Hamburg-Commercial-Bank-bed70406\\browser\\reviews-4.html",
+        "browser_step": 68,
+        "final_url": "https://www.kununu.com/de/hamburgcommercialbank/kommentare",
+        "observed_at": "2026-11-25T17:15:44.342807+00:00",
+        "actions_complete": true,
+        "reviews_collected": 9
+      },
+      {
+        "page": "reviews",
+        "page_number": 5,
+        "load_more_clicks": 4,
+        "requested_url": "https://www.kununu.com/de/hamburgcommercialbank/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\Hamburg-Commercial-Bank-bed70406\\browser\\reviews-5.html",
+        "browser_step": 69,
+        "final_url": "https://www.kununu.com/de/hamburgcommercialbank/kommentare",
+        "observed_at": "2026-11-25T17:15:46.354068+00:00",
+        "actions_complete": true,
+        "reviews_collected": 9,
+        "status": "error",
+        "reason": "review_page_limit_reached",
+        "error": "Maximal fünf Bewertungsabrufe je Firma erreicht; Stichprobe unvollständig."
+      }
+    ]
+  },
+  "source_url": "https://www.kununu.com/de/hamburgcommercialbank",
+  "profile_source": "https://www.kununu.com/de/hamburgcommercialbank/kommentare",
+  "review_stop_reason": "review_page_limit_reached",
+  "reason": "review_page_limit_reached",
+  "error": "reviews: Maximal fünf Bewertungsabrufe je Firma erreicht; Stichprobe unvollständig.",
+  "factor_score_coverage": {
+    "reviews_with_scores": 9,
+    "reviews_without_scores": 0,
+    "reviews_with_all_known_scores": 9,
+    "status": "complete"
+  },
+  "request_limits": {
+    "max_browser_steps": 295,
+    "browser_steps": 69,
+    "zyte_requests": 0
+  }
+}

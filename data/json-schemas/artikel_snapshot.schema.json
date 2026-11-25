@@ -1,0 +1,57 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Datenvertrag v0.4: gewerkschaften/<firma>/snapshot.json",
+  "description": "Artikel von Gewerkschaften, in denen die Firma genannt wird, nur die Kopfdaten. Den Volltext liefert je Artikel eine eigene Datei (articles/<id>/article.json). Genutzt für die Stichwortsuche (E2c) und die Textsignale (E4). Bei den Status ok und partial werden die Felder gelesen und geprüft, bei jedem anderen Status nur status und reason.",
+  "type": "object",
+  "required": ["status"],
+  "properties": {
+    "status": {
+      "type": "string",
+      "x-bekannte-werte": ["ok", "partial", "error", "skipped"],
+      "description": "partial: die Suche wurde durch ein Limit abgeschnitten (heute bei jeder Datei so). ok: vollständig. Bei ok und partial werden die Felder darunter gelesen, bei jedem anderen Wort nicht"
+    },
+    "reason": {
+      "type": ["string", "null"],
+      "x-bekannte-werte": ["no_company_mentions_in_checked_articles"],
+      "description": "Grund oder Hinweis als Kennwort in Kleinbuchstaben mit Unterstrich. Offene Liste, neue Kennwörter sind erlaubt"
+    }
+  },
+  "if": { "properties": { "status": { "enum": ["ok", "partial"] } }, "required": ["status"] },
+  "then": {
+    "required": ["date_from", "date_to", "truncated", "articles"],
+    "properties": {
+      "date_from": { "type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$", "description": "Erster durchsuchter Tag" },
+      "date_to": { "type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$", "description": "Letzter durchsuchter Tag" },
+      "truncated": { "type": "boolean", "description": "true, wenn die Suche durch ein Limit abgeschnitten wurde und vielleicht Artikel fehlen" },
+      "articles": {
+        "type": "array",
+        "description": "Gefundene Artikel mit Nennung der Firma. Leer, wenn keine gefunden wurden",
+        "items": {
+          "type": "object",
+          "required": ["id", "title", "url", "published_at", "match", "gewerkschaft"],
+          "properties": {
+            "id": { "type": "string", "x-anzeige": "Kennung", "minLength": 1, "description": "Kennung des Artikels, eindeutig je Firma und Quelle. Ordnername unter articles/. Dient als Verweis (source_ref) in den Befunden" },
+            "title": { "type": "string", "description": "Überschrift des Artikels" },
+            "url": { "type": "string", "x-anzeige": "URL", "description": "Adresse des Artikels" },
+            "published_at": { "type": ["string", "null"], "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$", "description": "Veröffentlichungsdatum, null wenn nicht ermittelbar" },
+            "gewerkschaft": { "type": "string", "description": "Name der Gewerkschaft, zum Beispiel ver.di oder IG Metall. In Dateien der Gewerkschaften" },
+            "match": {
+              "type": "object",
+              "description": "Wie die Firma im Artikel gefunden wurde",
+              "required": ["matched_name", "matched_in"],
+              "properties": {
+                "matched_name": { "type": "string", "description": "Firmenname, wie er im Artikel gefunden wurde" },
+                "matched_in": { "type": "string", "x-bekannte-werte": ["title", "text"], "description": "Wo der Name steht: in der Überschrift oder im Text" },
+                "excerpt": { "type": ["string", "null"], "description": "Textstelle mit dem Firmennamen, zur Kontrolle" }
+              }
+            },
+            "branches": { "type": "array", "items": { "type": "string" }, "description": "Branchen, für die die Organisation zuständig ist. Offene Liste" },
+            "content_hash": { "type": ["string", "null"], "x-anzeige": "SHA-256", "description": "Fingerabdruck des Inhalts (SHA-256), zum Erkennen von Änderungen" },
+            "fetched_at": { "type": ["string", "null"], "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}T[0-9]{2}:[0-9]{2}:[0-9]{2}(\\.[0-9]+)?(Z|[+-][0-9]{2}:[0-9]{2})$", "description": "Zeitpunkt des Abrufs" }
+          }
+        }
+      }
+    }
+  },
+  "else": { "required": ["reason"] }
+}

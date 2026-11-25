@@ -1,0 +1,9 @@
+{
+  "url": "https://merz-lifecare.softgarden.io/robots.txt",
+  "final_url": "https://merz-lifecare.softgarden.io/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "fetched_at": "2026-11-25T16:06:04.535668+00:00",
+  "text": "User-agent: *\nDisallow: /just-hire/\nDisallow: /hrFrontend/\nDisallow: /hrManagement/\nDisallow: /hrd/\nDisallow: /hrc/\nDisallow: /api/\nDisallow: /strategy-board/\nDisallow: /apply/\nDisallow: /apply-choice*\nDisallow: /rest/\nDisallow: /*/widgets/\nDisallow: /wicket/bookmarkable/\n"
+}

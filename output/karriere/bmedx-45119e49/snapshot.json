@@ -1,0 +1,159 @@
+{
+  "provider": "karriere",
+  "company": {
+    "key": "bmedx",
+    "name": "bmedx",
+    "location": "Heidelberg",
+    "name_source": "company_name",
+    "urls": [
+      "https://bmedx.com"
+    ],
+    "kununu_url": null,
+    "branches": [
+      "Biotechnologie"
+    ],
+    "search_terms": [],
+    "career_urls": [],
+    "postal_code": "69120",
+    "street": "Im Neuenheimer Feld 583",
+    "region": "Baden-Württemberg",
+    "career_sitemap_locations": [],
+    "implisense_id": ""
+  },
+  "searched_at": "2026-11-25T16:37:36.279345+00:00",
+  "status": "partial",
+  "jobs": [],
+  "pages": [
+    {
+      "url": "https://bmedx.com/",
+      "final_url": "https://bmedx.com/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://career.bmedx.com/",
+      "final_url": "https://career.bmedx.com/login",
+      "redirects": [
+        {
+          "source": "https://career.bmedx.com/",
+          "target": "https://career.bmedx.com/login",
+          "status": 302
+        }
+      ],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://bmedx.com/career/",
+      "final_url": "https://bmedx.com/career/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://bmedx.com/career/open-calls-for-application/",
+      "final_url": "https://bmedx.com/career/open-calls-for-application/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://bmedx.com/career/job-offers/",
+      "final_url": "https://bmedx.com/career/job-offers/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://bmedx.com/career/boot-camp/",
+      "final_url": "https://bmedx.com/career/boot-camp/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://bmedx.com/career/faq/",
+      "final_url": "https://bmedx.com/career/faq/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://bmedx.com/career/faq-boot-camp/",
+      "final_url": "https://bmedx.com/career/faq-boot-camp/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://bmedx.com/career/faq-application-criteria/",
+      "final_url": "https://bmedx.com/career/faq-application-criteria/",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    },
+    {
+      "url": "https://career.bmedx.com/reset",
+      "final_url": "https://career.bmedx.com/reset",
+      "redirects": [],
+      "jobs_found": 0,
+      "portal_redirects": [],
+      "explicit_empty": false
+    }
+  ],
+  "errors": [
+    {
+      "url": "https://career.bmedx.com/reset",
+      "reason": "no_extractable_job_data",
+      "error": "Keine auslesbaren Stellen oder belegte Leermeldung; manuelle Prüfung erforderlich."
+    }
+  ],
+  "excluded": [],
+  "sources": [
+    {
+      "url": "https://bmedx.com/",
+      "linked_from": null,
+      "mechanism": "configured"
+    },
+    {
+      "url": "https://career.bmedx.com/",
+      "linked_from": "https://bmedx.com/",
+      "mechanism": "employer_link"
+    },
+    {
+      "url": "https://career.bmedx.com/login",
+      "linked_from": "https://career.bmedx.com/",
+      "mechanism": "http_redirect"
+    }
+  ],
+  "adapter_attempts": [],
+  "coverage": {
+    "scope": "configured_sites_and_linked_career_portals",
+    "complete": false,
+    "pending_pages": 0,
+    "page_limit_reached": false,
+    "job_limit_reached": false,
+    "request_limit_reached": false,
+    "pages_attempted": 10,
+    "pages_read": 10,
+    "dynamic_or_unparsed_pages": true,
+    "http": {
+      "requests_attempted": 13,
+      "allocated_requests": 7855,
+      "cache_hits": 0
+    }
+  },
+  "pending_urls": [],
+  "jobs_before_keyword_filter": 0,
+  "reason": "search_incomplete"
+}

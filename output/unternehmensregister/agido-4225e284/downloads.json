@@ -1,0 +1,56 @@
+[
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=g6YQPq0vj8-kQLQhqVzhxvNZ4jD8hgbzgalWPs4PFCHxlzvk1YpXUtvUOfNy9-F03e6faLgCF-ooyn6dy3KboNWTX4hQMApQFUJgSwIJ_ox8ZzI_WCi_Cv7lWBVZbsuiNACpir-BaqU5FTkfk9PCK6orU--MnrCV11lXSNqS_zdWBlyfalgAWoa2dypFe6B-aAHmif65msgQV2_2I2jtgiUHkvOUThwQN66kW5KxM_6Xl4-4",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\agido-4225e284\\finanzberichte\\publication-1\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\agido-4225e284\\finanzberichte\\publication-1\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\agido-4225e284\\finanzberichte\\publication-1\\publication.txt",
+    "index": 1,
+    "category": "finanzberichte",
+    "company": "agido GmbH, Dortmund",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2024 bis zum 31.12.2024",
+    "documents_path": "output\\unternehmensregister\\agido-4225e284\\finanzberichte\\publication-1\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=-Nj3tCIax7mI4SmO9w74DRuK32ZsL_MI5tA6Y4YoHY9yluNUei8jissCNhHyGTXN4KS7dwPdz4uwBeKlTMivb8jZL1bJpbN9gJhG1qq1usgkTM1jQLjw9qG1cD8sMrfZu2aPyW-VAVoJA6UlrxJn16zpzm7gdhj0lhK4MKtG19V1S497Sa97wDsLxUrpBV6dZXskImptvh3qnInEhjPTY5u3F8qXwjpHrkO7x9ox1FidbHus",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\agido-4225e284\\finanzberichte\\publication-2\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\agido-4225e284\\finanzberichte\\publication-2\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\agido-4225e284\\finanzberichte\\publication-2\\publication.txt",
+    "index": 2,
+    "category": "finanzberichte",
+    "company": "agido GmbH, Dortmund",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2023 bis zum 31.12.2023",
+    "documents_path": "output\\unternehmensregister\\agido-4225e284\\finanzberichte\\publication-2\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=1Ywrou-5buFt_zCIxXGYGPkPn8Z-zQV-fw6FUuRXfMkEZR62usmXzFNM7mWyt8Kl5IxwObMKszeVOaGfmUVnpnWx-AH0tEZ49Iz2D2fy6hDkSeM-4Rck572mkC0qx1GfWvVyp_owqlISxlM8tSj6txK8ZeZ3HB8_vCHn6Txog6X-SuewtJjvLt22XLkSu8S8mXxiKC7ZCeOxwhHDKUrn4jhPU7MJ-Z0gJLQQZ6blwrjCFwQ_",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\agido-4225e284\\finanzberichte\\publication-3\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\agido-4225e284\\finanzberichte\\publication-3\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\agido-4225e284\\finanzberichte\\publication-3\\publication.txt",
+    "index": 3,
+    "category": "finanzberichte",
+    "company": "agido GmbH, Dortmund",
+    "title": "Jahresabschluss zum Geschäftsjahr vom 01.01.2022 bis zum 31.12.2022",
+    "documents_path": "output\\unternehmensregister\\agido-4225e284\\finanzberichte\\publication-3\\documents.json"
+  }
+]

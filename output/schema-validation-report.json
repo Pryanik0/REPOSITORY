@@ -1,0 +1,2651 @@
+{
+  "checked_at": "2026-11-25T18:31:09.139859+00:00",
+  "schema_directory": "H:\\PRAKTIKUM\\PROJEKT\\data\\json-schemas",
+  "schemas": {
+    "artikel_article.schema.json": "5322119a11275a439bcef80e5a171b35a771cf0b1c21365838553fcc1a353ed0",
+    "artikel_snapshot.schema.json": "54bb5b22066952440d408000c27f832651deceedf55a2a0a22bbcea0975e4c9b",
+    "befunde.schema.json": "e4598f790d61109e12d9914d361fd96ff8d159fa099b3d0a85717b7cc9698c8b",
+    "implisense_news.schema.json": "8eb6782e615699e279a6cb89925737a2f21ccd23fc001fd157bb70b77854450e",
+    "kununu_snapshot.schema.json": "ffc5b6bccddcb050e7d4127be15d1b17c37209a39e57db71528d008664cdb2d6",
+    "register_documents.schema.json": "bedcb5541df43ecad353a87ab851db5bbf5df6cbc20fec4fec3e0a84a54781f3",
+    "register_downloads.schema.json": "96ef77084f5f54c6d4df9f81604b6b800bb678d5b7c18d5865b0566c297acc79",
+    "register_publications.schema.json": "807c0f0a23c4f9d1d7ca53edcf1c2b2c5074e4fd73d3138af4d9276ddb175511"
+  },
+  "files_checked": 373,
+  "valid": 373,
+  "errors": 0,
+  "counts_by_kind": {
+    "artikel_snapshot": 59,
+    "implisense_news": 1,
+    "kununu": 59,
+    "register_downloads": 59,
+    "register_documents": 136,
+    "register_publications": 59
+  },
+  "current_index_files": 373,
+  "reference_checks": "passed",
+  "files_modified": 0,
+  "not_covered": {
+    "career_snapshots": 59,
+    "career_reason": "No supplied schema",
+    "raw_implisense_responses": "Raw API cache; schema applies only to implisense/browser/news.json",
+    "internal_files": "Browser profiles, caches, history and run diagnostics are not delivery JSONs"
+  },
+  "implisense": {
+    "articles": 5,
+    "register_events": 23
+  },
+  "files": [
+    {
+      "path": "gewerkschaften/Adlershorst-7e560485/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "6298a6aee8ccf9a094f3aead0c8a662fdf071d725da4bfb776b269864ff7eb87"
+    },
+    {
+      "path": "gewerkschaften/agido-4225e284/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "a1b6d63ba2184b1190944e27aed10fe32b0084d28b5a383faca2c929920bf2f4"
+    },
+    {
+      "path": "gewerkschaften/Allgeier-IT-Services-6be16c45/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "a2c1badb700aa4d2da1c95a50b9e9503650c8b43a0d00911dd7d6d5c38f5dfd3"
+    },
+    {
+      "path": "gewerkschaften/Berg-Energie-5a43e776/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "62a5188d0bc9ce91ea43fd16be9f3db31c2687f97ebec234257f9f20058725b6"
+    },
+    {
+      "path": "gewerkschaften/bmedx-45119e49/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "5607140434268180779f4c6b35932a2a0129e1b6cc4d627e1235bfdeb4e4ca69"
+    },
+    {
+      "path": "gewerkschaften/Buss-Port-Services-GmbH-fd674510/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "389a7ef2b0a2235d3a9636f62176dc187eff4f91e886f56f41ab06e144ca9094"
+    },
+    {
+      "path": "gewerkschaften/CEEZER-Software-83ce8337/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "a65d6b247baa91570e54d3b94669ebdfe6c0557437a6cabd41058f04818604b6"
+    },
+    {
+      "path": "gewerkschaften/Centrient-Pharmaceuticals-82eaef83/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "cd250fb325f8d76cbf66e37e1030324c27eff086e3d485371a84a3ebd2fdb39f"
+    },
+    {
+      "path": "gewerkschaften/Charite-Research-Organisation-6f20409c/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "9a1e459f3b60d347b7c2bcf34b9e55a0ee6c5e3b66f9199a0ed475d607c8f5ad"
+    },
+    {
+      "path": "gewerkschaften/Comcross-ebb4ce09/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "1d7195407b23b682452bba7ce074cc55d8322a3e855644b70c6626eaf142f1d7"
+    },
+    {
+      "path": "gewerkschaften/constellr-4aa40ef0/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "11b78c8ac0c167f56c3302e429774e081e61ac6f796790c79d05e7cb90aac071"
+    },
+    {
+      "path": "gewerkschaften/Cybertrading-GmbH-9ea8cb12/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "5d5a065a3b71c091f1feab0db2ca39166b0059010061a769cd09595622c05853"
+    },
+    {
+      "path": "gewerkschaften/Daiichi-Sankyo-Europe-fd95d50e/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "3dd025c0a2fc79f53b4c45b42a5ef3000840e09b7541a92101cee2752d36730d"
+    },
+    {
+      "path": "gewerkschaften/Deutsche-Pfandbriefbank-e7f3d2c4/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "442e047a07d6709bf9b5b9e807cd9531e611364c61ce27d7ac5916d361b506bc"
+    },
+    {
+      "path": "gewerkschaften/Deutsche-R-ck-d5b4f190/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "2c364941b080f00543080881a0459e7ef79e4a2f10e27d25982ae53b1ad59291"
+    },
+    {
+      "path": "gewerkschaften/Diakonie-D-sseldorf-2b7acdf6/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "0bbfd1286dc0d71bc6aca6c2df972ebe3efba0ed15982566cc226d728d8b39ea"
+    },
+    {
+      "path": "gewerkschaften/Dr-Pfleger-Arzneimittel-ab3d2c1b/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "a6c303f639247857c0d55cc06058ed0c26aa86d8222267f270d00d0b84de8b76"
+    },
+    {
+      "path": "gewerkschaften/elderbrook-solutions-9b3a7ad0/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "3a3e4bec415fd876e19067b127027ad7ac71fc14e28e6b1e4f9014bea3e6181f"
+    },
+    {
+      "path": "gewerkschaften/Eurofiber-Netz-ca101010/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "b918efed63cfbf9ff8ece98359dce59246bf5b1b2c04c369be3d2188b059c996"
+    },
+    {
+      "path": "gewerkschaften/FINVIA-Family-Office-GmbH-8726f618/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "9bd481361a8870d72f6a3069b67dbf0d87754989b36e093dee71361729c54231"
+    },
+    {
+      "path": "gewerkschaften/Finzelberg-3604eecd/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "721337a8d5bcae278f56da824fc4dfbae8edc60bddb6c3a15eaf36f9a05c3513"
+    },
+    {
+      "path": "gewerkschaften/Gerresheimer-B-nde-GmbH-89219cce/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "07d66e0adaf750d23042b45767af7beaeea6b7bc2883d11c796c4c243025d52f"
+    },
+    {
+      "path": "gewerkschaften/Hamburg-Commercial-Bank-bed70406/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "a3fb6ee540844c46b59c051012a4b5c8c2b41daac459062f2e2d501be8a6e23e"
+    },
+    {
+      "path": "gewerkschaften/Hasse-b9232a41/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "d0061db4baca70a7e9cda108c5be661c4764498ca3a9f557062fa0048d07cd98"
+    },
+    {
+      "path": "gewerkschaften/Hermes-Deutschland-ee3a1575/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "75ec589588723f7f1c3a1a3b1a89d1496e05b1dccec7809491f55f672a6103cf"
+    },
+    {
+      "path": "gewerkschaften/HERMES-PHARMA-f03bf4b2/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "8e8da92013f9986a9a804040e3f1663dfb2e69285b19c4289906e78c707101eb"
+    },
+    {
+      "path": "gewerkschaften/Ingentis-Softwareentwicklung-1bf884a2/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "463fca2f37b5ccdc4207c9c8510616636c17156d11490413f576b11b2cc4e021"
+    },
+    {
+      "path": "gewerkschaften/Klosterfrau-Healthcare-1f9eafae/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "d719116544d39ed71b54850f593343ab3ec7c235c9bd2738829653551421e7db"
+    },
+    {
+      "path": "gewerkschaften/KOB-6acc73f3/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "ba5a8523cda832faa7c09ba8b2cdfdc01e42e27212ea4eeef4c5be82fe0d9db7"
+    },
+    {
+      "path": "gewerkschaften/Kreisverwaltung-des-Westerwaldkreises-ed6bb608/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "1140d0e1046ba73f1bc53e94824a45016d9b2697e47f06ea6195ce0bb149660b"
+    },
+    {
+      "path": "gewerkschaften/Kulzer-eab975bf/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "a79f0c42a9198474f4ba52077c20067dd510b4f3533a3c1054cc1a379cc2e8a0"
+    },
+    {
+      "path": "gewerkschaften/Kyowa-Kirin-International-5b71de53/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "8975b046f0b3c042601ec7b73ef56513f73cc086fb7e0030aba0879e74cf9ec6"
+    },
+    {
+      "path": "gewerkschaften/LINK-e26ef190/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "6f7e57f3805e00b17c5986bc81135581fbb6cef135cdad0717be010eb5f55efb"
+    },
+    {
+      "path": "gewerkschaften/MAC-IT-Solutions-fcb73411/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "7e9140a96d6a6c7222d32bd43b49bfe859d09e31857763f33467199450ed8ce1"
+    },
+    {
+      "path": "gewerkschaften/MBS-Logistics-0396b8f9/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "662613eb29a053cac0068867c6ba2460c1e1299f424932fee9bab1e9b59128b8"
+    },
+    {
+      "path": "gewerkschaften/mediCAD-241a81f7/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "768f6b216d1b20b849c7f9cecea915b497246a755188ed32d9a2525a8ecf39da"
+    },
+    {
+      "path": "gewerkschaften/Medicon-c17557a5/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "d0f5b85ce8ece85a7e62989952937a2894bddaf58d5eae810e1edf28c2c0f152"
+    },
+    {
+      "path": "gewerkschaften/MSG-Systems-5bc73aa0/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "c373a733b6b593aa3ca37e4ce08d24fe0d9a36fb458251f4b4440c5cb5f924f4"
+    },
+    {
+      "path": "gewerkschaften/N-RNBERGER-Versicherungsgruppe-4237d53f/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "86abdeeaf8f5705bd9be29cd375a8fde61a8f6e8bbb406bdf1d481e9af4a7555"
+    },
+    {
+      "path": "gewerkschaften/Novaled-cfec40d3/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "e2ba08973ca7e51b462b4db8a38f0ef5925699cebe504889504cedd43176e134"
+    },
+    {
+      "path": "gewerkschaften/otris-software-AG-5310ef0f/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "dc10131c0768845e22e49aa805ab4f6879c135473842cd07e383ebd56ef12c44"
+    },
+    {
+      "path": "gewerkschaften/OVB-MEDIA-9ed67fc1/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "51c52a151d58388b8aa33be46430b152ea47a11ba987d07a108008084b758a07"
+    },
+    {
+      "path": "gewerkschaften/Recor-Medical-63f8737a/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "7f2d15b704c2400a10d3fc40ea48fdb8f4e23cb3c4574b4dd4f1314ed262f2be"
+    },
+    {
+      "path": "gewerkschaften/REISSWOLF-Bayern-GmbH-3af42708/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "f4f189030e219f869e89f772a2d139c337ee4409dd102a581314eaa63545e5d3"
+    },
+    {
+      "path": "gewerkschaften/Resuscitec-6d490c85/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "44eb3cd27aa9996149b306d1f51e45ec343317fff6e351c80f4c558a506bfb11"
+    },
+    {
+      "path": "gewerkschaften/Rosenberger-72f8c9db/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "90660bffea2a40837aecad5b77f6f94ce930f2e952050c2ef74aa9204856e035"
+    },
+    {
+      "path": "gewerkschaften/Scheidt-Bachmann-64c73604/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "32d9202ca03f6e5153e558c4e5e995a0498543564ccd512d24355abd48193a76"
+    },
+    {
+      "path": "gewerkschaften/Schoellershammer-c87237d3/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "66cece849367167b64f500e6afebf52f68e211dc6751bca54e5b938e8a5f6965"
+    },
+    {
+      "path": "gewerkschaften/sea-chefs-94a3b5ac/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "fb920abcfc37d542018eefa6a9714e22ac6a13edd3927cc3a86fd2d8574b04f3"
+    },
+    {
+      "path": "gewerkschaften/SGL-Carbon-cd155304/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "2ef31b76049de08aef5a7b5e7f3c0d8f4fcdf79d33b5392d01bdcebba4d67b90"
+    },
+    {
+      "path": "gewerkschaften/simpleclub-ad0918ec/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "53d201e5acd8832e95442fb408d33db705779ee4e1bab4f0a2aec52b49d27f18"
+    },
+    {
+      "path": "gewerkschaften/Sinnwell-12299be5/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "34515df6289482ccb60685481c71ef4e253696a255c39eb2c19251bdf72c11ca"
+    },
+    {
+      "path": "gewerkschaften/Sparkasse-Vest-7b1d9cca/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "0857fa61c0658036cf9bf5a6d7d0247350e5df3839929b50ef30c6fe33c5d6e3"
+    },
+    {
+      "path": "gewerkschaften/Stadt-K-ln-fe0037e7/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "6b42cb9a28d85d28df07e04fb5c111f029e632323b323c21fb41ca93f1a8a7b7"
+    },
+    {
+      "path": "gewerkschaften/Taylor-Wessing-b5cb2cce/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "8147622b44706ee9d9f811c8b02dc05887925dc42d4397933b0e720523b17d36"
+    },
+    {
+      "path": "gewerkschaften/tink-68efe261/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "2a2b9196ac9d578b01b2a4d08cb3ed42295e0f9a8d6ae9c195a726661e79262c"
+    },
+    {
+      "path": "gewerkschaften/welovepr-004f42ca/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "d8351613c3c5e11759b265209ec58140dfa9feefd4fcd409509e69a17fc77455"
+    },
+    {
+      "path": "gewerkschaften/WINDSTAR-MEDICAL-988bcbbe/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "fff7c5d8f16bfbe534eeb0ac445a57de5da93e08bb1505fa68f3b36580b5bea0"
+    },
+    {
+      "path": "gewerkschaften/XION-8033f08d/snapshot.json",
+      "kind": "artikel_snapshot",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "39f7da2dccf38202216ba9898ac7961fda64a2c2d38184273ad0af63d3152b42"
+    },
+    {
+      "path": "implisense/browser/news.json",
+      "kind": "implisense_news",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "f5c728cb49e662d027f4b589e876e5cef41a7dfd0e729a99b652120d3cba8ae2"
+    },
+    {
+      "path": "kununu/Adlershorst-7e560485/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "f9f64f693b1c806eaedde27e8aef185ce65050af25336b817a95a77ac828e0ed"
+    },
+    {
+      "path": "kununu/agido-4225e284/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "436ceaeafccff80fc9f8ddd4dd28987829206ecc0b1784bbf4fdb487dbb236ee"
+    },
+    {
+      "path": "kununu/Allgeier-IT-Services-6be16c45/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "766478ffbb3e4f0a4c750f5db6ba2f9635ecf1c7aac0fda9e19367c7893dcecb"
+    },
+    {
+      "path": "kununu/Berg-Energie-5a43e776/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "3084702091686c135631bed4e667fea375d8bf5070b1169b27360802ccb4d1c7"
+    },
+    {
+      "path": "kununu/bmedx-45119e49/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "62222e5d25bee41ae77c25a7a24d2a1cb9e3d40ef002efe66d8f449827f82ea5"
+    },
+    {
+      "path": "kununu/Buss-Port-Services-GmbH-fd674510/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "21491bca3e6da2eabdaea6fadde791c5277200ac2fde2cd63c421ec1aaab63d6"
+    },
+    {
+      "path": "kununu/CEEZER-Software-83ce8337/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "f3d6c165c1cee55b6a51d23da254f7bb549468e05b8559474b06688d64e619c4"
+    },
+    {
+      "path": "kununu/Centrient-Pharmaceuticals-82eaef83/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "0301492ebbbc5a73d4ba6df8be5309f8a0e76ed098df3d18ce516f9a58fc606d"
+    },
+    {
+      "path": "kununu/Charite-Research-Organisation-6f20409c/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "e25f7f85e82795f189aaf9102a5156dc57f64af79058a09d1d50cf857f23e404"
+    },
+    {
+      "path": "kununu/Comcross-ebb4ce09/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "958b77e9be14c858d6e82b999484361920bb0664e222034f131958f034d71e12"
+    },
+    {
+      "path": "kununu/constellr-4aa40ef0/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "52bdd6fb000c8b203ff4362b068e7dd37d964cb9f22c016c226bfd6e7404085a"
+    },
+    {
+      "path": "kununu/Cybertrading-GmbH-9ea8cb12/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "3edaf772c7bd7b0e4686729b113f347c323fe571a9aa5ded83ed2e99c7bfaaec"
+    },
+    {
+      "path": "kununu/Daiichi-Sankyo-Europe-fd95d50e/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "91360ccca9f1a231b8868226a7cbce0787fac7ec6d56761b0820553040a29408"
+    },
+    {
+      "path": "kununu/Deutsche-Pfandbriefbank-e7f3d2c4/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "21be10100749ab691831685b1d408692c43422a8a8d38bbb88ceaf1056a09e24"
+    },
+    {
+      "path": "kununu/Deutsche-R-ck-d5b4f190/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "31a0b6e9ed438a6f858120ceef28e6d2977dc6838f0488e2a152f804fab61277"
+    },
+    {
+      "path": "kununu/Diakonie-D-sseldorf-2b7acdf6/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "7f295f553b3daa31c754768c5afea176d4f8cbd9cebad7b8fd70414db0ad48f3"
+    },
+    {
+      "path": "kununu/Dr-Pfleger-Arzneimittel-ab3d2c1b/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "b6b38f6ed088dfb9a7f64804d2459db9f76634d1512e6d43064d4aeb6eea6238"
+    },
+    {
+      "path": "kununu/elderbrook-solutions-9b3a7ad0/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "32e1916bae73fd33a11f623eea48220a3d37c524a6e0e1db4af1d45ca49f4ec8"
+    },
+    {
+      "path": "kununu/Eurofiber-Netz-ca101010/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "ae8d9ead363375e933d33e60eed57050e191e9822daf9863e606aa738ff08bc4"
+    },
+    {
+      "path": "kununu/FINVIA-Family-Office-GmbH-8726f618/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "a406b6c02767938ce32ed2d7d9f5c4f6c5c9484efb67b09a61f35ba4b56236b9"
+    },
+    {
+      "path": "kununu/Finzelberg-3604eecd/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "af2096142a15a398dd792a47ac25a29611332d5a56eac54c7547f690be2a93dd"
+    },
+    {
+      "path": "kununu/Gerresheimer-B-nde-GmbH-89219cce/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "df2860d84f015db42c4458b01fcfda8278a043dc4e3d2fb584b6225ae7e28448"
+    },
+    {
+      "path": "kununu/Hamburg-Commercial-Bank-bed70406/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "c8324328f79c8570c361c3b1bf3004fe2f199425d35d27ef5d3690780dc4fc33"
+    },
+    {
+      "path": "kununu/Hasse-b9232a41/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "e9d0a6982aee9df23d504319b20d5990ed02310397bb87c43d0b9c1270ce6a0d"
+    },
+    {
+      "path": "kununu/Hermes-Deutschland-ee3a1575/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "d4692076743c34367296a80cba400cc555b59d14b77c8ea7ca2fb433ef0e3d37"
+    },
+    {
+      "path": "kununu/HERMES-PHARMA-f03bf4b2/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "4bb5683234f46c917a6efe8f36202b3e9bc79b3cfbc56dc9e5de95d572aacec8"
+    },
+    {
+      "path": "kununu/Ingentis-Softwareentwicklung-1bf884a2/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "f1f440c8e650c4812365f0b1ff4ebbf7422467401c193ba713597b28899ff3cf"
+    },
+    {
+      "path": "kununu/Klosterfrau-Healthcare-1f9eafae/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "3464b81587bad38f3536d849a93f69dcbaf59087d7fdedb2c3f6a8d6a9a13d2b"
+    },
+    {
+      "path": "kununu/KOB-6acc73f3/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "3a0ebe23be516acc30370cbe1373a47ba76924b0d9b06ae22084b99aecebf8f4"
+    },
+    {
+      "path": "kununu/Kreisverwaltung-des-Westerwaldkreises-ed6bb608/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "ae60c5a1bd129818212b09029f4d21a3ba156a1fce0e4af657d76f9ae28cfa17"
+    },
+    {
+      "path": "kununu/Kulzer-eab975bf/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "825612363ad15cb919254fe4a20b087d0435034e6fdb977c634fc23de72c7965"
+    },
+    {
+      "path": "kununu/Kyowa-Kirin-International-5b71de53/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "c65ffe80427d8de0ab5c544825077035695e3f81cc5892d510dd99133dc80e87"
+    },
+    {
+      "path": "kununu/LINK-e26ef190/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "4228b7f4e4cf81462d485b2e9e51bc8fc936fc0b9e30d35a6d4f4aa5a21712b7"
+    },
+    {
+      "path": "kununu/MAC-IT-Solutions-fcb73411/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "a22f6ecb3b74cf96ef8dc23861c339b55669c5fdf39e2f8c1d351393f3bb1c98"
+    },
+    {
+      "path": "kununu/MBS-Logistics-0396b8f9/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "cc3602f56ace014508f20600eb3277c1863cb5d1d71d6a41893b31d592b12923"
+    },
+    {
+      "path": "kununu/mediCAD-241a81f7/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "a7f7ed2597589389b10348b1a43345734ebce3ec9ef3685e938b46f03b6ea801"
+    },
+    {
+      "path": "kununu/Medicon-c17557a5/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "eac0bbacbb5398a657dfdd135b71270bd93d8ac44517a799ebe727171c164d08"
+    },
+    {
+      "path": "kununu/MSG-Systems-5bc73aa0/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "dd65042871c9588a26c8c9ad5c2a3e0064d8cc1e7e04fb46ea8b23769f1b9130"
+    },
+    {
+      "path": "kununu/N-RNBERGER-Versicherungsgruppe-4237d53f/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "af75ccb9f0a5370b36e0a62dec0c96dba3006c152511b587d4d9ea63ea371eb8"
+    },
+    {
+      "path": "kununu/Novaled-cfec40d3/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "7cef0bed3cf77a02a44d183c65a294339c03528ed873f1a4320715d3b2dd9b68"
+    },
+    {
+      "path": "kununu/otris-software-AG-5310ef0f/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "38834524dd7853dbca838f65e9db7f926cd044586dbd1374f88d7d4fee34f993"
+    },
+    {
+      "path": "kununu/OVB-MEDIA-9ed67fc1/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "5774161b71e0ddad2d2d758b94da1c13337acb0bb2ca40f2eb63021bcb5e143a"
+    },
+    {
+      "path": "kununu/Recor-Medical-63f8737a/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "141eb00f5d63b5e9c79f74a6b7e64bcce13171887edd3048e9d777badda4c87e"
+    },
+    {
+      "path": "kununu/REISSWOLF-Bayern-GmbH-3af42708/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "afe41461e17b5215eb462d584f5f67b3c05886f90e69de6ef35fd3e29ff5ecb3"
+    },
+    {
+      "path": "kununu/Resuscitec-6d490c85/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "4df125993520c4959ebbae71efda67e36dfdf9a2f91c6eae816d38de83f396bd"
+    },
+    {
+      "path": "kununu/Rosenberger-72f8c9db/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "3f46ebab8f66191fb235308b097e539eeb4b86bd2efa0e233bf19fc88a028343"
+    },
+    {
+      "path": "kununu/Scheidt-Bachmann-64c73604/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "b288d0ffa0c75fe475714f1e3882d59934ad0947d0b970808c753cecb4430d43"
+    },
+    {
+      "path": "kununu/Schoellershammer-c87237d3/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "e42c086f9b094e098c6362b16cf49b9eb763125737668b0e1cf6219755c2ef12"
+    },
+    {
+      "path": "kununu/sea-chefs-94a3b5ac/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "4fbc133965505820dd00bcc5f3ef7cdb720eb25d1c030d2e9a8789c369364e99"
+    },
+    {
+      "path": "kununu/SGL-Carbon-cd155304/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "ebb6b83f1a0916d7b39eae42245d13144b8b918eb9badf5b7e5282ca3fc00730"
+    },
+    {
+      "path": "kununu/simpleclub-ad0918ec/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "846788fef318c4e2a005ab37852e9dacbb694e77f2b451def92fe3707c583c5c"
+    },
+    {
+      "path": "kununu/Sinnwell-12299be5/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "ae07f5575738c49e3f7421eefc51a4f7f7c7db89bf7dc8b9261180541d51599c"
+    },
+    {
+      "path": "kununu/Sparkasse-Vest-7b1d9cca/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "c34cff1074edd1bb4f17099408149ef65332ff19190f6a6e3d68599b992fb0f3"
+    },
+    {
+      "path": "kununu/Stadt-K-ln-fe0037e7/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "4018194cf38a2799196ff1f33a66c2c64b1e4ecbc3d205242aefa487bc8200fc"
+    },
+    {
+      "path": "kununu/Taylor-Wessing-b5cb2cce/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "35bf776d732883714cbdbc8b49b9d7006fb738813da6d56b2908bf1e004e9f08"
+    },
+    {
+      "path": "kununu/tink-68efe261/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "d66db7049e7b534336b2f008db13d7cdfa3e1a1b8cad59b3fbe5a8a3b6398ed7"
+    },
+    {
+      "path": "kununu/welovepr-004f42ca/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "73a86033fd3c0d564c6b364d0e254f7d9ed10286bab3c8dbbc72f61ac04f8ab5"
+    },
+    {
+      "path": "kununu/WINDSTAR-MEDICAL-988bcbbe/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "de706f368ba51ba36b8482748e32a0535dcd0c1114a9ec11d8de2e5c41297c46"
+    },
+    {
+      "path": "kununu/XION-8033f08d/snapshot.json",
+      "kind": "kununu",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "83c62e771cbd9d082d09f88be9149da801a739b56df9259d767d59487f5badca"
+    },
+    {
+      "path": "unternehmensregister/Adlershorst-7e560485/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "781f3e1ed5603ee992a8c4289dcc8022375d8cb9808f9ad948bb5a3d8453ce06"
+    },
+    {
+      "path": "unternehmensregister/Adlershorst-7e560485/finanzberichte/publication-1/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "76e217b567b11bfdad7d260932a6439db39937db1826e1e2609cb64071c3390d"
+    },
+    {
+      "path": "unternehmensregister/Adlershorst-7e560485/finanzberichte/publication-2/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "4f3db42d53e6c6a8deef3e7c720878f9de7bf233e836f13a7246db51a99d1dad"
+    },
+    {
+      "path": "unternehmensregister/Adlershorst-7e560485/finanzberichte/publication-3/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "d5c61a61ee477d769711a289519e095f971ab62270e3606d8fccff7d745be66e"
+    },
+    {
+      "path": "unternehmensregister/Adlershorst-7e560485/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "3f13c32cfa3f46d463b7c4e6f8f83be9ee395e7bf3eddd9b353e1a3b1f0be398"
+    },
+    {
+      "path": "unternehmensregister/agido-4225e284/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "57a27779b24916007b1953698b2da6fa8ca22267e1037b5ad92198ce89e1885f"
+    },
+    {
+      "path": "unternehmensregister/agido-4225e284/finanzberichte/publication-1/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "17e620ea178ab8e7bb3ee840e1ed1198273afe648b3b85fcd29d917841e69158"
+    },
+    {
+      "path": "unternehmensregister/agido-4225e284/finanzberichte/publication-2/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "f81a19b99ef10d1808df4fdd3aa0fb52ba28def58886bdee584b055337caf385"
+    },
+    {
+      "path": "unternehmensregister/agido-4225e284/finanzberichte/publication-3/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "8f41c2fd178d49484337dbf62f3ab715a79e050894bb9f4ef07a63438cea2ca2"
+    },
+    {
+      "path": "unternehmensregister/agido-4225e284/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "c2de29f3ad56770e952c976d490952552298e7dd336a7b4c4b98dcd0bee3d2ca"
+    },
+    {
+      "path": "unternehmensregister/Allgeier-IT-Services-6be16c45/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "unternehmensregister/Allgeier-IT-Services-6be16c45/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "9e232569f7821ed2d5f5e8a98e94f3a9a12331a56dfbe9148509f17d810c0561"
+    },
+    {
+      "path": "unternehmensregister/Berg-Energie-5a43e776/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "unternehmensregister/Berg-Energie-5a43e776/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "58b705b6fb9ac7f3e1e97c758e7a67e80546711d71f40d4fc6cb8e7d8e740fcd"
+    },
+    {
+      "path": "unternehmensregister/bmedx-45119e49/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "unternehmensregister/bmedx-45119e49/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "87fbb4a6eeb0b854730e66cc40bef929792c3728164d85908cb10a6498e2255a"
+    },
+    {
+      "path": "unternehmensregister/Buss-Port-Services-GmbH-fd674510/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "12f48dde235b30f160317b7e34be132f370de4a3db48dd4bd208fe397f6697f3"
+    },
+    {
+      "path": "unternehmensregister/Buss-Port-Services-GmbH-fd674510/finanzberichte/publication-1/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "4cc642d004af7bde314b45bce49c9d9818ff397c7bc58fca4420afd5250a0676"
+    },
+    {
+      "path": "unternehmensregister/Buss-Port-Services-GmbH-fd674510/finanzberichte/publication-2/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "d2317f7fa60364ce9ed56792781c7d4a1b6ca9217c685f52edf9ad9c8433baa4"
+    },
+    {
+      "path": "unternehmensregister/Buss-Port-Services-GmbH-fd674510/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "792592ffc8824733729560f21957c7374b9ae0206dd926a032a3edb66458249d"
+    },
+    {
+      "path": "unternehmensregister/CEEZER-Software-83ce8337/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "10a9f4fef999ed68ca6adfcf81979e341b121611125e61f9e79a49beef82075c"
+    },
+    {
+      "path": "unternehmensregister/CEEZER-Software-83ce8337/finanzberichte/publication-1/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "b8d3948af70b6c0f7cd08a65eb9ab124f847924d41e0a81805e5d8c01ee51b96"
+    },
+    {
+      "path": "unternehmensregister/CEEZER-Software-83ce8337/finanzberichte/publication-2/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "c2aad8e73ffcaa758658273552b4af5d3f1832a933882a2afe0be98f81f66c6e"
+    },
+    {
+      "path": "unternehmensregister/CEEZER-Software-83ce8337/finanzberichte/publication-3/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "6f6a0cf975aab7177b58cbf766feb9fb907433b36701aec2cacdbf7f23a459bf"
+    },
+    {
+      "path": "unternehmensregister/CEEZER-Software-83ce8337/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "807305e303dc05caced566a1621ca395e3d281e243b94f0e0ebeecb76819bda9"
+    },
+    {
+      "path": "unternehmensregister/Centrient-Pharmaceuticals-82eaef83/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "unternehmensregister/Centrient-Pharmaceuticals-82eaef83/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "bc13e0bacab7ccb6d834ace8a84af5fd4fcf37ca9c2a8777a1ce3093c32dada9"
+    },
+    {
+      "path": "unternehmensregister/Charite-Research-Organisation-6f20409c/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "434e32d18d31890725497a10cdf8cc700ca156fcec3b857c473bb4680c3e3df3"
+    },
+    {
+      "path": "unternehmensregister/Charite-Research-Organisation-6f20409c/finanzberichte/publication-1/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "bfb350471f2b2f328bcb9ce45bf29612cb3e25609d08586a1a5b33ed20cfb7c5"
+    },
+    {
+      "path": "unternehmensregister/Charite-Research-Organisation-6f20409c/finanzberichte/publication-2/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "3dbe6519efa12c20d67ba2ef577e6235992e64c33f4ae2d6d8151782671cf2ab"
+    },
+    {
+      "path": "unternehmensregister/Charite-Research-Organisation-6f20409c/finanzberichte/publication-3/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "fd486298ed790f53f5baedefc18a51ab1c72cd2212a36029eec7544fbc9d1ef9"
+    },
+    {
+      "path": "unternehmensregister/Charite-Research-Organisation-6f20409c/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "c145c5352de099fb23062175566be2f0779d520cbbf61b19ce04e7133bf350ab"
+    },
+    {
+      "path": "unternehmensregister/Comcross-ebb4ce09/bekanntmachungen/publication-2/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "6daa03661c0f65eeca50a9c009dc814911fa730e1dda21db5b9e17ee95a98b6a"
+    },
+    {
+      "path": "unternehmensregister/Comcross-ebb4ce09/bekanntmachungen/publication-3/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "329622f4ca42ea5f0b555cbebe62b96f44c079ebda83f968c4eaebd3cb71a9fa"
+    },
+    {
+      "path": "unternehmensregister/Comcross-ebb4ce09/bekanntmachungen/publication-4/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "f5c3a9a2bfc553a5d8aba475011e1eb424d60e1076bd069ed28813dce10a1863"
+    },
+    {
+      "path": "unternehmensregister/Comcross-ebb4ce09/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "afca09361f59d1323eb18b7ea3d4a303cf7d042e25606cd367b95c6e03438860"
+    },
+    {
+      "path": "unternehmensregister/Comcross-ebb4ce09/finanzberichte/publication-1/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "29cefa53790d749f79ba16f83e9800336813eead141d11f2cacfb24ced1d66c5"
+    },
+    {
+      "path": "unternehmensregister/Comcross-ebb4ce09/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "9b6e9ce4c489127b922187956c8ff688561ffe143579b657c893486548ae4af8"
+    },
+    {
+      "path": "unternehmensregister/constellr-4aa40ef0/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "unternehmensregister/constellr-4aa40ef0/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "0b8c3a3f822dc77ba12873e3c1ceb3415e135b40f2ec69b18a96199895380935"
+    },
+    {
+      "path": "unternehmensregister/Cybertrading-GmbH-9ea8cb12/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "04af33bdbdbc929c281addf01b5b62c9de8c4daea1b4b337b9fe679a20abc197"
+    },
+    {
+      "path": "unternehmensregister/Cybertrading-GmbH-9ea8cb12/finanzberichte/publication-1/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "539c4c5591b77bb8314a624b977408e699c64c683b68adbbb91f95da9029ac95"
+    },
+    {
+      "path": "unternehmensregister/Cybertrading-GmbH-9ea8cb12/finanzberichte/publication-2/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "3d68a4694a42aaa3b198f4f33c952b35d98b4efb0cc759ac17dd887580698c14"
+    },
+    {
+      "path": "unternehmensregister/Cybertrading-GmbH-9ea8cb12/finanzberichte/publication-3/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "3c707df2ee46ca75e93042e0f0d2c6e389e47d3f8b80ce9651be94435f87ea6c"
+    },
+    {
+      "path": "unternehmensregister/Cybertrading-GmbH-9ea8cb12/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "c78877dec6a2cb9c0e4f5893aa6eec033569a6dbef83de32e8773d610c140ae5"
+    },
+    {
+      "path": "unternehmensregister/Daiichi-Sankyo-Europe-fd95d50e/bekanntmachungen/publication-2/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "a1b75ecf9846615be7b59dd658e3cd0963f12838849148f8808e9baba8cffef6"
+    },
+    {
+      "path": "unternehmensregister/Daiichi-Sankyo-Europe-fd95d50e/bekanntmachungen/publication-3/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "413dcf9fdf7a4ee41c04fe0bbafe49a2eb07dea04a99c789449ea518f4b37a69"
+    },
+    {
+      "path": "unternehmensregister/Daiichi-Sankyo-Europe-fd95d50e/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "699d309d0721a5788db94658b51a35cafb135ee2439bc9096af1eb8ba7896796"
+    },
+    {
+      "path": "unternehmensregister/Daiichi-Sankyo-Europe-fd95d50e/finanzberichte/publication-1/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "796bff1c290a0bd228562ef3c44d8e82ad9b88c1d56c1139d58c20578c342730"
+    },
+    {
+      "path": "unternehmensregister/Daiichi-Sankyo-Europe-fd95d50e/finanzberichte/publication-4/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "671740ece87913c565a04c1546705862fcda8be410f1e0738e6511a702cffb8d"
+    },
+    {
+      "path": "unternehmensregister/Daiichi-Sankyo-Europe-fd95d50e/finanzberichte/publication-5/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "bf42d95916ba1099c1e968301afd880c0e71cef8fc63858856e7d379af6b71e8"
+    },
+    {
+      "path": "unternehmensregister/Daiichi-Sankyo-Europe-fd95d50e/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "6a695719dc0b5fb18c098322da89b71e2576fc1f5f19bf7de4986bbaab759b78"
+    },
+    {
+      "path": "unternehmensregister/Deutsche-Pfandbriefbank-e7f3d2c4/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "unternehmensregister/Deutsche-Pfandbriefbank-e7f3d2c4/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "3a50bd0b6364bb4eeb0a6f382498868ecea713bdcc8d3b2b8ad5b23a66e4540b"
+    },
+    {
+      "path": "unternehmensregister/Deutsche-R-ck-d5b4f190/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "unternehmensregister/Deutsche-R-ck-d5b4f190/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "a9159181dd9aba58da7204a8d7655e1f2c3b13d918156751332ca1c3d969f9ae"
+    },
+    {
+      "path": "unternehmensregister/Diakonie-D-sseldorf-2b7acdf6/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "unternehmensregister/Diakonie-D-sseldorf-2b7acdf6/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "7f4fa25ea4e38c60fda7db43927ec98d3045d105560fe17987000f1e666f0b78"
+    },
+    {
+      "path": "unternehmensregister/Dr-Pfleger-Arzneimittel-ab3d2c1b/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "c0a52e0a13bf66ffb273a1076e194e2b699b28a74a253c1f90f119d4de615e1d"
+    },
+    {
+      "path": "unternehmensregister/Dr-Pfleger-Arzneimittel-ab3d2c1b/finanzberichte/publication-1/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "4b2f87a22ef1474378bf1e8c23cca81a58fab5c37d6800e127de1b332a5aabc7"
+    },
+    {
+      "path": "unternehmensregister/Dr-Pfleger-Arzneimittel-ab3d2c1b/finanzberichte/publication-2/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "bd77b67a8800188fbb8d60b5cdc69f94ab30296a54de021fd32bd41b0607d564"
+    },
+    {
+      "path": "unternehmensregister/Dr-Pfleger-Arzneimittel-ab3d2c1b/finanzberichte/publication-3/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "5e929757b36b121bee466ab17a08fe617b06b6d7e305e7ce15c491c8501e739b"
+    },
+    {
+      "path": "unternehmensregister/Dr-Pfleger-Arzneimittel-ab3d2c1b/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "1c48d6417a843b7f8d4b40d72751f59fb5eeb13ba065cd13f7ab3139b5ce2060"
+    },
+    {
+      "path": "unternehmensregister/elderbrook-solutions-9b3a7ad0/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "e739878654a3bde946b6357e7c52d3b683f0e44757acac6d2b47be1f79d1fb89"
+    },
+    {
+      "path": "unternehmensregister/elderbrook-solutions-9b3a7ad0/finanzberichte/publication-1/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "5ee09a30326c34639b6d54f1a185fe2a995a11c2bde814af7443300e0230d921"
+    },
+    {
+      "path": "unternehmensregister/elderbrook-solutions-9b3a7ad0/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "4b4dbfd1c415ddbcb43e271f3f5ae936ccec7c405f0e157b7697764c2e42455d"
+    },
+    {
+      "path": "unternehmensregister/Eurofiber-Netz-ca101010/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "unternehmensregister/Eurofiber-Netz-ca101010/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "1c85c84b3ac58b254b2e4a20946e077702de3a7af7dfa3a44a8610a04add6cff"
+    },
+    {
+      "path": "unternehmensregister/FINVIA-Family-Office-GmbH-8726f618/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "0f0003094477431d89656f1b40d39685cb264563e8f6cad59b6777d1075c5991"
+    },
+    {
+      "path": "unternehmensregister/FINVIA-Family-Office-GmbH-8726f618/finanzberichte/publication-1/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "381a8f44ac30902f7c05d6bfe487e5f3643b02fc57e2cde871de7a4b99b41c58"
+    },
+    {
+      "path": "unternehmensregister/FINVIA-Family-Office-GmbH-8726f618/finanzberichte/publication-2/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "f01a6b3781e19567529e17351dc47de3d1165932b74d2b9b0e0e6a96a7c3d1f4"
+    },
+    {
+      "path": "unternehmensregister/FINVIA-Family-Office-GmbH-8726f618/finanzberichte/publication-3/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "b79f0e05d47d4d99287be4566752d374a44d5c03da75209bae0bb39c4c79e11c"
+    },
+    {
+      "path": "unternehmensregister/FINVIA-Family-Office-GmbH-8726f618/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "3160b29d1f4eb81de7edd49fd4e057852db1657b9a343b73d508f7f0a21ddc45"
+    },
+    {
+      "path": "unternehmensregister/Finzelberg-3604eecd/bekanntmachungen/publication-1/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "775d591f98c43a09ffdd90ee24d3a14ce7226b66b398beff25d2a7278846224c"
+    },
+    {
+      "path": "unternehmensregister/Finzelberg-3604eecd/bekanntmachungen/publication-2/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "1fd061593d47efcf16fa17196385c7eaa9b4f87c43c1ce8a08682e2a340709c2"
+    },
+    {
+      "path": "unternehmensregister/Finzelberg-3604eecd/bekanntmachungen/publication-3/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "e91f3d82f1095d6375b8078235fcbd36ebfbc7a2877345ccd79c4335d13ebb86"
+    },
+    {
+      "path": "unternehmensregister/Finzelberg-3604eecd/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "75f83c84770e952f5a95ac4abfe40d433165b3dfc3100cc13e30a0dc2e903efe"
+    },
+    {
+      "path": "unternehmensregister/Finzelberg-3604eecd/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "ad25b68bc3b327f827996f4a58ef43119040b885a5c3e0828af89b6b120e34cd"
+    },
+    {
+      "path": "unternehmensregister/Gerresheimer-B-nde-GmbH-89219cce/bekanntmachungen/publication-1/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "9e77879924b3a4ab7aa6cf7d7e6462bc6015e6dbc5011d0602ec6ee7a1fd0fbb"
+    },
+    {
+      "path": "unternehmensregister/Gerresheimer-B-nde-GmbH-89219cce/bekanntmachungen/publication-2/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "06fb9334744972e1710f7b4264f0be5cc6a680db253f6a83ebde213585976dfd"
+    },
+    {
+      "path": "unternehmensregister/Gerresheimer-B-nde-GmbH-89219cce/bekanntmachungen/publication-3/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "06fb9334744972e1710f7b4264f0be5cc6a680db253f6a83ebde213585976dfd"
+    },
+    {
+      "path": "unternehmensregister/Gerresheimer-B-nde-GmbH-89219cce/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "debddd54be44818373f6b1453ced43d6f079128665e037c6480129ba5c05d083"
+    },
+    {
+      "path": "unternehmensregister/Gerresheimer-B-nde-GmbH-89219cce/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "d48874c36c80fbb48fdc0662605ae60abce0f69048d11c27013ce96bf51c3115"
+    },
+    {
+      "path": "unternehmensregister/Hamburg-Commercial-Bank-bed70406/bekanntmachungen/publication-1/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "45f4f6a5369aa28c990a41aad1cd72dc258a57e6fdc556cef4052866dbf64905"
+    },
+    {
+      "path": "unternehmensregister/Hamburg-Commercial-Bank-bed70406/bekanntmachungen/publication-2/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "f196d867c22527a9523c6223b5ed3997d06db46066761382263142af9ffee3d2"
+    },
+    {
+      "path": "unternehmensregister/Hamburg-Commercial-Bank-bed70406/bekanntmachungen/publication-3/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "3ad1e869d5655092ab4757668ce4c9fafa11ad1b286e40c0a408471ea354b914"
+    },
+    {
+      "path": "unternehmensregister/Hamburg-Commercial-Bank-bed70406/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "562b16077a36ca97c0a75111197fc2c3b4f3926f4f654526c47b8bf8d6e82507"
+    },
+    {
+      "path": "unternehmensregister/Hamburg-Commercial-Bank-bed70406/finanzberichte/publication-25/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "fe34ed2a07f51edeed28dd11bcf5afd7d2ba22d7dff767f7f77293ade3e2a75b"
+    },
+    {
+      "path": "unternehmensregister/Hamburg-Commercial-Bank-bed70406/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "f90b5ef570fa699616bb47a0de0d7b5bc0efd9c05cda4beb02a62537e00e86bb"
+    },
+    {
+      "path": "unternehmensregister/Hasse-b9232a41/bekanntmachungen/publication-1/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "1878246f505c5aa14311397f83bda0d19f331d500ecfd6a8fa13299d89298d29"
+    },
+    {
+      "path": "unternehmensregister/Hasse-b9232a41/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "fc69bb87bb8cad8cb6c25736089a9b6605031e4d11521cc9e9d7ee9c50a25727"
+    },
+    {
+      "path": "unternehmensregister/Hasse-b9232a41/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "ad17e3b0044d266ebdac2aafea1b7e09d8bb1258fc3c50f7d75e770a2cdd0039"
+    },
+    {
+      "path": "unternehmensregister/Hermes-Deutschland-ee3a1575/bekanntmachungen/publication-1/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "45059ec9410b3df0c15d1972a4455896b83a7cbcf14ad07764075a28e79d0945"
+    },
+    {
+      "path": "unternehmensregister/Hermes-Deutschland-ee3a1575/bekanntmachungen/publication-2/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "fd2b609bc996397adeafa60c40976ce0a736cba3ed7db6bd36d895741c8d4c8a"
+    },
+    {
+      "path": "unternehmensregister/Hermes-Deutschland-ee3a1575/bekanntmachungen/publication-3/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "bb1e6f63b60260bdf65b797eaa79be38113b587854c723ac9cc1c22808a455f1"
+    },
+    {
+      "path": "unternehmensregister/Hermes-Deutschland-ee3a1575/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "4e1163026e723af9546cc01debe2bb57aca105dccd45d10a3e3830a7bbcd84af"
+    },
+    {
+      "path": "unternehmensregister/Hermes-Deutschland-ee3a1575/finanzberichte/publication-11/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "456ea364e37492f8eca1afb3814e4062d9b3b94c7ad7130856c160ad2a6a1bd8"
+    },
+    {
+      "path": "unternehmensregister/Hermes-Deutschland-ee3a1575/finanzberichte/publication-5/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "622fb7582b3d571edf735791ed6d1f6f2ffcb0df4b9166e61b6545cf8125dd08"
+    },
+    {
+      "path": "unternehmensregister/Hermes-Deutschland-ee3a1575/finanzberichte/publication-9/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "dfb815cc926d99d3f00c58ca7533a6e7439901c01c9ee4817af3b619eafbe24e"
+    },
+    {
+      "path": "unternehmensregister/Hermes-Deutschland-ee3a1575/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "70ab805e20799aa17636d48f166b7165e849e9d4861ce55ac5550dd92c76ef1c"
+    },
+    {
+      "path": "unternehmensregister/HERMES-PHARMA-f03bf4b2/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "unternehmensregister/HERMES-PHARMA-f03bf4b2/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "19b19aa367cf4414b4de9ab335d61cad1e1b1f25e4c432796970042f394a30fb"
+    },
+    {
+      "path": "unternehmensregister/Ingentis-Softwareentwicklung-1bf884a2/bekanntmachungen/publication-5/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "f2e464f3e2f8eb2fcfd8790b67c71fe013bac1bb3b35abcbfba83aa7cf6e0a4f"
+    },
+    {
+      "path": "unternehmensregister/Ingentis-Softwareentwicklung-1bf884a2/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "3b4398b138b60ee5dc601e48c5f4c7dc77431e74047704dd199f0b8af289cd29"
+    },
+    {
+      "path": "unternehmensregister/Ingentis-Softwareentwicklung-1bf884a2/finanzberichte/publication-1/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "cbe5804f1f3f1a8d6027d1a005259fbe8515936d2035b1f40b5877236a8a9591"
+    },
+    {
+      "path": "unternehmensregister/Ingentis-Softwareentwicklung-1bf884a2/finanzberichte/publication-2/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "84be7bca4ab2ae0d658ca8d6965a0301ad04ae065ebe36a1b775f8f5f96b203b"
+    },
+    {
+      "path": "unternehmensregister/Ingentis-Softwareentwicklung-1bf884a2/finanzberichte/publication-3/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "d9f79d86f2f2a0fd7e67a8b877b728f3e9fc2199a63fffd45185fde9272a3cce"
+    },
+    {
+      "path": "unternehmensregister/Ingentis-Softwareentwicklung-1bf884a2/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "e81351825d48a1a2747d52350401064c41f2c7cd9304345faf2b9b69c80c3a5e"
+    },
+    {
+      "path": "unternehmensregister/Klosterfrau-Healthcare-1f9eafae/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "unternehmensregister/Klosterfrau-Healthcare-1f9eafae/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "509e8197ef47ddfc576acb67fb4c1fe8d011681930f73b0374b543a4748aeadd"
+    },
+    {
+      "path": "unternehmensregister/KOB-6acc73f3/bekanntmachungen/publication-1/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "7da196e51868e238598f84d3d069901b02b692d6c4dcdfe779608f80a7910434"
+    },
+    {
+      "path": "unternehmensregister/KOB-6acc73f3/bekanntmachungen/publication-2/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "b0d09637e774930ebb19323fb00b93702d09ea2da2564fde60ff784973831607"
+    },
+    {
+      "path": "unternehmensregister/KOB-6acc73f3/bekanntmachungen/publication-3/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "b4c34607af0edbe8ad964e724f0068e98676d439ef6520d24ec73f8af3c62597"
+    },
+    {
+      "path": "unternehmensregister/KOB-6acc73f3/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "492decd434446ed5c72543f05c80f5766538f070f1e02aebb9876f94377e8db6"
+    },
+    {
+      "path": "unternehmensregister/KOB-6acc73f3/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "0fe40a3a99cf1587dac1c577cf8ad1cc04fe56e393c399f1a362c27a21841711"
+    },
+    {
+      "path": "unternehmensregister/Kreisverwaltung-des-Westerwaldkreises-ed6bb608/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "unternehmensregister/Kreisverwaltung-des-Westerwaldkreises-ed6bb608/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "f5ec33460a05a1601f874d78f7abe760f82cd30bd8d945c43601d7032daebaba"
+    },
+    {
+      "path": "unternehmensregister/Kulzer-eab975bf/bekanntmachungen/publication-1/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "0b219a60ce448519408195969f21f921708941031fb49cf16a8f8178419f4c01"
+    },
+    {
+      "path": "unternehmensregister/Kulzer-eab975bf/bekanntmachungen/publication-2/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "2587353b1ea14e2fb952d9b1d665457ad9f396686228c2fd0e1e25650277e832"
+    },
+    {
+      "path": "unternehmensregister/Kulzer-eab975bf/bekanntmachungen/publication-4/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "b0eb82151480314cadf1403ca1751324cc7936d2573359cea92e2a0e82cd85ec"
+    },
+    {
+      "path": "unternehmensregister/Kulzer-eab975bf/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "4fe951f33373417f2c5a866fc6e723d2e9c9223c7e12898d4af454c0c4dc60f2"
+    },
+    {
+      "path": "unternehmensregister/Kulzer-eab975bf/finanzberichte/publication-3/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "f359a3eb4b475bd74c7ca00ede1897067e1e8a811676ea4e0724414bd386c2da"
+    },
+    {
+      "path": "unternehmensregister/Kulzer-eab975bf/finanzberichte/publication-6/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "e5717ca80eb4fdb18b242df0f21385bc45a6d657c60926be3d8ce4016d3aaac8"
+    },
+    {
+      "path": "unternehmensregister/Kulzer-eab975bf/finanzberichte/publication-9/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "2291bf9e2446f5a7ca7fefec85fb1bdab68a6d66ef0ee5b7c7c62202220eae0e"
+    },
+    {
+      "path": "unternehmensregister/Kulzer-eab975bf/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "9d333c1294b32eb7ca48c8c585652b0b74c7bad47729179414e443d5c3ddb977"
+    },
+    {
+      "path": "unternehmensregister/Kyowa-Kirin-International-5b71de53/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "68f3f36ec0b012af1d3cbec6193c03415dd95a10376a8a186dfbad9e09decd04"
+    },
+    {
+      "path": "unternehmensregister/Kyowa-Kirin-International-5b71de53/finanzberichte/publication-1/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "7e8224714353919f4fccbdb19e82ff86a9f19f7644c7a3225a6b6ceb21089714"
+    },
+    {
+      "path": "unternehmensregister/Kyowa-Kirin-International-5b71de53/finanzberichte/publication-2/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "659c1c2a23595a5e61324ab3279fe75a401024d342f8540de490a187b760c2e7"
+    },
+    {
+      "path": "unternehmensregister/Kyowa-Kirin-International-5b71de53/finanzberichte/publication-3/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "9d545de6b5d022909a8a190e0137089b0785b387835e72561f1b9d0adfa99b34"
+    },
+    {
+      "path": "unternehmensregister/Kyowa-Kirin-International-5b71de53/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "ac5266f9fd4e19561fc975542771fc6668c345c8006d62032382a25258ccb2cb"
+    },
+    {
+      "path": "unternehmensregister/LINK-e26ef190/bekanntmachungen/publication-1/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "69ab30a501c2f3f20237ca46698e27539c0df3dc5c7beb3bde88b07634022bc9"
+    },
+    {
+      "path": "unternehmensregister/LINK-e26ef190/bekanntmachungen/publication-2/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "5f9c1b3f4bea713b4710daa191db59032274d634df0d38fb69b7f8edd9f0d138"
+    },
+    {
+      "path": "unternehmensregister/LINK-e26ef190/bekanntmachungen/publication-3/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "bd99a3676d89146cd9b29433584f6df1936b31b3bc9930e76a3a0b1c8aa470a6"
+    },
+    {
+      "path": "unternehmensregister/LINK-e26ef190/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "692bd0b9798ec5a3cde7e9938ba21d0c1da3796227cb6fae2ba097c05a328233"
+    },
+    {
+      "path": "unternehmensregister/LINK-e26ef190/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "bb16ddc860c688783e37ed17cdac27b765e294b73eac719ea88870ad963a1a6f"
+    },
+    {
+      "path": "unternehmensregister/MAC-IT-Solutions-fcb73411/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "e9d6871cffff99e0df271c664e9748ea1e8cb3d4272e733c49ccba7895ab07b5"
+    },
+    {
+      "path": "unternehmensregister/MAC-IT-Solutions-fcb73411/finanzberichte/publication-1/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "0e7a0fa1f45479e14f9c7bbe5124bcdb06b70131ea2feb0e747626e0d2ef25c7"
+    },
+    {
+      "path": "unternehmensregister/MAC-IT-Solutions-fcb73411/finanzberichte/publication-2/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "522605f503f6528f1b133ba5fa45a86e6e0703d10091e45fe36ed1454f8cd0ae"
+    },
+    {
+      "path": "unternehmensregister/MAC-IT-Solutions-fcb73411/finanzberichte/publication-3/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "256b5b78b1efa93e758c69ed65ed343084761cab05efd37381f02804c4493d8b"
+    },
+    {
+      "path": "unternehmensregister/MAC-IT-Solutions-fcb73411/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "bc5358e8ffff4236681bc2997cd16d15b508d8a0fefeebe2f617c878215e208c"
+    },
+    {
+      "path": "unternehmensregister/MBS-Logistics-0396b8f9/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "b4142dbe4d24941c5f0b3505a1ddd273b70a427248a4dcd686fec3e34fd5794e"
+    },
+    {
+      "path": "unternehmensregister/MBS-Logistics-0396b8f9/finanzberichte/publication-1/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "0cd4d85a5f4818c96266884c049cc18920a81af2a0a5a71db4ddaa51c3d3d94e"
+    },
+    {
+      "path": "unternehmensregister/MBS-Logistics-0396b8f9/finanzberichte/publication-2/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "2456c5e1162e7769ec430c6eed9eb09c96dee408dc3e6d991ae531a484709a73"
+    },
+    {
+      "path": "unternehmensregister/MBS-Logistics-0396b8f9/finanzberichte/publication-3/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "f7f45adc1d5a4edb6992cfadfa920891d1b51b9371596248efd13bfc9ca7ec45"
+    },
+    {
+      "path": "unternehmensregister/MBS-Logistics-0396b8f9/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "254eae150efc06b649da3d91b2426bf11d4cba0537154bf6968ca497406ce007"
+    },
+    {
+      "path": "unternehmensregister/mediCAD-241a81f7/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "unternehmensregister/mediCAD-241a81f7/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "65a7ee38034e68abae57d4dd89fc8802c1cc86bacbed422bfcb7c9a5cdd41906"
+    },
+    {
+      "path": "unternehmensregister/Medicon-c17557a5/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "c5fcda2b25f1b209267942f8caac9781623e85a220682f19dfb6f3670e87bfc5"
+    },
+    {
+      "path": "unternehmensregister/Medicon-c17557a5/finanzberichte/publication-1/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "2401ea513e5e7127ab45e18bea50d4e71920af1fe48ef4961e31605ebb96c0d1"
+    },
+    {
+      "path": "unternehmensregister/Medicon-c17557a5/finanzberichte/publication-2/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "3af9f3bcf44836fbaaaf35b01174956c49d66c34badebb609850d1c3208a69a5"
+    },
+    {
+      "path": "unternehmensregister/Medicon-c17557a5/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "54f4db4749db0c2a8b3f2e6b5589bb6f340488a3d9f9f73ab608b8c398927c3f"
+    },
+    {
+      "path": "unternehmensregister/MSG-Systems-5bc73aa0/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "unternehmensregister/MSG-Systems-5bc73aa0/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "e7663b065d4c2597a81cdd3e0e3abb1ec83cc8b8c06cedad2ab908cf0773cd05"
+    },
+    {
+      "path": "unternehmensregister/N-RNBERGER-Versicherungsgruppe-4237d53f/bekanntmachungen/publication-3/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "397c3a071b3c8aff112d5d9c6798ffb3ef33fd2dc98c6b601437b38a88d8540f"
+    },
+    {
+      "path": "unternehmensregister/N-RNBERGER-Versicherungsgruppe-4237d53f/bekanntmachungen/publication-4/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "071f2cebcdffe99e5fd9ab5524c106925d839bd03ff0b7f39e78dbe139cc0d39"
+    },
+    {
+      "path": "unternehmensregister/N-RNBERGER-Versicherungsgruppe-4237d53f/bekanntmachungen/publication-5/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "589510f4bbca935842808f024d5cbb566552c7786eabdb16e676296f15b13e27"
+    },
+    {
+      "path": "unternehmensregister/N-RNBERGER-Versicherungsgruppe-4237d53f/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "dc644e0e710622f4879eb444db68818f6048d0205ce27a5878c8412b36941b3e"
+    },
+    {
+      "path": "unternehmensregister/N-RNBERGER-Versicherungsgruppe-4237d53f/finanzberichte/publication-1/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "cdd9ded7344dee1a1a83cd1e493cd844afcaa5a9539c63fb841a26252d442507"
+    },
+    {
+      "path": "unternehmensregister/N-RNBERGER-Versicherungsgruppe-4237d53f/finanzberichte/publication-2/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "cac014a8911e78e4bbc17825e13e0034e44fc188d29b8dba3ceac0bf00b589a6"
+    },
+    {
+      "path": "unternehmensregister/N-RNBERGER-Versicherungsgruppe-4237d53f/finanzberichte/publication-25/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "cceaa380a9457048420f9041fd0c8e0ef16dfce0a2bbb2a0d3c63ad33a985afe"
+    },
+    {
+      "path": "unternehmensregister/N-RNBERGER-Versicherungsgruppe-4237d53f/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "a0f78cc9b7f029e176b592c6e3e98d3cbffeb2b8fac8faafefe2f7d10bd8547b"
+    },
+    {
+      "path": "unternehmensregister/Novaled-cfec40d3/bekanntmachungen/publication-3/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "557600eb4866f448000d5107d8e8aee275757ef8b50dd2ce832c52a93d3542ce"
+    },
+    {
+      "path": "unternehmensregister/Novaled-cfec40d3/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "7121fc04c6fcdc36f7d2180553f805165287dc399989e720ae55812eb42e0a42"
+    },
+    {
+      "path": "unternehmensregister/Novaled-cfec40d3/finanzberichte/publication-1/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "3deb13141dffdef442fd9dbeefd2b6ced514b1184cb975ac2b1c24a52d0c2e2f"
+    },
+    {
+      "path": "unternehmensregister/Novaled-cfec40d3/finanzberichte/publication-2/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "5e6388c8e643005cdee7072389fc8489e2b866c94025800af057bf64a94f51b6"
+    },
+    {
+      "path": "unternehmensregister/Novaled-cfec40d3/finanzberichte/publication-4/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "03e531ffd490b30ae5d4e7994a3d58bd3352239beeb32a4811a3f247d1f507b6"
+    },
+    {
+      "path": "unternehmensregister/Novaled-cfec40d3/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "ed7bb6f8f4a04a373fbd1c8829f915a7583aedb7b1fa72889326a2ba9f6680be"
+    },
+    {
+      "path": "unternehmensregister/otris-software-AG-5310ef0f/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "f6901b2154ebca06f6c81530d36ff8cae2ec97633ef041136690304521fe5d5e"
+    },
+    {
+      "path": "unternehmensregister/otris-software-AG-5310ef0f/finanzberichte/publication-1/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "c4de280015e61458afd8dbe4a916344f76ec3213759fea598196ecf6f9b92a37"
+    },
+    {
+      "path": "unternehmensregister/otris-software-AG-5310ef0f/finanzberichte/publication-2/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "ca24d29ae47238fba9e890328391b35ef04d734d382cba2a63692c247edfac0d"
+    },
+    {
+      "path": "unternehmensregister/otris-software-AG-5310ef0f/finanzberichte/publication-3/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "9b946410e058619cd27e3ea031409993b2ce196453acbc4cb3dca2e21c6d2cfa"
+    },
+    {
+      "path": "unternehmensregister/otris-software-AG-5310ef0f/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "543b43f94f0ce294ca8f91e16c90a7bc6229258ff5722bacc634980c9d3064df"
+    },
+    {
+      "path": "unternehmensregister/OVB-MEDIA-9ed67fc1/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "unternehmensregister/OVB-MEDIA-9ed67fc1/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "2bdcf16b2cdd9b7524c6ce69981dbb539effb2e8c679f5bc1cb26ae39532b0c1"
+    },
+    {
+      "path": "unternehmensregister/Recor-Medical-63f8737a/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "01d79f63903eb69bb534464ca185105295b26b50aa004c9f44b11d2a5c6b6909"
+    },
+    {
+      "path": "unternehmensregister/Recor-Medical-63f8737a/finanzberichte/publication-1/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "f5772a443c600453fed1e2bec8d78a19563d8b40b6ab6a0e5954a4450e2c27b2"
+    },
+    {
+      "path": "unternehmensregister/Recor-Medical-63f8737a/finanzberichte/publication-2/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "fe0c75295935484bfcdc65fb5faa639bfa690af58322404b3622df6828dfd7da"
+    },
+    {
+      "path": "unternehmensregister/Recor-Medical-63f8737a/finanzberichte/publication-3/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "1248a5ab101be8aa60e6ccbe65bb3bca3524b452b5e04d34d24ee019e3168694"
+    },
+    {
+      "path": "unternehmensregister/Recor-Medical-63f8737a/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "b7886e605f699a506be2e48d133e17b804242c8908da5b839d95af01e9c363a6"
+    },
+    {
+      "path": "unternehmensregister/REISSWOLF-Bayern-GmbH-3af42708/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "unternehmensregister/REISSWOLF-Bayern-GmbH-3af42708/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "a9f61b779e208a097e87f884b5d494a2e73e4c8c7f73e0836417f98593447e2a"
+    },
+    {
+      "path": "unternehmensregister/Resuscitec-6d490c85/bekanntmachungen/publication-2/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "32b1c4953f837ce96e67941c1f09288cc64b46309009ac201b8118d479083757"
+    },
+    {
+      "path": "unternehmensregister/Resuscitec-6d490c85/bekanntmachungen/publication-3/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "758fdcdb449804a31886631f3ad34170ff97d907b800c66ce75929b0228063d8"
+    },
+    {
+      "path": "unternehmensregister/Resuscitec-6d490c85/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "2a90b8ff7aa7635dd66b63755d55d2eda321a8da4541f0e871c4e6e919b9f608"
+    },
+    {
+      "path": "unternehmensregister/Resuscitec-6d490c85/finanzberichte/publication-1/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "477cff358f0d86039b7f960dec6857c718c9d902e75a77cd21c00748c9b8fcf8"
+    },
+    {
+      "path": "unternehmensregister/Resuscitec-6d490c85/finanzberichte/publication-4/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "398c75a073934df50f432674e9f175e48416610d6cac7e9ca1e1b62e8da6e2ba"
+    },
+    {
+      "path": "unternehmensregister/Resuscitec-6d490c85/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "48170bd4a481b588cc23677047cb6e2ce5e38d32aee2d00b409c132ae2beb148"
+    },
+    {
+      "path": "unternehmensregister/Rosenberger-72f8c9db/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "72f6ae029db7e037f06f0883d42a2ca03e8cde385818e635ce1ebfcabf0b1dc1"
+    },
+    {
+      "path": "unternehmensregister/Rosenberger-72f8c9db/finanzberichte/publication-1/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "ebb8e79eda209e585c49111ffe7db405eda734ab80881e83219b2ec7b821b84d"
+    },
+    {
+      "path": "unternehmensregister/Rosenberger-72f8c9db/finanzberichte/publication-2/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "c411b47393130247b052825c5030fad14e2409172923938b785a0885e23cbdc2"
+    },
+    {
+      "path": "unternehmensregister/Rosenberger-72f8c9db/finanzberichte/publication-3/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "8cde7f8395f886770665309fc34d6cea9b41eb7007b7885788a627b661f89d49"
+    },
+    {
+      "path": "unternehmensregister/Rosenberger-72f8c9db/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "dbe2a10ede7e71412625fc8947188c04855f954fba81af7e0803242131f9dbdc"
+    },
+    {
+      "path": "unternehmensregister/Scheidt-Bachmann-64c73604/bekanntmachungen/publication-1/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "953b61842730aaf3beac296edb509f0d53d47b0d138b7ca7afade256ad9cbcab"
+    },
+    {
+      "path": "unternehmensregister/Scheidt-Bachmann-64c73604/bekanntmachungen/publication-2/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "9ec414ee06191a45089f314efdfc85355140a26c60364c8b20ee3b3e532f6faa"
+    },
+    {
+      "path": "unternehmensregister/Scheidt-Bachmann-64c73604/bekanntmachungen/publication-3/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "8e793d3c8c5bb1400271a4a7669006a098783291b0fab7f2b4679900d5f1c979"
+    },
+    {
+      "path": "unternehmensregister/Scheidt-Bachmann-64c73604/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "00aef3e065c0ab43e09908093103ca43e8f5501115c15bc1be505120807d9e38"
+    },
+    {
+      "path": "unternehmensregister/Scheidt-Bachmann-64c73604/finanzberichte/publication-10/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "9e8809ca1e2802576e51fe196c868e5fa27842fe9f94b607974a8eaa5a454bd1"
+    },
+    {
+      "path": "unternehmensregister/Scheidt-Bachmann-64c73604/finanzberichte/publication-11/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "0edec6a13ae5fb2bd55dd1cedb710af6a7537453bd309b96e26cee7971bf3b20"
+    },
+    {
+      "path": "unternehmensregister/Scheidt-Bachmann-64c73604/finanzberichte/publication-21/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "0953a784d7af3e9b5e1be91a51ecc02b5aa2a2ba8edc31f02dd8aa9f0e185ac3"
+    },
+    {
+      "path": "unternehmensregister/Scheidt-Bachmann-64c73604/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "ddd0dbcc5742520cea1a216ea1a8ef1513f363671eba27535938a874106342b9"
+    },
+    {
+      "path": "unternehmensregister/Schoellershammer-c87237d3/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "91ebfe34353885bd7c5b373266567c45f2644c9a0d3f966ef599d610a571fa90"
+    },
+    {
+      "path": "unternehmensregister/Schoellershammer-c87237d3/finanzberichte/publication-1/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "f1adaf56ec1304c626104aacb199b42f96ddede07f1ba9a3d16c03b461a69d1d"
+    },
+    {
+      "path": "unternehmensregister/Schoellershammer-c87237d3/finanzberichte/publication-2/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "f0c559585f7cd5f02f3c4cd3e9b8916326f8fb9e8c1c65a88095066d0ce3b4c5"
+    },
+    {
+      "path": "unternehmensregister/Schoellershammer-c87237d3/finanzberichte/publication-3/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "1a6c389f1a4f609f7e948d09967243958d95eea0e29262ebe06e0eeb6c5df248"
+    },
+    {
+      "path": "unternehmensregister/Schoellershammer-c87237d3/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "efc2c6115d78d7ef9d53a3bb84f5be0a20c1bd9d6d572557a3304bbddc64bea6"
+    },
+    {
+      "path": "unternehmensregister/sea-chefs-94a3b5ac/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "892774b97ae50f37d29753197135edfb222ba113308c1fdd19114842568990d7"
+    },
+    {
+      "path": "unternehmensregister/sea-chefs-94a3b5ac/finanzberichte/publication-1/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "03152fe9510e758dcb449934e1b54dd179913602327bc2b52ab3dbc7b3fbe8aa"
+    },
+    {
+      "path": "unternehmensregister/sea-chefs-94a3b5ac/finanzberichte/publication-2/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "db71196fd4dce113d5b67b2e4d24e35c1814ef6e71ac6e48abb8b78dc5118db8"
+    },
+    {
+      "path": "unternehmensregister/sea-chefs-94a3b5ac/finanzberichte/publication-3/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "593fe0b1100365a8a905141fe38893ad4fad76e82132a1963b75725ea8044aa1"
+    },
+    {
+      "path": "unternehmensregister/sea-chefs-94a3b5ac/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "85399616805b7c3de9e30b3be35c8615dfe3d32b6eceec30c0a8c020c3912e55"
+    },
+    {
+      "path": "unternehmensregister/SGL-Carbon-cd155304/bekanntmachungen/publication-3/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "a27aef4288a2476d15784ff6c65f76a2e9ede8677536b5af3306a9578f9ad65b"
+    },
+    {
+      "path": "unternehmensregister/SGL-Carbon-cd155304/bekanntmachungen/publication-4/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "4403fac568db78ba089fdfdc110b5821c18cf79c8b3638b551f4f91ccbfef99e"
+    },
+    {
+      "path": "unternehmensregister/SGL-Carbon-cd155304/bekanntmachungen/publication-5/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "3e69b35600e78ebf4d578f39476961ff8dde3e65be49f9d79c703acc178ede28"
+    },
+    {
+      "path": "unternehmensregister/SGL-Carbon-cd155304/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "245888427d020021f217b432d6ab26d01de93add03fae8a5c6d0cec928747141"
+    },
+    {
+      "path": "unternehmensregister/SGL-Carbon-cd155304/finanzberichte/publication-1/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "de613b0912f60e4af7273247283a49a372e3060ffa2dc8f80df224890ccc337e"
+    },
+    {
+      "path": "unternehmensregister/SGL-Carbon-cd155304/finanzberichte/publication-2/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "7d60338c87350008b0eb2904d86afb5114c1bb4e9517258d64bf7b177b7c7e20"
+    },
+    {
+      "path": "unternehmensregister/SGL-Carbon-cd155304/finanzberichte/publication-9/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "bf8cfdf58008e5242f1422e68df7c30d0d658c6bc16a12ba9ae0e22e910d9df9"
+    },
+    {
+      "path": "unternehmensregister/SGL-Carbon-cd155304/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "adbf8a463f66cce69aa9dd1f02db4a6d242036af83aeb4d9ccc6ff59e3e45021"
+    },
+    {
+      "path": "unternehmensregister/simpleclub-ad0918ec/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "unternehmensregister/simpleclub-ad0918ec/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "e6796e93b8e3580f15d1b4641bc223e6cab377d915a2e466b551a61ff74d5284"
+    },
+    {
+      "path": "unternehmensregister/Sinnwell-12299be5/bekanntmachungen/publication-1/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "044212e8f520925bf6a52140d8e8757373683acced4f96ffa954f801d6187270"
+    },
+    {
+      "path": "unternehmensregister/Sinnwell-12299be5/bekanntmachungen/publication-2/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "058234fec1327a22c1d5918982c5d357f94ad092d5e2a56cece04f6a2c85bc23"
+    },
+    {
+      "path": "unternehmensregister/Sinnwell-12299be5/bekanntmachungen/publication-3/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "413dcf9fdf7a4ee41c04fe0bbafe49a2eb07dea04a99c789449ea518f4b37a69"
+    },
+    {
+      "path": "unternehmensregister/Sinnwell-12299be5/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "13bd7295b3bd254ada63261b53cfe499ca38dcc34fe206ccc890e1bde9b01c23"
+    },
+    {
+      "path": "unternehmensregister/Sinnwell-12299be5/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "98b9d3041ae306e256f06070925ebcac798fa954fd2f1f1254ffe9ccf851f810"
+    },
+    {
+      "path": "unternehmensregister/Sparkasse-Vest-7b1d9cca/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "2391d2781d95084ba72de99d93dcf8f4dcb5c6bb240bce87c2655b6586b84714"
+    },
+    {
+      "path": "unternehmensregister/Sparkasse-Vest-7b1d9cca/finanzberichte/publication-1/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "bdef3f904876f059a9875fa7024c9d2c7623abe592e44686a82afe1ca4f238fb"
+    },
+    {
+      "path": "unternehmensregister/Sparkasse-Vest-7b1d9cca/finanzberichte/publication-2/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "0fea756189a6ce14e35f783d94c1d0b5658c770609c6726c734810105180f1e7"
+    },
+    {
+      "path": "unternehmensregister/Sparkasse-Vest-7b1d9cca/finanzberichte/publication-3/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "36c76370d30fadf5e58c68b869bfc8de00e00f2a7405db858867209b3328eff0"
+    },
+    {
+      "path": "unternehmensregister/Sparkasse-Vest-7b1d9cca/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "f9e14e2e98a7bd37d543876282d2290c3613767baec517ec77678d9bcd072c21"
+    },
+    {
+      "path": "unternehmensregister/Stadt-K-ln-fe0037e7/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "f0e25fd0d8555b5a8ecfcf765f6395affba39db4e47c01f2302d461c80cd6abc"
+    },
+    {
+      "path": "unternehmensregister/Stadt-K-ln-fe0037e7/finanzberichte/publication-1/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "2c73d72e8402c12f9a8861703eeab06a93044b5762d85a4a18bddd488a12c3a9"
+    },
+    {
+      "path": "unternehmensregister/Stadt-K-ln-fe0037e7/finanzberichte/publication-2/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "fce38e5dcd94aa44978a2f9997f5f08e4d684b6f88870fc98e2f57efc69cfee5"
+    },
+    {
+      "path": "unternehmensregister/Stadt-K-ln-fe0037e7/finanzberichte/publication-3/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "9824a94a601eb2f5dbd896adff1b43e424a551200124ed5831a8a0f1f5dc99e8"
+    },
+    {
+      "path": "unternehmensregister/Stadt-K-ln-fe0037e7/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "3fd4529d5d83619ee15c9c42603d54e600ec3011d5643f1ce130ccf344f5bd98"
+    },
+    {
+      "path": "unternehmensregister/Taylor-Wessing-b5cb2cce/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "unternehmensregister/Taylor-Wessing-b5cb2cce/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "42e3d092fa9c71021f2791fd173c5aa7d9d3194f4c3647a7a9d52b38c7304efd"
+    },
+    {
+      "path": "unternehmensregister/tink-68efe261/bekanntmachungen/publication-3/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "2f8477aef5855648513db7d8a70371b78a6b074aebb1e2b39839c052cc880d58"
+    },
+    {
+      "path": "unternehmensregister/tink-68efe261/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "64f271c7be825cc8e4fb9d745d630a553ba8764c5324e9b673931a9a49f496e4"
+    },
+    {
+      "path": "unternehmensregister/tink-68efe261/finanzberichte/publication-1/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "3c9cb7f74090412cb6b2b167ca7048150761363c1ed272920ce12a3277175ede"
+    },
+    {
+      "path": "unternehmensregister/tink-68efe261/finanzberichte/publication-2/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "c97a7fc75748740fa048ac41f94763630970fad6988d959d2855b6efb227747e"
+    },
+    {
+      "path": "unternehmensregister/tink-68efe261/finanzberichte/publication-4/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "8da10d0b08cfc6193d0bdfb39c81b42523c9d5f61a3d6616b1f7117fca78189d"
+    },
+    {
+      "path": "unternehmensregister/tink-68efe261/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "8d09ed3f50742cc4069d673ceb60701b132745dded73d7460f7c1175cc543a74"
+    },
+    {
+      "path": "unternehmensregister/welovepr-004f42ca/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "unternehmensregister/welovepr-004f42ca/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "f3826b59fd8a37f44c27cc17186ab2f3cf57803a54211aa702c889ad44fd364e"
+    },
+    {
+      "path": "unternehmensregister/WINDSTAR-MEDICAL-988bcbbe/bekanntmachungen/publication-1/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "b27ef2369e2c512829f9bcc0005b73c89b9b062c774d73af078b662d29a372b2"
+    },
+    {
+      "path": "unternehmensregister/WINDSTAR-MEDICAL-988bcbbe/bekanntmachungen/publication-2/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "7f8d6c9a3db134357449bd7f2b01a06beae13326e2e928b637e469146ba63de9"
+    },
+    {
+      "path": "unternehmensregister/WINDSTAR-MEDICAL-988bcbbe/bekanntmachungen/publication-3/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "e8bad741efbbdca00c77d1b58e853c19bcd7182fa332d4e6f13fc989eae19ba1"
+    },
+    {
+      "path": "unternehmensregister/WINDSTAR-MEDICAL-988bcbbe/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "829e6e9d1c9a6f752a16e4367be5d2f574c456f6ba955fb58cdb642386a15ec2"
+    },
+    {
+      "path": "unternehmensregister/WINDSTAR-MEDICAL-988bcbbe/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "6a92366c318206bf608e6d88357aab0b9d3d0381956e2809dceb722a6c59d473"
+    },
+    {
+      "path": "unternehmensregister/XION-8033f08d/bekanntmachungen/publication-1/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "56ff49f9887f21105b8a5a74a87f3517de00d51b818507f7bc6d7fe9d546e17d"
+    },
+    {
+      "path": "unternehmensregister/XION-8033f08d/bekanntmachungen/publication-2/documents.json",
+      "kind": "register_documents",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "b8c69e1a58fa53248d3b4e67f61d40b6b227f853c23c424ed150d0cf37cc9e87"
+    },
+    {
+      "path": "unternehmensregister/XION-8033f08d/downloads.json",
+      "kind": "register_downloads",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "1159cfa892ce6bbc22b4ab87884d73c75df2c68ffc496c3c2567b2c98b8a5809"
+    },
+    {
+      "path": "unternehmensregister/XION-8033f08d/publications.json",
+      "kind": "register_publications",
+      "referenced_by_current_index": true,
+      "valid": true,
+      "sha256": "ca358b65fc752c0c69fa7f39c55ddd87366b08d553832b0e140a54d64cb0edd7"
+    }
+  ]
+}

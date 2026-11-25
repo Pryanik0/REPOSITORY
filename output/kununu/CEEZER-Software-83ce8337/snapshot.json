@@ -1,0 +1,296 @@
+{
+  "provider": "kununu",
+  "backend": "browser",
+  "status": "ok",
+  "query": "CEEZER Software GmbH",
+  "profile": {
+    "url": "https://www.kununu.com/de/ceezer-software1",
+    "name": "CEEZER Software GmbH",
+    "overall_score": 3.8,
+    "review_count": 6,
+    "recommendation_percent": 60,
+    "recommendation_period": "last_2_years",
+    "observed_at": "2026-11-25T17:15:14.171789+00:00"
+  },
+  "reviews": [
+    {
+      "id": "c2a7b9ec-1085-46c3-9324-e2a0d9590da7",
+      "url": "https://www.kununu.com/de/ceezer-software1/bewertung/c2a7b9ec-1085-46c3-9324-e2a0d9590da7",
+      "title": "Avoid unless you love burnout",
+      "content": "Nice office, but very long hours, unspoken expectation of working unpaid overtime, and toxic behaviours from management to employees. No idea how their rating is so high - I recall there were other reviews before, seems like they could have been deleted.\n\nAbsolutely zero. There was an unspoken rule that no one left before 19:00/19:30, and if you challenged that it wasn't acceptable. Also, don't expect to ever be able to log off. They send emails and slacks at all hours and expect responses at all hours.\n\nNo time for any of this\n\nSalary is fine, benefits are good but there's no time to use the benefits.\n\nClimate focused company, but incredibly tone deaf on work life balance and quality of life.\n\nColleagues were super nice, but everyone was exhausted and on the verge of burnout.\n\nEveryone is super young with no boundaries.\n\nThere's a lot of talking behind backs and a few people were let go on the last day of their probation, or near the end of it. It seems like, in my opinion, that you can't survive here unless you're a die hard tech bro who lives and breathes to work and do nothing else.\n\nNice office, but miserable pressure and at times feeling of hostile work environment. Home office deemed a luxury.\n\nCommunication from management to employees was fine on the surface, but you only knew more if you were buddies with the management.\n\nVery few non-white people. In the months I was there, 7 women came and went. In my opinion, this could signal some underlying biases. But an opinion\n\nThe work itself can be considered interesting, but the workload can be so overwhelming that it doesn't really matter if it's interesting or not.",
+      "rating": 1.5,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Nice office, but very long hours, unspoken expectation of working unpaid overtime, and toxic behaviours from management to employees. No idea how their rating is so high - I recall there were other reviews before, seems like they could have been deleted.",
+        "workLife": "Absolutely zero. There was an unspoken rule that no one left before 19:00/19:30, and if you challenged that it wasn't acceptable. Also, don't expect to ever be able to log off. They send emails and slacks at all hours and expect responses at all hours.",
+        "career": "No time for any of this",
+        "salary": "Salary is fine, benefits are good but there's no time to use the benefits.",
+        "environment": "Climate focused company, but incredibly tone deaf on work life balance and quality of life.",
+        "teamwork": "Colleagues were super nice, but everyone was exhausted and on the verge of burnout.",
+        "oldColleagues": "Everyone is super young with no boundaries.",
+        "leadership": "There's a lot of talking behind backs and a few people were let go on the last day of their probation, or near the end of it. It seems like, in my opinion, that you can't survive here unless you're a die hard tech bro who lives and breathes to work and do nothing else.",
+        "workConditions": "Nice office, but miserable pressure and at times feeling of hostile work environment. Home office deemed a luxury.",
+        "communication": "Communication from management to employees was fine on the surface, but you only knew more if you were buddies with the management.",
+        "equality": "Very few non-white people. In the months I was there, 7 women came and went. In my opinion, this could signal some underlying biases. But an opinion",
+        "tasks": "The work itself can be considered interesting, but the workload can be so overwhelming that it doesn't really matter if it's interesting or not."
+      },
+      "factor_scores": {
+        "atmosphere": 1.0,
+        "workLife": 1.0,
+        "communication": 2.0,
+        "workConditions": 2.0,
+        "leadership": 1.0,
+        "teamwork": 2.0,
+        "oldColleagues": 1.0,
+        "equality": 1.0,
+        "career": 1.0,
+        "salary": 3.0,
+        "image": 1.0,
+        "environment": 2.0,
+        "tasks": 2.0
+      },
+      "published_at": "2026-11-02T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "8b702c77-6619-4b06-95ef-d44abfea48dd",
+      "url": "https://www.kununu.com/de/ceezer-software1/bewertung/8b702c77-6619-4b06-95ef-d44abfea48dd",
+      "title": "Meaningful Impact & Professional Growth in Climatetech",
+      "content": "The team is incredibly supportive and genuinely invested in your professional development. As a Founders Associate, I felt they were constantly looking for ways to create real growth opportunities and give me ownership of high-impact tasks.\nou are operating in a young, rapidly developing market. There is a profound sense of building something for future generations. Knowing that your work helps corporates offset emissions through truly reliable, high-quality climate projects is very rewarding.\nCEEZER prioritizes health and bonding. There are plenty of team activities, including organized workouts. The included Urban Sports Club subscription is a fantastic benefit that the team actually uses together.\n\nThe company is very well-structured and professional. While this prevents the typical startup \"firefighting,\" it can result in a more corporate atmosphere than some might expect from an early-stage venture.\nIf you are looking for a classic \"startup party\" culture with frequent after-work beers, this might not be the perfect fit. The social side is more focused on professional connection and fitness rather than a late-night bar scene",
+      "rating": 4.6,
+      "sections": {
+        "positive": "The team is incredibly supportive and genuinely invested in your professional development. As a Founders Associate, I felt they were constantly looking for ways to create real growth opportunities and give me ownership of high-impact tasks.\nou are operating in a young, rapidly developing market. There is a profound sense of building something for future generations. Knowing that your work helps corporates offset emissions through truly reliable, high-quality climate projects is very rewarding.\nCEEZER prioritizes health and bonding. There are plenty of team activities, including organized workouts. The included Urban Sports Club subscription is a fantastic benefit that the team actually uses together.",
+        "negative": "The company is very well-structured and professional. While this prevents the typical startup \"firefighting,\" it can result in a more corporate atmosphere than some might expect from an early-stage venture.\nIf you are looking for a classic \"startup party\" culture with frequent after-work beers, this might not be the perfect fit. The social side is more focused on professional connection and fitness rather than a late-night bar scene",
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 4.0,
+        "leadership": 5.0,
+        "teamwork": 4.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 3.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 4.0
+      },
+      "published_at": "2025-12-22T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "784640ee-5436-44c1-80d1-052039fe6c2f",
+      "url": "https://www.kununu.com/de/ceezer-software1/bewertung/784640ee-5436-44c1-80d1-052039fe6c2f",
+      "title": "A place where you can grow and collaborate with an exceptionally talented team of colleagues",
+      "content": "What I appreciate about the employer is the strong support for personal development, the diverse range of tasks, and the excellent team spirit. The company has highly talented employees whose skills and dedication contribute significantly to outstanding performance.\n\nThe work atmosphere is supportive and motivating, making it easy to collaborate and grow together as a team.\n\nThe company promotes a healthy work-life balance, enabling employees to manage their professional and personal responsibilities effectively while still consistently delivering work of the highest quality.\n\nThe company demonstrates strong environmental awareness and is committed to sustainable business practices.\n\nThere is a strong sense of unity among colleagues, and everyone supports each other when challenges arise.\n\nThe team shows great respect toward older colleagues and values their experience and insights.\n\nManagement communicates clearly, provides constructive feedback, and actively supports professional growth. This is reinforced by the highly professional and well-structured approach of HR and the C-level leadership, who ensure that 360-degree feedback processes and related initiatives are effectively in place.\n\nThe working conditions are excellent, providing a comfortable and well-equipped environment that supports productivity.\n\nThe communication culture encourages honest feedback and collaboration, contributing to a strong sense of teamwork.\n\nThe workplace fosters a strong culture of equality, ensuring that everyone has the same opportunities to succeed.\n\nThe tasks are diverse and engaging, offering opportunities to learn and grow.",
+      "rating": 5.0,
+      "sections": {
+        "positive": "What I appreciate about the employer is the strong support for personal development, the diverse range of tasks, and the excellent team spirit. The company has highly talented employees whose skills and dedication contribute significantly to outstanding performance.",
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "The work atmosphere is supportive and motivating, making it easy to collaborate and grow together as a team.",
+        "workLife": "The company promotes a healthy work-life balance, enabling employees to manage their professional and personal responsibilities effectively while still consistently delivering work of the highest quality.",
+        "environment": "The company demonstrates strong environmental awareness and is committed to sustainable business practices.",
+        "teamwork": "There is a strong sense of unity among colleagues, and everyone supports each other when challenges arise.",
+        "oldColleagues": "The team shows great respect toward older colleagues and values their experience and insights.",
+        "leadership": "Management communicates clearly, provides constructive feedback, and actively supports professional growth. This is reinforced by the highly professional and well-structured approach of HR and the C-level leadership, who ensure that 360-degree feedback processes and related initiatives are effectively in place.",
+        "workConditions": "The working conditions are excellent, providing a comfortable and well-equipped environment that supports productivity.",
+        "communication": "The communication culture encourages honest feedback and collaboration, contributing to a strong sense of teamwork.",
+        "equality": "The workplace fosters a strong culture of equality, ensuring that everyone has the same opportunities to succeed.",
+        "tasks": "The tasks are diverse and engaging, offering opportunities to learn and grow."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-11-17T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "e60c1ddf-92cf-4a90-9f0e-0c9a530dee7a",
+      "url": "https://www.kununu.com/de/ceezer-software1/bewertung/e60c1ddf-92cf-4a90-9f0e-0c9a530dee7a",
+      "title": "Company with Great Idea Suffers Due to Disrespectful Founder and Stressful Work Environment",
+      "content": "Overall rating: 2 out of 5 stars\n- The company has a great idea and mission that could make a difference in the industry.\n- Most colleagues are talented and hardworking, and there are opportunities to learn new skills.\n\n- The management style can be disrespectful and dismissive towards employees, making it difficult to feel valued and supported.\n- The work environment can be very stressful and toxic, with long hours and high pressure.\n- The company experiences high turnover, which can lead to instability and inconsistent work quality.",
+      "rating": 3.3,
+      "sections": {
+        "positive": "Overall rating: 2 out of 5 stars\n- The company has a great idea and mission that could make a difference in the industry.\n- Most colleagues are talented and hardworking, and there are opportunities to learn new skills.",
+        "negative": "- The management style can be disrespectful and dismissive towards employees, making it difficult to feel valued and supported.\n- The work environment can be very stressful and toxic, with long hours and high pressure.\n- The company experiences high turnover, which can lead to instability and inconsistent work quality.",
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 1.0,
+        "workLife": 2.0,
+        "communication": 3.0,
+        "workConditions": 4.0,
+        "leadership": 1.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 3.0,
+        "salary": 3.0,
+        "image": 4.0,
+        "environment": 4.0,
+        "tasks": 3.0
+      },
+      "published_at": "2025-10-27T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "45bd9356-0d40-40f1-b225-73fd708265c5",
+      "url": "https://www.kununu.com/de/ceezer-software1/bewertung/45bd9356-0d40-40f1-b225-73fd708265c5",
+      "title": "Exiting and fast paced founders associate internship!",
+      "content": "",
+      "rating": 4.6,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 3.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 4.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 4.0,
+        "image": 4.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2025-12-18T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": false
+    }
+  ],
+  "review_limit": 15,
+  "review_period": {
+    "since": "2024-11-25T00:00:00+00:00",
+    "until": "2026-11-25T17:15:12.877782+00:00",
+    "date_field": "published_at",
+    "missing_dates": "excluded"
+  },
+  "factor_scores_aggregated": {
+    "atmosphere": {
+      "mean": 3.4,
+      "count": 5
+    },
+    "workLife": {
+      "mean": 3.2,
+      "count": 5
+    },
+    "communication": {
+      "mean": 4.0,
+      "count": 5
+    },
+    "workConditions": {
+      "mean": 4.0,
+      "count": 5
+    },
+    "leadership": {
+      "mean": 3.4,
+      "count": 5
+    },
+    "teamwork": {
+      "mean": 4.0,
+      "count": 5
+    },
+    "oldColleagues": {
+      "mean": 4.2,
+      "count": 5
+    },
+    "equality": {
+      "mean": 4.2,
+      "count": 5
+    },
+    "career": {
+      "mean": 3.8,
+      "count": 5
+    },
+    "salary": {
+      "mean": 3.6,
+      "count": 5
+    },
+    "image": {
+      "mean": 3.8,
+      "count": 5
+    },
+    "environment": {
+      "mean": 4.2,
+      "count": 5
+    },
+    "tasks": {
+      "mean": 3.8,
+      "count": 5
+    }
+  },
+  "coverage": "bounded_employee_review_sample_last_2_years_not_all_reviews",
+  "diagnostics": {
+    "pages": [
+      {
+        "page": "reviews",
+        "page_number": 1,
+        "load_more_clicks": 0,
+        "requested_url": "https://www.kununu.com/de/ceezer-software1/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\CEEZER-Software-83ce8337\\browser\\reviews.html",
+        "browser_step": 53,
+        "final_url": "https://www.kununu.com/de/ceezer-software1/kommentare",
+        "observed_at": "2026-11-25T17:15:13.953481+00:00",
+        "http_status": 200,
+        "factor_cards_expanded": 1,
+        "reviews_collected": 5
+      }
+    ]
+  },
+  "source_url": "https://www.kununu.com/de/ceezer-software1",
+  "profile_source": "https://www.kununu.com/de/ceezer-software1/kommentare",
+  "review_stop_reason": "end_of_available_reviews",
+  "factor_score_coverage": {
+    "reviews_with_scores": 5,
+    "reviews_without_scores": 0,
+    "reviews_with_all_known_scores": 5,
+    "status": "complete"
+  },
+  "request_limits": {
+    "max_browser_steps": 295,
+    "browser_steps": 53,
+    "zyte_requests": 0
+  },
+  "reason": null
+}

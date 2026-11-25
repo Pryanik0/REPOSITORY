@@ -1,0 +1,696 @@
+{
+  "provider": "kununu",
+  "backend": "browser",
+  "status": "ok",
+  "query": "tink",
+  "profile": {
+    "url": "https://www.kununu.com/de/tink-gmbh",
+    "name": "tink GmbH",
+    "overall_score": 3.8,
+    "review_count": 135,
+    "recommendation_percent": 58,
+    "recommendation_period": "last_2_years",
+    "observed_at": "2026-11-25T17:18:45.751100+00:00"
+  },
+  "reviews": [
+    {
+      "id": "af28b0b3-b29c-4842-9111-7ac0dd758586",
+      "url": "https://www.kununu.com/de/tink-gmbh/bewertung/af28b0b3-b29c-4842-9111-7ac0dd758586",
+      "title": "Das Unternehmen löscht schlechte Bewertungen",
+      "content": "Aufhören, Bewertungen zu löschen und lieber auf Kritik der Arbeitnehmer eingehen",
+      "rating": 1.0,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": "Aufhören, Bewertungen zu löschen und lieber auf Kritik der Arbeitnehmer eingehen"
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": 1.0,
+        "workLife": 1.0,
+        "communication": 1.0,
+        "workConditions": 1.0,
+        "leadership": 1.0,
+        "teamwork": 1.0,
+        "oldColleagues": 1.0,
+        "equality": 1.0,
+        "career": 1.0,
+        "salary": 1.0,
+        "image": 1.0,
+        "environment": 1.0,
+        "tasks": 1.0
+      },
+      "published_at": "2026-11-13T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "5862e704-3a5f-4363-a933-e9ee2aae6a4e",
+      "url": "https://www.kununu.com/de/tink-gmbh/bewertung/5862e704-3a5f-4363-a933-e9ee2aae6a4e",
+      "title": "Homeoffice gestrichen, Urlaubssperre und Rauchen in Meetingräumen. HR versucht mehrfach, einzelne Kritiken zu löschen.",
+      "content": "Wie man bei kununu sehen kann, wiederholen sich in Abständen die vermeintlich positiven Bewertungen des Arbeitgebers, da scheint wohl jemand nachhelfen zu wollen. \"top company 2026\" halt. ;)\nWer glaubt seine Mitarbeiter:innen mit gestrichenem Homeoffice und einer Urlaubssperre von über 3 Monaten halten zu können, wird es nie einsehen.\nUpdate: Die Firma versucht mehrfach, diese Kritik löschen zu lassen, nach und nach werden einzelne Dinge beanstandet, die vorher kein Problem waren. Scheint wohl so, als wolle jemand die Wahrheit nicht lesen.\n\nSchlechte Performance und eine Wohlfühl-Oase für einige höhere Mitarbeiter:innen sorgen für eine verbitterte Stimmung, die von Pessimismus geprägt ist.\n\nEgal was versprochen wird: Homeoffice wurde mir während meiner Zeit gestrichen (jaja, nach Black Friday schauen wir nochmal - Spoiler, ist nicht passiert). Auf der Website wurde übrigens die Homeoffice-möglichkeit gegen \"du bist gerne jeden Tag im Büro\" getauscht - klingt wohl besser. Außerdem gibt es eine Urlaubssperre über 3 Monate hinweg. Für Remote oder Homeoffice über die Feiertage musste man Urlaub vorher benutzen.\n\nNach 1-2 Jahren ein Dead-End. Keine Weiterbildungsmöglichkeiten.\n\nBranchenüblich sind Coperate Benefits und Urban Sports. Mein Gehalt war absolut nicht wettbewerbstauglich. Reihenweise berichteten scheidende Mitarbeiter:innen dass sie woanders deutlich mehr bekommen, zumal Gehaltserhöhungen ausbleiben.\n\nDauernd werden igrendwelche Sachen von Vorgsetzten bestellt, die dann keine Verwendung haben. Müll aus getrennten Mülleimern wird später zusammengekippt.\n\nIst zwischen vielen Teams sehr gut, oft ist jedoch die schlechte Stimmung der Kit zwischen den Mitarbeiter:innen, die sich als Leidgenoss:innen sehen.\n\nBeförderungen kommen meist Mitarbeitenden zugute, die kurze Zeit im Unternehmen sind. Oft aus Teams, die dem CEO nahe stehen.\n\nVorgesetzte rauchen in mehreren Meeting-Räumen und dem für die gemeinschaftlichen Abende gedachten Team-Raum. Wer nicht nach rauch riechen will, hat Pech gehabt. Vorgesetzte bauen teilweise lieber stundenlang Tische oder Klimaanlagen auf als sich um ihren eigentlichen Job zu kümmern.\n\nEs wird versucht, das Büro ordentlich zu kühlen bzw. zu beheizen. Wirklich ausreichende Versorgung an Snacks, Kaffee und Getränken. Office Management ist da wirklich top. Laptops teils veraltet, niedrigere Mitarbeiter bekommen schlechtere Laptops.\n\nAlle paar Monate wechseln die Kommunikationsformate im All-Hands. Selten stellt sich eine Führungsperson hin und kommuniziert offen, vieles läuft über den Buschfunk. Das Ausscheiden der Kollegen wird nur kommuniziert, wenn sie eine gewisse Zeit in der Firma gearbeitet haben, um keine hohe Fluktuation offenzulegen (als würde man das nicht merken). Teamumfassene Informationen und Pläne werden durch fehlende Leads und Heads eher zäh vermittelt.",
+      "rating": 2.2,
+      "sections": {
+        "positive": null,
+        "negative": "Wie man bei kununu sehen kann, wiederholen sich in Abständen die vermeintlich positiven Bewertungen des Arbeitgebers, da scheint wohl jemand nachhelfen zu wollen. \"top company 2026\" halt. ;)\nWer glaubt seine Mitarbeiter:innen mit gestrichenem Homeoffice und einer Urlaubssperre von über 3 Monaten halten zu können, wird es nie einsehen.\nUpdate: Die Firma versucht mehrfach, diese Kritik löschen zu lassen, nach und nach werden einzelne Dinge beanstandet, die vorher kein Problem waren. Scheint wohl so, als wolle jemand die Wahrheit nicht lesen.",
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Schlechte Performance und eine Wohlfühl-Oase für einige höhere Mitarbeiter:innen sorgen für eine verbitterte Stimmung, die von Pessimismus geprägt ist.",
+        "workLife": "Egal was versprochen wird: Homeoffice wurde mir während meiner Zeit gestrichen (jaja, nach Black Friday schauen wir nochmal - Spoiler, ist nicht passiert). Auf der Website wurde übrigens die Homeoffice-möglichkeit gegen \"du bist gerne jeden Tag im Büro\" getauscht - klingt wohl besser. Außerdem gibt es eine Urlaubssperre über 3 Monate hinweg. Für Remote oder Homeoffice über die Feiertage musste man Urlaub vorher benutzen.",
+        "career": "Nach 1-2 Jahren ein Dead-End. Keine Weiterbildungsmöglichkeiten.",
+        "salary": "Branchenüblich sind Coperate Benefits und Urban Sports. Mein Gehalt war absolut nicht wettbewerbstauglich. Reihenweise berichteten scheidende Mitarbeiter:innen dass sie woanders deutlich mehr bekommen, zumal Gehaltserhöhungen ausbleiben.",
+        "environment": "Dauernd werden igrendwelche Sachen von Vorgsetzten bestellt, die dann keine Verwendung haben. Müll aus getrennten Mülleimern wird später zusammengekippt.",
+        "teamwork": "Ist zwischen vielen Teams sehr gut, oft ist jedoch die schlechte Stimmung der Kit zwischen den Mitarbeiter:innen, die sich als Leidgenoss:innen sehen.",
+        "oldColleagues": "Beförderungen kommen meist Mitarbeitenden zugute, die kurze Zeit im Unternehmen sind. Oft aus Teams, die dem CEO nahe stehen.",
+        "leadership": "Vorgesetzte rauchen in mehreren Meeting-Räumen und dem für die gemeinschaftlichen Abende gedachten Team-Raum. Wer nicht nach rauch riechen will, hat Pech gehabt. Vorgesetzte bauen teilweise lieber stundenlang Tische oder Klimaanlagen auf als sich um ihren eigentlichen Job zu kümmern.",
+        "workConditions": "Es wird versucht, das Büro ordentlich zu kühlen bzw. zu beheizen. Wirklich ausreichende Versorgung an Snacks, Kaffee und Getränken. Office Management ist da wirklich top. Laptops teils veraltet, niedrigere Mitarbeiter bekommen schlechtere Laptops.",
+        "communication": "Alle paar Monate wechseln die Kommunikationsformate im All-Hands. Selten stellt sich eine Führungsperson hin und kommuniziert offen, vieles läuft über den Buschfunk. Das Ausscheiden der Kollegen wird nur kommuniziert, wenn sie eine gewisse Zeit in der Firma gearbeitet haben, um keine hohe Fluktuation offenzulegen (als würde man das nicht merken). Teamumfassene Informationen und Pläne werden durch fehlende Leads und Heads eher zäh vermittelt."
+      },
+      "factor_scores": {
+        "atmosphere": 2.0,
+        "workLife": 3.0,
+        "communication": 2.0,
+        "workConditions": 3.0,
+        "leadership": 2.0,
+        "teamwork": 5.0,
+        "oldColleagues": 2.0,
+        "equality": 2.0,
+        "career": 1.0,
+        "salary": 2.0,
+        "image": 1.0,
+        "environment": 1.0,
+        "tasks": 3.0
+      },
+      "published_at": "2026-11-06T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "e8efa615-6f8c-47e3-93d3-a94b0f52fa35",
+      "url": "https://www.kununu.com/de/tink-gmbh/bewertung/e8efa615-6f8c-47e3-93d3-a94b0f52fa35",
+      "title": "Sehr angenehme Zusammenarbeit in einem professionellen Umfeld",
+      "content": "Ich habe die Zusammenarbeit mit tink sehr positiv erlebt. Besonders gefallen haben mir das angenehme und professionelle Arbeitsklima sowie der freundliche und respektvolle Umgang miteinander.\nDie Zusammenarbeit war unkompliziert und von einer offenen Kommunikation geprägt. Besonders positiv in Erinnerung geblieben ist mir die Führungskraft, die ich sowohl fachlich als auch menschlich sehr schätze.\nInsgesamt eine schöne Erfahrung, auf die ich gerne zurückblicke. Vielen Dank für die gemeinsame Zeit!\n\nSehr angenehme, wertschätzende und professionelle Führung.",
+      "rating": 5.0,
+      "sections": {
+        "positive": "Ich habe die Zusammenarbeit mit tink sehr positiv erlebt. Besonders gefallen haben mir das angenehme und professionelle Arbeitsklima sowie der freundliche und respektvolle Umgang miteinander.\nDie Zusammenarbeit war unkompliziert und von einer offenen Kommunikation geprägt. Besonders positiv in Erinnerung geblieben ist mir die Führungskraft, die ich sowohl fachlich als auch menschlich sehr schätze.\nInsgesamt eine schöne Erfahrung, auf die ich gerne zurückblicke. Vielen Dank für die gemeinsame Zeit!",
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "leadership": "Sehr angenehme, wertschätzende und professionelle Führung."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-11-03T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "1f0d410e-8c85-4e69-8be8-8490be1ad9a0",
+      "url": "https://www.kununu.com/de/tink-gmbh/bewertung/1f0d410e-8c85-4e69-8be8-8490be1ad9a0",
+      "title": "Arbeitsatmosphäre und Zusammenarbeit",
+      "content": "Die Teamleiter sind hilfsbereit, und im Team arbeiten alle gut zusammen. Die Abstimmung läuft unkompliziert.",
+      "rating": 4.0,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Die Teamleiter sind hilfsbereit, und im Team arbeiten alle gut zusammen. Die Abstimmung läuft unkompliziert."
+      },
+      "factor_scores": {
+        "atmosphere": 4.0,
+        "workLife": 4.0,
+        "communication": 4.0,
+        "workConditions": 4.0,
+        "leadership": 4.0,
+        "teamwork": 4.0,
+        "oldColleagues": 4.0,
+        "equality": 4.0,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": 4.0,
+        "tasks": 4.0
+      },
+      "published_at": "2026-10-21T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "a773f22b-722e-488a-bd0d-b4310a0b7abb",
+      "url": "https://www.kununu.com/de/tink-gmbh/bewertung/a773f22b-722e-488a-bd0d-b4310a0b7abb",
+      "title": "Top Teams",
+      "content": "Gute Leute, coole Teamevents, macht Spass\n\nIn meinem Team gegeben\n\nTeazusammenhalt ist überwiegend gut\n\nKommt immer drauf an, manchmal kommen Infos vom Management recht spät oder ändern sich kurzfristig, daran sollte man arbeiten.\n\nMehr Frauen in Führungspositionen würde ich gerne sehen.",
+      "rating": 4.0,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Gute Leute, coole Teamevents, macht Spass",
+        "workLife": "In meinem Team gegeben",
+        "teamwork": "Teazusammenhalt ist überwiegend gut",
+        "communication": "Kommt immer drauf an, manchmal kommen Infos vom Management recht spät oder ändern sich kurzfristig, daran sollte man arbeiten.",
+        "equality": "Mehr Frauen in Führungspositionen würde ich gerne sehen."
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 4.0,
+        "communication": 3.0,
+        "workConditions": 4.0,
+        "leadership": 4.0,
+        "teamwork": 4.0,
+        "oldColleagues": 4.0,
+        "equality": 4.0,
+        "career": 4.0,
+        "salary": 4.0,
+        "image": 4.0,
+        "environment": 4.0,
+        "tasks": 4.0
+      },
+      "published_at": "2026-07-17T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "0aef003e-ee09-40dc-9e2b-12a3740c324e",
+      "url": "https://www.kununu.com/de/tink-gmbh/bewertung/0aef003e-ee09-40dc-9e2b-12a3740c324e",
+      "title": "Klasse Firma für Menschen, die impact haben wollen und teamorientiert sind",
+      "content": "Gute Mischung aus Ergebnis/Imact und kollegialem Zusammenhalt\n\nsehr gutes image - eine Firma die etwas langfristig aufbaut mit vielen Kollegen, die schon länger an Board sind\n\nKomplett fair; wenn es viel zu tun gibt, helfen alle mit - aber man sitzt keine stunden ab\n\nsehr gut - siehe oben. Wenn ein seminar oder ähnliches interessant ist, bekommt man bisher immer Unterstützung\n\nfair und leistungsbezogen\n\ntink arbeitet aktiv an der Energiewende mit\n\nKollegen sind echte Kollegen; wenig Politics, viel Team\n\ngut, sind aber eher junge Kollegen\n\nFührungsteam hat sich top entwickelt - viel support und keine Hierarchiespiele; aber auch ehrliches Feedback\n\ntop, super schönes und cooles office und top Lage mit vielen extras\n\nZwischen den teams nach Corona echt wieder besser\n\nist hier selbstverständlich\n\nsuper spannende Projekte; wer sich engagiert, der bekommt immer wieder neue Projekte und kann wachsen",
+      "rating": 4.9,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Gute Mischung aus Ergebnis/Imact und kollegialem Zusammenhalt",
+        "image": "sehr gutes image - eine Firma die etwas langfristig aufbaut mit vielen Kollegen, die schon länger an Board sind",
+        "workLife": "Komplett fair; wenn es viel zu tun gibt, helfen alle mit - aber man sitzt keine stunden ab",
+        "career": "sehr gut - siehe oben. Wenn ein seminar oder ähnliches interessant ist, bekommt man bisher immer Unterstützung",
+        "salary": "fair und leistungsbezogen",
+        "environment": "tink arbeitet aktiv an der Energiewende mit",
+        "teamwork": "Kollegen sind echte Kollegen; wenig Politics, viel Team",
+        "oldColleagues": "gut, sind aber eher junge Kollegen",
+        "leadership": "Führungsteam hat sich top entwickelt - viel support und keine Hierarchiespiele; aber auch ehrliches Feedback",
+        "workConditions": "top, super schönes und cooles office und top Lage mit vielen extras",
+        "communication": "Zwischen den teams nach Corona echt wieder besser",
+        "equality": "ist hier selbstverständlich",
+        "tasks": "super spannende Projekte; wer sich engagiert, der bekommt immer wieder neue Projekte und kann wachsen"
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 4.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-07-12T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "520ec656-2df0-4474-a9e0-b56e51a843a6",
+      "url": "https://www.kununu.com/de/tink-gmbh/bewertung/520ec656-2df0-4474-a9e0-b56e51a843a6",
+      "title": "Ein Ort für High Performer, die nebenher auch ein Privatleben führen wollen",
+      "content": "performance orientiert, low ego. Guter Ort um mit viel verantwortung Vollgas zu geben\n\nEher ein Ort für Menschen die etwas erreichen wollen und verstehen, dass das einen gewissen Zeitaufwand mit sich bringt. Für Sport und Privates ist immer genügend Zeit und wer Leistung bringt genießt hohes Vertrauen und kann seine Arbeitszeit fast vollständig selbst gestalten\n\nMan kriegt Budget für Coaching / Kurse wenn man danach fragt und es gut begründen kann\n\nIch bin zufrieden\n\ntink verkauft Produkte die einen wesentlichen Einfluss auf die CO2 Reduktion haben\n\nStarke Community, Firma hat eine eigene Bar, in der man sich eng und ehrlich austauschen kann\n\nEher ein Ort für Jüngere - aber es gibt durchaus ein paar Anfang 40 jährige. Die sind dann aber schon wirklich sehr erfahren\n\nLow Ego, sehr inhaltlich. Kein Politics, es zählt die Leistung.\n\nViel Ownership, Freiheit und Performance Orientierung - top!\n\nWichtige Informationen werden proaktiv geteilt, allerdings kein Rumgerede über Kleinigkeiten wie bei anderen Firmen\n\nAusgeglichenes Geschlechterverhältnis\n\nDer Kreativität sind keine Grenzen gesetzt, aber man muss sich die Projekte schon selbst suchen",
+      "rating": 4.9,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "performance orientiert, low ego. Guter Ort um mit viel verantwortung Vollgas zu geben",
+        "workLife": "Eher ein Ort für Menschen die etwas erreichen wollen und verstehen, dass das einen gewissen Zeitaufwand mit sich bringt. Für Sport und Privates ist immer genügend Zeit und wer Leistung bringt genießt hohes Vertrauen und kann seine Arbeitszeit fast vollständig selbst gestalten",
+        "career": "Man kriegt Budget für Coaching / Kurse wenn man danach fragt und es gut begründen kann",
+        "salary": "Ich bin zufrieden",
+        "environment": "tink verkauft Produkte die einen wesentlichen Einfluss auf die CO2 Reduktion haben",
+        "teamwork": "Starke Community, Firma hat eine eigene Bar, in der man sich eng und ehrlich austauschen kann",
+        "oldColleagues": "Eher ein Ort für Jüngere - aber es gibt durchaus ein paar Anfang 40 jährige. Die sind dann aber schon wirklich sehr erfahren",
+        "leadership": "Low Ego, sehr inhaltlich. Kein Politics, es zählt die Leistung.",
+        "workConditions": "Viel Ownership, Freiheit und Performance Orientierung - top!",
+        "communication": "Wichtige Informationen werden proaktiv geteilt, allerdings kein Rumgerede über Kleinigkeiten wie bei anderen Firmen",
+        "equality": "Ausgeglichenes Geschlechterverhältnis",
+        "tasks": "Der Kreativität sind keine Grenzen gesetzt, aber man muss sich die Projekte schon selbst suchen"
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 4.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-07-09T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "c581a138-5553-4f78-b615-ebf090130aa5",
+      "url": "https://www.kununu.com/de/tink-gmbh/bewertung/c581a138-5553-4f78-b615-ebf090130aa5",
+      "title": "Great culture with smart and nice colleagues",
+      "content": "Culture of openness\n\nKeep team events ongoing\n\nGreat working atmosphere, real team spirit\n\nFor a start up a good brand already\n\nAbsolutely ok; no work just to work\n\nGood performance opens doors to fast progression\n\nFair and above average\n\nWhole company is focused on sustainability\n\nGood team get it done culture\n\nGood, but just a few older colleagues\n\nGreat managers and leadership; some are still quite young as leaders\n\nWonderful office with good equipment\n\nComms between teams works very well; all hands meetings regularly\n\nNo issue at all; diversity is the norm\n\nVery interesting projects - good to work on more climate friendly homes",
+      "rating": 4.8,
+      "sections": {
+        "positive": "Culture of openness",
+        "negative": null,
+        "suggestion": "Keep team events ongoing"
+      },
+      "factor_comments": {
+        "atmosphere": "Great working atmosphere, real team spirit",
+        "image": "For a start up a good brand already",
+        "workLife": "Absolutely ok; no work just to work",
+        "career": "Good performance opens doors to fast progression",
+        "salary": "Fair and above average",
+        "environment": "Whole company is focused on sustainability",
+        "teamwork": "Good team get it done culture",
+        "oldColleagues": "Good, but just a few older colleagues",
+        "leadership": "Great managers and leadership; some are still quite young as leaders",
+        "workConditions": "Wonderful office with good equipment",
+        "communication": "Comms between teams works very well; all hands meetings regularly",
+        "equality": "No issue at all; diversity is the norm",
+        "tasks": "Very interesting projects - good to work on more climate friendly homes"
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 4.0,
+        "communication": 5.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 4.0,
+        "equality": 5.0,
+        "career": 4.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-07-07T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "21809feb-7344-4a14-a29e-3fbe9c7bcc61",
+      "url": "https://www.kununu.com/de/tink-gmbh/bewertung/21809feb-7344-4a14-a29e-3fbe9c7bcc61",
+      "title": "Positive Erfahrungen mit meinem Job",
+      "content": "Entspanntes Office in Mitte mit guter Anbindung\n\nMan kann im Home Office arbeiten, wenn man das mal braucht\n\nFür heutige Verhältnisse ist das schon fair was man hier bekommt\n\nNette Leute, nettes Team!\n\nManchmal geht was unter und man bekommt es später mit. Verbesserungswürdig, aber jetzt nicht störend",
+      "rating": 4.4,
+      "sections": {
+        "positive": null,
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Entspanntes Office in Mitte mit guter Anbindung",
+        "workLife": "Man kann im Home Office arbeiten, wenn man das mal braucht",
+        "salary": "Für heutige Verhältnisse ist das schon fair was man hier bekommt",
+        "teamwork": "Nette Leute, nettes Team!",
+        "communication": "Manchmal geht was unter und man bekommt es später mit. Verbesserungswürdig, aber jetzt nicht störend"
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 4.0,
+        "communication": 4.0,
+        "workConditions": 4.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 4.0,
+        "salary": 4.0,
+        "image": 4.0,
+        "environment": 4.0,
+        "tasks": 4.0
+      },
+      "published_at": "2026-05-08T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "4620fb81-6326-47a2-a5eb-69a6c92bd1e6",
+      "url": "https://www.kununu.com/de/tink-gmbh/bewertung/4620fb81-6326-47a2-a5eb-69a6c92bd1e6",
+      "title": "Geht so",
+      "content": "HO-Möglichkeit\n\nUmgang mit einigen Mitarbeitern\n\nMehr Mitarbeiter fördern und sie nicht rausekeln, um neue einzustellen\n\nAn den Mandatory Office Tagen ist es manchmal laut, sodass das Konzentrieren einem schwer fällt\n\nMehr Schein als Sein\n\n2 Tage HO ist okay. Sehr strikt an den Mandatory days. Q1-Q3 ist weniger zutun - Q4 dann mehr Workload\n\nKaum\n\nGeht so\n\nEs gibt Mülleimer zu trennen, aber es wird trotzdem alles in einen Papierkorp geschmissen\n\nEs werden Abteilungen ausgegrenzt, indem sie nicht wirklich eingebunden werden. Teilweise Toxic\n\nReden teilweise nur mit \"wichtigen\" Mitarbetern/Abteilungen. Zu den weniger wichtigen Mitarbeitern kommt nicht mal ein Hallo oder Guten Morgen. Entscheidungen werden getroffen, die nicht wirklich Sinn ergeben - entgegen der Mitarbeiterzufriedenheit - Thema neue Bonus Regelung\n\nLaptops sind teilweise veraltet, wobei man andere Mitarbeiter mit neuerer Technik sieht\n\nGrundlegende Kommunikation ist vorhanden, aber wichtige Infos werden erst auf Nachfrage preisgegeben oder du musst jemanden suchen, der dafür zuständig ist.\n\nIm Prinzip jeden Tag dasselbe",
+      "rating": 2.0,
+      "sections": {
+        "positive": "HO-Möglichkeit",
+        "negative": "Umgang mit einigen Mitarbeitern",
+        "suggestion": "Mehr Mitarbeiter fördern und sie nicht rausekeln, um neue einzustellen"
+      },
+      "factor_comments": {
+        "atmosphere": "An den Mandatory Office Tagen ist es manchmal laut, sodass das Konzentrieren einem schwer fällt",
+        "image": "Mehr Schein als Sein",
+        "workLife": "2 Tage HO ist okay. Sehr strikt an den Mandatory days. Q1-Q3 ist weniger zutun - Q4 dann mehr Workload",
+        "career": "Kaum",
+        "salary": "Geht so",
+        "environment": "Es gibt Mülleimer zu trennen, aber es wird trotzdem alles in einen Papierkorp geschmissen",
+        "teamwork": "Es werden Abteilungen ausgegrenzt, indem sie nicht wirklich eingebunden werden. Teilweise Toxic",
+        "leadership": "Reden teilweise nur mit \"wichtigen\" Mitarbetern/Abteilungen. Zu den weniger wichtigen Mitarbeitern kommt nicht mal ein Hallo oder Guten Morgen. Entscheidungen werden getroffen, die nicht wirklich Sinn ergeben - entgegen der Mitarbeiterzufriedenheit - Thema neue Bonus Regelung",
+        "workConditions": "Laptops sind teilweise veraltet, wobei man andere Mitarbeiter mit neuerer Technik sieht",
+        "communication": "Grundlegende Kommunikation ist vorhanden, aber wichtige Infos werden erst auf Nachfrage preisgegeben oder du musst jemanden suchen, der dafür zuständig ist.",
+        "tasks": "Im Prinzip jeden Tag dasselbe"
+      },
+      "factor_scores": {
+        "atmosphere": 2.0,
+        "workLife": 3.0,
+        "communication": 3.0,
+        "workConditions": 2.0,
+        "leadership": 1.0,
+        "teamwork": 2.0,
+        "oldColleagues": 3.0,
+        "equality": 3.0,
+        "career": 1.0,
+        "salary": 2.0,
+        "image": 1.0,
+        "environment": 1.0,
+        "tasks": 2.0
+      },
+      "published_at": "2026-05-04T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "c98e7b51-2296-4380-a1c3-0957b712aeb3",
+      "url": "https://www.kununu.com/de/tink-gmbh/bewertung/c98e7b51-2296-4380-a1c3-0957b712aeb3",
+      "title": "Temporär gut für Einsteiger, nichts für erfahrene Mitarbeiter",
+      "content": "Von Anfang an übernimmt man viel Verantwortung und kann an zahlreichen spannenden Aufgaben mitwirken.\n\nAufgrund häufiger Änderungen in Arbeitsorganisation und Personalstruktur ist das Arbeitsumfeld jedoch für viele keine langfristige Perspektive. In Kombination mit der hohen Arbeitsbelastung führt dies häufig zu einem schnell steigenden und dauerhaft hohen Frustrationsniveau, weshalb die Fluktuation insgesamt sehr hoch ist.",
+      "rating": 2.2,
+      "sections": {
+        "positive": "Von Anfang an übernimmt man viel Verantwortung und kann an zahlreichen spannenden Aufgaben mitwirken.",
+        "negative": "Aufgrund häufiger Änderungen in Arbeitsorganisation und Personalstruktur ist das Arbeitsumfeld jedoch für viele keine langfristige Perspektive. In Kombination mit der hohen Arbeitsbelastung führt dies häufig zu einem schnell steigenden und dauerhaft hohen Frustrationsniveau, weshalb die Fluktuation insgesamt sehr hoch ist.",
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-04-21T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "20a0dfda-f3e0-4887-93ef-fae0da2e8046",
+      "url": "https://www.kununu.com/de/tink-gmbh/bewertung/20a0dfda-f3e0-4887-93ef-fae0da2e8046",
+      "title": "Guter Arbeitgeber mit moderner Unternehmenskultur",
+      "content": "Schönes Büro in zentraler Lage\nSuper Team\nViele Teamevents\nBar im Büro\n\nSehr gute Atmosphäre und sehr entspannte Unternehmenskultur\n\nZwischen Q1 und Q3 auf jeden Fall sehr gut. Während Q4 kann es auch mal stressiger werden. Ist aber auch immer von der Abteilung und Position abhängig.\n\nGute Entwicklungsmöglichkeiten. Auch Quereinsteigern und Leuten mit weniger Erfahrung wird hier eine Chance gegeben.\n\nIst hier definitiv vorhanden\n\nNette Vorgesetzte. Es gab immer einen lockeren und respektvollen Umgang miteinander.\n\nSehr internationales Team",
+      "rating": 4.9,
+      "sections": {
+        "positive": "Schönes Büro in zentraler Lage\nSuper Team\nViele Teamevents\nBar im Büro",
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {
+        "atmosphere": "Sehr gute Atmosphäre und sehr entspannte Unternehmenskultur",
+        "workLife": "Zwischen Q1 und Q3 auf jeden Fall sehr gut. Während Q4 kann es auch mal stressiger werden. Ist aber auch immer von der Abteilung und Position abhängig.",
+        "career": "Gute Entwicklungsmöglichkeiten. Auch Quereinsteigern und Leuten mit weniger Erfahrung wird hier eine Chance gegeben.",
+        "teamwork": "Ist hier definitiv vorhanden",
+        "leadership": "Nette Vorgesetzte. Es gab immer einen lockeren und respektvollen Umgang miteinander.",
+        "equality": "Sehr internationales Team"
+      },
+      "factor_scores": {
+        "atmosphere": 5.0,
+        "workLife": 5.0,
+        "communication": 4.0,
+        "workConditions": 5.0,
+        "leadership": 5.0,
+        "teamwork": 5.0,
+        "oldColleagues": 5.0,
+        "equality": 5.0,
+        "career": 5.0,
+        "salary": 5.0,
+        "image": 5.0,
+        "environment": 5.0,
+        "tasks": 5.0
+      },
+      "published_at": "2026-04-18T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "ed3ea708-02a1-4855-892d-d73a1c6d7774",
+      "url": "https://www.kununu.com/de/tink-gmbh/bewertung/ed3ea708-02a1-4855-892d-d73a1c6d7774",
+      "title": "Schneller Bewerbungsprozess & spannende Aufgaben",
+      "content": "Ich hatte einen sehr schnellen und unkomplizierten Bewerbungsprozess. HR hat sich umgehend zurückgemeldet, und alle Schritte verliefen zügig. Das Unternehmen ist sehr hands-on - man sollte schon sehr proaktiv sein - dafür sind die Aufgaben äußerst spannend, und die Lernkurve ist steil. Ich kann eine Bewerbung hier auf jeden Fall empfehlen.",
+      "rating": 4.6,
+      "sections": {
+        "positive": "Ich hatte einen sehr schnellen und unkomplizierten Bewerbungsprozess. HR hat sich umgehend zurückgemeldet, und alle Schritte verliefen zügig. Das Unternehmen ist sehr hands-on - man sollte schon sehr proaktiv sein - dafür sind die Aufgaben äußerst spannend, und die Lernkurve ist steil. Ich kann eine Bewerbung hier auf jeden Fall empfehlen.",
+        "negative": null,
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2026-01-16T00:00:00+00:00",
+      "recommended": true,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "8b61f9a0-dbd3-4791-877c-fa52f58e5110",
+      "url": "https://www.kununu.com/de/tink-gmbh/bewertung/8b61f9a0-dbd3-4791-877c-fa52f58e5110",
+      "title": "Führung schwach, Kultur negativ – keine Empfehlung",
+      "content": "Engagement wird kaum gefördert. Die Fluktuation ist hoch: Qualifizierte Mitarbeitende verlassen das Unternehmen häufig, während leistungsschwache Kräfte bleiben. Dies führt zu einem Arbeitsumfeld, das von Unsicherheit und dauerhaftem Druck geprägt ist.",
+      "rating": 1.2,
+      "sections": {
+        "positive": null,
+        "negative": "Engagement wird kaum gefördert. Die Fluktuation ist hoch: Qualifizierte Mitarbeitende verlassen das Unternehmen häufig, während leistungsschwache Kräfte bleiben. Dies führt zu einem Arbeitsumfeld, das von Unsicherheit und dauerhaftem Druck geprägt ist.",
+        "suggestion": null
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-11-30T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    },
+    {
+      "id": "a74bda04-5782-44a2-8510-47fbd32197a4",
+      "url": "https://www.kununu.com/de/tink-gmbh/bewertung/a74bda04-5782-44a2-8510-47fbd32197a4",
+      "title": "C-Level leider ohne klaren Plan, wie man die Firma auf stabilere Beine stellt.",
+      "content": "Das Office\n\nEhrlichere Auseinandersetzung mit strukturellen Problemen",
+      "rating": 3.5,
+      "sections": {
+        "positive": "Das Office",
+        "negative": null,
+        "suggestion": "Ehrlichere Auseinandersetzung mit strukturellen Problemen"
+      },
+      "factor_comments": {},
+      "factor_scores": {
+        "atmosphere": null,
+        "workLife": null,
+        "communication": null,
+        "workConditions": null,
+        "leadership": null,
+        "teamwork": null,
+        "oldColleagues": null,
+        "equality": null,
+        "career": null,
+        "salary": null,
+        "image": null,
+        "environment": null,
+        "tasks": null
+      },
+      "published_at": "2025-11-28T00:00:00+00:00",
+      "recommended": false,
+      "review_type": "employee",
+      "has_text": true
+    }
+  ],
+  "review_limit": 15,
+  "review_period": {
+    "since": "2024-11-25T00:00:00+00:00",
+    "until": "2026-11-25T17:18:00.143731+00:00",
+    "date_field": "published_at",
+    "missing_dates": "excluded"
+  },
+  "factor_scores_aggregated": {
+    "atmosphere": {
+      "mean": 4.0,
+      "count": 11
+    },
+    "workLife": {
+      "mean": 3.91,
+      "count": 11
+    },
+    "communication": {
+      "mean": 3.73,
+      "count": 11
+    },
+    "workConditions": {
+      "mean": 3.91,
+      "count": 11
+    },
+    "leadership": {
+      "mean": 3.82,
+      "count": 11
+    },
+    "teamwork": {
+      "mean": 4.18,
+      "count": 11
+    },
+    "oldColleagues": {
+      "mean": 3.91,
+      "count": 11
+    },
+    "equality": {
+      "mean": 4.0,
+      "count": 11
+    },
+    "career": {
+      "mean": 3.5,
+      "count": 10
+    },
+    "salary": {
+      "mean": 3.7,
+      "count": 10
+    },
+    "image": {
+      "mean": 3.6,
+      "count": 10
+    },
+    "environment": {
+      "mean": 3.55,
+      "count": 11
+    },
+    "tasks": {
+      "mean": 3.91,
+      "count": 11
+    }
+  },
+  "coverage": "bounded_employee_review_sample_last_2_years_not_all_reviews",
+  "diagnostics": {
+    "pages": [
+      {
+        "page": "reviews",
+        "page_number": 1,
+        "load_more_clicks": 0,
+        "requested_url": "https://www.kununu.com/de/tink-gmbh/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\tink-68efe261\\browser\\reviews.html",
+        "browser_step": 141,
+        "final_url": "https://www.kununu.com/de/tink-gmbh/kommentare",
+        "observed_at": "2026-11-25T17:18:45.134389+00:00",
+        "http_status": 405,
+        "block_kind": "aws_waf_captcha",
+        "manual_challenge_pause": true,
+        "challenge_resolved_manually": true,
+        "factor_cards_expanded": 4,
+        "reviews_collected": 10
+      },
+      {
+        "page": "reviews",
+        "page_number": 2,
+        "load_more_clicks": 1,
+        "requested_url": "https://www.kununu.com/de/tink-gmbh/kommentare",
+        "transport": "local_browser",
+        "html_path": "output\\kununu\\tink-68efe261\\browser\\reviews-2.html",
+        "browser_step": 142,
+        "final_url": "https://www.kununu.com/de/tink-gmbh/kommentare",
+        "observed_at": "2026-11-25T17:18:46.706801+00:00",
+        "actions_complete": true,
+        "factor_cards_expanded": 1,
+        "reviews_collected": 15
+      }
+    ]
+  },
+  "source_url": "https://www.kununu.com/de/tink-gmbh",
+  "profile_source": "https://www.kununu.com/de/tink-gmbh/kommentare",
+  "review_stop_reason": "sample_limit_reached",
+  "factor_score_coverage": {
+    "reviews_with_scores": 11,
+    "reviews_without_scores": 4,
+    "reviews_with_all_known_scores": 10,
+    "status": "partial"
+  },
+  "request_limits": {
+    "max_browser_steps": 295,
+    "browser_steps": 142,
+    "zyte_requests": 0
+  },
+  "reason": null
+}

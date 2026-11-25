@@ -1,0 +1,9 @@
+{
+  "url": "https://k60852.coveto.de/robots.txt",
+  "final_url": "https://k60852.coveto.de/robots.txt",
+  "redirects": [],
+  "status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "fetched_at": "2026-11-25T16:08:50.524843+00:00",
+  "text": "User-agent: *\nDisallow: /public/bewerbung\nDisallow: /*i18nLocale=\nAllow: /\n\nUser-agent: Sogou\nUser-agent: Reflectionbot\nUser-agent: DataForSeoBot\nUser-agent: SERankingBacklinksBot\nUser-agent: SemrushBot\nUser-agent: AhrefsBot\nUser-agent: MJ12bot\nUser-agent: DotBot\nUser-agent: BLEXBot\nUser-agent: Barkrowler\nUser-agent: serpstatbot\nDisallow: /\n\nSitemap: https://k60852.coveto.de/sitemap.xml"
+}

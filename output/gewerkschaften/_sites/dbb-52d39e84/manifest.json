@@ -1,0 +1,301 @@
+{
+  "status": "partial",
+  "provider": "gewerkschaften",
+  "date_from": "2026-05-25",
+  "pdf_download_policy": "company_in_link_metadata_or_filename",
+  "date_to": "2026-11-25",
+  "articles": [],
+  "visited": [
+    "https://www.dbb.de/",
+    "https://www.dbb.de/suche/?id=2425&tx_kesearch_pi1%5Bpage%5D=1&tx_kesearch_pi1%5BresetFilters%5D=0&tx_kesearch_pi1%5BsortByField%5D=sortdate&tx_kesearch_pi1%5BsortByDir%5D=desc&tx_kesearch_pi1%5Bsword%5D=Stadt+K%C3%B6ln",
+    "https://www.dbb.de/suche/?id=2425&tx_kesearch_pi1%5Bpage%5D=1&tx_kesearch_pi1%5BresetFilters%5D=0&tx_kesearch_pi1%5BsortByField%5D=sortdate&tx_kesearch_pi1%5BsortByDir%5D=desc&tx_kesearch_pi1%5Bsword%5D=Kreisverwaltung+des+Westerwaldkreises",
+    "https://www.dbb.de/suche.html?tx_kesearch_pi1%5BsortByDir%5D=desc&tx_kesearch_pi1%5BsortByField%5D=score&tx_kesearch_pi1%5Bsword%5D=Stadt+K%C3%B6ln",
+    "https://www.dbb.de/mitgliedschaft-service.html",
+    "https://www.dbb.de/beamtinnen-beamte/rechtsprechung/dienstrecht/polizeipraesident-ist-kein-politischer-beamter-lebenszeit-prinzip-geht-vor.html",
+    "https://www.dbb.de/der-dbb/chronik/mitgestaltung-des-dienst-und-besoldungsrechts.html",
+    "https://www.dbb.de/der-dbb/chronik/neubeginn-und-grundlagengesetzgebung.html",
+    "https://www.dbb.de/artikel/in-einer-welt-voller-krisen-wollen-die-menschen-einen-staat-der-funktioniert-und-sie-schuetzt.html",
+    "https://www.dbb.de/arbeitnehmende/rechtsprechung/betriebsverfassungsrecht/wahlen-keine-korrektur.html",
+    "https://www.dbb.de/artikel/hemsing-will-neues-miteinander-fuer-starke-kommunen.html",
+    "https://www.dbb.de/arbeitnehmer/rechtsprechung/kuendigungsrecht/k/kuendigungsgruende-drogendelikte.html",
+    "https://www.dbb.de/suche.html?tx_kesearch_pi1%5Bpage%5D=2&tx_kesearch_pi1%5BresetFilters%5D=0&tx_kesearch_pi1%5BsortByDir%5D=desc&tx_kesearch_pi1%5BsortByField%5D=sortdate&tx_kesearch_pi1%5Bsword%5D=Stadt+K%C3%B6ln",
+    "https://www.dbb.de/feed.rss",
+    "https://www.dbb.de/beamtinnen-beamte.html",
+    "https://www.dbb.de/beamtinnen-beamte/feed.rss",
+    "https://www.dbb.de/arbeitnehmende.html",
+    "https://www.dbb.de/arbeitnehmende/feed.rss",
+    "https://www.dbb.de/politik-positionen.html",
+    "https://www.dbb.de/politik-positionen/feed.rss",
+    "https://www.dbb.de/mitbestimmung.html",
+    "https://www.dbb.de/mitbestimmung/feed.rss",
+    "https://www.dbb.de/artikel/ohne-sichere-finanzierung-keine-intakte-infrastruktur.html",
+    "https://www.dbb.de/artikel/demokratiebildung-braucht-rueckhalt-fuer-lehrkraefte.html",
+    "https://www.dbb.de/artikel/wer-eine-starke-justiz-will-darf-den-vollzug-nicht-vergessen.html",
+    "https://www.dbb.de/artikel/hemsing-junge-menschen-brauchen-nicht-noch-mehr-unsicherheit.html",
+    "https://www.dbb.de/artikel/altersteilzeit-sichern-nicht-auf-kosten-der-arbeitszeit.html",
+    "https://www.dbb.de/artikel/datenschutz-geheimschutz-und-extremwetterlagen.html",
+    "https://www.dbb.de/artikel/november-ausgabe-unseres-tarif-magazins-online.html",
+    "https://www.dbb.de/artikel/an-den-gestank-gewoehnt-man-sich-die-hitze-ist-erbarmungsloser.html",
+    "https://www.dbb.de/artikel/aufgabenkritik-ist-voraussetzung-fuer-stellenabbau.html",
+    "https://www.dbb.de/artikel/menschen-im-dienst-der-menschen.html",
+    "https://www.dbb.de/artikel/europaeische-integration-reker-betont-bedeutung-der-staedte.html",
+    "https://www.dbb.de/artikel/forderung-nach-verbeamtungsstopp-fuer-lehrer-zurueckgewiesen.html",
+    "https://www.dbb.de/artikel/podiumsdiskussion-digitalisierung-veraendert-alles.html",
+    "https://www.dbb.de/artikel/dbb-jahrestagung-2013-der-oeffentliche-dienst-vorbild-und-vorteil-fuer-deutschland.html",
+    "https://www.dbb.de/artikel/in-einer-welt-voller-krisen-wollen-die-menschen-einen-staat-der-funktioniert-und-sie-schuetzt/",
+    "https://www.dbb.de/empfehlen.html?tx_rwform_form%5B_predefined%5D%5Bnews_title%5D=%E2%80%9EIn+einer+Welt+voller+Krisen+wollen+die+Menschen+einen+Staat%2C+der+funktioniert+und+sie+sch%C3%BCtzt%E2%80%9C&tx_rwform_form%5B_predefined%5D%5Bnews_url%5D=https%3A%2F%2Fwww.dbb.de%2Fartikel%2Fin-einer-welt-voller-krisen-wollen-die-menschen-einen-staat-der-funktioniert-und-sie-schuetzt.html&cHash=7d8970fb1706a7133594a3e92bb57d57",
+    "https://www.dbb.de/artikel/wenn-der-staat-die-besten-koepfe-haben-will-dann-muss-er-konkurrenzfaehig-sein.html",
+    "https://www.dbb.de/artikel/investitionen-in-strassen-schulen-und-schutzpolizei-statt-schuldenfetisch.html",
+    "https://www.dbb.de/artikel/silberbach-die-menschen-brauchen-orientierung.html",
+    "https://www.dbb.de/artikel/silberbach-fordert-mehr-anerkennung-und-schutz-fuer-beschaeftigte.html",
+    "https://www.dbb.de/artikel/faeser-wir-haben-eine-starken-und-handlungsfaehigen-staat.html",
+    "https://www.dbb.de/artikel/oeffentlicher-dienst-der-zukunft-agil-vielfaeltig-und-digital.html",
+    "https://www.dbb.de/artikel/der-wettbewerb-um-arbeitskraefte-verschaerft-sich.html",
+    "https://www.dbb.de/artikel/69-prozent-mehr-lohn-fuer-sicherheitskraefte-an-verkehrsflughaefen.html",
+    "https://www.dbb.de/artikel/demokratie-lebt-vom-vertrauen-in-die-institutionen.html",
+    "https://www.dbb.de/artikel/alimentation-regierung-muss-ihre-rechtsstaatliche-pflicht-erfuellen.html",
+    "https://www.dbb.de/artikel/finanzierung-der-infrastruktur-muss-nachhaltig-gesichert-werden.html",
+    "https://www.dbb.de/artikel/geyer-pflegebeduerftigkeit-kann-man-nicht-aufschieben.html",
+    "https://www.dbb.de/artikel/wir-brauchen-einen-handlungsfaehigen-oeffentlichen-dienst.html",
+    "https://www.dbb.de/artikel/wagner-sie-sind-die-zukunft-des-oeffentlichen-dienstes.html"
+  ],
+  "rejected": [
+    {
+      "url": "https://www.dbb.de/",
+      "reason": "listing_page"
+    },
+    {
+      "url": "https://www.dbb.de/suche/?id=2425&tx_kesearch_pi1%5Bpage%5D=1&tx_kesearch_pi1%5BresetFilters%5D=0&tx_kesearch_pi1%5BsortByField%5D=sortdate&tx_kesearch_pi1%5BsortByDir%5D=desc&tx_kesearch_pi1%5Bsword%5D=Stadt+K%C3%B6ln",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dbb.de/suche/?id=2425&tx_kesearch_pi1%5Bpage%5D=1&tx_kesearch_pi1%5BresetFilters%5D=0&tx_kesearch_pi1%5BsortByField%5D=sortdate&tx_kesearch_pi1%5BsortByDir%5D=desc&tx_kesearch_pi1%5Bsword%5D=Kreisverwaltung+des+Westerwaldkreises",
+      "reason": "search_results_page"
+    },
+    {
+      "url": "https://www.dbb.de/suche.html?tx_kesearch_pi1%5BsortByDir%5D=desc&tx_kesearch_pi1%5BsortByField%5D=score&tx_kesearch_pi1%5Bsword%5D=Stadt+K%C3%B6ln",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.dbb.de/mitgliedschaft-service.html",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.dbb.de/beamtinnen-beamte/rechtsprechung/dienstrecht/polizeipraesident-ist-kein-politischer-beamter-lebenszeit-prinzip-geht-vor.html",
+      "reason": "outside_publication_window"
+    },
+    {
+      "url": "https://www.dbb.de/der-dbb/chronik/mitgestaltung-des-dienst-und-besoldungsrechts.html",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.dbb.de/der-dbb/chronik/neubeginn-und-grundlagengesetzgebung.html",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.dbb.de/artikel/in-einer-welt-voller-krisen-wollen-die-menschen-einen-staat-der-funktioniert-und-sie-schuetzt.html",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dbb.de/arbeitnehmende/rechtsprechung/betriebsverfassungsrecht/wahlen-keine-korrektur.html",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.dbb.de/artikel/hemsing-will-neues-miteinander-fuer-starke-kommunen.html",
+      "reason": "outside_publication_window"
+    },
+    {
+      "url": "https://www.dbb.de/arbeitnehmer/rechtsprechung/kuendigungsrecht/k/kuendigungsgruende-drogendelikte.html",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.dbb.de/suche.html?tx_kesearch_pi1%5Bpage%5D=2&tx_kesearch_pi1%5BresetFilters%5D=0&tx_kesearch_pi1%5BsortByDir%5D=desc&tx_kesearch_pi1%5BsortByField%5D=sortdate&tx_kesearch_pi1%5Bsword%5D=Stadt+K%C3%B6ln",
+      "reason": "unknown_publication_date"
+    },
+    {
+      "url": "https://www.dbb.de/beamtinnen-beamte.html",
+      "reason": "listing_page"
+    },
+    {
+      "url": "https://www.dbb.de/arbeitnehmende.html",
+      "reason": "listing_page"
+    },
+    {
+      "url": "https://www.dbb.de/politik-positionen.html",
+      "reason": "listing_page"
+    },
+    {
+      "url": "https://www.dbb.de/mitbestimmung.html",
+      "reason": "listing_page"
+    },
+    {
+      "url": "https://www.dbb.de/artikel/ohne-sichere-finanzierung-keine-intakte-infrastruktur.html",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dbb.de/artikel/demokratiebildung-braucht-rueckhalt-fuer-lehrkraefte.html",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dbb.de/artikel/wer-eine-starke-justiz-will-darf-den-vollzug-nicht-vergessen.html",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dbb.de/artikel/hemsing-junge-menschen-brauchen-nicht-noch-mehr-unsicherheit.html",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dbb.de/artikel/altersteilzeit-sichern-nicht-auf-kosten-der-arbeitszeit.html",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dbb.de/artikel/datenschutz-geheimschutz-und-extremwetterlagen.html",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dbb.de/artikel/november-ausgabe-unseres-tarif-magazins-online.html",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dbb.de/artikel/an-den-gestank-gewoehnt-man-sich-die-hitze-ist-erbarmungsloser.html",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dbb.de/artikel/aufgabenkritik-ist-voraussetzung-fuer-stellenabbau.html",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dbb.de/artikel/menschen-im-dienst-der-menschen.html",
+      "reason": "outside_publication_window"
+    },
+    {
+      "url": "https://www.dbb.de/artikel/europaeische-integration-reker-betont-bedeutung-der-staedte.html",
+      "reason": "outside_publication_window"
+    },
+    {
+      "url": "https://www.dbb.de/artikel/forderung-nach-verbeamtungsstopp-fuer-lehrer-zurueckgewiesen.html",
+      "reason": "outside_publication_window"
+    },
+    {
+      "url": "https://www.dbb.de/artikel/podiumsdiskussion-digitalisierung-veraendert-alles.html",
+      "reason": "outside_publication_window"
+    },
+    {
+      "url": "https://www.dbb.de/artikel/dbb-jahrestagung-2013-der-oeffentliche-dienst-vorbild-und-vorteil-fuer-deutschland.html",
+      "reason": "outside_publication_window"
+    },
+    {
+      "url": "https://www.dbb.de/artikel/in-einer-welt-voller-krisen-wollen-die-menschen-einen-staat-der-funktioniert-und-sie-schuetzt/",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dbb.de/empfehlen.html?tx_rwform_form%5B_predefined%5D%5Bnews_title%5D=%E2%80%9EIn+einer+Welt+voller+Krisen+wollen+die+Menschen+einen+Staat%2C+der+funktioniert+und+sie+sch%C3%BCtzt%E2%80%9C&tx_rwform_form%5B_predefined%5D%5Bnews_url%5D=https%3A%2F%2Fwww.dbb.de%2Fartikel%2Fin-einer-welt-voller-krisen-wollen-die-menschen-einen-staat-der-funktioniert-und-sie-schuetzt.html&cHash=7d8970fb1706a7133594a3e92bb57d57",
+      "reason": "not_an_article"
+    },
+    {
+      "url": "https://www.dbb.de/artikel/wenn-der-staat-die-besten-koepfe-haben-will-dann-muss-er-konkurrenzfaehig-sein.html",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dbb.de/artikel/investitionen-in-strassen-schulen-und-schutzpolizei-statt-schuldenfetisch.html",
+      "reason": "outside_publication_window"
+    },
+    {
+      "url": "https://www.dbb.de/artikel/silberbach-die-menschen-brauchen-orientierung.html",
+      "reason": "outside_publication_window"
+    },
+    {
+      "url": "https://www.dbb.de/artikel/silberbach-fordert-mehr-anerkennung-und-schutz-fuer-beschaeftigte.html",
+      "reason": "outside_publication_window"
+    },
+    {
+      "url": "https://www.dbb.de/artikel/faeser-wir-haben-eine-starken-und-handlungsfaehigen-staat.html",
+      "reason": "outside_publication_window"
+    },
+    {
+      "url": "https://www.dbb.de/artikel/oeffentlicher-dienst-der-zukunft-agil-vielfaeltig-und-digital.html",
+      "reason": "outside_publication_window"
+    },
+    {
+      "url": "https://www.dbb.de/artikel/der-wettbewerb-um-arbeitskraefte-verschaerft-sich.html",
+      "reason": "outside_publication_window"
+    },
+    {
+      "url": "https://www.dbb.de/artikel/69-prozent-mehr-lohn-fuer-sicherheitskraefte-an-verkehrsflughaefen.html",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dbb.de/artikel/demokratie-lebt-vom-vertrauen-in-die-institutionen.html",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dbb.de/artikel/alimentation-regierung-muss-ihre-rechtsstaatliche-pflicht-erfuellen.html",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dbb.de/artikel/finanzierung-der-infrastruktur-muss-nachhaltig-gesichert-werden.html",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dbb.de/artikel/geyer-pflegebeduerftigkeit-kann-man-nicht-aufschieben.html",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dbb.de/artikel/wir-brauchen-einen-handlungsfaehigen-oeffentlichen-dienst.html",
+      "reason": "no_company_mention"
+    },
+    {
+      "url": "https://www.dbb.de/artikel/wagner-sie-sind-die-zukunft-des-oeffentlichen-dienstes.html",
+      "reason": "no_company_mention"
+    }
+  ],
+  "errors": [],
+  "truncated": true,
+  "searches": [
+    {
+      "url": "https://www.dbb.de/suche/?id=2425&tx_kesearch_pi1%5Bpage%5D=1&tx_kesearch_pi1%5BresetFilters%5D=0&tx_kesearch_pi1%5BsortByField%5D=sortdate&tx_kesearch_pi1%5BsortByDir%5D=desc&tx_kesearch_pi1%5Bsword%5D=Stadt+K%C3%B6ln",
+      "company_key": "Stadt Köln",
+      "query": "Stadt Köln",
+      "mechanism": "get_form",
+      "status": "fetched"
+    },
+    {
+      "url": "https://www.dbb.de/suche/?id=2425&tx_kesearch_pi1%5Bpage%5D=1&tx_kesearch_pi1%5BresetFilters%5D=0&tx_kesearch_pi1%5BsortByField%5D=sortdate&tx_kesearch_pi1%5BsortByDir%5D=desc&tx_kesearch_pi1%5Bsword%5D=Kreisverwaltung+des+Westerwaldkreises",
+      "company_key": "Kreisverwaltung des Westerwaldkreises",
+      "query": "Kreisverwaltung des Westerwaldkreises",
+      "mechanism": "get_form",
+      "status": "fetched"
+    }
+  ],
+  "company_keys": [
+    "Stadt Köln",
+    "Kreisverwaltung des Westerwaldkreises"
+  ],
+  "search_mode": "site_search",
+  "articles_examined": 19,
+  "page_coverage": {
+    "search_pages": 2,
+    "content_pages": 50,
+    "search_page_limit": 15,
+    "content_page_limit": 50,
+    "queued_remaining": 119,
+    "queue_limit_reached": false
+  },
+  "documents": [],
+  "requests_attempted": 53,
+  "gewerkschaft": {
+    "name": "dbb",
+    "branches": [
+      "Öffentlicher Dienst"
+    ],
+    "urls": [
+      "https://www.dbb.de"
+    ],
+    "news_urls": [],
+    "url_prefixes": [],
+    "query_values": {},
+    "source_note": "",
+    "source_name": "",
+    "site_search": true
+  }
+}

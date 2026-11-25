@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Lokale Zugangsdaten
+.env
+.env.*
+!.env.example
+
+# Lokale Browseranmeldungen (keine Lieferdaten)
+/data/browser-profiles/
+/output/implisense/browser/profile/
+
+# Alte lokale Datenbanken
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+
+# Lokale Eingaben und gesammelte Dokumente
+!/data/README.md
+!/data/json-schemas/
+!/data/json-schemas/*.schema.json
+/sources/*
+!/sources/README.md
+!/output/README.md
+/output-archives/
+
+# Editor- und Betriebssystemdateien
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

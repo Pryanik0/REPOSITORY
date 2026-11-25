@@ -1,0 +1,20 @@
+{
+  "url": "https://www.sinnwell.ag/robots.txt",
+  "final_url": "https://sinnwell.ag/robots.txt",
+  "redirects": [
+    {
+      "source": "https://www.sinnwell.ag/robots.txt",
+      "target": "http://sinnwell.ag/robots.txt",
+      "status": 301
+    },
+    {
+      "source": "http://sinnwell.ag/robots.txt",
+      "target": "https://sinnwell.ag/robots.txt",
+      "status": 301
+    }
+  ],
+  "status": 200,
+  "content_type": "text/plain; charset=UTF-8",
+  "fetched_at": "2026-11-25T16:32:30.109147+00:00",
+  "text": "user-agent:*\ndisallow:/contao/\ndisallow:/_contao/\n\nsitemap:https://sinnwell.ag/sitemap.xml"
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=3RiyzwQxO_kWEXaGQ2jJX6B1mZl5dkJqhPqdmv-Dm-jpXAe-oMZ1oknahP4WwE7oQeGW8gDre05GObeE9uqrBZF6UVYaU3w7nij7QTo1J2moQPBmbtH7wOKdgAsvLjmsPqWWBdjsh3nsOGhPyS4yoDV3A51lrA7u4GMFomryKmZpw5iB0jX_kXOeuR94I-PCU0vfBaocGdFNlWgYn9egi98rb3nQplMRu9YIKTl2vi9N5Mkr",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Scheidt-Bachmann-64c73604\\bekanntmachungen\\publication-1\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Scheidt-Bachmann-64c73604\\bekanntmachungen\\publication-1\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Scheidt-Bachmann-64c73604\\bekanntmachungen\\publication-1\\publication.txt",
+    "index": 1,
+    "category": "bekanntmachungen",
+    "company": "Scheidt & Bachmann IoT Solutions GmbH, Mönchengladbach",
+    "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2026 bis zum 31.12.2026",
+    "documents_path": "output\\unternehmensregister\\Scheidt-Bachmann-64c73604\\bekanntmachungen\\publication-1\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=htK9Jlk75NDj72HFz5V9efXXk9g-2g0gxNlOrTpnbE203z0p8SLepkPyStQpt3T_FqsgJ8hFkuFICeiJUMzxpzCtwLstuDijxaDvybNRVRd7rY-ITkzlJjc068xrD726jG58YscjSOUPfHzz18jsaJGexkuBF-Xr5cfX2lIAS4c1i9tikcjIZmILFk5-ESt6pVJbrJmzLY7afUieGnAYtmg32fEhWwBdXIOgXT4Pn7ivJYjc",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Scheidt-Bachmann-64c73604\\bekanntmachungen\\publication-2\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Scheidt-Bachmann-64c73604\\bekanntmachungen\\publication-2\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Scheidt-Bachmann-64c73604\\bekanntmachungen\\publication-2\\publication.txt",
+    "index": 2,
+    "category": "bekanntmachungen",
+    "company": "Scheidt & Bachmann Service GmbH, Mönchengladbach",
+    "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2026 bis zum 31.12.2026",
+    "documents_path": "output\\unternehmensregister\\Scheidt-Bachmann-64c73604\\bekanntmachungen\\publication-2\\documents.json"
+  },
+  {
+    "publication_url": "https://www.unternehmensregister.de/de/publication?payload=qAAv5QDuTtqm8VTYPJeBkkxeFIP0sFToAI0ZZHuyLzgmxNTz-tvkjPkPJ7frAFipHuCMtm8A6kW1M5GcjI1Ni_nSFqMZ9NEgABzbNaroODh-JAIuvPcE6ETDjUHnli9vcqVwLjHXbU5sg3ism3MDb1jeSU-OYnp9ryj5xAa7zafEDUkZhrEha4HdRdlGji7T8f6zQgpWbREjlISZ6Q6j-wDmm_mZ1oVM59c375657MwKlobP",
+    "status": "downloaded",
+    "files": [
+      {
+        "path": "output\\unternehmensregister\\Scheidt-Bachmann-64c73604\\bekanntmachungen\\publication-3\\publication.html",
+        "original_name": "publication.html"
+      }
+    ],
+    "warnings": [],
+    "diagnostic_html_path": "output\\unternehmensregister\\Scheidt-Bachmann-64c73604\\bekanntmachungen\\publication-3\\diagnostic.html",
+    "text_path": "output\\unternehmensregister\\Scheidt-Bachmann-64c73604\\bekanntmachungen\\publication-3\\publication.txt",
+    "index": 3,
+    "category": "bekanntmachungen",
+    "company": "Scheidt & Bachmann Signalling Systems GmbH, Mönchengladbach",
+    "title": "§§ 264 Abs. 3, 264b HGB zum Geschäftsjahr vom 01.01.2026 bis zum 31.12.2026",
+    "documents_path": "output\\unternehmensregister\\Scheidt-Bachmann-64c73604\\bekanntmachungen\\publication-3\\documents.json"
+  }
+]
